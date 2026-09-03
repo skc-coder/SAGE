@@ -13,6 +13,14 @@
   - Committed and pushed to remote branch `v5`.
 
 
+
+### [2026-09-03T09:41:00+05:30] - Quartz 5 Vercel Deployment Configuration
+- **User Request**: Setup Vercel deployment for Quartz 5.
+- **Implementation**:
+  - Created `vercel.json` with `"cleanUrls": true` to fix trailing `.html` extension URL routing.
+  - Verified `quartz.config.yaml` configuration and completed local build check (`npx quartz build`).
+  - Committed `vercel.json` and pushed changes to `origin/v5`.
+
 ---
 
 ## Overall Plan & Roadmap
