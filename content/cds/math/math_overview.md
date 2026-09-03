@@ -9,6 +9,7 @@ tags: [cds, elementary-mathematics, subject]
 
 ## Topics & Notes
 
+- [[cds/math/notes/formulas|Master Formulas (AP, GP, HP & Summations)]]
 - [[cds/math/notes/numbers|Number System]]
 
 ## Variations
