@@ -1,0 +1,9710 @@
+
+--- PDF PAGE 399 ---
+Trigonometry is the branch of Mathematics which deals with t he measurements of sides and angles of
+triangles and the problems based on these angles.
+ANGLE
+An angle is considered as the figure obtained by rotating a gi ven ray about its
+endpoint. The original ray is called the initial side and the ray into which the
+initial side rotates is called terminal side. In figure, OA is initial side and OB is the
+terminal side of ∠ AOB. The point O is called its vertex.
+QUADRANTS
+Let XOX ′and YOY ′be two lines at right angles in the plane of paper. These
+two perpendicular lines divide the plane of the paper into fo ur equal parts, these
+four parts are known as four quadrants and lines XOX′and YOY ′are known as
+X-axis and Y-axis, respectively.
+The parts XOY YOX X OY, , ′ ′ ′ and ′Y OX are known as 1st, 2nd, 3rd and 4th
+quadrant, respectively.
+Relation between Angles, Radius and Arc Length
+If l ’ is the length of a circle of radius r. And this arc subtends an angle θ radians
+at the centre of the circle, then
+l l= ⇒ =r
+r
+θ θ
+194 CDS Pathfinder
+20
+MEASUREMENTS OF
+ANGLES AND
+TRIGONOMETRIC RATIOS
+Generally (13-14) questions have been asked from this chapter . Generally questions asked from this
+chapter are based on the trigonometric identities and formulae. So, detailed study of this chapter
+will help you to score in exam as good number of questions have been asked from this chapter .
+--- PDF PAGE 400 ---
+Relation between Degree and Radian
+A circle subtends an angle, at the centre whose radian
+measure is 2π and its degree measure is 360°. It follows
+that
+2π radian = °360
+π radian = °180
+∴ 1 radian
+= 180
+π
+degree = ° ′ ′ ′57 16 22 (approx)
+1 degree = π
+180
+radian = 0 01746. rad (approx)
+Note 1 radian is written as 1c.
+EXAMPLE 1. The radian measure corresponding to
+− °22 30 ′is
+a. π c
+8 b. − π c
+8 c. π c
+4 d. − π c
+4
+Sol. b. As, 180° = π
+∴ − ° ′ = − + 
+ 
+22 30 22 1
+2
+= − 
+ 
+°45
+2
+= − ×
+ 
+ = −45
+2 180 8
+π π c c
+IMPORTANT POINTS
+G The angle between two consecutive digits in a clock is
+30
+6
+radian° = 
+ 
+π .
+G The hour hand rotates through an angle of 30° in one
+hour i.e.
+1
+2
+
+ 
+
+°
+in one minute.
+G The minute hand rotates through an angle of 6° in one
+minute.
+EXAMPLE 2. If an arc 24π cm long of a circle
+subtends an angle of 72° at its centre, then the
+radius of the circle is
+a. 30 cm b. 40 cm c. 50 cm d. 60 cm
+Sol. d. Given, length of arc ( ) cml = ( )24π
+Angle ( )θ π π= ° = × 
+ 
+ = 
+ 
+72 72 180
+2
+5
+c c
+Let r be the radius of circle
+Since,
+θ = l
+r ⇒ r = = =l
+θ
+π
+π
+24
+2
+5
+60 cm
+EXAMPLE 3. Consider the following statements:
+I. The angular measure in radian of a circular arc of
+fixed length subtending at its centre decreases, if
+the radius of the arc increases.
+II. 1800° is equal to 5π radian.
+Which of the statements given above is/are correct ? e 2012 I
+a. Only I b. Only II
+c. Both I and II d. Neither I nor II
+Sol. a. I. We know that,
+Radius = arc
+angle (given, arc length is constant)
+∴ Radius angle∝ 1
+So, angular measure in radian decreases, if the
+radius of the arc increases.
+II.
+1800 180 10°× ° =π π
+Hence, only statement I is correct.
+EXAMPLE 4. The angle between the hour hand and
+the minute hand of a clock at half-past three is
+a. 54° b. 63° c. 75° d. 85°
+Sol. c. Angle traced by hour hand in 1 hr = °30
+Angle traced by hour hand in 3 1
+2 30 7
+2hr = ×
+ 
+
+°
+= °105
+Angle traced by minute hand in 1 min = °6
+Angle traced by minute hand in 30 min = × ° = °6 30 180
+Angle between two hands = °− ° = °180 105 75
+TRIGONOMETRIC RATIOS
+The ratio of the sides of a right
+angled triangle with respect to its
+angle are called trigonometric ratios.
+The side opposite to the right angle is
+called the hypotenuse. Relative to the
+angle θ, the side opposite to angle θ is
+caused the prependicular side and the remaining side is
+called base.
+(i) For angle θ, perpendicular = BC, base = AB
+and hypotenuse = AC
+(ii) For angle α , perpendicular = AB, base = BC
+and hypotenuse = AC
+Trigonometric ratios of θ in right angled ∆ ABC are
+defined below
+sin θ = = =Perpendicular
+Hypotenuse
+BC
+AC
+P
+H
+cos θ = = =Base
+Hypotenuse
+AB
+AC
+B
+H
+tan θ = = =Perpendicular
+Base
+BC
+AB
+P
+B
+sec θ = = =Hypotenuse
+Base
+AC
+AB
+H
+B
+cot θ = = = Base
+Perpendicular
+AB
+BC
+B
+P
+cosec Hypotenuse
+Perpendicular
+θ = = = AC
+BC
+H
+P
+195
+--- PDF PAGE 401 ---
+Relation Between T-ratios
+(i) sin
+cos
+θ
+θ
+= 1
+ec
+(ii) cos
+sec
+θ
+θ
+= 1 (iii) tan
+cot
+θ
+θ
+= 1
+(iv) tan sin
+cos
+θ θ
+θ
+= (v) cot cos
+sin
+θ θ
+θ
+=
+EXAMPLE 5. If sin ,θ = 8
+17 then the other
+trigonometric ratios cos , tan , , , cotθ θ θ θ θcosec sec are
+a. 15
+17
+8
+15
+17
+8
+17
+15
+15
+8, , , , b. − −15
+17
+8
+15
+17
+8
+17
+15
+8
+15, , , ,
+c. 17
+15
+15
+8
+8
+17
+15
+17
+8
+15, , , , d. None of these
+Sol. a. As, sin θ = =8
+17
+perpendicular
+hypotenuse
+In right angled ∆ PQR,
+∴ PQ QR PR2 2 2+ = ⇒ PQ PR QR2 2 2= −
+⇒ PQ PR QR= − 2 2 = 17 82 2–
+= − 289 64 = = 225 15
+∴ cos θ = =PQ
+PR
+15
+17, tan θ = =RQ
+PQ
+8
+15
+cosec θ = =PR
+RQ
+17
+8 , sec θ = =PR
+PQ
+17
+15
+and cot θ = =PQ
+RQ
+15
+8
+EXAMPLE 6. If cot ( ) ,A = −
+1
+2 1 then the value of
+sin cosA A is
+a. 1
+4 b. 1
+2
+c. 1
+2
+d. 2
+4
+Sol. d. /c81 cot A = − =1
+2 1
+base
+perpendicular
+⇒ tan A = −2 1
+1 /c81tan cotA A=
+ 
+1
+In right angled ∆ ABC,
+∴ AC AB BC2 2 2= +
+⇒
+AC AB BC= + 2 2
+= + −1 2 12 2 ( ) = + + − = −1 2 1 2 2 4 2 2
+∴ sin A BC
+AC= = −
+−
+2 1
+4 2 2
+and cos A AB
+AC= =
+−
+1
+4 2 2
+∴ sin cosA A = −
+−
+⋅
+−
+= −
+−
+2 1
+4 2 2
+1
+4 2 2
+2 1
+4 2 2
+= −
+− = × =2 1
+2 2 2 1
+1
+2 2
+2
+2
+2
+4( )
+TRIGONOMETRIC IDENTITIES
+A statement of equality involving trigonometric ratios of
+an angle is called a trigonometric identity. It is valid for
+all values of the angles. The three important identities
+are
+1. sin cos2 2 1θ θ+ = 2. 1 2 2+ =tan secθ θ
+3. 1 2+ =cot θ θ cosec 2
+Note sin cos
+2 2A B+ cannot be equal to 1 because the angles are
+different.
+EXAMPLE 7. What is the value of tan sin
+sin ?A A
+A
+−
+3 e 2013 I
+a. sec
+cos
+A
+A1− b. sec
+cos
+A
+A1 2+
+c. sec
+cos
+A
+A1+ d. None of these
+Sol. c. tan sin
+sin
+sin
+cos sin
+sin
+A A
+A
+A
+A A
+A
+− =
+−
+3 3 = − × +
++
+( cos )
+cos sin
+( cos )
+( cos )
+1 1
+12
+A
+A A
+A
+A
+= −
++ = +
+1
+1 1
+2
+2
+2
+2
+cos
+cos sin ( cos )
+sin
+cos sin ( cos )
+A
+A A A
+A
+A A A
+= ⋅ + = +
+1 1
+1 1cos cos
+sec
+cosA A
+A
+A
+Values of Trigonometric Ratios for Some Specific Angles
+Angles 0° 30° 45° 60° 90°
+sin θ 0
+1
+2
+1
+2
+3
+2 1
+cos θ 1 3
+2
+1
+2
+1
+2 0
+tan θ 0
+1
+3 1 3 ∞
+cot θ ∞ 3 1
+1
+3 0
+sec θ 1
+2
+3 2 2 ∞
+cosec θ ∞ 2 2
+2
+3 1
+EXAMPLE 8. What is the value of sin cot3 60 30° °
+− °+ ° °− °2 45 3 60 45 602 2 2sec cos tan tan ?
+a. 35
+8 b. –35
+8 c. −11
+8 d. 11
+8
+Sol. b. sin3 2 260 30 2 45 3 60 45 60° °− °+ ° °− °cot sec cos tan tan 2
+= 
+ 
+ × − × + × × −3
+2 3 2 2 3 1
+2 1 3
+3
+2 2 2( ) ( ) ( )
+= − + − = − + −9
+8 4 3
+2 3 9 32 12 24
+8
+= − = −21 56
+8
+35
+8
+196 CDS Pathfinder
+--- PDF PAGE 402 ---
+Sign of trigonometric ratio in different
+quadrants
+EXAMPLE 9. If 0 4< < θ π , then what is 1 2− sin cosθ θ
+equal to? e 2014 II
+a. cos sinθ θ− b. sin cosθ θ−
+c. ± −(cos sin )θ θ d. cos sinθ θ
+Sol. a. Given, 0 4< < θ π , then 1 2− sin cosθ θ
+= + −sin cos sin cos2 2 2θ θ θ θ
+[ sin cos ]/c81 2 2 1θ θ+ =
+= − (cos sin )θ θ 2
+/c810 4< < > −
+
+
+θ π θ θ θ θ,cos sin , so we take (cos sin ) 2
+= −cos sinθ θ
+Domain and Range of Trigonometrical Functions
+Trigonometric
+Ratio
+Domain Range
+sin θ R [ , ]− 1 1
+cos θ R [ , ]− 1 1
+tan θ R n n I~ ( ) ,2 1
+2
++ ∈
+
+
+
+
+
+π ( , )− ∞ ∞ = R
+cot θ R n n I~ { , }π ∈ ( , )− ∞ ∞ = R
+sec θ
+R n n I~ ( ) ,2 1
+2
++ ∈
+
+
+
+
+
+π ( , ] [ , )− ∞ − ∪ ∞1 1
+cosec θ R n n I~ { , }π ∈ ( , ] [ , )− ∞ − ∪ ∞1 1
+EXAMPLE 10. Which one of the following statements
+is true in respect of the expression sin sin31 32°+ ° ?
+a. Its value is 0 b. Its value is 1
+c. Its value is less than 1 d. Its value is greater than 1
+Sol. d. We know that, sin 30 1
+2° =
+Value of sin increases 0° to 90°
+∴ sin sin31 30° > ° and sin sin32 30° > °
+⇒
+sin 31 1
+2° > and
+sin 30 1
+2° >
+Adding both
+∴
+sin sin31 31 1
+2
+1
+2°+ ° ⇒ +
+⇒ sin sin31 32 1°+ ° >
+IMPORTANT POINTS
+G | sin |θ ≤ 1 G | cos |θ ≤ 1 G sec θ ≥ 1
+G sec θ ≤ − 1 G cosec θ ≥ 1 G cosec θ ≤ − 1
+G tan θ and cot θ can take any value.
+TRIGONOMETRIC RATIOS
+OF ALLIED ANGLES
+Two angles are said to be allied when their sum or
+difference is either zero or a multiple of 90°.
+The angles like − ° ± ° ± ° ±θ θ θ θ, , ,90 180 360 etc., are
+angles allied to the angle θ, if θ is measured in degrees.
+Angle sin θ cos θ tan θ cot θ sec θ cosec θ
+−θ − sinθ cosθ − tanθ − cotθ sec θ − cosec θ
+90°−θ cosθ sinθ cotθ tanθ cosec θ sec θ
+90°+ θ cosθ − sinθ − cotθ − tanθ − cosec θ sec θ
+180°−θ sinθ − cosθ − tanθ − cotθ − sec θ cosec θ
+180°+ θ − sinθ − cosθ tanθ cotθ − sec θ − cosec θ
+270°−θ − cosθ − sinθ cotθ tanθ − cosec θ − sec θ
+270°+ θ − cosθ sinθ − cotθ − tanθ cosec θ − sec θ
+360°−θ − sinθ cosθ − tanθ − cotθ sec θ − cosec θ
+360°+ θ sinθ cosθ tanθ cotθ sec θ cosec θ
+197
+II Quadrant
+(90°< <180°)θ θ
+θ
+sin
+and cosec are positive.
+All other trigonometric
+ratios are negative.
+I Quadrant (0< <90°)θ
+All trigonometric
+ratios are positive.
+III Quadrant
+(180°< <270°)θ θ
+θ
+tan
+and cot are positive.
+All other trigonometric
+ratios are negative.
+IV Quadrant
+(270°< < 360°)θ θ
+θ
+cos
+and sec are positive.
+All other trigonometric
+ratios are negative.
+XX ´
+Y´
+Y
+The behaviour of the trigonometric function in different qu adrants are defined in following table.
+Trigonometric
+Ratio
+Ist Quadrant
+(θ increase from 0 to π /2 )
+IInd Quadrant
+(θ increase from π /2 to π)
+III Quadrant
+(θ increase from π to 3π /2 )
+IVth Quadrant
+(θ increase from 3
+2
+π to 2 π)
+sin θ Increases from 0 to 1 Decreases from 1 to 0 Decreases from 0 to – 1 Increases from –1 to 0
+cos θ Decreases from 1 to 0 Decreases from 0 to –1 Increases from –1 t o 0 Increases from 0 to 1
+tan θ Increases from 0 to ∞ Increases from – ∞ to 0 Increases from 0 to ∞ Increases from – ∞ to 0
+cot θ Decreases from ∞ to 0 Decreases from 0 to – ∞ Decreases from ∞ to 0 Decreases from 0 to – ∞
+sec θ Increases from 1 to ∞ Increases from – ∞ to –1 Decreases from –1 to – ∞ Decreases from ∞ to 1
+cosec θ Decreases from ∞ to 1 Increases from 1 to ∞ Increases from – ∞ to –1 Decreases from –1 to – ∞
+--- PDF PAGE 403 ---
+EXAMPLE 11. What is the value of
+sec( )sin sec90 45°− °θ θ ?
+a. 1 b. 3
+2 c. 2 d. 3
+Sol. c. Given, sec ( ) sin sec90 45°− °θ θ = × ×cosec θ θ sin 2
+= × ×1 2sin sinθ θ = 2
+EXAMPLE 12. The value of
+sin cos
+sin cos
+135 120
+135 120
+° − °
+° + ° is
+a. 2 3 2+ b. 2 3 2− c. 3 2 2− d. 3 2 2+
+Sol. d. sin sin ( )135 180 45° = ° − ° = ° =sin 45 1
+2
+cos cos ( )120 180 60° = ° − ° = − ° = −cos 60 1
+2
+∴
+sin cos
+sin cos
+135 120
+135 120
+1
+2
+1
+2
+1
+2
+1
+2
+° − °
+° + ° =
+− −
+ 
+
++ −
+ 
+
+= +
+− × +
++
+2 1
+2 1
+2 1
+2 1
+= +
+− = + +( ) 2 1
+2 1 2 1 2 2
+2
+= +3 2 2
+Sum, Difference and Product Formulae
+• sin ( ) sin cos cos sinA B A B A B+ = +
+• sin ( ) sin cos cos sinA B A B A B− = −
+• cos ( ) cos cos sin sinA B A B A B+ = −
+• cos ( ) cos cos sin sinA B A B A B− = +
+• tan ( ) tan tan
+tan tan
+A B A B
+A B
++ = +
+−1
+• tan ( ) tan tan
+tan tan
+A B A B
+A B
+− = −
++1
+• cot ( ) cot cot
+cot cot
+A B A B
+A B
++ = −
++
+1
+• cot ( ) cot cot
+cot cot
+A B A B
+B A
+− = +
+−
+1
+• sin ( ) sin ( ) sin sinA B A B A B+ − = − 2 2
+= −cos cos2 2B A
+• cos ( ) cos ( )A B A B+ −
+= − = −cos sin cos sin2 2 2 2A B B A
+• 2 sin cos sin ( ) sin ( )A B A B A B= + + −
+• 2 cos sin sin ( ) sin ( )A B A B A B= + − −
+• 2 cos cos cos ( ) cos ( )A B A B A B= + + −
+• 2 sin sin cos ( ) cos ( )A B A B A B= − − +
+• sin sin sin ( ) cos ( )A B A B A B+ = + ⋅ −2
+2 2
+• sin sin sin ( ) cos ( )A B A B A B− = − ⋅ +2
+2 2
+• cos cos cos ( ) cos ( )A B A B A B+ = + ⋅ −2
+2 2
+• cos cos sin ( ) sin ( )A B A B A B− = − + ⋅ −2
+2 2
+= + ⋅ −2
+2 2
+sin ( ) sin ( )A B B A
+• tan tan sin ( )
+cos cos
+A B A B
+A B
++ = +
+• tan tan sin ( )
+cos cos
+A B A B
+A B
+− = −
+• cot cot sin ( )
+sin sin
+A B A B
+A B
++ = +
+• cot cot sin ( )
+sin sin
+A B B A
+A B
+− = −
+EXAMPLE 13. If A B− = π
+3 , then the value of
+cos cos sin sinA B A B + is
+a. 1/2 b. 1
+c. 3/2 d. None of these
+Sol. a. cos cos sin sinA B A B + = − cos ( )A B
+= 
+ 
+cos π
+3
+= 1
+2
+/c81A B− =
+ 
+π
+3
+EXAMPLE 14. The value of
+3 23 23
+2
+cos –sin° ° is
+a. cos 7° b. sin 53° c. cos 53° d. sin 7°
+Sol. c. 3 23 23
+2
+cos sin° − ° = ° °3
+2 23 1
+2 23cos – sin
+= ° ° ° °cos cos – sin sin30 23 30 23
+= ° + ° = °cos ( ) cos30 23 53
+[ cos ( ) cos cos – sin sin ]/c81 A B A B A B+ =
+EXAMPLE 15. The value of
+tan tan
+tan tan
+47 43
+1 47 43
+° + °
+− ° ° is
+a. 1 b. ∞
+c. 0 d. −1
+Sol. b. /c81 tan tan
+tan tan tan ( )A B
+A B A B+
+− = +1 ⇒ tan tan
+tan tan
+47 43
+1 47 43
+° + °
+− ° °
+= ° + °tan ( )47 43 = ° = ∞tan 90
+EXAMPLE 16. The value of sin sin sin sin20 40 60 80° ° ° °
+is
+a. 1
+2
+b. 3
+4 c. 1
+8 d. 3
+16
+198 CDS Pathfinder
+--- PDF PAGE 404 ---
+Sol. d. sin sin sin sin20 40 80 60° ° ° °
+= ° ° ° °sin [sin sin ]sin60 80 40 20
+= ° ° °3
+2 80 40 20[sin sin ]sin
+= × ° ° °3
+2
+1
+2 2 80 40 20[ sin sin ]sin
+= °− ° − ° + ° °3
+4 80 40 80 40 20[cos( ) cos( )]sin
+= °− ° °3
+4 40 120 20[cos cos ]sin
+= °− − 
+ 
+
+
+
+ °3
+4 40 1
+2 20cos sin
+/c81 cos 120 1
+2° = −
+ 
+
+= °+ 
+
+
+ °3
+4 40 1
+2 20cos sin
+= °+ ° − °− ° + °3
+8 40 20 40 20 20[sin( ) sin( ) sin ]
+= °− °+ °3
+8 60 20 20[sin sin sin ]
+= × ° = × =3
+8 60 3
+8
+3
+2
+3
+16sin
+EXAMPLE 17.
+cos cos cos
+sin sin sin
+4 3 2
+4 3 2
+x x x
+x x x
++ +
++ + is equal to
+a. cot 3x b. tan 3x c. cot x d. cot 2x
+Sol. a. cos cos cos
+sin sin sin
+4 3 2
+4 3 2
+x x x
+x x x
++ +
++ + = + +
++ +
+(cos cos ) cos
+(sin sin ) sin
+4 2 3
+4 2 3
+x x x
+x x x
+=
++
+ 
+ −
+ 
+ +
++
+
+2 4 2
+2
+4 2
+2 3
+2 4 2
+2
+cos cos cos
+sin
+x x x x x
+x x
+ 
+ −
+ 
+ +cos sin4 2
+2 3x x x
+= ⋅ +
+⋅ +
+2 3 3
+2 3 3
+cos cos cos
+sin cos sin
+x x x
+x x x
+= +
++
+cos ( cos )
+sin ( cos )
+3 2 1
+3 2 1
+x x
+x x = cot 3x
+Trigonometric Ratios of Multiple Angles
+• sin sin cos tan
+tan
+2 2 2
+1 2θ θ θ θ
+θ
+= =
++
+• cos cos sin cos2 2 1 2 2 2θ θ θ θ= − = −
+= −1 2 2sin θ = −
++
+1
+1
+2
+2
+tan
+tan
+θ
+θ
+• 1 2
+2
+1 2
+2
+2 2+ = − =cos cos cos sinθ θ θ θand
+• tan tan
+tan
+2 2
+1 2θ θ
+θ
+=
+−
+• sin sin sin3 3 4 3θ θ θ= −
+• cos cos cos3 4 3 3θ θ θ= − • tan tan tan
+tan
+3 3
+1 3
+3
+2θ θ θ
+θ
+= −
+−
+EXAMPLE 18. The value of 3 15 4 15 3sin sin° − ° is
+a. 1 b. 1
+2
+c. 1
+2
+d. 0
+Sol. c. As, 3 4 3 3sin sin sinθ θ θ− =
+So, 3 15 4 15 3 15 3sin sin sin ( )° − ° = ° = ° sin 45 = 1
+2
+Trigonometric Ratios of Submultiple Angles
+• sin sin cosθ θ θ= 2
+2 2
+• cos cos sinθ θ θ= − 2 2
+2 2
+= −2
+2
+12cos θ = −1 2
+2
+2sin θ
+• 1
+2
+− =cos
+sin
+tanθ
+θ
+θ • 1
+2
++ =cos
+sin
+cotθ
+θ
+θ
+• 1
+1 2
+2−
++
+=cos
+cos
+tanθ
+θ
+θ
+• 1
+1 2
+2+
+−
+=cos
+cos
+cotθ
+θ
+θ
+• sin
+tan
+tan
+θ
+θ
+θ=
++
+2
+2
+1
+2
+2
+• cos
+tan
+tan
+θ
+θ
+θ=
+−
++
+1
+2
+1
+2
+2
+2
+Maximum and Minimum Values
+of Trigonometrical Functions
+We know that, − ≤ ≤1 1 sin θ , − ≤ ≤1 1 cos θ
+Maximum and minimum value of a trigonometrical
+function of the form a bsin cosθ θ± are
+a b2 2+
+and − + a b2 2 , respectively.
+EXAMPLE 19. The maximum value and minimum
+value of 8 4 2sin cos cosθ θ θ + is
+a. 4 and −4 b. 16 and −16
+c. 4 2 and −4 2 d. None of these
+Sol. c. Here, 8 4 2sin cos cosθ θ θ + = + 4 2 4 2sin cosθ θ
+So, maximum value = + =4 4 4 22 2
+and minimum value = − + = −4 4 4 22 2
+EXAMPLE 20. Solve cos sinθ θ+ = 2, then the value
+of θ is
+a. π/3 b. π/4 c. π/6 d. π/2
+Sol. b. cos sinθ θ+ = 2 , cos sinθ θ
+2 2 1+ =
+(/c81dividing throughout by 2)
+⇒ cos cos sin sinθ θ 45 45 1° + ° =
+cos ( ) cosθ − ° = = °45 1 0
+∴ θ − ° = 45 0 ⇒ θ π = ° =45 /4
+199
+--- PDF PAGE 405 ---
+EXAMPLE 21. The value of φ for maximum value of
+sin cos3 3φ φ+ is
+a. 2 b. 90° c. 1 d. 15°
+Sol. d. sin cos3 3φ φ+ = + 
+ 
+2 1
+2 3 1
+2 3cos sinφ φ
+= ° + °2 45 3 45 3(sin cos cos sinφ φ)
+= ° +2 45 3sin ( ) φ
+∴ The maximum value occurs when
+sin ( ) sin45 3 1 90° + = = °φ
+∴ 45 3 90° + = °φ ⇒ φ = ° 15
+Properties of Triangle
+1. Circumcircle of a triangle The
+circle passing through the vertices
+of a ∆ ABC is called circumcircle.
+Its radius R is called the
+circumradius and its centre is
+known as circumcentre.
+Here,
+R a
+A
+b
+B
+c
+C
+= = =
+2 2 2sin sin sin
+2. Sine rule In a ∆ ABC, if a, b, c be
+the three sides opposite to the
+angles A, B, C respectively, then
+a
+A
+b
+B
+c
+Csin sin sin
+= =
+3. Cosine rule In a ∆ ABC, if a, b, c be the sides
+opposite to angles A, B and C respectively, then
+cos ,A b c a
+bc
+= + −2 2 2
+2
+cos B c a b= + −2 2 2 and
+cos C a b c
+ab
+= + −2 2 2
+2
+EXAMPLE 22. A triangle ABC is inscribed in a circle.
+If sum of the squares of sides of the triangle is equal
+to twice the square of the diameter, then
+sin sin sin
+2 2 2A B C+ + is equal to
+a. 2 b. 3 c. 4 d. None of these
+Sol. a. Let the radius of inscribed circle be R.
+∴ R a
+A
+b
+B
+c
+C= = =2 2 2sin sin sin
+⇒ sin , sinA a
+R B b
+R= =2 2 and sinC c
+R= 2
+sin sin sin2 2 2A B C+ + = + +a b c
+R
+2 2 2
+24
+⇒ sin2
+2
+24A a
+R= , sin2
+2
+24B b
+R= and sin2
+2
+24C c
+R=
+According to the question,
+a b c R R2 2 2 2 2 2 2 8+ + = × =
+∴ sin sin sin2 2 2
+2
+2
+8
+4 2A B C R
+R+ + = =
+200 CDS Pathfinder
+A
+B
+C
+a
+b
+c
+R
+C
+b c
+a B
+A
+1. A unit radian is approximately equal to
+(a) 57° 17′43′′ (b) 57° 16′22′′
+(c) 57° 17′47′′ (d) 57° 17′49′′
+2. Find the radian measure corresponding to the
+degree − ° ′47 30 .
+(a)
+− 19
+72
+π rad (b)
+17
+72
+π rad
+(c) 13
+72
+π rad (d) −15
+72
+π rad
+3. The length of a pendulum is 60 cm. The angle
+through which it swings when its tip describes
+an arc of length 16.5 cm is
+(a) 15 30° ′ (b) 15 45° ′ (c) 16 15° ′ (d) 16 45° ′
+4. A railway train is moving on a circular curve of
+radius 1500 m at a speed of 90 km/h. Through
+what angle has it turned in 11 seconds?
+(a) 12° (b) 16 30° ′ (c) 10 30° ′ (d) 11 40° ′
+5. The angle between the minute hand and the
+hour hand of a clock when the time is 7:35 pm is
+(a) 16 45° ′ (b) 17 30° ′ (c) 18 15° ′ (d) 19 30° ′
+6. When do the hands of a clock coincide between
+5 pm and 6 pm?
+(a) 5:30 pm (b) 5:27:16 pm
+(c) 5:32:16 pm (d) 5:28:56 pm
+7. If
+sin A = 1
+3
+, then cos tan secA A A A⋅ + ⋅cosec is
+equal to
+(a)
+16 2 3
+8
++ (b) 4 2 3
+8
++
+(c) 3 2
+4
++ (d) 3 1
+8
+−
+8. The value of cos sin15 15° − ° is equal to
+(a) 1
+3
+(b)
+1
+2
+(c) 1
+2
+(d) 3
+2
+PRACTICE EXERCISE
+--- PDF PAGE 406 ---
+9. If 3 4tanθ = , then 1
+1
+−
++
+sin
+sin
+θ
+θ
+is equal to
+(a)
+1
+2
+(b) 2
+3
+(c) 1
+3
+(d) None of these
+10. If tan A = 1 and
+tan B = 3, then
+cos cos sin sinA B A B⋅ − ⋅ is equal to
+(a) 1 3
+2 2
++ (b) 1 3
+2 2
+− (c) 2 2
+3
+(d) 1
+11. The value of cosec2 θ θ− +2 2sin is always
+(a) less than zero (b) non-negative
+(c) zero (d) 1
+12. What is the value of
+sin sin sin
+2 2 215 20 25° + ° + °+ /c76+ °sin2 75 ?
+(a) 0 (b) 13
+2
+(c) 6 (d) 11
+2
+13. What is the value of
+5 75 77 2 13 15
+15 77
+7 81sin sin cos cos
+cos sin
+sin
+cos
+° ° + ° °
+° °
+− °
+9°
+?
+(a) − 1 (b) 0 (c) 1 (d) 2
+14. What is log (tan ) log (tan ) log (tan )1 2 3° + ° + °
++ + °/c76 log (tan )89 equal to?
+(a) 0 (b) 1 (c) 2 (d) − 1
+15. If tan
+tan
+θ
+θ
++ = 1 2, then the value of
+tan
+tan
+2
+2
+1θ
+θ
++ is equal to
+(a) 6 (b) 4 (c) 2 (d) 3
+16. If secθ = 13
+5
+, then 2 3
+4 9
+sin cos
+sin cos
+θ θ
+θ θ
+−
+−
+is equal to
+(a) 1 3 / (b) − 3 (c) 3 (d) 3
+17. sin ( ) cos ( )45 45° + − ° −A A is equal to
+(a) 1 2 / (b) 1 (c) 0 (d) 2
+18. What is 1
+1
++
+−
+sin
+sin
+θ
+θ
+equal to?
+(a) sec tanθ θ− (b) sec tanθ θ+
+(c) cos cotec θ θ+ (d) cos cotec θ θ−
+19. sin ( ) sin ( ) cos ( ) cos ( )n A n A n A n A+ − + + −1 1 1 1
+is equal to
+(a) sin 2 A (b) cos 2 A (c) tan 2 A (d) cot 2 A
+20. The value of cos sin
+cos sin
+11 11
+11 11
+° + °
+° − °
+is
+(a) tan 56° (b) tan 34° (c) cot 56 ° (d) tan 11°
+21. If sinθ = −
++
+a b
+a b
+2 2
+2 2 , then tanθ is equal to
+(a) a b
+ab
+2 2
+2
++ (b) 2
+2 2
+ab
+a b−
+(c) a b
+ab
+2 2
+2
+− (d) ab
+a b2 2+
+22. If cosθ = 0.96, then 1 1
+sin tanθ θ
++ is equal to
+(a) 0.98 (b) 3 (c) 4 (d) 7
+23. If 0 45< < °x and 45 90° < < °y , then which one of
+the following is correct?
+(a) sin sinx = y (b) sin sinx < y
+(c) sin sinx > y (d) sin sinx ≤ y
+24. For what value of θ is (sin )θ θ+ =cosec .2 5, where
+0 90< ≤ °θ ?
+(a) 30° (b) 45° (c) 60° (d) 90°
+25. If
+cos
+cos
+x
+y
+n= and sin
+sin
+x
+y
+m= , then ( )m n2 2− sin2 y
+is equal to
+(a) 1 2− n (b) 1 2+ n (c) m2 (d) n2
+26. If p = +tan cot
+2 2x x , then which one of the
+following is correct?
+(a) p ≤ 2 (b) p ≥ 2 (c) p < 2 (d) p > 2
+27. The difference of the two angles in degree
+measure is 1 and their sum in circular measure
+is also 1. What are the angles in circular measure?
+(a)
+1
+2 360
+−
+ 
+π ,
+1
+2 360
++
+ 
+π (b)
+1
+2
+90−
+ 
+π
+,
+1
+2
+90+
+ 
+π
+(c)
+1
+2 180
+−
+ 
+π ,
+1
+2 180
++
+ 
+π (d) None of these
+28. What is the value of [( sin ) sec tan ]1
+2 2 2− + θ θ θ
+(cos )2 1θ + when 0 90< < °θ ?
+(a) 2 (b) > 2 (c) ≥ 2 (d) < 2
+29. If 7 3 4 2 2cos sinθ θ+ = and 0
+2
+< < θ π , then what is
+the value of tan θ?
+(a) 7 (b) 7
+3
+(c) 3 (d) 3
+30. If cos 1° = p and cos 89° = q, then which one of
+the following is correct?
+(a) p is close to 0 and q is close to 1
+(b) p q<
+(c) p q=
+(d) p is close to 1 and q is close to 0
+31. If
+0
+2
+≤ < θ π and p = sec2 θ, then which one of the
+following is correct?
+(a) p < 1 (b) p = 1 (c) p > 1 (d) p ≥ 1
+32. What is the value of cos cos cos cos1 2 3 90° ° °… ° ?
+(a)
+1
+2
+(b) 0 (c) 1 (d) 2
+33. If tan cos
+sin
+A B
+B
+= −1 , then what is 2
+1 2
+tan
+tan
+A
+A−
+equal
+to?
+(a)
+tan B
+2
+(b) 2 tan B (c) tan B (d) 4 tan B
+201MATHEMATICS Measurements of Angles and Trigonometric Ratios
+--- PDF PAGE 407 ---
+34. What is cot 15° cot 20° cot 70° cot 75° equal to?
+(a) − 1 (b) 0 (c) 1 (d) 2
+35. If
+sin
+cos
+cos
+sin
+θ
+θ
+θ
+θ
++ = 2 with 0 90< < °θ , then what is θ
+equal to?
+(a) 30° (b) 45° (c) 60° (d) 75°
+36. In a right ∆ ABC, right angled at B, the ratio of
+AB to AC is
+1 2 : , then 2
+1 2
+tan
+tan
+A
+A−
+is equal to
+(a) 2 (b) 1 (c) 3 (d) undefined
+37. In figure, AD DB B= ∠ = °, 90 , then cosθ is equal to
+(a) 2
+4 3
+2 2
+2 2
+b a
+b a
+−
+−
+(b) a
+b a4 32 2−
+(c) 4 3
+2
+2 2b a− (d) None of these
+38. If 0 90° ≤ ≤ °x and sin cosx x+ = 3 1 , then what
+is the value of x?
+(a) 30° (b) 45° (c) 60° (d) 90°
+39. If tan A = − 2 1 , then the value of cosec A A⋅sec
+is equal to
+(a)
+1
+2
+(b) 2
+2
+(c) 2 2 (d) 3
+2
+40. tan θ = 3 and θ lies in third quadrant, then the
+value of sinθ is
+(a) 1
+10
+(b) − 1
+10
+(c) −3
+10
+(d) 3
+10
+41. The value of (sin cos cos sin )20 70 20 70° ° + ° ° is
+(a) 1 (b) 0 (c) − 1 (d) 1
+2
+42. If φ and θ are supplementary angles, then
+(a) sin sinθ φ= (b) cos cosθ = φ
+(c) tan tanθ φ= (d) sec φ θ= cosec
+43. If x + = °y 90 , then what is the value of
+cos cos sinx xcosec y y− ?
+(a) cos x (b) sin x (c) cos x (d) sin x
+44. The value of 2 2 2 4+ + cos θ is
+(a) 2 2cos θ (b) 2 2cos θ (c) 2 cos θ (d) 2
+2
+cos θ
+45. If tan A = 5
+6
+and
+tan B = 1
+11
+, then A B+ is equal to
+(a) π
+2
+(b) π
+4
+(c)
+3
+2
+π (d) π
+46. The value of 1
+2
+(cos sin )A A− is
+(a) cos π
+3
++
+ 
+A (b)
+cos π
+2
++
+ 
+A
+(c)
+cos π
+4
++
+ 
+A (d)
+sin π
+4
++
+ 
+A
+47.
+sin cos cos sinπ π π π
+4 12 4 12
+− is equal to
+(a) 1
+2
+(b) 3 (c) 3
+2
+(d) 1
+2
+48. If tan sin
+cos
+θ φ
+φ
+=
+−
+x
+x1
+and tan sin
+cos
+φ θ
+θ
+=
+−
+y
+y1
+, then x
+y
+is equal to
+(a)
+sin
+sin
+φ
+θ
+(b) sin
+cos
+φ
+θ
+(c) sin
+sin
+θ
+φ
+(d) sin
+cos
+θ
+φ1 −
+49. If sin ( ) sin ( )θ φ θ φ+ = − 2 , then
+(a) cot tanφ θ= 3 (b) tan tanθ φ= 3
+(c) sin sinθ φ= 3 (d) sin sinφ θ= 2
+50. If sin ( ) cos ( ),θ α θ α+ = + then tan θ is equal to
+(a) 1
+1
+−
++
+tan
+tan
+α
+α
+(b) tan
+tan
+α
+α
++
+−
+1
+1
+(c) 1
+1
+−
++
+cot
+cot
+α
+α
+(d) sin ( )
+cos ( )
+2 θ α
+θ α
++
++
+51. cos sin2 2
+2 2
+θ φ θ φ− − + is equal to
+(a) cos sinφ θ (b) cos sin2θ φ
+(c) cos cosθ φ (d) sin sinθ φ
+52. If x = = =r y r z rsin cos , sin sin , cosθ φ θ φ θ , then
+x2 2 2+ +y z is equal to
+(a) r2 2cos φ (b) r r2 2 2 2sin cosθ φ+
+(c) r2 (d) 1
+2r
+53. If cotθ = 7
+24
+and π θ π< < 3
+2
+, then the value of
+cos sinθ θ− is
+(a) 19
+25
+(b)
+18
+25
+(c)
+17
+25
+(d) 18
+25
+54. If
+α β π+ =
+2
+and sinα = 1
+2
+, then β is
+(a) 30 ° (b) 60 ° (c) 45 ° (d) 22 1
+2
+°
+55. If sin cos ,x x− = 0 then what is the value of
+sin cos ?4 4x x+
+(a) 1 (b) 3
+4
+(c)
+1
+2
+(d) 1
+4
+202 CDS Pathfinder
+B
+A
+C θ
+Db a
+--- PDF PAGE 408 ---
+56. If 3 5cos sin ,x x= then the value of
+5 2 2
+5 2 2
+3
+3
+sin sec cos
+sin sec cos
+x x x
+x x x
+− +
++ −
+is
+(a)
+361
+2397
+(b) 271
+979
+(c)
+541
+979
+(d) 127
+979
+57. 1
+1
++
+−
+cos
+cos
+x
+x
+is equal to
+(a) sec tanx x+ (b) cosec cotx x+
+(c) sec tanx x− (d) cosec cotx x−
+58. cos sin
+4 4x x− is equal to
+(a) 2 1 2cos x − (b) 2 1 2sin x −
+(c) sin cos2 2θ θ− (d) None of these
+59. sin
+cos
+θ
+θ1 +
+is equal to
+(a) 1 − cos
+sin
+θ
+θ
+(b) sin
+cos
+θ
+θ
+(c) cos
+sin
+θ
+θ
+− 1 (d) 1 + sin
+cos
+θ
+θ
+60. If 0 90≤ ≤ °θ , then 5 4
+3 5
+3 5
+4 5
+cos
+sin
+sin
+cos
+θ
+θ
+θ
+θ
+−
+−
+− +
++
+
+ 
+ is
+equal to
+(a) 0 (b) 1 (c)
+1
+4
+(d)
+1
+2
+61. If cos ( )α β + = 4
+5
+and
+sin ( ) , ,α β α β− = 5
+13
+lies
+between 0 and π
+4
+, then the value of tan 2 α is
+(a) 56
+33
+(b)
+56
+23
+(c) 43
+33
+(d)
+34
+33
+62.
+tan ( )
+tan ( )
+45
+45
+° +
+° −
+x
+x
+is equal to
+(a)
+1
+1
+2
++
+−
+
+
+ 
+
+tan
+tan
+x
+x
+(b)
+1
+1
+2
+−
++
+
+
+ 
+
+tan
+tan
+x
+x
+(c)
+2
+2
+1
+2
+2
+2
+sin
+cos
+x
+x+
+(d) None of these
+63. What is the simplest value of
+( sin cos ) (sin cos )
+cos ( ) (sin c
+1 2 2
+3
+− −
+− +
+A A A A
+A A A Asec cosec os )3 A
+?
+(a) sin A (b) cos A (c) sec A (d) cosec A
+64. If A B+ = ° 45 , then ( tan ) ( tan )1 1+ + A B is equal
+to
+(a) 1 (b) − 1 (c) 2 (d) − 2
+65.
+cos cos
+sin sin
+2 2
+2 2
+B A
+B A
+−
++
+
+ 
+ is equal to
+(a) tan ( )A B− (b) tan ( )A B+ (c) cot ( )A B− (d) cot ( )A B+
+66. sec tan
+2 2 7x x+ = , the value of x is
+(a) 15° (b) 30° (c) 45° (d) 60°
+67. cos sin3 3θ θ+ is maximum, when θ is
+(a) 15° (b) 30° (c) 45° (d) 60°
+68. If sin sin sin (sin sin sin )2 2 2 2x x+ + = + +y z y z ,
+then which of the following expressions must
+necessarily vanish?
+(a) tan tan tanx + + y z (b) cos cos cosx + + y z
+(c)
+1 1 1
+sin sin sinx
++ +
+y z
+(d) 1 1 1
+cos cos cosx
++ +
+y z
+69. If sin sinx x+ = 2 1, then the value of
+cos cos2 4x x+ is equal to
+(a) −1 (b) 2 (c) − 2 (d) 1
+70. cos cos cos35 85 155° + ° + ° is
+(a) 0 (b) 1
+3
+(c) 1
+2
+(d) cos 275°
+71. sin sin sin sin12 24 48 84° ° ° ° is
+(a) 1
+16
+(b) 3
+64
+(c) 3
+15
+(d) 0
+72. If tan θ = p
+q
+, then the value of p qcos sin2 2θ θ+ is
+(a) p (b) q
+(c) q q p
+p q
+( )3 2 2
+2 2
+−
++
+(d) p q p
+p q
+( )3 2 2
+2 2
+−
++
+73. If x = =y zcos cos2
+3
+4
+3
+π π , then x xy yz z+ + is
+equal to
+(a) 1 (b) − 1 (c) 0 (d) 2
+74. If sin cosθ θ+ = m and sec θ θ+ =cosec n, then
+n m( )
+2 1− is equal to
+(a) 1
+2m
+(b) m (c) 2m (d) m
+2
+75. If cosec θ θ− =sin a3, sec cosθ θ− = b3, then
+a b a b2 2 2 2( ) + is equal to
+(a) − 1 (b) 1 (c) 2 (d) − 2
+76. The maximum value and minimum value of
+( cos )1 2+ x are
+(a) − 1 and 1 (b) 1 and 2 (c) − 1
+2
+and 1
+2
+(d) 0 and 2
+77. If tan tanθ φ+ = a and cot cotθ φ+ = b, then
+cot ( )θ φ + is equal to
+(a) 1 + 1
+a b
+(b) 1 1
+a b
+−
+(c) a b− (d) a b+
+78. tan tan tan tan75 30 75 30° − ° − ° ° is equal to
+(a) − 1 (b) 1 (c) 0 (d) 2
+79. The value of sin ( ) sin ( )
+2 215 15° + − ° −A A is equal
+to
+(a)
+1
+2
+2cos A (b) 1
+2
+2sin A (c) 1
+2
+2tan A (d) cot 2 A
+203MATHEMATICS Measurements of Angles and Trigonometric Ratios
+--- PDF PAGE 409 ---
+80. The value of sin cos
+cos sin
+38 68
+68 38
+° − °
+° + °
+is equal to
+(a)
+3 8tan ° (b) 3 8cot °
+(c) 3 38sin ° (d) 3 8sin °
+81. 2 3 5cos cos cosx x x− − is equal to
+(a) 8 3 2cos sinx x (b) 12 2 3cos sinx x
+(c) 16 3 2cos sinx x (d) 32 3cos sinx x
+82. cos 4x is equal to
+(a) 1 2 2 2+ sin x (b) 2 2 2cos x
+(c) 1 8 2 2− sin cosx x (d) 1 8 2 2+ sin cosx x
+83. 2 2 3 3sin cos sin cosA A A A − is equal to
+(a) 1
+2
+4sin A (b) 1
+2
+4cos A (c) 1
+2
+4tan A (d) 1
+2
+4cot A
+84. If a b ccos sinθ θ− = , then what is the value of
+a bsin cosθ θ+ ?
+(a) ± + +a b c2 2 2 (b) ± − +a b c2 2 2
+(c) ± + −a b c2 2 2 (d) ± − −a b c2 2 2
+85. If cos cosx x+ = 2 1, then the value of
+sin sin sin8 6 4 2x x x+ + is
+(a) 0 (b) − 1 (c) 2 (d) 1
+86. If m = −cosec x x sin and n = −sec cosx x , then
+tan x is equal to
+(a) n
+m
+
+ 
+
+2 3 /
+(b)
+n
+m
+
+ 
+
+1 3 /
+(c)
+n
+m
+
+ 
+ (d)
+n
+m
+
+ 
+
+2
+87. If
+2 1cos θ = +x
+x
+, then 2 3cos θ is equal to
+(a) x
+x
+3
+3
+1+ (b) x
+x
+2
+2
+1+ (c) x
+x
+2
+21+
+(d) None of these
+88. If cosθ ≥ 1
+2
+in the first quadrant, then which one
+of the following is correct?
+(a)
+θ π≤
+3
+(b) θ π≥
+3
+(c) θ π≤
+6
+(d) θ π≥
+6
+89. If sin A = 3
+5
+and
+cos B = 12
+13
+, then the value of
+tan tan
+tan tan
+A B
+A B
+−
++1
+is equal to
+(a) 23
+16
+(b)
+16
+63
+(c) 1
+63
+(d) 13
+63
+90. If B C+ = ° 60 , then which of the following is
+correct statement?
+(a) sin ( ) sin ( )120 120° − = ° −B C
+(b) sin ( ) sin ( )120 180° + = ° +B C
+(c) cos ( ) sin ( )120 120° − = ° +B C
+(d) tan ( ) tan ( )B C= ° + 120
+91. What is the value of x in the equation
+x cosec2 2
+2 2
+2 230 45
+8 45 60
+60 30° °
+° °
+= ° − °sec
+cos sin
+tan tan ?
+(a) x = 1 (b) x = 2 (c) x = 1
+2
+(d) x = 3
+2
+92. Under which one of the following conditions is
+the trigonometrical identity
+sin /( cos ) ( cos )/ sinx x x x1 1+ = − true?
+(a) x is not a multiple of 360°
+(b) x is not an odd multiple of 180°
+(c) x is not a multiple of 180°
+(d) None of the above
+93. If cos cos ( )x x= −k y 2 , then tan ( ) tanx − y y is
+equal to
+(a)
+1
+1
++
+−
+k
+k
+(b) 1
+1
+−
++
+k
+k
+(c) 2
+1
+k
+k +
+(d) k
+k
+−
++
+1
+2 1
+94. The value of sin ( ) sin sin ( )
+cos ( ) cos cos ( )
+x x x
+x x x
++ − + −
++ − + −
+y y
+y y
+2
+2
+is
+(a) cot x (b) tan x (c) sin x (d) cosec x
+95. If sin sinx + = y a and cos cosx + = y b , then
+tan x + y
+2
+is
+(a) 4
+2 2a b+
+(b) b
+a
+(c) a
+b
+(d) 4
+2 2a b−
+96. The largest hand of a clock is 42 cm long, then
+the distance covered by the extremity in 20 min
+is
+(a) 88 cm (b) 80 cm (c) 82 cm (d) 84 cm
+97. If 0 90° < < °x and 2 15 7
+2sin cosx x+ = , then
+what is the value of tan x ?
+(a) 2
+3
+(b) 3
+2
+(c) 3
+4
+(d)
+4
+3
+98. If ABC is a triangle and A B C+ + = ° 180 , then
+tan tan tanA B C+ + is
+(a) tan tan tanA B C (b)
+tan tanA B B C+ + +
+2 2
+(c) tan tan
+tan
+A B
+C
++ (d) cot cot cotA B C
+99. If x a= secθ cos φ, y b= secθ sin φ and z c= tanθ,
+then the value of x
+a
+y
+b
+z
+c
+2
+2
+2
+2
+2
+2+ − is
+(a) 9 (b) 0 (c) 1 (d) 4
+100. Which one of the following statements is correct?
+(a) The squares of the tangents of the angles 30°, 45°,
+60° are in G.P .
+(b) The squares of the sines of the angles 30°, 45°, 60°
+are in G.P .
+(c) The squares of the secants of the angles 30°, 45°,
+60° are in A.P .
+(d) The squares of the tangents of the angles 30°, 45°,
+60° are in A.P .
+204 CDS Pathfinder
+--- PDF PAGE 410 ---
+101. If A, B, C and D are the successive angles of a
+cyclic quadrilateral, then what is
+cos cos cosA B C+ + + cos D are equal to?
+(a) 4 (b) 2 (c) 1 (d) 0
+102. Which one of the following is correct?
+(a) There is only one θ with 0 90° < < °θ such that
+sin θ = a, where a is a real number
+(b) There is more than one θ with 0 90° < < °θ such that
+sin θ = a, where a is a real number
+(c) There is no θ with 0 90° < < °θ such that sin θ = a,
+where a is a real number
+(d) There are exactly two θ ’s with 0 90° < °θ such that
+sin θ = a, where a is a real number
+103. If sin ( ) cos ( ) tan ( )B C A C A B A B C+ − = + − = + −
+= 1, then the angles A B C, , which are positive
+acute angles are, respectively
+(a) 45 80 105° ° °, , (b)
+22 1
+2
+67 1
+2
+45° ° °, ,
+(c) 20 °, 70 °, 90 ° (d) 30 °, 60 °, 90 °
+104. If A B C, , and D be the angles of a cyclic
+quadrilateral taken in order, then cos ( )180° + A
++ ° + + ° +cos ( ) cos ( )180 180B C + ° +cos ( )180 D is
+equal to
+(a) 2 (cos cos )A B+ (b) 2 (cos cos )A D+
+(c) 0 (d) 4 cos A
+105. If ABC is a right angled triangle at C and having
+u units, v units and w units as the lengths of its
+sides opposite to be vertices A B, and C
+respectively, then what is tan tanA B+ equal to?
+(a)
+u
+v w
+2
+(b) 1 (c) u v+ (d) w
+uv
+2
+106. The Earth takes 24 h to rotate about its own axis.
+Through what angle will it turn in 4 h and 12 min?
+(a) 63° (b) 64° (c) 65° (d) 70°
+107. Assume the Earth to be a sphere of radius R.
+What is the radius of the circle of latitude 40°S?
+(a) R cos 40° (b) R sin 80°
+(c) R sin 40° (d) R tan 40°
+108. If sin cos ( )3 2θ θ= − ° , where 3θ and ( )θ − °2 are
+acute angles, then what is the value of θ?
+(a) 22° (b) 23°
+(c) 24° (d) 25°
+109. Consider the following statements:
+I. cos sin
+cos sin
+cos ( tan ) ( tan )
+2 2
+2 2
+2 1 1θ θ
+θ θ
+θ θ θ−
++
+= + −
+II. 1
+1
+2+
+− = +sin
+sin (tan sec )θ
+θ θ θ
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+110. If
+A = π
+6
+and B = π
+3
+, then which of the following
+is/are correct?
+I. sin sin cos cosA B A B+ = +
+II. tan tanA B A B+ = + cot cot
+Select the correct answer using the codes given
+below
+(a) Only I
+(b) Only II
+(c) Both I and II
+(d) Neither I nor II
+111. For any quadrilateral ABCD which of the
+following statements are true?
+I. sin ( ) sin ( )A B C D+ + + = 0
+II. cos ( ) cos ( )A B C D+ + + = 0
+Select the correct answer using the codes given
+below
+(a) Only I (b) Only II
+(c) Both I and II (d) None of these
+112. Consider the following statements
+I. 1° in radian measure is less than 0.03 radians.
+II. 1 radian in degree measure is greater than 45°.
+Which of the above statement is/are correct?
+(a) Only II (b) Only I
+(c) Neither I nor II (d) Both I of II
+113. Consider the following statements
+I. sin sin( ) sin( ) sinθ θ θ θ⋅ °+ ⋅ °− =60 60 1
+4 3
+II.
+cos sin( ) sin( ) cosθ θ θ θ⋅ °+ ⋅ °− =30 30 1
+4 3
+III.
+sin cos( ) cos( ) sinθ θ θ θ⋅ °+ ⋅ °− =30 30 1
+4 3
+Which of the above statement is/are correct?
+(a) Only I
+(b) Only II
+(c) Only III
+(d) All of the above
+114. If ABC is a right angled triangle, then which of
+the following statements are correct?
+I. sin ( ) sinA B C+ =
+II. sin cosA B C+
+ 
+ =2 2
+III.
+tan ( ) cotA B C C+ − =2
+IV. tan ( ) cotA B C A− − = −2
+Select the correct answer using the codes given
+below
+(a) I and II (b) I, II and III
+(c) I, II and IV (d) All of these
+205MATHEMATICS Measurements of Angles and Trigonometric Ratios
+--- PDF PAGE 411 ---
+Directions. Q. Nos. (115-117) Let sin( ) 1A B+ = and
+sin( ) 1
+2
+A B− = , where A B, ∈ 
+
+
+0
+2
+, π .
+115. What is the value of A?
+(a)
+π
+6
+(b)
+π
+3
+(c)
+π
+4
+(d)
+π
+8
+116. What is the value of tan ( 2 )A B+ tan (2 )A B+ ?
+(a) −1 (b) 0 (c) 1 (d) 2
+117. What is the value of sin sin
+2 2A B− ?
+(a) 0 (b) 1 2 / (c) 1 (d) 2
+Directions. Q. Nos. (118-120) ABC is an obtuse
+triangle and tanA , tanB are the roots of the equation
+3 2 3 1 02x x− + = .
+118. The measure of angle C is
+(a) π / 3 (b) π / 2 (c) 2
+3
+π (d) 5
+6
+π
+119. Find the value of sin C + cos C.
+(a) 2
+3 1+
+(b) 3 1
+2
++ (c) 3 1
+2
+− (d) 3 1
+2
++
+120. If 2sin 1 tan
+cosec
+2
+2B C
+C
+= + , then the value of B is
+(a) π
+2
+(b) π
+3
+(c)
+2
+3
+π (d) π
+6
+PREVIOUS YEARS’ QUESTIONS
+121. The expression sin cos
+2 2 1 0x x+ − = is satisfied
+by how many values of x? e 2012 I
+(a) Only one value of x (b) T wo values of x
+(c) Infinite values of x (d) No value of x
+122. If 3 5 5sin cosx x+ = , then what is the value of
+( cos sin )3 5 x x− ? e 2012 I
+(a) 0 (b) 2 (c) 3 (d) 5
+123. If p a b= + sin cosx x and q a b= − cos sinx x , then
+what is the value of p q2 2+ ? e 2012 I
+(a) a b+ (b) ab (c) a b2 2+ (d) a b2 2−
+124. If α and β are complementary angles, then what
+is cosec cosecα β α
+β
+α
+β
+⋅ + 
+ 
+
+−
+sin
+sin
+cos
+cos
+1
+2
+equal to?
+e 2012 I
+(a) 0 (b) 1
+(c) 2 (d) None of these
+125. Consider the following statements
+I. cot
+cot (cos )30 1
+30 1 2 30 1° +
+° − = ° +
+II. 2 45 45 45 45 0sin cos tan cot° °− ° ° =
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II e 2012 I
+(c) Both I and II (d) Neither I nor II
+126. Consider the following statements
+I. sin cos2 21 1 1°+ ° =
+II. sec cot tan2 2 2 233 57 37 53°− ° = °− ° cosec
+Which of the above statement(s) given above
+is/are correct? e 2012 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+127. Consider the following statements:
+I. There is only one value of x in the first quadrant
+that satisfies sin cosx x+ = 2.
+II. There is only one value of x in the first quadrant
+that satisfies sin cosx x− = 0.
+Which of the above statement(s) given above
+is/are correct? e 2012 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+128. If
+sin cos /θ θ = 3 4 , then sin cos4 4θ θ+ is equal
+to e 2012 II
+(a) 7/8 (b) 5/8 (c) 3/8 (d) 1/8
+129. If the angle θ is in the first quadrant and
+tan θ = 3, then what is the value of (sin cos )?θ θ+
+e 2012 II
+(a) 1
+10
+(b) 2
+10
+(c) 3
+10
+(d) 4
+10
+130. If 0 90° < < °θ , then all the trigonometric ratios
+can be obtained when e 2012 II
+(a) only sin θ is given
+(b) only cos θ is given
+(c) only tan θ is given
+(d) any one of the six ratios is given
+131. What is the value of sin A cos A tan A + cos A
+sin A cot ?A e 2012 II
+(a) sin cos2 2A A+ (b) sin tan2 2A A+
+(c) sin cot2 2A A+ (d) cosec 2 A A+ cot 2
+132. What is the value of sin
+cos
+cos
+sin
+θ
+θ
+θ
+θ1
+1
++
++ + ?
+e 2012 II
+(a) 2 cosec θ (b) 2 sec θ
+(c) sec θ (d) cosec θ
+133. What is the value of sec tan2 2D D− ? e 2013 I
+(a) 1/2 (b) 2/3
+(c) 1 (d) None of these
+134. If cos cosA A+ =
+2 1, then what is the value of
+2 2 4(sin sin )?A A+ e 2013 I
+(a) 4 (b) 2 (c) 1 (d) 1/2
+206 CDS Pathfinder
+--- PDF PAGE 412 ---
+135. ( tan ) ( tan ) ( cot )1 1 1 2 2 2− + + + −A A A
++ +( cot )1 2A is equal to e 2013 I
+(a) sin cos2 2A A (b) sec 2 A Acosec 2
+(c) 2 2sec A Acosec 2 (d) None of these
+136. If a2 1 2
+1 2
+= +
+−
+sin cos
+sin cos
+θ θ
+θ θ
+, then what is the value of
+a
+a
++
+−
+1
+1
+?
+e 2013 I
+(a) sec θ (b) 1 (c) 0 (d) tan θ
+137. If
+sin θ = −
++
+x
+x
+2 2
+2 2
+y
+y
+, then which one of the following
+is correct? e 2013 I
+(a)
+cos θ =
+−
+2
+2 2
+x
+x
+y
+y
+(b) cos θ =
++
+2
+2 2
+x
+x
+y
+y
+(c) cos θ = −
++
+x
+x
+y
+y2 2 (d) cos ( )θ = −
++
+x x
+x
+y y
+y2 2
+138. Consider the following statements for 0 90≤ ≤ °θ :
+I. The value of sin cosθ θ+ is always greater
+than 1.
+II. The value of tan cotθ θ+ is always greater
+than 1.
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II e 2013 I
+(c) Both I and II (d) Neither I nor II
+Directions (Q. Nos. 139-141) Read the following
+information carefully to answer the questions that
+follow.
+The angles A, B, C and D of a quadrilateral ABCD are in
+the□ratio□1□:□2□:□4□:□5.
+139. What is the value of cos ( )A B+ ? e 2013 I
+(a) 0 (b) 1/2
+(c) 1 (d) None of these
+140. What is the value of cosec ( )C D B− + ? e 2013 I
+(a) 1 (b) 2 (c) 3 (d) 4
+141. Consider the following statements:
+I. ABCD is a cyclic quadrilateral.
+II. sin ( )B A− = cos ( )D C−
+Which of the statement(s) given above is/are
+correct? e 2013 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+142. If
+sin cosθ θ+ = 3, then what is tan cotθ θ+
+equal to? e 2013 II
+(a) 1 (b) 2 (c) 2 (d) 3
+143. What is cos ( ) sec ( )ec 75 15° + − ° −θ θ equal to?
+e 2013 II
+(a) 0 (b) 1 (c) 2 sin θ (d) 2cos θ
+144. If 5 12 13sin cosθ θ+ = , then what is
+5 12cos sinθ θ− equal to? e 2013 II
+(a) − 2 (b) − 1 (c) 0 (d) 1
+145. If sin cosθ θ− = 0, then what is sin cos4 4θ θ+
+equal to? e 2013 II
+(a) 1 (b) 3
+4
+(c)
+1
+2
+(d) 1
+4
+146. What is
+cos ( ) cos ( )
+tan( ) tan( )
+2 245 45
+60 30
+° + + ° −
+° + ° −
+θ θ
+θ θ
+equal to?
+e 2013 II
+(a) −1 (b) 0 (c) 1 (d) 2
+147. If tan secθ θ+ = m, then what is secθ equal to?
+e 2013 II
+(a) m
+m
+2 1
+2
+− (b) m
+m
+2 1
+2
++ (c) m
+m
++ 1 (d) m
+m
+2 1+
+148. If α β, and γ are acute angles such that sinα = 3
+2
+,
+cosβ = 3
+2
+and tan γ = 1, then what is α β γ+ +
+equal to? e 2013 II
+(a) 105° (b) 120°
+(c) 135° (d) 150°
+149. What is
+( sec tan ) cos
+( sec tan ) ( sin )
+1
+1 1
++ −
++ + −
+θ θ θ
+θ θ θ
+equal to?
+e 2013 II
+(a) 1 (b) 2 (c) tan θ (d) cot θ
+150. If ∆ ABC is right angled at C, then what is
+cos( ) sin( )A B A B+ + + equal to? e 2013 II
+(a) 0 (b) 1
+2
+(c) 1 (d) 2
+151. Consider the following statements:
+I. tan θ increases faster than sin θ as θ increases.
+II. The value of sin cosθ θ+ is always greater
+than 1.
+Which of the statement(s) given above is/are
+correct? e 2013 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+152. The value of cos 25° − sin 25° is e 2014 I
+(a) positive but less than 1
+(b) positive but greater than 1
+(c) negative
+(d) 0
+153. In a right angled ∆ ABC, right angle at B, if
+cos A = 4
+5
+, then what is sin C is equal to?
+e 2014 I
+(a)
+3
+5
+(b)
+4
+5
+(c)
+3
+4
+(d)
+2
+5
+207MATHEMATICS Measurements of Angles and Trigonometric Ratios
+--- PDF PAGE 413 ---
+154. If α and β are complementary angles, then what
+is cos cos sinα β α βcosec − equal to? e 2014 I
+(a) sec β (b) cos α (c) sin α (d) − tan β
+155. If sec θ θ+ =tan , 2 then what is the value of
+secθ? e 2014 I
+(a) 3
+2
+(b) 2 (c) 5
+2
+(d) 5
+4
+156. What is cos ( ) sec ( )ec 75 15° + − ° −θ θ
+− ° ° −tan cot( + ) + (55 35 θ θ) equal to? e 2014 I
+(a) − 1 (b) 0 (c) 1 (d)
+3
+2
+157. What is sin 25° sin 35° sec 65° sec 55° equal to?
+e 2014 I
+(a) −1 (b) 0 (c) 1
+2
+(d) 1
+158. If 2 3cot ,θ = then what is 2
+2
+cos sin
+cos sin
+θ θ
+θ θ
+−
++
+equal
+to? e 2014 I
+(a) 2
+3
+(b) 1
+3
+(c)
+1
+2
+(d) 3
+4
+159. If
+sin cosθ θ = 1
+2
+, then what is sin cos6 6θ θ+ equal
+to? e 2014 I
+(a) 1 (b) 2 (c) 3 (d) 1
+4
+160. If cos sec ,x x+ = 2 then what cos sec
+n nx x+ equal
+to, where n is a positive integer? e 2014 I
+(a) 2 (b) 2 2n − (c) 2 1n − (d) 2 n
+161. If sin cosθ θ+ 2 1 = , where 0 2< < θ π / , then what
+is 2 sin cosθ θ− equal to? e 2014 I
+(a) − 1 (b) 1 2 / (c) 2 (d) 1
+162. If tan 8 2θ θ= cot , where 0 8
+2
+< < θ π , then what is
+the value of tan 5 θ? e 2014 I
+(a) 1
+3
+(b) 1 (c) 3 (d) 0
+163. If sin ( ) = 1A + B , where 0 < <B 45°, then what is
+cos( )A B− equal to? e 2014 I
+(a) sin 2 B (b) sin B (c) cos 2B (d) cos B
+164. At what point of time after 3 O’clock, hour hand
+and the minute hand of a clock occur at right
+angles for the first time? e 2014 I
+(a) 9 O’clock (b) 4 h
+37 1
+6
+min
+(c) 3 h
+30 8
+11
+min (d) 3 h 32 8
+11
+min
+165. If tan cotθ θ+ = 2, then what is sin cosθ θ+ equal
+to? e 2014 II
+(a) 1
+2
+(b) 1
+3
+(c) 2 (d) 1
+166. What is sec
+cot tan
+x
+x x+
+equal to?
+e 2014 II
+(a) sinx (b) cos x (c) tanx (d) cot x
+167. What is ( cot )( tan sec )1 1+ − + +x x x xcosec equal
+to? e 2014 II
+(a) 1 (b) 2 (c) sinx (d) cos x
+168. What is (cosec x x x x x x− − +sin )(sec cos )(tan cot )
+equal to? e 2014 II
+(a) sin cosx x+ (b) sin cosx x−
+(c) 2 (d) 1
+169. What is sin cos
+sin cos
+x x
+x x
+− +
++ −
+1
+1
+equal to?
+e 2014 II
+(a)
+sin
+cos
+x
+x
+− 1 (b) sin
+cos
+x
+x
++ 1 (c) sin
+cos
+x
+x
+−
++
+1
+1
+(d) sin
+cos
+x
+x
++
++
+1
+1
+170. What is (sin cos )2 2x x− ( sin cos )1 2 2− x x equal
+to? e 2014 II
+(a) sin cos4 4x x− (b) sin cos6 6x x−
+(c) cos sin8 8x x− (d) sin cos8 8x x−
+171. What is (sin cos cos sin )x x y y+
+(sin cos cos sin )x x y y− equal to? e 2014 II
+(a) cos cos2 2x − y (b) cos sin2 2x − y
+(c) sin cos2 2x − y (d) sin sin2 2x − y
+172. If A B C+ + = ° 180 , then cot cot cot cotA B B C+
++ cot cotC A is equal to e 2014 II
+(a) − 1 (b) 2 (c) π (d) 1
+173. If sin x x+ =cosec 2, then what is sin9 9x x+ cosec
+equal to? e 2014 II
+(a) 2 (b) 18 (c) 512 (d) 1024
+174. If sin cosx x+ = p and sin cos3 3x x+ = q, then
+what is p p3 3− equal to e 2014 II
+(a) 0 (b) −2q (c) 2q (d) 4q
+175. Consider the following statements e 2014 II
+I. sin sin1 1° > II. cos cos1 1° <
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+176. The value of cosec
+267 57 2°+ °sec – cot 2 33°– tan 2 23°
+is e 2015 I
+(a) 2 2 (b) 2 (c) 2 (d) 0
+177. If tan( )A B+ = 3 and tan A = 1, then tan( – )A B
+is equal to e 2015 I
+(a) 0 (b) 1 (c) 1
+3
+(d) 2
+178. If tan cotA A+ = 4, then tan cot4 4A A+ is equal
+to e 2015 I
+(a) 110 (b) 191 (c) 80 (d) 194
+208 CDS Pathfinder
+--- PDF PAGE 414 ---
+179. ABC is a triangle right angled at B and
+AB BC: : = 3 4 . What is sin sin sinA B C+ + equal
+to? e 2015 I
+(a) 2 (b) 11
+5
+(c) 12
+5
+(d) 3
+180. If sin cosx x+ = C, then sin cos6 6x x+ is equal to
+e 2015 I
+(a) 1 6 3
+16
+2 4+ C C– (b) 1 6 3
+4
+2 4+ C C–
+(c) 1 6 3
+16
+2 4+ + C C (d) 1 6 3
+4
+2 4+ + C C
+181. If 3
+1 3
+2
+2
+– tan
+– tan
+A
+A
+k= , where k is a real number, then
+cosec A A A(3 sin – 4 sin ) 3 is equal to e 2015 I
+(a) 2
+1
+k
+k –
+(b) 2
+1
+k
+k –
+, where 1
+3
+≤ ≤k 3
+(c)
+2
+1
+k
+k –
+, where k < 1
+3
+or k > 3 (d)
+2
+1
+k
+k +
+182. If p =
++
+1
+1
+– sin
+sin
+x
+x
+,
+q = 1 – sin
+cos
+x
+x
+, r =
++
+cos
+sin
+x
+x1
+, then
+which of the following is/are correct? e 2015 I
+I. p q r= = II. p qr2 =
+Select the correct answer using the codes given
+below
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+183. Consider the following identity
+I. cos
+– tan
+sin
+– cot sin cosA
+A
+A
+A A A1 1 + = +
+II. ( – sin – cos ) ( – sin )( cos )1 2 1 1 2A A A A = +
+Which of the above identity/identities is/are
+correct?
+(a) Only I (b) Only II e 2015 I
+(c) Both I and II (d) Neither I nor II
+184. If a and b are positive, then the relation
+sinθ = +2 3
+3
+a b
+b
+is
+e 2015 II
+(a) not possible (b) possible, if a b=
+(c) possible, if a b> (d) possible, if a b<
+185. The minimum value of cos cos cos2 2 2x y z+ − is
+e 2015 II
+(a) − 1 (b) 0
+(c) 2 (d) 2
+186. If tan secθ + θ = 2 , then tanθ is equal to e 2015 II
+(a) 3
+4
+(b)
+5
+4
+(c)
+3
+2
+(d) 5
+2
+187. cos
+sin
+θ
+θ1 −
+is equal to where,
+2
+θ π≠
+ 
+
+e 2015 II
+(a)
+tan
+tan
+θ
+θ
+−
++
+1
+1
+(b) 1 + sin
+cos
+θ
+θ
+(c) tan
+tan
+θ
+θ
++
+−
+1
+1
+(d) 1 + cos
+sin
+θ
+θ
+188. If tan( ) tan( ) tan( )x x x+ ° + ° °40 20 3
+tan( ) tan( )70 50 1− ° − ° =x x , then the value of x is
+equal to e 2015 II
+(a) 30 (b) 20 (c) 15 (d) 10
+189. The value of
+32
+4
+8
+3
+8
+6
+2 2 3cot sec cosπ π π
+ 
+ − 
+ 
+ + 
+ 
+ is equal to
+e 2015 II
+(a)
+3 (b) 2 3 (c) 3 (d) 3 3
+190. If x a= cosθ and y b= cotθ, then
+( )ax by− − −1 1 ( )ax by− − +1 1 is equal to e 2015 II
+(a) 0 (b) 1 (c) tan2 θ (d) sin2 θ
+191. If θ is an acute angle and
+sin cos cos cosθ θ = 2 θ − 1.5 θ3 , then what is sinθ
+equal to? e 2015 II
+(a) 5 1
+4
+− (b) 1 5
+4
+− (c) 5 1
+4
++ (d) − +5 1
+4
+192. A clock is started at noon by 10 minutes past 5,
+through what angle, the hour hand moves?
+e 2015 II
+(a) 160° (b) 145° (c) 150° (d) 155°
+193. Consider the following statements e 2015 II
+I. sin 66° is less than cos 66°.
+II. sin 26° is less than cos 26°.
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+194. Consider the following statements.
+I. 1
+1
+1
+1
+2
+2
+2
++
++
+= −
+−
+
+ 
+tan
+cot
+tan
+cot
+θ
+θ
+θ
+θ is true for all
+0 2 4< ≠θ < π θ π,
+II. cot tanθ = θ
+1 is true for θ = 45° only.
+Which of the above statements is/are correct?
+e 2015 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+195. In a ∆ ABC, if
+A B− = π
+2
+, then C B+ 2 is equal to
+e 2016 I
+(a) 2
+3
+π (b) 3
+4
+π (c) π (d) π
+2
+196. sin
+cos
+cos
+sin
+sin35
+55
+55
+35
+2 30
+2 2
+°
+°
+
+ 
+ − °
+°
+
+ 
+ + ° is equal to
+e 2016 I
+(a) −1 (b) 0 (c) 1 (d) 2
+197. If
+tan cotθ + θ = 4
+3
+, where 0
+2
+< θ < π , then
+sin cosθ θ+ is equal to e 2016 I
+(a) 1 (b) 3 1
+2
+− (c) 3 1
+2
++ (d) 2
+209MATHEMATICS Measurements of Angles and Trigonometric Ratios
+--- PDF PAGE 415 ---
+198. If p = +cot tanθ θ and q = −sec cosθ θ , then
+( ) ( ) / /p q q p2 2 3 2 2 3− is equal to e 2016 I
+(a) 0 (b) 1 (c) 2 (d) 3
+199. If x
+a
+y
+b
+− = tanθ 1 and x
+a
+y
+b
+tan ,θ + = 1 then the
+value of x
+a
+y
+b
+2
+2
+2
+2+ is
+e 2016 I
+(a) 2 2sec θ (b) sec 2 θ (c) cos2 θ (d) 2 2cos θ
+200. Which of the following is correct in respect of the
+equation 3 1 3
+2 2− = −tan ( tan )?θ α θ
+(given that α is a real number.) e 2016 I
+(a) α∈ 
+
+
+
+1
+3
+3 , (b)
+α∈ −∞
+ 
+ ∪ ∞, [ , )1
+3
+3
+(c)
+α∈ −∞,
+ 
+ ∪ ∞1
+3
+3 [ , ) (d) None of these
+201. A person goes to a market between 4 pm and
+5 pm. When he comes back, he finds that the
+hour hand and the minute hand of the clock
+have interchanged their positions. For how much
+time (approximately) was he out of his house?
+e 2016 I
+(a) 55.38 min (b) 55.48 min (c) 55.57 min (d) 55.67 min
+202. Consider the following
+I. 1
+1
+−
++ = −cos
+cos sec cotθ
+θ θ θco
+II. 1
+1
++
+− = +cos
+cos sec cotθ
+θ θ θco
+Which of the above is/are identity/ identities?
+e 2016 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+203. If
+cos cos
+sin
+2
+2
+3 2 1θ θ
+θ
+− + = , where 0
+2
+< < θ π , then
+which of the following statement(s) is/are correct?
+I. There are two values of θ satisfying the above
+equation.
+II. θ = °60 is satisfied by the above equation.
+Select the correct answer using the codes given
+below e 2016 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+204. Consider the following statements
+I. There exists a positive real number m such that
+cos x m= +2 1.
+II. mn m n≥ + , for all m, n belonging to set of
+natural numbers.
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II e 2016 I
+(c) Both I and II (d) Neither I nor II
+210 CDS Pathfinder
+ANSWERS
+1 b 2 a 3 b 4 c 5 b 6 b 7 a 8 b 9 c 10 b
+11 b 12 b 13 b 14 a 15 c 16 c 17 c 18 b 19 b 20 a
+21 c 22 d 23 b 24 a 25 a 26 b 27 a 28 b 29 d 30 d
+31 d 32 b 33 c 34 c 35 b 36 d 37 a 38 d 39 c 40 c
+41 a 42 a 43 b 44 c 45 b 46 c 47 d 48 c 49 b 50 a
+51 c 52 c 53 c 54 b 55 c 56 b 57 b 58 a 59 a 60 a
+61 a 62 a 63 a 64 c 65 a 66 d 67 a 68 c 69 d 70 a
+71 a 72 d 73 c 74 c 75 b 76 d 77 b 78 b 79 b 80 a
+81 c 82 c 83 a 84 c 85 d 86 b 87 a 88 a 89 b 90 a
+91 a 92 c 93 b 94 b 95 c 96 a 97 d 98 a 99 c 100 a
+101 d 102 a 103 b 104 c 105 d 106 a 107 a 108 b 109 c 110 c
+111 a 112 d 113 d 114 d 115 b 116 c 117 b 118 c 119 c 120 b
+121 c 122 c 123 c 124 b 125 c 126 c 127 b 128 b 129 d 130 d
+131 a 132 a 133 c 134 b 135 c 136 d 137 b 138 b 139 a 140 b
+141 d 142 a 143 a 144 c 145 c 146 c 147 b 148 c 149 a 150 c
+151 a 152 a 153 b 154 c 155 d 156 b 157 d 158 c 159 d 160 a
+161 c 162 b 163 a 164 d 165 c 166 a 167 b 168 d 169 b 170 b
+171 d 172 d 173 a 174 b 175 d 176 b 177 c 178 d 179 c 180 b
+181 c 182 c 183 a 184 a 185 a 186 a 187 b 188 c 189 d 190 b
+191 a 192 d 193 b 194 a 195 d 196 c 197 c 198 b 199 d 200 c
+201 a 202 c 203 b 204 d
+--- PDF PAGE 416 ---
+HINTS AND SOLUTIONS
+1. (b) We know that, π radian = °180
+⇒ 1 radian = °180
+π
+= ° ×180
+22
+7
+= °630
+11
+= °57 3
+11
+= ° + ×57 3 60
+11
+min
+= ° + ′+57 16 4
+11
+min
+= ° + ′+ ×57 16 4
+11
+60 s
+= ° + ′+ ′′57 16 21.8
+= ° ′ ′′ = ° ′ ′′.57 16 218 57 16 22
+2. (a) − ° ′ = − + 
+ 
+°47 30 47 30
+60
+= − +
+ 
+°47 1
+2
+/c811 1
+60
+′ =
+ 
+°
+
+
+
+= − +
+ 
+° = − °94 1
+2
+95
+2
+= − × = −95
+2 180
+19
+72
+π π rad
+3. (b) Here, r = 60 cm, l = 16 5 .cm
+∴ θ = l
+r
+= 
+ 
+16 5
+60
+.
+c
+= ×
+ 
+ = × ×
+ 
+
+° °
+16 5
+60
+180 16 5
+60
+180
+22
+7. .
+π
+= 
+ 
+ = ° ′
+°
+63
+4
+15 45
+4. (c) Speed of train = 90 km/h
+= ×
+ 
+90 5
+18
+m/sec = 25 m/sec
+Distance moved in 11 sec
+= × =( )25 11 275m m
+∴ l = 275 m, r = 1500 m
+/c81
+θ = θ =l
+r
+⇒ 
+ 
+275
+1500
+c
+= ×
+ 
+
+°
+275
+1500
+180
+π
+= × ×
+ 
+
+°
+275
+1500
+180
+22
+7
+= 
+ 
+
+°
+21
+2
+= ° ′10 30
+5. (b) Angle traced by hour hand in
+1 hr = °30
+Angle traced by hour hand in
+91
+12
+hrs = ×
+ 
+
+°
+30 91
+12
+= ° ′227 30
+Angle traced by minute hand in
+1min = °6
+Angle traced by minute hand in
+35 min = × = ° °( )6 35 210
+∴ Required angle = ° ′− °227 30 210
+= ° ′17 30
+6. (b) Let the hands of a clock coincides
+after ‘ t’ min.
+Angle traced by hour hand in
+t min
+= 1
+2
+t
+Angle traced by minute hand in
+t min = 6t
+Angle between hour hand and minute
+hand at 5 pm = × = °5 30 150
+∴
+6 1
+2
+150t t− = ° ⇒ t = × =150 2
+11
+300
+11
+= + =27 3
+11
+27 min 16 sec
+Therefore, required time = 5:27:16 pm
+7. (a) Given, sin A = 1
+3
+,
+In right angled ∆ ABC ,
+AB AC BC2 2 2= − = − = 3 1 82 2
+⇒ AB = 2 2
+∴ cos A AB
+AC
+= = 2 2
+3
+and sec A AC
+AB
+= = 3
+2 2
+tan A BC
+AB
+= = 1
+2 2
+and cosec A AC
+BC
+= = 3
+∴ cos tan secA A A A⋅ + ⋅cosec
+= ⋅ + ⋅2 2
+3
+3
+1
+1
+2 2
+3
+2 2
+= + = +2 2 3
+8
+16 2 3
+8
+8. (b) cos sin cos15 15 15° − ° = °
+− ° − °sin ( )90 75
+= ° − °cos cos15 75
+= °+ ° ⋅ °− °2 15 75
+2
+75 15
+2
+sin sin
+/c81cos cos sin sinC D C D D C− = + −
+ 
+2
+2 2
+= °⋅ ° = ⋅2 45 30 2 1
+2
+1
+2
+sin sin = 1
+2
+9. (c) Given, 3 4tan θ = ⇒ tanθ = 4
+3
+1
+1
+1
+1
+1
+1
+−
++
+= −
++
+× −
+−
+sin
+sin
+sin
+sin
+sin
+sin
+θ
+θ
+θ
+θ
+θ
+θ
+= 1
+1 2
+– sin
+– sin
+θ
+θ
+= − = −1 1 sin
+cos cos
+sin
+cos
+θ
+θ θ
+θ
+θ
+= −sec tanθ θ
+= + −1 2tan tanθ θ
+= + 
+ 
+ −1 4
+3
+4
+3
+2
+= + −1 16
+9
+4
+3
+= − =5
+3
+4
+3
+1
+3
+10. (b) Given, tan tanA = = °1 45
+⇒ A = °45 and
+tan tanB = = °3 60
+∴ B = °60
+Now, cos cos sin sinA B A B−
+= ° °− ° °cos cos sin sin45 60 45 60
+= × − ×1
+2
+1
+2
+1
+2
+3
+2
+= −1 3
+2 2
+11. (b) cosec sin2 2θ θ− +2
+= −(sin θ θ cosec )2
+Hence, it is always non-negative.
+12. (b) sin sin sin2 2 215 20 25° + ° + °
++ + °... sin 2 75
+= °+ °(sin sin )2 215 75
++ °+ ° + + °(sin sin ) ... sin2 2 220 70 45
+= °+ °− °[sin sin ( )]2 215 90 15
++ °+ °− ° + + °[sin sin ( )] ... sin2 2 220 90 20 45
+= °+ °(sin cos )2 215 15
++ °+ ° + +(sin cos ) ... /2 220 20 1 2
+= + =6 1 2 13 2/ /
+( sin )/c81 2 2θ + θ = 1cos
+13. (b) 5 75 77 2 13 15
+15 77
+sin sin cos cos
+cos sin
+° °+ ° °
+° °
+− °
+°
+7 81
+9
+sin
+cos
+= ° °+ ° °
+° °
+5 15 77 2 77 15
+15 77
+cos sin sin cos
+cos sin
+− °
+°
+7 9
+9
+cos
+cos
+= °⋅ °
+°⋅ °
+− °
+°
+7 15 77
+15 77
+7 9
+9
+cos sin
+cos sin
+cos
+cos
+= − =7 7 0
+211MATHEMATICS Measurements of□Angles and Trigonometric Ratios
+B
+C
+A
+1
+3
+2√2
+--- PDF PAGE 417 ---
+212 CDS Pathfinder
+14. (a) log (tan ) log (tan ) log1 2° + ° +…+ (tan ) 89°
+= ° °… °log (tan tan tan1 2 45 … ° °tan tan88 89 )
+= ° ° ° °log [(tan cot ) (tan cot )1 1 2 2 … °tan ] 45
+[/c81 tan tan( ) cot89 90 1 1° = ° − ° = ° ]
+= °⋅ ° °log( ... )1 1 1 = 0
+15. (c) /c81 Given, tan
+tan
+θ
+θ
++ = 1 2
+On squaring both side, we get tan
+tan
+θ
+θ
++
+ 
+ =1 2
+2
+2
+⇒
+tan
+tan
+2
+2
+1 2 4θ
+θ
++ + = ⇒ tan
+tan
+2
+2
+1 2θ
+θ
++ =
+16. (c) Given, sec θ = 13
+5
+∴ tan secθ θ= − = −2 1 169
+25
+1 = = 144
+25
+12
+5
+∴
+2 3
+4 9
+2 3
+4 9
+sin cos
+sin cos
+sin
+cos
+sin
+cos
+θ θ
+θ θ
+θ
+θ
+θ
+θ
+−
+−
+=
+−
+−
+(dividing numerator and denominator by cos θ)
+=
+−
+−
+2 3
+4 9
+tan
+tan
+θ
+θ
+=
+× −
+× −
+= = =
+2 12
+5
+3
+4 12
+5
+9
+9 5
+3 5
+9
+3
+3/
+/
+17. (c) sin ( ) cos ( )45 45° + − ° −A A
+= °+ − °− °+sin( ) cos[( ( )]45 90 45A A = °+ − °+sin( ) sin( )45 45A A
+= 0
+18. (b) 1
+1
+1 1
+1 1
++
+−
+= + +
+− +
+sin
+sin
+( sin )( sin )
+( sin )( sin )
+θ
+θ
+θ θ
+θ θ
+= +
+−
+= +( sin )
+sin
+( sin )
+cos
+1
+1
+12
+2
+2
+2
+θ
+θ
+θ
+θ
+= +1 sin
+cos
+θ
+θ
+= + 1
+cos
+sin
+cosθ
+θ
+θ
+= +sec tanθ θ
+19. (b) sin ( ) sin ( )n A n A+ −1 1 + + −cos ( ) cos ( )n A n A1 1
+= + − −cos [( ) ( ) ]n A n A1 1
+[ cos cos sin sin/c81 A B A B+ = cos( – )]A B
+= + − +cos [ ]nA A nA A = cos 2 A
+20. (a) cos sin
+cos sin
+11 11
+11 11
+°+ °
+°− °
+Divide numerator and denominator by cos 11°
+= + °
+− °
+= °+ °
+− ° °
+1 11
+1 11
+45 11
+1 45 11
+tan
+tan
+tan tan
+tan tan
+= ° + °tan ( )45 11 = °tan 56
+21. (c) tan sin
+cos
+sin
+sin
+θ θ
+θ
+θ
+θ
+= =
+−1 2
+=
+−
++
+− −
++
+a b
+a b
+a b
+a b
+2 2
+2 2
+2 2 2
+2 2 21 ( )
+( )
+=
+−
++
++ − −
++
+a b
+a b
+a b a b
+a b
+2 2
+2 2
+2 2 2 2 2 2
+2 2
+( ) ( )
+= −a b
+a b
+2 2
+2 24
+= −a b
+ab
+2 2
+2
+22. (d) Given, cosθ = .0 96, sin cosθ θ= − = −1 1 2 (0.96)2
+= − =1 0 9216 0 28. . , tan sin
+cos
+θ θ
+θ
+= = = 0.28
+0.96
+7
+24
+1 1 100
+28
+24
+7sin tanθ θ
++ = + = =196
+28
+7
+23. (b) As we know, sin x is increasing from 0 to 90°.
+∴ sin siny > x
+24. (a) Given, (sin ) .θ θ+ =cosec 2 5
+⇒ sin
+sin
+θ
+θ
++
+
+
+
+
+
+
+
+ =1 5
+2
+⇒ 2 5 2 02sin sinθ θ− + =
+⇒ 2 4 2 02sin sin sinθ θ θ− − + =
+⇒ 2 2 1 2 0sin (sin ) (sin )θ θ θ − − − =
+⇒ ( sin ) (sin )2 1 2 0θ θ− − = ⇒
+sin θ = 1
+2
+(/c81sin θ ≠ 2)
+∴ θ = ° 30
+25. (a) Given, cos
+cos
+x
+y
+n= and sin
+sin
+x
+y
+m= ...(i)
+Now, ( ) sinm n y2 2 2− = −
+
+ 
+
+sin
+sin
+cos
+cos
+sin
+2
+2
+2
+2
+2x x
+y y
+y
+= − − −( cos ) cos cos ( cos )
+cos
+1 1 2 2 2 2
+2
+x x y y
+y
+= − = −cos cos
+cos
+2 2
+2
+21y
+y
+nx [from Eq. (i)]
+26. (b) Given, p = +tan cot2 2x x = +tan
+tan
+2
+2
+1x
+x
+/c81 AM GM≥ ⇒ tan
+tan
+2
+2
+1x
+x
++ , ≥ ⋅ 
+ 
+2 12
+2
+1 2
+tan
+tan
+/
+x
+x
+⇒
+tan
+tan
+2
+2
+1 2x
+x
++ ≥ ⇒ p ≥ 2
+27. (a) Let angles in circular measure are A and B, then degree
+measures will be A 180
+π
+
+ 
+ and
+B 180
+π
+
+ 
+ .
+By given condition, A B+ = 1 …(i)
+A B180 180 1
+π π
+
+ 
+ − 
+ 
+ = …(ii)
+On multiplying Eq. (i) by
+180
+π
+and adding to Eq. (ii), we get
+2 180 180 1A
+π π
+
+ 
+ = + ⇒
+A = × + 
+
+
+ = +1
+2
+11
+180
+180 1 1
+2 360π
+π
+∴
+B A= − = − + 
+ 
+ = −1 1 1
+2 360
+1
+2 360
+π π
+28. (b) [( sin ) sec tan ]1 2 2 2− + θ θ θ (cos )2 1θ +
+= ⋅ + +[ ] ( )cos sec tan cos2 2 2 2 1θ θ θ θ (/c81sin cos2 2 1θ θ+ = )
+= + +( tan ) (cos )1 1 2 2θ θ = + sec cos2 2 ( 1)θ θ
+(/c81sec tan2 2 1θ θ− = )
+= ⋅ +sec cos2 2θ θ θ sec2 = + >1 2 2sec θ
+(/c81sec2 1θ > for 0 90< < °θ )
+29. (d) Given, 7 3 2 2cos sinθ θ = 4+ ⇒ 7 3 1 42 2cos ( cos )θ θ+ − =
+⇒ 3 4 2− cos θ = 4 ⇒ cos 2 θ = 1/ 4
+Now,
+tan 2 1 1θ = θ − 1 =
+θ
+sec
+cos
+2
+2 − ⇒ tan 2 θ = 4 − 1 = 3
+∴ tanθ = 3 ( / ) /c81 0 2< θ < π
+30. (d) We know that, the value of cos θ is decreasing in the interval
+0 90≤ ≤ °θ
+∴ cos cos1 89° > ° ⇒ p q>
+Also, cos 1° is close to 1 and cos 89° is close to 0.
+Hence, option (d) is correct.
+--- PDF PAGE 418 ---
+213MATHEMATICS Measurements of□Angles and Trigonometric Ratios
+31. (d) We know in the interval θ π / θ∈ ( , ), sec0 2 2 is increasing from 1
+to ∞ .
+∴ p ≥ 1
+32. (b) /c81cos 90 0° =
+∴ cos cos cos cos1 2 3 90° ° °… ° = 0 (/c81cos 90 0° = )
+33. (c) Given, tan cos
+sin
+A B
+B
+= −1
+∴ 2
+1
+2 1
+1 12 2
+tan
+tan
+( cos )
+sin
+cos
+sin
+A
+A
+B
+B
+B
+B
+−
+=
+⋅ −
+− −
+ 
+
+= −
+− − +
+2 1
+1 22 2
+( cos ) sin
+sin cos cos
+B B
+B B B
+= −
+− +
+2 1
+2 2 2
+B B
+B B
+( cos ) sin
+cos cos
+= −
+−
+2 1
+2 1
+sin ( cos )
+cos ( cos )
+B B
+B B
+= sin
+cos
+B
+B
+= tan B
+34. (c) cot cot cot cot15 20 70 75° ° ° °
+= ° − ° ° − °tan ( ) tan ( )90 15 90 20 cot cot 70 75° °
+= ° °
+°
+⋅
+°
+tan tan
+tan tan
+75 70 1
+70
+1
+75
+= 1
+35. (b) Given, sin
+cos
+cos
+sin
+θ
+θ
+θ
+θ
++ = 2
+∴ sin cos sin cos2 2 2θ θ θ θ+ =
+⇒ sin 2 1θ = = ° sin 90 ⇒ 2 90θ = ° ⇒ θ = ° 45
+36. (d) Given, in right angled ∆ ABC , ∠ = °B 90 and AB : AC = 1 2 :
+Let AB = x, AC = 2 x
+⇒ AB BC AC2 2 2+ = (using pythagoras theorem)
+⇒ x x2 2 2 2+ =BC ( )
+⇒ BC 2 2 2 2= − x x ⇒ BC = x
+∴ tan A BC
+AB
+= = = x
+x
+1
+∴
+2
+1
+2 1
+1 1
+2
+02 2
+tan
+tan
+( )A
+A−
+=
+−
+= = ∞ (undefined)
+37. (a) Given,
+AD DB a= =
+2
+and ∠ = °B 90
+In right angled ∆ ABC , BC AB AC2 2 2+ =
+⇒ BC a b2 2 2+ = ⇒ BC b a= − 2 2
+In right angled ∆ BCD, CD BC BD2 2 2= +
+CD b a a2 2 2 2
+2
+2
+= − + 
+ 
+( )
+= − +
+ 
+b a a2 2
+2
+4
+⇒
+CD b a2
+2 24 3
+4
+= − ⇒ CD b a= −4 3
+2
+2 2
+∴ cosθ = = −
+−
+BC
+CD
+b a
+b a
+2 2
+2 24 3
+2
+= −
+−
+2
+4 3
+2 2
+2 2
+b a
+b a
+38. (d) Given, sin cosx x+ = 3 1
+On dividing both sides by 2, we get 1
+2
+3
+2
+1
+2
+sin cosx x+ =
+⇒ sin sin cos cos /x x 30 30 1 2° + ° =
+⇒ cos ( ) cosx − ° = °30 60 ⇒ x − ° = °30 60
+∴ x = °90
+39. (c) cosec A A⋅sec = + ⋅ +1 1
+2
+2tan
+tan
+tanA
+A
+A
+= + = + −
+−
+1 1 2 1
+2 1
+2 2tan
+tan
+( )A
+A
+( tan – )/c81 A = 2 1
+= + + −
+−
+= −
+−
+1 2 1 2 2
+2 1
+4 2 2
+2 1( )
+= −
+−
+2 2 2 1
+2 1
+( )
+( )
+= 2 2
+40. (c) Given, tan θ = 3
+1
+⇒ sinθ = 3 θcos ⇒ sinθ = 3 θ1− sin 2
+Squaring both sides, we get sin 2 1θ = 9( θ)− sin 2
+⇒ 10 2sin θ = 9 ⇒ sinθ = 9
+10
+= − 3
+10
+(/c81θ lies in IIIrd quadrant, so sin θ will be negative)
+41. (a) sin cos cos sin20 70 20 70° ° + ° °
+= °+ ° = ° =sin( ) sin20 70 90 1
+[ sin cos cos sin sin( )/c81 A B A B A B+ = + ]
+42. (a) φ θ + = °180 ⇒ θ = ° − φ180 ⇒ sin sin ( )θ = ° − φ180
+sin sinθ = φ
+43. (b) cos cos sinx xcosec y y−
+= ⋅ °− − ⋅ °−cos ( ) cos sin( )x x x xcosec 90 90
+( /c81 x + = °y 90 , given)
+= ⋅ −cos sec cosx x x 2
+= − 1 2cos x = = sin sin2 x x
+44. (c) 2 2 2 4 2 2 1 4+ + = + +cos ( cos )θ θ
+= + 2 2 2 2 2( cos ) θ = + 2 4 2 2cos θ = + 2 2 2 cos θ
+= + 2 1 2( cos ) θ = 2 2 2( cos ) θ = = 4 2 2cos cosθ θ
+45. (b) Given, tan A = 5
+6
+and tan B = 1
+11
+/c81 tan ( ) tan tan
+tan tan
+A B A B
+A B
++ = +
+−1
+=
++
+− ⋅
+=
++
+−
+5
+6
+1
+11
+1 5
+6
+1
+11
+55 6
+66
+66 5
+66
+= =61
+61
+1
+⇒ tan ( )A B+ = 1 ⇒
+tan( ) tanA B+ = π
+4
+⇒
+A B+ = π
+4
+46. (c)
+1
+2 2 2
+(cos sin ) cos sinA A A A− = −
+= −cos cos sin sinπ π
+4 4
+A A
+= + 
+ 
+cos π
+4
+A
+[ cos cos – sin sin cos( )]/c81 A B A B A B = +
+47. (d)
+sin cos cos sinπ π π π
+4 12 4 12
+⋅ − ⋅
+= − 
+ 
+sin π π
+4 12
+[ sin cos – cos sin sin ( )]/c81 A B A B A B = −
+= 
+ 
+ =sin π
+6
+1
+2
+B
+C
+A x
+√ 2 x
+--- PDF PAGE 419 ---
+214 CDS Pathfinder
+48. (c) Given, tan sin
+cos
+θ φ
+φ
+=
+−
+x
+x1
+⇒ x xsin tan cos tanφ θ φ θ= −
+⇒ x =
++
+tan
+sin cos tan
+θ
+φ φ θ
+=
++
+=
++
+sin
+cos sin cos sin
+sin
+sin( )
+θ
+θ φ φ θ
+θ
+θ φ
+Similarly, y =
++
+sin
+sin ( )
+φ
+θ φ
+, Hence, x
+y
+= sin
+sin
+θ
+φ
+49. (b) Given, sin ( ) sin ( )θ φ θ φ+ = − 2
+⇒ sin cos cos sin (sin cos cos sin )θ φ θ φ θ φ θ φ+ = − 2
+⇒ 3 cos sin sin cosθ φ θ φ = ⇒
+3 sin
+cos
+sin
+cos
+φ
+φ
+θ
+θ
+=
+⇒ 3 tan tanφ θ= or tan tanθ φ= 3
+50. (a) Given, sin ( ) cos ( )θ α θ α+ = + ⇒ sin( )
+cos( )
+θ α
+θ α
++
++
+= 1
+⇒ tan ( )θ α + = 1 ⇒ tan tan
+tan tan
+θ α
+θ α
++
+−
+=
+1
+1
+⇒ tan tan tan tanθ α θ α+ = − 1
+⇒ tan ( tan )θ α1 + = − 1 tan α ⇒ tan tan
+tan
+θ α
+α
+= −
++
+1
+1
+51. (c) cos sin2 2
+2 2
+θ φ θ φ− − +
+= − + +
+ 
+⋅ − − +
+ 
+cos cosθ φ θ φ θ φ θ φ
+2 2 2 2
+[/c81cos sin cos ( ) cos ( )]2 2A B A B A B− = + −
+= ⋅ −cos cos ( )θ φ = ⋅ cos cosθ φ
+52. (c) x2 2 2+ +y z = + +r r r2 2 2 2 2 2 2 2sin cos sin sin cosθ φ θ φ θ
+= + +r r2 2 2 2 2 2sin (cos sin ) cosθ φ φ θ
+= +r r2 2 2 2sin cosθ θ = + = r r2 2 2 2(sin cos )θ θ
+53. (c) Given,
+cot θ = 7
+24
+, cosec2 θ θ= + = + =1 1 49
+576
+625
+576
+2cot
+∴ cosecθ = ± 25
+24
+⇒
+sin θ = ± 24
+25
+, cos sin2 2 1θ θ= −
+= − =1 576
+625
+49
+625
+∴ cosθ = ± 7
+25
+, As π θ < π< 3
+2
+∴ sin θ and cosθ both are negative.
+∴ sin , cosθ θ= − = −24
+25
+7
+25
+∴ cos sinθ θ− = − + =7
+25
+24
+25
+17
+25
+54. (b) Given,
+sin sinα = = °1
+2
+30 ⇒ α = ° 30
+Also, β π α= − = ° − ° = °
+2
+90 30 60
+55. (c) Given, sin cosx x− = 0 ⇒ sin cosx x= ⇒ tan x = 1
+⇒ tan tanx = π
+4
+⇒
+x = π
+4
+∴
+sin cos sin cos4 4 4 4
+4 4
+x x+ = + π π = 
+ 
+ + 
+ 
+1
+2
+1
+2
+4 4
+= + =1
+4
+1
+4
+1
+2
+56. (b) Given, 3 5cos sinx x= ⇒
+sin
+cos
+x
+x
+= 3
+5
+⇒
+tan x = 3
+5
+,
+5 2 2
+5 2 2
+3
+3
+sin sec cos
+sin sec cos
+x x x
+x x x
+− +
++ −
+= − +
++ −
+5 2 2
+5 2 2
+4
+4
+tan sec
+tan sec
+x x
+x x
+(dividing numerator and denominator by cos x)
+= − + +
++ + −
+5 2 1 2
+5 2 1 2
+2 2
+2 2
+tan ( tan )
+tan ( tan )
+x x
+x x
+=
+× − + 
+ 
+ +
+× + + 
+ 
+ −
+=
++ − ×5 3
+5
+2 1 9
+25
+2
+5 3
+5
+2 1 9
+25
+2
+3 2 2 11
+2
+2
+56
+625
+3 2 2 1156
+625
+− + ×
+=
+−
++
+3125 2312
+625 2312
+= =813
+2937
+271
+979
+57. (b) 1
+1
+1
+1
+1
+1
++ = +
+−
+× +
++
+cos
+– cos
+( cos )
+( cos )
+cos
+cos
+x
+x
+x
+x
+x
+x
+= + = + = +1 1 cos
+sin sin
+cos
+sin
+cotx
+x x
+x
+x
+x xcosec
+58. (a) cos sin4 4x x− = − + (cos sin ) (sin cos )2 2 2 2x x x x
+= − −[(cos ) ( cos )]2 2 1x x = −2 1 2cos x ( sin cos )/c81 2 2 1x x+ =
+59. (a) sin
+cos
+sin
+cos
+cos
+cos
+θ
+θ
+θ
+θ
+θ
+θ1 1
+1
+1+
+=
++
+× −
+−
+= −sin ( cos )
+sin
+θ θ
+θ
+1
+2 = −1 cos
+sin
+θ
+θ
+60. (a) 5 4
+3 5
+3 5
+4 5
+cos
+sin
+sin
+cos
+θ
+θ
+θ
+θ
+−
+−
+− +
++
+= − + − + −
+− +
+( cos )( cos ) ( sin )( sin )
+( sin )(
+5 4 4 5 3 5 3 5
+3 5 4
+θ θ θ θ
+θ 5 cos )θ
+= − − −
+− +
+( cos ) ( sin )
+( sin )( cos )
+25 16 9 25
+3 5 4 5
+2 2θ θ
+θ θ
+= + −
+− +
+25 25
+3 5 4 5
+2 2(sin cos )
+( sin )( cos )
+θ θ
+θ θ
+= −
+− +
+=25 25
+3 5 4 5
+0
+( sin )( cos )θ θ
+61. (a) sin ( ) cos ( )α β α β+ = − + 1 2 = − = =1 16
+25
+9
+25
+3
+5
+cos ( ) sin ( )α β α β− = − − 1 2 = − = =1 25
+169
+144
+169
+12
+13
+∴
+tan ( ) sin( )
+cos( )
+α β α β
+α β
++ = +
++
+= ×
+ 
+ =3
+5
+5
+4
+3
+4
+tan ( ) sin( )
+cos( )
+α β α β
+α β
+− = −
+−
+= × =5
+13
+13
+12
+5
+12
+∴ tan ( ) tan[( ) ( )]2α α β α β= + + −
+= + + −
+− + ⋅ −
+tan( ) tan( )
+tan( ) tan( )
+α β α β
+α β α β1
+=
++
+− ×
+=
+3
+4
+5
+12
+1 3
+4
+5
+12
+56
+33
+62. (a)
+tan ( ) tan tan
+tan tan
+tan
+tan
+45 45
+1 45
+1
+1
+° + = °+
+− °
+= +
+−
+x x
+x
+x
+x
+tan ( ) tan tan
+tan tan
+tan
+tan
+45 45
+1 45
+1
+1
+° − = °−
++ °
+= −
++
+x x
+x
+x
+x
+∴ tan( )
+tan( )
+tan
+tan
+tan
+tan
+ta45
+45
+1
+1
+1
+1
+1°+
+°−
+=
++
+−
+−
++
+= +x
+x
+x
+x
+x
+x
+n
+tan
+x
+x1
+2
+−
+
+
+
+
+--- PDF PAGE 420 ---
+215MATHEMATICS Measurements of□Angles and Trigonometric Ratios
+63. (a) ( sin cos )(sin cos )
+cos )(sin
+1 2 2
+3
+− −
+−
+A A A A
+A A A(sec cosec A A+ cos )3
+=
+− −
+−
+ 
+
+( sin cos )(sin cos )
+cos
+cos sin
+(si
+1
+1 1
+2 2A A A A
+A
+A A
+n cos )
+(sin cos sin cos )
+A A
+A A A A
++
++ −
+
+
+
+
+
+
+
+
+
+2 2
+=
+− ⋅
+× + −
+[( sin cos )(sin cos )
+(sin cos ) (sin cos )]
+[
+1 A A A A
+A A A A
+cos (sin cos )(sin cos )
+( sin cos )]
+sin
+A A A A A
+A A
+A
+− +
+−
+=
+1
+64. (c) ( tan ) ( tan )1 1+ + A B
+= + + ° −( tan ) [ tan ( )]1 1 45 A A
+= + + °−
++ °
+
+
+
+( tan ) tan tan
+tan tan
+1 1 45
+1 45
+A A
+A
+(/c81A B+ = ° 45 )
+= + + −
++
+
+
+
+( tan ) tan
+tan
+1 1 1
+1
+A A
+A
+= + + + −
++
+
+
+
+( tan ) tan tan
+tan
+1 1 1
+1
+A A A
+A
+= +
++
+
+
+
+( tan )
+tan
+1 2
+1
+A
+A
+= 2
+65. (a) /c81
+cos cos sin ( ) sin ( )A B A B B A− = + ⋅ −2
+2 2
+and sin sin sin ( ) cos ( )A B A B A B+ = + ⋅ −2
+2 2
+∴ cos cos
+sin sin
+sin( ) sin( )
+sin( ) c
+2 2
+2 2
+2
+2
+B A
+B A
+A B A B
+A B
+−
++
+= + −
++ os( )A B−
+= −tan ( )A B
+66. (d) sec tan2 2 7x x+ = (/c81sec2 x x= +1 2tan )
+1 7 2 2+ + =tan tanx x ⇒ 1 2 7 2+ = tan x
+⇒ 2 6 2tan x = ⇒ tan tanx = = °3 60
+∴ x = °60
+67. (a) cos sin3 3θ θ+ = + 
+ 
+2 1
+2
+3 1
+2
+3cos sinθ θ
+= ° + °2 45 3 45 3(sin cos cos sin )θ θ = ° +2 45 3[sin ( )] θ
+cos3θ + 3θsin is maximum when sin( )45 3°+ θ is maximum
+The maximum value of sin ( ) sin45 3 1 90° + = = °θ
+⇒ 45 3 90° + = °θ ⇒ θ = ° 15
+68. (c) sin sin sin2 2 2x + + y z = + +(sin sin sin )x y z 2
+⇒ sin sin sin sinx y y z+ + = sin sinz x 0
+[/c81( )a b c+ + 2 = + + + + +a b c ab bc ca2 2 2 2 ( ) ]
+On dividing both sides by sin sin sinx y z
+⇒ 1 1 1 0
+sin sin sinx
++ + =
+y z
+69. (d) Given, sin sinx x+ = 2 1 …(i)
+⇒ sin sinx x= −1 2 = cos 2 x (/c81sin cos2 2 1x x+ = )
+∴ cos cos (sin ) sin2 4 2x x x x+ = + = 1 [from Eq. (i)]
+70. (a) (cos cos ) cos35 85 155° + ° + °
+= ° ° + ° − °2 60 25 180 25cos cos cos ( )
+= × ° − °2 1
+2
+25 25cos cos = ° − ° =cos cos25 25 0
+71. (a) Refer to example 16.
+72. (d) Given, tan θ = p
+q
+,
+p q pcos sin tan
+tan
+2 2 1
+1
+2
+2θ θ = − θ
+θ
++
++
+
+ 
+
++
++
+
+ 
+q 2
+1 2
+tan
+tan
+θ
+θ
+=
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+p
+p
+q
+p
+q
+q
+p
+q
+p
+q
+1
+1
+2
+1
+2
+2
+2
+2
+2
+2
+= −
++
+
+
+
+
+
+
+
+ +
++
+
+
+
+
+
+
+
+p q p
+q p
+pq
+q p
+2 2
+2 2
+2
+2 2
+2
+= − +
++
+p q p q
+p q
+( ) 2 2 2
+2 2
+2 = −
++
+p q p
+p q
+( )3 2 2
+2 2
+73. (c) Given, x = =y zcos cos2
+3
+4
+3
+π π ⇒ x = − = − =y z k
+2 2
+(let)
+x = = − = −k y k z k, , 2 2
+⇒ x xy yz z+ + = − + − −k k k k( ) ( ) ( )2 2 2 + −( ) 2 k k
+= − + −2 4 22 2 2k k k = 0
+74. (c) Given, sin cosθ θ+ = m ...(i)
+and sec θ θ+ =cosec n ⇒ 1 1
+cos sinθ θ
++ = n
+⇒ sin cos
+sin cos
+θ θ
+θ θ
++ = n
+⇒ m n
+sin cosθ θ
+= ⇒ sin cosθ θ = m
+n
+[from Eq. (i)]
+On squaring Eq. (i), we get sin cos sin cos2 2 2 2θ θ θ θ+ + = m
+1 2 2+ = m
+n
+m ⇒ 2 12m
+n
+m= − [ sin cos ]/c81 2 2 1θ θ+ =
+⇒ 2 1 2m m n= −( )
+75. (b) Given, cosecθ θ− =sin a 3⇒ 1 3
+sin
+– sin
+θ
+θ = a
+⇒ 1 2
+3− =sin
+sin
+θ
+θ
+a ⇒ cos
+sin
+2
+3θ
+θ
+= a ⇒ cos sin2 3θ θ= a …(i)
+and sec cosθ θ− = b 3 ⇒ 1 3
+cos
+– cos
+θ
+θ = b ⇒ 1 2
+3− =cos
+cos
+θ
+θ
+b
+⇒ sin
+cos
+2
+3θ
+θ
+= b ⇒ sin cos2 3θ θ= b …(ii)
+On putting cos sinθ θ=
+2
+3b
+in Eq. (i), we get
+sin sin
+4
+6
+3θ θ
+b
+a= ⇒ sin 3 3 6θ = a b
+∴ sin θ = ab 2 …(iii)
+Similarly, cos θ = a b2 …(iv)
+On squaring and adding Eqs. (iii) and (iv), we get
+1 2 4 4 2= +a b a b ⇒ 1 2 2 2 2= +a b a b( )
+76. (d) As, we know that cos θ ≥ − 1 and cos θ ≤ 1
+∴ cos 2 1x ≥ − ⇒ 1 2 0+ ≥cos x
+cos 2 1x ≤ ⇒ 1 2 2+ ≤cos x
+So, minimum value of 1 2+ cos x is 0 and maximum value of
+1 2+ cos x is 2.
+--- PDF PAGE 421 ---
+216 CDS Pathfinder
+77. (b) cot ( )
+tan ( )
+θ φ
+θ φ
++ =
++
+1 = −
++
+1 tan tan
+tan tan
+θ φ
+θ φ
+=
++
+−
++
+1
+tan tan
+tan tan
+tan tanθ φ
+θ φ
+θ φ
+=
++
+−
++
+
+
+
+
+
+
+
+
+1 1
+1 1tan tan
+tan tan
+θ φ
+θ θ
+=
++
+−
++
+1 1
+tan tan (cot cot )θ φ θ φ
+= −1 1
+a b
+[/c81tan tanθ + φ = a, or cot cotθ + φ = b]
+78. (b) /c81tan tan ( )75 45 30° = ° + °
+⇒ tan tan tan
+– tan tan
+75 45 30
+1 45 30
+° = °+ °
+° °
+⇒ tan tan
+tan
+75 1 30
+1 30
+° = + °
+− °
+⇒ tan tan tan tan75 75 30 1 30°− °⋅ ° = + °
+⇒ tan tan tan tan75 30 75 30 1°− °− °⋅ ° =
+79. (b) sin ( ) sin ( )2 2 15 15° + − ° −A A = ° + + ° −sin ( )15 15 A A
+⋅ ° + − ° +sin ( )15 15 A A
+[/c81sin sin sin ( )2 2A B A B− = + ⋅ − sin ( )A B ]
+= °sin sin ( )30 2 A = 1
+2
+2sin A
+80. (a) sin cos
+cos sin
+38 68
+68 38
+° − °
+° + °
+= ° − ° − °
+° + ° − °
+cos( ) cos
+cos sin( )
+90 38 68
+68 90 52
+= ° − °
+° + °
+cos cos
+cos cos
+52 68
+68 52
+=
+° + °
+ 
+ ° − °
+ 
+
+° +
+2 52 68
+2
+68 52
+2
+2 52
+sin sin
+cos
+68
+2
+68 52
+2
+°
+ 
+ ° − °
+ 
+cos
+= °⋅ °
+°⋅ °
+sin sin
+cos cos
+60 8
+60 8
+= °⋅ ° = °tan tan tan60 8 3 8
+81. (c) 2 3 5cos (cos cos )x x x− +
+= − ⋅2 2 4cos cos cosx x x = −2 1 4cos ( cos )x x
+= ⋅2 2 2 2cos sinx x = 4 2 2cos ( sin cos )x x x = 16 3 2cos sinx x
+82. (c) cos sin4 1 2 2 2x x= − = − 1 2 2 2( sin cos )x x
+= −1 2 4 2 2( sin cos )x x = −1 8 2 2sin cosx x
+83. (a) 2 2 3 3sin cos sin cosA A A A −
+= −2 2 2sin cos (cos sin )A A A A
+= sin (cos )2 2A A = =2 2 2
+2
+1
+2
+4sin cos sinA A A
+84. (c) Given, a b ccos sinθ θ− =
+On squaring both sides, we get
+a b2 2 2 2cos sinθ θ+ − = 2 2ab ccos sinθ θ
+⇒ a b2 2 2 21 1( sin ) ( cos )− + − θ θ − = 2 2ab csin cosθ θ
+⇒ a b c a b2 2 2 2 2 2 2+ − = + sin cosθ θ + 2ab sin cosθ θ
+⇒ ( sin cos )a b a b cθ θ+ = + − 2 2 2 2
+⇒ a b a b csin cosθ θ+ = ± + − 2 2 2
+85. (d) Given, cos cosx x+ = 2 1 ⇒ cos cosx x= −1 2 = sin 2 x …(i)
+sin sin sin8 6 4 2x x x+ + = + + (cos ) cos cosx x x4 3 2 2
+= +(cos cos )2 2x x [from Eq. (i)]
+= =( ) 1 12
+86. (b) n
+m
+= −
+−
+sec cos
+sin
+x x
+x xcosec
+=
+−
+−
+1
+1
+2
+2
+cos
+cos
+sin
+sin
+x
+x
+x
+x
+= ⋅sin
+cos
+sin
+cos
+2
+2
+x
+x
+x
+x
+= 
+ 
+sin
+cos
+x
+x
+3
+⇒
+(tan )x 3 = 
+ 
+n
+m
+⇒
+tan
+/
+x = 
+ 
+n
+m
+1 3
+87. (a)
+2 1cos θ = +x
+x
+…(i)
+On cubing both sides, we get 8 13
+3
+cos θ = +
+ 
+x
+x
+8 1 3 1 13 3
+3cos θ = + + ⋅ + 
+ 
+x
+x
+x
+x
+x
+x
+8 1 3 23 3
+3cos ( cos )θ θ= + +x
+x
+[from Eq. (i)]
+⇒ 8 6 13 3
+3cos cosθ θ− = + x
+x
+⇒ 2 4 3 13 3
+3[ cos cos ]θ θ− = + x
+x
+⇒ 2 3 13
+3[cos ]θ = +x
+x
+88. (a) We know that, the value of cosθ decreases in the interval
+0 2≤ ≤ θ π /
+/c81 cos θ ≥ 1
+2
+⇒ cos cosθ π≥
+3
+⇒ θ π≤
+3
+89. (b) Given, sin A = 3
+5
+and
+cos B = 12
+13
+∴
+tan sin
+cos
+sin
+sin
+A A
+A
+A
+A
+= =
+−1 2
+=
+−
+3 5
+1 3 5 2
+/
+( / )
+= =3 5
+4 5
+3
+4
+/
+/
+and tan sin
+cos
+cos
+cos
+B B
+B
+B
+B
+= = −1 2
+=
+−
+=
+1 144
+169
+12
+13
+5 13
+12 13
+/
+/
+= 5
+12
+tan tan
+tan tan
+A B
+A B
+−
++
+=
+−
++ ⋅1
+3
+4
+5
+12
+1 3
+4
+5
+12
+=
+−
++
+×
+9 5
+12
+48 15
+4 12
+= = × =
+1
+3
+63
+48
+1
+3
+48
+63
+16
+63
+90. (a) Given, B C B C+ = ° ⇒ = ° −60 60
+sin ( ) sin [ ( )]120 120 60° − = ° − ° −B C = ° +sin ( )60 C
+= ° − ° +sin [ ( )]180 60 C = ° −sin ( )120 C
+91. (a) Given,
+x⋅ ° °
+° °
+cosec2 30 45
+8 45 60
+2
+2 2
+sec
+cos sin
+= ° − °tan tan2 260 30
+⇒ x × ×
+× 
+ 
+ × 
+
+ 
+
+
+( ) ( )2 2
+8 1
+2
+3
+2
+2 2
+2 2
+= − 
+ 
+( ) 3 1
+3
+2
+2
+⇒
+x × ×
+× ×
+= −4 2
+8 1
+2
+3
+4
+3 1
+3
+⇒ 8
+3
+8
+3
+x = ⇒ x = 1
+92. (c)
+sin
+cos
+cos
+sin
+x
+x
+x
+x1
+1
++
+= −
+The above identity is possible for all values of x except multiples of
+180°. Since, for x = °180 , sin x = 0 and 1 0+ =cos x .
+--- PDF PAGE 422 ---
+217MATHEMATICS Measurements of□Angles and Trigonometric Ratios
+93. (b) Given, cos cos ( )x x= −k y 2 ⇒ = −1 2
+k
+ycos( )
+cos
+x
+x
+Apply componendo and dividendo theorem
+1
+1
+2
+2
+−
++
+= − −
+− +
+k
+k
+y
+y
+cos( ) cos
+cos( ) cos
+x x
+x x
+=
++ +
++
+2 2
+2
+2
+2
+2 2
+2
+2
+2
+sin – sin –
+cos – cos – –
+x x x x
+x x x x
+y y
+y y
+= −
+−
+= −2
+2
+sin( ) sin
+cos( ) cos
+tan( ) tanx
+x
+xy y
+y y
+y y
+94. (b) sin( ) sin sin( )
+cos( ) cos cos( )
+x x x
+x x x
++ − + −
++ − + −
+y y
+y y
+2
+2
+= + +
++ +
+sin( ) sin( – ) – sin
+cos( ) cos( – ) – cos
+x x x
+x x x
+y y
+y y
+2
+2
+=
++ + − ⋅ + − + −
++ + − ⋅
+2
+2 2
+2
+2
+2
+sin cos sin
+cos ( ) cos (
+x x x x x
+x x
+y y y y
+y y x x x+ − + −y y ) cos
+2
+2
+= −
+−
+= −2 2
+2 2
+2 1
+2
+sin cos sin
+cos cos cos
+sin (cos )
+cos
+x x
+x x
+x
+x
+y
+y
+y
+(cos )y − 1
+= =sin
+cos tanx xx
+95. (c) Given, sin sinx + = y a ⇒ 2
+2 2
+sin cosx x+ − =y y a …(i)
+and cos cosx + = y b ⇒ 2
+2 2
+cos cos ( )x x+ ⋅ − =y y b …(ii)
+On dividing Eq. (i) from Eq. (ii), we get
+∴
+2
+2 2
+2
+2 2
+sin cos
+cos cos ( )
+x x
+x x
++ −
++ − =
+y y
+y y
+a
+b
+⇒
+tan x + =y a
+b2
+96. (a) Here, r = length of largest hand of clock
+l = distance covered by largest hand of clock
+Angle traced in 60 min = °360
+Angle traced in 20 min
+= ° × = °360
+60
+20 120 ⇒ θ π= 2
+3
+As, θ = l
+r
+⇒ l r= θ , ⇒
+l = ×42 2
+3
+π = × ×
+×
+42 2 22
+3 7
+= 88 cm
+97. (d) Given, 2 15 7 2sin cosx x+ = ⇒ 2 15 15 7 2sin sinx x+ − =
+⇒ 15 2 8 02sin sinx x− − =
+⇒ 15 12 10 8 02sin sin sinx x x− + − =
+⇒ 3 5 4 2 5 4 0sin ( sin ) ( sin )x x x − + − =
+⇒ ( sin ) ( sin )3 2 5 4 0x x+ − =
+⇒ sin x = 4
+5
+/c81sin ,x x≠ − ° < < °
+ 
+2
+3
+0 90
+∴
+cos sinx x= − = − 
+ 
+1 1 4
+5
+2
+2
+= 
+ 
+ =3
+5
+3
+5
+2
+∴
+tan sin
+cos
+/
+/
+x x
+x
+= = = 4 5
+3 5
+4
+3
+98. (a) In ∆ ABC , A B C+ + = ° 180
+∴ A B C+ = ° −180 ⇒ tan ( ) tan ( )A B C+ = ° − 180
+⇒ tan tan
+tan tan
+tanA B
+A B
+C+
+−
+= −
+1
+⇒ tan tan tan tan tan tanA B C A B C+ = − +
+⇒ tan tan tan tan tan tanA B C A B C+ + =
+99. (c) Given, x a= sec cosθ φ , y b= sec sinθ φ and z c= tanθ,
+x
+a
+y
+b
+z
+c
+2
+2
+2
+2
+2
+2+ − = + −a
+a
+b
+b
+c
+c
+2 2 2
+2
+2 2 2
+2
+2 2
+2
+sec cos sec sin tanθ φ θ φ θ
+= + −sec cos sin tan2 2 2 2θ [ φ φ] θ = − sec tan2 2θ θ = 1
+100. (a) The squares of the tangents of the angles 30°, 45° and 60° are i n
+G.P .
+⇒ tan 2 30°, tan 2 45°, tan 2 °60 are in G.P . ⇒ 1
+3
+1 3
+2
+2 2
+ 
+ , ( ) , ( )
+are in G.P . ⇒
+1
+3
+1 3 , ,are in G.P .
+which is true as 1 1
+3
+3 1 12 = × ⇒ =
+101. (d) We know that, in a cyclic quadrilateral sum of opposite angle is
+180°.
+∴ A C+ = ° 180 …(i)
+and B D+ = ° 180 …(ii)
+∴ cos cos cos cosA B C D+ + +
+= + + ° −cos cos cos ( )A B A 180 + ° −cos ( )180 B
+= + − −cos cos cos cosA B A B = 0
+[ cos ( ) cos ]∴ °− = −180 θ θ
+102. (a) We know that, for 0 90° < < °θ , there exist only one θ such that
+sin θ = a.
+103. (b)/c81sin ( ) sinB C A+ − = = ° 1 90 ⇒ B C A+ − = ° 90 …(i)
+/c81 cos ( ) cosC A B+ − = = ° 1 0
+∴ C A B+ − = ° 0 …(ii)
+and tan ( ) tanA B C+ − = = ° 1 45
+∴ A B C+ − = ° 45 …(iii)
+On adding Eqs. (i), (ii) and (iii), we get
+A B C+ + = ° 135 …(iv)
+On subtracting Eqs. (i), (ii), (iii) from Eq. (iv), we get
+2 45A = ° , 2 135B = ° , 2 90C = °
+A = °22 1
+2
+, B = °67 1
+2
+, C = °45
+104. (c) cos ( ) cos ( )180 180° + + ° +A B
++ ° + + ° +cos ( ) cos ( )180 180C D
+= − − − −cos cos cos cosA B C D
+= − − − ° −cos cos cos ( )A B A 180 − ° −cos ( )180 B
+(/c81A C B D+ = + = ° 180 )
+= − − + +cos cos cos cosA B A B = 0
+105. (d) In ∆ ABC ,
+tan A BC
+AC
+u
+v
+= = and tan B v
+u
+=
+Also, u v w2 2 2+ = (by pythagoras theorem) …(i)
+∴ tan tanA B u
+v
+v
+u
+u v
+uv
++ = + = +2 2
+= w
+uv
+2
+[from Eq. (i)]
+uC
+A
+v
+B
+w
+--- PDF PAGE 423 ---
+106. (a)/c81In 24 h, Earth rotate about its own
+axis = °360
+In 1 h Earth rotate about its own axis
+= ° = °360
+24
+15
+In 4 h Earth rotate about its own axis
+= ° × = °15 4 60
+Since, in 60 min Earth rotate about its
+own axis = °15
+In 12 min Earth rotate about its own
+axis
+= °×
+°
+= °15 12
+60
+3
+∴ In 4 h 12 min Earth rotate about its
+own axis
+= ° + °60 3 = °63
+107. (a) In right angled ∆ OAB,
+cos 40 ° = AB
+OB
+⇒ cos 40 ° = r
+R
+⇒ r R= ° cos 40
+So, the radius of the circle of latitude
+40°S is R cos 40 °.
+108. (b) Given, sin cos ( )3 2θ θ= − °
+⇒ sin sin [ ( )]3 90 2θ θ= ° − − °
+⇒ 3 90 2θ θ= ° − + °
+⇒ 4 92θ = ° ⇒
+θ = ° = °92
+4
+23
+109. (c) I. RHS = + −cos ( tan )( tan )2 1 1θ θ θ
+= −cos ( tan )2 2 1θ θ
+= −
+ 
+cos cos sin
+cos
+2
+2 2
+2θ θ θ
+θ
+= −
++
+=cos sin
+cos sin
+2 2
+2 2
+θ θ
+θ θ
+LHS
+II. LHS = +
+−
+= +
+−
+1
+1
+1
+1
+2
+2
+sin
+sin
+( sin )
+sin
+θ
+θ
+θ
+θ
+= +
+ 
+1
+2
+sin
+cos
+θ
+θ
+= +(sec tan )θ θ 2
+Hence, both statements are correct.
+110. (c) Given,
+A = π
+6
+and
+B = π
+3
+I. LHS sin sin sin sinA B+ = + π π
+6 3
+= + = +1
+2
+3
+2
+1 3
+2
+RHS cos cos cos cosA B+ = + π π
+6 3
+= + = +3
+2
+1
+2
+3 1
+2
+⇒ sin A B A B+ = +sin cos cos
+II. LHS tan tan tan tanA B+ = + π π
+6 3
+= + =1
+3
+3 4
+3
+RHS cot cot cot cotA B+ = + π π
+6 3
+= + =3 1
+3
+4
+3
+⇒ tan tan cot cotA B A B+ = +
+Hence, both statements are true.
+111. (a) /c81A B C D+ + + = ° 360
+∴ A B C D+ = ° − +360 ( )
+∴ sin ( ) sin [ ( )]A B C D+ = ° − + 360
+= − +sin ( )C D
+∴ sin ( ) sin ( )A B C D+ + + = 0
+Also, cos( ) cos[ ( )]A B C D+ = ° − + 360
+cos ( ) cos ( )A B C D+ = +
+Hence, only statement I is correct.
+112. (d) I. 1
+180
+° = π radian = =3 14
+180
+0 017. .
+= 0 02 . radians (approx)
+which is less than 0.03 radians.
+II. 1 radian = 180
+π
+degree
+= =180
+3 14
+57 32
+.
+. degree
+which is greater than 45°.
+Hence, both statements are true.
+113. (d) I. sin sin( ) sin( )θ θ θ⋅ °+ ⋅ °−60 60
+= sinθ[ 60°− θ]2sin sin 2
+= − 
+
+
+sin sinθ θ3
+4
+2
+= =1
+4
+3 1
+4
+33[ sin ] sinθ − 4 θ θsin
+II. cosθ (30°+θ) (30°− θ)⋅ ⋅sin sin
+= cosθ[ 30°− θ]2sin sin 2
+= − − 
+
+
+cos ( cosθ θ)1
+4
+1 2
+= =1
+4
+4 1
+4
+33[ cos ] cosθ − 3 θ θcos
+III. sin cos( ) cos( )θ θ θ⋅ °+ ⋅ °−30 30
+= °−sin [cos sin ]θ θ 2 230
+= − 
+
+
+sin sinθ θ3
+4
+2
+= 1
+4
+3 sinθ
+Hence, all three statements are correct.
+114. (d) In right angled ∆ ABC ,
+A B C+ + = ° 180
+I. sin( ) sin ( ) sinA B C C+ = ° − = 180
+II. sin sinA B C+
+ 
+ = °−
+ 
+2
+180
+2
+= ° − 
+ 
+ =sin cos90
+2 2
+C C
+III.
+tan A B C+ −
+ 
+2
+= °− −tan ( )180
+2
+C C
+= °−tan ( )180 2
+2
+C
+= ° − =tan ( ) cot90 C C
+IV. tan ( ) tan ( )A B C A B C− − = − +
+2 2
+= − °−tan ( )A A 180
+2
+= − ° −tan [ ( )]90 A
+= − ° −tan ( )90 A = − cot A
+Hence, all options are correct.
+115. (b) Given, sin( )A B+ = 1
+and sin( ) /A B− = 1 2
+∴ A B+ = π
+2
+…(i)
+∴
+A B− = π
+6
+…(ii)
+On adding Eqs. (i) and (ii), we get
+2 2
+3
+A = π ⇒ =A π
+3
+and B = π
+6
+116. (c) Now, tan ( ) tan( )A B A B+ ⋅ +2 2
+= + 
+ 
+⋅ + 
+ 
+tan tanπ π π π
+3 3
+2
+3 6
+= 
+ 
+⋅ 
+ 
+tan tan2
+3
+5
+6
+π π
+= + 
+ 
+⋅ + 
+ 
+tan tanπ π π π
+2 6 2 3
+= −
+
+
+ −
+
+
+cot cotπ π
+6 3
+= − −
+ 
+ =( ) 3 1
+3
+1
+117. (b) Now, sin sin2 2A B−
+( ) ( )= −sin / sin /2 2 3 6π π
+= 
+
+ 
+
+ − 
+ 
+3
+2
+1
+2
+2 2
+= − = =3
+4
+1
+4
+2
+4
+1
+2
+118. (c) Since, tan A, tan B are the roots of
+equation
+3 2 3 1 02x x − + =
+∴ tan tanA B+ = 2 3
+3
+and tan tan /A B⋅ = 1 3
+∴ tan( ) tan tan
+tan tan
+A B A B
+A B
++ = +
+− ⋅1
+=
+−
+= =
+2 3
+3
+1 1 3
+3
+3/
+tan π
+∴ A B+ = π / 3
+Now, A B C+ + = π
+⇒ C A B= − +π ( ) = − =π π π
+3
+2
+3
+218 CDS Pathfinder
+40°A r
+R
+O
+B
+--- PDF PAGE 424 ---
+119. (c) Now, sin cosC C+
+= − + + − +sin( ( )) cos( ( ))π π A B A B
+[as A B C C A B+ + = = − + π, π ( ) ]
+= + − +sin( ) cos( )A B A B
+= −sin( / ) cos( / )π π3 3
+= − = −3
+2
+1
+2
+3 1
+2
+120. (b) 2 1 2
+2sin tanB C
+C
+= +
+cosec
+= +1 2 3
+2 3
+2
+2
+tan ( / )
+( / )
+π
+πcosec
+= + −
+−
+1 3
+3
+2
+2
+tan ( / )
+( / )
+π π
+π πcosec
+2 1 3
+3
+2
+2sin tan /
+/
+B = + π
+πcosec
+= +1 3
+4 3 /
+= × =4
+4
+3 3
+sin sinB = = 3
+2 3
+π , B = π
+3
+121. (c) Given that, sin cos2 2 1 0x x+ − =
+⇒ sin cos2 2 1x x+ =
+which is an identity of trigonometric
+ratio and always true for every real value
+of x.
+So, the equation has infinite solutions.
+122. (c) Given that, 3 5 5sin cosx x+ =
+On squaring both sides, we get
+9 25 30 252 2sin cos sin cosx x x x+ + =
+⇒ 9 1 25 1 2 2( cos ) ( sin )− + − x x
++ =30 25sin cosx x
+⇒ 9 25 9 25 2 2+ − + { cos sinx x
+− =30 25sin cos }x x
+⇒ 9 3 5 2= −( cos sin )x x
+⇒ 3 5 3cos sinx x− =
+123. (c) Given, p a b= + sin cosx x and
+q a b= − cos sinx x
+⇒ p a b2 2 2 2 2= + sin cosx x
++ 2ab sin cosx x
+and q a b2 2 2 2 2= + cos sinx x
+− 2 ab sin cosx x
+∴ p q a b2 2 2 2 2 2+ = + + (sin cos )x x
+(cos sin )2 2x x+
+= +a b2 2
+124. (b) Given, α β + = ° 90 ...(i)
+∴
+( )cosec cosecα β⋅ sin
+sin
+cos
+cos
+/
+α
+β
+α
+β
++
+ 
+
+− 1 2
+= 1
+1 2(sin sin ) /α β
+sin cos cos sin
+sin cos
+/
+α β α β
+β β
++
+ 
+
+− 1 2
+= +
+
+
+
+
+
+−
+1
+1 2
+1 2
+(sin sin )
+sin( )
+sin cos/
+/
+α β
+α β
+β β
+= °
+°−
+
+
+
+
+
+
+−
+1 90
+901 2
+1 2
+(sin sin )
+sin
+cos( ) sin/
+/
+α β α β
+[from Eq. (i)]
+= × = 1 11 2
+1 2
+(sin sin )
+(sin sin )/
+/
+α β
+α β
+125. (c) I. cot
+cot
+(cos )30 1
+30 1
+2 30 1°+
+°−
+= ° +
+⇒
+3 1
+3 1
+2 3
+2
+1+
+−
+= + 
+
+ 
+
+
+⇒
+3 1
+3 1
+3 1
+3 1
++
+−
+× +
++
+= +
+
+ 
+
+2 3 2
+2
+⇒
+3 1 2 3
+3 1
+3 2+ +
+−
+= +
+⇒ 4 2 3
+2
++ = + 3 2
+⇒ 2 2 3
+2
+3 2( ) + = +
+⇒ 3 2 3 2+ = +
+So, it is true.
+II. 2 45 45 45 45 0sin cos tan cot° ° − ° ° =
+⇒
+2 1
+2
+1
+2
+× × 
+ 
+ – 1 1 0× =
+or
+2 1
+2
+× – 1 1 0× =
+⇒ 1 1 0− = , It is true.
+Hence, both statements I and II are
+true.
+126. (c) I. We know that, sin cos2 2 1θ θ+ =
+∴ sin cos2 21 1 1° + ° =
+II. We have
+sec cot2 233 57°− °
+= °− °cosec237 53 2tan
+LHS = °− °sec cot2 233 57
+= °− ° − °sec ( ) cot2 290 57 57
+= °− ° =cosec257 57 1 2cot
+RHS = °− °cosec237 53 2tan
+= °− °− °cosec237 90 53 2tan ( )
+= °− ° =cosec237 37 1 2cot
+LHS = RHS
+Hence, both statements are correct.
+127. (b) I. Given that, sin cosx x+ = 2
+⇒ (sin cos )x x+ = 2 4
+⇒ (sin cos ) sin cos2 2 2 4x x x x+ + =
+⇒ 1 2 4+ =sin x ⇒ sin 2 3x =
+As maximum value of sinθ is 1.
+Therefore, no value of x satisfy above
+equation. Thus, statement I is false.
+II. sin cosx x− = 0
+⇒ tan tanx = =1 4 π /
+It x lies in first quadrant, then
+tan tan /x = π 4 ⇒ x = π / 4
+Thus, statement II is true.
+128. (b) Given that,
+sin cosθ θ⋅ = 3
+4
+…(i)
+∴ sin cos4 4θ θ+
+= (sin cos ) sin cos2 2 2 2 2 2θ θ θ . θ+ −
+= − ⋅( ) (sin cos )1 22 2 θ θ
+= − 
+
+ 
+
+ = −1 2 3
+4
+1 2 3
+16
+2
+.
+= − =1 3
+8
+5
+8
+129. (d) Given that, θ lies is in first quadrant
+and tanθ= 3
+∴ tan 2 9θ =
+On adding both sides by 1, we get
+⇒ 1 10 2+ =tan θ
+⇒ sec2 10θ= ⇒
+secθ= 10
+(since, θ lies in first quadrant)
+⇒ cosθ = 1
+10
+...(i)
+/c81 sin cos2 2 1 1 1
+10
+9
+10
+θ = − θ = − =
+⇒ sinθ = 3
+10
+...(ii)
+Now, sin cosθ θ+ = + = 3
+10
+1
+10
+4
+10
+130. (d) If 0 90°< < °θ , then all the
+trigonometric ratios can be obtained
+when any one of the six ratios is given.
+131. (a) sin .cos .tan cos .sin .cotA A A A A A +
+= +sin .cos . sin
+cos
+cos .sin . cos
+sin
+A A A
+A
+A A A
+A
+= +sin cos2 2A A
+132. (a) sin
+cos
+cos
+sin
+θ
+θ
+θ
+θ1
+1
++
++ +
+= + +
++
+sin ( cos )
+sin ( cos )
+2 2 1
+1
+θ θ
+θ θ
+= sin cos cos
+sin ( cos )
+2 2 1 2
+1
+θ θ θ
+θ θ
++ + +
++
+= + + +
++
+sin cos cos
+sin ( cos )
+2 2 1 2
+1
+θ θ θ
+θ θ
+= + +
++
+1 1 2
+1
+cos
+sin ( cos )
+θ
+θ θ
+= +
++
+2 1
+1
+( cos )
+sin ( cos )
+θ
+θ θ
+= 2 cosecθ
+133. (c) sec – tan2 2 1D D =
+Since, it is a trigonometric identity.
+134. (b) Given, cos cosA A+ = 2 1
+⇒ = − =cos cos sinA A A1 2 2 ...(i)
+(/c81sin cos2 2 1θ θ+ = )
+Now, 2 2 4(sin sin )A A+
+= +2 2 2(sin cos )A A [from Eq. (i)]
+= ⋅ =2 1 2( )
+219MATHEMATICS Measurements of□Angles and Trigonometric Ratios
+--- PDF PAGE 425 ---
+220 CDS Pathfinder
+135. (c) ( tan ) ( tan )1 1 2 2− + + A A + −( cot )1 2A + +( cot )1 2A
+= + + +2 1 2 1 2 2[ tan ] [ cot ]A A
+[ ( ) ( ) ( )]/c81 a b a b a b− + + = +2 2 2 2 2
+= 2 2 2 2sec A A+ cosec = 2 1 1
+2 2cos sinA A
++
+ 
+
+=
+2
+2 2
+2 2
+sin cos
+sin cos
+A A
+A A
++
+⋅
+
+ 
+
+= ⋅
+⋅
+= ⋅2 1 22 2
+2 2
+A A
+A A( )
+sin cos
+sec cosec
+136. (d) Given, a 2 1 2
+1 2
+= + ⋅
+− ⋅
+sin cos
+sin cos
+θ θ
+θ θ
+⇒ a 2
+2 2
+2 2
+2
+2
+= + + ⋅
++ − ⋅
+(sin cos ) sin cos
+(sin cos ) sin cos
+θ θ θ θ
+θ θ θ
+θ
+⇒ a 2
+2
+2= +
+−
+(sin cos )
+(sin cos )
+θ θ
+θ θ
+⇒ a
+1
+= +
+−
+sin cos
+sin cos
+θ θ
+θ θ
+⇒ a
+a
++
+−
+1
+1
+= + + −
++
+(sin cos ) (sin cos )
+(sin cos )
+θ θ θ θ
+θ θ − −(sin cos )θ θ
+(applying componendo dividendo formula)
+⇒ a
+a
++
+−
+= =1
+1
+2
+2
+sin
+cos
+tanθ
+θ
+θ
+137. (b) Given, sin θ = −
++
+x
+x
+2 2
+2 2
+y
+y
+⇒ cos sin2 2 1θ θ= − = − −
++
+
+
+ 
+
+1
+2 2
+2 2
+2
+x
+x
+y
+y
+=
++ − −
++
+( ) ( )
+( )
+x x
+x
+2 2 2 2 2 2
+2 2 2
+y y
+y
+=
++
+=
++
+
+
+ 
+
+4 22 2
+2 2 2 2 2
+2
+x
+x
+x
+x
+y
+y
+y
+y( )
+∴ cos /θ = +2 2 2x xy y
+138. (b) Let f ( ) sin cosθ θ θ= +
+Maximum and minimum value of a bcos sinθ θ+ is
+− + ≤a b a2 2 cosθ + ≤ +b a bsin θ 2 2
+∴ − + ≤ + ≤ +1 1 1 1 cos sinθ θ
+⇒ − ≤ + ≤2 2 cos sinθ θ
+for 0 90≤ ≤ °θ , 1 2≤ ≤cosθ + θsin
+Hence, statement I is false.
+And let g ( ) tan cotθ θ θ= +
+= +tan
+tan
+θ
+θ
+1 (/c81 AM ≥ GM)
+⇒
+tan
+tan
+θ
+θ
++ 1
+2
+≥ tan
+tan
+θ
+θ
+⋅
+ 
+1
+1
+2
+⇒ (tan cot )θ θ+ ≥ 2
+So, (tan cot )θ θ+ is always greater than 1.
+Hence, statement II is true.
+Solutions (Q. Nos. 139-141) Let the angle of A, B, C and D of a
+quadrilateral be x, 2x, 4x and 5x.
+/c81x x x x+ + + = °2 4 5 360
+(/c81sum of all interior in a quadrilateral is 360°)
+⇒ 12 360 30x x == ° ° ,
+∴ ∠ = = ° ∠ = °A B x x =30 2 60,
+∠ = = ° ∠ = = °C D 4 120 5 150x x ,
+139. (a) Now, cos ( ) cos ( )A B+ = ° + ° 30 60 = ° =cos 90 0
+140. (b) Now, cosec ( )C D B− + = ° − ° + °cosec( )120 150 60
+= ° − ° = °cosec (180 150 ) cosec 30 = 2
+141. (d) If ABCD is a cyclic quadrilateral, then sum of opposite angles
+should be 180° but here
+∠ + ∠ = ° + ° = ° ≠ °A C 30 120 150 180
+and ∠ + ∠ = ° + ° = ° ≠ °B D 60 150 210 180
+So, statement I is incorrect.
+Now, sin ( ) cos ( )B A D C− = −
+⇒ sin ( ) cos ( )60 30 150 120° − ° = ° − °
+⇒ sin cos30 30° = ° ⇒
+1
+2
+3
+2
+≠
+So, statement II is also incorrect.
+142. (a) Given, sin cosθ θ+ = 3
+On squaring both sides, we get (sin cos ) ( )θ θ+ = 2 2 3
+⇒ sin cos sin cos2 2 2 3θ θ θ θ+ + = ⇒ 1 2 3+ = sin cosθ θ
+⇒ sin cosθ θ = − =3 1
+2
+1 ...(i)
+Now, tan cotθ θ+ = +sin
+cos
+cos
+sin
+θ
+θ
+θ
+θ
+= +sin cos
+sin cos
+2 2θ θ
+θ θ
+= 1
+sin cosθ θ
+From Eq. (i), tan cotθ θ+ = = 1
+1
+1
+143. (a) cos ( ) sec ( )ec 75 15° + − ° −θ θ = ° + cos ( )ec 75 θ
+− ° − ° +sec [ ( )]90 75 θ
+= ° + − ° +cos ( ) cos ( )ec ec75 75 θ θ = 0
+144. (c) Given, 5 12 13sin cosθ θ+ =
+On squaring both sides, we get
+25 1442 2sin cosθ θ+ + = 120 169sin cosθ θ
+⇒ 25 1 144 1 2 2( cos ) ( sin )− + − θ θ + = 120 169sin cosθ θ
+⇒ 25 25 144 1442 2− + −cos sinθ θ + = 120 169sin cosθ θ
+⇒ 25 1442 2cos sinθ θ+ − = − 120 169 169sin cosθ θ
+⇒ ( cos sin )5 12 0 2θ θ− = ⇒ 5 12 0cos sinθ θ− =
+145. (c) Given, sin cosθ θ− = 0
+∴ sin cosθ θ=
+Since, sin θ and cosθ are equal for θ = °45 .
+∴ sin cos4 4θ θ+ = ° + ° (sin ) (cos )45 454 4
+= 
+ 
+ + 
+ 
+1
+2
+1
+2
+4 4
+= +1
+4
+1
+4
+= + = =1 1
+4
+2
+4
+1
+2
+146. (c)
+cos ( ) cos ( )
+tan( tan( )
+2 245 45
+60 30
+°+ + °−
+°+ °−
+θ θ
+θ) θ
+= °+ + °− °+
+°+ ⋅ °−
+cos ( ) cos [ ( ]
+tan( ) tan[
+2 245 90 45
+60 90
+θ θ)
+θ ( ]60°+ θ
+= °+ + °+
+°+ ⋅ °+
+= =cos ( ) sin ( )
+tan( ) cot( )
+2 245 45
+60 60
+1
+1
+1θ θ
+θ θ
+147. (b) Given, tanθ + θ =sec m ⇒ tanθ = − θm sec
+On squaring both sides, we get
+⇒ tan sec2 2θ = θ − 2 θm m2 sec+
+⇒ tan tan2 2 2 1θ = θ − 2 θm m+ + sec
+⇒ 0 1 2 2= + −m m sec θ ⇒
+sec θ = +m
+m
+2 1
+2
+--- PDF PAGE 426 ---
+221MATHEMATICS Measurements of□Angles and Trigonometric Ratios
+148. (c) /c81 sinα = 3
+2
+⇒ sin sinα = ° 60
+⇒ α = ° 60 /c81 sin 60 3
+2
+° =
+
+ 
+
+
+Now,
+cosβ = 3
+2
+⇒ β = ° 30 /c81cos30 3
+2
+° =
+
+ 
+
+
+and tan γ = 1 ⇒ γ = ° 45 (/c81tan 45 1° = )
+∴ α β γ+ + = ° + ° + °60 30 45 = 135°
+149. (a)
+( sec tan ) cos
+( sec tan ) ( sin )
+1
+1 1
++ −
++ + −
+θ θ θ
+θ θ θ
+=
++ −
+ 
+
++ +
+ 
+
+1 1
+1 1
+cos
+sin
+cos
+cos
+cos
+sin
+cos
+(
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+1 − sin )θ
+=
++ −
+ 
+
++ + −
+cos sin
+cos
+cos
+(cos sin )( sin )
+cos
+θ θ
+θ
+θ
+θ θ θ
+1
+1 1
+θ
+= + −
++ + − − −
+cos sin
+cos sin sin cos sin sin
+cos
+θ θ
+θ θ θ θ θ θ
+θ
+1
+1 2
+= + −
++ − −
+cos sin
+cos sin sin cos
+cos
+θ θ
+θ θ θ θ
+θ
+1
+1 2 (/c81 1 2 2− =sin cosθ θ )
+= + −
++ −
+cos sin
+cos cos sin cos
+cos
+θ θ
+θ θ θ θ
+θ
+1
+2 = + −
++ −
+cos sin
+cos (cos sin )
+cos
+θ θ
+θ θ θ
+θ
+1
+1 = 1
+150. (c) In right angled ∆ ABC , if ∠ C is 90°, then
+∠ + ∠ = ° − ° = °A B 180 90 90
+Now, cos( ) sin( )A B A B+ + + = ° + ° cos sin90 90 = +0 1 = 1
+151. (a) Only statement I is correct as tanθ increases faster than sin θ as
+θ increases while statement II is wrong as the value of sin cosθ θ+
+is not always greater than 1. It may also be equal to 1.
+152. (a) Since, value of cosθ decreases, from 0° to 90° and at 45° it is
+equal to the value of sin θ.
+Similarly, value of sin θ increases from 0 to 90° and at 45° it is
+equal to the value of cosθ.
+For 0 45° < < °θ , cos sinθ θ>
+So, value of cos sin25 25° − ° is always positive but less than 1.
+153. (b) In right angled ∆ ABC, ∠ = °B 90
+∠ = °− ∠ + ∠ = °− °−∠ = °−∠C B A A A180 180 90 90( )
+∴ sin C = °− = =sin( ) cos /90 4 5A A
+154. (c) Since, α and β are complementary angle.
+∴ α β = ° −90
+Now, cos cos sinα β α βcosec − = − cos
+sin
+cos sinα
+β
+α β
+=
+° −
+− °−cos
+cos( )
+cos cos( )α
+β
+α β
+90
+90
+= − ⋅cos
+cos
+cos cosα
+α
+α α
+= − 1 2cos α = sin 2 α = sin α
+155. (d) Given, sec tanθ θ+ = 2 ...(i)
+By trigonometric identity, sec tan2 2 1θ θ− =
+⇒ (sec tan )(sec tan )θ θ θ θ+ − = 1⇒ sec tan /θ θ− = 1 2 ...(ii)
+On adding Eqs. (i) and (ii), we get
+⇒ 2 1
+2
+2sec θ = + ⇒ sec θ = 5
+4
+156. (b) cosec( ) sec ( )75 15° + − ° −θ θ − ° + + ° − tan( ) cot( )55 35 θ θ
+= ° + − ° − ° +cosec sec( ) [ ( )]75 90 75θ θ
+− ° + + ° − ° +tan( ) cot[ ( )]55 90 55θ θ
+= ° + − ° +cosec cosec( ) ( )75 75 θ θ
+− ° + + ° +tan( ) tan( )55 55 θ θ = 0
+157. (d) sin 25 sin 35 sec 65 sec 55° ° ° °
+= °⋅ °⋅
+°
+⋅
+°
+sin sin
+cos cos
+25 35 1
+65
+1
+55
+= °⋅ ° ⋅
+°− °
+⋅
+°− °
+sin sin
+cos( ) cos( )
+25 35 1
+90 25
+1
+90 35
+= ° ⋅ ° ⋅
+°
+⋅
+°
+sin sin
+sin sin
+25 35 1
+25
+1
+35
+= 1
+158. (c) Given, 2 3cotθ = ⇒ cotθ = 3
+2
+∴ 2
+2
+2 1
+2 1
+cos sin
+cos sin
+cot
+cot
+θ θ
+θ θ
+θ
+θ
+−
++
+= −
++
+=
+× −
+× +
+2 3
+2
+1
+2 3
+2
+1
+= −
++
+=3 1
+3 1
+2
+4
+= 1
+2
+159. (d) sin cos (sin ) (cos )6 6 2 3 2 3θ θ θ θ+ = +
+= + + −(sin cos )(sin cos sin cos )2 2 4 4 2 2θ θ θ θ θ θ
+[ ( )( )]/c81a b a b a b ab3 3 2 2+ = + + −
+= + −(sin cos ) sin cos2 2 2 2 2 2θ θ θ θ − sin cos2 2θ θ
+= −( sin cos )1 3 2 2θ θ = − ×1 3 1
+4
+= − =1 3
+4
+1
+4
+160. (a) Given, cos secx x+ = 2 ...(i)
+⇒ cos
+cos
+x
+x
++ = 1 2 ⇒ cos cos2 1 2x x+ =
+⇒ cos cos2 2 1 0x x− + = ⇒ (cos )x − =1 02 ⇒ cos x = 1
+∴ sec
+cos
+x
+x
+= = 1 1
+∴ cos sec ( ) ( )n n n nx x+ = + 1 1 = + =1 1 2
+161. (c) Given, sin cosθ θ+ =2 1
+On squaring both sides, we get (sin cos )θ θ+ =2 1 2
+⇒ sin cos sin cos2 2 4 4 1θ θ θ θ+ + =
+⇒ ( cos ) ( sin ) sin cos1 4 1 4 12 2− + − + =θ θ θ θ
+⇒ − + + = − (cos sin ) sin cos2 2 4 4 1 5θ θ θ θ
+⇒ cos sin sin cos2 2 4 4 4θ θ θ θ+ − =
+⇒ ( sin cos )2 4 2θ θ− = ⇒ 2 2sin cosθ θ− =
+162. (b) Given, tan cot8 2θ θ=
+⇒ tan tan( )8 90 2θ θ= ° − ⇒ 8 90 2θ θ= ° − ⇒ θ = ° 9
+∴ tan 5θ ⇒ tan 45 1° =
+163. (a) /c81 sin ( )A B+ = 1 = °sin 90 ⇒ ( )A B+ = ° 90
+⇒ A B= ° −90
+Now, cos ( ) cos cos sin sinA B A B A B− = +
+= ° − + ° −cos ( ) cos sin ( ) sin90 90 B B B B
+= +sin cos cos sinB B B B = 2 sin cosB B = sin 2 B
+164. (d) Clock will make right angle at ( )5 15 12
+11
+n + × min past n.
+Here, n = 3
+∴ ( )5 3 15 12
+11
+× + × min past 3 = ×30 12
+11
+min past 3
+= 32 8
+11
+min past 3 i.e. 3 h 32 8
+11
+min
+--- PDF PAGE 427 ---
+222 CDS Pathfinder
+165. (c) Given, tan cotθ θ+ = 2
+⇒ sin
+cos
+cos
+sin
+θ
+θ
+θ
+θ
++ = 2 ⇒ sin cos
+sin cos
+2 2
+2θ θ
+θ θ
++ =
+⇒ 1 2
+sin cosθ θ
+= ⇒ sin cosθ θ = 1
+2
+...(i)
+Now, (sin cos sin cos sin cosθ θ) θ θ θ θ+ = + + 2 2 2 2
+= + ×1 2 1
+2
+= +1 1 [from Eq. (i)]
+⇒ (sin cos )θ θ+ = 2 2 ⇒ sin cosθ θ+ = 2
+166. (a) sec
+cot tan
+/ cos
+cos
+sin
+sin
+cos
+x
+x x
+x
+x
+x
+x
+x
++
+=
++
+1
+=
++
+1
+2 2
+/ cos
+cos sin
+sin cos
+x
+x x
+x x
+= × 1
+1cos
+sin cos
+x
+x x = sin x
+167. (b) ( cot )( tan sec )1 1+ − + +x x x xcosec
+= + − + + 
+ 
+( cot )
+cot
+sec1 1 1x x
+x
+xcosec
+= + − + +( cot )( cot )
+cot
+1 1 x x x x
+x
+cosec cosec
+= + −( cot ) ( )
+cot
+1 2 2x x
+x
+cosec
+= + + −1 22 2 2 cot cot
+cot
+x x x
+x
+cosec
+= + − −1 2 2 2cot ( cot )
+cot
+x x x
+x
+cosec = + − =1 2 1 2cot
+cot
+x
+x
+168. (d) ( sin )(sec cos )(tancosec x x x x x− − + cot )x
+= −
+ 
+ −
+ 
+ +1 1
+sin
+sin
+cos
+cos sin
+cos
+cos
+sinx
+x
+x
+x x
+x
+x
+x
+
+ 
+
+= − − +
+⋅
+( sin )( cos )(sin cos )
+sin cos sin cos
+1 1 2 2 2 2x x x x
+x x x x
+= × =cos sin
+sin cos
+2 2
+2 2
+1 1x x
+x x
+169. (b) sin cos
+sin cos
+(sin cos )
+(sin cos )
+x x
+x x
+x x
+x x
+− +
++ −
+= − +
++ −
+×1
+1
+1
+1
+(sin cos )
+(sin cos )
+x x
+x x
++ +
++ +
+1
+1
+= − + + +
++ −
+(sin cos )(sin cos )
+(sin cos )
+x x x x
+x x
+1 1
+12
+[ ( )( ) ]/c81 a b a b a b− + = − 2 2
+=
++ + − −
+− + +
+sin sin cos sin cos sin cos
+cos sin cos
+2 2x x x x x x x
+x x x +
++ + −
+1
+2 12 2sin cos sin cosx x x x
+= + − +
++ −
+sin sin cos
+sin cos
+2 2 2 1
+1 2 1
+x x x
+x x
+= + − − +sin sin ( sin )
+sin cos
+2 2 2 1 1
+2
+x x x
+x x
+[ cos sin ]/c81 2 2 1x x= −
+= + − + +sin sin sin
+sin cos
+2 2 2 1 1
+2
+x x x
+x x
+=
++2 2
+2
+2sin sin
+sin cos
+x x
+x x
+= + = +2 1
+2
+1sin (sin )
+sin cos
+sin
+cos
+x x
+x x
+x
+x
+170. (b) (sin cos ) ( sin cos )2 2 2 2 1x x x x− −
+= − + −(sin cos ) [(sin cos ) sin cos ]2 2 2 2 2 2 2x x x x x x
+( sin cos )/c81 2 2 1x x+ =
+= − + +(sin cos ) [(sin cos sin cos )2 2 4 4 2 2 2x x x x x x
+− sin cos ]2 2x x
+= − + +(sin cos ) (sin cos sin cos )2 2 4 4 2 2x x x x x x
+= −(sin ) (cos )2 3 2 3x x [ ( )( ) ]/c81 a b a b ab a b− + + = −2 2 3 3
+= −sin cos6 6x x
+171. (d) (sin cos cos sin ) (sin cos cos sin )x x x x⋅ + ⋅ ⋅ − ⋅y y y y
+= + ⋅ −sin ( ) sin ( )x x y y = −sin sin2 2x y
+[ sin sin sin( ) sin( )]/c81 2 2A B A B A B− = + −
+172. (d) In ∆ ABC , A B C+ + = ° 180 ⇒ A B C+ = ° 180 –
+tan( ) tan( – ) tanA B C C+ = ° = − 180
+⇒ tan tan
+tan tan
+tanA B
+A B
+C+
+−
+= −
+1
+tan tan tan tan tan tanA B C A B C+ + =
+On dividing both sides by tan tan tanA B C
+1 1 1 1
+tan tan tan tan tan tanB C A C A B
++ + =
+⇒ cot cot cot cot cot cotB C A C A B+ + = 1
+173. (a) sin x x+ =cosec 2 ⇒ sin
+sin
+x
+x
++ = 1 2 ⇒ sin sin2 1 2x x+ =
+⇒ sin sin2 2 1 0x x− + = ⇒ (sin )x − =1 02 ⇒ = sin x 1
+cosec x
+x
+= = 1 1
+sin
+∴ sin ( ) ( )9 9 9 9 1 1x x+ = +cosec = + =1 1 2
+174. (b) Given, sin cosx x+ = p ...(i)
+and sin cos3 3x x+ = q ...(ii)
+On cubing Eq. (i) on both sides, we get
+sin cos sin cos3 3 3x x x x+ + (sin x + cos )x = p3
+⇒ q p p+ =3 3sin cos ( )x x [from Eqs. (i) and (ii)] …(iii)
+On squaring Eq. (i) on both sides, we get
+sin cos sin cos2 2 2 2x x x x+ + = p
+⇒
+sin cosx x = −p2 1
+2
+(/c81sin cos2 2 1x x+ = )
+On putting this value in Eq. (iii), we get q p p p+ − =3 1
+2
+2
+3( )
+⇒ 2 3 3 2 3 3q p p p+ − = ⇒ p p q3 3 2− = −
+175. (d) Since, 1 radian = ° ′ ′′57 16 22
+So, sin sin1 1°< and cos cos1 1°>
+Hence, neither statement I nor II is correct.
+176. (b) cosec 67 sec 57 –cot 33 –tan 232 2 2 2°+ ° ° °
+= ° ° + ° °cosec (90 –23 ) sec (90 –33 )2 2 – cot 33 –tan 232 2 ° °
+= °+ ° ° °sec 23 cosec 33 – cot 33 – tan 232 2 2 2
+= + °+ + ° °1 23 1 33 332 2 2tan cot – cot – tan 2 23° = 2
+( 1 tan sec and 12 2/c81 + = q q + =cot cosec )2 2q q
+177. (c) Given, tan ( )A B+ = 3 = °tan 60
+∴ A B+ = ° 60 ...(i)
+and tan A = 1 ⇒ tan tanA = ° 45
+∴ A = °45
+From Eq. (i), A B+ = ° 60 ⇒ 45 60°+ = °B ⇒ B = °15
+Now, tan( – ) tan( – )A B = ° ° 45 15 = ° =tan /30 1 3
+Hence, the value of tan( – )A B is 1 3 / .
+--- PDF PAGE 428 ---
+178. (d) Given, tan cotA A+ = 4
+On squaring both sides, we get
+(tan cot ) ( )A A+ = 2 2 4
+⇒ tan cot tan cot2 2 2 16A A A A+ + =
+⇒ tan cot2 2 2 16A A+ + =
+⇒ tan cot2 2 14A A+ =
+Again, squaring both sides, we get
+(tan cot ) ( )2 2 2 2 14A A+ =
+⇒ tan cot tan4 4 2 2A A A+ +
+cot 2 196A =
+⇒ tan cot4 4 2 196A A+ + =
+⇒ tan cot4 4 194A A+ =
+179. (c) In right angled ∆ ABC , AB BC: : = 3 4
+or AB
+BC
+= 3
+4
+Now, in ∆ ABC
+AC AB BC2 2 2= +
+= +3 42 2
+= +9 16 = 25
+⇒ AC = 5 ⇒ sin A BC
+AC
+= = 4
+5
+sin sinB = ° = ° =90 90 1 , sinC AB
+AC
+= = 3
+5
+Now,
+sin sin sinA B C+ + = + + 4
+5
+1 3
+5
+= + + =4 5 3
+5
+12
+5
+180. (b) Given, sin cosx x+ = C
+On squaring both sides, we get
+(sin cos )x x+ = 2 2 C
+⇒ sin cos sin cos2 2 2 2x x x x+ + = C
+⇒ 1 2 2+ = sin cosx x C
+⇒ sin cosx x = −C 2 1
+2
+…(i)
+Now, sin cos (sin )6 6 2 3x x x+ =
++(cos )2 3x
+= + +(sin cos )[sin cos2 2 4 4x x x x
+– sin cos ]2 2x x
+[/c81a b a b a b ab3 3 2 2+ = + +( )( – ) ]
+= 1 3 2 2 2 2 2[(sin cos ) – sin cos ]x x x x+
+= ( – sin cos )1 3 2 2x x
+∴ sin cos – sin cos6 6 2 2 1 3x x x x+ =
+= 
+ 
+1 3 1
+2
+2 2
+– –C [from Eq. (i)]
+= +
+ 
+1 3 1 2
+4
+4 2
+– –C C
+= +4 3 3 6
+4
+4 2– – C C = +1 6 3
+4
+2 4C C–
+181. (c) Given, 3
+1 3
+2
+2
+– tan
+– tan
+A
+A
+k=
+⇒ 3 1 3 2 2– tan ( – tan )A k A=
+⇒ 3 3 2 2– tan – tanA k k A=
+⇒ 3 3 2 2k A A ktan – tan – =
+⇒ tan ( – ) –2 3 1 3A k k =
+⇒ tan –
+–
+2 3
+3 1
+A k
+k
+=
+where k
+k
+−
+−
+>3
+3 1
+0 ⇒ k < 1
+3
+or k > 3
+Now, cosec (3 sin – 4 sin ) 3A A A
+= ×cosec sin (3 – 4 sin ) 2A A A
+= × 1 3 4 2
+sin
+sin ( – sin )
+A
+A A
+/c81cosec 1
+sin
+A
+A
+=
+ 
+
+= − = −
++
+
+
+
+3 4 3 4
+1
+2
+2
+2sin tan
+tan
+A A
+A
+= −
++
+3
+1
+2
+2
+tan
+tan
+A
+A
+=
+− −
+−
++ −
+−
+3 3
+3 1
+1 3
+3 1
+k
+k
+k
+k
+= − − +
+− + −
+9 3 3
+3 1 3
+k k
+k k
+=
+−
+=
+−
+8
+4 4
+2
+1
+k
+k
+k
+k
+,
+where k < 1
+3
+or k > 3
+182. (c) Given, p =
++
+1
+1
+– sin
+sin
+x
+x
+p =
++
+( – sin )( – sin )
+( sin )( – sin )
+1 1
+1 1
+x x
+x x
+= = 1
+1
+1
+2
+– sin
+– sin
+– sin
+cos
+x
+x
+x
+x
+r =
++
+×cos
+sin
+( – sin )
+( – sin )
+x
+x
+x
+x1
+1
+1
+= cos( – sin )
+– sin
+1
+1 2
+x
+x
+r = =cos ( – sin )
+cos
+– sin
+cos
+x x
+x
+x
+x
+1 1
+2
+⇒ p q r= =
+Also, q r x
+x
+x
+x
+× = − ×
++
+1
+1
+sin
+cos
+cos
+sin
+= −
++
+1
+1
+sin
+sin
+x
+x
+= p2
+Hence, both statements are correct.
+183. (a) I. LHS = + cos
+– tan
+sin
+– cot
+A
+A
+A
+A1 1
+= + cos
+– sin
+cos
+sin
+– cos
+sin
+A
+A
+A
+A
+A
+A
+1 1
+= + cos
+cos – sin
+sin
+sin – cos
+2 2A
+A A
+A
+A A
+= cos – sin
+(cos – sin )
+2 2A A
+A A
+= +(cos – sin )(cos sin )
+(cos – sin )
+A A A A
+A A
+= +(cos sin )A A = RHS
+II. [( – sin ) – cos ]1 2A A
+= +( – sin ) cos1 2 2A A
+– cos ( – sin )2 1 A A
+= 1 2 2 2+ +sin – sin cosA A A
+– cos ( – sin )2 1 A A
+= 1 2 2 2+ +sin cos – sinA A A
+– cos ( – sin )2 1 A A
+= 2 2 2 1– sin – cos ( – sin )A A A
+= 2 1 2 1( – sin ) – cos ( – sin )A A A
+= 2 1 1( – sin )( – cos )A A ≠ RHS
+Hence, only statement I is correct.
+184. (a) We have, sinθ = +2 3
+3
+a b
+b
+= +1 2
+3
+a
+b
+Since, sinθ is always smaller or equal to
+1 but 1 2
+3
+1+ > a
+b
+.
+Hence, it is not possible.
+185. (a) Since, 0 1 2≤ ≤cos x
+/c81 − ≤ + − ≤1 2 2 2 2cos cos cosx y z
+∴ Minimum value of the given
+expression is − 1 .
+186. (a) We have, tan secθ + θ = 2
+⇒ sec tanθ = 2 − θ
+On squaring both sides, we get
+sec tan tan2 2θ = 4 + θ − 4 θ
+⇒ 1 2 2+ tan tan tanθ = 4 + θ − 4 θ
+⇒ 4 3
+4
+tan tanθ = 3 θ =⇒
+187. (b) We have, cos
+sin
+sin
+sin
+θ
+θ
+θ
+θ1
+1
+1−
+× +
++
+= +
+−
+cos ( sin )
+sin
+θ θ
+θ
+1
+1 2 = +cos ( sin )
+cos
+θ θ
+θ
+1
+2
+= +1 sin
+cos
+θ
+θ
+188. (c) We have,
+tan( ) tan( ) tan( )x x x+ ° + ° °40 20 3
+tan( ) tan( )70 50 1− ° − ° =x x
+[ /c81 cot( ) tan90° − = θ θ ]
+⇒ tan( ) tan( ) tan( )x x x+ ° + ° °40 20 3
+cot( )90 70° − ° + ° x
+cot( )90 50 1° − ° + ° = x
+⇒ tan( ) tan( ) tan( )x x x+ ° + ° °40 20 3
+cot( ) cot( )20 40 1+ ° + ° =x x
+⇒ tan( ) 3 1x ° = ⇒ tan( ) tan3 45x ° = °
+⇒ 3 45x = ⇒ x = 15
+189. (d) We have, 32
+4
+8
+3
+2 2cot secπ π− 
+ 
+
++ 
+ 
+8
+6
+3cos π
+= ⋅ − ⋅ + ⋅ 
+
+ 
+
+32 1 8 2 8 3
+2
+2
+3
+( ) ( )
+= − ⋅ + ⋅32 8 4 8 3 3
+8
+( )
+= − +32 32 3 3 = 3 3
+223MATHEMATICS Measurements of□Angles and Trigonometric Ratios
+B
+C
+A
+4
+3
+--- PDF PAGE 429 ---
+190. (b) We have, x a= cosθ and y b= cotθ
+∴ a
+x
+b
+y
+a
+x
+b
+y
+a
+x
+b
+y
+−
+
+ 
+
+ +
+
+ 
+
+ = −
+2
+2
+2
+2
+= − =sec tan2 2 1θ θ
+191. (a) We have,
+sin cos cos cosθ θ=2 θ − θ 3 3
+2
+⇒ 2 2sin cosθ = 4 θ − 3
+⇒ 2 2sin sinθ = 4 − 4 θ − 3
+⇒ 4 2sin sinθ + 2 θ − 1 = 0 ,
+⇒ sinθ = − ± +2 4 16
+8
+= − ±2 2 5
+8
+⇒ sinθ = − ±1 5
+4
+Since, θ is acute angle
+∴ sinθ > 0
+⇒ sinθ = 5 − 1
+4
+192. (d) Hours moved by hour hand = 5 hrs
+10 min
+= + =5 10
+60
+31
+6
+hrs
+Angle traced by hour hand in 1 hr = 30°
+∴ Angle traced by hour hand is
+31
+6
+
+ 
+ hrs
+= ×30 31
+6
+= °155
+193. (b) I. If 45°< θ < 90°, then sin cosθ > θ
+∴ sin cos66 66°> °
+II. When 0°< θ < 45°, cos sinθ > θ
+∴ cos sin26 26°> °
+or sin cos26 26°< ° .
+Hence only II is correct.
+194. (a) I. LHS = +
++
+1
+1
+2
+2
+tan
+cot
+θ
+θ
+= sec2
+2
+θ
+θcosec
+= tan 2 θ
+RHS cot
+1 cot
+= −
+−
+
+ 
+ =
+−
+
+
+
+
+1
+1
+2 2
+tan
+cot
+tanθ
+θ
+θ[ θ − 1]
+θ
+= −( tan ) θ 2 = tan 2 θ
+∴ LHS RHS=
+II.
+cot
+tan
+tan cotθ =
+θ
+θ θ = 11 ⇒ ⋅
+which true for all value of θ.
+So, statement II is false.
+Hence, only statement I is correct.
+195. (d) We have, A B C+ + = π
+⇒
+π π
+2
++ + + =B B C [A B= + π / 2]
+⇒ 2
+2 2
+B C+ = − =π π π
+196. (c) sin
+cos
+cos
+sin
+sin35
+55
+55
+35
+2 30
+2 2
+°
+°
+
+ 
+ − °
+°
+
+ 
+ + °
+= °− °
+°
+
+
+
+
+sin( )
+cos
+90 55
+55
+2
+− °− °
+°
+
+
+
+ + ×cos( )
+sin
+90 35
+35
+2 1
+2
+2
+= °
+°
+
+ 
+ − °
+°
+
+ 
+ +cos
+cos
+sin
+sin
+55
+55
+35
+35
+1
+2 2
+= − + =1 1 1 12 2
+197. (c) We have,
+tan cotθ + θ = 4
+3
+⇒ sin
+cos
+cos
+sin
+θ
+θ
+θ
+θ
++ = 4
+3
+⇒ sin cos
+cos sin
+2 2 4
+3
+θ + θ
+θ θ⋅
+=
+⇒ 1
+2
+2
+4
+3sin θ =
+⇒ sin 2 3
+2
+θ =
+⇒ 2
+3 6
+θ = π θ = π⇒
+∴ sin cos sin cosθ + θ π π= +
+6 6
+= + = +1
+2
+3
+2
+3 1
+2
+198. (b) We have,
+p = ⋅cot tan secθ + θ = θ θ cosec
+q = ⋅sec cos sin secθ − θ = θ θ 2
+∴ ( ) ( ) / /p q q p2 2 3 2 2 3−
+= ⋅ ⋅ ⋅( sec sin sec ) /cosec2 2 2 2 3θ θ θ θ
+− ⋅ ⋅ ⋅(sin sec sec ) /4 2 2 3θ θ θ θ cosec
+= − ⋅(sec ) (sin sec )/ /3 2 3 3 3 2 3θ θ θ
+= ⋅sec sin sec2 2 2θ − θ θ
+= θ( θ) = 1sec sin2 2 1−
+199. (d) Given, x
+a
+y
+b
+− = tan θ 1 ...(i)
+and x
+a
+y
+b
+tan θ + = 1 ...(ii)
+On solving Eqs. (i) and (ii), we get
+x
+a
+= +1
+2
+tan
+sec
+θ
+θ
+and y
+b
+=
+−1
+2
+tan
+sec
+θ
+θ
+∴ x
+a
+y
+b
+2
+2
+2
+2
+2 2
+4
+1 1+ = + + −( tan ) ( tan )
+sec
+θ θ
+θ
+= 2 2
+4
+sec
+sec
+θ
+θ
+= 2 2cos θ
+200. (c) /c81 3 1 3 2 2− = −tan ( tan )θ α θ
+⇒ ( ) tan3 1 3 2α θ α− = −
+⇒ tan 2 3
+3 1
+θ α
+α
+= −
+−
+As, tan 2 0θ ≥ , then α
+α
+−
+−
+≥3
+3 1
+0 ⇒ α ≥ 3
+or, α < 1
+3
+⇒ α∈ −∞
+ 
+ ∪ ∞, [ , )1
+3
+3
+201. (a) To exchange the position, both hands
+has to cover 360° together.
+Angle traced by hour hand in 1 min
+= °( / )1 2
+Angle traced by minute hand in 1 min= °6
+Let the required time be t min. Then,
+6 1
+2
+360t t+ = ° ⇒ t = ×360 2
+13
+= 720
+13
+min = 55 38 .min
+202. (c) I. 1
+1
+1
+1
+1
+1
+−
++
+= −
++
+× −
+−
+cos
+cos
+cos
+cos
+cos
+cos
+θ
+θ
+θ
+θ
+θ
+θ
+= −
+−
+( cos )
+cos
+1
+1
+2
+2
+θ
+θ
+= −( cos )
+sin
+1 2
+2
+θ
+θ
+= −1 cos
+sin
+θ
+θ
+= −cosec cotθ θ
+Hence, statement I is true.
+II. 1
+1
++
+−
+cos
+cos
+θ
+θ
+= +
+−
+× +
++
+1
+1
+1
+1
+cos
+cos
+cos
+cos
+θ
+θ
+θ
+θ
+= +( cos )
+sin
+1 2
+2
+θ
+θ
+= +1 cos
+sin
+θ
+θ
+= +cosec cotθ θ
+Hence, statement II is true.
+203. (b) /c81cos cos
+sin
+2
+2
+3 2 1θ θ
+θ
+− + =
+⇒ cos cos sin2 2 3 1 1 0θ θ θ− + + − =
+⇒ cos cos cos2 2 3 1 0θ θ θ− + + =
+⇒ 2 3 1 02cos cosθ θ− + =
+⇒ ( cos ) (cos )2 1 1 0θ θ− − =
+⇒ cos θ = 1
+2
+or, cos θ = 1
+⇒ θ = π
+3
+[ / ]/c81 0 2< θ < π
+Hence, only II is correct.
+204. (d) I. As, cos x lies between −1and 1, then
+cos x m= +2 1 does not exist for positive
+value of m.
+II. The given relation m n ≥ m n+ is true
+for m n N, ∈ and m > 1 and n > 1.
+Thus, statement II is not true.
+Hence, neither I nor II is correct
+224 CDS Pathfinder
+--- PDF PAGE 430 ---
+It is an important application of trigonometry which helps
+us to find the height of any object and distance of that
+object from any point which are not directly measurable. If
+the angle of elevation/depression from a point is known.
+Line of sight
+A line of sight is the line drawn from the eye of an observer
+to the point, where the object is viewed by the observer.
+Horizontal Line
+The line of sight which is parallel to ground level is
+known as horizontal line.
+ANGLE OF ELEVATION
+Angle of elevation is defined as an angle formed by the
+line of sight with the horizontal
+line when an object is viewed in
+the upward direction.
+Let P be the position of the object
+above the horizontal line OA and
+O be the eye of the observer, then
+∠ AOP is called angle of elevation.
+IMPORTANT POINTS
+G If the observer moves towards the perpendicular line
+(tower/building), then angle of elevation increases
+and if the observer moves away from the perpendicular
+line (tower/building), then the angle of elevation
+decreases.
+G If the angle of elevation of Sun above a tower decreases,
+then the length of shadow of a tower increases.
+G If height of tower is doubled and the distance between
+the observer and foot of the tower is also doubled, then
+the angle of elevation remains same.
+EXAMPLE 1. The angle of elevation of the top of a
+tower of height 100 3 m from a point at a distance
+of 100 m from the foot of the tower on a horizontal
+plane is
+a. 30° b. 60° c. 75° d. 105°
+Sol. b. Let φ be the angle of elevation.
+Given, AC = Height of tower
+= 100 3 m
+and AB = 100 m
+In right angled ∆ ABC,
+tan φ = AC
+AB = =100 3
+100 3
+⇒ tan tanφ = ° 60
+⇒ φ = ° 60
+Hence, angle of elevation is 60°.
+MATHEMATICS >□Height□and□Distance 225
+21
+HEIGHT AND□DISTANCE
+Regularly (1-2) questions have been asked from this chapter . Generally this is the simplest application
+of trigonometry related to our real world and a little practice can get you command over this section.
+Line of sight
+C
+D
+B
+T ower
+Person
+A E
+Horizontal line
+Line of sigh
+t
+A
+P
+O Horizontal lineEye
+Angle of
+elevation
+(Object)
+θ
+A
+C
+B
+φ
+100 m
+100 3 m√
+--- PDF PAGE 431 ---
+EXAMPLE 2. The angle of elevation of a tower at a
+point is 45°. After going 40 m towards the foot of the
+tower, the angle of elevation of the tower becomes
+60°. Then, the height of the tower is
+a. 20 3 1( ) + m b. 20 3
+3 1+
+m
+c. 40 3
+3 1+
+m d. 40 3
+3 1−
+m
+Sol. d. Let PQ h( )= be the height of the
+tower. Let S and R be the points
+where the angles subtended are
+45° and 60°, respectively.
+In right angled ∆ PQR ,
+tan 60° = PQ
+RQ
+⇒ 3 = h
+x ⇒ x = h
+3 …(i)
+In right angled ∆ PQS, tan 45 40° = = + = +
+PQ
+SQ
+PQ
+SR RQ
+h
+x
+⇒ h = +40 x ⇒ h h= +40 3 [from Eq. (i)]
+⇒ h 1 1
+3 40−
+ 
+ = ⇒
+h 3 1
+3 40−
+
+
+ =
+∴
+h = −
+40 3
+3 1 m
+EXAMPLE 3. The angles of elevation of the top of a
+tower from two points at distances ‘ a’ and ‘ b’ ( )a b>
+from the base and in the same straight line with it are
+complementary. Then, the height of the tower is
+a. 1
+ab
+b. ab c. a
+b d. ab
+Sol. b. Let AD h= be the height of the
+tower and the angle of elevation
+of the top of tower at B and C be
+(90° − θ) and θ, respectively.
+In right angled ∆ ADC,
+tanθ = =AD
+CD
+h
+b /c81tanθ =
+
+
+
+P
+B
+h b= tan θ …(i)
+In right angled ∆ ADB,
+tan ( )90° − = θ AD
+BD ⇒ cot θ = h
+a
+[/c81tan ( ) cot90° − = θ θ ]
+⇒ h
+a = cot θ ⇒ a
+h = tan θ …(ii)
+From Eqs. (i) and (ii), we get
+h b a
+h= 
+ 
+ ⇒ h ab2 =
+∴
+h ab=
+ANGLE OF DEPRESSION
+Angle of depression is defined as an angle formed by
+the line of sight with the horizontal line when an object
+is viewed in the downward direction.
+Let P be the position of the object below the horizontal
+line OA and O be the eye of the observer, then ∠ AOP
+is called angle of depression.
+IMPORTANT POINTS
+G The angle of depression of a point P as seen from a
+point O is numerically equal to the angle of elevation of O
+as seen from P .
+G Angle of elevation and angle of depression are always
+acute angle.
+G Unless mentioned, the height of the observer is not
+considered.
+EXAMPLE 4. The angle of depression of two ships
+from the top of a light house are 45° and 30° towards
+East. If the ships are 200 m apart, the height of the
+light house is
+a. 200
+3 1−
+m b. 200
+3 1+
+m c. 100
+3 1−
+m d. 100
+3 1+
+m
+Sol. a. Let AB h( )= be the
+height of the light house
+and D, C be the ships.
+Given, DC = 200 m
+∠ = ∠ = °ADC XAD 30
+and ∠ = ∠ = °ACB XAC 45
+Now, in ∆ ACB,
+tan 45° = AB
+CB ⇒ 1= h
+y ⇒ h y= …(i)
+and in ∆ ADB, tan º 30= AB
+BD ⇒ 1
+3 200= +
+h
+y
+⇒ 200 3+ =y h ⇒ 200 3+ =h h [from Eq. (i)]
+⇒ 200 3= − h h ⇒ 200 3 1= −h ( )
+∴ h = −
+
+ 
+200
+3 1 m
+EXAMPLE 5. From the top of a building 60 m high
+the angles of depression of the top and bottom of a
+tower are observed to be 30° and 60°. Then, the
+height of the tower is
+a. 10 m b. 20 m c. 30 m d. 40 m
+226 CDS Pathfinder
+O
+P
+Angle of
+depression
+Horizontal line
+θ
+A
+Line of s
+ight
+θ
+b DC
+90°–
+θ
+a
+B
+A
+h
+60°
+x QR
+45°
+40 mS
+P
+h
+30°
+BC
+45°
+D
+A
+h
+30°45°
+200 m y
+X
+--- PDF PAGE 432 ---
+Sol. d. Let x be the height of the tower.
+Here, AB = 60 m and BD y= m
+In right angled ∆ ABD,
+AB
+BD = °tan 60 ⇒ 60 3y =
+⇒ y = 60
+3 …(i)
+In right angled ∆ AEC,
+AE
+EC = °tan 30 ⇒ AE
+BD = 1
+3 [/c81CE DB= ]
+⇒ AE
+y = 1
+3 ⇒ AE
+60
+3
+1
+3= [from Eq. (i)]
+⇒ AE = × =1
+3
+60
+3 20 m [ /c81 3 3 3× = ]
+∴ x = −AB AE = − =60 20 40 m
+Hence, the height of tower is 40 m
+1. The length of shadow of a tree is 16 m when the
+angle of elevation of the Sun is 60°. What is the
+height of the tree?
+(a) 8 m (b) 16 m (c)
+16 3 m (d) 3 m
+2. From a light house the angles of depression of
+two ships on opposite sides of the light house are
+observed to 30° and 45°. If the height of light
+house is h, then what is the distance between
+the ships?
+(a)
+( ) 3 1+ h (b) ( ) 3 1− h (c) 3 h (d) 1 1
+3
++
+ 
+ h
+3. The angle of elevation of the top of a tower from
+the bottom of a building is twice that from its
+top. What is the height of the building, if the
+height of the tower is 75 m and the angle of
+elevation of the top of the tower from the bottom
+of the building is 60°?
+(a) 25 m (b) 37.5 m (c) 50 m (d) 60 m
+4. A radio transmitter antenna of height 100 m
+stands at the top of a tall building. At a point on
+the ground, the angle of elevation of bottom of
+the antenna is 45° and that of top of antenna is
+60°. What is the height of the building?
+(a) 100 m (b) 50 m (c)
+50 3 1( ) + m (d) 25 3 m
+5. The shadow of a tower is 15 m when the Sun’s
+altitude is 30°. What is the length of the shadow
+when the Sun’s altitude is 60°?
+(a) 3 m (b) 4 m (c) 5 m (d) 6 m
+6. The angle of elevation of a moon when the length
+of the shadow of a pole is equal to its height is
+(a) 60° (b) 45° (c) 90° (d) 30°
+7. An aeroplane flying horizontally 1 km above the
+ground is observed at an elevation of 60°. After
+10 s, its elevation is observed to be 30°, the
+uniform speed of the aeroplane in km/h is
+(a)
+240
+2
+(b) 240 3
+(c) 240 (d) 260 3
+8. A person of height 2m wants to get a fruit which
+is on a pole of height ( / )10 3 m . If he stands at a
+distance of
+( / )4 3 m from the foot of the pole,
+then the angle at which he should throw the
+stone, so that it hits the fruit is
+(a) 60° (b) 45° (c) 90° (d) 30°
+9. A vertical tower stands on a horizontal plane
+and is surmounted by a vertical flagstaff of
+height h. At a point on the plane, the angle of
+elevation of the bottom of the flagstaff is α and
+that of the top of the flagstaff is β. Then, the
+height of the tower is
+(a)
+h tan
+tan tan
+β
+α β−
+(b) h tan
+tan tan
+α
+α β+
+(c) h tan
+tan tan
+β
+α β+
+(d) h tan
+tan tan
+α
+β α−
+10. From a window ( h m high above the ground) of a
+house in a street, the angle of elevation and
+depression of the top and the foot of another
+house on the opposite side of the street are θ and
+φ, respectively. Then, the height of the opposite
+house is
+(a) h tan cotθ φ (b) h [tan cotθ φ + ] 1
+(c) h [cot tan ]θ φ + 1 (d) h cot tanθ φ
+MATHEMATICS >□Height□and□Distance 227
+60°
+BD
+A
+60 m
+30°C
+x
+30°60°
+y
+y
+E
+PRACTICE EXERCISE
+--- PDF PAGE 433 ---
+11. The length of the shadow of a person s cm tall
+when the angle of elevation of the Sun is α is
+p cm. It is q cm when the angle of elevation of the
+Sun is β. Which one of the following is correct
+when β α= 3 ?
+(a) p q s− = −
+
+ 
+
+tan tan
+tan tan
+α α
+α α
+3
+3
+(b)
+p q s− = −
+
+ 
+
+tan tan
+tan tan
+3
+3 3
+α α
+α α
+(c)
+p q s− = −
+
+ 
+
+tan tan
+tan tan
+3
+3
+α α
+α α
+(d)
+p q s− = 
+
+ 
+
+tan
+tan tan
+2
+3
+α
+α α
+12. Two posts are ‘ K ’ m apart and the height of one
+is double that of the other. If from the middle
+point of the line joining their feet, an observer
+finds the angular elevations of their tops to be
+complementary, then the height (in metre) of the
+shorter post is
+(a)
+3 K (b) K
+2 2
+(c) 2 K (d) K
+2
+13. A flagstaff 5 m high stands on a building of 25 m
+height. At an observer at a height of 30 m, the
+flagstaff and the building subtend equal angles.
+The distance of the observer from the top of the
+flagstaff is
+(a)
+3
+2
+m (b) 3 5
+2
+m (c) 5 3
+2
+m (d) 5 3
+2
+m
+14. A man is watching from the top of a tower a boat
+speeding away from the tower. The boat makes
+an angle of depression of 45° with the man’s eye
+when at a distance of 60 m from the bottom of
+tower. After 5 s, the angle of depression becomes
+30°. What is the approximate speed of the boat
+assuming that it is running in still water?
+(a) 31.5 km/h (b) 36.5 km/h (c) 38.5 km/h (d) 40.5 km/h
+15. Suppose the angle of elevation of the top of a tree
+at a point E due East of the tree is 60° and that
+at a point F due West of the tree is 30°. If the
+distance between the points E and F is 160 ft,
+then what is the height of the tree?
+(a)
+40 3 ft (b) 60 ft (c) 40
+3
+ft (d) 23 ft
+16. A telegraph post gets broken at a point against a
+storm and its top touches the ground at a
+distance 20 m from the base of the post making
+an angle 30° with the ground. What is the height
+of the post?
+(a)
+40
+3
+m (b) 20 3 m (c) 40 3 m (d) 30 m
+17. If the angle of elevation of a cloud from a point
+h m above a lake is β and the angle of depression
+of its reflection in the lake is α , then the height of
+the cloud is
+(a)
+h cosec
+cosec
+( )
+( )
+α β
+α β
+−
+−
+(b) h cosec ( ) sin ( )α β α β− −
+(c) h sin ( ) ( )α β α β+ − cosec (d) h cosec ( )
+sin ( )
+α β
+α β
++
+−
+18. The angle of elevation of the top of an
+incomplete vertical pillar at a horizontal
+distance of 100 m from its base is 45°. If the
+angle of elevation of the top of complete pillar at
+the same point is to be 60°, then the height of
+the incomplete pillar is to be increased by
+(a)
+50 2 m (b) 100 m
+(c) 100 3 1( ) − m (d) 100 3 1( ) + m
+19. A man on the top of a vertical observation tower
+observes a car moving at a uniform speed
+coming directly towards it. If it takes 12 min for
+the angle of depression to change from 30° to 45°,
+how soon after this will the car reach the
+observation tower?
+(a) 14 min 35 s (b) 15 min 49 s
+(c) 16 min 23 s (d) 18 min 5 s
+20. You are stationed at a radar base and you
+observe an unidentified plane at an altitude
+h = 1000 m flying towards your radar base at an
+angle of elevation = °30 . After exactly one
+minute, your radar sweep reveals that the plane
+is now at an angle of elevation = °60 maintaining
+the same altitude. What is the speed (in m/s) of
+the plane?
+(a) 15.58 m/s (b) 19.25 m/s
+(c) 18 m/s (d) 11.25 m/s
+21. The angle of elevation of the top of the tower
+from a point on the ground is sin
+−1 (3/5). If the
+point of observation is 20 m away from the foot
+of the tower, what is the height of the tower?
+(a) 9 m (b) 18 m (c) 15 m (d) 12 m
+22. A balloon of radius r makes an angle α at the
+eye of an observer and the angle of elevation of
+its centre is β. The height of its centre from the
+ground level is given by
+(a) r sin /β αcosec 2 (b) r cosec α α/ sin2
+(c) r cosecα βsin (d) None of these
+Directions (Q. Nos. 23-25) The height of a tower is h
+and the angle of elevation of the top of the tower is
+α . When observer on moving a distance h / 2
+towards the tower, the angle of elevation becomes β.
+23. What is the value of cot α − βcot ?
+(a) 1 2 / (b) 2 3 / (c) 1 (d) 2
+24. If α = 30° , then find the value of cot β.
+(a) 3 1 2− / (b) 2
+2 3 2−
+(c) 1
+1 3+
+(d) 1
+1 3−
+25. If tan β = 4, then distance between observer and
+tower when angle of elevation is β
+(a) h (b) h / 4 (c) 3
+4
+h (d) h
+3
+228 CDS Pathfinder
+--- PDF PAGE 434 ---
+PREVIOUS YEARS’ QUESTIONS
+26. What is the angle of elevation of the Sun when the
+shadow of a pole is
+3 times the length of the
+pole? e 2012 I
+(a) 30° (b) 45°
+(c) 60° (d) None of these
+27. From the top of a cliff 200 m high, the angles of
+depression of the top and bottom of a tower are
+observed to be 30° and 45°, respectively. What is
+the height of the tower? e 2012 I
+(a) 400 m (b)
+400 3 m
+(c) 400 3 / m (d) None of these
+28. The angles of elevation of the top of a tower from
+two points which are at distances of 10 m and
+5 m from the base of the tower and in the same
+straight line with it are complementary. The
+height of the tower is e 2012 II
+(a) 5 m (b) 15 m (c)
+50 m (d) 75 m
+29. A ladder 20 m long is placed against a wall, so
+that the foot of the ladder is 10 m from the wall.
+The angle of inclination of the ladder to the
+horizontal will be e 2012 II
+(a) 30° (b) 45°
+(c) 60° (d) 75°
+Directions (Q. Nos. 30-33) Read the following
+information carefully to answer the questions that
+follow.
+As seen from the top and bottom of a building of height
+h m, the angles of elevation of the top of a tower of
+height
+( )3 3
+2
++ h m□are α and β,□respectively.
+e 2013 I
+30. If β = °30 , then what is the value of tan α ?
+(a) 1/2 (b) 1/3
+(c) 1/4 (d) None of these
+31. If α = °30 , then what is the value of tan β?
+(a) 1 (b) 1/2
+(c) 1/3 (d) None of these
+32. If α = °30 and h = 30 m, then what is the
+distance between the base of the building and
+the base of the tower?
+(a)
+( )15 15 3+ m (b) ( )30 15 3+ m
+(c) ( )45 15 3+ m (d) None of these
+33. If β = °30 and if θ is the angle of depression of the
+foot of the tower as seen from the top of the
+building, then what is the value of tan θ?
+(a)
+( )3 3
+3 3
+− (b) ( )3 3
+3 3
++
+(c) ( )2 3
+3 3
+− (d) None of these
+34. What is the angle of elevation of the Sun, when
+the shadow of a pole of height x m is
+x
+3
+m?
+e 2013 II
+(a) 30° (b) 45° (c) 60° (d) 75°
+35. A spherical balloon of radius r subtends angle
+60° at the eye of an observer. If the angle of
+elevation of its centre is 60° and h is the height
+of the centre of the balloon, then which one of
+the following is correct? e 2013 II
+(a) h r= (b)
+h r= 2
+(c) h r= 3 (d) h r= 2
+36. The angle of elevation of the top of a tower 30 m
+high from the foot of another tower in the
+same plane is 60° and the angle of elevation
+of the top of the second tower from the foot of
+the first tower is 30°. The distance between
+the two towers is m times the height of the
+shorter tower. What is m equal to? e 2014 I
+(a)
+2 (b) 3 (c) 1
+2
+(d) 1
+3
+37. The shadow of a tower standing on a level
+plane is found to be 50 m longer when the
+Sun’s elevation is 30°, then when it is 60°.
+What is the height of the tower? e 2014 I
+(a) 25 m (b)
+25 3 m (c) 25
+3
+m (d) 30 m
+38. From a certain point on a straight road, a person
+observe a tower in the West direction at a
+distance of 200 m. He walks some distance along
+the road and finds that the same tower is 300 m
+South of him. What is the shortest distance of
+the tower from the road? e 2014 II
+(a)
+300
+13
+m (b) 500
+13
+m (c) 600
+13
+m (d) 900
+13
+m
+39. If from the top of a post a string twice the length
+of the post is stretched tight to a point on the
+ground, then what angle will the string make
+with the post? e 2014 II
+(a)
+π
+6
+(b)
+π
+4
+(c)
+5
+12
+π (d) π
+3
+40. The angle of elevation of a cloud from a point
+200 m above a lake is 30° and the angle of
+depression of its reflection in the lake is 60°. The
+height of the cloud is e 2015 I
+(a) 200 m (b) 300 m (c) 400 m (d) 600 m
+41. From the top of a tower, the angles of depression
+of two objects P and Q (situated on the ground
+on the same side of the tower) separated at a
+distance of
+100 3 3( ) − m are 45° and 60°,
+respectively. The height of the tower is e 2015 I
+(a) 200 m (b) 250 m
+(c) 300 m (d) None of these
+MATHEMATICS >□Height□and□Distance 229
+--- PDF PAGE 435 ---
+42. The angles of elevation of the top of a tower from
+two points P and Q at distance m
+2 and n 2
+respectively, from the base and in the same
+straight line with it are complementary. The
+height of the tower is e 2015 I
+(a) ( ) /mn 1 2 (b) mn1 2 /
+(c) m n1 2 / (d) mn
+43. A pole is standing erect on the ground which is
+horizontal, The tip of the pole is tied tight with a
+rope of length
+12 m to a point on the ground. If
+the rope is making 30° with the horizontal, then
+the height of the pole is e 2015 II
+(a)
+2 3 m (b) 3 2 m
+(c) 3 m (d) 3 m
+44. An aeroplane flying at a height of 3000 m passes
+vertically above another aeroplane at an instant,
+when the angles of elevation of the two planes
+from some point on the ground are 60° and 45°,
+respectively. Then, the vertical distance between
+the two planes is e 2015 II
+(a) 1000
+( ) 3 1− m (b) 1000 3 m
+(c) 1000 3 3( ) − m (d) 3000 3 m
+45. Two observers are stationed due North of a
+tower (of height x m) at a distance y m from each
+other. The angles of elevation of the tower
+observed by them are 30° and 45°, respectively.
+Then, x y/ is equal to e 2016 I
+(a)
+2 1
+2
+− (b) 3 1
+2
+− (c) 3 1
+2
++ (d) 1
+230 CDS Pathfinder
+ANSWERS
+1 c 2 a 3 c 4 c 5 c 6 b 7 b 8 d 9 d 10 b
+11 c 12 b 13 d 14 a 15 a 16 b 17 c 18 c 19 c 20 b
+21 c 22 a 23 a 24 a 25 b 26 a 27 d 28 c 29 c 30 b
+31 a 32 c 33 a 34 c 35 c 36 b 37 b 38 c 39 d 40 c
+41 c 42 d 43 d 44 c 45 c
+HINTS AND SOLUTIONS/CharA0 
+1. (c) Let the height of the tree be h m.
+∴ BC h= m and AB = 16 m
+In right angled ∆ ABC ,
+tan 60
+16
+° = =BC
+AB
+h ⇒ 3
+16
+= h
+⇒ h = 16 3 m
+Hence, the height of the tree is 16 3 m.
+2. (a) In right angled
+∆ PBT, tan 45 ° = h
+y
+⇒ 1 = h
+y
+∴ y h= …(i)
+and in right angled ∆ PTA ,
+tan30° = h
+x
+⇒
+x = 3h …(ii)
+∴ Required distance, AB x y= +
+x + = +y h h 3 = +h ( ) 3 1 m
+3. (c) Let height of the building be h m
+and distance between building and
+tower be x m.
+∴ AB h= m and BC = x m
+In right angled ∆ ADE,
+tan 30° = ED
+AD
+⇒ 1
+3
+75= − h
+x
+⇒ x = −75 3 3 h …(i)
+and in right angled ∆ BCE ,
+tan 60 ° = CE
+BC
+⇒ 3 75=
+x
+⇒ x 3 75=
+⇒ ( )75 3 3 3 75− =h [from Eq. (i)]
+⇒ 75 3 3 75× − = h
+⇒ 3 75 3 75h = × − ⇒ h = ×75 2
+3
+∴ h = 50 m
+Hence, the height of the building is
+50 m.
+4. (c) Let BC be a building of height h m
+and CD be a height of antenna. and let
+distance between A Band = x m
+C
+A B
+60°
+h
+16 m
+m
+30° 45°
+A B T yx
+h
+30° 45°
+P
+D
+E
+C
+30°
+B
+A
+h
+75 m
+60°
+x
+x
+(75 – ) m
+h
+100 m
+x BA
+D
+C
+h m
+45°
+60°
+m
+--- PDF PAGE 436 ---
+In right angled ∆ ABC ,
+tan 45 ° = =BC
+AB
+h
+x
+⇒ x = h ...(i)
+and in right angled ∆ ABD,
+tan 60 ° = = +DB
+BA
+DC CB
+AB
+= +100 h
+x
+⇒ 3 100= + h
+h
+[from Eq. (i)]
+⇒ 3 100h h= +
+⇒ ( ) 3 1 100− = h ⇒ h =
+−
+100
+3 1
+⇒ h =
+−
+×
++
++
+100
+3 1
+3 1
+3 1( )
+( )
+( )
+= +50 3 1( ) m
+Hence, the height of the building is
+50 3 1( ) + m.
+5. (c) Let the height of the tower be h m
+and length of the shadow ( )BC be x m.
+In right angled ∆ ACD,
+tan 30° = CD
+AC
+⇒ 1
+3 15
+= h ⇒ h = 15
+3
+m …(i)
+and in right angled ∆ BCD,
+tan 60 ° = CD
+BC
+⇒ 3 = h
+x
+⇒
+h
+3
+= x
+∴ x = =15
+3
+5 m
+[from Eq. (i)]
+Hence, the length of shadow is 5 m.
+When sun’s altitude is 60°.
+6. (b) Let the height of pole be h m, then
+PQ RQ h= =
+In right angled ∆ PRQ ,
+tan θ = = =RQ
+PQ
+h
+h
+1
+⇒ tan tanθ = = °1 45 ∴ θ = ° 45
+Hence, the angle of elevation of moon
+is 45°.
+7. (b) Let A be the observer. When the
+aeroplane was at point B the angle of
+elevation was 60° and after 10 s when
+it was at point C the angle of elevation
+was 30°.
+Here, in the figure,
+BE CD= = = 1 1000km m
+In right angled ∆ BAE,
+tan 60 1000° = =BE
+AE AE
+⇒ AE = °1000 60cot
+= 1000
+3
+m …(i)
+In right angled ∆ ACD,
+tan 30 1000° = =DC
+AD AD
+⇒ AD = ° =1000 30 1000 3cot
+∴ ED AD AE= −
+= −1000 3 1000
+3
+= 2000
+3
+m
+So, distance travelled by plane in 10 s,
+then
+BC DE= = 2000
+3
+m
+∴ Speed of aeroplane = Distance
+Time
+=
+2000
+3
+10
+m s /= × ×
+×
+2000 60 60
+10 3 1000
+km/h
+= 240 3 km/h
+Hence, the uniform speed of the
+aeroplane is
+240 3 km/h.
+8. (d) Let TP be the man and SQ be the
+pole.
+Let ∠ =STR θ
+Now, SR SQ RQ= −
+= − =10
+3
+2 4
+3
+m [/c81RQ TP= ]
+In right angled ∆ STR ,
+tan θ = =SR
+TR
+SR
+PQ
+[/c81TR PQ= ]
+= ×4
+3
+3
+4
+= = °1
+3
+30tan
+∴ θ = ° 30
+9. (d) Let BC be the tower and CD be the
+flagstaff.
+∴ ∠ = BAC α and ∠ =BAD β
+In right angled ∆ ABC ,
+tan α = BC
+AB
+…(i)
+and in right angled ∆ ABD,
+BD
+AB
+BC h
+AB
+= + = tan β …(ii)
+On dividing Eq. (ii) by Eq. (i), we get
+BC h
+BC
++ = tan
+tan
+β
+α
+⇒ ( ) tan tanBC h BC+ = α β
+⇒ BC h(tan tan ) tanβ α α− =
+∴ BC
+h
+=
+−
+tan
+tan tan
+α
+β α
+10. (b) Let O be the window and AB be
+the house on the opposite side of the
+street.
+Let AP h= ′
+and BP OO h= ′=
+In right angled ∆ AOP,
+tan θ = AP
+OP
+= ′h
+OP
+…(i)
+and in right angled ∆ BOP,
+tan φ = =PB
+OP
+h
+OP
+…(ii)
+∴ ′=
+φ
+h
+h
+tan
+tan
+θ [by Eq. (i) ÷ Eq. (ii)]
+⇒ ′=h h tan cotθ φ
+∴ Height of the house
+AB AP PB= + = + ′ h h
+= h htan cotθ φ +
+= +h [tan cot ]θ φ 1
+MATHEMATICS >□Height□and□Distance 231
+15 m
+B CA
+D
+30° 60°
+x
+h
+R
+QP θ
+h
+h
+pole
+moon 4/ 3 m√
+θ
+S
+R
+QP
+2 m
+10/3 mT
+h
+C
+α
+β
+A B
+D
+1 km
+C
+DE
+B
+A
+60°
+30°
+1 km
+h ´
+Pφ
+θO
+B
+A
+hh
+O ´
+--- PDF PAGE 437 ---
+11. (c) In right angled ∆ BAC ,
+tan α = =BC
+AC
+s
+p
+⇒ p s=
+tanα
+…(i)
+In right angled ∆ BDC ,
+tan β = =BC
+DC
+s
+q
+⇒ q s=
+tan 3α
+…(ii)
+[/c81β α= 3 , given]
+On subtracting Eq. (ii) from Eq. (i), we
+get
+p q s s− = −
+tan tanα α 3
+=
+−
+
+
+
+
+
+
+s
+tan tan
+tan tan
+3
+3
+α α
+α α
+12. (b) Let PQ and RS be the two posts such
+that PQ RS= 2 [given]
+Given, M is the mid-point of RP.
+∴ RM PM K= =
+2
+[/c81RP K= given]
+Let ∠ =RMS θ
+∴ ∠ = ° − QMP 90 θ
+Let RS h= , then PQ h= 2
+Now, in right angled ∆ PMQ,
+tan ( )90° − = θ PQ
+MP
+⇒ cot
+/
+θ = =2
+2
+4h
+k
+h
+k
+or cot θ = 4h
+K
+…(i)
+In right angled ∆ SRM,
+tanθ = SR
+RM
+= h
+K / 2
+⇒ 2h
+K
+= tan θ …(ii)
+On multiplying Eq. (i) by Eq. (ii), we get
+⇒ 4 2 1h
+K
+h
+K
+× =
+⇒ 8 2 2h K= ⇒ h K2
+2
+8
+=
+∴ h K=
+2 2
+m
+Hence, the height of shorter post is
+K
+2 2
+m.
+13. (d) Let O be an observer at a height
+30 m. Let x be the distance of observer
+from the top of the flagstaff.
+i.e. OC = x
+Here, AB be the tower of the flag staff
+= 25 m and BC be the flag staff = 5 m
+In right angled ∆ OBC ,
+tan α = =BC
+OC
+5
+x
+⇒ x = 5 cotα ...(i)
+In right angled ∆ OCA,
+tan 2 30α = =AC
+OC x
+[/c81AC AB BC= + ]
+∴ tan
+cot
+2 30
+5
+α
+α
+= [from Eq. (i)]
+⇒ tan tan2 6α α=
+⇒ 2
+1
+62
+tan
+tan
+tanα
+α
+α
+−
+=
+/c81tan tan
+tan
+2 2
+1 2α α
+α
+=
+−
+
+
+
+
+
+
+
+
+⇒ 3 3 1 2− =tan α ⇒ tan 2 2
+3
+α =
+⇒ tan α = 2
+3
+or cot /α = 3 2
+or x = 5 3
+2
+m [from Eq. (i)]
+14. (a) Let height of tower AB be h m and
+distance between C and D be x m.
+In right angled ∆ ACB, tan 45 ° = AB
+AC
+⇒ 1
+60
+= h ⇒ h = 60 m ...(i)
+Now, in right angled ∆ ADB,
+tan 30° = =
++
+AB
+AD
+AB
+AC CD
+=
++
+60
+60 x
+[from Eq. (i)]
+⇒ 1
+3
+60
+60
+=
++ x
+⇒ 60 60 3+ =x
+⇒ x = −60 3 1( ) = −60 1 73 1( . )
+= ×60 0 73 43 8. . = m
+Now, given time = 5 s
+We know that, Speed = Distance
+Time
+∴ Speed of boat = ×43 8
+5
+18
+5
+. = 788 4
+25
+.
+= 31 5 .km/h
+15. (a) Let AC h= ft = Height of a tree
+and x ft = Distance between A and F
+then AE = −( )160 x ft
+In right angled ∆ AFC ,
+tan 30° = =AC
+AF
+h
+x
+⇒ 1
+3
+= h
+x
+⇒ x = 3h …(i)
+and in right angled ∆ AEC ,
+tan 60
+160
+° = =
+−
+AC
+AE
+h
+x
+⇒ 3
+160
+=
+−
+h
+x
+[/c81tan 60 3° = ]
+⇒ 3 160( ) − =x h
+⇒ 3 160 3( ) − = h h [from Eq. (i)]
+⇒ 160 3 3− =h h ⇒ 4 160 3h =
+∴ h = 40 3 ft
+Hence, the height of the tree is 40 3 ft.
+16. (b) Let the height of the post be h m, and
+AB = x m.
+Given, BC = 20 m
+232 CDS Pathfinder
+x
+30 m
+α αO C
+5 m
+B
+25 m
+A
+θ 90°– θ
+M PR
+Q
+S
+2 h
+h
+K
+CA D
+B
+30°45°
+30° 45°
+60 m x
+h m
+B
+q
+α β
+A D C
+p
+s
+30° 60°F E
+C
+h
+A (160 – )xx
+160 ft
+N
+EW
+S
+30°
+A
+BC
+x m
+D
+( – ) mh
+x
+h m
+( – ) mh x
+20 m
+--- PDF PAGE 438 ---
+In right angled ∆ ABC ,
+tan 30° = AB
+BC
+⇒ 1
+3 20
+= x
+⇒ x = 20
+3
+m …(i)
+and cos 30° = BC
+AC
+=
+−
+20
+h x
+⇒ 3
+2
+20=
+−h x
+⇒ h − =x 40
+3
+From Eq. (i), putting the value of x ,
+h = +40
+3
+20
+3
+= ×60
+3
+3
+3
+= 20 3 m
+Hence, the height of the post is 20 3 m.
+17. (c) Let P be the cloud and ′P its image in
+the lake. Let T be the point ‘ h’ m above
+the surface of the lake and let x be the
+height of the cloud.
+∴ ST h=
+Also, NP NP= ′= x [say]
+Then, PM h= −x
+′ = +P M h x
+In right angled ∆ PTM,
+PM
+TM
+= tan β
+∴ x − =h TM tan β …(i)
+In right angled ∆ ′P TM,
+′ =P M
+TM
+tan α
+x + =h TM tan α …(ii)
+From Eqs. (i) and (ii), we get
+x
+x +
+− =h
+h
+tan
+tan
+β
+α
+Using componendo and dividendo rule,
+we get
+x x
+x x
+− + +
+− − −
+= +
+−
+h h
+h h
+tan tan
+tan tan
+β α
+β α
+⇒ 2
+2
+x
+−
+= +
+−h
+tan tan
+tan tan
+β α
+β α
+⇒ x
+h
+= +
+−
+tan tan
+tan tan
+β α
+α β
+⇒
+x
+h
+= +
+−
+sin cos cos sin
+sin cos cos sin
+β α β α
+α β α β
+= +
+−
+sin( )
+sin( )
+α β
+α β
+∴ x = + −h sin ( ) ( )α β α β cosec
+18. (c) Let the height of the incomplete
+pillar be x m and the increasing height
+be PC h= m.
+Given, AB = 100 m
+In right angled ∆ ABC ,
+tan 45
+100
+° = =BC
+AB
+x ⇒ x = 100 m...(i)
+and in right angled ∆ APB,
+tan 60 ° = PB
+AB
+= + = +PC BC
+AB
+hx
+100
+⇒ x + =h 100 3
+⇒ h = − = −100 3 100 3 100x
+[from Eq. (i)]
+∴ h = −100 3 1( ) m
+Hence, the height of the incomplete
+pillar is
+100 3 1( ) − m.
+19. (c) Let AB be the tower and C , D be the
+two positions of the car.
+Then, ∠ = °ACB 45 , ∠ = °ADB 30 .
+Let AB h= , CD = x and AC y= .
+In right angled ∆ ABC , we get
+AB
+AC
+= ° =tan 45 1 ⇒ h
+y
+= 1
+⇒ y h= …(i)
+In right angled ∆ ABD , we get
+AB
+AD
+= ° =tan30 1
+3
+⇒ h
+yx +
+= 1
+3
+⇒ x + =y h 3 …(ii)
+∴ x = − = −3 3 1h h h ( )
+[by Eqs. (i) and (ii)]
+Now, h ( ) 3 1− is covered in 12 min.
+So, h will be covered in
+12
+3 1
+12
+3 1h
+h
+( ) ( )−
+×
+
+
+
+
+
+
+
+
+=
+−
+min.
+= 
+ 
+1200
+73
+min ≈ 16 min 23 s
+20. (b) Let the radar base is at point A. The
+plane is at point D in the first sweep and
+at point E in the second sweep. The
+distance it covers in the one minute
+interval is DE.
+From the figure,
+In right angled ∆ ADC , we get
+tan30 1000° = =DC
+AC AC
+⇒ AC =
+°
+1000
+30tan
+Similarly, in ∆ EAB, we get
+tan 60 1000° = =EB
+AB AB
+⇒ AB =
+°
+1000
+60tan
+Total distance covered by plane in 1 min,
+then
+DE AC AB= −
+DE =
+°
+−
+°
+1000
+30
+1000
+60tan tan
+= −1000 3 1000
+3
+= 1154 70 .m
+The speed of the plane is given by
+s = distance covered/time taken
+= =DE / .60 19 25 m/s.
+21. (c)
+Let P be the point of observation and
+QR be the tower.
+Given that, θ = sin− 
+ 
+
+1 3
+5
+, PQ = 20 m.
+Let the height of the tower, QR h= and
+PR = x
+From the right angled ∆ PQR,
+sin θ = QR
+PR
+⇒ sin sin /− 
+ 
+
+
+
+ =1 3
+5
+h x
+⇒
+3
+5
+= h
+x
+⇒
+x = 5
+3
+h …(i)
+From pythagoras theorem, we get,
+PQ QR PR2 2 2+ =
+⇒ 202 2 2+ =h x
+⇒ 20 5
+3
+2 2
+2
++ = 
+ 
+h h [using Eq. (i)]
+⇒
+20 25
+9
+2 2
+2
++ =h h ⇒
+16
+9
+20
+2
+2
+h
+=
+∴ h = × =3 20
+4
+15 m
+MATHEMATICS >□Height□and□Distance 233
+BA
+P
+C
+x
+45° 60°
+h
+100 m
+CD
+B
+30° 45°
+A
+h
+yx
+M
+P
+N
+P´
+α
+β
+h
+T
+S
+x
+x
+CB
+30°
+A
+60°
+E D
+1000 m
+QP
+x
+R
+20 m
+tower
+h
+q = sin–1( )
+3
+5
