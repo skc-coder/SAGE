@@ -12,7 +12,8 @@
   - `dbms`: DBMS
 
 ### CDS
+- [[content/cds/cds_overview|CDS Overview]]
 - **Subjects**:
-  - `elementary-mathematics`: Elementary Mathematics
+  - `elementary-mathematics`: [[content/cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics Overview]]
   - `general-knowledge`: General Knowledge
   - `english`: English
