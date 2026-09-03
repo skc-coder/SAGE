@@ -26,25 +26,25 @@ xychart-beta
     bar [100, 75, 75, 50, 50]
 ```
 
-### Subtopic & Question Type Breakdown (Frequency & Status)
+### Subtopic & Question Type Breakdown (Grouped Topic Performance)
 
 ```mermaid
-pie title Subtopic & Question Type Performance Breakdown
-    "Triangles > Incenter (Correct)" : 1
-    "Triangles > Orthocenter (Wrong)" : 1
-    "Triangles > Circumcenter (Correct)" : 1
-    "Triangles > Centroid (Correct)" : 1
-    "Circles > Tangents (Wrong)" : 1
-    "Circles > Secant Theorem (Correct)" : 1
-    "Circles > Cyclic Quadrilaterals (Wrong)" : 1
-    "Circles > Chords Intersecting (Correct)" : 1
-    "Polygons > Interior Angles Sum (Correct)" : 1
-    "Polygons > Number of Diagonals (Wrong)" : 1
-    "Trigonometry > Max/Min Values (Correct)" : 1
-    "Trigonometry > Heights & Distances (Correct)" : 2
-    "Algebra > Quadratic Discriminants (Wrong)" : 1
-    "Algebra > Remainder Theorem (Correct)" : 1
-    "Mensuration > Sphere Volume (Correct)" : 1
+pie title Subtopic Performance Breakdown
+    "Triangles: Incenter (Correct)" : 1
+    "Triangles: Orthocenter (Wrong)" : 1
+    "Triangles: Circumcenter (Correct)" : 1
+    "Triangles: Centroid (Correct)" : 1
+    "Circles: Tangents (Wrong)" : 1
+    "Circles: Secants (Correct)" : 1
+    "Circles: Cyclic Quadrilaterals (Wrong)" : 1
+    "Circles: Chords (Correct)" : 1
+    "Polygons: Interior Angles (Correct)" : 1
+    "Polygons: Diagonals (Wrong)" : 1
+    "Trigonometry: Heights & Distances (Correct)" : 2
+    "Trigonometry: Max & Min Values (Correct)" : 1
+    "Algebra: Discriminants (Wrong)" : 1
+    "Algebra: Remainder Theorem (Correct)" : 1
+    "Mensuration: Sphere Volume (Correct)" : 1
 ```
 
 ## Navigation

@@ -119,13 +119,23 @@ xychart-beta
     y-axis "Accuracy %" 0 --> 100
     bar [66, 0]
 ```
-3. **Subtopic & Question Type Breakdown (Frequency & Status)**:
-   - Tracks exact subtopics and question types asked in tests, showing count frequency and outcome (Correct vs Wrong/Mistake).
+3. **Subtopic & Question Type Breakdown (Grouped Topic Frequency & Status)**:
+   - Group subtopics sequentially under their parent topic so Mermaid assigns consistent theme color shades to all subtopics under the same parent topic.
+   - Append performance indicators `(Correct)`, `(Wrong)`, or `(Unattempted)` after each subtopic entry.
 ```mermaid
 pie title Subtopic & Question Type Performance Breakdown
-    "Heights & Distances > Two-point Angle (Wrong)" : 1
-    "Heights & Distances > Single Tower (Correct)" : 2
-    "Trigonometric Identities > Max/Min Value (Unattempted)" : 0
+    "Triangles: Incenter (Correct)" : 1
+    "Triangles: Orthocenter (Wrong)" : 1
+    "Triangles: Circumcenter (Correct)" : 1
+    "Triangles: Centroid (Correct)" : 1
+    "Circles: Tangents (Wrong)" : 1
+    "Circles: Secants (Correct)" : 1
+    "Circles: Cyclic Quadrilaterals (Wrong)" : 1
+    "Circles: Chords (Correct)" : 1
+    "Polygons: Interior Angles (Correct)" : 1
+    "Polygons: Diagonals (Wrong)" : 1
+    "Trigonometry: Heights & Distances (Correct)" : 2
+    "Trigonometry: Max & Min Values (Correct)" : 1
 ```
 
 ---
