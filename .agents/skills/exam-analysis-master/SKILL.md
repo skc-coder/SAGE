@@ -35,16 +35,21 @@ content/
    - Frontmatter metadata: `exam`, `subject`, `topic`, `subtopic`, `difficulty` (`Easy` | `Medium` | `Hard` - specified manually by user), `status`, `mistake_category`.
 
 2. **Topic Notes (`notes/[topic_slug].md`)**:
-   - Contains: Core theory, fundamental theorems, intuition, geometric/algebraic proofs, and formulaic properties.
-   - Subtopic sections (`### [Subtopic Name]`): Contains theory for that subtopic + specialized question headers linking directly to individual question notes.
+   - Contains: Topic-level core theory, fundamental theorems, and intuition.
+   - `## Subtopics`: Contains **ONLY wikilinks to dedicated Subtopic Pages** (e.g. `[[content/cds/elementary-mathematics/notes/subtopics/two_point_angle_elevation|Two-Point Angle of Elevation]]`).
+   - **STRICT MANDATE: NO subtopic content or question links live directly inside topic notes!**
 
-3. **Variation Notes (`notes/variations/`)**:
+3. **Subtopic Notes (`notes/subtopics/[subtopic_slug].md`)**:
+   - Contains: Specialized subtopic theory, formulaic properties, and proofs.
+   - `## Linked Practice Questions`: The **ONLY place** where direct links to individual regular practice question notes (e.g., `[[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q13|CDS 2024 Q13]]`) are stored!
+
+4. **Variation Notes (`notes/variations/`)**:
    - Contains novel Tier 2 (Topic Level) and Tier 3 (Chapter Level) variations with collapsible solutions (`> [!faq]- View Solution`).
 
-4. **Question Database (`[subject]/question_db.md`)**:
+5. **Question Database (`[subject]/question_db.md`)**:
    - Resides strictly at the subject root (`content/[exam]/[subject]/question_db.md`).
    - Contains **PURE dynamic Dataview query tables ONLY**.
-   - **STRICT MANDATE: ZERO CHARTS in `question_db.md`** (all visual analytics charts are housed strictly in `[subject]_overview.md` and `[exam]_overview.md`).
+   - **STRICT MANDATE: ZERO CHARTS in `question_db.md`**.
 
 ---
 
@@ -52,15 +57,16 @@ content/
 
 1. **Subject Overview Dashboards (`[subject]_overview.md`)**:
    - Links ONLY to **Topic Pages** (`[[content/cds/elementary-mathematics/notes/trigonometry_identities|Heights and Distances]]`).
-   - STRICTLY NO direct links to regular practice questions on subject/chapter overview pages!
-   - MAY link directly to **Subject-wide & Chapter-wide Variations** under `## Chapter Variations`.
+   - STRICTLY NO direct links to regular practice questions or subtopics on subject overview pages!
 
 2. **Topic Pages (`notes/[topic_slug].md`)**:
-   - Links down to **Subtopic Section Headers** (`### Subtopic 1: Two-Point Angle`).
-   - Links directly to **Topic-level Variations** under `## Variations`.
+   - Links ONLY down to **Subtopic Pages** under `## Subtopics` (e.g. `[[content/cds/elementary-mathematics/notes/subtopics/two_point_angle_elevation|Two-Point Angle of Elevation]]`).
+   - Links to **Topic Variations** under `## Variations`.
+   - **NO question links or inline subtopic content inside topic pages!**
 
-3. **Subtopic Section Headers (Inside Topic Pages)**:
-   - This is the **ONLY place** where direct links to individual regular practice question notes (e.g., `[[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q13|CDS 2024 Q13]]`) are stored!
+3. **Subtopic Pages (`notes/subtopics/[subtopic_slug].md`)**:
+   - Contains subtopic notes & theory.
+   - This is the **ONLY place** where direct links to individual practice question notes live!
 
 ---
 

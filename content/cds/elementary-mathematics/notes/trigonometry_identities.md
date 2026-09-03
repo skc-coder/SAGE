@@ -15,11 +15,8 @@ $$\tan(\theta) = \frac{\text{Perpendicular}}{\text{Base}} = \frac{h}{d}$$
 
 ---
 
-## Subtopics & Specialized Questions
-
-### Subtopic 1: Two-Point Angle of Elevation
-Questions involving two observations of an object from different distances along a straight line:
-- [[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q13|CDS 2024 Q13]] (Cliff & Two Ships)
+## Subtopics
+- [[content/cds/elementary-mathematics/notes/subtopics/two_point_angle_elevation|Two-Point Angle of Elevation]]
 
 ---
 
@@ -32,7 +29,7 @@ Questions involving two observations of an object from different distances along
 
 ```mermaid
 %%{init: {'themeVariables': { 'pie1': '#4c1d95', 'pie2': '#6d28d9', 'pie3': '#8b5cf6'}}}%%
-pie title Heights & Distances Difficulty Distribution
+pie title Heights & Distances Difficulty
     "Two-Point Angle (Medium)" : 2
     "Single Tower (Easy)" : 1
 ```
