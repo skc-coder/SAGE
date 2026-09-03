@@ -9,50 +9,78 @@ This skill empowers the AI to act as an exam coach and knowledge curator for com
 
 ---
 
-## 1. Vault Structure & Layout
+## 1. Vault Structure & Note Taxonomy Hierarchy
 
 ```text
 content/
 ├── exams_config.md                 # Master Exams Registry
 └── [exam]/                         # e.g., gate-cs/ or cds/
-    ├── gate_cs_overview.md         # Exam Overview Dashboard (Subject Bar Charts & Mistake Pie Charts)
+    ├── gate_cs_overview.md         # Exam Overview Dashboard
     └── [subject]/                  # e.g., algorithms/ or elementary-mathematics/
-        ├── algorithms_overview.md  # Subject Overview Dashboard (Chapter & Topic Bar Charts)
+        ├── algorithms_overview.md  # Subject / Chapter Overview Dashboard
         ├── question_db.md          # Central Question Taxonomy Database (Dynamic Dataview Queries)
-        ├── test_sessions/          # Full Test Scorecards (Obsidian Properties / YAML Frontmatter)
+        ├── test_sessions/          # Full Test Scorecards (YAML Frontmatter Properties)
         ├── practice_sessions/      # Book/Screenshot Practice Session Logs
-        └── notes/                  # Core Topic Notes (Theory + Direct Links to Variations)
-            ├── questions/          # Modular Question Notes (Question + Derivation + Tier 1 Variations)
+        └── notes/                  # Core Topic & Subtopic Notes (Theorems, Intuition, Theory)
+            ├── questions/          # Modular Question Notes (Question + Step-by-Step Explanation + Tier 1 Variations)
             └── variations/         # Modular Variation Notes (Tier 2 Topic & Tier 3 Chapter Variations)
 ```
 
 ---
 
-### Formatting & Metadata Standards
+### Note Content Guidelines by Taxonomy Level
 
-1. **Crisp, Minimalist Titles (STRICTLY NO Em-Dashes, Hyphens, or AI Fluff)**:
-   - STRICTLY FORBID em-dashes (`—`), hyphens (`-`), buzzwords (`Master Dashboard`, `Executive Hub`, `Overview`, `Theory & Concept Notes`), and bloated header titles.
-   - Headers MUST BE concise, raw names without extra text:
-     - Exam Index: `# CDS` (NOT `# CDS Overview` or `# CDS — Overview`)
-     - Subject Index: `# Elementary Mathematics` (NOT `# Elementary Mathematics Overview`)
-     - Question Database: `# Question Database` (NOT `# Question Database - Elementary Mathematics` or `# Question DB — Algorithms`)
+1. **Question Notes (`notes/questions/[question_slug].md`)**:
+   - Contains: Exact question statement + Step-by-step mathematical explanation & derivation + Root cause analysis + Tier 1 question variations.
+   - Frontmatter metadata: `exam`, `subject`, `topic`, `subtopic`, `difficulty`, `status`, `mistake_category`.
+
+2. **Topic Notes (`notes/[topic_slug].md`)**:
+   - Contains: Core theory, fundamental theorems, intuition, geometric/algebraic proofs, and formulaic properties.
+   - Subtopic sections (`### [Subtopic Name]`): Contains theory for that subtopic + specialized question headers linking directly to individual question notes.
+
+3. **Variation Notes (`notes/variations/`)**:
+   - Contains novel Tier 2 (Topic Level) and Tier 3 (Chapter Level) variations with collapsible solutions (`> [!faq]- View Solution`).
+
+---
+
+### Strict Hierarchical Linking Rules
+
+1. **Subject & Chapter Overview Dashboards**:
+   - Links ONLY to **Topic Pages** (`[[content/cds/elementary-mathematics/notes/trigonometry_identities|Heights and Distances]]`).
+   - STRICTLY NO direct links to regular practice questions on subject/chapter overview pages!
+   - MAY link directly to **Subject-wide & Chapter-wide Variations** under `## Chapter Variations`.
+
+2. **Topic Pages**:
+   - Links down to **Subtopic Section Headers** (`### Specialized Questions: Two-Point Angle`).
+   - Links directly to **Topic-level Variations** (`## Topic Variations`).
+
+3. **Subtopic Section Headers (Inside Topic Pages)**:
+   - This is the **ONLY place** where direct links to individual regular practice question notes (e.g., `[[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q13|CDS 2024 Q13]]`) are stored!
+
+---
+
+### Formatting & Title Standards (KISS Principle)
+
+1. **Crisp Minimalist Titles (STRICTLY NO Em-Dashes, Hyphens, or AI Fluff)**:
+   - Header titles MUST be raw names without extra fluff:
+     - Exam Index: `# CDS` (NOT `# CDS Overview`)
+     - Subject Index: `# Elementary Mathematics`
+     - Question Database: `# Question Database`
      - Topic Note: `# Heights and Distances` (NOT `# Heights and Distances - Theory & Concept Notes`)
-     - Question Note: `# GATE 2021 Q34` or `# CDS 2024 Q13`
-     - Test Session: `# 2026-09-03 CDS Mock 01` (NOT `# Test Session: 2026-09-03 CDS Mock 01`)
+     - Question Note: `# CDS 2024 Q13`
+     - Test Session: `# 2026-09-03 CDS Mock 01`
 
-2. **Obsidian Frontmatter & Properties (MANDATORY)**:
-   - ALL test session scorecards and question notes MUST store metadata strictly in frontmatter YAML properties, NEVER as bullet points in the markdown body.
-   - **Difficulty Property (`difficulty`)**: Manually specified by the user (`Easy`, `Medium`, `Hard`) per question/subtopic note:
+2. **Obsidian Frontmatter Properties (MANDATORY)**:
+   - All test scorecards and question notes MUST store metadata in frontmatter YAML properties:
    ```yaml
    ---
    exam: "CDS"
    subject: "Elementary Mathematics"
    topic: "Trigonometry"
    subtopic: "Heights and Distances"
-   difficulty: "Medium" # Manually specified by user per question
+   difficulty: "Medium" # Manually entered by user (Easy / Medium / Hard)
    date: 2026-09-03
    source_file: "cds_2024_math_mock1.pdf"
-   source_file_link: "[[content/cds/elementary-mathematics/test_sessions/2026-09-03_cds_mock_01|Mock Test 01]]"
    question_number: "Q13"
    status: "Wrong"
    mistake_category: "Formula Misapplication"
@@ -61,10 +89,7 @@ content/
    ```
 
 3. **Dynamic Obsidian Dataview Queries for Tables (MANDATORY)**:
-   - Question Databases (`question_db.md`) MUST use Obsidian `dataview` codeblocks to render dynamic question logs automatically instead of hardcoded markdown tables:
-   ```markdown
-   ## Dynamic Question Log
-
+   - `question_db.md` MUST use Obsidian `dataview` blocks:
    ```dataview
    TABLE 
        rows.question_type AS "Question Types / Specializations",
@@ -75,89 +100,42 @@ content/
    FROM "content/cds/elementary-mathematics/notes/questions"
    GROUP BY topic + " > " + subtopic AS "Topic & Subtopic"
    ```
-   ```
-
-4. **Direct Variation Links (STRICTLY NO Intermediate Variation Indexes)**:
-   - In topic notes and overview pages (`## Chapter Variations`), link DIRECTLY to specific variation files (e.g. `[[content/cds/elementary-mathematics/notes/variations/trigonometry_chapter_variations|Trigonometry Chapter Variations]]` or direct variation notes). Never link to non-existent or intermediate variation indexes.
-
-5. **Collapsible Solutions (`> [!faq]- View Solution`)**:
-   - ALWAYS use native Obsidian Callout foldables for collapsible solutions/hints.
-
-6. **Centered Display Math**: Use `$$ ... $$` separated by blank lines for math formulas.
 
 ---
 
-## 3. Visual Performance Analytics (Subject Bar Charts & Pie Charts)
+## 2. Visual Analytics Graphs Across All Levels (Placed BELOW Other Content)
 
-The system automatically embeds clean `xychart-beta` bar charts and `pie` charts across all three levels:
+Visual analytics graphs MUST be placed **at the bottom of overview/topic files** under `## Performance Overview` (below theory, variation links, and topic links):
 
-### Tier 1: Exam-Level Dashboard (`content/[exam]/[exam]_overview.md`)
-```mermaid
-xychart-beta
-    title "Subject-Wise Accuracy % (CDS)"
-    x-axis ["Elementary Mathematics", "General Knowledge", "English"]
-    y-axis "Accuracy %" 0 --> 100
-    bar [66, 0, 0]
-```
-```mermaid
-pie title Exam Mistake Categories across Subjects
-    "Formula Misapplication" : 1
-```
+1. **Tier 1: Exam Level (`[exam]_overview.md`)**:
+   - Subject-wise accuracy bar chart (`xychart-beta`)
+   - Exam-wide mistake category pie chart (`pie`)
 
-### Tier 2: Subject-Level Dashboard (`content/[exam]/[subject]/[subject]_overview.md`)
-1. **Chapter-Wise Accuracy Bar Chart**:
-```mermaid
-xychart-beta
-    title "Chapter-Wise Accuracy % (Elementary Mathematics)"
-    x-axis ["Trigonometry", "Geometry", "Algebra", "Mensuration"]
-    y-axis "Accuracy %" 0 --> 100
-    bar [66, 0, 0, 0]
-```
-2. **Topic-Wise Accuracy Bar Chart**:
-```mermaid
-xychart-beta
-    title "Topic-Wise Accuracy %"
-    x-axis ["Heights & Distances", "Trigonometric Identities"]
-    y-axis "Accuracy %" 0 --> 100
-    bar [66, 0]
-```
-3. **Subtopic & Question Type Breakdown (Frequency & Difficulty/Question Level)**:
-   - **Question-Level Status vs Subtopic Taxonomy**: Subtopics themselves are NOT marked as entirely wrong or correct. Outcome status (`Correct` vs `Wrong`) is tracked at the **individual question level** in note frontmatter.
-   - Subtopic charts break down **question frequency by specialization and difficulty rating** (`Easy`, `Medium`, `Hard`) or show question accuracy percentages across subtopics.
-   - Render per-topic pie/bar charts initialized with `%%{init: {'themeVariables': ...}}%%` so subtopics under the same parent topic share dedicated color shades.
+2. **Tier 2: Subject & Chapter Level (`[subject]_overview.md`)**:
+   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`)
+   - Per-Topic Subtopic Question Frequency & Difficulty pie charts initialized with explicit `%%{init: {'themeVariables': ...}}%%` color shade palettes!
 
-```mermaid
-%%{init: {'themeVariables': { 'pie1': '#1e3a8a', 'pie2': '#2563eb', 'pie3': '#3b82f6', 'pie4': '#60a5fa'}}}%%
-pie title Triangles Subtopics Question Frequency & Difficulty
-    "Incenter (Easy)" : 2
-    "Orthocenter (Hard)" : 3
-    "Circumcenter (Medium)" : 1
-    "Centroid (Easy)" : 2
-```
+3. **Tier 3: Topic Level Notes (`notes/[topic_slug].md`)**:
+   - Topic question accuracy bar chart & difficulty distribution pie chart placed at the bottom of the topic note under `## Performance Overview`.
 
-```mermaid
-%%{init: {'themeVariables': { 'pie1': '#064e3b', 'pie2': '#047857', 'pie3': '#10b981', 'pie4': '#34d399'}}}%%
-pie title Circles Subtopics Question Frequency & Difficulty
-    "Tangents (Medium)" : 4
-    "Secants (Easy)" : 2
-    "Cyclic Quadrilaterals (Hard)" : 3
-    "Chords (Medium)" : 1
-```
+4. **Tier 4: Subtopic Level Headers**:
+   - Performance breakdown for questions under that specific subtopic specialization.
 
 ---
 
-## 4. Section Order Standard
+## 3. Section Order Standard
 
-Overview pages MUST follow this exact vertical order:
+All overview and topic files MUST strictly follow this vertical order:
 1. `# [Title]`
-2. `## Topics & Notes` / `## Subjects`
-3. `## Chapter Variations`
-4. `## Performance Overview` *(Subject/Chapter/Topic Bar Charts & Mistake Pie Charts)*
-5. `## Navigation`
+2. `## Theory, Intuition & Formulas` (or `## Topics & Notes` on Subject pages)
+3. `## Subtopics & Specialized Questions` (Topic pages)
+4. `## Variations` (Subject/Chapter/Topic level direct variation links)
+5. `## Performance Overview` *(Bar charts & themeVariables color-shaded Pie charts placed HERE at the bottom)*
+6. `## Navigation`
 
 ---
 
-## 5. Analytics Commands
+## 4. Analytics Commands
 
 - `/wrap` $\rightarrow$ Relocates questions, updates dataview queries, embeds visual charts, and updates frontmatter properties.
 - `/report [subject/topic]` $\rightarrow$ Renders accuracy ratio, Mistake Category Pie Chart, Topic Accuracy Heatmap, and actionable weak area advice.
