@@ -2,7 +2,7 @@
 exam: "CDS"
 subject: "Elementary Mathematics"
 topic: "Modular Arithmetic"
-subtopic: "Modular Fast Power Reduction"
+subtopic: "Modular Fast Power Reduction & Negative Remainders"
 difficulty: "Hard"
 tags: [cds, elementary-mathematics, modular, remainders, subtopic]
 ---
@@ -11,22 +11,56 @@ tags: [cds, elementary-mathematics, modular, remainders, subtopic]
 
 ## Core Practical Manipulation Techniques
 
-### 1. The Negative Remainder Trick (The Single Most Powerful Calculation Shortcut ⚡)
+### 1. Formal Euclidean Definition of Negative Dividends & Remainders
 
-In modular arithmetic, a remainder can be expressed as a negative number:
-$$a \equiv (a - m) \pmod m$$
-- *Example*: $25 \pmod 7 \equiv 4 \pmod 7$, but also $4 - 7 = \mathbf{-3 \pmod 7}$.
-- *Why is this useful?* Because $(-1)^{\text{even}} = +1$ and $(-1)^{\text{odd}} = -1$!
+By the Euclidean Division Theorem, dividing any integer $A$ by positive integer $B$ yields quotient $Q$ and remainder $R$:
+$$A = B \cdot Q + R \quad \text{where } \mathbf{0 \le R < B}$$
 
-#### 💡 Practical Application Example:
-Find $24^{100} \pmod{25}$.
-- $24 \equiv -1 \pmod{25}$.
-- $24^{100} \equiv (-1)^{100} \pmod{25} \equiv \mathbf{1 \pmod{25}}$.
-*(Instead of multiplying 24 a hundred times, we solved it in 1 line!)*
+> [!IMPORTANT]
+> The formal mathematical remainder $R$ MUST ALWAYS be non-negative ($0 \le R < B$).
+
+#### 🔍 Example: What is the remainder when $-1$ is divided by $6$? ($ -1 \pmod 6 $)
+Express $-1 = 6 \cdot Q + R$:
+- If quotient $Q = 0 \implies -1 = 6(0) + (-1) \implies R = -1$ ❌ *(Invalid because $R < 0$)*
+- If quotient $Q = -1 \implies -1 = 6(-1) + R \implies -1 = -6 + R \implies \mathbf{R = 5}$ ✅ *(Valid because $0 \le 5 < 6$)*
+
+Thus, $-1 \pmod 6 \equiv \mathbf{5 \pmod 6}$.  
+In general:
+$$\mathbf{-1 \pmod m \equiv (m - 1) \pmod m}$$
 
 ---
 
-### 2. Cyclicity / Pattern Method for Powers
+### 2. The Negative Remainder Conversion Rule
+
+Whenever an intermediate calculation yields a negative remainder $-k \pmod m$, **add the modulus $m$** to convert it into a standard positive remainder:
+
+$$\mathbf{-k \pmod m \equiv (-k + m) \pmod m}$$
+
+- $-1 \pmod 6 \implies -1 + 6 = \mathbf{5}$
+- $-2 \pmod 6 \implies -2 + 6 = \mathbf{4}$
+- $-5 \pmod 6 \implies -5 + 6 = \mathbf{1}$
+- $-13 \pmod 7 \implies -13 + 7 = -6 \implies -6 + 7 = \mathbf{1}$
+
+---
+
+### 3. The Negative Remainder Exponent Shortcut ⚡
+
+We temporarily use negative remainders in exponent problems because $(-1)^{\text{even}} = +1$ and $(-1)^{\text{odd}} = -1$.
+
+#### Practical Application Example 1:
+Find $24^{100} \pmod{25}$.
+- $24 \equiv 24 - 25 = -1 \pmod{25}$.
+- $24^{100} \equiv (-1)^{100} \pmod{25} \equiv \mathbf{1 \pmod{25}}$.
+
+#### Practical Application Example 2:
+Find $25^{99} \pmod{26}$.
+- $25 \equiv -1 \pmod{26}$.
+- $25^{99} \equiv (-1)^{99} \pmod{26} \equiv -1 \pmod{26}$.
+- Convert to positive remainder: $-1 + 26 = \mathbf{25 \pmod{26}}$.
+
+---
+
+### 4. Cyclicity / Pattern Method for Powers
 
 Every base $a$ modulo $m$ repeats its remainders in a periodic cycle.
 
@@ -38,7 +72,7 @@ Every base $a$ modulo $m$ repeats its remainders in a periodic cycle.
 
 ---
 
-### 3. Modular Inverse & Cancellation
+### 5. Modular Inverse & Cancellation
 
 To "divide" by $a$ modulo $m$, we multiply by the **Modular Multiplicative Inverse $a^{-1}$**:
 $$a \cdot a^{-1} \equiv 1 \pmod m$$
@@ -51,7 +85,7 @@ $$a \cdot a^{-1} \equiv 1 \pmod m$$
 ## Linked Practice Questions
 
 - [[cds/math/notes/questions#question-11-modular-negative-remainder-power|Question 11: Modular Power Reduction using Negative Remainder]]
-- [[cds/math/notes/questions#question-12-fermats-little-theorem-remainder|Question 12: Finding Remainder using Fermat's Little Theorem]]
+- [[cds/math/notes/questions#question-12-negative-remainder-power-trick|Question 12: Negative Remainder Power Trick]]
 
 ---
 
