@@ -1,28 +1,22 @@
-# Algorithms — Master Index (GATE CS)
+# Algorithms
 
-## Overview
-This index tracks all topics, subtopics, and questions discussed during practice and test sessions for **Algorithms**.
-
----
-
-## Topic Taxonomy & Notes
+## Topics & Notes
 
 ### Graph Algorithms
 #### Minimum Spanning Trees (MST)
-- [[content/gate-cs/algorithms/notes/counting_msts_formulaic|Counting MSTs — Formulaic Edge Conditions]] `[Questions: 1 | Status: ❌ 0/1]`
-- [[content/gate-cs/algorithms/notes/mst_uniqueness_theorem|MST Uniqueness & Distinct Weights Theorem]] `[Questions: 1 | Status: ✅ 1/1]`
+- ❌ **[[content/gate-cs/algorithms/notes/counting_msts_formulaic|Counting MSTs]]** *(1 Question)*
+- ✅ **[[content/gate-cs/algorithms/notes/mst_uniqueness_theorem|MST Uniqueness]]** *(1 Question)*
 
 #### Shortest Paths
-- **Dijkstra & Negative Weights**
-  - *No notes yet.*
+- *No notes yet.*
 
 ---
 
-## Master Chapter Variations (Multi-Topic Cross-Cutting)
-- [[content/gate-cs/algorithms/notes/chapter_variations|Multi-Topic Cross-Cutting Variations (MST + Shortest Paths + DSU)]]
+## Chapter Variations
+- 💡 **[[content/gate-cs/algorithms/notes/chapter_variations|Multi-Topic Variations]]** *(MST + Shortest Paths + DSU)*
 
 ---
 
-## Quick Navigation
-- [[content/gate-cs/algorithms/question_db|Central Question Database]]
+## Navigation
+- [[content/gate-cs/algorithms/question_db|Question Database]]
 - [[content/exams_config|All Exams & Subjects]]
