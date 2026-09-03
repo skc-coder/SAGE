@@ -51,9 +51,22 @@ $$\text{Percentage More} = \frac{\text{Absolute Gap }\Delta}{\text{New Base } A}
 
 ### 3. Proof & Intuition of Price-Consumption Expenditure Neutrality
 
+#### 🛑 Physical Dimension Check: Never Swap Units Again!
+If you ever get confused on whether Expenditure $= \text{Price} \times \text{Consumption}$ or something else, **just check the real-world units**:
+- **Price ($P$)**: $\frac{\text{₹}}{\text{kg}}$ (Rupees *per* kilogram)
+- **Consumption ($C$)**: $\text{kg}$ (Kilograms consumed)
+- **Expenditure ($E$)**: $\text{₹}$ (Total Rupees spent out of wallet)
+
+Multiply the units together:
+$$\text{Price} \times \text{Consumption} = \left(\frac{\text{₹}}{\text{kg}}\right) \times (\text{kg}) = \text{₹} = \text{Expenditure}$$
+
+> [!WARNING]
+> **Why your inverted memory fails physically**:
+> If you write $\text{Consumption} = \text{Price} \times \text{Expenditure}$:
+> $$\left(\frac{\text{₹}}{\text{kg}}\right) \times (\text{₹}) = \frac{\text{₹}^2}{\text{kg}} \neq \text{kg} \quad \text{(Rupees-squared per kg makes no sense!)}$$
+
 #### 🧠 The 5-Second Mental Model: "The See-Saw / Seesaw Scale"
-Expenditure is the area of a rectangle:
-$$\text{Expenditure } E = \text{Price } P \times \text{Consumption } C$$
+Since $\text{Expenditure } (E) = \text{Price } (P) \times \text{Consumption } (C)$:
 
 If **Price increases by factor $F$**, then to keep the area $E$ identical, **Consumption must be multiplied by $\frac{1}{F}$** (its reciprocal)!
 
