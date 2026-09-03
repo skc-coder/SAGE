@@ -29,6 +29,7 @@
 - [[content/cds/math/notes/variations/vars|Set Theory & General Variations]]
 - [[content/cds/math/notes/variations/var29|Ch 2 Sequence and Series Variations]]
 - [[content/cds/math/notes/variations/var24|Ch 7 Variations (Dynamic Fatigue, Staggered Wages, Torricelli Leak)]]
+- [[content/cds/math/notes/variations/var25|Ch 14 Variations (Symmetric Reciprocal High Power Sums)]]
 - [[content/cds/math/notes/variations/var19|Trigonometry Variations]]
 - [[content/cds/math/notes/variations/var20|Generalised Multi-Point Complementary Elevation]]
 - [[content/cds/math/notes/variations/var21|Elliptic Cloud Reflection in Spherical Lake]]
