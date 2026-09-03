@@ -23,11 +23,11 @@ pie title Mistake Categories
 ---
 
 ## Subjects
-- [[content/gate-cs/algorithms/index|Algorithms]]
-- [[content/gate-cs/theory-of-computation/index|Theory of Computation]]
-- [[content/gate-cs/computer-networks/index|Computer Networks]]
-- [[content/gate-cs/operating-systems/index|Operating Systems]]
-- [[content/gate-cs/dbms/index|DBMS]]
+- [[content/gate-cs/algorithms/algorithms_overview|Algorithms Overview]]
+- [[content/gate-cs/theory-of-computation/toc_overview|Theory of Computation]]
+- [[content/gate-cs/computer-networks/networks_overview|Computer Networks]]
+- [[content/gate-cs/operating-systems/os_overview|Operating Systems]]
+- [[content/gate-cs/dbms/dbms_overview|DBMS]]
 
 ---
 

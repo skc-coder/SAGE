@@ -13,18 +13,17 @@ This skill empowers the AI to act as an exam coach and knowledge curator for com
 
 ```text
 content/
-├── exams_config.md                 # Registry of target exams & active subjects
+├── exams_config.md                 # Master Exams Registry
 └── [exam]/                         # e.g., gate-cs/ or cds/
+    ├── gate_cs_overview.md         # Exam Overview Dashboard (Subject Bar Charts & Mistake Pie Charts)
     └── [subject]/                  # e.g., algorithms/
-        ├── index.md                # Subject master index (Topics -> Questions & Direct Variations)
-        ├── question_db.md          # Central Question & Taxonomy Database (Dataview compatible)
-        ├── test_sessions/          # Log & Scorecards of Full Test PDF Sessions (includes link to source test file)
-        ├── practice_sessions/      # Log of Haphazard Practice Sessions (screenshots, text, books, question numbers)
-        ├── notes/                  # Core Topic Notes (Theory + Links)
-        │   ├── questions/          # Modular Question Notes (Question + Derivation + Tier 1 Variations)
-        │   └── variations/         # Modular Variation Notes (Tier 2 Topic & Tier 3 Chapter Variations)
-        └── tmp/                    # Active session workspace
-            └── [session_id]/       # Temporary session files
+        ├── algorithms_overview.md  # Subject Overview Dashboard (Chapter & Topic Bar Charts)
+        ├── question_db.md          # Central Question Taxonomy Database
+        ├── test_sessions/          # Full Test PDF Scorecards & PDF Links
+        ├── practice_sessions/      # Book/Screenshot Practice Session Logs
+        └── notes/                  # Core Topic Notes (Theory + Links)
+            ├── questions/          # Modular Question Notes (Question + Derivation + Tier 1 Variations)
+            └── variations/         # Modular Variation Notes (Tier 2 Topic & Tier 3 Chapter Variations)
 ```
 
 ---

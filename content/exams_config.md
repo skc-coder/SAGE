@@ -3,9 +3,9 @@
 ## Active Exams
 
 ### GATE CS
-- [[content/gate-cs/index|GATE CS Dashboard]]
+- [[content/gate-cs/gate_cs_overview|GATE CS Overview]]
 - **Subjects**:
-  - `algorithms`: [[content/gate-cs/algorithms/index|Algorithms]]
+  - `algorithms`: [[content/gate-cs/algorithms/algorithms_overview|Algorithms Overview]]
   - `theory-of-computation`: Theory of Computation
   - `computer-networks`: Computer Networks
   - `operating-systems`: Operating Systems
