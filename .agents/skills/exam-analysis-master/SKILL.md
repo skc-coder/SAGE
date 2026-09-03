@@ -103,32 +103,32 @@ content/
 
 ---
 
-3. **Subject-Level Central Question Database (`[subject]/question_db.md`)**:
-   - Resides strictly at the subject root (`content/[exam]/[subject]/question_db.md`).
-   - Tracks **ALL questions across the entire subject** using dynamic Obsidian Dataview blocks.
-   - Embeds a **complete suite of visual analytics charts**:
-     1. **Test Series Marks Trendline**: Score & marks progression across sequential mock test attempts (`xychart-beta`).
-     2. **Chapter-Wise & Topic-Wise Accuracy Bar Charts**: Accuracy percentages across chapters and topics (`xychart-beta`).
-     3. **Subtopic & Question Type Frequency/Difficulty Pie Charts**: Color-shaded per-topic subtopic difficulty breakdown (`pie`).
-     4. **Mistake Category Breakdown Pie Chart**: Breakdown of lost marks by mistake category (`pie`).
+### Graph Placement Rules Across Files
+
+1. **Exam Overview (`[exam]_overview.md`)**:
+   - Subject-wise accuracy bar chart (`xychart-beta`)
+   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`)
+   - Exam-wide mistake category pie chart (`pie`)
+
+2. **Subject Overview (`[subject]_overview.md`)**:
+   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`)
+   - Per-topic Subtopic Question Frequency & Difficulty pie charts (`pie`)
+
+3. **Subject-Level Question Database (`[subject]/question_db.md`)**:
+   - Dynamic Question Log Dataview table
+   - Test Series Marks Trendline (`xychart-beta`)
+   - Subject Mistake Category Breakdown (`pie`)
 
 ---
 
-## 2. Visual Analytics Graphs Across All Levels (Placed BELOW Other Content)
+### Mermaid Title Length & Overflow Rules (STRICT MANDATE)
 
-Visual analytics graphs MUST be placed **at the bottom of overview, database, and topic files** under `## Performance Overview` (below table queries, theory, variation links, and topic links):
-
-1. **Subject-Level Question Database (`[subject]/question_db.md`)**:
-   - Comprehensive Analytics Suite: Test Series Marks Trendline + Chapter/Topic Bar Charts + Subtopic Difficulty Pie Charts + Mistake Pie Chart.
-
-2. **Tier 1: Exam Level (`[exam]_overview.md`)**:
-   - Subject-wise accuracy bar chart (`xychart-beta`) + Exam-wide mistake category pie chart (`pie`).
-
-3. **Tier 2: Subject & Chapter Level (`[subject]_overview.md`)**:
-   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`) + Subtopic difficulty pie charts with explicit `%%{init: {'themeVariables': ...}}%%` color shade palettes.
-
-4. **Tier 3: Topic Level Notes (`notes/[topic_slug].md`)**:
-   - Topic question accuracy bar chart & difficulty distribution pie chart.
+- **Concise Titles Only (Max 3-4 Words)**: NEVER write long pie chart titles like `pie title Triangles Subtopics Question Frequency & Difficulty` because Obsidian/Mermaid clips and overflows long SVG title text on the left margin!
+- **Allowed Concise Titles**:
+  - `pie title Triangles Difficulty`
+  - `pie title Circles Difficulty`
+  - `pie title Mistake Breakdown`
+  - `xychart-beta title "Topic Accuracy"`
 
 ---
 

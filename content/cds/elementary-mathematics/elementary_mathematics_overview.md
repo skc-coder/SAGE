@@ -10,52 +10,53 @@
 
 ## Performance Overview
 
+### 1. Accuracy Breakdown
 ```mermaid
 xychart-beta
-    title "Chapter-Wise Accuracy % (Elementary Mathematics)"
-    x-axis ["Trigonometry", "Geometry", "Circles & Polygons", "Algebra", "Mensuration"]
+    title "Chapter Accuracy"
+    x-axis ["Trigonometry", "Geometry", "Circles/Polygons", "Algebra", "Mensuration"]
     y-axis "Accuracy %" 0 --> 100
     bar [100, 50, 66, 50, 100]
 ```
 
 ```mermaid
 xychart-beta
-    title "Topic-Wise Accuracy %"
+    title "Topic Accuracy"
     x-axis ["Heights & Distances", "Triangles", "Circles", "Polygons", "Algebra"]
     y-axis "Accuracy %" 0 --> 100
     bar [100, 75, 75, 50, 50]
 ```
 
-### Subtopic Question Frequency & Difficulty Distribution
+### 2. Subtopic Difficulty Distribution
 
-#### Triangles Subtopics (Difficulty Breakdown)
+#### Triangles Subtopics
 ```mermaid
 %%{init: {'themeVariables': { 'pie1': '#1e3a8a', 'pie2': '#2563eb', 'pie3': '#3b82f6', 'pie4': '#60a5fa'}}}%%
-pie title Triangles Subtopics Question Frequency & Difficulty
+pie title Triangles Difficulty
     "Incenter (Easy)" : 1
     "Orthocenter (Hard)" : 1
     "Circumcenter (Medium)" : 1
     "Centroid (Easy)" : 1
 ```
 
-#### Circles Subtopics (Difficulty Breakdown)
+#### Circles Subtopics
 ```mermaid
 %%{init: {'themeVariables': { 'pie1': '#064e3b', 'pie2': '#047857', 'pie3': '#10b981', 'pie4': '#34d399'}}}%%
-pie title Circles Subtopics Question Frequency & Difficulty
+pie title Circles Difficulty
     "Tangents (Medium)" : 1
     "Secants (Easy)" : 1
     "Cyclic Quadrilaterals (Hard)" : 1
     "Chords (Medium)" : 1
 ```
 
-#### Trigonometry & Algebra Subtopics (Difficulty Breakdown)
+#### Trigonometry & Algebra Subtopics
 ```mermaid
 %%{init: {'themeVariables': { 'pie1': '#4c1d95', 'pie2': '#6d28d9', 'pie3': '#8b5cf6', 'pie4': '#a78bfa'}}}%%
-pie title Trigonometry & Algebra Subtopics Question Frequency & Difficulty
-    "Trigonometry: Heights & Distances (Medium)" : 2
-    "Trigonometry: Max & Min Values (Hard)" : 1
-    "Algebra: Discriminants (Hard)" : 1
-    "Algebra: Remainder Theorem (Easy)" : 1
+pie title Trig & Algebra Difficulty
+    "Heights & Distances (Medium)" : 2
+    "Max & Min Values (Hard)" : 1
+    "Discriminants (Hard)" : 1
+    "Remainder Theorem (Easy)" : 1
 ```
 
 ## Navigation
