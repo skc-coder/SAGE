@@ -49,8 +49,8 @@ $$\frac{la + mb + nc}{lx + my + nz} = \frac{a}{x} = \frac{b}{y} = \frac{c}{z}$$
 
 ## Linked Practice Questions
 
-- [[cds/elementary-mathematics/notes/questions/q12|Q12]]
+- [[cds/math/notes/questions/q12|Q12]]
 
 ## Navigation
 
-- [[cds/elementary-mathematics/notes/numbers|Number System Topic]]
+- [[cds/math/notes/numbers|Number System Topic]]

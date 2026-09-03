@@ -14,6 +14,6 @@
 ### CDS
 - [[cds/cds_overview|CDS Overview]]
 - **Subjects**:
-  - `elementary-mathematics`: [[cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics Overview]]
+  - `math`: [[cds/math/math_overview|Elementary Mathematics Overview]]
   - `general-knowledge`: General Knowledge
   - `english`: English
