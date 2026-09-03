@@ -32,7 +32,8 @@ To factorize higher-degree polynomials quickly in exam conditions, memorize thes
 - $a^3 + b^3 = (a+b)(a^2 - ab + b^2)$
 - $a^4 - b^4 = (a^2 - b^2)(a^2 + b^2) = (a-b)(a+b)(a^2 + b^2)$
 - $a^6 - b^6 = (a^3 - b^3)(a^3 + b^3) = (a-b)(a+b)(a^2 + ab + b^2)(a^2 - ab + b^2)$
-- $a^4 + a^2 b^2 + b^4 = (a^2 + ab + b^2)(a^2 - ab + b^2)$ *(Sophie Germain / Quartic Identity)*
+- $a^4 + a^2 b^2 + b^4 = (a^2 + ab + b^2)(a^2 - ab + b^2)$ *(Quartic Trinomial Identity / Symmetrical Biquadratic)*
+- $a^4 + 4b^4 = (a^2 - 2ab + 2b^2)(a^2 + 2ab + 2b^2)$ *(Sophie Germain Identity)*
 
 ---
 
