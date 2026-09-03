@@ -24,8 +24,20 @@ Given two polynomials $P(x)$ and $Q(x)$ with $\operatorname{deg}(P) \ge \operato
 ---
 
 ## Critical Rules for Polynomial Division:
-- **Numerical Scalar Extraction**: If a scalar common factor exists in all terms of a polynomial or remainder (e.g. factor of 3 or $-39$), **extract it out**! Scalars do not affect the degree or root structure of polynomial HCF.
-- **Negative Leading Coefficient**: If the leading term of a remainder becomes negative, multiply the remainder by $-1$ before making it the next divisor to simplify division.
+
+1. **Stage 1 Pre-Extraction Rule (Mandatory)**:
+   Before starting long division, **always factor out all shared monomial terms ($x^k$) and scalar constants** common to BOTH original polynomials $P(x)$ and $Q(x)$. Save this outer HCF to multiply back at the very end.
+
+2. **Intermediate Variable Factor Rule**:
+   If a variable factor $x^k$ appears inside a remainder at an intermediate division step:
+   - **THROW IT AWAY (DISCARD IT)**!
+   - **Why?** Since you already extracted all common $x^k$ factors in Stage 1, the inner polynomials have no common $x$ factor. Any $x^k$ appearing in an intermediate remainder is an unshared artifact of polynomial division (i.e. $x=0$ is NOT a root of both polynomials). Discard $x^k$ to keep the degree minimal!
+
+3. **Numerical Scalar Extraction**:
+   If a constant scalar factor exists in an intermediate remainder (e.g. $-39$ or $11$), **discard it** to prevent fractional algebra.
+
+4. **Negative Leading Coefficient**:
+   If the leading term of a remainder is negative, multiply by $-1$ before making it the next divisor.
 
 ---
 
