@@ -1,0 +1,58 @@
+---
+exam: "CDS"
+subject: "Elementary Mathematics"
+topic: "Number System"
+subtopic: "Ratios and Proportions"
+difficulty: "Easy"
+date: 2026-09-03
+source_file: "pathfinder_chapter1_number_system.pdf"
+question_number: "Q12"
+status: "Correct"
+mistake_category: "None"
+tags: [cds, elementary-mathematics, number-system, question]
+---
+
+# Pathfinder Number System Q12
+
+## Question Statement
+
+If $\frac{a}{4} = \frac{b}{5} = \frac{c}{6}$, then the value of $\frac{a + b + c}{b}$ is:
+
+(a) 3  
+(b) 2  
+(c) 6  
+(d) 4  
+
+## Mathematical Derivation & Solution
+
+### Method 1: K-Method (Algebraic)
+Let $\frac{a}{4} = \frac{b}{5} = \frac{c}{6} = k$.
+- $a = 4k$
+- $b = 5k$
+- $c = 6k$
+
+Substitute into the required expression:
+$$\frac{a + b + c}{b} = \frac{4k + 5k + 6k}{5k} = \frac{15k}{5k} = 3$$
+
+### Method 2: Direct Value Substitution (Exam Shortcut ⚡)
+Since the expression $\frac{a + b + c}{b}$ is homogeneous of degree 1, substitute $a=4, b=5, c=6$ directly:
+$$\frac{4 + 5 + 6}{5} = \frac{15}{5} = 3$$
+
+### Method 3: Theorem of Equal Ratios (Addendo Property)
+By Addendo:
+$$\frac{a+b+c}{4+5+6} = \frac{b}{5} \implies \frac{a+b+c}{15} = \frac{b}{5} \implies \frac{a+b+c}{b} = \frac{15}{5} = 3$$
+
+**Correct Answer:** **(a) 3**
+
+## Root Cause & Concept Note
+
+- **Core Concept**: Continuous Equal Ratios & Homogeneous Expressions.
+- **Key Takeaway**: When degree of numerator equals degree of denominator in equal ratio equations, plug values of denominators directly into the variables.
+
+## Tier 1 Variations
+
+- [[content/cds/elementary-mathematics/notes/variations/number_system_variations#variation-1|Variation 1: 4-Variable Continuous Ratio]]
+
+## Navigation
+
+- [[content/cds/elementary-mathematics/notes/subtopics/ratios_and_proportions|Ratios and Proportions]]

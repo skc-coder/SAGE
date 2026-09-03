@@ -1,26 +1,34 @@
+---
+exam: "CDS"
+difficulty: "Medium"
+tags: [cds, overview]
+---
+
 # CDS
 
 ## Subjects
+
 - [[content/cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics]]
+- [[content/cds/general-knowledge/general_knowledge_overview|General Knowledge]]
+- [[content/cds/english/english_overview|English]]
 
 ## Performance Overview
 
-### 1. Subject-Wise Accuracy
 ```mermaid
 xychart-beta
     title "Subject Accuracy"
-    x-axis ["Maths", "GK", "English"]
+    x-axis ["Elem Math", "GK", "English"]
     y-axis "Accuracy %" 0 --> 100
-    bar [66, 0, 0]
+    bar [100, 0, 0]
 ```
 
-### 2. Exam Mistake Breakdown
 ```mermaid
 pie title Exam Mistakes
-    "Conceptual Gap" : 3
-    "Calculation Error" : 2
-    "Formula Misapplication" : 1
+    "Conceptual" : 0
+    "Calculation" : 0
+    "Formula Misapplication" : 0
 ```
 
 ## Navigation
-- [[content/exams_config|Master Exams Registry]]
+
+- [[content/exams_config|Exams Config]]
