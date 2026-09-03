@@ -9,8 +9,12 @@ pie title Mistake Breakdown by Category
 
 ## Question Log
 
-| Date       | Source     | Question ID | Topic               | Status  | Mistake Category       | Link                                                                   |                |
-| ---------- | ---------- | ----------- | ------------------- | ------- | ---------------------- | ---------------------------------------------------------------------- | -------------- |
-| 2026-09-03 | CDS 2024 I | Q12         | Heights & Distances | Correct | None                   | [[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q12 | CDS 2024 Q12]] |
-| 2026-09-03 | CDS 2024 I | Q13         | Heights & Distances | Wrong   | Formula Misapplication | [[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q13 | CDS 2024 Q13]] |
-| 2026-09-03 | CDS 2024 I | Q14         | Heights & Distances | Correct | None                   | [[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q14 | CDS 2024 Q14]] |
+```dataview
+TABLE 
+    rows.question_type AS "Question Types / Specializations",
+    rows.file.link AS "Logged Question Notes",
+    rows.status AS "Status",
+    rows.mistake_category AS "Mistake Category"
+FROM "content/cds/elementary-mathematics/notes/questions"
+GROUP BY topic + " > " + subtopic AS "Topic & Subtopic"
+```

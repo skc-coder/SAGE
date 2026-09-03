@@ -1,4 +1,4 @@
-# Heights and Distances - Theory & Concept Notes
+# Heights and Distances
 
 ## Core Formulas & Identities
 

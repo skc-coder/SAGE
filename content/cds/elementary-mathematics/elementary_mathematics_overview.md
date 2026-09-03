@@ -1,7 +1,7 @@
 # Elementary Mathematics
 
 ## Topics & Notes
-- [[content/cds/elementary-mathematics/notes/trigonometry_identities|Trigonometry - Heights and Distances]]
+- [[content/cds/elementary-mathematics/notes/trigonometry_identities|Heights and Distances]]
 
 ## Chapter Variations
 - [[content/cds/elementary-mathematics/notes/variations/trigonometry_chapter_variations|Trigonometry Chapter Variations]]
@@ -25,6 +25,6 @@ xychart-beta
 ```
 
 ## Navigation
-- [[content/cds/cds_overview|CDS Overview]]
+- [[content/cds/cds_overview|CDS]]
 - [[content/cds/elementary-mathematics/question_db|Question Database]]
 - [[content/exams_config|Master Exams Registry]]
