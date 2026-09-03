@@ -1,0 +1,5822 @@
+
+--- PDF PAGE 430 ---
+It is an important application of trigonometry which helps
+us to find the height of any object and distance of that
+object from any point which are not directly measurable. If
+the angle of elevation/depression from a point is known.
+Line of sight
+A line of sight is the line drawn from the eye of an observer
+to the point, where the object is viewed by the observer.
+Horizontal Line
+The line of sight which is parallel to ground level is
+known as horizontal line.
+ANGLE OF ELEVATION
+Angle of elevation is defined as an angle formed by the
+line of sight with the horizontal
+line when an object is viewed in
+the upward direction.
+Let P be the position of the object
+above the horizontal line OA and
+O be the eye of the observer, then
+∠ AOP is called angle of elevation.
+IMPORTANT POINTS
+G If the observer moves towards the perpendicular line
+(tower/building), then angle of elevation increases
+and if the observer moves away from the perpendicular
+line (tower/building), then the angle of elevation
+decreases.
+G If the angle of elevation of Sun above a tower decreases,
+then the length of shadow of a tower increases.
+G If height of tower is doubled and the distance between
+the observer and foot of the tower is also doubled, then
+the angle of elevation remains same.
+EXAMPLE 1. The angle of elevation of the top of a
+tower of height 100 3 m from a point at a distance
+of 100 m from the foot of the tower on a horizontal
+plane is
+a. 30° b. 60° c. 75° d. 105°
+Sol. b. Let φ be the angle of elevation.
+Given, AC = Height of tower
+= 100 3 m
+and AB = 100 m
+In right angled ∆ ABC,
+tan φ = AC
+AB = =100 3
+100 3
+⇒ tan tanφ = ° 60
+⇒ φ = ° 60
+Hence, angle of elevation is 60°.
+MATHEMATICS >□Height□and□Distance 225
+21
+HEIGHT AND□DISTANCE
+Regularly (1-2) questions have been asked from this chapter . Generally this is the simplest application
+of trigonometry related to our real world and a little practice can get you command over this section.
+Line of sight
+C
+D
+B
+T ower
+Person
+A E
+Horizontal line
+Line of sigh
+t
+A
+P
+O Horizontal lineEye
+Angle of
+elevation
+(Object)
+θ
+A
+C
+B
+φ
+100 m
+100 3 m√
+--- PDF PAGE 431 ---
+EXAMPLE 2. The angle of elevation of a tower at a
+point is 45°. After going 40 m towards the foot of the
+tower, the angle of elevation of the tower becomes
+60°. Then, the height of the tower is
+a. 20 3 1( ) + m b. 20 3
+3 1+
+m
+c. 40 3
+3 1+
+m d. 40 3
+3 1−
+m
+Sol. d. Let PQ h( )= be the height of the
+tower. Let S and R be the points
+where the angles subtended are
+45° and 60°, respectively.
+In right angled ∆ PQR ,
+tan 60° = PQ
+RQ
+⇒ 3 = h
+x ⇒ x = h
+3 …(i)
+In right angled ∆ PQS, tan 45 40° = = + = +
+PQ
+SQ
+PQ
+SR RQ
+h
+x
+⇒ h = +40 x ⇒ h h= +40 3 [from Eq. (i)]
+⇒ h 1 1
+3 40−
+ 
+ = ⇒
+h 3 1
+3 40−
+
+
+ =
+∴
+h = −
+40 3
+3 1 m
+EXAMPLE 3. The angles of elevation of the top of a
+tower from two points at distances ‘ a’ and ‘ b’ ( )a b>
+from the base and in the same straight line with it are
+complementary. Then, the height of the tower is
+a. 1
+ab
+b. ab c. a
+b d. ab
+Sol. b. Let AD h= be the height of the
+tower and the angle of elevation
+of the top of tower at B and C be
+(90° − θ) and θ, respectively.
+In right angled ∆ ADC,
+tanθ = =AD
+CD
+h
+b /c81tanθ =
+
+
+
+P
+B
+h b= tan θ …(i)
+In right angled ∆ ADB,
+tan ( )90° − = θ AD
+BD ⇒ cot θ = h
+a
+[/c81tan ( ) cot90° − = θ θ ]
+⇒ h
+a = cot θ ⇒ a
+h = tan θ …(ii)
+From Eqs. (i) and (ii), we get
+h b a
+h= 
+ 
+ ⇒ h ab2 =
+∴
+h ab=
+ANGLE OF DEPRESSION
+Angle of depression is defined as an angle formed by
+the line of sight with the horizontal line when an object
+is viewed in the downward direction.
+Let P be the position of the object below the horizontal
+line OA and O be the eye of the observer, then ∠ AOP
+is called angle of depression.
+IMPORTANT POINTS
+G The angle of depression of a point P as seen from a
+point O is numerically equal to the angle of elevation of O
+as seen from P .
+G Angle of elevation and angle of depression are always
+acute angle.
+G Unless mentioned, the height of the observer is not
+considered.
+EXAMPLE 4. The angle of depression of two ships
+from the top of a light house are 45° and 30° towards
+East. If the ships are 200 m apart, the height of the
+light house is
+a. 200
+3 1−
+m b. 200
+3 1+
+m c. 100
+3 1−
+m d. 100
+3 1+
+m
+Sol. a. Let AB h( )= be the
+height of the light house
+and D, C be the ships.
+Given, DC = 200 m
+∠ = ∠ = °ADC XAD 30
+and ∠ = ∠ = °ACB XAC 45
+Now, in ∆ ACB,
+tan 45° = AB
+CB ⇒ 1= h
+y ⇒ h y= …(i)
+and in ∆ ADB, tan º 30= AB
+BD ⇒ 1
+3 200= +
+h
+y
+⇒ 200 3+ =y h ⇒ 200 3+ =h h [from Eq. (i)]
+⇒ 200 3= − h h ⇒ 200 3 1= −h ( )
+∴ h = −
+
+ 
+200
+3 1 m
+EXAMPLE 5. From the top of a building 60 m high
+the angles of depression of the top and bottom of a
+tower are observed to be 30° and 60°. Then, the
+height of the tower is
+a. 10 m b. 20 m c. 30 m d. 40 m
+226 CDS Pathfinder
+O
+P
+Angle of
+depression
+Horizontal line
+θ
+A
+Line of s
+ight
+θ
+b DC
+90°–
+θ
+a
+B
+A
+h
+60°
+x QR
+45°
+40 mS
+P
+h
+30°
+BC
+45°
+D
+A
+h
+30°45°
+200 m y
+X
+--- PDF PAGE 432 ---
+Sol. d. Let x be the height of the tower.
+Here, AB = 60 m and BD y= m
+In right angled ∆ ABD,
+AB
+BD = °tan 60 ⇒ 60 3y =
+⇒ y = 60
+3 …(i)
+In right angled ∆ AEC,
+AE
+EC = °tan 30 ⇒ AE
+BD = 1
+3 [/c81CE DB= ]
+⇒ AE
+y = 1
+3 ⇒ AE
+60
+3
+1
+3= [from Eq. (i)]
+⇒ AE = × =1
+3
+60
+3 20 m [ /c81 3 3 3× = ]
+∴ x = −AB AE = − =60 20 40 m
+Hence, the height of tower is 40 m
+1. The length of shadow of a tree is 16 m when the
+angle of elevation of the Sun is 60°. What is the
+height of the tree?
+(a) 8 m (b) 16 m (c)
+16 3 m (d) 3 m
+2. From a light house the angles of depression of
+two ships on opposite sides of the light house are
+observed to 30° and 45°. If the height of light
+house is h, then what is the distance between
+the ships?
+(a)
+( ) 3 1+ h (b) ( ) 3 1− h (c) 3 h (d) 1 1
+3
++
+ 
+ h
+3. The angle of elevation of the top of a tower from
+the bottom of a building is twice that from its
+top. What is the height of the building, if the
+height of the tower is 75 m and the angle of
+elevation of the top of the tower from the bottom
+of the building is 60°?
+(a) 25 m (b) 37.5 m (c) 50 m (d) 60 m
+4. A radio transmitter antenna of height 100 m
+stands at the top of a tall building. At a point on
+the ground, the angle of elevation of bottom of
+the antenna is 45° and that of top of antenna is
+60°. What is the height of the building?
+(a) 100 m (b) 50 m (c)
+50 3 1( ) + m (d) 25 3 m
+5. The shadow of a tower is 15 m when the Sun’s
+altitude is 30°. What is the length of the shadow
+when the Sun’s altitude is 60°?
+(a) 3 m (b) 4 m (c) 5 m (d) 6 m
+6. The angle of elevation of a moon when the length
+of the shadow of a pole is equal to its height is
+(a) 60° (b) 45° (c) 90° (d) 30°
+7. An aeroplane flying horizontally 1 km above the
+ground is observed at an elevation of 60°. After
+10 s, its elevation is observed to be 30°, the
+uniform speed of the aeroplane in km/h is
+(a)
+240
+2
+(b) 240 3
+(c) 240 (d) 260 3
+8. A person of height 2m wants to get a fruit which
+is on a pole of height ( / )10 3 m . If he stands at a
+distance of
+( / )4 3 m from the foot of the pole,
+then the angle at which he should throw the
+stone, so that it hits the fruit is
+(a) 60° (b) 45° (c) 90° (d) 30°
+9. A vertical tower stands on a horizontal plane
+and is surmounted by a vertical flagstaff of
+height h. At a point on the plane, the angle of
+elevation of the bottom of the flagstaff is α and
+that of the top of the flagstaff is β. Then, the
+height of the tower is
+(a)
+h tan
+tan tan
+β
+α β−
+(b) h tan
+tan tan
+α
+α β+
+(c) h tan
+tan tan
+β
+α β+
+(d) h tan
+tan tan
+α
+β α−
+10. From a window ( h m high above the ground) of a
+house in a street, the angle of elevation and
+depression of the top and the foot of another
+house on the opposite side of the street are θ and
+φ, respectively. Then, the height of the opposite
+house is
+(a) h tan cotθ φ (b) h [tan cotθ φ + ] 1
+(c) h [cot tan ]θ φ + 1 (d) h cot tanθ φ
+MATHEMATICS >□Height□and□Distance 227
+60°
+BD
+A
+60 m
+30°C
+x
+30°60°
+y
+y
+E
+PRACTICE EXERCISE
+--- PDF PAGE 433 ---
+11. The length of the shadow of a person s cm tall
+when the angle of elevation of the Sun is α is
+p cm. It is q cm when the angle of elevation of the
+Sun is β. Which one of the following is correct
+when β α= 3 ?
+(a) p q s− = −
+
+ 
+
+tan tan
+tan tan
+α α
+α α
+3
+3
+(b)
+p q s− = −
+
+ 
+
+tan tan
+tan tan
+3
+3 3
+α α
+α α
+(c)
+p q s− = −
+
+ 
+
+tan tan
+tan tan
+3
+3
+α α
+α α
+(d)
+p q s− = 
+
+ 
+
+tan
+tan tan
+2
+3
+α
+α α
+12. Two posts are ‘ K ’ m apart and the height of one
+is double that of the other. If from the middle
+point of the line joining their feet, an observer
+finds the angular elevations of their tops to be
+complementary, then the height (in metre) of the
+shorter post is
+(a)
+3 K (b) K
+2 2
+(c) 2 K (d) K
+2
+13. A flagstaff 5 m high stands on a building of 25 m
+height. At an observer at a height of 30 m, the
+flagstaff and the building subtend equal angles.
+The distance of the observer from the top of the
+flagstaff is
+(a)
+3
+2
+m (b) 3 5
+2
+m (c) 5 3
+2
+m (d) 5 3
+2
+m
+14. A man is watching from the top of a tower a boat
+speeding away from the tower. The boat makes
+an angle of depression of 45° with the man’s eye
+when at a distance of 60 m from the bottom of
+tower. After 5 s, the angle of depression becomes
+30°. What is the approximate speed of the boat
+assuming that it is running in still water?
+(a) 31.5 km/h (b) 36.5 km/h (c) 38.5 km/h (d) 40.5 km/h
+15. Suppose the angle of elevation of the top of a tree
+at a point E due East of the tree is 60° and that
+at a point F due West of the tree is 30°. If the
+distance between the points E and F is 160 ft,
+then what is the height of the tree?
+(a)
+40 3 ft (b) 60 ft (c) 40
+3
+ft (d) 23 ft
+16. A telegraph post gets broken at a point against a
+storm and its top touches the ground at a
+distance 20 m from the base of the post making
+an angle 30° with the ground. What is the height
+of the post?
+(a)
+40
+3
+m (b) 20 3 m (c) 40 3 m (d) 30 m
+17. If the angle of elevation of a cloud from a point
+h m above a lake is β and the angle of depression
+of its reflection in the lake is α , then the height of
+the cloud is
+(a)
+h cosec
+cosec
+( )
+( )
+α β
+α β
+−
+−
+(b) h cosec ( ) sin ( )α β α β− −
+(c) h sin ( ) ( )α β α β+ − cosec (d) h cosec ( )
+sin ( )
+α β
+α β
++
+−
+18. The angle of elevation of the top of an
+incomplete vertical pillar at a horizontal
+distance of 100 m from its base is 45°. If the
+angle of elevation of the top of complete pillar at
+the same point is to be 60°, then the height of
+the incomplete pillar is to be increased by
+(a)
+50 2 m (b) 100 m
+(c) 100 3 1( ) − m (d) 100 3 1( ) + m
+19. A man on the top of a vertical observation tower
+observes a car moving at a uniform speed
+coming directly towards it. If it takes 12 min for
+the angle of depression to change from 30° to 45°,
+how soon after this will the car reach the
+observation tower?
+(a) 14 min 35 s (b) 15 min 49 s
+(c) 16 min 23 s (d) 18 min 5 s
+20. You are stationed at a radar base and you
+observe an unidentified plane at an altitude
+h = 1000 m flying towards your radar base at an
+angle of elevation = °30 . After exactly one
+minute, your radar sweep reveals that the plane
+is now at an angle of elevation = °60 maintaining
+the same altitude. What is the speed (in m/s) of
+the plane?
+(a) 15.58 m/s (b) 19.25 m/s
+(c) 18 m/s (d) 11.25 m/s
+21. The angle of elevation of the top of the tower
+from a point on the ground is sin
+−1 (3/5). If the
+point of observation is 20 m away from the foot
+of the tower, what is the height of the tower?
+(a) 9 m (b) 18 m (c) 15 m (d) 12 m
+22. A balloon of radius r makes an angle α at the
+eye of an observer and the angle of elevation of
+its centre is β. The height of its centre from the
+ground level is given by
+(a) r sin /β αcosec 2 (b) r cosec α α/ sin2
+(c) r cosecα βsin (d) None of these
+Directions (Q. Nos. 23-25) The height of a tower is h
+and the angle of elevation of the top of the tower is
+α . When observer on moving a distance h / 2
+towards the tower, the angle of elevation becomes β.
+23. What is the value of cot α − βcot ?
+(a) 1 2 / (b) 2 3 / (c) 1 (d) 2
+24. If α = 30° , then find the value of cot β.
+(a) 3 1 2− / (b) 2
+2 3 2−
+(c) 1
+1 3+
+(d) 1
+1 3−
+25. If tan β = 4, then distance between observer and
+tower when angle of elevation is β
+(a) h (b) h / 4 (c) 3
+4
+h (d) h
+3
+228 CDS Pathfinder
+--- PDF PAGE 434 ---
+PREVIOUS YEARS’ QUESTIONS
+26. What is the angle of elevation of the Sun when the
+shadow of a pole is
+3 times the length of the
+pole? e 2012 I
+(a) 30° (b) 45°
+(c) 60° (d) None of these
+27. From the top of a cliff 200 m high, the angles of
+depression of the top and bottom of a tower are
+observed to be 30° and 45°, respectively. What is
+the height of the tower? e 2012 I
+(a) 400 m (b)
+400 3 m
+(c) 400 3 / m (d) None of these
+28. The angles of elevation of the top of a tower from
+two points which are at distances of 10 m and
+5 m from the base of the tower and in the same
+straight line with it are complementary. The
+height of the tower is e 2012 II
+(a) 5 m (b) 15 m (c)
+50 m (d) 75 m
+29. A ladder 20 m long is placed against a wall, so
+that the foot of the ladder is 10 m from the wall.
+The angle of inclination of the ladder to the
+horizontal will be e 2012 II
+(a) 30° (b) 45°
+(c) 60° (d) 75°
+Directions (Q. Nos. 30-33) Read the following
+information carefully to answer the questions that
+follow.
+As seen from the top and bottom of a building of height
+h m, the angles of elevation of the top of a tower of
+height
+( )3 3
+2
++ h m□are α and β,□respectively.
+e 2013 I
+30. If β = °30 , then what is the value of tan α ?
+(a) 1/2 (b) 1/3
+(c) 1/4 (d) None of these
+31. If α = °30 , then what is the value of tan β?
+(a) 1 (b) 1/2
+(c) 1/3 (d) None of these
+32. If α = °30 and h = 30 m, then what is the
+distance between the base of the building and
+the base of the tower?
+(a)
+( )15 15 3+ m (b) ( )30 15 3+ m
+(c) ( )45 15 3+ m (d) None of these
+33. If β = °30 and if θ is the angle of depression of the
+foot of the tower as seen from the top of the
+building, then what is the value of tan θ?
+(a)
+( )3 3
+3 3
+− (b) ( )3 3
+3 3
++
+(c) ( )2 3
+3 3
+− (d) None of these
+34. What is the angle of elevation of the Sun, when
+the shadow of a pole of height x m is
+x
+3
+m?
+e 2013 II
+(a) 30° (b) 45° (c) 60° (d) 75°
+35. A spherical balloon of radius r subtends angle
+60° at the eye of an observer. If the angle of
+elevation of its centre is 60° and h is the height
+of the centre of the balloon, then which one of
+the following is correct? e 2013 II
+(a) h r= (b)
+h r= 2
+(c) h r= 3 (d) h r= 2
+36. The angle of elevation of the top of a tower 30 m
+high from the foot of another tower in the
+same plane is 60° and the angle of elevation
+of the top of the second tower from the foot of
+the first tower is 30°. The distance between
+the two towers is m times the height of the
+shorter tower. What is m equal to? e 2014 I
+(a)
+2 (b) 3 (c) 1
+2
+(d) 1
+3
+37. The shadow of a tower standing on a level
+plane is found to be 50 m longer when the
+Sun’s elevation is 30°, then when it is 60°.
+What is the height of the tower? e 2014 I
+(a) 25 m (b)
+25 3 m (c) 25
+3
+m (d) 30 m
+38. From a certain point on a straight road, a person
+observe a tower in the West direction at a
+distance of 200 m. He walks some distance along
+the road and finds that the same tower is 300 m
+South of him. What is the shortest distance of
+the tower from the road? e 2014 II
+(a)
+300
+13
+m (b) 500
+13
+m (c) 600
+13
+m (d) 900
+13
+m
+39. If from the top of a post a string twice the length
+of the post is stretched tight to a point on the
+ground, then what angle will the string make
+with the post? e 2014 II
+(a)
+π
+6
+(b)
+π
+4
+(c)
+5
+12
+π (d) π
+3
+40. The angle of elevation of a cloud from a point
+200 m above a lake is 30° and the angle of
+depression of its reflection in the lake is 60°. The
+height of the cloud is e 2015 I
+(a) 200 m (b) 300 m (c) 400 m (d) 600 m
+41. From the top of a tower, the angles of depression
+of two objects P and Q (situated on the ground
+on the same side of the tower) separated at a
+distance of
+100 3 3( ) − m are 45° and 60°,
+respectively. The height of the tower is e 2015 I
+(a) 200 m (b) 250 m
+(c) 300 m (d) None of these
+MATHEMATICS >□Height□and□Distance 229
+--- PDF PAGE 435 ---
+42. The angles of elevation of the top of a tower from
+two points P and Q at distance m
+2 and n 2
+respectively, from the base and in the same
+straight line with it are complementary. The
+height of the tower is e 2015 I
+(a) ( ) /mn 1 2 (b) mn1 2 /
+(c) m n1 2 / (d) mn
+43. A pole is standing erect on the ground which is
+horizontal, The tip of the pole is tied tight with a
+rope of length
+12 m to a point on the ground. If
+the rope is making 30° with the horizontal, then
+the height of the pole is e 2015 II
+(a)
+2 3 m (b) 3 2 m
+(c) 3 m (d) 3 m
+44. An aeroplane flying at a height of 3000 m passes
+vertically above another aeroplane at an instant,
+when the angles of elevation of the two planes
+from some point on the ground are 60° and 45°,
+respectively. Then, the vertical distance between
+the two planes is e 2015 II
+(a) 1000
+( ) 3 1− m (b) 1000 3 m
+(c) 1000 3 3( ) − m (d) 3000 3 m
+45. Two observers are stationed due North of a
+tower (of height x m) at a distance y m from each
+other. The angles of elevation of the tower
+observed by them are 30° and 45°, respectively.
+Then, x y/ is equal to e 2016 I
+(a)
+2 1
+2
+− (b) 3 1
+2
+− (c) 3 1
+2
++ (d) 1
+230 CDS Pathfinder
+ANSWERS
+1 c 2 a 3 c 4 c 5 c 6 b 7 b 8 d 9 d 10 b
+11 c 12 b 13 d 14 a 15 a 16 b 17 c 18 c 19 c 20 b
+21 c 22 a 23 a 24 a 25 b 26 a 27 d 28 c 29 c 30 b
+31 a 32 c 33 a 34 c 35 c 36 b 37 b 38 c 39 d 40 c
+41 c 42 d 43 d 44 c 45 c
+HINTS AND SOLUTIONS/CharA0 
+1. (c) Let the height of the tree be h m.
+∴ BC h= m and AB = 16 m
+In right angled ∆ ABC ,
+tan 60
+16
+° = =BC
+AB
+h ⇒ 3
+16
+= h
+⇒ h = 16 3 m
+Hence, the height of the tree is 16 3 m.
+2. (a) In right angled
+∆ PBT, tan 45 ° = h
+y
+⇒ 1 = h
+y
+∴ y h= …(i)
+and in right angled ∆ PTA ,
+tan30° = h
+x
+⇒
+x = 3h …(ii)
+∴ Required distance, AB x y= +
+x + = +y h h 3 = +h ( ) 3 1 m
+3. (c) Let height of the building be h m
+and distance between building and
+tower be x m.
+∴ AB h= m and BC = x m
+In right angled ∆ ADE,
+tan 30° = ED
+AD
+⇒ 1
+3
+75= − h
+x
+⇒ x = −75 3 3 h …(i)
+and in right angled ∆ BCE ,
+tan 60 ° = CE
+BC
+⇒ 3 75=
+x
+⇒ x 3 75=
+⇒ ( )75 3 3 3 75− =h [from Eq. (i)]
+⇒ 75 3 3 75× − = h
+⇒ 3 75 3 75h = × − ⇒ h = ×75 2
+3
+∴ h = 50 m
+Hence, the height of the building is
+50 m.
+4. (c) Let BC be a building of height h m
+and CD be a height of antenna. and let
+distance between A Band = x m
+C
+A B
+60°
+h
+16 m
+m
+30° 45°
+A B T yx
+h
+30° 45°
+P
+D
+E
+C
+30°
+B
+A
+h
+75 m
+60°
+x
+x
+(75 – ) m
+h
+100 m
+x BA
+D
+C
+h m
+45°
+60°
+m
+--- PDF PAGE 436 ---
+In right angled ∆ ABC ,
+tan 45 ° = =BC
+AB
+h
+x
+⇒ x = h ...(i)
+and in right angled ∆ ABD,
+tan 60 ° = = +DB
+BA
+DC CB
+AB
+= +100 h
+x
+⇒ 3 100= + h
+h
+[from Eq. (i)]
+⇒ 3 100h h= +
+⇒ ( ) 3 1 100− = h ⇒ h =
+−
+100
+3 1
+⇒ h =
+−
+×
++
++
+100
+3 1
+3 1
+3 1( )
+( )
+( )
+= +50 3 1( ) m
+Hence, the height of the building is
+50 3 1( ) + m.
+5. (c) Let the height of the tower be h m
+and length of the shadow ( )BC be x m.
+In right angled ∆ ACD,
+tan 30° = CD
+AC
+⇒ 1
+3 15
+= h ⇒ h = 15
+3
+m …(i)
+and in right angled ∆ BCD,
+tan 60 ° = CD
+BC
+⇒ 3 = h
+x
+⇒
+h
+3
+= x
+∴ x = =15
+3
+5 m
+[from Eq. (i)]
+Hence, the length of shadow is 5 m.
+When sun’s altitude is 60°.
+6. (b) Let the height of pole be h m, then
+PQ RQ h= =
+In right angled ∆ PRQ ,
+tan θ = = =RQ
+PQ
+h
+h
+1
+⇒ tan tanθ = = °1 45 ∴ θ = ° 45
+Hence, the angle of elevation of moon
+is 45°.
+7. (b) Let A be the observer. When the
+aeroplane was at point B the angle of
+elevation was 60° and after 10 s when
+it was at point C the angle of elevation
+was 30°.
+Here, in the figure,
+BE CD= = = 1 1000km m
+In right angled ∆ BAE,
+tan 60 1000° = =BE
+AE AE
+⇒ AE = °1000 60cot
+= 1000
+3
+m …(i)
+In right angled ∆ ACD,
+tan 30 1000° = =DC
+AD AD
+⇒ AD = ° =1000 30 1000 3cot
+∴ ED AD AE= −
+= −1000 3 1000
+3
+= 2000
+3
+m
+So, distance travelled by plane in 10 s,
+then
+BC DE= = 2000
+3
+m
+∴ Speed of aeroplane = Distance
+Time
+=
+2000
+3
+10
+m s /= × ×
+×
+2000 60 60
+10 3 1000
+km/h
+= 240 3 km/h
+Hence, the uniform speed of the
+aeroplane is
+240 3 km/h.
+8. (d) Let TP be the man and SQ be the
+pole.
+Let ∠ =STR θ
+Now, SR SQ RQ= −
+= − =10
+3
+2 4
+3
+m [/c81RQ TP= ]
+In right angled ∆ STR ,
+tan θ = =SR
+TR
+SR
+PQ
+[/c81TR PQ= ]
+= ×4
+3
+3
+4
+= = °1
+3
+30tan
+∴ θ = ° 30
+9. (d) Let BC be the tower and CD be the
+flagstaff.
+∴ ∠ = BAC α and ∠ =BAD β
+In right angled ∆ ABC ,
+tan α = BC
+AB
+…(i)
+and in right angled ∆ ABD,
+BD
+AB
+BC h
+AB
+= + = tan β …(ii)
+On dividing Eq. (ii) by Eq. (i), we get
+BC h
+BC
++ = tan
+tan
+β
+α
+⇒ ( ) tan tanBC h BC+ = α β
+⇒ BC h(tan tan ) tanβ α α− =
+∴ BC
+h
+=
+−
+tan
+tan tan
+α
+β α
+10. (b) Let O be the window and AB be
+the house on the opposite side of the
+street.
+Let AP h= ′
+and BP OO h= ′=
+In right angled ∆ AOP,
+tan θ = AP
+OP
+= ′h
+OP
+…(i)
+and in right angled ∆ BOP,
+tan φ = =PB
+OP
+h
+OP
+…(ii)
+∴ ′=
+φ
+h
+h
+tan
+tan
+θ [by Eq. (i) ÷ Eq. (ii)]
+⇒ ′=h h tan cotθ φ
+∴ Height of the house
+AB AP PB= + = + ′ h h
+= h htan cotθ φ +
+= +h [tan cot ]θ φ 1
+MATHEMATICS >□Height□and□Distance 231
+15 m
+B CA
+D
+30° 60°
+x
+h
+R
+QP θ
+h
+h
+pole
+moon 4/ 3 m√
+θ
+S
+R
+QP
+2 m
+10/3 mT
+h
+C
+α
+β
+A B
+D
+1 km
+C
+DE
+B
+A
+60°
+30°
+1 km
+h ´
+Pφ
+θO
+B
+A
+hh
+O ´
+--- PDF PAGE 437 ---
+11. (c) In right angled ∆ BAC ,
+tan α = =BC
+AC
+s
+p
+⇒ p s=
+tanα
+…(i)
+In right angled ∆ BDC ,
+tan β = =BC
+DC
+s
+q
+⇒ q s=
+tan 3α
+…(ii)
+[/c81β α= 3 , given]
+On subtracting Eq. (ii) from Eq. (i), we
+get
+p q s s− = −
+tan tanα α 3
+=
+−
+
+
+
+
+
+
+s
+tan tan
+tan tan
+3
+3
+α α
+α α
+12. (b) Let PQ and RS be the two posts such
+that PQ RS= 2 [given]
+Given, M is the mid-point of RP.
+∴ RM PM K= =
+2
+[/c81RP K= given]
+Let ∠ =RMS θ
+∴ ∠ = ° − QMP 90 θ
+Let RS h= , then PQ h= 2
+Now, in right angled ∆ PMQ,
+tan ( )90° − = θ PQ
+MP
+⇒ cot
+/
+θ = =2
+2
+4h
+k
+h
+k
+or cot θ = 4h
+K
+…(i)
+In right angled ∆ SRM,
+tanθ = SR
+RM
+= h
+K / 2
+⇒ 2h
+K
+= tan θ …(ii)
+On multiplying Eq. (i) by Eq. (ii), we get
+⇒ 4 2 1h
+K
+h
+K
+× =
+⇒ 8 2 2h K= ⇒ h K2
+2
+8
+=
+∴ h K=
+2 2
+m
+Hence, the height of shorter post is
+K
+2 2
+m.
+13. (d) Let O be an observer at a height
+30 m. Let x be the distance of observer
+from the top of the flagstaff.
+i.e. OC = x
+Here, AB be the tower of the flag staff
+= 25 m and BC be the flag staff = 5 m
+In right angled ∆ OBC ,
+tan α = =BC
+OC
+5
+x
+⇒ x = 5 cotα ...(i)
+In right angled ∆ OCA,
+tan 2 30α = =AC
+OC x
+[/c81AC AB BC= + ]
+∴ tan
+cot
+2 30
+5
+α
+α
+= [from Eq. (i)]
+⇒ tan tan2 6α α=
+⇒ 2
+1
+62
+tan
+tan
+tanα
+α
+α
+−
+=
+/c81tan tan
+tan
+2 2
+1 2α α
+α
+=
+−
+
+
+
+
+
+
+
+
+⇒ 3 3 1 2− =tan α ⇒ tan 2 2
+3
+α =
+⇒ tan α = 2
+3
+or cot /α = 3 2
+or x = 5 3
+2
+m [from Eq. (i)]
+14. (a) Let height of tower AB be h m and
+distance between C and D be x m.
+In right angled ∆ ACB, tan 45 ° = AB
+AC
+⇒ 1
+60
+= h ⇒ h = 60 m ...(i)
+Now, in right angled ∆ ADB,
+tan 30° = =
++
+AB
+AD
+AB
+AC CD
+=
++
+60
+60 x
+[from Eq. (i)]
+⇒ 1
+3
+60
+60
+=
++ x
+⇒ 60 60 3+ =x
+⇒ x = −60 3 1( ) = −60 1 73 1( . )
+= ×60 0 73 43 8. . = m
+Now, given time = 5 s
+We know that, Speed = Distance
+Time
+∴ Speed of boat = ×43 8
+5
+18
+5
+. = 788 4
+25
+.
+= 31 5 .km/h
+15. (a) Let AC h= ft = Height of a tree
+and x ft = Distance between A and F
+then AE = −( )160 x ft
+In right angled ∆ AFC ,
+tan 30° = =AC
+AF
+h
+x
+⇒ 1
+3
+= h
+x
+⇒ x = 3h …(i)
+and in right angled ∆ AEC ,
+tan 60
+160
+° = =
+−
+AC
+AE
+h
+x
+⇒ 3
+160
+=
+−
+h
+x
+[/c81tan 60 3° = ]
+⇒ 3 160( ) − =x h
+⇒ 3 160 3( ) − = h h [from Eq. (i)]
+⇒ 160 3 3− =h h ⇒ 4 160 3h =
+∴ h = 40 3 ft
+Hence, the height of the tree is 40 3 ft.
+16. (b) Let the height of the post be h m, and
+AB = x m.
+Given, BC = 20 m
+232 CDS Pathfinder
+x
+30 m
+α αO C
+5 m
+B
+25 m
+A
+θ 90°– θ
+M PR
+Q
+S
+2 h
+h
+K
+CA D
+B
+30°45°
+30° 45°
+60 m x
+h m
+B
+q
+α β
+A D C
+p
+s
+30° 60°F E
+C
+h
+A (160 – )xx
+160 ft
+N
+EW
+S
+30°
+A
+BC
+x m
+D
+( – ) mh
+x
+h m
+( – ) mh x
+20 m
+--- PDF PAGE 438 ---
+In right angled ∆ ABC ,
+tan 30° = AB
+BC
+⇒ 1
+3 20
+= x
+⇒ x = 20
+3
+m …(i)
+and cos 30° = BC
+AC
+=
+−
+20
+h x
+⇒ 3
+2
+20=
+−h x
+⇒ h − =x 40
+3
+From Eq. (i), putting the value of x ,
+h = +40
+3
+20
+3
+= ×60
+3
+3
+3
+= 20 3 m
+Hence, the height of the post is 20 3 m.
+17. (c) Let P be the cloud and ′P its image in
+the lake. Let T be the point ‘ h’ m above
+the surface of the lake and let x be the
+height of the cloud.
+∴ ST h=
+Also, NP NP= ′= x [say]
+Then, PM h= −x
+′ = +P M h x
+In right angled ∆ PTM,
+PM
+TM
+= tan β
+∴ x − =h TM tan β …(i)
+In right angled ∆ ′P TM,
+′ =P M
+TM
+tan α
+x + =h TM tan α …(ii)
+From Eqs. (i) and (ii), we get
+x
+x +
+− =h
+h
+tan
+tan
+β
+α
+Using componendo and dividendo rule,
+we get
+x x
+x x
+− + +
+− − −
+= +
+−
+h h
+h h
+tan tan
+tan tan
+β α
+β α
+⇒ 2
+2
+x
+−
+= +
+−h
+tan tan
+tan tan
+β α
+β α
+⇒ x
+h
+= +
+−
+tan tan
+tan tan
+β α
+α β
+⇒
+x
+h
+= +
+−
+sin cos cos sin
+sin cos cos sin
+β α β α
+α β α β
+= +
+−
+sin( )
+sin( )
+α β
+α β
+∴ x = + −h sin ( ) ( )α β α β cosec
+18. (c) Let the height of the incomplete
+pillar be x m and the increasing height
+be PC h= m.
+Given, AB = 100 m
+In right angled ∆ ABC ,
+tan 45
+100
+° = =BC
+AB
+x ⇒ x = 100 m...(i)
+and in right angled ∆ APB,
+tan 60 ° = PB
+AB
+= + = +PC BC
+AB
+hx
+100
+⇒ x + =h 100 3
+⇒ h = − = −100 3 100 3 100x
+[from Eq. (i)]
+∴ h = −100 3 1( ) m
+Hence, the height of the incomplete
+pillar is
+100 3 1( ) − m.
+19. (c) Let AB be the tower and C , D be the
+two positions of the car.
+Then, ∠ = °ACB 45 , ∠ = °ADB 30 .
+Let AB h= , CD = x and AC y= .
+In right angled ∆ ABC , we get
+AB
+AC
+= ° =tan 45 1 ⇒ h
+y
+= 1
+⇒ y h= …(i)
+In right angled ∆ ABD , we get
+AB
+AD
+= ° =tan30 1
+3
+⇒ h
+yx +
+= 1
+3
+⇒ x + =y h 3 …(ii)
+∴ x = − = −3 3 1h h h ( )
+[by Eqs. (i) and (ii)]
+Now, h ( ) 3 1− is covered in 12 min.
+So, h will be covered in
+12
+3 1
+12
+3 1h
+h
+( ) ( )−
+×
+
+
+
+
+
+
+
+
+=
+−
+min.
+= 
+ 
+1200
+73
+min ≈ 16 min 23 s
+20. (b) Let the radar base is at point A. The
+plane is at point D in the first sweep and
+at point E in the second sweep. The
+distance it covers in the one minute
+interval is DE.
+From the figure,
+In right angled ∆ ADC , we get
+tan30 1000° = =DC
+AC AC
+⇒ AC =
+°
+1000
+30tan
+Similarly, in ∆ EAB, we get
+tan 60 1000° = =EB
+AB AB
+⇒ AB =
+°
+1000
+60tan
+Total distance covered by plane in 1 min,
+then
+DE AC AB= −
+DE =
+°
+−
+°
+1000
+30
+1000
+60tan tan
+= −1000 3 1000
+3
+= 1154 70 .m
+The speed of the plane is given by
+s = distance covered/time taken
+= =DE / .60 19 25 m/s.
+21. (c)
+Let P be the point of observation and
+QR be the tower.
+Given that, θ = sin− 
+ 
+
+1 3
+5
+, PQ = 20 m.
+Let the height of the tower, QR h= and
+PR = x
+From the right angled ∆ PQR,
+sin θ = QR
+PR
+⇒ sin sin /− 
+ 
+
+
+
+ =1 3
+5
+h x
+⇒
+3
+5
+= h
+x
+⇒
+x = 5
+3
+h …(i)
+From pythagoras theorem, we get,
+PQ QR PR2 2 2+ =
+⇒ 202 2 2+ =h x
+⇒ 20 5
+3
+2 2
+2
++ = 
+ 
+h h [using Eq. (i)]
+⇒
+20 25
+9
+2 2
+2
++ =h h ⇒
+16
+9
+20
+2
+2
+h
+=
+∴ h = × =3 20
+4
+15 m
+MATHEMATICS >□Height□and□Distance 233
+BA
+P
+C
+x
+45° 60°
+h
+100 m
+CD
+B
+30° 45°
+A
+h
+yx
+M
+P
+N
+P´
+α
+β
+h
+T
+S
+x
+x
+CB
+30°
+A
+60°
+E D
+1000 m
+QP
+x
+R
+20 m
+tower
+h
+q = sin–1( )
+3
+5
+--- PDF PAGE 439 ---
+22. (a) Let O be the position of the man’s eye
+and C be the centre of the balloon.
+Now, ∠ = ∠ =BOC COA α
+2
+Given, CA BC r= =
+In right angled ∆ COD, sin β = CD
+OC
+∴ CD OC= sin β …(i)
+In right angled ∆ COA,
+sin α
+2
+= CA
+OC
+∴ OC r=
+sin α
+2
+= r cosec α
+2
+From Eq. (i), CD r= cosec α β
+2
+sin
+Hence, the height of centre of the
+balloon is
+r sin β αcosec
+2
+.
+23. (a) Let AB be the tower of height h m,
+BC be x m and DC be h / 2 m.
+In right angled ∆ ABD,
+tanα = h
+hx + / 2
+⇒ cot /α = x + h
+h
+2.
+…(i)
+Now, in right angled ∆ ABC ,
+tanβ = h
+x
+⇒
+cotβ = x
+h
+…(ii)
+Subtracting eq. (ii) from eq. (i), we get
+cot cot /α − β = x h
+h
+x
+h
++ −2
+= + − = =x h x
+h
+h
+h
+/ /2 2 1
+2
+24. (a) We have, cot cotα − β = 1/2
+⇒ cot cot30 2°− β = 1/
+⇒ cot cot /β = °− 30 1 2
+= − 3 1 2 /
+25. (b) tanβ = 4 ⇒ cotβ = 1/ 4
+we have, cot cot /α − β = 1 2
+⇒ cot cotα β + 1/2 = 1/ 4 + 1/2 = 3
+4
+=
+In ∆ ABD,
+cot /α = +x h
+h
+2
+∴ 3
+4
+2= +x h
+h
+/
+⇒ 3 4 2h x h= + ⇒ x h=
+4
+Hence, required distance is h
+4
+26. (a) Let θ be the angle of elevation of Sun
+and height of the pole be h m.
+In right angled ∆ ABC ,
+tan θ = AB
+BC
+⇒ tan θ = h
+h3
+⇒ tan tanθ = 1
+3
+30= °
+∴ θ = ° 30
+Hence, the angle of elevation of Sun is30°.
+27. (d) Let AE be the height of the cliff and
+h m ( BD) be the height of the tower.
+In right angled ∆ ABC ,
+tan30 200° = = −AC
+BC
+h
+x
+⇒ 1
+3
+= −200 h
+x
+⇒ x = −( )200 3 h …(i)
+and in right angled ∆ ADE,
+tan 45 200° = =AE
+DE x
+⇒ 1 200=
+x
+⇒ x = 200 m
+From Eq. (i), 200 200 3= −( ) h
+⇒ 200 200 3 3= − h
+⇒ h 3 200 3 1= − ( )
+∴ h =
+−
+
+
+
+
+
+
+200
+3 1
+3
+m
+Hence, the height of tower is
+200 3 1
+3
+( ) − m.
+28. (c) Refer to example 3.
+29. (c) Let θ be the inclination of the ladder
+to the horizontal.
+Now, in right angled ∆ AOB ,
+cos θ = = =AO
+AB
+10
+20
+1
+2
+⇒ cos cosθ °= 60
+∴ θ ° = 60
+Hence, the angle of inclination of the
+ladder is 60°.
+Solutions (Q. Nos. 30-33)
+30. (b) Given, β = °30
+In right angled ∆ ADE, tan β =
+AE
+DE
+tan30° = AE
+DE
+⇒ 1
+3
+= AE
+DE
+⇒ DE AE h= = +
+
+ 
+
+3 3 3 3
+2
+⇒
+BC DE h= = + 3
+2
+1 3( ) ... (i)
+[/c81BC DE= ]
+Now, in right angled ∆ ABC ,
+⇒ tanα = AC
+BC
+⇒ BC AE CEtan ( )α = −
+= −( )AE BD [ ]/c81BD CE=
+⇒ BC h htanα = +
+
+ 
+
+ −3 3
+2
+= + −
+
+ 
+
+h 3 3 2
+2
+⇒
+3
+2
+1 3 1 3
+2
+( ) tan+ = +
+
+ 
+
+h h α
+[from Eq. (i)]
+∴
+tan α = 1
+3
+234 CDS Pathfinder
+A
+C
+B
+D
+α /2
+α /2
+βO
+C
+β
+D B
+A
+h
+α
+h/2 x
+BC
+A
+θ
+h
+√3 h
+D
+B C30°
+x
+200 m
+h
+E
+30°
+45°
+A
+200
+−
+h
+x
+45°
+B
+O
+θ
+A 10 m
+20 m
+D E
+B C
+A
+3+ 3√
+2
+h m
+α
+β
+θ
+θ
+h m
+--- PDF PAGE 440 ---
+31. (a) Given, α = °30
+In right angled ∆ ABC ,
+tan tanα = ° = 30 AC
+BC
+, 1
+3
+= AC
+BC
+⇒ BC AC AE CE= = −3 3 ( )
+= 3 ( )AE BD− [ ]/c81BD CE=
+= + −
+
+ 
+
+3 3 3
+2
+1 h
+= + 3
+2
+1 3( ) h ...(ii)
+Now, in right angled ∆ ADE,
+tan β = AE
+DE
+⇒ tan β = AE
+BC
+[ ]/c81DE BC=
+⇒
+3 3
+2
+3
+2
+1 3
+3 1 3
+2
+3 1 3
+2
++
+
+ 
+
+
++
+=
++
++
+h
+h
+h
+h( )
+( )
+( )
+∴ tan β = 1
+32. (c) Given, α = °30 and h = 30 m
+In right angled ∆ ABC ,
+tan tanα = ° = =30 1
+3
+AC
+BC
+⇒ BC AE CE AE BD
+3
+= − = −( ) ( )
+[/c81BD CE= ]
+⇒ BC h= + −
+
+ 
+
+3 3 3
+2
+1
+⇒
+BC = + ⋅3 1 3
+2
+30( )
+= + ⋅( ) 3 3 15
+∴ DE BC= = + ( )45 15 3 m
+[ ]/c81DE BC=
+33. (a) Given, β = °30
+In right angled ∆ ADE , tan β = AE
+DE
+⇒ tan 30
+3 3
+2° =
++
+
+ 
+
+h
+DE
+⇒
+1
+3
+3 1 3
+2=
++
+
+ 
+
+h
+DE
+⇒
+DE h= +3
+2
+1 3( ) …(i)
+In right angled ∆ BDE,
+tan θ = =BD
+DE
+h
+DE
+⇒ tan
+( )
+θ =
++
+h
+h3
+2
+1 3
+[from Eq. (i)]
+⇒ tan θ = −
++ −
+2
+3
+3 1
+3 1 3 1
+( )
+( ) ( )
+⇒ tan ( )θ = −
+⋅
+2 3 1
+3 2
+⇒ tan ( )θ = − ⋅3 1
+3
+3
+3
+∴
+tan ( )θ = −3 3
+3 3
+34. (c) Let θ be the angle of elevation,
+In right angled ∆ ABC ,
+tanθ = AC
+BC
+= x
+x
+3
+= 3x
+x
+= 3
+Here, tanθ = 3 = °tan 60
+∴ θ = ° 60 [ tan ]/c81 60 3° =
+35. (c) Given, radius of circle ( )OC r =
+In right angled ∆ ABO,
+sin 60° = OB
+AO
+⇒ AO OB=
+°sin 60
+...(i)
+Now, in right angled ∆ AOC ,
+sin 60
+2
+° = OC
+AO
+⇒ AO OC=
+°sin30
+...(ii)
+From Eqs. (i) and (ii),
+OB OC
+sin sin60 30°
+=
+°
+⇒ h r
+3
+2
+1
+2
+=
+∴ h r= 3
+36. (b) Let h m be the height of shorter
+tower and the distance between the two
+towers is mh m.
+Given, ∠ = °ABD 30 and ∠ = °BAC 60
+In right angled ∆ ABD,
+tan 30 ° = h
+mh
+⇒ 1
+3
+1=
+m
+⇒ m = 3
+Hence, the value of m is 3.
+37. (b) Let h m be the height of the tower
+and BC be x m.
+In right angled ∆ BCD,
+tan 60° = =DC
+BC
+h
+x
+⇒
+3 = h
+x
+⇒
+h = x 3 ...(i)
+Now, in right angled ∆ ACD,
+tan30 ° = DC
+AC
+=
++
+=
++
+DC
+AB BC
+h
+50 x
+⇒ 1
+3
+3
+50
+=
++
+x
+x
+[from Eq. (i)]
+⇒ 50 3+ =x x ⇒ x = 25 m
+∴ h = 25 3 m
+Hence, the height of tower is 25 3 m.
+38. (c) Let person be at point C and observes
+a tower in West direction at B.
+∴ BC = 200 m
+He walks some distance and reach at A.
+Now, he observe tower in South
+direction at B.
+∴ AB = 300 m
+Let BD be the shortest distance of tower
+from the road, which is a perpendicular
+distance.
+If ∠ =ABD θ , then
+∠ = ° −CBD 90 θ
+[/c81angle between S and W = °90 ]
+In right angled ∆ ADB,
+cosθ = BD
+AB
+⇒ cosθ = BD
+300
+...(i)
+In right angled ∆ CDB,
+cos ( )90° − = θ BD
+BC
+⇒
+sinθ = BD
+200
+...(ii)
+MATHEMATICS >□Height□and□Distance 235
+x
+x/ 3
+θ
+A
+B C
+O
+h
+C
+r
+60°
+60°
+A B
+30°60°
+C
+BA
+D
+mh m
+30 m
+h
+30° 60°
+D
+CBA
+50 m x
+h
+θ
+300 m
+A
+B
+C
+D
+E
+N
+W
+S
+200 m
+--- PDF PAGE 441 ---
+We know that, cos sin2 2 1θ θ+ =
+⇒ BD BD
+300 200
+1
+2 2
+
+ 
+ + 
+ 
+ =
+[from Eqs. (i) and (ii)]
+⇒
+BD 2 40000 90000
+90000 40000
+1+
+×
+
+
+
+ =
+⇒
+BD 2 130000
+3600000000
+1
+
+
+ =
+⇒
+BD 2 360000
+13
+=
+∴ BD = 360000
+13
+= 600
+13
+m
+39. (d) Let AB be the height of the post, AC
+be the string and the angle made by
+string with the post be θ.
+Now,
+cosθ = =AB
+AC
+h
+h2
+⇒ 1
+2
+60= °cos
+∴ θ π=
+3
+40. (c) Let P be the cloud at a height Hm
+above the level of the water in the lake
+and Q be its image in the water.
+∴ OQ OP H= =
+Given, ∠ = °PBM 30 and ∠ = °MBQ 60
+In right angled ∆ PBM,
+tan30 200° = = −PM
+BM
+H
+BM
+⇒ 1
+3
+200= −H
+BM
+⇒ BM H= − 3 200( ) ...(i)
+In right angled ∆ QMB,
+tan 60 200° = = +MQ
+BM
+H
+BM
+⇒ 3 200
+3 200
+= +
+−
+H
+H( )
+[from Eq. (i)]
+⇒ H H+ = −200 3 200( )
+⇒ H H+ = −200 3 600
+⇒ 2 800H =
+∴ H = 400 m
+Hence, the height of the cloud is 400 m.
+41. (c) Let BC h= m be height of tower. Let
+P and Q be the points, where the
+angle subtended are 45° and 60°,
+respectively.
+In right angled ∆ BCQ,
+tan 60° = BC
+BQ
+⇒ 3 = h
+x
+⇒
+x = h
+3
+...(i)
+In right angled ∆ PBC ,
+tan 45° = =
++
+BC
+PB
+BC
+PQ QB
+⇒ 1
+100 3 3
+=
+− +
+h
+( ) x
+⇒ 100 3 3( ) − + = x h
+⇒ 100 3 3
+3
+( ) − + = h h [from Eq. (i)]
+⇒ h h− = −
+3
+100 3 3( )
+⇒ h( ) ( )3 1
+3
+100 3 3 1− = −
+⇒ h = ×100 3 3
+∴ h = 300 m
+42. (d) Refer to example 3.
+43. (d) AB is a pole and AC is rope.
+In ∆ ABC , sin30
+12
+° = =AB
+AC
+h
+⇒ h
+12
+1
+2
+=
+∴ h = = =12
+2
+2 3
+2
+3 m
+44. (c) Let A and B be the position of two
+planes and D be a point.
+In ∆ BCD, tan 45° = h
+x
+⇒ h = x
+In ∆ ACD,
+tan 60 3 3000° = =
+x
+/c81 x = ×3000
+3
+3
+3
+= 1000 3 m
+∴ AB h= −3000
+= −3000 1000 3
+= −1000 3 3( ) m
+45. (c) In right angled ∆ ADC , tan 45° = AC
+DC
+⇒ DC AC=
+°
+=
+tan 45
+x …(i)
+In right angled ∆ BCA, we get
+tan30° = AC
+BC
+⇒ x
+DC BD+
+⇒ 1
+3
+=
++
+x
+xy
+⇒ y + =x x 3
+⇒ y = −x ( ) 3 1
+⇒ x
+y
+=
+−
+1
+3 1( )
+⇒ x
+y
+= × +
+− +
+1 3 1
+3 1 3 1
+( )
+( )( )
+⇒ x
+y
+= +
+−
+( )
+( ) ( )
+3 1
+3 12 2
+∴ x
+y
+= +( ) 3 1
+2
+236 CDS Pathfinder
+A
+B C
+h
+2h
+θ
+60°
+30°
+A
+B
+200 m
+P
+Q
+H
+O
+( – 200)H
+200 m
+M H
+45° 60°
+60°
+45°
+h
+P
+m
+Q B
+C
+100 (3– 3)√
+x
+BC
+A
+√
+12 m h
+30°
+Rope
+Pole
+CD
+A
+45°
+B
+60°
+h 3000 m
+x
+CD
+30°
+B
+A
+45°
+y
+x
+--- PDF PAGE 442 ---
+In this chapter, we will study about the properties of
+the angles which formed, when two lines intersect each
+other and when a line intersect two or more parallel
+lines at distinct points.
+Basic Terms and Definitions
+Point
+The figure of which length, breadth and height cannot
+be measured is called a point. It is infinitesind.
+Line Segment
+The straight path between two points P and Q is called
+a line segment.
+This can be represented as
+PQ.
+• P and Q are called the end points of the line segment.
+• The line segment has a definite length.
+• Distance between P and Q is called the length of the
+line segment PQ.
+Line
+A line segment extended endlessly on both sides, is
+called a line. It is denoted by PQ
+↔
+or QP
+↔
+.
+• A line is a set of infinite number of points.
+• A line have no end points and no definite length.
+Ray
+A ray extends indefinitely in one direction. This is
+exhibited by an arrow i.e. PQ
+ →
+.
+• P is called the initial point of the ray. The ray has no
+definite length.
+Collinear Points
+Three or more points are said to be collinear if a single
+straight line passes through them. Here, A, B and C are
+collinear.
+Non-collinear Points
+Three or more points not lying on a single straight line
+are called non-collinear points. Here, A, B and C are
+non-collinear points.
+Intersecting Lines
+Two lines having a common
+point are called intersecting
+lines. This common point
+is the point of intersection
+i.e. O.
+237
+22
+LINES AND ANGLES
+Usually (2-3) questions have been asked from this chapter . And this is the easiest topic of geometry
+and so candidate can easily score marks in examinations.
+--- PDF PAGE 443 ---
+Concurrent Lines
+Three or more lines intersecting
+at the same point are said to be
+concurrent. This common point
+is the point of concurrence i.e. O.
+Non Intersecting lines/Parallel Lines
+If two lines lie in the same plane and do not intersect
+when produced on either side, then such
+lines are said to be parallel to each other.
+If l and m are two parallel lines, we write l m|| and read
+it as l is parallel to m .
+ANGLES
+An angle is formed by two rays with a common initial
+point. Let ‘ O’ is the initial point, then O is called the
+vertex.
+Where, P is a point in the interior of ∠ AOB and R is a
+point in the exterior of ∠ AOB.
+Types of Angle
+1. Acute angle An angle whose measure is more than
+0°, but less than 90°, is called an acute angle.
+In the given figure, 0° < ∠ < °AOB 90
+2. Right angle An angle whose measure is
+90°, is called a right angle.
+In the given figure, ∠ = °AOB 90 .
+3. Obtuse angle An angle whose measure is more than
+90° but less than 180°, is called an obtuse angle.
+In the given figure, 90 180° < ∠ < °AOB .
+4. Straight angle An angle whose
+measure is 180°, is called a straight
+angle.
+In the figure, ∠ = °AOB 180
+5. Reflex angle An angle whose measure is more than
+180°, but less than 360°, is called a reflex angle.
+In the given figure, 180 360° < ∠ < °AOB
+6. Complete angle An angle whose
+measure is 360°, is called a complete
+angle. In the given figure, ∠ AOA is a complete angle.
+Pairs of Angle
+1. Complementary Angles
+Two angles are said to be
+complementary, if the sum of
+their measure is 90°. Thus, ∠θ 1
+and ∠θ 2 are complementary, if
+∠ + ∠ = °θ θ1 2 90
+• Complementary angles are
+complement of each other.
+• Complement of x is ( )90° − x .
+EXAMPLE 1. The measure of an angle which is 28°
+more than its complement is
+a. 23° b. 59° c. 77° d. None of these
+Sol. b. Let the measure of the required angle be x°. Then,
+measure of its complement = ° −90 x
+∴ x x− ° − = °( )90 28 ⇔ 2 118x = °
+⇔ x = °59
+Hence, the measure of the required angle is 59°.
+EXAMPLE 2. The measure of the complement of an
+angle of 48° 36′24′′is
+a. 41 23 36° ′ ′′ b. 42 23 36° ′ ′ c. 41 24 36° ′ ′′ d. 42 24 36° ′ ′′
+Sol. a. As, 90 89 59 60° = ° ′ ′′
+∴ Complement of an angle of ( )48 36 24° ′ ′′
+= Angle of [ ]90 48 36 24° − ° ′ ′′
+= Angle of [ 89 59 60° ′ ′′ − 48 36 24° ′ ′′ ]
+= Angle of ( )41 23 36° ′ ′′
+2. Supplementary Angles
+Two angles are said to be supplementary, if the sum of
+their measures is 180°. Thus, ∠ θ 1 and ∠θ 2 are
+supplementary if θ θ1 2 180+ = °
+• Supplementary angles are supplement of each other.
+• Supplement of x is ( )180° − x .
+238 CDS Pathfinder
+P
+B
+A
+R
+O arm
+angle
+vertex
+arm
+B
+A
+O
+A
+BO
+O
+B
+A
+AO
+θ2
+θ1
+O
+l
+m
+A
+BO
+• • •
+BOA
+θ2θ1
+R
+P Q
+B
+S
+O
+A
+--- PDF PAGE 444 ---
+239MATHEMATICS Lines and Angles
+EXAMPLE 3. The measure of an angle, which is 32°
+less than its supplement is
+a. 31° b. 64° c. 74° d. 148°
+Sol. c. Let the measure of the required angle be x. Then,
+measure of its supplement = ° −( )180 x
+∴ ( )180 32° − − = °x x ⇔ 2 148x = ° ⇔ x = °74
+EXAMPLE 4. Two supplementary angles are in the
+ratio 3 2 :. Then, the measurement of the smaller angle is
+a. 36° b. 72° c. 108° d. 112°
+Sol. b. Let the supplementary angles be 3x and 2x,
+respectively. Then, according to the definition of
+supplementary angle.
+3 2 180x x+ = °
+⇒ 5 180x = ° ⇒ x = °36
+∴ Angles will be 3 3 36 108x = × = °
+and 2 2 36 72x = × = ° .
+Thus, the smaller angle is 72°.
+Bisector of an Angle
+A ray which divides the angle into
+two equal parts, is called the bisector
+of an angle.
+If a ray OS is the bisector of ∠ POQ,
+then ∠ =POS ∠ QOS.
+• ∠ = ∠ = ∠POS QOS POQ 1
+2
+Adjacent Angles
+Two angles are said to be adjacent, if
+(i) they have a common vertex.
+(ii) they have a common arm
+(iii) their non-common arms are on
+either side of the common arm.
+Here, ∠ POQ and ∠ ROQ are adjacent angles.
+Linear Pairs of Angles
+If the non-common arms of two adjacent angles form a
+line, then these angles are called linear pair of angles.
+∠ ROP and ∠ ROQ form a linear pair of angles.
+∴ ∠ = ∠ + ∠ = °POQ ROP ROQ 180
+Vertically Opposite Angles
+Two angles are called a pair of vertically opposite
+angles, if their arms form two pairs of opposite rays.
+If two lines PQ and RS intersects at a point O, then the
+pair of ∠ POR and ∠ QOS or pair of ∠ POS and ∠ ROQ
+is said to be a pair of vertically opposite angles.
+• Vertically opposite angles are always equal
+i.e. ∠ = ∠POS ROQ and ∠ = ∠POR SOQ .
+• Sum of the angles around a point is 360°.
+EXAMPLE 5. In the given figure if DOC is a straight
+ray OB is bisector of ∠ AOC, where ∠ = °AOC 110 and
+∠ = °COE 120 , then the sum of ∠ x, ∠ y and ∠ z is
+a. 160° b. 115° c. 170° d. 180°
+Sol. d. Since, DOC is a straight line
+∠ + ∠ = °AOC DOA 180 [Linear pair]
+110 180° + ∠ = °DOA [ ]/c81∠ = °AOC 110
+∠ = °DOA 70
+∠ = ∠ = °DOA y 70
+Also, ray OB is angle bisector of ∠ AOC
+∠ = ∠ = ° = °z AOC
+2
+110
+2 55
+/c81Line BE and DC intersect each other at O.
+∠ = ∠ = °x z 55 [/c81vertically opposite angle]
+∴ ∠ + ∠ + ∠x y z = °+ °+ ° = °55 70 55 180
+Some Other Angles
+Let l and m are parallel lines and n is the transversal
+which cuts these parallel lines. The different angles
+formed are as follows.
+O QP
+R
+P
+R
+O
+Q
+Q
+P
+O
+S
+O
+R
+P S
+Q
+z
+110°
+120°
+x
+y
+A
+D C
+E
+B
+O
+2 1
+43
+6 5
+87
+l
+m
+n
+--- PDF PAGE 445 ---
+1. Corresponding angles Corresponding angle pairs
+are
+∠ 1 and ∠ 5, ∠ 2 and ∠ 6, ∠ 4 and ∠ 8, ∠ 3 and ∠ 7 and
+all the corresponding pair are equal
+i.e., ∠ = ∠1 5 , ∠ = ∠2 6 , ∠ = ∠4 8 and ∠ = ∠3 7 .
+2. Vertically opposite angles Vertically opposite
+angles pairs are
+∠ 1 and ∠ 3, ∠ 4 and ∠ 2, ∠ 8 and ∠ 6, ∠ 5 and ∠ 7 and
+all vertically opposite angles are equal
+i.e., ∠ = ∠1 3 , ∠ = ∠4 2 , ∠ = ∠8 6 and ∠ = ∠5 7 .
+3. Alternate angles Alternate angles pairs are
+∠ 3 and ∠ 5, ∠ 4 and ∠ 6 and they are equal
+i.e., ∠ = ∠3 5 and ∠ = ∠4 6 .
+• The sum of interior angles on the same side of
+transversal is equal to 180°.
+i.e., ∠ + ∠ = °3 6 180 and ∠ + ∠ = °4 5 180
+• The sum of exterior angles on the same side of
+transversal is equal to 180°.
+i.e., ∠ + ∠ = °2 7 180 and ∠ + ∠ = °1 8 180
+EXAMPLE 6. In the given figure, PQ RS|| . The value of
+x is
+a. 50° b. 80° c. 75° d. 65°
+Sol. a. Draw AB PQ||
+∴ ∠ = ∠ = °ATP TPQ 50 [alternate angles]
+and ∠ + ∠ = °BTR TRS 180
+[Angles on the same side of transversal]
+⇒ ∠ = ° BTR 80
+and ∠ + + ∠ = °ATP BTRx 180 [ /c81ATB is a straight line]
+∴ x = ° − ° + ° = °180 50 80 50( )
+1. Three lines intersect each other in pairs. What is
+the total number of angles so formed?
+(a) 3 (b) 6 (c) 9 (d) 12
+2. An angle is 14° more than its complement. Then,
+its measure is
+(a) 166° (b) 86° (c) 76° (d) 52°
+3. The measure of an angle is twice the measure of
+its supplementary angle. So, its measure is
+(a) 120° (b) 60° (c) 100° (d) 90°
+4. What is the least number of straight lines for a
+bounded plane figure?
+(a) 1 (b) 2 (c) 3 (d) 4
+5. The supplement of
+3
+5
+of a right angle is
+(a) 122° (b) 126° (c) 130° (d) 132°
+6. In the given figure, if PQ SR| | , then the relation
+between ∠ a and ∠ b is
+(a) ∠ ≠ ∠a b (b) ∠ < ∠a b (c) ∠ = ∠a b (d) ∠ > ∠a b
+7. If ∠ = − °1 5 20( )x and ∠ = + °7 2 10( )x , then ∠ 7 is
+(a) 38° (b) 10°
+(c) 30° (d) 70°
+8. The measure of complementary angle of 12° 25′
+40′′is
+(a) 77° 34′20′′(b) 77° 36 20′ ′′ (c) 77° 24 20′ ′′ (d) 77° 34′
+9. ∠ POR and ∠ QOR form a linear pair and if
+a b− = ° 80 , then the values of a and b are,
+respectively
+(a) 95°, 85° (b) 108°, 72°
+(c) 130°, 50° (d) 105°, 75°
+240 CDS Pathfinder
+100°
+S
+BA
+50°
+P Q
+T
+x
+R
+S
+Q
+R
+T
+x
+P
+50
+100
+b
+a
+A
+BS
+P
+R
+Q
+PRACTICE EXERCISE
+2
+l
+1
+3 4m
+n
+65
+78
+O QP
+R
+b°a°
+--- PDF PAGE 446 ---
+10. In the given figure, the value of y is
+(a) 25° (b) 35° (c) 15° (d) 40°
+11. AB and CD are two parallel lines. PQ cuts AB and
+CD at E and F, respectively. EL is the bisector of
+∠ FEB. If ∠ =LEB 35°; then ∠ CFQ will be
+(a) 110° (b) 85° (c) 70° (d) 95°
+12. AB and CD are two
+parallel lines. The
+points B and C are
+joined such that
+∠ = °ABC 65 . A line
+CE is drawn making
+angle of 35° with the line CB, EF is drawn parallel
+to AB, as show in figure, then ∠ CEF is equal to
+(a) 160° (b) 155° (c) 150° (d) 145°
+13. In the given figure, if EC AB| | , ∠ = °ECD 70 ,
+∠ = °BDO 20 , then ∠ OBD is equal to
+(a) 70° (b) 60° (c) 50° (d) 20°
+14. Two parallel lines AB and CD are intersected by
+a transversal line EF at M and N , respectively.
+The lines MP and NP are the bisectors of the
+interior angles BMN and DNM on the same side
+of the transversal. Then, ∠ MPN is equal to
+(a) 90° (b) 45° (c) 135° (d) 60°
+15. In the given figure if l m| | , then the value of x is
+(a) 105° (b) 100° (c) 110° (d) 115°
+16. In the given figure, if ∠ = °COE 90 , then the
+value of x is
+(a) 120° (b) 60° (c) 45° (d) 30°
+17. The value of x in the given figure is
+(a) 75° (b) 185°
+(c) 285° (d) 245°
+18. In the given figure, AB CD| | ,
+∠ = ∠DPL NPO1
+2
+,
+and OP XY⊥ the value of x° is
+(a) 30° (b) 40° (c) 15° (d) 25°
+19. In the given figure, AB CD| | and they cut PQ
+and QR at E, F and G H, respectively. Then find
+the value of x y+
+(a) 120° (b) 130°
+(c) 150° (d) 132°
+20. Two parallel lines are cut by a transversal, then
+which of the following are true?
+I. Pair of alternate interior angles are congruent.
+II. Pair of corresponding angles are congruent.
+III. Pair of interior angles on the same side of the
+transversal are supplementary.
+Select the correct answer using the codes given
+below
+(a) I, II and III are true (b) I and III are true
+(c) I and II are true (d) II and III are true
+21. Consider the following statements related to
+three lines L L
+1 2, and L3 in the same plane.
+I. If L2 and L3 are both parallel to L1 , then they
+are parallel to each other.
+II. If L2 and L3 are both perpendicular to L1 then
+they are parallel to each other.
+III. If there is acute angle between L1 and L3 , then
+L2 is parallel to L3 .
+241MATHEMATICS Lines and Angles
+O
+100°
+x + 5
+l
+m
+A
+B
+30°
+45°
+30°
+C
+A
+Bx
+P
+Q
+L
+P
+x
+O
+C
+N
+M 60°
+A B
+X
+Y
+D
+A
+C B
+E
+Dz
+O y
+90° x
+2x
+20° DC
+70°
+E A
+O
+B
+5y
+5y
+2y
+C
+A
+E D
+B
+F
+O
+65°
+BA
+35°
+E F
+DC
+A C
+E
+Q
+P
+R
+F
+B D
+H
+y
+x
+140°
+70°
+x G
+--- PDF PAGE 447 ---
+Which of the statement(s) given above is/are
+correct?
+(a) I and II (b) II and III
+(c) All of these (d) None of these
+22. In the given figure, AB CD| | , then which one of
+the following is true?
+(a) p q r+ − = ° 180 (b) p q r+ + = ° 180
+(c) p q r− + = ° 180 (d) p q r+ − = °2 180
+23. LM is a straight line and O is a point on LM.
+Line ON is drawn not coinciding with OL or OM.
+If ∠ MON is one-third of ∠ LON , then what is
+∠ MON equal to?
+(a) 45° (b) 60°
+(c) 75° (d) 80°
+24. Consider the following statements :
+Two lines intersected by a transversal are
+parallel, if
+I. The pairs of corresponding angles are equal.
+II. The interior angles on the same side of the
+transversal are supplementary.
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+25. In the given figure AC BD| | and AE BF| | . What
+is the value of ∠ x ?
+(a) 130° (b) 110°
+(c) 70° (d) 50°
+26. The necessary conditions for the line l and m to
+be parallel when these lines are intersected by a
+transversal line n is that
+I. Interior angles on the same side are equal.
+II. Corresponding angles are equal.
+III. Vertically opposite angles are equal.
+IV. Alternate interior angles are equal.
+Select the correct answer using the codes given
+below
+(a) II and III (b) I, II and III (c) II and IV (d) I, II and IV
+27. In the given figure, which of the
+following statements must be true?
+I. a b d c+ = + II. a c e+ + = ° 180
+III. b f c e+ = + IV. a b c d e f+ + = + +
+Select the correct answer using the codes
+given below
+(a) Only I (b) I, II and III
+(c) II, III and IV (d) All of these
+28. In the given figure, AB is parallel to CD. If
+∠ = °BAF 98 and ∠ = °AFC 144 , then ∠ ECD is
+equal to?
+(a) 62° (b) 64°
+(c) 82° (d) 84°
+29. Consider the following statements :
+If two parallel lines are intersected by a
+transversal, then
+I. each pair of corresponding angles are equal.
+II. each pair of alternate angle are unequal.
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+30. In the given figure, PQ is parallel to RS. Then
+∠ NMS is equal to
+(a) 20° (b) 23° (c) 27° (d) 47°
+31. The line segments AB and CD intersect at O. OF
+is the internal bisector of obtuse ∠ BOC and OE
+is the internal bisector of acute ∠ AOC. If
+∠ = °BOC 130 , then what is the measure of
+∠ FOE ?
+(a) 90° (b) 110° (c) 115° (d) 120°
+32. In the given figure below, AB is parallel to LM.
+What is the angle a equal to?
+(a) π + +b c (b) 2 π − +b c
+(c) 2 π − −b c (d) 2 π + −b c
+242 CDS Pathfinder
+q° F
+B
+DG
+E
+p°
+A
+C
+r°
+a
+b c
+d
+ef
+130°
+x
+A
+E F
+60°
+G
+C D
+B
+98°
+144°F
+C
+E
+A B
+D
+67°
+55° 47°P
+R S
+Q
+M
+N
+L
+A B
+L M
+a
+b
+c
+--- PDF PAGE 448 ---
+33. In the given figure, PQ is parallel to RS. What is
+the angle between the lines PQ and LM?
+(a) 175° (b) 177° (c) 179° (d) 180°
+34. The length of a line segment AB is 2 units. It is
+divided into two parts at the point C such that
+AC AB CB2= × . What is the length of CB ?
+(a) 3 5+ units (b) 3 5− unit
+(c) 2 5− unit (d) 3 units
+Directions (Q.Nos 35-36) Read the information and
+answer the questions.'
+In the given figure, the lines CB and AC of a
+triangle ABC are extended to D and F, respectively
+and CF GE| | .
+35. The sum of the value of x, y and z.
+(a) 250° (b) 180° (c) 230° (d) 110°
+36. The value of the angle which equals one-fifth of
+the supplement of z ?
+(a) 50° (b) 26° (c) 10° (d) 130°
+PREVIOUS YEARS’ QUESTIONS
+37. AB is a straight line. C is a point whose distance
+from AB is 3 cm. What is the number of points
+which are at a distance of 1 cm from AB and
+5 cm from C ? e 2012 I
+(a) 1 (b) 2 (c) 3 (d) 4
+38. The ratio of two complementary angle is 1 : 5.
+What is the difference between the two angles?
+e 2012 I
+(a) 60° (b) 90°
+(c) 120° (d) Cannot be determined
+39. Consider the following statements :
+If two straight lines intersect, then
+I. vertically opposite angles are equal.
+II. vertically opposite angles are supplementary.
+III. adjacent angles are complementary.
+Which of the statement(s) given above is/are
+correct? e 2012 I
+(a) Only III (b) Only I (c) I and III (d) II and III
+40. In the given figure, LOM is a straight line.
+What is the value of x° ? e 2012 II
+(a) 45° (b) 60° (c) 70° (d) 80°
+41. If the arms of one angle are respectively parallel
+to the arms of another angle, then the two
+angles are e 2013 I
+(a) Neither equal nor supplementary
+(b) not equal but supplementary
+(c) equal but not supplementary
+(d) Either equal or supplementary
+42. The complement angle of 80° is e 2015 I
+(a)
+18
+π
+radian (b) 5
+9
+π radian
+(c) π
+18
+radian (d) 9
+5π
+radian
+43. Let OA OB OC, , and OD be rays in the
+anti-clockwise direction? Such that
+∠ = ∠ = °AOB COD 100 , ∠ = °BOC 82
+and ∠ = °AOD 78 .
+Consider the following statements
+I. AOC and BOD are lines.
+II. ∠ BOC and ∠ AOD are supplementary. e 2015 I
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+44. If a transversal intersects four parallel straight
+lines, then the number of distinct values of the
+angles formed will be e 2016 I
+(a) 2 (b) 4 (c) 8 (d) 16
+45.
+In the figure given above, p and q are parallel
+lines. What are the values of the angles x, y
+and z ? e 2016 I
+(a) x = °80 , y = °40 , z = °100
+(b) x = °80 , y = °50 , z = °105
+(c) x = °70 , y = °40 , z = °110
+(d) x = °60 , y = °20 , z = °120
+243MATHEMATICS Lines and Angles
+95°D E F
+C y°
+A B35° z°
+x°
+G
+50°
+Q P
+( – 10)°x( + 20)°xL M O
+55°
+30° 25°R S
+155°
+L M
+P Q
+80°
+100° x
+z 40°x
+y
+p
+q
+3
+--- PDF PAGE 449 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (d) We know that, when two lines
+intersect each other, it makes 4 angles.
+Since, the total number of pairs = 3
+∴ Total number of angles = × =3 4 12
+2. (d) Let angle be x and its complement be
+90° − x.
+According to the question,
+x x= ° − +( )90 14
+⇒ 2 104x = °
+⇒ x = ° = °104
+2
+52
+3. (a) Let angle be x and its supplementary
+= ° −180 x
+Then, x x= ° −2 180( )
+⇒ 3 360x = °
+⇒ x = °120
+4. (c) The least number of straight lines for
+a bounded plane figure is 3.
+5. (b) Given, angle = 3
+5
+of right angle
+= × ° = × ° = °3
+5
+90 3 18 54
+Supplement of 54° = ( )180 54°− °
+= An angle of measure 126°
+6. (c) We have, ∠ = ∠QAB a
+[vertically opposite angles]
+and ∠ = ∠QAB b
+[corresponding angles]
+⇒ ∠ = ∠ a b
+7. (c) Here, ∠ = ∠1 5
+[corresponding angles]
+∠ = ∠7 5 (vertical opposite)
+⇒ ∠ = ∠ 1 7 (angle)
+So, 5 20 2 10x x− ° = + °
+3 30x = ° ⇒ x = °10
+Hence,
+∠ = + ° = ° + °7 2 10 2 10 10x ( ) = °30
+8. (a) Complementary angle of 12°25′40′′
+= ° − ° ′ ′′90 12 25 40
+= ° ′ ′′ − ° ′ ′′89 59 60 12 25 40
+= − ° + ′− ′ + − ′′( ) ( ) ( )89 12 59 25 60 40
+= ° + ′+ ′′77 34 20 = ° ′ ′′77 34 20
+9. (c) Since, ∠ POR and ∠ QOR is a linear
+pair.
+∴ ∠ + ∠ = °POR ROQ 180
+⇒ a b+ = ° 180 ... (i)
+and a b– = °80 ... (ii)
+On solving Eqs. (i) and (ii), we get
+2 260 130a a= ° ⇒ = °
+and b = ° ° = °180 130 50–
+So, a = °130 , b = °50
+10. (c) Since, AOB is a straight line.
+∴ ∠ = ° AOB 180
+∠ + ∠ + ∠ = °AOC COF FOB 180
+[straight line]
+5 5 2 180y y y+ + = °
+[/c81∠ = ∠COF DOE , vertically
+opposite angles]
+⇒ 12 180y = °
+⇒
+y = °
+°
+= °180
+12
+15
+Hence, the value of y is 15°.
+11. (a) Given, ∠ = °LEB 35
+∠ = × ∠FEB LEB2 = × ° = °2 35 70
+⇒ ∠ = ∠ + ∠ = °AEB AEF BEF 180
+[straight line]
+⇒ ∠ = ° − ° = °AEF 180 70 110
+⇒ ∠ = ∠CFQ AEF = °110
+[corresponding angles]
+12. (c) Since, AB CD||
+∴ ∠ = ∠ = °ABC BCD 65
+[alternate angles]
+∠ = ° − ∠ECD BCE65
+= ° − ° = °65 35 30
+∠ + ∠ = °CEF ECD 180
+[Angles on the same side of
+transversal]
+⇒ ∠ = ° − ° = °CEF 180 30 150
+13. (c) Since, EC AB||
+∠ = ∠AOD ECO
+[/c81corresponding angles]
+⇒ ∠ = ° AOD 70
+So, ∠ = °− °BOD 180 70
+= °110 [linear point]
+Now, in ∆ BOD
+∠ + ∠ + ∠ = °OBD BOD ODB 180
+⇒ ∠ = ° − + °OBD 180 110 20( ) = °50
+244 CDS Pathfinder
+ANSWERS
+1 d 2 d 3 a 4 c 5 b 6 c 7 c 8 a 9 c 10 c
+11 a 12 c 13 c 14 a 15 a 16 d 17 c 18 c 19 c 20 a
+21 a 22 a 23 a 24 c 25 b 26 c 27 c 28 a 29 a 30 a
+31 a 32 c 33 d 34 b 35 c 36 b 37 d 38 a 39 b 40 b
+41 b 42 c 43 d 44 a 45 d
+b
+a
+A
+BS
+P
+R
+Q
+O QP
+R
+ba
+L
+35°
+P
+Q
+D
+B
+C
+A E
+F
+65°
+BA
+35°
+E F
+DC
+20° DC
+70°
+E A
+O
+B
+--- PDF PAGE 450 ---
+14. (a) Given, ∠ = ∠PMN BMN1
+2
+and ∠ = ∠PNM DNM1
+2
+As, ∠ + ∠ = °BMN DNM 180
+[angles on the same side of transversal]
+∴ In ∆ MPN , ∠ + ∠ = °PMN PNM 90
+⇒ ∠ = ° − ∠ + ∠MPN PMN PNM180 ( )
+[angle sum property]
+∴ ∠ MPN = ° − ° = °180 90 90
+15. (a) Draw a line n passing through O and
+parallel to l and m
+Since, l n|| , ∠ + ° = °1 100 180
+[Sum of the interior angles on the
+same side of the transversal]
+∠ = °1 80
+Since, n m|| , ∠ = °2 30 [alternate angles]
+Now, ∠ = ∠ + ∠AOB 1 2
+= ° + ° = °( )80 30 110
+But, ∠ = + ° = °AOB x ( ) 5 110
+x = − ° = °( )110 5 105
+16. (d) Here, ∠ = ∠BOD AOC
+∴ 2x y= [vertically opposite angles]
+Now, COD is a straight line.
+∠ = °COD 180
+⇒ ∠ + ∠ + ∠ = °COE EOB BOD 180
+⇒ 90 2 180°+ + = °x x
+⇒ 3 90x = ° ⇒ x = °30
+Hence, the value of x is 30°.
+17. (c) From figure, PA QC||
+Draw a line XY parallel to PA and QC.
+/c81 PA XY|| ,
+⇒ ∠ = ∠ = °ABY PAB 45
+[alternate angles]
+and /c81XY QC|| , ∠ = ∠ = °QCB CBY 30
+[alternate angles]
+⇒ ∠ = ∠ + ∠ABC ABY CBY
+⇒ ∠ = ° + ° = °ABC 45 30 75
+/c81 x = ° − ∠360 ABC = ° − °360 75
+∴ x = °285
+18. (c) /c81 AB CD|| , ∠ = ∠ = °ONP XMB 60
+[corresponding angles]
+∠ = ° − ∠OPN ONP90
+= ° − °90 60 ⇒ ∠ = °OPN 30
+But, ∠ = ∠ = °DPL NPO1
+2
+1
+2
+30
+⇒ ∠ = ° DPL 15 ⇒ x = °15
+19. (c) Since, AB CD|| and PQ is transversal
+∠ = ∠PEF EGH [corresponding angles]
+⇒ ∠ = °EGH 70 [/c81∠ = °PEF 70 ]
+Now, ∠ + ∠ = °EGH HGQ 180
+[linear pair]
+⇒ ∠ = °− ° = °HGQ 180 70 110
+Also, ∠ + ∠ = °DHQ GHQ 180
+[linear pair]
+∠ = °− ° = °GHQ 180 140 40
+∴ x y+ = ° + ° = °110 40 150
+20. (a) All the three statements are true.
+21. (a) Only statements I and II are true.
+22. (a) Draw FH AB CD|| ||
+(sum of interior angles)
+∴ ∠ + = °1 180p ...(i)
+∠ + ° − = °2 180 180 r ...(ii)
+(sum of interior angle)
+On adding Eqs. (i) and (ii), we get
+∠ + ∠ + + ° − = °1 2 180 360p r
+⇒ p q r+ − = ° 180 [/c81∠ + ∠ = °1 2 q ]
+23. (a) Given that, ∠ = ∠MON LON1
+3
+Let ∠ =LON x , then, ∠ =MON x
+3
+We know that,
+∠ + ∠ = °LON MON 180 [linear pair]
+⇒
+x x+ = °
+3
+180 ⇒ x = °× = °180 3
+4
+135
+Thus, ∠ = = ° = °MON x
+3
+135
+3
+45
+24. (c) Both the statements I and II are
+correct.
+25. (b) Since, AC BD||
+∴ ∠ = ° − ° = °DBA 180 130 50
+[interior angle]
+[ ]/c81BAC = °130
+DBG is straight line.
+∴ ∠ + ∠ + ∠ = °DBA ABF FBG 180
+[linear pairs]
+⇒ 50 60 180° + ∠ + ° = °ABF
+⇒ ∠ = ° ABF 70
+Since, AE BF||
+∴ x = ° − ∠180 ABF
+= ° − ° = °180 70 110
+26. (c) When two lines are parallel
+intersected by a transversal then
+corresponding as well as alternate
+interior angles are equal.
+Hence, the statement II and IV are
+correct.
+27. (c) We have, a d= , b e= and c f=
+[vertically opposite angles]
+and a b c d e f+ + = + + = ° 180
+II. a b c+ + = ° 180 ⇒ a c e+ + = ° 180
+III. b f c e+ = +
+IV. a b c d e f+ + = + +
+Hence, statements II, III and IV are true.
+28. (a) Draw a line MN parallel to AB and
+CD.
+⇒ ∠ = ° − ° = °AFN 180 98 82
+(sum of interior angles)
+∠ = ° − ° = °CFN 144 82 62
+and ∠ = ∠ = °ECD CFN 62
+[corresponding angles]
+29. (a) If two parallel lines are intersected by
+a transversal, then each pair of
+corresponding angles and of alternate
+angles are equal.
+Therefore, statement I is correct.
+245MATHEMATICS Lines and Angles
+P
+E
+F
+D
+B
+C
+A M
+N
+100°
+(x + 5)
+l
+m
+A
+B
+30°
+O 1
+2 n
+45°
+30°
+C
+A
+Bx
+P
+X Y
+Q
+1
+2
+F
+BA
+DC
+180– r r
+p
+E
+G
+H
+OL M
+x/3
+x
+N
+130°
+x
+A
+E F
+60°
+G
+C D
+B
+98°
+144°FM
+C
+E
+D
+BA
+N
+--- PDF PAGE 451 ---
+30. (a) Since, PQ || RS
+∴ ∠ = ∠PLM LMS = °55
+[alternate angle]
+Draw a line EF which is parallel to PQ.
+Then, ∠ = ∠ = °QLN LNE 47
+/c81 ∠ + ∠ = °ENL MNE 67
+⇒ 47 67° + ∠ = °MNE
+⇒ ∠ = ° − ° MNE 67 47
+⇒ ∠ = ° MNE 20
+Similarly, EF RS|| , then
+∠ = ∠ = °ENM NMS 20
+[alternate angle]
+31. (a) Given, ∠ = °BOC 130
+/c81 AOB is a straight line.
+/c81∠ + ∠ = °BOC AOC 180 [linear pair]
+⇒ 130 180° + ∠ = °AOC
+⇒ ∠ + ∠ = °FOC FOC 130
+⇒ ∠ = ° AOC 50
+Now, ∠ = °BOC 130
+⇒∠ + ∠ = °BOF FOC 130
+[/c81OF is bisector of ∠ BOC ]
+⇒ ∠ = ° FOC 65
+Now, ∠ = °AOC 50
+⇒ ∠ + ∠ = °AOE EOC 50
+⇒ ∠ + ∠ = °EOC EOC 50
+⇒ ∠ = ° EOC 25
+[/c81OE is bisector of ∠ AOC ]
+∴ ∠ = ∠ + ∠EOF EOC FOC
+= ° + ° = °25 65 90
+32. (c) Draw a line parallel to AB i.e.
+EF AB|| .
+∴ ∠ = ∠ =EOP OPB b [alternate angle]
+and ∠ = ∠ =EON ONM c
+[alternate angle]
+⇒ ∠ = + PON b c
+/c81 ∠ + =PON a 2π
+∴ a PON b c= − ∠ = − −2 2π π
+33. (d)
+PQ RS|| …(i)
+Since, ∠ = ∠PQR QRS = °+ ° = °30 25 55
+[alternate angle]
+PQ RS|| …(i)
+and ∠ + ∠ = °SRL RLM 180
+⇒ RS LM|| …(ii)
+From Eqs. (i) and (ii), we get
+PQ LM||
+So, the angle between the lines PQ and
+LM is 180°.
+34. (b) Given, AC AB CB2 = ×
+⇒ x x2 2 2= × − ( )
+⇒ x x2 4 2= −
+⇒ x x2 2 4 0+ − =
+⇒ x = − ± +
+×
+2 4 16
+2 1
+⇒ x = − ±1 5
+Now, BC = − − ±2 1 5( ) = −3 5
+(neglect 3 5+ /c813 5 2+ > )
+35. (c) We have, ∠ = ∠ = °DGE GCF 95
+[corresponding angles]
+Also, ∠ + ∠ = °GCF FCB 180
+[linear pair]
+⇒ 95 180°+ = °y
+⇒ y = °− ° = °180 95 85
+Again, ∠ + = °ACB y 180
+⇒ x = °− ° = °180 85 95
+Now, In ∆ ABC ∠ + ∠ + ∠ = °A B C 180
+⇒ 35 95 180°+ + ° = °z
+⇒ z + ° = °130 180
+⇒ z = °− ° = °180 130 50
+∴ x y z+ + = ° + ° + ° = °95 85 50 230
+36. (b) Supplement of z = °130
+∴ 1
+5
+th of 130 130
+5
+26° = ° = °
+37. (d) ∴ Required number of points
+= 4 1 2 3 4( , , , )P P P P
+38. (a) Given that, α
+β
+= 1
+5
+Let α = k and β = 5k
+Sum of two complementary angles
+= °90
+⇒ α β + = ° 90 ,
+α β= ° −90
+⇒ k k= ° −90 5
+⇒ k = °15
+∴ α = ° 15 and β = °75
+∴ Difference between angles
+= ° − ° = °75 15 60
+39. (b) Here, AB CDand are two lines.
+If two straight lines intersect, then
+vertically opposite angles are equal.
+40. (b) From the given figure,
+∠ + ∠ + ∠ = °LOQ QOP POM 180
+[straight line]
+∴ ( ) ( )x x° + ° + ° + ° − ° = °20 50 10 180
+⇒ 2 60 180x° + ° = °
+⇒ 2 120x° = °
+∴ x ° = °60
+41. (b) Case I When both pairs of arms are
+parallel same sense.
+Here, ∠ = ∠ABC DEF
+246 CDS Pathfinder
+55° 47°P
+R S
+Q
+E F
+N
+M
+L
+67°
+C
+F
+B
+A D
+E O
+A
+L M
+B
+a
+c
+b
+E FO
+N
+P
+55°
+30° 25°R S
+155°
+L M
+P Q
+A B C (2 – )xx
+2
+A B
+C
+21 cm
+5 cm 5 cm
+1 cm
+P3
+P1 P2
+1 cm
+P4
+3 cm
+5 cm
+5 cm
+3 cm
+3 cm
+21 cm
+DA
+C B
+D
+A
+F
+C
+E
+B G
+--- PDF PAGE 452 ---
+Case II When both pairs of arms are
+parallel in opposite sense.
+Here, ∠ = ∠ABC DEF
+Case III When one pair of arms is
+parallel in same direction and other pairs
+are parallel in opposite direction.
+Here, ∠ + ∠ = °ABC DEF 180
+So, the two angles are not equal but
+supplementary.
+42. (c) Let the angle be θ.
+∴ θ = ° 80
+Complement angle
+= ° = ° ° = °90 90 80 10– –θ
+[/c81sum of two complement angles is
+90°]
+= ×
+°
+=10
+180 18
+π π radian.
+43. (d)
+Given, ∠ = ∠ = °AOB COD 100 ,
+∠ = °BOC 82
+and ∠ = °AOD 78
+If, AOC is a straight line, then
+∠ + ∠ = °AOB BOC 180
+⇒ 100 82 180°+ ° = °
+⇒ 182 180° ≠ °
+If, BOD is a straight line, then
+∠ + ∠ = °BOA AOD 180
+⇒ 100 78 180° + ° = °
+⇒ 178 180° ≠ °
+If, ∠ BOC and ∠ AOD
+are supplementary angles, then
+∠ + ∠ = °BOC AOD 180
+⇒ 82 78 180°+ ° = °
+⇒ 160 180° ≠ °
+Hence, statements I and II are incorrect.
+44. (a) If, line P intersect four parallel lines
+l, m, n and o, then 16 angles will be
+formed.
+As these lines are parallel, hence distinct
+angle will be ∠ 1 and ∠ 2.
+45. (d) In the given figure, lines p and q are
+parallel.
+∴
+x x= ° +40
+3
+[alternate angles]
+⇒ 2
+3
+40x = ° ⇒ x = °60
+y x= /3 [alternate angle]
+y = ° = °60
+3
+20 , z x+ ° + = °40
+3
+180
+⇒ z + ° = ° − °20 180 40
+⇒ z = °120
+247MATHEMATICS Lines and Angles
+D
+A
+F
+C
+E
+B
+D
+A
+F
+C
+E
+B
+82° 100°
+78°O
+D
+C
+A
+B
+1 2
+P
+l
+m
+n
+o
+A p
+80°
+100°
+40°z
+yx q
+C B
+x/3
+--- PDF PAGE 453 ---
+TRIANGLE
+A plane (closed) figure bounded by three line segments is cal led a triangle. It is
+denoted by ∆.
+∆ ABC has
+• three vertices, namely A B, and C. • three sides, namely AB BC CA, and .
+• three angles, namely ∠ ∠A B, and ∠ C.
+• Sum of three angles of a triangle is 180°. i.e., ∠ + ∠ + ∠ = °A B C 180
+• Area of a triangle = ×1
+2
+base × height = × ×1
+2
+BC AD
+Classification of Triangle
+1. On the Basis of Angles
+(i) Right Angled Triangle A triangle in which one of the angle measures 90°
+is called a right angled triangle. The side opposite to the ri ght angle is called
+its hypotenuse and the remaining two sides are called as perp endicular and
+base depending upon conditions. Here, ∆ ABC is a right angled triangle in
+which ∠ = °B 90 and AC is hypotenuse.
+(ii) Acute Angled Triangle A triangle in which every angle measure more than
+0° but less than 90° is called an acute angled triangle.
+Here, ∆ ABC is an acute angled triangle.
+(iii) Obtuse Angled Triangle A triangle in which one of the angle measures
+more than 90° but less than 180° is called an obtuse angled tri angle.
+Here, ∆ ABC is an obtuse angled triangle and ∠ ABC is the obtuse angle.
+248 CDS Pathfinder
+A
+B C
+D
+23
+TRIANGLES
+Generally (8-10) questions have been asked from this chapter . Generally questions are asked from
+the topic of pythagoras theorem, similarity of triangles and mid-point theorem.
+A
+B C
+Hypotenuse
+Perpendicular θ
+CB
+A
+Base
+B
+C
+A
+--- PDF PAGE 454 ---
+249MATHEMATICS T riangles
+2. On the Basis of Sides
+(i) Equilateral Triangle A triangle having
+all sides equal is called an equilateral
+triangle. Here ∆ ABC, is an equilateral
+triangle in which AB BC AC= = .
+All angles are equal and are of measure
+60°.
+(ii) Isosceles Triangle A triangle in which two sides
+are equal, is called an isosceles triangle. Here, ∆ ABC
+is an isosceles triangle as AB AC= .
+• Angle opposite to equal sides are equal.
+i.e. ∠ = ∠B C
+(iii) Scalene Triangle A triangle in which all the sides
+are of different lengths is called a scalene triangle.
+∆ ABC is a scalene triangle as AB BC AC≠ ≠ .
+Note The sum of the lengths of three sides of a triangle is called
+its perimeter.
+So, perimeter of ∆ ABC = + +AB BC AC
+Some Term Related to a Triangle
+Altitudes and Orthocentre The
+altitude of a triangle is a line segment
+perpendicular drawn from vertex to
+the side opposite to it. The side on
+which the perpendicular is being drawn
+is called its base.
+Here, In ∆ ABC, AD BE CF, and are
+altitudes drawn on BC, AC and AB, respectively.
+• Altitudes of a triangle are concurrent.
+• The point of intersection of all the three altitudes of a
+triangle is called its orthocentre.
+Medians and Centroid A line
+segment joining the mid-point of a side
+to the opposite vertex is called median.
+Here, In ∆ ABC, AD BE CF, and are
+medians.
+• The medians of a triangle are
+concurrent.
+• The point of intersection of all the three medians of a
+triangle is called its centroid. It is denoted by G.
+• Centroid divides the median in the ratio 2 : 1.
+• A median bisects the area of the triangle i.e.
+Ar Ar( ) ( )∆ ∆ABD ADC=
+= 1
+2
+Ar( )∆ ABC , etc.
+Incentre and Angle Bisector The
+point of intersection of all the three
+angle bisectors of a triangle is called its
+incentre. It is denoted by I.
+• The circle with centre I and touches all
+the sides is called incircle and radius of
+this circle is called inradius denoted by ‘ r’.
+• Inradius = ×1
+3
+Height = Side
+2 3
+,
+ID → Inradius, AD → Height
+Perpendicular Bisector and Circumcentre The point
+of intersection of the perpendicular bisectors of the sides
+of a triangle is called its
+circumcentre. It is denoted by C.
+The circle with centre C and
+passing through vertices
+A B C, and is called circumcircle.
+Radius of circumcircle is called
+circumradius denoted by R .
+Circumradius ( CO)
+= ×2
+3
+Height
+= Side
+3
+EXAMPLE 1. In the diagram given below what is the
+sum of all the angles ∠ ∠ ∠ ∠ ∠A B C D E, , , , and ∠ F?
+a. 120° b. 180°
+c. 290° d. 360°
+Sol. d. Since, sum of the angles of a triangle is 180°.
+In ∆ AEC A C E, ∠ + ∠ + ∠ = ° 180 …(i)
+and In ∆ BDF B D F, ∠ + ∠ + ∠ = ° 180 …(ii)
+On adding the Eqs. (i) and (ii), we get
+∠ + ∠ + ∠ + ∠ + ∠ + ∠ = ° + °A B C D E F 180 180 = °360
+EXAMPLE 2. ABC is an isosceles triangle in which
+AB AC= , CH CB= and HK is parallel to BC. If the
+exterior ∠ = °CAX 137 , then what is the measure of
+∠ HCK?
+a. 68 1
+2
+°
+b. 43°
+c. 25 1
+2
+°
+d. 137°
+A
+B C
+EF
+A
+D
+G
+CB
+A
+B C
+B C
+A
+F E
+H
+D
+A
+E C
+D
+BF
+A
+B C
+r
+r
+x
+D
+A
+B C
+A
+B D
+C
+O
+R
+--- PDF PAGE 455 ---
+250 CDS Pathfinder
+Sol. c. /c81∠ = °CAX 137
+∴ ∠ = °ABC 1
+2 137( )
+= °68 1
+2
+∴ Again, BC CH= and
+∠ = °ABC 68 1
+2
+Therefore,
+∠ = °CHB 68 1
+2 , Therefore, ∠ = °HCB 43
+Hence,
+∠ = ° − °HCK 68 1
+2 43
+= °25 1
+2
+Some Important Results of a Triangle
+• If two angles of a triangle are equal, then the sides
+opposite to them are also equal.
+• In a triangle, the side opposite to a greater angle is the
+longest side.
+• The sum of all the three interior angles of a triangle is
+180°.
+• If a side of a triangle is produced, then the exterior
+angle so formed is equal to the sum of the two interior
+opposite angles.
+• An exterior angle of a triangle is greater than either of
+the interior opposite angles.
+• A triangle must have atleast two acute angles.
+• If a perpendicular is drawn from the vertex of a
+right angled triangle to the hypotenuse, then the
+triangles on both sides of the perpendicular are
+similar to the original triangle and also to each other.
+• In a right angle ∆ ABC, ∠ = °B 90 and AC is hypotenuse.
+The perpendicular BD is dropped on hypotenuse AC
+from right angle vertex B, then
+(i) BD AB BC
+AC
+= ×
+(ii) AD AB
+AC
+=
+2
+(iii) CD BC
+AC
+=
+2
+(iv) 1 1 1
+2 2 2BD AB BC
+= +
+• The area of the equilateral triangle described on the side
+of a square is half the area of the equilateral triangle
+described on its diagonal.
+• In ∆ ABC, if ∠ > °B 90 and AD is perpendicular dropped
+on BC, then AC AB BC BC BD2 2 2 2= + + ⋅
+• In ∆ ABC, if ∠ < °B 90 and AD BC⊥ , then
+AC AB BC BC BD2 2 2 2= + − ⋅
+• In any triangle, the sum of the
+square of any two sides is equal
+to twice the square of half of the
+third side together with twice
+the square of the median which
+bisect the third side.
+• Here, AD is median, so
+AB AC AD BC2 2 2
+2
+2 2 1
+2
++ = + 
+ 
+
+• In a ∆ ABC, three times the sum of the squares of the
+sides of a triangle is equal to four times the sum of the
+squares of the medians of the triangle.
+So, in triangle, if AD BE FC, , are the medians, then
+• 3 2 2 2( )AB BC AC+ + = + + 4 2 2 2( )AD BE CF
+• In an equilateral ∆ ABC, the side BC is trisected at D.
+Then, 9 7 2 2AD AC=
+• When the bisector of one internal base angle and the
+bisector of external angle meet at a point then the
+formed angle is equal to one half of the vertical angle.
+• Here, ∠ = ∠BEC BAC1
+2
+A
+D CB
+A
+D CB
+A
+ED CB
+B C
+A
+D
+F E
+A
+B C
+X
+KH
+A
+B C
+D
+C D
+EA
+B
+--- PDF PAGE 456 ---
+• The side BC of ∆ ABC is produced to D. The bisector
+of ∠ A meets BC in L . Then
+∠ + ∠ = ∠ABC ACD ALC 2 .
+• In a ∆ ABC the bisector of ∠ B and ∠ C intersect each
+other at a point O.
+• then, ∠ = ° + ∠BOC A90 1
+2
+• In a ∆ ABC, the side AB and AC are produced to P and
+Q , respectively. The bisectors of ∠ PBC and ∠ QCB
+intersect at a point O.
+Then, ∠ = ° − ∠BOC A90 1
+2
+• In ∆ ABC B C, ∠ > ∠ . If AN is the bisector of ∠ BAC
+and AM BC⊥ , then
+∠ = ∠ − ∠MAN B C1
+2
+( )
+• The bisectors of the base angles of a triangle can never
+enclose a right angle.
+• A triangle is an isosceles if and only if any two altitudes
+are equal.
+• If the three sides of a triangle be
+produced in order, then the sum of all
+the exterior angles so formed is 360°.
+• So, ∠ + ∠ + ∠ = °DAB EBC ACF 360
+• Sum of any two sides of a triangle is greater than its
+third side.
+• Here, in ∆ ABC, AB AC BC+ >
+• similarly, AB BC AC+ > , BC AC AB+ >
+• The difference between any two sides of a triangle is
+less than its third side.
+• Here, in ∆ ABC, AC AB BC− <
+• Similarly, BC AC AB− < , BC AB AC− <
+• If the bisector of the vertical angle of a triangle bisects
+the base, then that triangle is an isosceles.
+• If the altitude from one vertex of a triangle bisects the
+opposite side, then the triangle is an isosceles.
+• The perpendiculars drawn from the vertices of equal
+angles of an isosceles triangle to the opposite sides are
+equal.
+• Medians of equilateral triangle are equal.
+• If D is the mid-point of the hypotenuse AC of a right
+angled ∆ ABC. Then, BD AC= 1
+2
+• The sum of any two sides of a triangle is greater than
+twice the median drawn to the third side.
+• Perimeter of a triangle is greater than the sum of its
+three medians.
+• So, AB BC AC AD BE CF+ + > + + .
+251MATHEMATICS T riangles
+A
+CB
+P QO
+A
+B CNM
+O
+A
+B C
+C DL
+A
+B
+D
+C
+A
+B
+D
+B
+A
+C
+A
+B
+D
+C
+B CD
+A
+F E
+A
+D
+E
+B FC
+--- PDF PAGE 457 ---
+EXAMPLE 3. In the given figure, I is the incentre of
+∆ ABC. What is the measure of angle A .
+a. 54° b. 18° c. 36° d. None of these
+Sol. c. Here, I is the incentre of the ∆ ABC.
+∴ BI and CI are the bisectors of ∠ B and ∠ C, then
+we know that, ∠ = ° + ∠BIC A 90 1
+2
+⇒
+108 90 1
+2° = ° + ∠ A
+⇒
+1
+2 108 90 18∠ = ° − ° = °A
+∴ ∠ = ° A 36
+EXAMPLE 4. In a triangle ABC, ∠ = °BAC 90 and AD
+is perpendicular to BC. If AD = 6 cm and BD = 4 cm,
+then the length of BC is
+a. 8 cm b. 10 cm c. 9 cm d. 13 cm
+Sol. d. In ∆ ABC, ∠ = °BAC 90
+∴ AB AD BD= + 2 2 [By pythagoras theorem]
+= + 36 16 = 52
+We know that, in a right angled
+triangle the perpendicular is drawn on
+hypotenuse from right angle vertex,
+then
+BD AB
+BC=
+2
+AB BD BC2 = ×
+⇒ ( ) 52 42 = ×BC
+⇒ BC = 52
+4 = 13 cm
+Congruent Figures
+The geometrical figures having the same shape and size
+are known as congruent figures.
+e.g. Two circles of the same radii and two squares of the
+same sides are congruent.
+Congruent Triangles
+Two triangles are said to be congruent, if both are
+exactly of same size i.e. all angles and sides are equal to
+corresponding angles and sides of other.
+• Every triangle is congruent to itself ∆ ∆ABC ABC~=
+• If ∆ ∆ABC DEF~= , then ∆ ∆DEF ABC~=
+• If ∆ ∆ABC DEF~= and
+∆ ∆DEF PQR~= , then ∆ ∆ABC PQR~=
+In congruent triangles, corresponding parts are equal
+and we write in short ‘CPCT’, i.e. corresponding part of
+congruent triangles.
+Criteria for Congruence of Triangles
+Theorem 1 Two triangles are congruent if two sides
+and the included angle of one triangle are equal to the
+corresponding sides and the included angle of other
+triangle. (SAS criteria)
+Theorem 2 Two triangles are congruent if two angles
+and the included side of one triangle are equal to the
+corresponding two angles and the included side of the
+other triangles. (ASA criteria)
+Theorem 3 Two triangles are congruent if three sides
+of one triangle are equal to the corresponding three
+sides of the other triangle (SSS).
+Theorem 4 Two triangles are congruent if the
+hypotenuse and other side of one triangle are equal to
+the hypotenuse and the corresponding side of the other
+triangle (RHS).
+Theorem 5 Two triangles are congruent if two angles
+and a side other than the included side of one triangle
+are equal to the corresponding two angles and a side
+other than the included side of other triangle.
+(AAS Criteria)
+EXAMPLE 5. In a ∆ ABC, the altitudes BD and CE are
+equal and ∠ = °A 36 . What is the value of the ∠ B?
+a. 72° b. 84° c. 18° d. 36°
+Sol. a. For the ∆ BDC and ∆ BEC,
+BD EC= , BC BC= and ∠ = ∠ = °BEC BDC 90
+Thus, ∆ ∆BEC BDC~= [by RHS rule]
+∴ ∠ = ∠ = ° − ° = °B C 180 36
+2 72 each
+EXAMPLE 6. In the given figure, D is the midpoint of
+BC DE AB, ⊥ and DF AC⊥ such that DE DF= , then
+which of the following is correct?
+a. AB AC= b. AC BC=
+c. AB BC= d. None of these
+252 CDS Pathfinder
+B C
+A
+E D
+C
+A B
+D
+6 4
+A
+B C
+E F
+D
+A
+B C
+I
+108°
+--- PDF PAGE 458 ---
+253MATHEMATICS T riangles
+Sol. a. In right angled ∆ BED and right angled ∆ CFD
+DE DF= (given)
+hypotenuse BD = hypotenuse CD
+[/c81D is the mid-point of BC ]
+∴∆ ∆BED CFD≅ [by RHS congruency]
+⇒ ∠ = ∠B C ⇒ AC AB= [sides opposite to equal angles]
+Similar Figures
+The geometrical figures having the same shape, but differen t
+sizes are known as similar figures.
+• The congruent figures are always similar, but two similar
+figures need not be congruent.
+e.g. Any two circles are similar. Any two rectangles are
+similar.
+Similar Triangles
+Two triangles are said to be similar to each other, if
+(i) their corresponding sides are proportional.
+(ii) their corresponding angles are equal.
+Here, ∆ ABC and ∆ PQR are similar triangles.
+∴ ∠ = ∠ ∠ = ∠ ∠ = ∠A P B Q C R, ,
+and
+AB
+PQ
+BC
+QR
+AC
+PR
+= =
+Then, ∆ ∆ABC PQR~
+where, symbol ~ is read as, ‘is similar to’.
+Some Results on Similar Triangles
+Theorem 1 If a line is drawn parallel to one side of a
+triangle to intersect the other two sides in distinct point,
+then it divides these sides in the same ratio. It is also calle d
+basic proportionality theorem.
+Here, DE BC| | , then
+AD
+DB
+AE
+EC
+=
+or AD
+AB
+AE
+AC
+=
+or AB
+DB
+AC
+EC
+=
+Theorem 2 The internal bisector of an
+angle of a triangle divides the opposite sides
+internally in the ratio of the sides containing
+the angle.
+Here, AD is internal bisector of ∠ A, then
+AB
+AC
+BD
+DC
+=
+Theorem 3 The line joining the
+mid-points of any two sides of a
+triangle is parallel to the third side
+and is half of the third side.
+Here, P and Q are mid-point of AB
+and AC. So,
+PQ BC= 1
+2
+.
+Theorem 4 If two triangles are equiangular, then
+the ratio of their corresponding sides is the same as
+the ratio of the corresponding altitudes.
+Here, ∆ ∆ABC PQR~ and AD and PS are altitude
+on BC and QR, respectively, then
+BC
+QR
+AD
+PS
+=
+Theorem 5 If two triangles are equiangular, then
+the ratio of the corresponding sides is the same as
+the ratio of the corresponding angle bisector
+segments.
+Here, ∆ ABC and ∆ RST are equiangular/similar and
+AD RP, are the angle bisectors of ∠ A and ∠ R, then
+BC
+ST
+AD
+RP
+=
+Theorem 6 If two triangles are equiangular, then
+the ratio of the corresponding sides is the same as
+the ratio of the corresponding medians.
+Here, ∆ ABC and ∆ PQR are equiangular and AD PS,
+are the medians, then
+BC
+QR
+AD
+PS
+=
+Note: If two triangles are similar, then ratio of their
+corresponding sides is same as ratio of their perimeters.
+A
+B C
+P
+Q RSD
+A
+B C
+R
+S TPD
+A
+B C
+QP
+A
+B CD
+A
+B C
+ED
+A P
+B QC R
+A
+B C
+P
+Q RSD
+--- PDF PAGE 459 ---
+254 CDS Pathfinder
+Criteria for Similarity of Two Triangles
+1. AAA similarity If the corresponding angles of two
+triangles are equal then their corresponding sides are
+proportional and hence the two triangles are similar.
+Corollary AA similarity If two angles of one
+triangle are equal to the corresponding two angles of
+another triangle, then the two triangles are similar.
+2. SSS similarity If the corresponding sides of two
+triangles are proportional, then their corresponding
+angles are equal, and hence the two triangles are
+similar.
+3. SAS similarity If one angle of a triangle is equal to
+the corresponding angle of the other triangle and the
+sides including these angles are proportional, then
+the two triangles are similar.
+4. RHS similarity If hypotenuse and one side of a right
+triangle are proportional to the hypotenuse and
+corresponding side of other right triangle then the
+two triangles are similar.
+EXAMPLE 7. If AB = 4.7, BC = 8.9, CA = 11.5, then EA is
+a. 6.07 b. 3.97
+c. 2.37 d. None of these
+Sol. b. Since, BE is the bisector of ∠ ABC.
+∴ AB
+BC
+AE
+EC= ⇒ 4 7
+8 9 115
+.
+. . = −
+AE
+AE [ ]/c81EC AC AE= −
+⇒ AE = 397 .
+EXAMPLE 8. In the given triangle, AB is parallel to
+PQ. AP c= , PC b= , PQ a AB= =, x. What is the value of
+x?
+s
+a. a ab
+c+ b. a bc
+a+
+c. b ca
+b+ d. a ac
+b+
+Sol. d. In ∆ ABC and ∆ PQC.
+AB PQ||
+∴ ∆ ∆ ABC PQC~
+∴ PC
+AC
+PQ
+AB= ⇒ b
+c b
+a
++ = x
+∴ x = + = +a c b
+b
+ac
+b a( )
+Areas of Similar Triangles
+Theorem 1 The ratio of areas of two similar triangles
+is equal to the square of the ratio of their corresponding
+sides.
+Here, ∆ ∆ABC PQR~
+Area
+Area
+( )
+( )
+∆
+∆
+ABC
+PQR
+AB
+PQ
+BC
+QR
+AC
+PR
+= = =
+2
+2
+2
+2
+2
+2
+Theorem 2 The areas of two similar triangles is equal
+to the ratio of the squares of corresponding altitudes.
+Here, ∆ ∆ABC PQR~
+Then ,
+Area
+Area
+( )
+( )
+∆
+∆
+ABC
+PQR
+AD
+PS
+=
+2
+2
+Theorem 3 The areas of two similar triangles is equal
+to the ratio of the squares of the corresponding
+medians.
+Here, ∆ ∆ABC PQR~ ,
+then
+Area
+Area
+(
+(
+∆
+∆
+ABC
+PQR
+AD
+PS
+)
+)
+=
+2
+2
+B Q
+CP
+a
+A
+x
+b
+c
+A
+B C
+P
+Q R
+A
+B C
+P
+Q RSD
+A
+4.7
+8.9
+11.5E
+C
+B
+B Q
+CPA b
+A
+B C
+P
+Q RSD
+--- PDF PAGE 460 ---
+255MATHEMATICS T riangles
+Theorem 4 The areas of two similar triangles is equal
+to the ratio of squares of the corresponding angle
+bisector segments.
+Here, ∆ ∆ABC PQR~
+So, here
+Area
+Area
+(
+(
+∆
+∆
+ABC
+PQR
+AX
+PY
+)
+)
+=
+2
+2
+Theorem 5 If the areas of two similar triangles are
+equal, then the triangles are congruent.
+or
+Equal and similar triangles are congruent.
+Theorem 6 The line segments is joining the mid-points
+of the sides of a triangle form four triangles, each of
+which is similar to the original triangle.
+Here, D E F, and are mid-point of BC AC, and AB. Then,
+∆ ∆AFE FBD, , ∆ EDC and ∆ DEF is similar to ∆ ABC.
+Here, also
+Area
+Area
+(
+(
+∆
+∆
+DEF
+ABC
+DE
+AB
+)
+)
+=
+2
+2 =
+
+ 
+
+=
+1
+2 1
+4
+2
+2
+AB
+AB
+So, area ( )∆ DEF : area ( ) :∆ ABC = 1 4
+EXAMPLE 9. In the figure given below, BC is parallel
+to DE and DE BC: : = 3 5 . What is the ratio of area of
+the ∆ ABC to that of ∆ ADE?
+a. 3 : 1 b. 5 : 3 c. 9 : 2 d. 25 : 9
+Sol. d. /c81 Given, DE BC: : = 3 5
+Since, DE BC|| ⇒ ∠ = ∠ADE ABC
+and ∠ = ∠AED ACB
+∴ ∆ ∆ ABC ADE~ [by AA similarity]
+∴ Area of
+Area of
+∆
+∆
+ABC
+ADE
+BC
+DE= 
+ 
+ =
+2 25
+9 or, 25 : 9
+EXAMPLE 10. In a given figure, QR is parallel to AB
+and DR is parallel to QB. What is the number of distinct
+pairs of similar triangles?
+s
+a. 1 b. 2 c. 3 d. 4
+Sol. c. Since, QR is parallel to AB.
+∴ ∆ ∆ PQR PAB~
+Also, DR is parallel to QB., ∆ ∆PQB PDR~
+Again, DR QB|| and QR AB|| ,
+∴ ∆ ∆ DQR QAB~
+EXAMPLE 11. In a triangle, a line XY is drawn parallel
+to BC meeting AB in X and AC in Y. The area of the
+∆ ABC is 2 times the area of the ∆ AXY. In what ratio X
+divides AB?
+a. 1 2 : b. 2 1 : c. ( ) :2 1 1− d. 1 2 1: ( ) −
+Sol. d. /c81 Area
+Area
+( )
+)
+∆
+∆
+ABC
+AXY
+AB
+AX( =
+2
+2
+⇒
+2 2
+2
+Area
+Area
+(
+(
+∆
+∆
+AXY
+AXY
+AB
+AX
+)
+) = ⇒
+2
+1
+2
+2= AB
+AX ,
+AB
+AX = 2
+⇒
+AB AX= 2 ⇒ AX BX AX+ = 2
+⇒ BX A X= − ( ) 2 1
+∴ AX
+BX = −
+1
+2 1
+So, X divides AB in 1 : ( ) 2 1− .
+PYTHAGORAS THEOREM
+In a right angled triangle, the square of the hypotenuse is
+equal to the sum of the square of the other two sides.
+i.e. In ∆ ABC , if ∠ = °B 90 , then AB BC AC2 2 2+ =
+A B
+RQ
+D
+P
+A
+D E
+B C
+A
+B C
+EF
+D
+A
+B C
+P
+Q RYX
+A
+B C
+YX
+A
+B C
+--- PDF PAGE 461 ---
+Converse of Pythagoras theorem
+In a triangle, if the square of one side is equal to the
+sum of square of the other two sides then angle
+opposite to the first side is a right angle i.e. In ∆ ABC, if
+AC AB BC2 2 2= + , then ∠ = °B 90 .
+EXAMPLE 12. Two poles of heights 6m and 11m
+stand vertically on a plane ground at a distance of
+12m from each other. The distance between their
+tops is
+a. 9 m b. 10 m
+c. 13 m d. 15 m
+Sol. c. Let AB and CD be two poles such that AB = 11m,
+CD = 6 m and AC = 12 m.
+Draw DL AB⊥
+Then, BL AB AL AB CD= − = − = − = ( )11 6 5 m m
+and DL AC= = 12m
+In right angled ∆ BDL,
+BD DL BL2 2 2= + = + = 5 12 1692 2
+⇒ BD = =169 13m
+256 CDS Pathfinder
+D L
+C A 12 m
+11 m
+B
+6 m
+1. If the bisector of an angle of a triangle bisects
+the opposite side, then the triangle is
+(a) equilateral (b) isosceles
+(c) scalene (d) right angled triangle
+2. The line segments joining the mid-points of the
+sides of a triangle form four triangles each of
+which is
+(a) similar to the original triangle
+(b) congruent to the original triangle
+(c) an equilateral triangle (d) an isosceles triangle
+3. In a ∆ ABC BD, and CE are perpendicular on AC
+and AB, respectively. If BD CE= , then the
+∆ ABC is
+(a) equilateral (b) isosceles (c) right angled (d) scalene
+4. If the length of hypotenuse of a right angled
+triangle is 5 cm and its area is 6 cm
+2, then the
+length of the remaining sides are
+(a) 1 cm and 3 cm (b) 3 cm and 2 cm
+(c) 3 cm and 4 cm (d) 4 cm and 2 cm
+5. ∆ ABC is such that AB = 3 cm, BC = 2 cm and
+AC = 2 5 .cm. ∆ DEF is similar to ∆ ABC. If
+EF = 4 cm, then the perimeter of ∆ DEF is
+(a) 5 cm (b) 7.5 cm (c) 15 cm (d) 18 cm
+6. A soldier goes to a warfield and runs in the
+following manner. From the starting point, he
+goes West 25 m, then due North 60 m, then due
+East 80 m, and finally due South 12 cm. The
+distance between the starting point and the
+finishing point is
+(a) 177 m (b) 103 m (c) 83 m (d) 73 m
+7. Let ABC be an isosceles triangle in which AB AC=
+and BD AC⊥ . Then, BD CD
+2 2− is equal to
+(a) 2DC AD⋅ (b) 2 AD BC⋅ (c) 3DC AD⋅ (d) 1
+2
+AD DC⋅
+8. D and E are the points on the sides AB and
+AC respectively of a ∆ ABC and AD = 8 cm,
+DB = 12 cm, AE = 6 cm and EC = 9 cm, then BC is
+equal to
+(a)
+2
+5
+DE (b) 5
+2
+DE (c) 3
+2
+DE (d) 2
+3
+DE
+9. A vertical stick 15m long casts a shadow 12m
+long on the ground. At the same time, a tower
+casts a shadow 50m long on the ground. The
+height of the tower is
+(a) 60 m (b) 62 m (c) 62.5 m (d) 63 m
+10. The areas of two similar triangles are 81 cm
+2
+and 49 2cm , respectively. The ratio of their
+corresponding heights is
+(a) 9 : 7 (b) 7 : 9 (c) 6 : 5 (d) 81 : 49
+11. If D and E are points on the sides AB and AC,
+respectively of a ∆ ABC such that DE BC| | . If
+AD = x, DB = −x 2, AE = +x 2 and EC = −x 1.
+The value of x is
+(a) 2.5 (b) 2 (c) 3 (d) 4
+PRACTICE EXERCISE
+D
+A
+B C
+--- PDF PAGE 462 ---
+12. In the adjoining figure, ABCD is
+a trapezium in which AB CD| |
+and its diagonals intersect at O.
+If AO OC= − = −( ), ( )3 1 5 3x x ,
+BO = +( )2 1x and OD = (6x − 5),
+then x is equal to
+(a) 1 (b) 2 (c) 3 (d) 4
+13. In the adjoining figure, AE is the bisector of
+exterior ∠ CAD meeting BC produced in E. If
+AB = 10 cm, AC = 6 cm and BC = 12 cm, then CE
+is equal to
+(a) 6 cm (b) 12 cm (c) 18 cm (d) 20 cm
+14. If D E, and F are respectively the mid-points of
+sides BC AC, and AB of a ∆ ABC. If EF = 3 cm,
+FD = 4 cm and AB = 10 cm, then DE BC, and CA,
+respectively will be equal to
+(a) 6, 8 and 20 cm (b)
+10
+3
+9 ,and 12 cm
+(c) 4, 6 and 8 cm (d) 5, 6 and 8 cm
+15. In ∆ PQR Q a, ∠ = 3 , ∠ = ∠ =P a R b, and
+3 5 30b a− = , then the triangle is
+(a) scalene (b) isosceles
+(c) equilateral (d) right angled
+16. In ∆ ABC show in the figure
+∠ = °A 90 . Let D be a point on
+BC such that BD DC: : = 1 3 . If
+DM and DL, respectively are
+perpendicular on AB and AC,
+then DM and LC are in the
+ratio of
+(a) 1 : 3 (b) 1 : 2 (c) 1 : 1 (d) 4 : 1
+17. In a right angled ∆ ABC, right angled at B, if P
+and Q are points on the sides AB and AC
+respectively, then
+(a) AQ CP AC PQ2 2 2 2 2+ = + ( )
+(b) 2 2 2 2 2( )AQ CP AC PQ+ = +
+(c) AQ CP AC PQ2 2 2 2+ = +
+(d)
+AQ CP AC PQ+ = + 1
+2
+( )
+18. In ∆ ABC C, ∠ = ° 90 and CD AB⊥ , also ∠ = °A 65 ,
+then ∠ CBA is equal to
+(a) 25° (b) 35° (c) 65° (d) 40°
+19. The angles of a triangle are in the ratio 2 : 3 : 4.
+The angles of triangle are, respectively
+(a) 30°, 60°, 90° (b) 40°, 60°, 80°
+(c) 60°, 40°, 80° (d) 20°, 60°, 80°
+20. In figure, D and E are points on sides AB AC, of
+∆ ABC such that DE BC| | . If ∠ = °B 30 and
+∠ = °A 40 , then x y, and z are, respectively
+(a) 30°, 110°, 110° (b) 30°, 105°, 105°
+(c) 30°, 85°, 85° (d) 30°, 95°, 95°
+21. In figure, AB EF, and CD are parallel lines. Given
+that GE = 5 cm, GC = 10 cm and DC = 18 cm, then
+EF is equal to
+(a) 11 cm (b) 5 cm (c) 6 cm (d) 9 cm
+22. In the given figure, PQ PR> . QS and RS are the
+bisectors of ∠ Q and ∠ R respectively, then which
+of the following is correct?
+(a) SQ SR< (b) SQ SR=
+(c) SQ SR> (d) None of these
+23. In a ∆ ABC, AB AC= and 60 90° < < °A . If AB c= ,
+AC b= and BC a= , then which of the following is
+correct?
+(a) b a b< < 2 (b) c a c/ 3 3< <
+(c)
+b a b< < 3 (d) c a c< < 2
+257MATHEMATICS T riangles
+A
+D
+B C E
+A
+CB
+P
+Q
+65°
+DA B
+C
+D E
+A
+CB
+30°
+x°
+40°
+z°
+y°
+A
+B CF
+E G
+D
+O
+BA
+D C
+P
+RQ
+S
+D
+B
+CA
+M
+L
+--- PDF PAGE 463 ---
+258 CDS Pathfinder
+24. In ∆ ABC AD BC, ⊥ , then
+(a) AB BD AC CD2 2 2 2− = − (b) AB BD AC CD2 2 2 2+ = −
+(c) AB BD AC CD2 2 2 2+ = + (d) AB AC BD DC2 2 2 2+ = +
+25. ∆ ABC is a right angled at C and P is the length
+of the perpendicular from C to AB. If BC a= ,
+AC b= , AB c= , then
+(a) a
+b
+p
+c
+= (b) pc ab= (c) 1 1 1
+a b ab
++ = (d) None of these
+26. ABC is a triangle and the perpendicular drawn
+from A meets BC in D. If AD BD DC
+2 = ⋅ , then
+which one of the following is correct?
+(a) ABC must be an obtuse angled triangle
+(b) ABC must be an acute angled triangle
+(c) Either ∠ ≥ °B 45 or ∠ ≥ °C 45 (d) BC AB AC2 2 2= +
+27. If ∆ is the area of a right angled triangle and b is
+one of the sides containing the right angle, then
+what is the length of the altitude on the hypotenuse?
+(a)
+2
+44 2
+∆
+∆
+b
+b +
+(b) 2
+4
+2
+4 2
+∆
+∆
+b
+b +
+(c) 2
+4
+2
+4 2
+∆
+∆
+b
+b +
+(d) 2 2 2
+4 2
+∆
+∆
+b
+b +
+28. In figure, AB CD| | . If x = 4
+3
+y
+and
+y z= 3
+8
+, then the value of
+x is
+(a) 48° (b) 96° (c) 36° (d) None of these
+29. In the given figure, AB CD| | , then the values of
+x, y and z are, respectively
+(a) 75°, 35°, 80° (b) 70°, 35°, 60°
+(c) 35°, 70°, 75° (d) 70°, 35°, 80°
+30. In the given figure, AB CD| | , and EF GH| | . The
+values of x, ,y z and t are respectively
+(a) 60°, 75°, 75°, 60° (b) 50°, 75°, 75°, 65°
+(c) 60°, 70°, 60°, 70° (d) 60°, 60°, 70°, 70°
+31. In the given figure, AB CD| | , ∠ = °PTB 55 and
+∠ = °DVS 45 , then what is the sum of the
+measures of ∠ CUQ and ∠ RTP?
+(a) 180° (b) 135° (c) 110° (d) 100°
+32. What is the value of x in the figure given below?
+(a) b a c− − (b) b a c− + (c) b a c+ − (d) π − + +( )a b c
+33. In the given figure, what is the value of x?
+(a) 30° (b) 40° (c) 45° (d) 60°
+34. PQR is a triangle right angled at Q. If X and Y
+are the mid-points of the sides PQ and QR
+respectively, then which one of the following is
+not correct?
+(a) RX PY XY2 2 2 5+ = (b) RX PY XY PR2 2 2 2
++ = +
+(c) 4 5 2 2 2( )RX PY PR+ = (d) RX PY PQ QR2 2 2 2 3+ = + ( )
+35. In the given figure, AB is parallel to CD. If
+∠ =DCE x and ∠ =ABE y , then what is ∠ CEB
+equal to?
+(a) y − x (b) ( ) /x + y 2 (c) x + −y ( / )π 2 (d) x + −y π
+36. In the figure given below, what is the sum of the
+angles formed around A B C, , except the angles of
+the ∆ ABC ?
+(a) 360° (b) 720° (c) 900° (d) 1000°
+A
+C
+DB y° z°x°
+P
+B D
+CA
+75° 35°
+x° z°
+y°
+C D
+HF
+R
+60°
+x° S
+BQ
+GE
+PA
+110°
+t°
+y°
+z°
+55°
+S
+45°U V
+Q
+C
+A
+R P
+D
+BT
+A a
+b
+x
+c
+C
+B
+120°
+D B
+A
+EC
+2x
+x
+A
+y
+B
+E
+DC x
+A
+B C
+--- PDF PAGE 464 ---
+259MATHEMATICS T riangles
+37. In the given figure, ABC is
+an equilateral triangle of side
+length 30 cm. XY is parallel
+to BC, XP is parallel to AC
+and YQ is parallel to AB. If
+( )XY XP YQ+ + is 40 cm,
+then what is PQ equal to?
+(a) 5 cm (b) 12 cm
+(c) 15 cm (d) None of these
+38. O is any point on the
+bisector of the acute
+angle ∠ XYZ. The line
+OP is parallel to ZY .
+Then, ∆ YPO is
+(a) scalene
+(b) isosceles but not right angled
+(c) equilateral
+(d) right angled and isosceles
+39. The median BD of the ∆ ABC meets AC at D. If
+BD AC= 1
+2
+, then which one of the following is
+correct?
+(a) ∠ =ACB 1 right angle (b) ∠ =BAC 1 right angle
+(c) ∠ =ABC 1 right angle (d) None of these
+40. ABC is a triangle, X is a point outside the
+∆ ABC such that CD CX= , where D is the point
+of intersection of BC and AX and ∠ = ∠BAX XAC .
+Which one of the following is correct?
+(a) ∆ ABD and ∆ ACX are similar (b) ∠ < ∠ABD ACD
+(c) AC CX= (d) ∠ > ∠ADB DXC
+41. In the figure given, ∠ = ∠ = ∠ABD PQD CDQ
+= π
+2
+.
+If AB = x, PQ z= and CD y= , then which one of
+the following is correct?
+(a)
+1 1 1
+x
++ =
+y z
+(b)
+1 1 1
+x
++ =
+z y
+(c)
+1 1 1
+z y
++ =
+x
+(d) 1 1 2
+x
++ =
+y z
+42. ∆ PQR is right angled at Q, PR = 5 cm and
+QR = 4 cm. If the lengths of sides of another
+∆ ABC are 3 cm, 4 cm and 5 cm, then which one
+of the following is correct?
+(a) Area of ∆ PQR is double that of ∆ ABC
+(b) Area of ∆ ABC is double that of ∆ PQR
+(c)
+∠ = ∠B Q
+2
+(d) Both triangles are congruent
+43. In the figure, ∠ = °B 38 ,
+AC BC= and AD CD= . What
+is the value ∠ D?
+(a) 26° (b) 28°
+(c) 38° (d) 52°
+44. Consider the following statements in respect of
+any triangle.
+I. The three medians of a triangle divide it into six
+triangles of equal area.
+II. The perimeter of a triangle is greater than the
+sum of the lengths of its three medians.
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II (c) Both I and II (d) Neither I nor II
+45. Consider the following in respect of
+the given figure :
+I. ∆ ∆DAC EBC~
+II. CA CB CD CE/ / =
+III. AD BE CD CE/ / =
+Which of the statement(s) given above is/are
+correct?
+(a) II and III (b) I and II (c) I and III (d) All of these
+46. Consider the following statements :
+I. Let PQR be a triangle in which PQ = 3 cm,
+QR = 4 cm and RP = 5 cm. If D is a point in the
+plane of the ∆ PQR such that D is either outside
+it or inside it, then
+DP DQ DR+ + > 6 cm
+II. PQR is a right angled triangle.
+Which one of the following is correct in respect of
+the above two statements?
+(a) Both statements I and II are individually true and
+statement II is the correct explanation of statement I
+(b) Both statements I and II are individually true but
+statement II is not the correct explanation of statement I
+(c) Statement I is true and statement II is false
+(d) Statement I is false and statement II is true
+47.
+I. Let LMN be a triangle. Let P Q, be the
+mid-points of the sides LM LN, , respectively. If
+PQ MP NQ2 2 2= + , then LMN is a right angled
+triangle at L.
+II. If in a ∆ ABC AB BC CA, 2 2 2> + , then ∠ ACB is
+obtuse.
+Which of the following is correct in the light of
+the above statements?
+(a) Both statements I and II are individually true and
+statement II is the correct explanation of statement I
+(b) Both statements I and II are individually true but
+statement II is not the correct explanation of statement I
+(c) Statement I is true and statement II is false
+(d) Statement I is false and statement II is true
+X
+B P Q
+Y
+C
+A
+ZY
+O
+P
+X
+C DB
+A
+38°
+A B
+E
+C
+D
+P
+C
+DQB
+A
+y
+z
+x
+--- PDF PAGE 465 ---
+PREVIOUS YEARS’ QUESTIONS
+48. In a ∆ ABC, 1
+2
+1
+3
+1
+2
+80∠ + ∠ + ∠ = °A C B , then
+what is the value of ∠ C ? e 2012 II
+(a) 35° (b) 40° (c) 60° (d) 70°
+49. In a ∆ ABC, side AB is extended beyond B, side
+BC beyond C and side CA beyond A. What is the
+sum of the three exterior angles? e 2012 II
+(a) 270° (b) 305° (c) 360° (d) 540°
+50. In the given figure, ABC is a triangle, BC is
+parallel to AE. If BC AC= , then what is the
+value of ∠ CAE ? e 2012 II
+(a) 20° (b) 30° (c) 40° (d) 50°
+51. In the given figure, AB is parallel to CD.
+∠ = ° ∠ = °ABC CDE65 15, and AB AE= . What is
+the value of ∠ AEF ? e 2012 II
+(a) 30° (b) 35° (c) 40° (d) 45°
+52. The angles x° ° °, ,a c and ( )π − °b are indicated in
+the figure given below : e 2012 II
+Which one of the following is correct ? e 2012 II
+(a) x° = ° + ° − °a c b (b) x° = ° − ° − °b a c
+(c) x° = ° + ° + °a b c (d) x° = ° − ° − °a b c
+53. Consider the following statements:
+I. If G is the centroid of ∆ ABC, then GA GB GC= = .
+II. If H is the orthocentre of ∆ ABC, then
+HA HB HC= = .
+Which of the statement(s) given above is are
+correct? e 2013 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+54.
+I. Let the side DE of a ∆DEF be divided at S, so
+that DS
+DE = ⋅1
+2
+If a line through S parallel to EF
+meets DF at T, then the area of ∆DEF is twice
+the area of the ∆DST.
+II. The areas of the similar triangles are proportional
+to the squares of the corresponding sides.
+Which one of the following is correct in respect of
+the above statements? e 2013 II
+(a) Both statements I and II are true and statement II is
+the correct explanation of statement I
+(b) Both statements I and II are true but statement II is
+not the correct explanation of statement I
+(c) Statement I is true but statement II is false
+(d) Statement II is true but statement I is false
+55. Let ABC be a triangle with AB = 3 cm and
+AC = 5 cm. If AD is a median drawn from the
+vertex A to the side BC, then which one of the
+following is correct? e 2013 II
+(a) AD is always greater than 4 cm but less than 5 cm
+(b) AD is always greater than 5 cm
+(c) AD is always less than 4 cm
+(d) None of the above
+56. In the figure given above, ∠ = °PQR 90 and QL is
+a median, PQ = 5 cm and QR = 12 cm. Then, QL
+is equal to e 2013 II
+(a) 5 cm (b) 5.5 cm (c) 6 cm (d) 6.5 cm
+57. In a ∆ ABC, ∠ = °BCA 90 and CD is perendicular
+to AB. If AD = 4 cm and BD = 9 cm, then the
+value of DC will be e 2013 II
+(a)
+18 cm (b) 20 cm (c) 65 cm (d) 6 cm
+58. ABC is a triangle, where BC AB C= ∠ = °2 30 ,
+and ∠ = °A 90 . The magnitude of the side AC is
+e 2013 II
+(a) 2
+3
+BC (b) 3
+4
+BC (c) BC
+3
+(d) 3
+2
+BC
+59. Let ABC be an equilateral triangle. If the side
+BC is produced to the point D so that BC CD= 2 ,
+then AD 2 is equal to e 2013 II
+(a) 3 2CD (b) 4 2CD (c) 5 2CD (d) 7 2CD
+60. ABC is a right angled triangle such that
+AB a b BC a= − = , and CA a b= + . D is a point
+on BC such that BD AB= . The ratio of BD DC:
+for any value of a and b is given by e 2013 II
+(a) 3 : 2 (b) 4 : 3 (c) 5 : 4 (d) 3 : 1
+260 CDS Pathfinder
+B C
+EA
+D 95°
+65°
+B E C
+D
+A F
+A B C T
+( )°π−b
+E
+D
+c°
+x°
+a°
+Q R
+L
+P
+--- PDF PAGE 466 ---
+61. The side BC of a ∆ ABC is produced to D,
+bisectors of the ∠ ABC and ∠ ACD meet at P. If
+∠ = °BPC x and ∠ = °BAC y , then which one of the
+following option is correct? e 2013 II
+(a) x° = °y (b) x° + ° = °y 90
+(c) x° + ° = °y 180 (d) 2x° = °y
+62. The side AC of a ∆ ABC is produced to D such
+that BC CD= . If ∠ ACB is 70°, then what is
+∠ ADB equal to? e 2013 II
+(a) 35° (b) 45° (c) 70° (d) 110°
+63. The heights of two trees are x and y, where x > y.
+The tops of the trees are at a distance z a part. If
+s is the shortest distance between the trees, then
+what is s2 equal to? e 2013 II
+(a) x x2 2 2 2+ − −y z y (b) x2 2 2+ −y z
+(c) x x2 2 2 2+ + −y z y (d) z y y2 2 2 2− − +x x
+64. In a ∆ ABC, ∠ = °B 90 and ∠ = ∠C A 2 , then what
+is AB 2 equal to? e 2013 II
+(a) 2 2BC (b) 3 2BC (c) 4 2BC (d) 5 2BC
+65. PQR is an equilateral triangle. O is the point of
+intersection of altitudes PL, QM and RN . If
+OP = 8 cm, then what is the perimeter of the
+∆ PQR ? e 2013 II
+(a) 8 3 cm (b) 12 3 cm (c) 16 3 cm (d) 24 3 cm
+66. ∆ DEF is formed by joining the mid-points of
+the sides of ∆ ABC. Similarly, a ∆ PQR is formed
+by joining the mid-points of the sides of the
+∆ DEF. If the sides of the ∆ PQR are of lengths
+1, 2 and 3 units, what is the perimeter of the
+∆ ABC ? e 2013 II
+(a) 18 units (b) 24 units
+(c) 48 units (d) Cannot be determined
+67. E is the mid-point of the median AD of a ∆ ABC.
+If BE produced meets the side AC at F, then CF
+is equal to e 2013 II
+(a) AC /3 (b) 2 3AC / (c) AC /2 (d) None of these
+68. If AD is the internal angular of ∆ ABC with
+AB = 3 cm and AC = 1 cm, then what is BD BC:
+equal to? e 2014 I
+(a) 1 : 3 (b) 1 : 4 (c) 2 : 3 (d) 3 : 4
+69. In a ∆ ABC, AD is perpendicular to BC and BE is
+perpendicular to AC. Which of the following is
+correct? e 2014 I
+(a) CE CB = CA CD× × (b) CE CA = CD CB× ×
+(c) AD BD = AE BE× × (d) AB AC = AD BE× ×
+70. The sides of a triangle are in geometric
+progression with common ratio r < 1. If the
+triangle is a right angled triangle, the square of
+common ratio is given by e 2014 I
+(a)
+5 1
+2
++ (b) 5 1
+2
+− (c) 3 1
+2
++ (d) 3 1
+2
+−
+71. If triangles ABC and DEF are similar such that
+2AB DE= and BC = 8 cm, then what is EF equal
+to? e 2014 I
+(a) 16 cm (b) 12 cm (c) 10 cm (d) 8 cm
+72. The sides of a right angled triangle are equal to
+three consecutive numbers expressed in
+centimeters. What can be the area of such a
+triangle? e 2014 I
+(a) 6 cm 2 (b) 8 cm 2 (c) 10 cm 2 (d) 12 cm 2
+73. The three sides of a triangle are 15, 25, x units.
+Which one of the following is correct? e 2014 I
+(a) 10 40< <x (b) 10 40≤ ≤x
+(c) 10 40≤ <x (d) 10 40< ≤x
+74. In a ∆ ABC, if ∠ = ∠ = ∠B C A2 2, . Then, what is
+the ratio of AC to AB ? e 2014 II
+(a)
+2 1 : (b) 3 1 : (c) 1 1 : (d) 1 2 :
+75. Three straight lines are drawn through the three
+vertices of a ∆ ABC, the line through each vertex
+being parallel to the opposite side. The ∆ DEF is
+bounded by these parallel lines. e 2014 II
+Consider the following statements in respect of
+the ∆ DEF.
+I. Each side of ∆DEF is double the side of ∆ ABC to
+which it is parallel.
+II. Area of ∆DEF is four times the area of ∆ ABC.
+Which of the statement(s) given above is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+76. In a ∆ ABC, AD is the median through A and E
+is the mid-point of AD and BE produced meets
+AC at F. Then, AF is equal to e 2014 II
+(a) AC/5 (b) AC/4 (c) AC/3 (d) AC/2
+77. The point O is equidistant from the three sides
+of a ∆ ABC.
+Consider the following statements: e 2015 II
+I. ∠ + ∠ + ∠ = °OAC OCB OBA 90
+II. ∠ = ∠BOC BAC2
+III. The perpendiculars drawn from any point on OA
+to AB and AC are always equal
+Which of the above statements are correct?
+(a) I and II (b) II and III (c) I and III (d) All of these
+78. An equilateral ∆ BOC is drawn inside a square
+ABCD. If ∠ =AOD 2θ, what is tan θ equal to?
+e 2015 II
+(a)
+2 3− (b) 1 2+ (c) 4 3− (d) 2 3+
+79. In a ∆ PQR, point X is on PQ and point Y is on
+PR such that XP = 1 5 . units, XQ = 6 units,
+PY = 2 units and YR = 8 units. Which of the
+following are correct?
+I. QR XY= 5 II. QR is parallel to XY .
+III. ∆PYX is similar to ∆PRQ.
+261MATHEMATICS T riangles
+--- PDF PAGE 467 ---
+Select the correct answer using the codes given
+below. e 2016 I
+(a) I and II (b) II and III
+(c) I and III (d) All of these
+80. ABC is a triangle right angled
+at C as shown below. Which
+one of the following is correct?
+e 2016 I
+(a) AQ AB BP PQ2 2 2 2+ = +
+(b) AQ PQ AB BP2 2 2 2+ = +
+(c) AQ BP AB PQ2 2 2 2+ = +
+(d) AQ AP BK KQ2 2 2 2+ = +
+81. In the given figure, AD CD BC= = . What is the
+value of ∠ CDB? e 2016 I
+(a) 32° (b) 64°
+(c) 78°
+(d) Cannot be determined due to insufficient data
+82. ABC is an equilateral triangle and X, Y and Z
+are the points on BC, CA and AB respectively,
+such that BX CY AZ= = . Which of the following
+is/are correct? e 2016 I
+I. XYZ is an equilateral triangle.
+II. ∆XYZ is similar to ∆ ABC.
+Select the correct answer using the codes given
+below.
+(a) Only I (b) Only II (c) Both I and II (d) Neither I nor II
+83. Let ABC and A B C′ ′ ′ be two triangles in which
+AB A B> ′ ′ , BC B C> ′ ′ and CA C A> ′ ′ . Let D E, and
+F be the mid-points of the sides BC, CA and AB,
+respectively. Let D′, E′ and F′ be the mid-points
+of the sides B C′ ′ , C A′ ′ and A B′ ′, respectively.
+Consider the following statements e 2016 I
+I. AD A D> ′ ′ , BE B E> ′ ′ and CF C F> ′ ′ are always
+true.
+II. AB BC CA
+AD BE CF
+2 2 2
+2 2 2
++ +
++ +
+= ′ ′ + ′ ′ + ′ ′
+′ ′ + ′ ′ + ′ ′
+A B B C C A
+A D B E C F
+2 2 2
+2 2 2
+Which one of the following is correct in respect of
+the above statements?
+(a) Both statement I and statement II are true and
+statement II is the correct explanation of statement I
+(b) Both statement I and statement II are true but statement
+II is not the correct explanation of statement I
+(c) Statement I is true but statement II is false
+(d) Statement I is false but statement II is true
+84. ABC and DEF are similar triangles. If the ratio
+of side AB to side DE is
+( ) :2 1 3+ , then the
+ratio of area of ∆ ABC to that of ∆ DEF is e 2016 I
+(a) ( ) :3 2 2 3− (b) ( ) :9 6 2 2−
+(c) 1 9 6 2: ( ) − (d) ( ) :3 2 2 2+
+85. Let ∆ ABC and ∆ DEF be such that ∠ = ∠ABC DEF ,
+∠ = ∠ACB DFE and ∠ = ∠BAC EDF . Let L be the
+mid-point of BC and M be the mid-point of EF.
+Consider the following statements e 2016 I
+I. ∆ ABL and ∆ DEM are similar.
+II. ∆ ALC is congruent to ∆ DMF even, if AC DF≠ .
+Which one of the following is correct in respect of
+the above statements?
+(a) Both statement I and statement II are true and
+statement II is the correct explanation of statement I
+(b) Both statement I and statement II are true but
+statement II is not the correct explanation of statement I
+(c) Statement I is true but statement II is false
+(d) Statement I is false but statement II is true
+86. ABC is a triangle in which D is the mid-point of
+BC and E is the mid-point of AD.
+I. The area of ∆ ABC is equal to four times the area
+of ∆ BED.
+II. The area of ∆ ADC is twice the area of ∆ BED.
+Select the correct answer using the codes given
+below. e 2016 I
+(a) Only I (b) Only II (c) Both I and II (d) Neither I nor II
+262 CDS Pathfinder
+A
+B
+C
+P
+Q
+A D B
+C 96°
+ANSWERS
+1 b 2 a 3 b 4 c 5 c 6 d 7 a 8 b 9 c 10 a
+11 d 12 b 13 c 14 d 15 d 16 a 17 c 18 a 19 b 20 a
+21 d 22 c 23 d 24 a 25 b 26 d 27 a 28 a 29 c 30 d
+31 b 32 a 33 d 34 d 35 d 36 c 37 d 38 b 39 c 40 a
+41 a 42 d 43 b 44 c 45 d 46 b 47 b 48 c 49 c 50 d
+51 b 52 c 53 d 54 a 55 c 56 d 57 d 58 d 59 d 60 d
+61 d 62 a 63 d 64 b 65 d 66 b 67 b 68 d 69 b 70 b
+71 a 72 a 73 a 74 a 75 c 76 c 77 c 78 d 79 d 80 c
+81 b 82 c 83 b 84 c 85 c 86 c
+--- PDF PAGE 468 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (b) Let ABC is any triangle and AD is
+the bisector of angle A.
+Also, BD DC= (given)
+/c81AD is the internal bisector of ∠ A.
+∴ AB
+AC
+BD
+DC
+=
+⇒ AB
+AC
+BD
+DC
+= = 1 [/c81BD DC= given]
+⇒ AB AC=
+Hence, triangle is an isosceles triangle.
+2. (a) The line segments joining the
+mid-points of the sides of a triangle
+form four triangles each of which is
+similar to the original triangle.
+Here, ∆ ∆BDF ABC~
+Also, ∆ ∆DEC DEF,
+∆ ∆AFE ABC~
+3. (b) As BD EC= ,
+∠ = ∠ = °AEC BDA 90 each
+[/c81BD AC⊥ and CE AB⊥ ]
+Also, ∠ = ∠A A [common]
+∴ ∆ ∆ BDA AEC~=
+[by AAS congruency]
+⇒ AB AC= [by cpct]
+So, triangle is an isosceles triangle.
+4. (c) Let the other side be b and p.
+∴
+1
+2
+6b p× = ⇒ b p× = 12
+⇒ b
+p
+= 12
+Also, by pythagoras theorem
+h b p2 2 2= +
+5 122
+2
+2= 
+
+ 
+
+ +
+p
+p
+⇒
+25 144
+2
+2= +
+p
+p
+25 1442 4p p = +
+⇒ p p4 2 25 144 0− + =
+⇒ p p p4 2 2 16 9 144 0− − + =
+⇒ p p p2 2 2 16 9 16 0( ) ( )− − − =
+⇒ ( ) ( )p p2 2 9 16 0− − =
+⇒ p = 3 or p = 4
+Hence, other sides are 3 cm and 4 cm.
+5. (c) As ∆ ∆ABC DEF~
+⇒ AB
+DE
+AC
+DF
+BC
+EF
+= =
+/c81 BC
+EF
+= =2
+4
+1
+2
+∴ DE AB= = × =2 2 3 6 cm
+and DF AC= × = × =2 2 5 2.5 cm
+∴ Perimeter of ∆ DEF = + +( )6 5 4
+= 15 cm
+Shortcut Method
+Perimeter of
+Perimeter of
+∆
+∆
+ABC
+DEF
+= Ratio of corresponding sides
+∴ (3 2 1
+2
++ + =2.5
+Perimeter of
+)
+∆ DEF
+∴ Perimeter of ∆ DEF = =2 7 5 15( . ) cm.
+6. (d) Let P be the starting point of his run,
+then PT is the distance between the
+starting and the finishing point.
+∴ PU RQ ST= − = − = 60 12 48 m
+and UT RS QP= − = − = 80 25 55 m
+∴ In ∆ PUT, PT PU TU2 2 2= +( ) ( )
+∴ PT = + ( ) ( )48 552 2 = + 2304 3025
+= = 5329 73 m
+7. (a) As ADB is a right angled triangle.
+So, AB AD BD2 2 2= +
+⇒ AC AD BD2 2 2= + [/c81AB AC= ]
+⇒ ( )AD DC AD BD+ = + 2 2 2
+⇒ AD DC AD DC2 2 2+ + ⋅
+= +AD BD2 2
+⇒ BD CD DC AD2 2 2− = ⋅
+8. (b) As in ∆ ADE and ∆ ABC ,
+AD
+AB
+= =8
+20
+2
+5
+and AE
+AC
+= =6
+15
+2
+5
+∴ AD
+AB
+AE
+AC
+=
+and ∠ = ∠A A [common]
+∴ ∆ ∆ ADE ABC~
+[by SAS similarity]
+∴ DE
+BC
+AD
+AB
+= ⇒ DE
+BC
+= 2
+5
+⇒ BC DE= 5
+2
+.
+9. (c) Let AB be a vertical stick and AC be
+its shadow. Also, let PQ be a tower
+having shadow PR .
+∠ = ∠A P
+∠ = ∠B Q
+[/c81Sun with tower and stick forms
+same angle]
+As, ∆ ∆ABC PQR~
+[ ∴ By AA similarity]
+∴ AB
+PQ
+AC
+PR
+= ⇒ 15 12
+50x
+=
+⇒ x = × =15 50
+12
+62.5 m
+Hence, the height of the tower is 62.5 m.
+10. (a) Let the ratio of their corresponding
+height be h h1 2: .
+But the ratio of the areas of two similar
+triangles is equal to the ratio of the
+squares of their corresponding heights.
+∴
+h
+h
+1
+2
+2
+2
+81
+49
+= ⇒ h h1 2 9 7: : =
+263MATHEMATICS T riangles
+B C
+A
+D
+A
+B C
+EF
+D
+A
+B
+DE
+C
+A D
+B E C F
+3 2.5
+2 4
+E
+N
+S
+W
+U T
+S
+12 m
+12 m
+Q
+R
+60 m
+25 m
+80 m
+P
+A
+B C
+ED
+12 m
+15 m
+B
+A C
+Sun
+50 m
+Q
+P R
+Sun
+x
+--- PDF PAGE 469 ---
+11. (d) As DE BC|| , by basic proportionality
+theorem,
+AD
+DB
+AE
+EC
+= ⇒ x
+x
+x
+x−
+=
++
+−2
+2
+1
+⇒ x x x x( ) ( ) ( )− = + −1 2 2
+⇒ x x x x x2 2 2 2 4− = − + −
+⇒ x = 4
+Hence, the value of x is 4.
+12. (b) As AB CD|| and the diagonals of a
+trapezium divide each other
+proportionally.
+So,
+AO
+OC
+BO
+OD
+=
+⇒
+3 1
+5 3
+2 1
+6 5
+x
+x
+x
+x
+−
+−
+=
++
+−
+( ) ( ) ( ) ( )3 1 6 5 5 3 2 1x x x x− − = − +
+⇒ 18 15 6 52x x x− − +
+= + − −10 5 6 32x x x
+⇒ 8 20 8 02x x− + =
+⇒ 4 10 4 02x x− + =
+⇒ 2 2 5 2 02( )x x− + =
+⇒ 2 2 4 2 02( )x x x− − + =
+⇒ 2 2 2 1 2 0[ ( ) ( )x x x− − − =
+⇒ 2 2 1 2 0( )( )x x− − =
+But as
+x = 1
+2
+will make OC negative.
+∴ x = 2
+13. (c) Exterior angle bisector theorem The
+exterior bisector of an angle of a triangle
+divides the opposite side externally in
+the ratio of the sides containing the
+angle.
+/c81
+BE
+CE
+AB
+AC
+= as AE is an exterior angle
+bisector.
+Let CE BE BC EC= = + = +x x, 12
+⇒
+12 10
+6
++ =x
+x
+⇒ ( )12 6 10+ =x x
+⇒ 72 6 10+ = x x ⇒ 4 72x =
+⇒ x = 18 cm
+14. (d) As the line joining the mid-points of
+any two sides or a triangle is parallel to
+the third side and is half of the third
+side.
+∴
+DE AB= = × =1
+2
+1
+2
+10 5 cm
+EF BC= 1
+2
+⇒ BC EF= 2
+= × =2 3 6 cm
+DF AC= 1
+2
+⇒ AC DF= ×2
+= × =2 4 8 cm
+15. (d) In ∆ PQR, ∠ + ∠ + ∠ = °P Q R 180
+⇒ a a b+ + = °3 180
+⇒ 4 180a b+ = ° …(i)
+Given, − + = °5 3 30a b …(ii)
+Solving Eqs.(i) and (ii), we get a = °30
+and b = °60
+∴ ∠ = ° ∠ = °P Q 30 90, and ∠ = °R 60
+So, ∆ PQR is right angled triangle.
+16. (a) Consider ∆ BMD and ∆ DLC ,
+As ∠ = ∠ = °BMD DLC 90 [each]
+Also, ∠ = ∠BDM DCL corresponding
+angle
+∴∆ ∆BMD DLC~ [by AA similarity]
+∴ BD
+DC
+DM
+LC
+BM
+DL
+= =
+⇒ BD
+DC
+DM
+LC
+= = 1
+3
+∴ DM LC: : = 1 3
+17. (c) In ∆ ABC , by pythagoras theorem,
+AC AB BC2 2 2= + …(i)
+And in ∆ PBQ,
+PQ PB BQ2 2 2= + …(ii)
+Adding Eqs. (i) and (ii),
+AC PQ AB BC2 2 2 2+ = + ( )
++ +PB BQ2 2
+= + + +( ) ( )AB BQ PB BC2 2 2 2
+AC PQ AQ CP2 2 2 2+ = +
+18. (a) In ∆ BCA CAB, ∠ = ° 65 and
+∠ = °ACB 90 [/c81∠ = °C 90 given]
+∠ = ° − ∠ + ∠CBA BCA CAB180 ( )
+[by angle sum property of a triangle]
+= ° − ° + °180 65 90( )
+= ° − ° = °180 155 25
+19. (b) Let the angles of a triangle be
+2 3 4x x x, , , then
+2 3 4 180x x x+ + = °
+[by angle sum property of a triangle]
+9 180x = ° ⇒ x = °20
+So, angles are 2 40x = ° ,
+3 60x = ° , 4 80x = ° .
+20. (a) In ∆ ABC , ∠ + ∠ + = °A B y 180
+y = ° − + °180 40 30( ) = °110
+∠ = ∠ADE ABC [corresponding angle]
+x = °30
+Similarly, y z= = ° 110
+21. (d) In ∆ GEF and ∆ GCD, we have
+∠ = ∠EFG GDC [alternate angles]
+∠ = ∠EGF CGD
+[vertically opposite angles]
+∆ ∆GEF GCD~ [by AA similarity]
+∴ GE
+CG
+EF
+DC
+=
+⇒ 5
+10 18
+= EF
+⇒ EF = × =5 18
+10
+9 cm
+22. (c) Given, In ∆ PQR, PQ PR>
+⇒ ∠ > ∠PRQ PQR
+[angle opp to larger side is greater]
+⇒ 1
+2
+1
+2
+∠ > ∠PRQ PQR
+⇒ ∠ > ∠ SRQ SQR ⇒ SQ SR>
+[side opp to greater angle is larger]
+23. (d) Given, AB AC=
+⇒ ∠ = ∠ABC ACB
+If ∠ = °A 60 , then
+∆ ABC is an equilateral triangle a b c= =
+If ∠ = °A 90 , then
+∆ ABC is right angled triangle
+a b c c c c2 2 2 2 2 2 2= + = + = [ ]/c81b c=
+⇒ a c= 2
+∴ If 60 90°< < °A , then c a c< < 2
+24. (a) Here, in ∆ ABC
+AB AD BD2 2 2= + …(i)
+In right angled ∆ ADC , we have
+AC AD CD2 2 2= + …(ii)
+Subtracting Eq. (ii) from Eq. (i),
+AB AC BD CD2 2 2 2− = −
+AB BD AC CD2 2 2 2− = −
+264 CDS Pathfinder
+A
+B C
+EF
+D
+A
+P
+B Q C
+A
+CB
+c b
+a
+A
+B C
+D E
+x – 1
+x + 2x
+x – 2
+B C
+A
+D
