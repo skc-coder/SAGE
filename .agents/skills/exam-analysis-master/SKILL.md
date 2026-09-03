@@ -128,15 +128,22 @@ xychart-beta
 
 ---
 
-## 6. Modular Note Architecture & `/wrap` Pipeline
+## 6. Modular Note Architecture & Automatic Graph Embeds (`/wrap`)
 
-When user types `/wrap`:
-1. **Session Summary**: Save scorecard in `test_sessions/` or `practice_sessions/` with embedded Mermaid progress chart.
-2. **Question Notes**: Original question statement in blockquote + collapsible derivation (`> [!faq]- View Solution & Derivation`) + Tier 1 variations + direct test PDF link.
-3. **Variation Notes**: Dedicated variation problems with collapsible solutions (`> [!faq]- View Solution`).
-4. **Topic Notes**: Core theory + index of links to Question Notes and Topic Variation Notes.
-5. **Master Index (`[exam]/[subject]/index.md`)**: Direct links to Topic Notes and Chapter Variation Notes.
-6. **Database (`[exam]/[subject]/question_db.md`)**: Topic-centric rows tracking subtopics, specializations, linked question notes, performance, mistake categories, and dynamic Dataview queries.
+When user types `/wrap`, the AI automatically updates the vault AND embeds live visual analytics charts directly into the files:
+
+1. **Question Database ([`question_db.md`](file:///home/skc/dev/SAGE/content/gate-cs/algorithms/question_db.md))**:
+   - Embeds the **Mistake Category Pie Chart** and **Topic Accuracy Heatmap** at the top of the database page.
+2. **Subject Index ([`index.md`](file:///home/skc/dev/SAGE/content/gate-cs/algorithms/index.md))**:
+   - Embeds the **Subject Mastery Heatmap** at the top of the index page.
+3. **Test Scorecards (`test_sessions/`)**:
+   - Embeds the **Test Score Trendline** and accuracy breakdown chart.
+4. **Question Notes (`notes/questions/[question_slug].md`)**:
+   - Original question statement in blockquote + collapsible derivation (`> [!faq]- View Solution & Derivation`) + Tier 1 variations + direct test PDF link.
+5. **Variation Notes (`notes/variations/[variation_slug].md`)**:
+   - Dedicated variation problems with collapsible solutions (`> [!faq]- View Solution`).
+6. **Topic Notes (`notes/[topic_slug].md`)**:
+   - Core theory + index of links to Question Notes and Topic Variation Notes.
 
 ---
 
