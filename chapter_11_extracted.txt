@@ -1,0 +1,7205 @@
+
+--- PDF PAGE 297 ---
+Cost Price (CP)
+The price, at which an article is bought is called its cost pri ce. All the overhead expenses in the
+transection like freight, damage etc., are added to the cost price.
+Selling Price (SP)
+The price at which an article sold is called its selling price.
+Profit (SP>CP) When an article is sold at a price more than its cost pr ice, then profit is earned.
+• Profit = Selling price − Cost price
+• Loss = Cost price − Selling price
+Loss (CP>SP) When an article is sold at a price lower than its cost p rice, then loss is incurred.
+• Profit % Profit
+CP
+100% = (SP CP)
+CP
+100%= × − ×
+• Loss % Loss
+CP
+100= × % = − ×(CP SP)
+CP
+100%
+Note Profit and loss percentage is always calculated as the perce ntage of CP unless otherwise specified.
+List Price/Marked Price
+The price of an article which is displayed on the price tag is k nown as marked price. It is the normal
+price of the thing/products without a discount. Sometimes t he shopkeeper increases or decreases the
+cost price, then this price is taken as the list price of the ar ticle.
+92 C D S Pathfinder
+11
+PROFIT AND□LOSS
+Generally (2-4) questions have been asked from this chapter . Generally questions are based on basic
+formulae and tricks explained in this chapter which are helpful to solve the problems more easily
+and quickly.
+--- PDF PAGE 298 ---
+Important Rules and Formulae
+Rule 1 If there is a profit of r%, then
+(i) SP = + ×( )100
+100
+r CP (ii) CP = ×
++
+100
+100
+SP
+( ) r
+EXAMPLE 1. If cost price of a fan is ` 720. If there is
+a profit of 16 2
+3 %. Then, selling price is
+a. ` 840 b. ` 940
+c. ` 1050 d. None of these
+Sol. a. Given, r = 16 2
+3 % and cost price = ` 720
+∴ Selling price (SP)
+= × +CP ( ) 100
+100
+r =
+× +
+ 
+720 100 16 2
+3
+100
+=
+× +
+ 
+720 100 50
+3
+100
+= ×720 350
+300 = ` 840
+Rule 2 If there is a loss of r%, then
+(i) SP (100 )
+100
+= − ×r CP (ii) CP = ×
+−
+100
+100
+SP
+( ) r
+EXAMPLE 2. When Selling price is ` 75 and there is
+a loss of 12%. Then, cost price is
+a. ` 22 b. ` 44
+c. ` 55 d. ` 85.22
+Sol. d. Given, r = 12% and selling price = ` 75
+∴ Cost price = ×
+−
+100
+100
+SP
+( ) r = ×
+− = × =100 75
+100 12
+100 75
+88 85 22( ) .
+Rule 3 (i) When there are two successive profits or losses
+of x% and y%, then the resultant profit or
+loss percent is given by
+± ± + ± ±
+ 
+x y x y( )( ) %
+100
+.
+Note
+G T ake positive for profit and negative for loss.
+G If the sign of result is positive, then there is a total gain.
+G If the sign of result is negative, then there is a total loss.
+EXAMPLE 3. By selling a watch for ` 132 a trademan
+got two successive profits of 10% and 20%, then the
+resultant profit percentage is
+a. 22% b. 30%
+c. 32% d. 34%
+Sol. c. Given, the successive profits are 10%, 20%.
+So, resultant profit percentage = + + ×
+ 
+10 20 20 10
+100 %
+= 32%
+Rule 4 When two different articles are sold at the
+same selling price, getting gain/loss of x% on the first and
+gain/loss of y% on the second, then the overall % gain or
+% loss in the transection is given by
+100 2
+100 100
+( )
+( ) ( )
+%x y xy
+x x
++ +
++ + +
+
+
+
+ . The above expression represent
+overall gain or loss accordingly as its sign is positive or
+negative.
+When two different articles are sold at the same selling
+price getting a gain of x% on the first and loss of x% on
+the second, then the overall % loss in the transection is
+given by
+x
+10
+2
+
+ 
+ %.
+Note That in such questions there is always a loss.
+EXAMPLE 4. A trader sells two cycles at ` 1188 each
+and gains 10% on the first and loses 12% on the
+second. What is the profit or loss percent on the
+whole?
+a. 1% loss b. 1% gain c. No loss no gain d. 3.2% loss
+Sol. d. When there is a profit of x% and loss of y%, then
+the resultant
+Profit/Loss percentage
+= − −
+ 
+x xy y
+100 %
+Here, x = 10% and y = 12
+∴ Profit/Loss percentage
+= − − ×
+ 
+ = −10 12 10 12
+100 % % 3 2 .
+EXAMPLE 5. Harish sold two scooters, each for
+` 24000. If he makes 20% profit on the first and 15%
+loss on the second. What is his gain or loss percent in
+the transection?
+a. loss 20
+41% b. gain 20
+41 % c. loss 32
+73 % d. gain 32
+73 %
+Sol. a. Here, x = 20 and y = −15
+∴ Overall gain/loss % = + +
++ + +
+
+
+
+
+100 2
+100 100
+( )
+( ) ( ) %x x
+x
+y y
+y
+=
+100 20 15 2 20 15
+100 20 100 15
+( )
+( ) ( )
+− + × × −
++ + −
+
+
+
+%
+= − = −100
+205
+20
+41% %
+Which represents loss.
+EXAMPLE 6. Vikram sold two horses for ` 990 each
+gaining 10% on the one and lossing 10% on the
+other. Find his gain or loss percent.
+a. 1% gain b. 1% loss c. 4 % gain d. 4 % loss
+93MATHEMATICS Profit and Loss
+--- PDF PAGE 299 ---
+94 CDS Pathfinder
+Sol. b. Here, x = 10
+∴ Overall loss % = 
+ 
+x
+10
+2
+%
+= 
+ 
+ =10
+10 1
+2
+% %
+Rule 5 A person buys two items for ` S. One is sold at
+a loss of r% and the other at a gain of R%, if each item
+was sold at the same price, then
+Cost price of item sold at loss
+= × +
+− + +
+S R
+r R
+( )
+( ) ( )
+100
+100 100
+Cost price of item sold at gain = × −
+− + +
+S r
+r R
+( )
+( ) ( )
+100
+100 100
+EXAMPLE 7. Sudhir bought two boxes for ` 1300.
+He sold one box at a profit of 20% and the other at a
+loss of 12%. If the selling price of both boxes is the
+same, then the cost price of each box is
+a. ` 700 and ` 500 b. ` 750 and ` 550
+c. ` 800 and ` 600 d. None of these
+Sol. b. Given, cost of two boxes S = ` 1300, profit on first
+box R = 20%
+and loss on second box r = 12%
+Cost price of box sold at loss
+= × +
+− + +
+1300 100 20
+100 12 100 20
+( )
+( ) ( ) = ×
++ =1300 120
+88 120 ` 750
+Cost price of box sold at gain
+= × −
+− + +
+1300 100 12
+100 12 100 20
+( )
+( ) ( ) = ×
++ =1300 88
+88 120 ` 550
+Rule 6 If a trader professer to sell his goods at cost
+price, but uses false weights, then gain %
+= − ×true weight false weight
+false weight
+100
+EXAMPLE 8. A dishonest dealer sell his goods at
+cost price, but he uses a weight of 960 gm for the kg
+weight, then the percentage of gain is
+a. 2 1
+3 %
+b. 4 1
+6 % c. 6 1
+9 % d. 3 1
+2 %
+Sol. b. Gain % = − ×true weight false weight
+false weight 100
+= − ×1000 960
+960 100 = × =40
+960 100 4 1
+6 %
+Rule 7 If cost price of ‘ n’ articles is equal to the selling
+price of ‘ m’ articles, then
+Profit percentage = −
+ 
+ ×n m
+m
+100% ( )n m>
+and loss percentage
+= −
+ 
+ ×m n
+m
+100% ( )m n>
+EXAMPLE 9. If the cost price of 18 chairs be equal
+to selling price of 16 chairs. The gain percent is
+a. 12% b. 12.5%
+c. 14% d. 15.5%
+Sol. b. Given, n = 18, m = 16 [ ] /c81n m>
+∴ Profit percentage = −
+ 
+ ×18 16
+16 100
+/c81n m
+m
+− ×
+
+
+100
+= ×2
+16 100 = 100
+8 = 12 5 . %
+DISCOUNT
+The reduction allowed on the marked price of an article
+is called as discount. Discount is always reckoned on the
+marked price.
+Selling price = Marked price − Discount
+Rule 8 If discount allowed is r%, then
+Selling price = − ×( )100
+100
+r Marked price
+EXAMPLE 10. If the marked price of a fan is ` 700
+and a discount of 10% is given on it, then what is the
+selling price of the fan?
+a. ` 500 b. ` 575
+c. ` 610 d.` 630
+Sol. d. Given, r = 10%
+Selling price = − ×( )100 10
+100 700
+= × =90 700
+100 630`
+Rule 9 If a shopkeeper marks his items at x% above the
+cost price and allows customers a discount of y% then
+there is x x− −
+ 
+y y
+100
+% profit or loss according to
+positive or negative sign, respectively.
+EXAMPLE 11. A dealer marked his goods 20% above
+the cost price and allows a discount of 10%. Then, his
+gain percent is
+a. 2% b. 4%
+c. 6% d. 8%
+Sol. d. Given, x = 20% and y = 10%
+Profit/Loss percentage = − −
+ 
+x xy y
+100 %
+= − − ×
+ 
+ =20 10 20 10
+100 8% %
+Hence, positive sign shows profit i.e. profit of 8%.
+--- PDF PAGE 300 ---
+Successive Discounts
+(Discount Series)
+Rule 10 Single discount equivalent to three successive
+discounts r r r1 2 3%, % and %
+= − − 
+ 
+ −
+ 
+ −
+ 
+
+
+
+×1 1
+100
+1
+100
+1
+100
+11 2 3r r r 00%
+Note This formula also can be apply for more than three
+successive discounts.
+EXAMPLE 12. A single discount which is equivalent
+to two successive discounts of 20% and 5% is
+a. 20% b. 22% c. 24% d. 25%
+Sol. c. Given, r r1 2 20 5= = %, %
+∴ Single discount equivalent to two succesive discount
+20% and 5%
+= − − 
+ 
+ −
+ 
+
+
+
+×1 1 20
+100 1 5
+100 100%
+= − ×
+ 
+ ×1 4
+5
+19
+20 100%
+= −
+ 
+ ×1 19
+25 100%
+= ×6
+25 100% = 24%
+Rule 11 If marked price of an item is ` x and the
+successive discount rates are r r r1 2 3%, %, % and so on,
+then selling price of the item
+SP = × − 
+ 
+ −
+ 
+ −
+ 
+x r r r1
+100
+1
+100
+1
+100
+1 2 3
+EXAMPLE 13. The marked price of a watch is ` 1600.
+The shopkeeper gives successive discount of 10%, r%
+to the customer. If the customer pays ` 1224 for the
+watch, then the value of r is
+a. 20% b. 35% c. 37% d. 15%
+Sol. d. Given, cost price x = =` 1600 101, %r
+and r r2 = %
+∴ Selling price = Cost price 1 100 1 100
+1 2−
+ 
+ −
+ 
+r r
+1224 1600 1 10
+100 1 100= − 
+ 
+ −
+ 
+r
+⇒
+1 100
+1224
+160 9− = ×
+r ⇒ r
+100 1 1224
+1440= −
+∴ r = 15%
+95MATHEMATICS Profit and Loss
+1. By selling an article for ` 247.50, Sonu get a
+profit of 12.5%. The cost of the article is
+(a) ` 220 (b) ` 205 (c) ` 210 (d) ` 200
+2. If cost price of a fan is ` 720 and its SP is ` 840.
+Find the gain percent.
+(a) 16% (b)
+162
+3
+% (c) 16 1
+3
+% (d)
+167
+3
+%
+3. By selling an article for ` 110, a man losses 12%.
+For how much should he sell it to gain 8%?
+(a) ` 120 (b) ` 125 (c) ` 135 (d) ` 140
+4. A man buys 4 tables and 5 chairs for ` 1000. If
+he sells the tables at 10% profit and chairs 20%
+profit, he earns a profit of ` 120. Then, what is
+the cost of one table?
+(a) ` 200 (b) ` 220 (c) ` 240 (d) ` 260
+5. If selling price of 8 articles is equal to the cost
+price of 10 articles, then per cent gain or loss is
+(a) 20% (b) 25% (c) 30% (d) 35%
+6. A man sells fans at the same price on one he
+gain 20% and losses 20% on the other. His gain
+or loss is
+(a) 4% loss (b) 4% gain
+(c) Neither gain nor loss (d) 1% loss
+7. Sneha gains 10% on selling a pen. If she sells it
+at double the price, the profit per cent is
+(a) 120% (b) 60% (c) 100% (d) 200%
+8. On selling an article for ` 240, a trader loses
+4%. In order to gain 10%, he must sell the article
+for
+(a) ` 275 (b) ` 280 (c) ` 285 (d) ` 300
+9. By selling 8 dozen pencils, a shopkeeper gains
+the selling price of 1 dozen pencils. What is the
+gain?
+(a)
+12 1
+2
+% (b) 13 1
+7
+% (c) 142
+7
+% (d)
+87 1
+2
+%
+10. A man purchased a watch for ` 400 and sold it at
+a gain of 20% of the selling price. The selling
+price of the watch is
+(a) ` 300 (b) ` 320 (c) ` 440 (d) ` 500
+11. A person A sells a table costing ` 2000 to a
+person B and earns a profit of 6%. The person B
+sells it to another person C at a loss of 5%. At
+what price did B sell the table?
+(a) ` 2054 (b) ` 2050 (c) ` 2024 (d) ` 2014
+12. What price did the seller mark at the printed
+price of a watch purchased at ` 380, so that after
+giving 5% discount, there is 25% profit?
+(a) ` 400 (b) ` 450 (c) ` 500 (d) ` 600
+PRACTICE EXERCISE
+--- PDF PAGE 301 ---
+13. A discount series of 10%, 20% and 40% is equal
+to a single discount of
+(a) 50% (b) 60% (c) 56.8% (d) 70.28%
+14. Successive discounts of
+12 1
+2
+% and 7 1
+2
+% are
+given on the marked price of a cupboard. If the
+customer pays ` 2590, then what is the marked
+price?
+(a) ` 3108 (b) ` 3148 (c) ` 3200 (d) ` 3600
+15. The difference between a discount of 40% on
+` 1000 and two successive discounts of 35% and
+5% on the same amount is
+(a) ` 15.50 (b) ` 16.50 (c) ` 17.50 (d) ` 18.00
+16. A dealer buys an article listed at ` 100 and gets
+two successive discounts of 10% and 20%. He
+spends 10% of the cost price on transport etc. At
+what price should he sell the article to earn a
+profit of 15%?
+(a) ` 90 (b) ` 91 (c) ` 91.08 (d) ` 91.10
+17. An item costing ` 200 is being sold at 10% loss.
+If the price is further reduced by 5%, then the
+selling price will be
+(a) ` 170 (b) ` 171 (c) ` 175 (d) ` 179
+18. A man bought a number of oranges at 3 for a
+rupee and an equal number at 2 for a rupee. At
+what price per dozen should he sell them to
+make a profit of 20%?
+(a) ` 4 (b) ` 5 (c) ` 6 (d) ` 7
+19. A milk vendor bought 28 L of milk at the cost of
+` 8.50 per L. After adding some water, he sold
+the mixture at the same price. If he gains 12.5%,
+then how much water did he add?
+(a) 5.5 L (b) 4.5 L
+(c) 3.5 L (d) 2.5 L
+20. A man sold two watches, each for ` 495. If he
+gained 10% on one watch and suffered a loss of
+10% on the other, then what is the loss or gain
+percentage in the transaction?
+(a) 1% gain (b) 1% loss
+(c) 100/99% loss (d) No gain no loss
+21. Jyoti bought a computer system for ` 40000. She
+sold it to Brajesh at a loss of 4%. If Brajesh sells
+it for ` 40320 to Yash, then the profit per cent
+earned by Brajesh is
+(a) 3% (b) 5%
+(c) 7% (d) 10%
+22. List price of a video cassette is ` 100. A dealer
+sells three video cassettes for ` 274.50 after
+allowing discount at certain rate. The rate of
+discount allowed is
+(a) 7% (b) 7.5%
+(c) 8% (d) 8.5%
+23. A fruit-seller buys lemons at 2 for a rupee and
+sells them at 5 for three rupees. What is his gain
+per cent?
+(a) 10% (b) 15% (c) 20% (d) 25%
+24. A trader marks 10% higher than the cost price.
+He gives a discount of 10% on the marked price.
+In this kind of sales how much per cent does the
+trader gain or loss?
+(a) 5% gain (b) 2% gain (c) 1% loss (d) 3% loss
+25. One saree was purchased for ` 564 after getting
+a discount of 6% and another saree was
+purchased for ` 396 after getting a discount of
+1%. Taking both the items as a single
+transaction, what is the percentage of discount?
+(a) 3.5% (b) 4% (c) 7% (d) 7.5%
+26. A dishonest dealer professes to sell his good at
+cost price but uses a false weight and thus gains
+25%. For a kilogram he uses a weight of
+(a) 700 g (b) 750 g (c) 800 g (d) 850 g
+27. A person bought two old scooters for ` 9000. By
+selling one at a profit of 25% and the other at a
+loss of 20%, to neither gain nor loses. The cost of
+each scooter is
+(a) ` 3500, ` 500 (b) ` 4500, ` 4500
+(c) ` 4000, ` 5000 (d) ` 5300, ` 3700
+28. The manufacturer of a certain item can sell all
+he can produce at the selling price of ` 60 each.
+It costs him ` 40 in materials and labour to
+produce each item and he has overhead expenses
+of ` 3000 per week in order to operate the plant.
+The number of items he should produce and sell in
+order to make a profit of atleast ` 1000 per week is
+(a) 400 (b) 300 (c) 250 (d) 200
+29. A person sold a table at a profit of
+6 1
+2
+%. If he
+had sold it for ` 1250 more, he would have
+gained 19%
+I. The CP of the table is ` 10000.
+II. CP will ` 19000, if he had sold it for ` 2400 more
+and gained same profit
+Which one is correct?
+(a) Only II (b) Only I
+(c) Neither I nor II (d) Both I and II
+30. A bookseller sells a book at a gain of 10%. If he
+had bought it at 4% less and sold it for ` 6 more,
+he would have gained
+18 3
+4
+%
+I. The SP of the book is ` 165.
+II. The CP of the book is ` 150.
+Which one is correct?
+(a) Neither I nor II (b) Both I and II
+(c) Only I (d) Only II
+96 CDS Pathfinder
+--- PDF PAGE 302 ---
+97MATHEMATICS Profit and Loss
+PREVIOUS YEARS’ QUESTIONS
+31. A person bought 8 quintal of rice for certain
+rupees. After a week, he sold 3 quintal of rice at
+10% profit, 3 quintal of rice with neither profit
+nor loss and 2 quintal at 5% loss. In this
+transaction, what is the profit? e 2012 I
+(a) 10% (b) 20% (c) 25% (d) None of these
+32. The cost of two articles are in the ratio 3 : 5. If
+there is 30% loss on the first article and 20%
+gain on the second article, then what is overall
+percentage of loss or gain? e 2012 I
+(a) 2.25% gain (b) 5.25% loss
+(c) 2% loss (d) None of these
+33. A cloth store is offering Buy 3, get 1 free. What
+is the net percentage discount being offered by
+the store? e 2012 II
+(a) 20% (b) 25% (c) 30% (d)
+33 1
+3
+%
+34. A person sold an article for ` 136 and got 15%
+loss. Had he sold it for ` x, he would have got a
+profit of 15%. Which one of the following is
+correct? e 2012 II
+(a) 190 < x < 200 (b) 180 < x < 190
+(c) 170 < x < 180 (d) 160 < x < 170
+35. A man buys a television set which lists for
+` 5000 at 10% discount. He gets an additional
+2% discount (after the first discount) for paying
+cash. What does he actually pay for the set?
+e 2012 II
+(a) ` 4410 (b) ` 4400 (c) ` 4000 (d) ` 4500
+36. A merchant earns a profit of 20% by selling a
+basket containing 80 apples which costs ` 240
+but he gives one-fourth of it to his friend at cost
+price and sells the remaining apples. In order to
+earn the same profit, at what price must he sell
+each apple? e 2012 II
+(a) ` 3.00 (b) ` 3.60 (c) ` 3.80 (d) ` 4.80
+37. A person sold an article for ` 3600 and got a
+profit of 20%. Had he sold the article for ` 3150,
+how much profit would he have got? e 2013 II
+(a) 4% (b) 5% (c) 6% (d) 10%
+38. Two lots of onions with equal quantity, one
+costing ` 10 per kg and the other costing ` 15 per
+kg, are mixed together and whole lot is sold at
+` 15 per kg. What is the profit or loss?
+e 2013 II
+(a) 10% loss (b) 10% profit
+(c) 20% profit (d) 20% loss
+39. On a 20% discount sale, an article costs ` 596.
+What was the original price of the article?
+e 2014 I
+(a) ` 720 (b) ` 735 (c) ` 745 (d) ` 775
+40. A man buys 200 oranges for ` 1000. How many
+oranges for ` 100 can be sold, so that his profit
+percentage is 25%? e 2014 II
+(a) 10 (b) 14 (c) 16 (d) 20
+41. When an article is sold at 20% discount, the
+selling price is ` 24. What will be the selling
+price when the discount is 30%. e 2014 II
+(a) ` 25 (b) ` 23 (c) ` 21 (d) ` 20
+42. A shopkeeper sells his articles at their cost price
+but uses a faulty balance which reads 1000 g for
+800 g. What is his actual profit percentage?
+(a) 25% (b) 20% e 2014 II
+(c) 40% (d) 30%
+43. A person selling an article for ` 96 finds that his
+loss per cent is one-fourth of the amount of
+rupees that he had paid for the article. What can
+be the cost price? e 2014 II
+(a) Only ` 160 (b) Only ` 240
+(c) Either ` 160 or ` 240 (d) Neither ` 160 nor ` 240
+44. A milkman claims to sell milk at its cost price
+but he is making a profit of 20% since, he has
+mixed some amount of water in the milk. What
+is the percentage of milk in the mixture? e 2015 I
+(a) 80% (b)
+250
+3
+% (c) 75% (d) 200
+3
+%
+45. The value of a single discount on some amount
+which is equivalent to a series of discounts
+of 10%, 20% and 40% on the same amount, is
+equal to e 2015 II
+(a) 43.2% (b) 50% (c) 56.8% (d) 70%
+46. A cloth merchant buys cloth from a weaver and
+cheats him by using a scale which is 10 cm longer
+than a normal metre scale. He claims to sell
+cloth at the cost price to his customers, but while
+selling uses a scale which is 10 cm shorter than
+a normal metre scale. What is his gain? e 2016 I
+(a) 20% (b) 21% (c)
+22 2
+9
+% (d) 23 1
+3
+%
+ANSWERS
+1 a 2 b 3 c 4 a 5 b 6 a 7 a 8 a 9 c 10 d
+11 d 12 c 13 c 14 c 15 c 16 c 17 b 18 c 19 c 20 b
+21 b 22 d 23 c 24 c 25 b 26 c 27 c 28 d 29 b 30 b
+31 d 32 d 33 b 34 b 35 a 36 c 37 b 38 c 39 c 40 c
+41 c 42 a 43 c 44 b 45 c 46 a
+--- PDF PAGE 303 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (a) Given, selling price of article
+= ` 247.50 and gain = 25
+2
+%
+∴ Cost price
+= ` 100
+100 25
+2
+247 50
++
+ 
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. [Rule 1]
+= `
+100 2 247 50
+225
+× × . = ` 220
+2. (b) Total gain = SP – CP
+= ( )840 720− = ` 120
+∴ Gain percent = × =120
+720
+100 16 2
+3
+%
+3. (c) Given, SP = ` 110 and loss = 12%
+∴ Costprice = `
+100
+88
+110×
+ 
+ = ` 125
+Now, CP = ` 125, gain required = 8%
+∴ SP = `
+( )100 8
+100
+125+ ×
+ 
+ = ` 135
+4. (a) Let cost of one table and one chair
+be ` x and ` y, respectively.
+∴ Cost of 4 tables and 5 chairs
+= ` 4 5x + y
+∴ 4 5 1000x + =y ...(i)
+∴ Now, profit on 4 tables
+= × =4 10 4
+10
+x x% `
+Profit on 5 chairs = × =5 20y y % `
+∴ 4
+10
+120x + =y ...(ii)
+Now, on solving Eqs. (i) and (ii), we get
+x = ` 200
+5. (b) Refer to example 9.
+6. (a) Refer to example 4.
+7. (a) Let the selling price be ` 100.
+∴ Cost price = ×SP 100
+100 + 10
+[Rule 1]
+= ×100 100
+110
+= ` 1000
+11
+Now, if SP is ` 200.
+∴ Gain = ` 200 1000
+11
+−
+ 
+ = `
+1200
+11
+Gain percent = × =1200 11
+1000 11
+100 120/
+/
+%
+8. (a) Given, selling price of an article
+= ` 240
+Loss = 4%
+∴ Cost price of an article for the loss of 4%
+= ×` 240 100
+96
+[Rule 2]
+Selling price of an article for a profit of
+10%
+= × × = ×240 100
+96
+110
+100
+240 110
+96
+= ` 275
+9. (c) Let selling price of 1 dozen pencil be
+` x.
+∴ Selling price of 8 dozen pencils = ` 8x
+and profit = `x
+/c81Cost price of 8 dozen pencils
+= − =8 7x x x `
+∴ Gain, percent
+= × =x
+x7
+100 14 2
+7
+% %
+10. (d) Given, CP = ` 400, let selling price be
+` x.
+Then, 400 20+ % of x x=
+⇒
+400
+5
++ =x x ⇒ 4
+5
+400x =
+⇒ x = ×400 5
+4
+⇒ x = ` 500
+∴ Selling price = ` 500
+11. (d) The cost price of table for person B
+= + ×2000 6 2000
+100
+= + =2000 120 2120`
+Selling price for person B
+= − ×2120 2120 5
+100
+= −2120 106 = ` 2014
+12. (c) Let marked price be ` x.
+Selling price after 5% discount
+= − =x x x 5
+100
+19
+20
+Profit = −SP CP
+= −19
+20
+380x
+Profit
+% =
+−
+×
+19
+20
+380
+380
+100
+x
+25
+19
+20
+380
+380
+100=
+−
+×
+x
+x = × =475 20
+19
+500`
+13. (c) Refer to example 12.
+14. (c) Refer to example 13.
+15. (c) Case I Discount = 40 %
+⇒ Selling price = 60% of 1000
+= × =60
+100
+1000 ` 600
+Case II Two successive discounts are
+of 35% and 5%.
+⇒ Selling price
+= × − 
+ 
+ −
+ 
+1000 1 35
+100
+1 5
+100
+[Rule 11]
+= × × =65
+100
+95
+100
+1000 ` 617.50
+∴ Difference = ( . 617 50− 600) = ` 17.50
+16. (c) List price of article be ` 100.
+Cost price for dealer
+= − × − ×( ) ( )100 20
+100
+100 10
+100
+100
+= × ×
+×
+=80 90 100
+100 100
+` 72
+Money spent on transport
+= × =10
+100
+72 ` 7.20
+∴ Total cost price = +72 7 20 . = ` 79.20
+∴ Selling price
+= + ×( ) .100 15
+100
+79 20
+= ×115 79 20
+100
+. = ` 91.08
+17. (b) Given, cost of article = ` 200
+∴ Selling price of article = 95% of
+( % 90of 200)
+= × × =95
+100
+90
+100
+200 ` 171
+18. (c) Given, CP of 3 oranges of Ist variety
+= ` 1
+CP of 1 orange of Ist variety = ` 1
+3
+CP of 2 oranges of IInd variety = ` 1
+CP of 1 orange of IInd variety = ` 1
+2
+Total CP of 2 oranges of different
+variety
+= +1
+3
+1
+2
+= ` 5
+6
+Profit on 2 oranges of different variety
+= 20% of 5
+6
+= ×20
+100
+5
+6
+= ` 1
+6
+∴ SP of 2 oranges of different variety
+= + =5
+6
+1
+6
+1`
+Hence, SP of 12 oranges is ` 6.
+19. (c) Given, cost price of 1L = ` 8.50
+∴ Total CP of milk = ×28 8 50 . = ` 238
+∴ Profit = . %12 5 of 238
+= × =12 5
+100
+238 29 75. .`
+98 CDS Pathfinder
+--- PDF PAGE 304 ---
+Let he added x L of water.
+∴ Profit = ×x 8 5 .⇒ 29 75 8 5. = . x ×
+∴ x .= 3 5 L
+20. (b) Refer to example 6.
+21. (b) Cost price of computer for Brajesh
+= −40000 4
+100
+40000( ) = ` 38400
+Selling price of computer for Brajesh
+= ` 40320
+∴ Profit amount = (40320 − 38400)
+= ` 1920
+∴ Profit percentage earned by Brajesh
+= × =1920
+38400
+100 5%
+22. (d) Given, list price of a video cassette
+= ` 100
+Let the rate of discount be r%.
+Selling price of 3 video cassette
+= ` 274.50
+∴ Selling price of 1 video cassette
+= ` 274 50
+3
+. = ` 91.50
+∴ 100
+100
+100− × =r ` 91.50
+⇒ 100 91 50− = . r ⇒ 8 50 .= r
+∴ Rate of discount = 8 5 . %
+23. (c) CP of 1 lemon = 1
+2
+SP of 1 lemon = 3
+5
+∴ Gain %
+=
+−
+× = − × ×
+3
+5
+1
+2
+1
+2
+100 6 5
+10
+2 100 = 20%
+24. (c) Let the cost price be ` x.
+Marked price
+= × =x x 110
+100 10
+` f 11
+∴ SP = × =11
+10
+90
+100
+99
+100
+x x
+∴ Required gain/loss per cent
+=
+−
+× = −
+99
+100 100 1
+x x
+x
+% [Rule 8]
+[negative sign i.e. loss]
+25. (b) Let marked price of two sarees be ` x
+and ` y, respectively.
+∴ x x− =6
+100
+564 ⇒ 94
+100
+564x =
+⇒ x = ` 600 and y y− =
+100
+396
+⇒ 99
+100
+396y = ⇒ y = ` 400
+∴ Total MP amount = +600 400
+= ` 1000
+Total amount after discount
+= + =564 396 960 `
+∴ Discount per cent
+= − ×1000 960
+1000
+100 = =40
+10
+4% %
+26. (c) Here, true weight = 1000
+and gain = 25%
+⇒
+25
+1000
+100=
+−
+×
+false weight
+false weight
+⇒ false weight
+4
+1000= − false weight
+⇒ false weight = × =1000 4
+5
+800
+Hence, he uses the weight 800 g.
+27. (c) Let cost price of one scooter be ` x.
+∴ Cost price of other scooter
+= ` ( )9000 − x
+∴ Selling price of Ist scooter
+= + =x x x25
+100
+125
+100
+Also, selling price of 2nd scooter
+= − − 
+ 
+( )9000 1 20
+100
+x
+= − 
+ 
+( )9000 80
+100
+x
+Total selling price of both scooters
+= + −125
+100
+9000 80
+100
+x x( )
+∴ 125
+100
+9000 80
+100
+9000x x+ − =( )
+[given]
+⇒ 45
+100
+7200 9000x + =
+∴ x = 4000
+∴ Cost price of 1st scooter = ` 4000
+Hence, cost price of 2nd scooter
+= − =( )9000 x ` 5000
+28. (d) Let the number of items be x.
+Then, selling price of items = 60 x
+Cost of material of items = 40 x
+Overhead expenses = ` 3000
+∴ 60 40 3000 1000x x− + =( )
+⇒ 20 4000x =
+∴ x = 4000
+20
+= 200
+29. (b) I. Let CP = x
+Then, SP = 213
+200
+x.
+If SP
+= +213
+200
+1250x , then gain = 19%
+⇒ 19
+213
+200
+1250
+100=
++ −
+×
+x x
+x
+⇒ 19
+100
+213
+200
+1250x x− =
+⇒ x = × =1250 8 10000
+II. If SP = +213
+200
+2400x and gain
+= 19%, then
+19
+213
+200
+2400
+100=
++ −
+×
+x x
+x
+⇒ 19
+100
+13
+200
+2400x x− =
+⇒ x = × =2400 8 19200
+Hence, I is correct but II is incorrect.
+30. (b) Let CP = x
+then SP = =110
+100
+11
+10
+x x
+Now, CP = 96% of x = =96
+100
+x ` 24
+25
+x
+According to the questions
+SP = + 
+ 
+` 11
+10
+6x
+∴
+11
+10
+6 118 3
+4
+x +
+ 
+ = % of
+24
+25
+x
+⇒ 11 60
+10
+475
+400
+24
+25
+57
+50
+x x x+ = × =
+⇒ 570 550 3000x x= +
+⇒
+x = =3000
+20
+150
+∴ CP = ` 150
+∴ SP = × =11
+10
+150 165`
+Hence, I and II both are correct.
+31. (d) Let CP of 8 quintal be ` x.
+∴ CP of 1 quintal = ` x
+8
+∴ SP of 3 quintal rice at 10% profit
+= + ×3
+8
+3
+8
+1
+10
+x x = + =3
+8
+3
+80
+33
+80
+x x x
+SP of 3 quintal rice without profit or
+loss
+= ` 3
+8
+x
+SP of 2 quintal rice at 5% loss
+= − ×2
+8
+2
+8
+5
+100
+x x = −
+×
+x x
+4 4 20
+=
+×
+=19
+4 20
+19
+80
+x x
+∴ Total SP = + +33
+80
+3
+8
+19
+80
+x x x
+= +33 30 19
+80
+x x + x = 82
+80
+x
+∴ Profit percentage = − ×SP CP
+CP
+100%
+=
+−
+×
+82
+80 100
+x x
+x
+% = − ×( ) %82 80
+80
+100x
+x
+= × =2
+80
+100 2.5%
+99MATHEMATICS Profit and Loss
+--- PDF PAGE 305 ---
+32. (d) Let the CP of two articles be 3 x and
+5 x, respectively.
+∴ SP of first article = × =3 70
+100
+21
+10
+x x
+[Rule 2]
+and SP of second article
+= × =5 120
+100
+6x x
+∴ Total SP
+= + = =6 21
+10
+60 21
+10
+81
+10
+x x x + x x
+∴ Total CP = + =3 5 8x x x
+∴ Profit = −81
+10
+8x x = − =81 80
+10 10
+x x x
+∴ Overall percentage of gain percentage
+=
+×
+= ×
+×
+x
+x
+x
+x
+10
+100
+8
+100
+10 8
+= 1 25 . %
+33. (b) We know that,
+Net percentage discount
+= ×Discount
+Cost price
+100% = × =1
+4
+100 25% %
+34. (b) We know that,
+Cost price =
+−
+
+ 
+ ×100
+100 Loss%
+SP
+[Rule 2]
+=
+−
+
+ 
+ ×100
+100 15
+136
+= × =136 100
+85
+` 160
+/c81Given, profit percentage = 15%
+∴ Selling price ( x)
+= × +160 100 15
+100
+( ) = ×160 115
+100
+= ` 184
+So, option (b) is correct because
+180 190< <x .
+35. (a) Given, list price of television = ` 5000
+and discount = 10%
+∴ After discount television cost
+= − ×5000 5000 10%
+= − ×5000 5000 10
+100
+= ` 4500
+Additional discount = 2%
+∴ Actually price of television
+= − ×4500 4500 2
+100
+= ` 4410
+36. (c) /c81CP of 80 apples = ` 240
+∴ CP of 1 apple = 240
+80
+= ` 3
+∴ CP of 20 apples = `3 20× = ` 60
+To earn a profit of 20%, SP = 120% of
+240 = ` 288
+But he sold 1
+4
+of his apples i.e. 20 apples
+for ` 60.
+∴ SP of remaining 60 apples
+= −( )288 60 = ` 228
+∴ SP of 1 apple = =228
+60
+` 3.80
+37. (b) Let the cost price of the article be ` x.
+Given, profit percentage = 20%
+Now, x x+ =20
+100
+3600 ⇒ 120
+100
+3600x =
+∴ x = ` 3000
+Now, profit percentage when the article
+is sold for ` 3150
+3150 3000
+3000
+100 150
+3000
+100− × = × = 5%
+38. (c) Let each lot of onion contains x kg.
+Then, total cost price of these two lots
+together = +10 15
+x x = 25x
+Selling price of whole lot
+= × +15 ( ) x x = ×15 2 x = 30 x
+∴ Profit percentage = − ×30 25
+25
+100x x
+x
+= ×5
+25
+100x
+x
+= 20%
+Hence, the profit is 20%.
+39. (c) Let the original price be ` x.
+Since, at discount of 20% article costs
+` 596.
+Then, 596 80
+100
+= × x ⇒ x = ×596 100
+80
+= ` 745
+Hence, the original price of an article is
+` 745.
+40. (c) Given, cost price of 200 oranges
+= ` 1000
+∴ Cost price of 1 orange = =1000
+200
+5`
+Selling price of 1 orange = +
+ 
+5 100 25
+100
+= × =5 125
+100
+6 25` .
+Now, in ` 6.25 number of oranges can be
+sold = 1
+In ` 100, number of oranges can be sold
+= × =1
+6 25
+100 16
+.
+Hence, 16 oranges can be sold in ` 100
+for profit 25%.
+41. (c) Let the cost price of article be ` x.
+Discount = 20% and selling price = 24
+[given]
+∴ x x= +24 20% of
+⇒ x x= +24 20
+100
+⇒ x x= +24
+5
+⇒ x x− =
+5
+24 ⇒ 4
+5
+24x =
+⇒ x = × =24 5
+4
+30
+∴ Cost price of an article = ` 30
+Now, selling price after 30% discount
+= −30 30 30% of = − ×30 30
+100
+30
+= −30 9 = ` 21
+42. (a) /c81Actual profit percentage
+= − ×Fair weight Unfair weight
+Unfair weight
+100 %
+= − × =1000 800
+800
+100 25% %
+43. (c) Let the cost price of an article be ` x x.
+and selling price of an article = ` 96
+[given]
+x
+x
+x− × =96 100 1
+4
+⇒ x x2 400 38400 0− + =
+⇒ x x x2 160 240 38400 0− − + =
+⇒ ( ) ( )x x− − =160 240 0
+∴ x = 160 or 240
+Hence, the cost price of the article is
+either
+` 160 or ` 240.
+44. (b) Let CP of 1 L of milk be ` x x.
+∴ SP of 1 L of milk
+= ×xx 120% = ` 1 2 .x
+Now, as in ` x 1 2 .x, the quantity of milk
+sold = 1 L
+∴ In ` x x, quantity of milk sold
+= × =1
+1 2
+5
+6. x
+x L
+According to the question,
+CP of milk and SP of mixture are same,
+therefore in mixture, quantity of milk
+must be
+5
+6
+L.
+Hence, the required percentage
+= ×5
+6
+100% = 250
+3
+%
+45. (c) Refer to example 12.
+46. (a) Let the amount of cloth = 100 cm
+Then, amount of cloth purchased
+= 110 cm
+and amount of cloth sold = 90 cm
+∴ Gain % 110 90
+100
+100− × %
+= ×20
+100
+100% = 20%
+100 CDS Pathfinder
+--- PDF PAGE 306 ---
+RATIO
+A ratio is the comparison of two or more quantities of the same type (or kind) by division. i.e. if a and
+b are two quantities of same kind (or same unit), then the fract ion a b/ is called the ratio a to b and
+we write it as a : b. Here, a is called antecedent and b is called the consequent.
+e.g. If a fruit box contains 8 oranges and 7 lemons then the rat io of oranges to lemons is 8 to 7 or 8:7.
+Note If both terms a and b of a ratio are multiplied or divided by the same quantity, the n ratio remains unchanged.
+i.e. a b: is same as na nb: ⇒ a
+b
+na
+nb
+= and a b: is same as a
+n
+b
+n
+:
+⇒ = a
+b
+a n
+b n
+/
+/
+.
+EXAMPLE 1. If the ratio of 90 cm to 1.5 m is same as 3 : x, then x is
+a. 4 b. 5 c. 2 d. 1
+Sol. b. 1.5 m = 150 cm (units must be same)
+Ratio of 90 cm to 1.5 m = = =90
+150
+90 30
+150 30
+3
+5
+/
+/ .
+As this ratio is same as 3 : x
+∴
+3 3
+5x =
+⇒ 3 5 3x = ×
+⇒ x = 5
+101MATHEMATICS Simple Interest
+12
+RATIO AND
+PROPORTION
+Regularly (1-2) questions have been asked from this chapter . Generally both the topics i.e. ratio and
+proportion have same importance but more emphasis is given on proportion. The concepts of this
+chapter are extremely used in other chapters like-age, average. etc.
+12
+RATIO AND
+PROPORTION
+Regularly (1-2) questions have been asked from this chapter . Generally both the topics i.e. ratio and
+proportion have same importance but more emphasis is given on proportion. The concepts of this
+chapter are extremely used in other chapters like-age, average. etc.
+--- PDF PAGE 307 ---
+Types of Ratios
+1. Compound Ratio When two or more ratios are
+multiplied together, they are said to be compound
+ratio.
+If
+a
+b
+c
+d
+e
+f
+g
+h
+, , and are all ratios, then their compound
+ratio is aceg bdfh: .
+e.g. Compound ratio of
+2
+3
+4
+7
+,
+and 1
+3
+= × ×
+× ×
+=2 4 1
+3 7 3
+8
+63
+.
+2. Duplicate Ratio When a ratio is compounded with
+itself, the resulting ratio is called the duplicate ratio.
+So, a b2 2: is duplicate ratio of a b: .
+EXAMPLE 2. The duplicate ratio of the ratio 2 2 3 5:
+is
+a. 4 : 9 b. 8 : 45 c. 2 : 3 d. 6 : 45
+Sol. b. The duplicate ratio of 2 2 3 5: is
+2 2
+3 5
+2 2
+3 5
+4 4
+9 25× =
+= =8
+45 8 45 :
+3. Triplicate Ratio If a ratio is compounded three
+times with itself, then resulting ratio is called
+triplicate ratio.
+So, a b3 3: is the triplicate ratio of a b: .
+EXAMPLE 3. If 4 3 9 10x x+ +: is the triplicate ratio
+of 3 : 4. Then, the value of x is
+a. 2 b. 6 c. 8 d. 12
+Sol. b. Since, 4 3 9 10x x+ + : is the triplicate ratio of 3 : 4.
+Therefore, 4 3
+9 10
+3
+4
+3
+4
+3
+4
+x
+x
++
++ = × × ⇒ 4 3
+9 10
+27
+64
+x
+x
++
++ =
+⇒ 64 4 3 27 9 10( ) ( )x x+ = +
+⇒ 256 192 243 270x x+ = +
+⇒ 256 243 270 192x x− = − ⇒ 13 78x =
+∴ x = =78
+13 6
+Hence, the value of x is 6.
+4. Subduplicate Ratio If two numbers are in ratio,
+then the ratio of their square roots is called sub
+duplicate ratio.
+If a b: is ratio, then the subduplicate ratio is
+a b: .
+e.g. Subduplicate ratio of 9 : 16 is 9 16 3 4: : = .
+5. Subtriplicate Ratio If two numbers are in ratio,
+then the ratio of their cube roots is called
+subtriplicate ratio.
+If a b: is ratio, then the subtriplicate ratio is
+a b3 3 : .
+e.g. Subtriplicate ratio of 64 : 27 is 64 27 4 33 3 : : =
+6. Reciprocal Ratio If a b: is a ratio, then 1 1
+a b
+: is its
+reciprocal ratio, i.e. b a: .
+e.g. Reciprocal ratio of 3 7 : is
+1
+3
+1
+7
+: i.e. 7 3 : .
+EXAMPLE 4. Compound ratio of the duplicate ratio
+of 5 : 6, the reciprocal ratio of 25:42 and the
+subduplicate ratio of 36:49 is
+a. 1 : 2 b. 2 : 3 c. 1 : 1 d. 4 : 9
+Sol. c. The duplicate ratio of 5 : 6 is 5
+6
+5
+6
+25
+36× =
+The reciprocal ratio of 25 42 : is 1
+25
+1
+42: i.e. 42
+25
+and subduplicate ratio of
+36
+49 is 36
+49
+6
+7=
+∴ Compound ratio is
+25
+36
+42
+25
+6
+7
+1
+1 1 1× × = = :
+IMPORTANT POINTS
+G Usually, the ratio is expressed in its lowest terms.
+G Ratio exists only between quantities of the same kind.
+G Ratio is a fraction, so it has no units.
+G Ratio is taken only between positive quantities.
+PROPORTION
+The equality of two ratios is called proportion.
+‘: : ’ is the sign of proportion.
+So, if a b c d: : = , we write it as
+a b c d: : : : and say that a b c, , and d are in proportion.
+The quantities a, b, c and d are called the first, second,
+third and fourth terms of proportion respectively. First
+and fourth terms are called extreme terms and second
+and third terms are called means or middle terms.
+If quantities a, b, c and d are in proportion, then
+a
+b
+c
+d
+ad bc= ⇒ =
+i.e. product of extreme terms = product of middle terms.
+This is also called cross-product rule.
+Types of Proportion
+1. Continued Proportion The non-zero quantities of
+same kind, a, b, c, d, e, f, … are said to be continued
+proportion, if
+a
+b
+b
+c
+c
+d
+e
+f
+= = = = …
+EXAMPLE 5. If a, b, c, d and e are in continued
+proportion, then a/e is equal to
+a. a b3 3/ b. a b4 4/ c. b a3 3/ d. b a4 4/
+102 CDS Pathfinder
+--- PDF PAGE 308 ---
+Sol. b. Since, , , , and are in continued proportion.
+/c81 = = = ⇒ = = = ⇒ =
+2
+= = ⋅ =
+2 4
+2
+3
+2
+1 , = = ⋅ =
+2 6
+4 2
+4
+3
+∴ = =( / )4 3
+4
+4
+2. Mean Proportional If a, b and c are in continued
+proportion, then b is called the mean proportional of
+a and c.
+i.e. a
+b
+b
+c
+b ac b ac= ⇒ = ⇒ = 2
+EXAMPLE 6. What is the mean proportional between
+( ) ( )?15 200 27 648+ − and e 2012 I
+a. 4 b. 14 7 c. 3 5 d. 5 3
+Sol. c. Let mean proportional between ( )15 200+ and
+( )27 648− is x
+Then, x = + −( )( )15 200 27 648
+= + −( )( )15 10 2 27 18 2
+= + −5 3 2 2 9 3 2 2( ). ( ) = − 45 3 2 22 2[( ) ( ) ]
+= − = =45 9 8 45 3 5( )
+3. Third Proportional If a : b : : b : c, then c is called
+the 3rd proportional to a and b. Now, c will be
+calculated as below:
+a b b c a b b c c b
+a
+: : : : : : ⇒ = ⇒ =
+2
+EXAMPLE 7. The two numbers such that their mean
+proportional is 24 and the third proportional is 1536, are
+a. 3 and 98 b. 6 and 96 c. 4 and 92 d. None of these
+Sol. b. Let and be the required numbers, then mean
+proportional between and is 24.
+∴ : :24 24= ⇒ = 242, = 576 …(i)
+and third proportional to and is 1536.
+⇒ : : = 1536
+⇒ 2 1536= ⇒ =
+2
+1536
+…(ii)
+On putting the value of in Eq. (i), we get
+⇒
+2
+1536 576⋅ = ⇒ 3 576 1536= ×
+⇒ 3 3 96 6 96 16 96= × × × =( ) ( ) ⇒ = 96
+∴ = = =576 576
+96 6 [from Eq. (i)]
+Hence, the required numbers are 6 and 96.
+4. Fourth Proportional If four numbers or quantities
+a, b, c and d are in proportion, then d is known as
+fourth proportional.
+i.e. a : b : : c : d
+EXAMPLE 8. The fourth proportional to
+p pq q , p q , p q2 2 3 3− + + − is
+a. p q+ b. p q− c. p q2 2+ d. p q2 2−
+Sol. d. Let the fourth proportional be x.
+Then, 2 2 3 3− + + = − : : x
+⇒
+2 2
+3 3
+− +
++ = −
+x ⇒
+x = − +
+− +
+( ) ( ) 3 3
+2 2
+∴ x = − +
+− +
+( ) ( ) 3 3
+2 2 = − + = −( ) ( ) ( ) 2 2
+Properties of Proportion
+If four non zero quantities a, b, c and d are in proportion,
+then properties of proportion are as follows.
+1. Invertendo If a : b : : c : d, then b : a : : d : c
+i.e.
+a
+b
+c
+d
+= ⇒
+b
+a
+d
+c
+=
+2. Alternendo If a : b :: c : d, then a : c :: b : d
+i.e.
+a
+b
+c
+d
+= ⇒
+a
+c
+b
+d
+=
+3. Componendo (Adding the Denominator)
+If a : b :: c : d, then ( ): : : ( ):a b b c d d+ +
+i.e. a
+b
+c
+d
+= ⇒
+a b
+b
+c d
+d
++ = +
+4. Dividendo (Subtracting the Denominator)
+If a : b :: c : d, then a a b c c d: ( ): : : ( )− −
+i.e. a
+b
+c
+d
+= ⇒
+a
+a b
+c
+c d−
+=
+−
+5. Componendo and Dividendo
+If a : b :: c : d, then ( ): ( ): : ( ): ( )a b a b c d c d+ − + −
+i.e.
+a
+b
+c
+d
+= ⇒
+a b
+a b
+c d
+c d
++
+−
+= +
+−
+EXAMPLE 9. If ( ) : ( ) :a b a b− + = 1 5 , then what is
+( ) : ( )a b a b2 2 2 2− + equal to?
+a. 13
+5 b. 4
+13 c. 5
+13 d. None of these
+Sol. c. Given, −
++ = 1
+5 ⇒
++
+− = 5
+1 ⇒
++ + −
++ − + = +
+−
+5 1
+5 1
+(using componendo and dividendo rule)
+⇒
+2
+2
+6
+4
+3
+2
+= = ⇒ = 3
+2 ⇒
+2
+2
+9
+4=
+Again, using componendo and dividendo rule
+⇒
+2 2
+2 2
+9 4
+9 4
+13
+5
++
+− = +
+− =
+⇒
+2 2
+2 2
+5
+13
+−
++ = ∴ ( ) : ( ) :2 2 2 2 5 13− + =
+103MATHEMATICS Ratio and Proportion
+--- PDF PAGE 309 ---
+MIXTURE OR ALLIGATION
+If two or more quantities are mixed together in a certain
+ratio, then the product is called mixture.
+Mean Price
+Cost price of a unit quantity of the mixture is called the
+mean price.
+Rule of Mixture or Alligation
+It is the rule to find the ratio in which two or more
+ingredients are mixed or to be mixed.
+If two quantities are mixed in the ratio n n1 2: , then
+n
+n
+P P
+P P
+m
+m
+1
+2
+2
+1
+= −
+−
+where P P1 2, and Pm are cheaper price, dearer price and
+mean price respectively.
+It can also be expressed as
+∴
+Cheaper quantity
+Dearer quantity
+= = −
+−
+n
+n
+P P
+P P
+m
+m
+1
+2
+2
+1
+Note P P P m1 2< <
+EXAMPLE 10. In what proportion, must wheat at
+` 6.20 per kg be mixed with wheat at ` 7.20 per kg, so
+that the mixture be worth ` 6.50 per kg?
+a. 6 : 4 b. 7 : 4 c. 7 : 3 d. 5 : 2
+Sol. c. Given, cost price of cheaper quantity = ` 6.20 per kg
+Cost price of dearer quantity ` 7.20 per kg
+Mean price = ` 6.50 per kg
+According to the rule of alligation,
+∴ Required ratio = =70 30 7 3: :
+VARIATIONS
+When a change in a certain quantity leads to a certain
+change in another quantity then it is called variations.
+Direct Variation
+If x varies directly with y, then as x increses (decrease) y
+also increases (decreases)
+i.e. x y∝
+⇒ x ky= . where, k is the constant of variation.
+Inverse Variation
+If x varies inversely with y, then an increase is the value
+of x causes a decreases in the value of y.
+i.e.
+x
+y
+∝ 1
+⇒ x k
+y
+= ′
+where, ′k is the constant of variation.
+EXAMPLE 11. If a quantity y varies as the sum of
+three quantities of which the first varies as x, the
+second varies as − +x x 2, the third varies as x x3 2− ,
+then what is y equal to?
+a. kx3, where k is a constant
+b. k l mx x x+ + 2 3 , where k l, and m are constants
+c. kx2, where k is a constant
+d. kx, where k is a constant
+Sol. b. Since, first term ∝ x
+⇒ First term = 1x ,
+⇒ Second term ∝ − +( ) x x 2
+⇒ Second term = − +2
+2( ) x x
+and third term ∝ −( )x x3 2 ⇒ Third term = −3
+3 2( )x x
+Also, ∝ + − + + −[ ( ) ( )]1 2
+2
+3
+3 2x x x x x (given)
+⇒ = − + − +4 1 2 2 3
+2
+3
+3[( ) ( ) ] x x x
+= − + − +4 1 2 2 3 4
+2
+3 4
+3( ) ( ) x x x
+= + +x x x 2 3
+where, = −4 1 2( ) ,
+= −( )2 3 4 ,
+and = 3 4
+104 CDS Pathfinder
+Cheaper price Dearer price
+P1 P2
+– P mP2 Pm– P 1
+Mean price
+Pm
+Mean price
+(650 paise)
+CP of dearer
+(720 paise)CP of cheaper
+(620 paise)
+= 70 paise
+(650 – 620)
+= 30 paise(720 – 650)
+--- PDF PAGE 310 ---
+1. The compounded ratio of 2 6 7 49a b a b: , : and
+3 12a b: is
+(a) a b: 84 (b) a b3 3 84 : (c) a b: 24 (d) 2 3a b:
+2. The subduplicate ratio of 16 6254 6x y: is
+(a) 4 252 3x : y (b) 4 252 2x : y (c) 4 25x : y (d) 8 1252 3x : y
+3. If x x+ +5 3 4: is the duplicate ratio of 5 8 : , then
+the value of x is
+(a) 16 (b) 18 (c) 20 (d) 22
+4. If x : : : :6 5 3 , then the value of x is
+(a) 8 (b) 10 (c) 12 (d) 13
+5. The third proportional to 9 and 12 is
+(a) 12 (b) 14 (c) 16 (d) 18
+6. The mean proportional between
+( )2 3+ and
+( )8 48− is
+(a) 2 (b) 3 (c) 4 (d) 5
+7. The fourth proportional to 7, 11, 14 is
+(a) 16 (b) 18 (c) 20 (d) 22
+8. In a ratio which is equal to 7 : 8, if the
+antecedent is 35, then the consequent is
+(a) 30 (b) 32 (c) 36 (d) 40
+9. If x : :y = 1 3 , y z k: : ,= 5 z t: : = 2 5 and t : : ,x = 3 4
+then what is the value of k?
+(a) 1/2 (b) 1/3 (c) 2 (d) 3
+10. If the ratio of x to y is 25 times the ratio of y to
+x, then what is the ratio of x to y?
+(a) 1 : 5 (b) 5 : 1 (c) 25 : 1 (d) 1 : 25
+11. If p% of ` x is equal to t times q% of ` y, then
+what is the ratio of x to y ?
+(a) pt q: (b) p qt: (c) qt p: (d) q pt:
+12. If a b: : = 2 3 and x y: : = 3 4 , then the value of
+4 3
+5 2
+ay bx
+ax by
+−
+−
+is
+(a)
+5
+3
+(b)
+5
+6
+(c)
+4
+5
+(d)
+5
+4
+13. If
+x x
+x
+3
+2
+3
+3 1
+341
+91
++
++
+= , then the value of x is
+(a) 16 (b) 14 (c) 13 (d) 11
+14. What is the number which has to be added to each
+term of the ratio 49 : 68, so that it becomes 3 : 4?
+(a) 3 (b) 5 (c) 8 (d) 9
+15. Divide 1870 into three parts in such a way that
+half of the first part, one-third of the second part
+and one-sixth of the third part are equal. Then,
+the third part is
+(a) 340 (b) 510 (c) 1020 (d) 1320
+16. Out of the ratios 7 : 20, 13 : 25, 17 : 30 and
+11 : 15, the smallest one is
+(a) 11 : 15 (b) 7 : 20 (c) 11 : 16 (d) 17 : 30
+17. What is the ratio of the numbers of 0.5 of a
+number is equal to 0.07 of another ?
+(a) 50 : 7 (b) 5 : 7 (c) 1 : 14 (d) 7 : 50
+18. What is the ratio whose terms differ by 40 and
+the measure of which is
+2
+7
+?
+(a) 14 : 56 (b) 15 : 56 (c) 16 : 56 (d) 16 : 72
+19. If P : Q
+= 3
+5
+5
+7
+: and Q : R
+= 3
+4
+2
+5
+: , then what is
+P : Q : R equal to?
+(a)
+3
+5
+5
+7
+2
+5
+: : (b)
+9
+20
+15
+28
+2
+7
+: : (c)
+3
+5
+3
+4
+2
+5
+: : (d)
+3
+5
+5
+7
+3
+4
+: :
+20. Two numbers are in the ratio 3 : 5. If 9 is
+subtracted from each number, then they are in
+the ratio of 12 : 23. What is the second number?
+(a) 44 (b) 55 (c) 66 (d) 77
+21. The mean proportional between two numbers is
+28 and their third proportional to them is 224.
+The two numbers are
+(a) 7 and 112 (b) 14 and 56 (c) 28 and 28 (d) 21 and 36
+22. ` 770 have been divided among A B C, , in such a
+way that A receives
+2
+9
+th of what B and C together
+receive. What is A’s share?
+(a) ` 154 (b) ` 140 (c) ` 250 (d) ` 254
+23. x varies directly as y and inversely as square of
+z. When y = 4 and z x= =14 10, then . If y = 16
+and z = 7, what is x?
+(a) 180 (b) 160 (c) 154 (d) 140
+24. If
+x m n m n
+m n m n
+= + + −
++ − −
+3 3
+3 3
+, then
+(a) 3 2 3 02n m nx x− + = (b) 2 2 3 02n m nx x− + =
+(c) 3 2 3 02n m nx x− − = (d) 3 3 3 02n m nx x+ + =
+25. If p r q+ = 2 and
+1 1 2
+q s r
++ = , then
+(a) p s r q: : = (b) p r q s2 2: : =
+(c) p q r s: : = (d) p r s2 2= +
+105MATHEMATICS Ratio and Proportion
+PRACTICE EXERCISE
+--- PDF PAGE 311 ---
+26. If q is the mean proportional between p and r,
+then p q r
+p q r
+2 2 2
+2 2 2
+− +
+− +− − − is equal to
+(a) p q2 3 (b) q 3 (c) q 4 (d) p r q2 2 4
+27. The monthly incomes of A and B are in the ratio
+4 3 :. Each of them saves ` 600. If the ratio of the
+expenditure is 3 : 2, then what is the monthly
+income of A ?
+(a) ` 2400 (b) ` 1800 (c) ` 2000 (d) ` 3600
+28. Three numbers are in the ratio 3 : 2 : 5 and the
+sum of their squares is 1862. What are the three
+numbers?
+(a) 18, 12, 30 (b) 24, 16, 40
+(c) 15, 10, 25 (d) 21, 14, 35
+29. The speeds of three cars are in the ratio 4 : 3 : 2.
+What is the ratio between the times taken by the
+cars to cover the same distance?
+(a) 2 : 3 : 4 (b) 3 : 4 : 6
+(c) 1 : 2 : 3 (d) 4 : 3 : 2
+30. The ratio between the ages of A and B is 2 : 5.
+After 8 yr, their ages will be in the ratio 1 : 2.
+What is the difference between their present
+ages?
+(a) 20 yr (b) 22 yr (c) 24 yr (d) 25 yr
+31. Let y is equal to the sum of two quantities of which
+one varies directly as x and the other inversely as x.
+If y = 6 when x = 4 and y = 10 3 / ,when x = 3, then
+what is the relation between x and y?
+(a) y = +x x ( / ) 4 (b) y = − +2 4x x ( / )
+(c) y = +2 8x x ( / ) (d) y = −2 8x x ( / )
+32. If ` 8400 is divided among A B, and C in the
+ratio
+1
+5
+1
+6
+1
+10
+: : , what is the share of A?
+(a) ` 1800 (b) ` 3000 (c) ` 3600 (d) ` 4000
+33. A certain amount of money has to be divided
+between two persons P and Q in the ratio 3 : 5.
+But it was divided in the ratio of 2 : 3 and there
+by Q loses ` 10. What was the amount?
+(a) ` 250 (b) ` 300 (c) ` 350 (d) ` 400
+34. 20 L of a mixture contains milk and water in the
+ratio 4 : 3. If 6 L of this mixture are replaced by
+6 L of milk, the ratio of milk to water in the new
+mixture will become
+(a) 7 : 3 (b) 8 : 3 (c) 9 : 7 (d) 4 : 6
+35. Two vessels are full with milk and water in the
+ratios 1 : 3 and 3 : 5, respectively. If both are
+mixed in the ratio 3 : 2, what is the ratio of milk
+and water in the new mixture?
+(a) 4 : 15 (b) 3 : 7
+(c) 6 : 7 (d) None of these
+36. A mixture contains milk and water in the ratio
+5 : 1. On adding 5 L of water, the ratio of milk
+and water becomes 5 : 2. What is the quantity of
+milk in the original mixture?
+(a) 5 L (b) 25 L
+(c) 27.5 L (d) 32.5 L
+37. If x varies as the mth power of y y, varies as the
+nth power of z and x varies as the p th power of
+z, then which one of the following is correct?
+(a) p m n= + (b) p m n= −
+(c) p mn= (d) None of these
+38. The wages of labourers in a factory has increased
+in the ratio 22 : 25 and their number decreased in
+the ratio 3 : 2. What was the original wage bill of
+the factory, if the present bill is ` 5000?
+(a) ` 4000 (b) ` 6000
+(c) ` 8000 (d) None of these
+39. The ratio of A to B is x : 8 and the ratio of B to C
+is 12 : z. If the ratio of A to C is 2 : 1, then what
+is the ratio of x : z ?
+(a) 2 : 3 (b) 3 : 2 (c) 4 : 3 (d) 3 : 4
+40. A bag contains ` 112 in the form of ` 1, 50 paise
+and 10 paise coins in the ratio 3 : 8 : 10. What is
+the number of 50 paise coins?
+(a) 112 (b) 108 (c) 96 (d) 84
+41. In a class, the number of boys is more than
+the number of girls by 12% of the total students.
+What is the ratio of number of boys to that of
+girls?
+(a) 11 : 14 (b) 14 : 11
+(c) 28 : 25 (d) 25 : 28
+42. A sum of ` 53 is divided among A B C, , in such a
+way that A gets ` 7 more than what B gets and B
+gets ` 8 more than what C gets. The ratio of
+their shares is
+(a) 25 : 18 : 10 (b) 6 : 7 : 8
+(c) 12 : 14 : 9 (d) 15 : 8 : 30
+43. A person P started a business with a capital of
+` 2525 and another person Q joined P after some
+months with a capital of ` 1200. Out of the total
+annual profit of ` 1644, P′s share was ` 1212.
+When did Q join as partner?
+(a) After 2 months (b) After 3 months
+(c) After 4 months (d) After 5 months
+44. Seats for Mathematics, Physics and Biology in a
+school are in the ratio 5 : 7 : 8. There is a proposal
+to increase these seats by 40%, 50% and 75%,
+respectively What will be the ratio of increased
+seats?
+(a) 2 : 3 : 4 (b) 6 : 7: 8
+(c) 6 : 8: 9 (d) 5 : 7 : 12
+106 CDS Pathfinder
+--- PDF PAGE 312 ---
+45. The ratio between the number of passengers
+travelling by I and II class between the two
+railway stations is 1:50, whereas the ratio of I
+and II class fares between the same station is
+3:1, If on a particular day, ` 1325 were collected
+from the passengers travelling between these
+stations, then what was the amount collected
+from the II class passengers?
+(a) ` 750 (b) ` 1000
+(c) ` 850 (d) ` 1250
+46. If x varies inversely as the square of y in such a
+way that, if x = 1, then y = 6.
+I. If y = 3, then x = 4 II. If y = 6, then x = 1
+Which of the following options is correct?
+(a) Only II (b) Both I and II
+(c) Only I (d) Neither I nor II
+47. If a b c d e f: : := = = 1 : 2, then
+I. 3 5 7
+3 5 7
+1
+3
+a c e
+b d f
++ +
++ + = II.
+a c e
+b d f
+2 2 2
+2 2 2
+1
+2
++ +
++ +
+=
+Which of the following option is correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+48. A cat takes 5 leaps for every 4 leaps of a dog but
+3 leaps of the dog are equal to 4 leaps of the cat.
+Now, the
+I. Ratio of the speeds of the cat to that of the dog
+is 15 : 16.
+II. Ratio of the distance of the cat to that of the dog
+is 15:16, covered in 30 min.
+Which of the following option is correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+49. Determine the ratio of the number of people
+having characteristic X to the number of people
+having characteristic Y in a population of 100
+subjects from the following table:
+Having X and Y 10
+Having X but not Y 30
+Having Y but not X 20
+Having neither X nor Y 40
+(a) 4:3 (b) 3:2 (c) 1:2 (d) 2:3
+50. Fresh grapes contain 90 percent water by weight
+while dried grapes contain 20 percent water by
+weight. What is the weight of dry grapes contain
+20 percent water by weight. What is the weight
+of dry grapes available from 20 kg of fresh
+grapes?
+(a) 2 kg (b) 2.4 kg
+(c) 2.5 kg (d) None of these
+PREVIOUS YEARS’ QUESTIONS
+51. If x : :y = 7 5 , then what is the value of
+( ) : ( )?5 2 3 2x x− + y y e 2012 I
+(a) 5/4 (b) 6/5 (c) 25/31 (d) 31/42
+52. Two numbers are in the ratio 2 : 3. If 9 is added
+to each number, they will be in the ratio 3 : 4.
+What is the product of the two numbers? e 2012 I
+(a) 360 (b) 480 (c) 486 (d) 512
+53. A milkman bought 15 kg of milk and mixed 3 kg
+of water in it. If the price per kg of the mixture
+becomes ` 22, what is cost price of the milk
+per kg? e 2012 II
+(a) ` 28.00 (b) ` 26.40 (c) ` 24.00 (d) ` 22.60
+54. Sex ratio is defined as the number of females per
+1000 males. In a place, the total inhabitants are
+1935000, out of which 935000 are females. What
+is the sex ratio for the place? e 2012 II
+(a) 935 (b) 1000
+(c) 1935 (d) 9350
+55. In a certain school, the ratio of boys to girls is
+7 5 : . If there are 2400 students in the school,
+then how many girls are there? e 2013 I
+(a) 500 (b) 700 (c) 800 (d) 1000
+56. If A B B C: : , : := =2 3 5 7 and C D: : = 3 10 , then
+what is A : D equal to? e 2014 I
+(a) 1 : 7 (b) 2 : 7 (c) 1 : 5 (d) 5 : 1
+57. ( ) : ( ) :x y x y+ − = 3 5 and xy = positive imply that
+(a) x and y are both positive e 2014 II
+(b) x and y are both negative
+(c) one of them is positive and one of them is negative
+(d) no real solution for x and y exists
+58. The ratio of ages of A and B is 2 5 : and the ratio
+of ages of B and C is 3 4 :. What is the ratio of
+ages of A B, and C? e 2014 II
+(a) 6 : 15 : 20 (b) 8 : 5 : 3
+(c) 6 : 5 : 4 (d) 2 : 15 : 4
+59. The height of a tree varies as the square root of
+its age (between 5 to 17 yr). When the age of the
+tree is 9 yr, its height is 4 ft. What will be the
+height of the tree at the age of 16 yr? e 2014 II
+(a) 5 ft 4 inch (b) 5 ft 5 inch
+(c) 4 ft 4 inch (d) 4 ft 5 inch
+60. 16 L of a mixture contains milk and water in the
+ratio 5 3 :. If 4 L of milk is added to this mixture,
+the ratio of milk to water in the new mixture
+would be e 2015 I
+(a) 2 : 1 (b) 7 : 3 (c) 4 : 3 (d) 8 : 3
+107MATHEMATICS Ratio and Proportion
+--- PDF PAGE 313 ---
+61. If a b: : = 3 5 and b c: : = 7 8 , then 2 3 7a b c: : is
+equal to e 2015 II
+(a) 42 : 105 : 320 (b) 15 : 21 : 40
+(c) 6 : 15 : 40 (d) 30 : 21 : 350
+62. The speeds of three buses are in the ratio 2 : 3 :
+4. The time taken by these buses to travel the
+same distance will be in the ratio. e 2015 II
+(a) 2 : 3 : 4 (b) 4 : 3 : 2
+(c) 4 : 3 : 6 (d) 6 : 4 : 3
+63. In a mixture of milk and water of volume 30 L,
+the ratio of milk and water is 7 : 3. The quantity
+of water to be added to the mixture to make the
+ratio of milk and water 1 : 2 is e 2015 II
+(a) 30 (b) 32
+(c) 33 (d) 35
+64. The annual incomes of two persons are in
+the ratio 9 : 7 and their expenses are in the ratio
+4 : 3. If each of them saves ` 2000 per year, what
+is the difference in their annual incomes?
+e 2016 I
+(a) ` 4000 (b) ` 4500 (c) ` 5000 (d) ` 5500
+65. If
+a
+b
+b
+c
+c
+d
+= = , then which of the following is/are
+correct?
+I. b c d
+a b c
+d
+a
+3 3 3
+3 3 3
++ +
++ +
+= II.
+a b c
+b c d
+a
+d
+2 2 2
+2 2 2
++ +
++ +
+=
+Select the correct answer using the code given
+below. e 2016 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+108 CDS Pathfinder
+ANSWERS
+1 b 2 a 3 c 4 b 5 c 6 a 7 d 8 d 9 a 10 b
+11 c 12 b 13 d 14 c 15 c 16 b 17 d 18 c 19 b 20 b
+21 b 22 b 23 b 24 a 25 c 26 c 27 a 28 d 29 b 30 c
+31 d 32 c 33 d 34 a 35 b 36 b 37 c 38 d 39 c 40 a
+41 b 42 a 43 b 44 a 45 d 46 b 47 d 48 c 49 a 50 c
+51 c 52 c 53 b 54 a 55 d 56 a 57 d 58 a 59 a 60 b
+61 c 62 d 63 c 64 a 65 a
+HINTS AND SOLUTIONS/CharA0 
+1. (b) The required compounded ratio is
+2
+6
+7
+49
+3
+12 84
+3
+3
+a
+b
+a
+b
+a
+b
+a
+b
+× × = = a b3 3 84 :
+2. (a) The subduplicate ratio of
+16 6254 6x : y is
+16
+625
+4
+25
+4 25
+4
+6
+2
+3
+2 3x x x
+y y
+y= = :
+3. (c) Duplicate ratio of 5 8 5
+8
+2
+2: =
+⇒
+5
+8
+5
+3 4
+2
+2 = +
++
+x
+x
+⇒
+25
+64
+5
+3 4
+= +
++
+x
+x
+⇒ 25 3 4 64 5( ) ( )x x+ = +
+⇒ 75 100 64 320x x+ = +
+⇒ 75 64 320 100x x− = −
+⇒ 11 220x =
+∴
+x = =220
+11
+20
+4. (b) Given, x : : : :6 5 3
+∴ x
+6
+5
+3
+= ⇒ 3 30x = ⇒
+x = =30
+3
+10
+5. (c) Let the third proportional to 9 and
+12 be x.
+∴ 9 12 12: : : : x
+⇒ 9
+12
+12=
+x
+⇒ 9 144x =
+∴ x = =144
+9
+16
+6. (a) Mean proportional between
+( )2 3+ and ( )8 48−
+= + −( ) ( )2 3 8 48
+= + −( ) ( )2 3 4 2 3
+= + −2 2 3 2 3( ) ( )
+= − = × =2 4 3 2 1 2( )
+[ ( )( ) ]/c81 a b a b a b− + = − 2 2
+7. (d) Let fourth proportional be x, then
+7 11 14: : : : x
+⇒ 7
+11
+14=
+x
+⇒ 7 11 14x = ×
+⇒ x = ×2 11
+∴ x = 22
+8. (d) Let the consequent be x.
+∴ 35 7 8: :x =
+Then, 35 7
+8x
+= [by given condition]
+⇒ 7 35 8x = × ∴ x = × =35 8
+7
+40
+9. (a) Given, x : :y = 1 3 , y z k: : = 5 ,
+z t: : = 2 5 and t : :x = 3 4
+x
+xy
+y
+z
+z
+t
+t× × × = 1
+⇒ 1
+3
+5 2
+5
+3
+4
+1× × × =
+k
+⇒ k = 1
+2
+10. (b) Given, x
+xy
+y= 
+ 
+25
+⇒
+x2
+2
+25
+1y
+= ⇒ x
+y
+= 5
+1
+or , 5 : 1
+11. (c) According to the question,
+p % of x = t ( q% of y )
+⇒ xp yq t
+100 100
+= ×
+∴ x : :y qt p=
+--- PDF PAGE 314 ---
+12. (b) 4 3
+5 2
+ay b
+a by
+−
+−
+x
+x [dividing numerator and
+denominator by by]
+=
+−
+−
+=
+
+ 
+ − 
+
+ 
+
+
+
+ 
+4 3
+5 2
+4 3
+5
+ay
+by
+b
+by
+a
+by
+by
+by
+a
+b y
+a
+b
+x
+x
+x
+
+
+
+ 
+
+ −x
+y
+2
+=
+
+ 
+ − 
+ 
+
+
+ 
+
+ 
+ −
+4 2
+3
+3 3
+4
+5 2
+3
+3
+4
+2
+=
+−
+−
+8
+3
+9
+4
+5
+2
+2
+=
+−
+− =
+32 27
+12
+5 4
+2
+5
+12
+1
+2
+= × =5
+12
+2
+1
+5
+6
+13. (d) Given, x x
+x
+3
+2
+3
+3 1
+341
+91
++
++
+=
+By componendo and dividendo rule,
+x x x
+x x x
+3 2
+3 2
+3 3 1
+3 3 1
+341 91
+341 91
+432
+250
++ + +
++ − −
+=
++
+−
+=
+⇒
+( )
+( )
+x
+x
++
+−
+=1
+1
+216
+125
+3
+3
+[/c81( ) ( )a b a b ab a b+ = + + +3 3 3 3 ]
+On cube roots both sides, we get
+⇒
+x
+x
++
+−
+=1
+1
+6
+5
+⇒ 5 1 6 1( ) ( )x x+ = −
+∴ x = 11
+14. (c) Let the number be x
+∴ 49
+68
+3
+4
++
++
+=x
+x
+⇒ 196 4 204 3+ = +x x
+∴ x = 8
+15. (c) Let the three parts be A B C, and .
+By given condition,
+1
+2
+1
+3
+1
+6
+A B C= = = x [say]
+∴ 1
+2
+A = x ⇒ A = 2x
+1
+3
+B = x ⇒ B = 3x
+1
+6
+C = x ⇒ C = 6x
+As, A B C+ + = 1870
+[by given condition]
+∴ 2 3 6 1870x x x+ + =
+⇒ 11 1870x =
+∴ x = =1870
+11
+170
+∴ Third part i.e. C = × =6 170 1020
+16. (b) LCM of 20, 25, 30, 15 is 300.
+So, 7
+20
+7
+20
+15
+15
+105
+300
+= × =
+⇒
+13
+25
+13
+25
+12
+12
+156
+300
+= × =
+⇒
+17
+30
+17
+30
+10
+10
+170
+300
+= × =
+and
+11
+15
+11
+15
+20
+20
+220
+300
+= × =
+As,
+105
+300
+is the smallest, so 7
+20
+or, 7 : 20 is
+the smallest ratio.
+17. (d) Let the numbers be A Band .
+∴ 0 5 0 07. . A B= [by given condition]
+⇒ A
+B
+= =0 07
+0 5
+7
+50
+.
+.
+i.e. 7 50 :
+18. (c) Let the ratio be x and ( )x + 40 .
+Then, by given condition, x
+x +
+=
+40
+2
+7
+⇒ 7 2 80x x= + ⇒ x = 16
+So, the required ratio is 16 56 :.
+19. (b) Given,
+P Q: : = 3
+5
+5
+7
+…(i)
+and
+Q R: : = 3
+4
+2
+5
+…(ii)
+From Eq. (i), P Q: : = × ×3
+5
+3
+4
+5
+7
+3
+4
+= 9
+20
+15
+28
+: …(iii)
+From Eq. (ii),
+Q R: : = × ×3
+4
+5
+7
+2
+5
+5
+7
+= 15
+28
+2
+7
+: …(iv)
+From Eqs. (iii) and (iv),
+P Q R: : : : = 9
+20
+15
+28
+2
+7
+20. (b) Let two numbers be 3x and 5x,
+respectively.
+According to the question,
+( ) : ( ) :: :3 9 5 9 12 23x x− −
+⇒
+3 9
+5 9
+12
+23
+x
+x
+−
+−
+=
+⇒ 69 207 60 108x x− = −
+69 60 207 108x x− = − ⇒ 9 99x =
+∴ x = 11
+∴ Second number = = × =5 5 11 55x
+21. (b) Let the numbers are a and b and its
+mean proportional is x
+∴ a x x b: : : :
+a b: : : :28 28 ( ) /c81x = 28
+⇒ 282 = ab …(i)
+Again, a b b: : : : 224
+⇒ b a2 224= × ⇒
+a b=
+2
+224
+…(ii)
+From Eq. (i) say,
+28
+224
+2
+2
+= × b b
+⇒ b 3 28 28 224= × ×
+⇒ b = 56
+Again from Eq. (i) say,
+a = × =28 28
+56
+14
+22. (b) As, A B C: ( ) : + = 2 9 [given]
+Sum of ratios = + =2 9 11
+So, A ’s part = 770 2
+11
+× = ` 140
+23. (b) Given, x ∝ y and x ∝ 1
+2z
+Now, x ∝ y
+z2 ⇒ x = ky
+z2
+/c81 x = 10 , y = 4 and z = 14
+∴ 10
+4
+196
+=
+⋅k
+⇒ k = =1960
+4
+490
+Now, z = 7 and y = 16, then
+x = ×
+×
+=490 16
+7 7
+160
+24. (a) x
+1
+3 3
+3 3
+=
++ + −
++ − −
+m n m n
+m n m n
+By componendo and dividendo rule,
+x
+x
++
+−
+1
+1
+=
++ + −
++ + −
+m n m n
+m n m n
+3 3
+3 3
++ + − −
+− + + −
+m n m n
+m n m n
+3 3
+3 3
+⇒ x
+x
++
+−
+= +
+−
+1
+1
+3
+3
+m n
+m n
+On squaring both sides, we get
+( )
+( )
+x
+x
++
+−
+= +
+−
+1
+1
+3
+3
+2
+2
+m n
+m n
+Again applying componendo and
+dividendo rule,
+( ) ( )
+( ) ( )
+x x
+x x
++ + −
++ − −
+1 1
+1 1
+2 2
+2 2 = + + −
++ − +
+m n m n
+m n m n
+3 3
+3 3
+⇒
+2 1
+2 2
+2
+2 3
+2( )
+( ) ( )
+x
+x
++ = m
+n
+⇒ x
+x
+2 1
+2 3
++ = m
+n
+⇒ 3 1 2 2n m( )x x+ =
+∴ 3 2 3 02n m nx x− + =
+25. (c) Given, p r q+ = 2 ⇒ 2 = +p r
+q
+and 1 1 2
+q s r
++ =
+⇒ 1 1
+q s
+p r
+qr
++ = + ⇒ s q
+sq
+p r
+qr
++ = +
+⇒ r s q s p r( ) ( )+ = +
+⇒ rq sp= ⇒ p
+q
+r
+s
+=
+∴ p q r s: : =
+109MATHEMATICS Ratio and Proportion
+--- PDF PAGE 315 ---
+26. (c) As, given q pr2 =
+p q r
+p q r
+p q r
+p pr r
+2 2 2
+2 2 2
+2 2 2
+2 2
+1 1 1
+− +
+− +
+=
+− +
+− +
+− − −
+= − +
+− +
+p q r
+r pr p
+p r
+2 2 2
+2 2
+2 2
+= − +
+− +
+( )( )
+( )
+p r p q r
+r pr p
+2 2 2 2 2
+2 2
+= − +
+− +
+( )( )
+( )
+p r p pr r
+r pr p
+2 2 2 2
+2 2
+= = = =p r pr q q2 2 2 2 2 4( ) ( )
+27. (a) Let monthly incomes of A ’s and B’s
+be 4 3x xand respectively
+Each saving = ` 600
+/c81Income − saving = Expenditure
+∴ 4 600
+3 600
+3
+2
+x
+x
+−
+−
+=
+⇒ 2 4 600 3 3 600( ) ( )x x− = −
+8 1200 9 1800x x− = −
+⇒ 1800 1200 9 8− = − x x ⇒ x = 600
+∴ A ’s income = 4x = × =4 600 ` 2400
+28. (d) Let three numbers be 3 2x x, and 5x,
+respectively.
+According to the question,
+( ) ( ) ( )3 2 5 18622 2 2x x x+ + =
+⇒ 9 4 25 18622 2 2x x x+ + =
+⇒ x 2 1862
+38
+49= = ∴ x = 7
+Hence, the numbers are 3 7 2 7× × , and
+5 7× i.e. 21, 14 and 35.
+29. (b) Speed ∝ 1
+Time
+∴ Required ratio = 1
+4
+1
+3
+1
+2
+: : = 3 4 6: :
+30. (c) Let the ages of A and B be 2x yr and
+5x yr, respectively.
+After 8 yr age of A = +( )2 8x yr
+and age of B = +( )5 8x yr
+According to the question, 2 8
+5 8
+1
+2
+x
+x
++
++
+=
+⇒ 4 16 5 8x x+ = +
+⇒ x = 8
+∴ Difference between their present ages
+= − =5 2 3x x x = × =3 8 24 yr
+31. (d) By given condition,
+y l m= +x
+x
+…(i)
+where, l and m are proportionality
+constants.
+when y = 6 and x = 4,
+then
+6 4
+4
+= +l m
+⇒ 16 24l m+ = …(ii)
+when y = 10
+3
+and x = 3 ,
+then 10
+3
+3
+3
+= +l m ⇒ 9 10l m+ = …(iii)
+On solving Eqs. (ii) and (iii),
+l = 2 and m = − 8
+From Eq. (i), y = −2 8x
+x
+32. (c) Given, A B C: : : : = 1
+5
+1
+6
+1
+10
+= 6 5 3: :
+∴ Share of A =
++ +
+×6
+6 5 3
+8400
+= × 6
+14
+8400 = ` 3600
+33. (d) Let the amount be ` x.
+In first condition, Q’s part =
++
+=5
+5 3
+5
+8
+x x
+In second condition, Q’s part
+=
++
+=3
+2 3
+3
+5
+x x
+By given condition,
+5
+8
+3
+5
+10x x− =
+⇒
+x
+40
+10= ⇒ x = ` 400
+34. (a) Remaining mixture = − =20 6 14 L
+Quantity of milk = × =14 4
+7
+8 L
+∴ Water contents = − =14 8 6 L
+/c81 Milk in new mixture
+= + =8 6 14 L and water = 6 L
+∴ Ratio of milk and water in new
+mixture
+= =14
+6
+7
+3
+Hence, the required ratio 7 3 :.
+35. (b) Let x be the part of milk in new
+mixture.
+By law of mixture,
+∴
+3
+8
+1
+4
+3
+2
+−
+−
+=
+x
+x
+⇒
+3
+4
+2 3 3
+4
+− = −x x
+⇒ 5 6
+4
+3
+2
+x = = ∴
+x = 3
+10
+Required ratio =
+−
+=3
+10 3
+3
+7
+or, 3 : 7
+36. (b) Let quantities of milk and water be
+5x and x L, respectively.
+According to the question, 5
+5
+5
+2
+x
+x +
+=
+⇒ 10 5 25x x= +
+∴ x = 5
+Hence, the quantity of milk in the
+original mixture = × =5 5 25 L
+37. (c) Given, x ∝ y m ...(i)
+y z n∝ ...(ii)
+x ∝ z p ...(iii)
+On putting the values of x and y from
+Eqs. (ii) and (iii) in Eq. (i), we get
+z zp n m∝ ( ) ⇒ z zp mn∝
+∴ p mn=
+38. (d) Let the initial and final salary be
+` 22x and ` 25x, respectively.
+and let initial and final number of
+employees be 3 y and 2 y, respectively.
+∴ Present bill = Final salary × Final
+number of employees
+5000 25 2= × x y
+⇒
+5000
+50
+= xy ⇒ xy = 100
+∴ Original bill = Initial salary × Initial
+number of employees
+= ×22 3x y
+= = × =66 66 100 6600xy `
+39. (c) Given,
+A B B C z: : : := =x 8 12and
+⇒ A C A
+C
+A
+B
+B
+C
+: = = × = × =x x
+8
+12 3
+2z z
+But A C: : = 2 1
+⇒ 3
+2
+2
+1
+x
+z
+= ⇒ x : :z = 4 3
+40. (a) Let the number of coins of ` 1, 50
+paise and 10 paise be 3 8x x, and 10x,
+respectively
+According to the question,
+3
+1
+8
+2
+10
+10
+112x x x+ + =
+⇒ 3 4 112x x x+ + =
+⇒ x = =112
+8
+14
+∴ Number of 50 paise coins
+= × =14 8 112
+41. (b) Let the number of boys and girls be x
+and y , respectively.
+∴ Total number of students = +( )x y
+According to the question,
+Number of boys = Number of girls
++ Total Number of students × 12%
+x x= + + ×y y ( ) % 12
+x x− = + ×y y( ) 12
+100
+⇒ 25 25 3 3x x− = +y y
+⇒ 22 28x = y
+∴ x : :y = 14 11
+42. (a) Let C gets ` x .
+Now, by given conditions,
+Amount of B = ` ( )x + 8
+Amount of A = ` ( )x + 15
+110 CDS Pathfinder
+--- PDF PAGE 316 ---
+∴ x x x+ + + + =( ) ( ) 8 15 53
+⇒ x = 10
+∴ A B C: : ( ) : ( ) := + +10 15 10 8 10
+= 25 18 10: :
+43. (b) Let Q join for x months.
+∴ Ratio of capital
+= × ×2525 12 1200: x
+= 2525 100: x = 101 4 :x
+∴ P’s profit =
++
+×101
+101 4
+1644
+x
+⇒ 1212 101 1644
+101 4
+= ×
++ x
+⇒ 1
+137
+1
+101 4
+=
++ x
+⇒ 4 36x = ⇒ x = 9
+Hence, Q joined for 9 months i.e. he
+joined after 3 months.
+44. (a) Originally, let the numbers of seats
+for Mathematics, Physics and Biology
+be 5x, 7x and 8x, respectively.
+Number of increased seats are (140% of
+5x) (150% of 7x) and (175% of 8x).
+Required ratio can be obtained as
+⇒
+140
+100
+5×
+ 
+x :
+150
+100
+7×
+ 
+x
+:
+175
+100
+8×
+ 
+x
+⇒
+7 21
+2
+14 2x x x: :
+ 
+ ×
+⇒ ( : : )14 21 28 7x x x x ÷
+∴ 2 3 4: :
+45. (d) Let the number of passengers
+travelling by class I and class II be x and
+50x respectively.
+Then, amount collected from class I and
+II will be ` 3 × x and ` 50x respectively.
+Given, 3 50 1325x x+ =
+53 1325x = ⇒ x = 25
+∴ Amount collected from class II
+= ×50 25 = ` 1250
+46. (b) As
+x
+y
+∝ 1
+2 ⇒ x k
+y
+= 2 …(i)
+If x = 1
+and y = 6
+1
+62= k ⇒ k = 36
+On putting the value of k in Eq. (i), we
+get
+x
+y
+= 36
+2 …(ii)
+I. On putting y = 3 in Eq. (ii), x = 36
+9
+x = 4
+II. On putting y = 6 in Eq. (ii), we get
+x = =36
+36
+1
+x = 1
+Both statements I and II are correct.
+47. (d) Given that,
+a
+b
+c
+d
+e
+f
+= = = 1
+2
+⇒
+a b c d e f= = =
+2 2 2
+, ,
+I. 3 5 7
+3 5 7
+3
+2
+5
+2
+7
+2
+3 5 7
+a c e
+b d f
+b d f
+b d f
++ +
++ +
+=
++ +
++ +
+
+
+
+
+
+
+
+
+
+
+( )
+=
++ +
++ +
+=
+1
+2
+3 5 7
+3 5 7
+1
+2
+b d f
+b d f
+II. a c e
+b d f
+b d f
+b d f
+2 2 2
+2 2 2
+2 2 2
+2 2 2
+4 4 4+ +
++ +
+=
++ +
++ +
+= 1
+4
+∴ Neither I nor II correct.
+48. (c) I. 4 leaps of cat = 3 leaps of dog
+⇒ 1 leap of cat = 3
+4
+leap of dog
+Cat takes 5 leap for every 4 leaps of dog.
+∴ Required Ratio
+= (5 × cat’s leap) : ( 4 × dog’s leap)
+= ×
+ 
+5 3
+4
+dog' s leap : ( 4 × dog’s leap)
+= 15 16 :
+Thus,
+Speed of cat
+Speed of dog
+15
+16
+=
+II.
+Distance (cat)
+Distance (dog)
+s (cat) t
+s (dog) t
+= ×
+×
+= ×
+×
+s (cat) 30
+s (dog) 30
+= =
+
+ 
+
+s (cat)
+s (dog)
+15
+16
+Thus, both statements I and II are
+correct.
+49. (a) Number of people having
+characteristic X
+= + =10 30 40
+Number of people having characteristicY
+= + =10 20 30
+Required ratio = =40:30 4:3 .
+50. (c) Fresh grapes contain 10% pulp.
+∴ 20 kg fresh grapes contain 2 kg pulp.
+Dry grapes contain 80% pulp.
+2 kg pulp would contain
+2
+0 8
+20
+8
+2 5
+.
+.= = kg dry grapes.
+51. (c) Refer to question 12
+52. (c) Refer to question 20
+∴ Their product = × =18 27 486
+53. (b) Let cost price of milk be ` x per kg.
+Then, according to the rule of mixture,
+22 22 15 3: ( ) :x − =
+⇒ 22
+22
+15
+3x −
+=
+⇒ 22
+22
+5
+x −
+=
+∴ x = ` 26.40
+54. (a) T otal number of inhabitants= 1935000
+Total number of females = 935000
+∴ Total number of males
+= − =1935000 935000 1000000
+∴ sex ratio = × =935000
+1000000
+1000 935
+55. (d) Given, ratio of boys to girls = 7 5 :
+and total number of students = 2400
+Sum of ratio = + =7 5 12
+∴ Number of girls = × 5
+12
+2400 = 1000
+56. (a) Given, A B: : = 2 3 , B C: : = 5 7
+and C D: : = 3 10
+∴ A
+D
+A
+B
+B
+C
+C
+D
+= × ×
+= × ×2
+3
+5
+7
+3
+10
+= 1
+7
+∴ A D: : = 1 7
+57. (d) Given that, ( ) : ( ) :x x+ − =y y 3 5
+∴ x
+x
++
+−
+=y
+y
+3
+5
+On applying componendo and dividendo
+rule, we get
+( ) ( )
+( ) ( )
+x x
+x x
++ + −
++ − −
+= +
+−
+y y
+y y
+3 5
+3 5
+⇒ 2
+2
+8
+2
+x
+y
+=
+−
+⇒ x
+y
+= − 4
+∴ x = − 4 y
+But it is given , xy = positive
+∴ − × =4 y y positive
+⇒ − =4 2y positive, which is not possible.
+Hence, no real solution for x and y exists.
+58. (a) Given, ratio of ages of A and B i.e.
+A B: : = 2 5
+Ratio of ages of B and C i.e.
+B C: = 3 : 4
+∴ Ratio of ages of A, B and C =
+= × × ×2 3 3 5 5 4: : = 6 15 20: :
+59. (a) Let height of tree be h ft and age be
+a yr.
+Then, according to the question,
+h a∝ ⇒ h k a= ..(i)
+where, k is a constant.
+111MATHEMATICS Ratio and Proportion
+2 : 5
+3 : 4
+--- PDF PAGE 317 ---
+If age = 9 yr, then height = 4 ft
+From Eq. (i), we get 4 9= k
+⇒ 4 3= ×k ∴ k = 4
+3
+If age = 16 yr, then h k= 16 = ×4
+3
+4
+/c81k =
+
+
+
+4
+3
+∴
+h = = =16
+3
+5 1
+3
+5 4ft ft inch
+60. (b) Refer to question 34.
+61. (c) We have, a
+b
+= 3
+5
+/c81
+b a= 5
+3
+and b
+c
+= 7
+8
+⇒ c b= 8
+7
+= × =8
+7
+5
+3
+40
+21
+a a
+/c81 a b c: : = a a a: :5
+3
+40
+21
+Now, 2 3 7a b c: : = 2 5 40
+3
+a a a: :
+= 2 5 40
+3
+: : = 6 15 40: :
+62. (d) Let the distance be x.
+Now, ratio of time taken to travel the
+distance by each bus is
+x x x
+2 3 4
+: : ⇒ 12
+2
+12
+3
+12
+4
+: :
+⇒ 6 : 4 : 3
+63. (c) Since, milk = 7x and water = 3x
+Then, 7 3 30x x+ = ⇒ 10 30x =
+∴ x = 3
+So, milk = 21 L and water = 9 L
+Let y L of water to be added.
+Then, 21
+9
+1
+2+
+=
+y
+⇒ 9 42+ =y
+∴ y = 33 L
+64. (a) Refer to question 27.
+65. (a) a
+b
+b
+c
+c
+d
+k= = = (say)
+⇒ a bk b ck= = , , c dk=
+∴ a dk b dk c dk= = =3 2, ,
+I.
+b c d
+a b c
+3 3 3
+3 3 3
++ +
++ +
+= + +
++ +
+b c d
+bk ck dk
+3 3 3
+3 3 3( ) ( ) ( )
+= + +
++ +
+= =1 1
+3
+3 3 3
+3 3 3 3k
+b c d
+b c d k
+d
+a
+( )
+( )
+Hence, statement I is correct.
+II. Similarly
+a b c
+b c d
+k b
+d
+2 2 2
+2 2 2
+2+ +
++ +
+= =
+Hence, statement II is incorrect.
+112 CDS Pathfinder
+--- PDF PAGE 318 ---
+DEFINITION
+If ‘ a’ is a positive real number, other than 1 and ‘ b’ is a rational number such that a Nb = , then we say
+that logarithm of N to base ‘ a’ is b or ‘ b’ is the logarithm of N to base ‘ a’, written as log a N b=
+So, a Nb = ⇔ log a N b= , e.g. 7 10 = ⇔ log 7 1 0= , 81 31 4 / = ⇔ log /81 3 1 4=
+EXAMPLE 1. Which one of the following has the value of x = 4?
+a. log2 3x = b. log5 3x = c. log81
+3
+2x =
+d. log 2 4x =
+Sol. d. a. log 2 3x = ⇔ x = =2 83 b. log 5 3x = ⇔ x = =5 1253 [by definition]
+c. log /81 3 2x = ⇔ x = =( ) ( ) / /81 33 2 4 3 2 , ⇔ x = 36 ⇔ x = 729
+d. log 2 4x = ⇔ x = ( ) 2 4, x = ( ) /21 2 4 = =2 42
+EXAMPLE 2. If log5 y = x and log ,2 z = x then the value of 20 x in terms of y zand is
+a. zy b. z y2 c. xy2 d. z y/
+Sol. b. Given, log 5 y = x and log 2 z = x ⇒ y = 5x and z = 2x …(i)
+Now, 20 2 5 2x x= ×( ) = ×2 52x x = ⋅ = ⋅( ) 2 52 2x x z y [from Eq. (i)]
+∴ 20 2x = ⋅z y
+Fundamental Rules of Logarithms
+Rule 1 If m and n are positive rational number, then log ( ) log loga a amn m n= +
+If m m m m n1 2 3, , , . . . , are positive rational numbers, then
+log ( . . . ) loga n am m m m m1 2 3 1 = + + + log . . . loga a nm m2
+MATHEMATICS >□Logarithm 113
+13
+LOGARITHM
+Usually (2-3) questions have been asked from this chapter . Generally questions are based on
+fundamental rules of logarithm. It is especially used to solve complicated mathematical calculations.
+Applications of square, cube, surds and indices are extremely used here.
+--- PDF PAGE 319 ---
+EXAMPLE 3. The value of log ( )10 15 is
+a. log log10 102 5− b. log10 5
+c. log log10 103 5+ d. log log10 102 5+
+Sol. c. log log ( )10 1015 3 5= × = + log log10 103 5
+Rule 2 If m nand are positive rational numbers, then
+log log loga a a
+m
+n
+m n
+ 
+ = −
+EXAMPLE 4. The value of x in
+log log ( ) logx x− − = 1 3 is
+a. 2/3 b. 3/2 c. 1/2 d. 1/4
+Sol. b. log log ( ) logx x− − = 1 3
+⇒ log logx
+x − =1 3 ⇒ x
+x − =1 3
+⇒ x x= −3 1( ) ⇒ x x= −3 3 ⇒ − = −2 3x
+∴ x = 3 2 /
+Rule 3 If m nand are positive rational numbers, then,
+log ( ) loga
+n
+am n m=
+EXAMPLE 5. The value of x in
+log log logx x x4 16 64 12+ + = is
+a. 1 b. 2 c. 3 d. 4
+Sol. b. log log logx x x4 16 64 12+ + =
+⇒ log log logx x x2 2 2 122 4 6+ + =
+⇒ 2 2 4 2 6 2 12log log logx x x + + =
+⇒ 12 2 12log x = ⇒ log x 2 1=
+∴ x = 2
+EXAMPLE 6. The value of x in
+log
+log log
+256
+16 = x is
+a. 1 b. 10 c. 100 d. 0
+Sol. c. log
+log
+log
+log
+256
+16
+16
+16
+2
+= = =2 16
+16 2log
+log
+⇒ log x = 2 ⇒ log10 2x = [/c81log logx x= 10 ]
+∴ x = =10 1002
+Rule 4 If m is a positive rational number and a b, are
+positive real numbers i.e. a b≠ ≠1 1and , then
+log log
+log
+a
+b
+b
+m m
+a
+=
+EXAMPLE 7. The value of
+log log log log log log3 4 5 6 7 84 5 6 7 8 9⋅ ⋅ ⋅ ⋅ ⋅ is
+a. 1 b. 2 c. −1 d. None of these
+Sol. b. log log log log log log3 4 5 6 7 84 5 6 7 8 9⋅ ⋅ ⋅ ⋅ ⋅
+= × × × × ×log
+log
+log
+log
+log
+log
+log
+log
+log
+log
+log4
+3
+5
+4
+6
+5
+7
+6
+8
+7
+9
+log 8
+= =log
+log
+log
+log
+9
+3
+3
+3
+2
+= =2 3
+3 2log
+log
+SOME USEFUL RESULTS
+G logarithm of 1 with any base is always zero i.e.
+loga 1 0=
+G logarithm of base to itself is always 1 i.e. loga a = 1
+G x y x y a a> ⇒ > log log for a > 1
+G x y x y a a> ⇒ < log log for 0 1< <a
+G for x a> ≠ >0 1 0, , log a n x
+n
+xa( ) log= 1
+G for 1 0 0≠ > > =a b x a x x a b b, , , log log
+G If ‘ a’ is a positive real number and n is a positive
+rational number, then
+(i) log loga ay
+x
+y
+nn x = .
+(ii) a n a nlog =
+(iii) log log log loga a a a
+mn n n n m= = = 2 3
+2 3
+Common Logarithm and Natural
+Logarithm
+Logarithm can have any positive base other than 0. But
+there are two most important base which are generally used.
+1. Common Logarithm Logarithm to the base ‘10’ is
+called common logarithm. It is also called Brigg’s
+logarithm.
+e.g. log log100 100 2 10= =
+log log1000 1000 310= =
+2. Natural Logarithm Logarithm to the base e is
+called natural logarithm. It is also called Napier
+logarithm. log e x is usually denoted by ln x. e is
+irrational number between 2 and 3.
+ln x y= ⇒ e xy =
+ANTILOGARITHM
+The positive number ‘ a’ is called the antilogarithm of a
+number b, if log a b= . If ‘ a’ is antilogarithm of b, it is
+written as a = antilog b.
+So, a = antilog b ⇔ log a b=
+114 CDS Pathfinder
+--- PDF PAGE 320 ---
+Characteristic and Mantissa
+of a Logarithm
+The logarithm of positive real number ‘ n’ consists of
+two parts
+1. The integral part is known as the characteristic. It is
+always an integer (positive, negative or zero).
+2. The decimal part is called as the mantissa. The
+mantissa is never negative and is always less than
+one.
+To Find the Characteristic
+Case I The characteristic of the log of a number
+greater than 1 is positive and numerically one less than
+the number of digits to the left of the decimal part.
+e.g. Value Characteristic
+log 3.257 1 1 0 − =
+log . 32 57 2 1 1 − =
+log . 3257 3 1 2 − =
+Case II The characteristic of log of a number less than
+1 is negative and numerically one more than the number
+of zeroes immediately after the decimal point. It is
+represented by bar over the digit.
+The bar over the characteristic indicates that it is negativ e.
+e.g. Value Characteristic
+log . 0 3257 − + = −( )0 1 1 i.e.
+1
+log . 0 03257 − + = −( )1 1 2 i.e. 2
+log . 0 003257 − + = −( )2 1 3 i.e. 3
+Rules for Inserting Decimal Point
+Two rules are used for inserting a decimal point.
+Rule 5 When the characteristic of the logarithm is
+positive, we insert the decimal point after the ( )n + 1 th
+digit, where n is the characteristic.
+Rule 6 When the characteristic of the logarithm is
+negative, we insert the decimal point such that the
+first significant figures is at nth place, where n is the
+characteristic.
+EXAMPLE 8. The characteristic of the logarithm of
+the number 0.00000014 is
+a. 1 b. 7
+c. −7 d. None of these
+Sol. c. 0 00000014 1
+10000000. = ×1.4 = × −1.4 10 7
+∴ The characteristic of log . 0 00000014 7= −
+EXAMPLE 9. The characteristic of the logarithm of
+the number 8.188 is
+a. 2 b. 1
+c. −1 d. 0
+Sol. d. 8 188 8 188 1. . = × = × 8 188 10 0.
+∴ The characteristic of log . 8 188 0=
+EXAMPLE 10. The characteristic of the logarithm of
+the number 566.37 is
+a. 2 b. −2
+c. 4 d. None of these
+Sol. a. 566 37 56637 10 2. . = ×
+∴ The characteristic of log .566 37 2=
+EXAMPLE 11. The characteristic of the logarithm of
+the number 313 is
+a. 3 b. 2
+c. 1 d. 0
+Sol. b. 313 313 10 2= × .
+∴ The characteristic of log 313 2=
+SOME IMPORTANT POINTS
+1. The base of a logarithm is never taken as zero and
+negative.
+2. Log of negative integers are not defined and also
+loge 0 is not defined.
+3. Logarithmic function is positive as well as negative
+but exponential function is always positive.
+MATHEMATICS >□Logarithm 115
+--- PDF PAGE 321 ---
+116 CDS Pathfinder
+PRACTICE EXERCISE
+1. What is the value of log . ?100 0 1
+(a) 1/2 (b) –1/2 (c) –2 (d) 2
+2. The value of 3 3 2 2log log+ is
+(a) log 108 (b) log 106 (c) log 109 (d) None of these
+3. If loga 2 1
+6
+= , then the value of a is
+(a) ( ) 2 6 (b) ( ) /6 1 2 (c) 3 (d) −6
+4. If log3 2x = − , then the value of x is
+(a) 1
+9
+(b)
+− 1
+9
+(c)
+1
+8
+(d)
+− 1
+8
+5. Find the logarithm of 1728 to the base
+2 3 .
+(a) 3.124 (b) 3.1732 (c) 6 (d) 5
+6. What is the value of
+(log )(log )(log ) . . .(log )?/ / / /1 2 1 3 1 4 1 10002 3 4 1000
+(a) 1 (b) –1 (c) 1 or –1 (d) 0
+7. What is the value of
+1
+2
+2 3log 25 log10 10 − + log 1810 ?
+(a) 2 (b) 3 (c) 1 (d) 0
+8. What is the value of [log (5 log 100)]10 10
+2 ?
+(a) 4 (b) 3 (c) 2 (d) 1
+9. The value of log log logy z xx y z⋅ ⋅ is
+(a) log xyz (b) xyz (c) 1 (d) 0
+10. The value of log ( )3 4 327 9 9× × is
+(a) 4 (b) 4 1
+3
+(c)
+8 1
+3
+(d)
+4 1
+6
+11. The value of log [log log log ( )]
+2 2 2 2 65536 is
+(a) 8 (b) 16 (c) 4 (d) 1
+12. What is the value of [log (10)] [log (10)]13 169 / ?
+(a) 1
+2
+(b) 2 (c) 1 (d) log10 13
+13. What is the value of
+1
+3
+log 125 log 4 + log 32 + log 110 10 10 10−
+ 
+2 ?
+(a) 0 (b)
+1
+5
+(c) 1 (d)
+2
+5
+14. If log r m6 = and log r n3 = , then what is
+log r r( / ) 2 equal to?
+(a) m n− + 1 (b) m n+ − 1 (c) 1 − −m n (d) 1 − +m n
+15. What is log 3
+2
++ log 4
+3
++ log 5
+4
++
+10 10 10
+
+ 
+ 
+ 
+ 
+ 
+ /c76
+upto 8 terms equal to?
+(a) 0 (b) 1 (c) log10 5 (d) None of these
+16. The value of
+1 1 1
+log ( ) log ( ) log ( )xy yz zxxyz xyz xyz
++ + is
+(a) xyz (b) 2 (c) 0 (d) 1
+17. The value of
+1
+1
+1
+1
+1
+1+
++
++
++
++log ( ) log ( ) log ( )x y zyz xz xy
+is
+(a) 1 (b) 1
+2xy
+(c) x = yz (d) 0
+18. If log ( ) log ( )4
+2
+4 1 2x x x+ − + = , then the value of x
+is
+(a) 4 (b) 8 (c) 16 (d) 1
+19. If log log
+4 2 6x x+ = , then the value of x is
+(a) 16 (b) 4 (c) 2 (d) 1
+20. Given log . ,10 2 0 3010= the value of log10 5 is
+(a) 0.6990 (b) 0.6919 (c) 0.6119 (d) 0.7525
+21. If log log log ( )x
+y
+y
+x
+x y+ = + , then
+(a) x + =y 1 (b) x − =y 0 (c) x − =y 1 (d) x = y
+22. The characteristic in log . 6 7482 10 5× − is
+(a) 6 (b) − 4 (c) 5 (d) − 5
+23. If 10 1 73x = . and log .10 1730 3 2380= , then x
+equals to
+(a) 2.380 (b) 0.2380 (c) 2.2380 (d) 1.380
+24. If 2 6
+2 3 1x x+ − = , then x equals
+(a) 4 2 3
+3 2
+log log
+log log
++
+−
+(b) 3 2 2 3
+3 2 2
+log log
+log log
++
+−
+(c) log
+log
+48
+7
+(d) None of these
+25. The value of 10 10 10 10 2 3log log logm n p+ + is
+(a) m np2 3 (b) mn p2 3 (c) m np3 2 (d) None of these
+26. Given that log . ,10 2 0 3010= log .10 3 0 4771= and
+log .10 7 0 8491= , then log10
+108
+7
+is equal to
+(a) 2.6123 (b) 1.6088 (c) 1.6320 (d) 2.4558
+27. If a b c, and are three consecutive integers, then
+log ( )ac + 1 is equal to
+(a) log ( ) 2b (b) (log )b 2 (c) 2 log b (d) None of these
+28. If log ,r p = 2 log ,r q = 3 then the value of log p q is
+(a) 1
+3
+(b)
+2
+3
+(c) 3
+2
+(d) 6
+29. If log x y a2 2 = and log ,x
+y
+b= then log
+log
+x
+y
+is equal to
+(a) a b
+a b
+−
++
+3
+2
+(b) a b
+a b
++
+−
+3
+2
+(c) a b
+a b
++
+−
+2
+2
+(d) a b
+a b
+−
++
+2
+3
+--- PDF PAGE 322 ---
+30. If log . , log10 55 0 70 10= then is equal to
+(a) 1.35 (b) 1.40 (c) 1.43143 (d) 1.56
+31. The value of
+log log log3 3 31 1
+3
+1 1
+4
+1 1
+5
++
+ 
+ + + 
+ 
+ + + 
+ 
+
++ + + 
+ 
+. . . log
+3 1 1
+24
+is
+(a) − +1 2 5 3log (b) 2
+(c) 3 (d) 4
+32. If log ( ) log logx y x y+ = + and x = 1 1568. , then y
+is equal to
+(a) 7.3776 (b)
+7 3776. (c) 5.3776 (d) 5.3116
+33. If log log log8 4 2 11x x x+ + = . Then, the value of x
+is
+(a) 128 (b) 16 (c) 32 (d) 64
+34. What is the value of log log log
+y x zx y z5 2 3 ?
+(a) 10 (b) 30 (c) 20 (d) 60
+35. If (log )(log )(log ) log3
+2
+2
+2x x y x x
+x x= , then what is
+the value of y?
+(a) 9
+2
+(b) 9 (c) 18 (d) 27
+36. If log , log ( ), log ( )10 10 102 2 1 2 3 x x− + are three
+consecutive terms of AP, then which one of the
+following is correct?
+I. x = 1 II. x = log2 5
+(a) Both I and II (b) Only II
+(c) Only I (d) None of these
+37. Consider the following statements
+I. (log . ) log log10
+2
+10 100 1 10 100 3+ ⋅ =
+II. log log10 10 10 1= III. log log10 1010 10 1+ =
+Which of the statements given above are correct?
+(a) I and III (b) II and III
+(c) I and II (d) All are correct
+38. If y a
+x a x
+= ∞( ) ( ) . . . , then which one of the following
+is correct?
+(a) log logy y a= x (b) log logy y a= +x
+(c) log logy y a= + x (d) log ( ) logy y a= + x
+PREVIOUS YEARS’ QUESTIONS
+39. What is the logarithm of 0.0001 with respect to
+base 10? e 2012 II
+(a) 4 (b) 3 (c) − 4 (d) − 3
+40. If log
+10 a p= and log ,10 b q= then what is the
+value of log ( )?10 a bp q
+e 2012 II
+(a) p q2 2+ (b) p q2 2− (c) p q2 2 (d) p
+q
+2
+2
+41. What are the possible solutions for x of the
+equation x xx x n= , where x and n are positive
+integers? e 2015 I
+(a) 0, n (b) 1, n (c) n n, 2 (d) 1 2, n
+42. The value of 1
+5
+3125 4 2 3210 10 10log log log − + is
+e 2016 I
+(a) 0 (b) 1 (c) 2 (d) 3
+MATHEMATICS >□Logarithm 117
+ANSWERS
+1 b 2 a 3 a 4 a 5 c 6 b 7 c 8 d 9 c 10 d
+11 d 12 b 13 c 14 d 15 c 16 b 17 a 18 c 19 a 20 a
+21 a 22 d 23 b 24 a 25 b 26 b 27 c 28 c 29 c 30 c
+31 a 32 a 33 d 34 b 35 b 36 b 37 a 38 a 39 c 40 a
+41 a 42 b
+HINTS AND SOLUTIONS/CharA0 
+1. (b) log log100 10 2
+1
+10
+0.1 = 
+ 
+
+= 
+ 
+1
+2
+1
+1010log
+= −1
+2
+1010
+1log ( )
+= − = −1
+2
+10 1
+210log [Rule 3]
+2. (a) 3 3 2 2 3 2 3 2log log log log+ = +
+= +log log27 4 [Rule 3]
+= × =log ( ) log27 4 108 [Rule 1]
+3. (a) /c81 loga 2 1
+6
+= ⇒ a1 6 2/ =
+∴ a = ( ) 2 6
+4. (a) log 3 2x = − ⇒ x = = =−3 1
+3
+1
+9
+2
+2
+5. (c) Let log
+2 3
+1728 = x
+⇒ ( )2 3 1728x =
+/c81 1728 2 3 2 36 6 6= = ( ) ( )
+( ) ( )2 3 2 3 6x =
+On comparing both sides, we get x = 6
+6. (b) (log )(log )(log )
+/ / /1 2 1 3 1 4
+2 3 4
+. . . (log )
+/ 1 1000
+1000
+= 
+ 
+ 
+ 
+ 
+ 
+log
+log /
+log
+log /
+log
+log /
+2
+1 2
+3
+1 3
+4
+1 4
+. . . log
+log /
+1000
+1 1000
+
+
+
+
+
+
+
+
+/c81log log
+logb
+a a
+b
+=
+
+
+
+[Rule 4]
+--- PDF PAGE 323 ---
+=
+−
+
+ 
+ −
+
+ 
+ −
+
+ 
+log
+log
+log
+log
+log
+log
+2
+2
+3
+3
+4
+4
+. . . log
+log
+1000
+1000−
+
+ 
+
+= − × − × − × × −( ) ( ) ( ) . . . ( )1 1 1 1
+[/c81number of terms is odd]
+= − 1
+7. (c)
+1
+2
+25 2 3 1810 10 10 +log log log−
+= − + /log log log10
+1 2
+10
+2
+1025 3 18
+[Rule 3]
+= − +log log log10 10 105 9 18
+= × =log log10 10
+5 18
+9
+90
+9
+= =log10 10 1
+8. (d) [log (5 log 100)]10 10
+2
+= [log (5 log 10 )]10 10
+2 2
+= [log (10 log 10)]10 10
+2
+= [log 10]10
+2 [/c81log 10 = 1]10
+= =1 12
+9. (c) log log logy z y zx x⋅ ⋅
+= × × =log
+log
+log
+log
+log
+log
+x
+y
+y
+z
+z
+x
+1
+/c81log log
+loga b b
+a
+=
+
+
+
+10. (d) Let
+log ( )3
+4 327 9 9× × = x
+⇒ 3 27 9 9 4 3x = × ×
+⇒ 3 3 3 33 2 4 2 3x = × × / /
+3 3 25 6x = /
+On comparing both sides, we get
+⇒ x = =25
+6
+4 1
+6
+11. (d) log log log log2 2 2 2
+162
+= log log log ( )2 2 2 16 [/c81log2 2 1= ]
+= log log log ( )2 2 2
+42 = log log ( )2 2 4
+= log log ( )2 2
+22 = =log ( )2 2 1
+12. (b)
+log (10)
+log (10)
+log (10)
+log (10)
+13
+169
+13
+13 2
+=
+=
+log
+log
+13
+13
+10
+1
+2
+10
+/c81log log
+a ab
+c
+b
+c=
+
+
+
+1
+= = 1
+1 2
+2
+/
+13. (c) We have, 1
+3
+log 125 2 log 410 10 −
++ +log 32 log 110 10
+= −log (125) 2 log (2)10
+1 / 3
+10
+2
++ log (2) + 010
+5 [ log ]/c81 101 0=
+= − +log log log10 10 105 4 2 5 2
+= + = ×log log log10 10 105 2 5 2
+= log10 10 = 1 [Rule 1]
+14. (d) Given, logr m6 = and logr n3 =
+/c81 log log ( )r r6 2 3= × = + log logr r2 3
+∴ log logr r m3 2+ =
+⇒ n m r+ =log 2
+⇒ logr m n2 = −
+∴ log log logr r r
+r r
+2
+2
+ 
+ = − [Rule 2]
+= − +1 m n
+15. (c)
+log 3
+2
+log 4
+3
+log 5
+410 10 10
+
+ 
+ + 
+ 
+ + 
+ 
+
++ +/c76 8th term
+/c81
+T
+n
+nn =
++
++
+
+
+
+
+
+
+
+log10
+2
+1
+⇒
+T8 10
+10
+9
+= 
+ 
+log
+∴
+log 3
+2
+log 4
+3
+log 5
+410 10 10
+
+ 
+ + 
+ 
+ + 
+ 
+
++ + 
+ 
+/c76 log 10
+910
+= × × × × 
+ 
+log 3
+2
+4
+3
+5
+4
+10
+910 /c76 [Rule 1]
+= 
+ 
+log 10
+2
+= log 510 10
+16. (b) The given expression is
+= + +log ( ) log ( ) log ( )x x x x xyz yz yzy yz z
+= ⋅ ⋅log ( )x x xyz y yz z [Rule 1]
+= log ( )x xyz yz 2 = =2 2logx xyz yz
+17. (a) The given expression is
+=
++
+1
+log ( ) logx x xyz
++
++
+1
+log ( ) logy y z yx
++
++
+1
+log ( ) logz z y zx
+= + + 1 1 1
+log log logx x x xyz yz yz y z
+= + +log log logx x xxyz yz yz y z
+= =logx xyz yz 1 [Rule 1]
+18. (c) log ( ) log ( )4
+2
+4 1 2x x x+ − + =
+⇒ log4
+2
+1
+2
+x x
+x
++
++
+
+
+
+
+
+
+
+ = ⇒
+4
+1
+2
+2
+=
++
++
+x x
+x
+⇒ 16 16 2x x x+ = +
+⇒ x x2 15 16 0− − =
+∴ x = 16 or x = − 1 [not possible]
+19. (a) Given, log log4 2 6x x+ =
+⇒ log
+log
+log
+log
+x x
+4 2
+6+ =
+⇒
+log
+log
+log
+log
+x x
+2 2 2
+6+ =
+⇒ 3 12 2log logx =
+⇒ log logx = 4 2 ⇒ log logx = 24
+⇒ log logx = 16
+On comparing both sides, we get
+∴ x = 16
+20. (a)
+log log10 105 10
+2
+=
+= − = −log log .10 1010 2 1 0 3010
+= 0 6990.
+21. (a) Given, log log log ( )x
+x
+x
+y
+y y+ = +
+⇒ log log ( )x
+x
+x
+y
+y y⋅ = +
+⇒ log log ( )1 = + x y
+∴ x + =y 1
+22. (d) The characteristic in
+log . 6 7482 10 5× − is −5.
+23. (b) Given, 10 1 73x = . , x = log .10 1 73
+= −log log10 101730 1000
+= −log log10 10
+31730 10
+= −3.2380 3 = 0 2380.
+24. (a) 2 62 3 1x x+ − =
+Taking log on both sides, we get
+( ) log ( ) log2 3 2 1 6x x+ = −
+⇒ 2 2 3 2x log log+
+= − +( ) (log log )x 1 2 3
+⇒ 2 2 3 2 2 3x xlog log (log log )+ = +
+− −log log2 3
+⇒ x (log log ) log log2 3 4 2 3− = − −
+∴ x =
++
+−
+4 2 3
+3 2
+log log
+log log
+25. (b) 10 10 10 10 2 3log log logm n p+ +
+= + +10 10 10
+2
+10
+3log log logm n p
+⇒ 10 10
+2 3log mn p = mn p2 3 [/c81
+a p a plog = ]
+26. (b) log log log10 10 10
+108
+7
+108 7= −
+= × −log log /
+10
+2 3
+10
+1 22 3 7
+= + −2 2 3 3 1
+2
+710 10 10log log log
+= × +2 (0. 3010) 3(0.4771)
+− 1
+2
+(0.8491)
+= + −0.6020 1.4313 0.4245 = 1.6088
+118 CDS Pathfinder
+--- PDF PAGE 324 ---
+27. (c) Let first integer be a.
+Then, b a= + 1 and c a= + 2
+∴ ac a a+ = + +1 2 1 ( )
+= + + = +a a a2 2 2 1 1 ( )
+ac b+ =1 2
+So, log ( ) log logac b b+ = =1 2 2
+28. (c) Given, logr p = 2 and logr q = 3
+By relation, log
+log
+logp
+r
+r
+q
+q
+p
+= = 3
+2
+29. (c) Given, log x2 2y a =
+[/c81log log log(mn) m n= + ]
+∴ log logx2 2+ = y a
+⇒ 2 2log logx + = y a …(i)
+Also, log logx − = y b …(ii)
+On solving Eqs. (i) and (ii), we get
+log x = +a b 2
+4
+and log y a b= − 2
+4
+∴ log
+log
+x
+y
+a b
+a b
+= +
+−
+2
+2
+30. (c) log
+log
+log .
+.
+5
+10
+10
+10
+10
+5
+1
+0 70
+1 43143= = =
+[ log ]/c81 10 10 1=
+31. (a) log log3 3 1 1
+3
+1 1
+4
++
+ 
+ + + 
+ 
+
++ + 
+ 
+log 3 1 1
+5
++ + + 
+ 
+. . . log 3 1 1
+24
+= + + +log log log3 3 3
+4
+3
+5
+4
+6
+5
+. . . log+ 3
+25
+24
+= − + −log log log log3 3 3 34 3 5 4
++ −log log3 36 5
++ + −. . . log log3 325 24
+= − +log log3 33 25 = − +1 2 5 3log
+32. (a) Given, log ( ) log logx x+ = +y y
+⇒ log ( ) logx x+ =y y
+⇒ x x+ =y y
+⇒
+y =
+−
+=
+−
+=x
+x 1
+1 1568
+1 1568 1
+1 1568
+0 1568
+.
+.
+.
+.
+= =7 37755 7 3776. .
+33. (d) Given, log log log8 4 2 11x x x+ + =
+⇒
+log
+log
+log
+log
+log
+log
+x x x
+8 4 2
+11+ + =
+⇒
+log
+log
+log
+log
+log
+log
+x x x
+2 2 2
+113 2+ + =
+⇒
+log
+log
+log
+log
+log
+log
+x x x
+3 2 2 2 2
+11+ + =
+⇒
+11
+6 2
+11log
+log
+x = ⇔ log logx = 6 2
+⇒ x = 26, ∴ x = 64
+34. (b) ∴ log log logy z y zx x
+5 2 3
+= 5 2 3log log logy z y zx x⋅ ⋅
+[/c81log loga
+n
+ab n b= ]
+= 5 2 3 1log logy yx x⋅ ⋅ ×
+= × ⋅ × = 
+
+
+
+5 2 3log
+log
+log
+log
+log log
+log
+x
+xy
+y b b
+aa/c81
+= × × =5 2 3 30
+35. (b) (log ) (log ) (log ) log3 2
+22x x x x x xy =
+⇒
+log
+log
+log
+log
+log
+log
+log
+log
+x x
+x x
+x
+x3
+2
+2
+2
+× × = y
+/c81log log
+logb
+a a
+b
+=
+
+
+
+⇒
+log
+log
+log
+log
+y
+x3
+2= x [ log log ]/c81 a b ab =
+⇒ log logy = 2 3 ⇒ log logy = 32
+[ log log ]/c81 m n m n= ⇒ =
+⇒ log logy = 9
+∴ y = 9
+36. (b) Given that, log , log ( )10 102 2 1 x − and
+log ( )10 2 3x + are in AP .
+then,
+2 2 1 2 2 310 10 10log ( ) log log ( )x x− = + +
+⇒ log ( ) log ( )10
+2
+10
+12 1 2 6x x− = + +
+⇒ ( ) ( )2 1 2 6 2 1x x− = + +
+⇒ 2 1 2 2 2 2 62 x x x+ − = ⋅ +.
+⇒ 2 4 2 5 02 x x− − =.
+⇒ ( ) ( )2 4 2 5 02x x − − =
+⇒ y y2 − − =4 5 0
+∴ y = −5 1 ,
+Hence, 2 1x = − or 2 5x =
+∴ x = −log ( )2 1 is not possible
+or x = log ( )2 5
+Then, x = log ( )2 5 is answer.
+Hence, II is correct.
+37. (a) I. [log ] log log10
+2
+10 1010 100(0.1) + ⋅
+= − + ⋅[ log ] log log10
+2
+10 10
+210 10 10
+= − + ⋅( 1) (1)2 2 10 10log
+= + + ⋅ = + =1 2 1 2 3(1)
+Hence, statement I is correct.
+II. log log log10 10 10 10 = (1) = ≠0 1
+Hence, statement II is incorrect.
+III. log log10 10 10 10+
+= +1
+2
+10 1
+2
+1010 10log log
+= + =1
+2
+1
+2
+1
+Hence, statement III is correct.
+38. (a) Given, y a a=
+∞
+( ) ( ) . . .x x
+∴ y a y= ( ) x
+On taking log both sides, we get
+log logy y a= x
+∴ log logy y a= x
+39. (c) Let, log .100 0001 = x
+Then, x = log
+( )10 4
+1
+10
+= −log log ( )10 10
+41 10
+= − = −0 4 4
+40. (a) Given, log10 a p= and log10 b q=
+log ( ) log log10 10 10a b a bp q p q = +
+⇒ log ( )10 a bp q = +p a q blog log10 10
+∴ log ( )10 a bp q = × + ×p p q q
+= +p q2 2
+41. (a) Given, x xx x n= , where x and n
+are positive integers.
+On taking log both sides, we get
+log log[ ]x xx x n=
+⇒ x x x x x x/log log( ) log /= = 1 n n
+⇒ x x x
+n
+xlog log=
+⇒ x x x xlog log− =
+n
+0
+⇒ log x x x−
+
+
+ =
+n
+0
+/c81 log x ≠ 0
+∴
+x x− =
+n
+0
+⇒ x x=
+n
+∴ x
+x
+= n
+On squaring both sides, we get
+x
+x
+2
+= n
+⇒ x x2 0− =n
+⇒ x x( ) − =n 0
+∴ x x= =0, n
+Hence, the possible solution of x is 0, n.
+42. (b) 1
+5
+log log log10 10 103125 4 2 32− +
+= − +log [( ) ] log ( ) log/
+10
+5 1 5
+10
+4
+105 2 32
+= − +log log log10 10 105 16 32
+= ×
+ 
+ = =log log10 10
+5 32
+16
+1
+MATHEMATICS > Logarithm 119
+--- PDF PAGE 325 ---
+120 CDS Pathfinder
+Algebraic Expressions
+A combination of constants and variables connected by the fo ur fundamental operations + − ×, , and ÷ is
+called an algebraic expression.
+POL YNOMIALS
+A polynomial is an algebraic expression consisting of varia bles and coefficients, having non-negative
+integral powers. e.g. x x3 2 5 1+ − , 3 4 173 2x x y+ + etc.
+(i) 3 9 1 72x x x+ − + / is not a polynomial as it contains a term, namely 7 / ,x having negative integral
+power of variable x.
+(ii) 5 7 12 7 2x x x− + − / is not a polynomial as the term −7 7 2x / contains rational power of variable x.
+Degree of a Polynomial
+The exponent of the highest degree term in a polynomial, is kn own as degree of polynomial.
+e.g. (i) 4 9 7 93 2x x x− + + is a polynomial with variable x of degree 3.
+(ii) 4 3 2 13 2x y x xy− + + is a polynomial of degree 4.
+Various Types of Polynomials
+Polynomials are classified on the basis of degree of polynom ial and number of terms which are given
+below.
+Based on Degree of Polynomial
+(i) Constant polynomial A polynomial of degree zero, is called constant polynomial. e.g. f ( )x = 8.
+Note The polynomial f x( ) = 0 is called the zero polynomial. The degree of zero polynomial is not defined.
+14
+ALGEBRAIC
+OPERATIONS
+Generally (3-4) questions have been asked from this chapter . Questions which are asked from
+this chapter are mostly based on direct identities and factor theorem.
+--- PDF PAGE 326 ---
+121MATHEMATICS Algebraic Operations
+(ii) Linear polynomial A polynomial of degree 1, is
+called linear polynomial. e.g. 9 7 9 2x x x+ − +, , etc.
+(iii) Quadratic polynomial A polynomial of degree 2, is
+called quadratic polynomial.
+The general form of quadratic polynomial in x is
+a b cx x2 + + , where a b c, and are real and a ≠ 0.
+e.g. x x2 2 2 7 12 5 7 4− + − − , , y z etc., are all quadratic
+polynomials.
+(iv) Cubic polynomial A polynomial of degree 3, is
+called cubic polynomial.
+The general form of a cubic polynomial in x is
+a b c dx x x3 2+ + + , wherea b c d, , and are real anda ≠ 0.
+e.g. 3 2 7 13 2x x x+ + − , 8 5 23y y + + , x 3 8− etc., are
+all cubic polynomials.
+(v) Biquadratic polynomial A polynomial of degree 4,
+is called a biquadratic polynomial.
+The general form of a biquadratic polynomial in x is
+a b c d ex x x x4 3 2+ + + + , where a b c d e, , , and are
+real numbers and a ≠ 0.
+e.g. 6 3 2 24 3 2x x x x+ + + + , x 4 8− etc.,
+are all biquadratic polynomials.
+Based on Number of Terms
+(i) Monomial A polynomial containing only one term
+is called a monomial. e.g. 6 2x
+(ii) Binomial A polynomial containing two terms is
+called a binomial. e.g. 5 73x xy+
+(iii) Trinomial A polynomial containing three terms is
+called a trinomial. e.g. 7 5 62x xy + +
+FACTORISATION
+To express a polynomial as the product of other
+polynomials of degree less than that of the given
+polynomial is called as factorisation.
+e.g. x x2 2 2 49 7− = − = − + ( )( )x x 7 7
+Important Identities
+• ( ) ( )( )a b a b a b2 2− = + −
+• ( )a b a b ab+ = + +2 2 2 2 and ( )a b a b ab− = + −2 2 2 2
+• ( ) ( )a b a b ab+ − − =2 2 4
+• ( ) ( ) ( )a b a b a b+ + − = +2 2 2 2 2
+• ( ) ( )a b a b ab a b+ = + + +3 3 3 3
+• ( ) ( )a b a b ab a b− = − − −3 3 3 3
+• ( ) ( ) ( )a b a b a b ab3 3 2 2+ = + + −
+• ( ) ( ) ( )a b a b a b ab3 3 2 2− = − + +
+• ( ) ( )a b c a b c ab bc ac+ + = + + + + +2 2 2 2 2
+• a b c abc a b c a b c3 3 3 2 2 2 3+ + − = + + + + ( ) (
+− − −ab ac bc )
+• If a b c+ + = 0, then a b c abc3 3 3 3+ + =
+• a a b b a ab b a ab b4 2 2 4 2 2 2 2+ + = + + − + ( ) ( )
+Methods of Factorisation
+These methods are given below
+Factorisation by Taking Out the
+Common Factor
+If each term of an expression has a common factor, take
+out the common factors.
+EXAMPLE 1. Factorise value of 4 3 2 5 3 22( ) ( )a b a b− − − is
+a. ( )( )3 2 12 8 5a b a b− − − b. ( )( )2 3 12 8a b a b− −
+c. ( )( )2 3 8 12 5a b a b− − − d. None of these
+Sol. a. 4 3 2 5 3 22( ) ( )a b a b− − − = − − − ( )[ ( ) ]3 2 4 3 2 5a b a b
+= − − −( )[ ]3 2 12 8 5a b a b
+Factorisation by Grouping
+Sometimes in a given polynomial, it is not possible to
+take out a common factor directly. However, on
+rearranging the terms of the polynomial and grouping
+them such that all the terms have a common factor, the
+polynomial can be easily factorised.
+EXAMPLE 2. Factorise x x x2 + − −y y
+a. ( )( )x x− +y 1 b. ( )( )x x− −y 2 1
+c. ( )( )x x+ +y 2 1 d. ( )( )x x− −y 1
+Sol. d. Method I x x x2 + − −y y = − + −x x x2 y y
+= − + −x x x( ) ( ) 1 1 y = − − −x x x( ) ( )1 1 y = − −( )( )x x 1 y
+Method II x x x2 + − −y y = − + −x x x2 y y
+= − − −x x x( ) ( ) y y 1 = − −( )( )x x y 1
+EXAMPLE 3. Factorise x x x x
+2
+2
+4 4 2 4+ + − −
+a. x x x x−
+ 
+ + +
+ 
+2 2 2
+b. x x x x−
+ 
+ + −
+ 
+2 2 2
+c. x x x x+
+ 
+ + −
+ 
+2 2 2
+d. None of these
+Sol. c. x x x x
+2
+2
+4 4 2 4+ + − −
+ 
+
+= + +
+ 
+ − + 
+ 
+x x x x
+2
+2
+4 4 2 2
+= +
+ 
+ − + 
+ 
+x x x x
+2 2 22
+= +
+ 
+ + −
+ 
+x x x x
+2 2 2
+--- PDF PAGE 327 ---
+Factorisation of Perfect
+Square Polynomials
+If the polynomial is given as the perfect square
+quadratic polynomial, then use the following Identities
+to factorise it.
+• a ab b a b2 2 2 2+ + = + ( ) • a ab b a b2 2 2 2− + = − ( )
+EXAMPLE 4. Factorise 16 8 12x x − +
+a. ( )2 1 2x − b. ( )x − 4 2 c. ( )x − 2 2 d. ( )4 1 2x −
+Sol. d. 16 8 12x x− + = − + ( ) ( )4 2 4 12 2x x = −( )4 1 2x
+= − −( )( )4 1 4 1x x
+EXAMPLE 5. Factorise x x2 2 5 5− +
+a. ( )x 5 1 2− b. ( )x − 5 2 c. ( )( )x x+ − 5 5 d. ( )x − 5 2
+Sol. d. x x2 2 5 5− + = − +x x2 2 2 5 5 ( ) = −( )x 5 2
+= − −( )( )x x 5 5
+Factorising the Difference of Two Squares
+In case, the polynomial is given in the form of a b2 2− ,
+to evaluate it, following identity is applied.
+• a b a b a b2 2− = − +( )( )
+EXAMPLE 6. Factorise 2 325a a−
+a. ( )( )( )a a a2 4 2 2+ − + b. 2 4 2 22a a a a( )( )( )+ − +
+c. 2 4 2a a( ) + d. None of these
+Sol. b. 2 325a a− = − 2 164a a( )
+= −2 4 2 2 2a a[( ) ( ) ] = + −2 4 42 2a a a( )( )
+= + −2 4 22 2 2a a a( )( ) = + − +2 4 2 22a a a a( )( )( )
+Factorisation of Quadratic Polynomials
+Quadratic polynomials of the type ax bx c2 + + , where
+a ≠ 0, a band are coefficients of x 2 and x respectively
+and c is constant, can be factorised by splitting the
+middle term. We find two numbers p and q such that
+p q b+ = and pq ac= , then
+a b c a p q cx x x x2 2+ + = + + + ( ) = + + +a p q cx x x2
+EXAMPLE 7. Factorise x x2 9 14+ +
+a. ( )( )x x+ +2 7 b. ( )( )x x− −2 7
+c. ( )( )x x+ −2 7 d. ( )( )x x− +2 7
+Sol. a. x x2 9 14+ + = + + + x x2 7 2 14( ) = + + +x x x2 7 2 14
+= + + +x x x( ) ( ) 7 2 7 = + +( )( )x x 7 2
+EXAMPLE 8. Factorise 4 3 5 2 32x x + −
+a. ( )( )2 3 4 3x x+ − b. ( )( )2 3 4 3x x− +
+c. ( )( )3 2 4 3x x+ − d. None of these
+Sol. c. 4 3 5 2 32x x+ − = + − −4 3 8 3 2 32x x x
+[/c814 3 2 3 24 8 3( ) ( )× − = − = × − ]
+= + − +4 3 2 3 3 2x x x( ) ( )
+= + −( )( )3 2 4 3x x
+Factorisation of Sum and
+Difference of Cubes
+In case, the polynomial is given in the form of a b3 3+ or
+a b3 3− . To factorise it, following identities can be
+applied.
+• a b a b a ab b3 3 2 2+ = + − +( )( )
+• a b a b a ab b3 3 2 2− = − + +( )( )
+EXAMPLE 9. Factorise ( ) ( )2 3 2 3 3 3x x+ − −y y
+a. 18 4 32 2( ) x + y b. 18 3 4 2 2y y( )x +
+c. x xy y( )4 32 2+ d. 18 4 3 2 2y y( ) x +
+Sol. d. ( ) ( )2 3 2 3 3 3x x+ − −y y
+Put 2 3x + =y a and 2 3x − =y b
+⇒ a b3 3− = − + +( )( )a b a ab b2 2 = + − +( )2 3 2 3x x y y
+[( ) ( )( ) ( ) ]2 3 2 3 2 3 2 32 2x x x x+ + + − + −y y y y
+= + + + − +6 4 9 12 4 9 42 2 2 2 2y y y y[ x x x x
++ −9 122y y x ]
+= +6 12 9 2 2y y[ ] x = +18 4 3 2 2y y[ ] x
+Hence, ( ) ( ) [ ]2 3 2 3 18 4 33 3 2 2x x x+ − − = +y y y y
+Factorisation of Polynomial of form
+a b c abc3 3 3 3+ + −
+Here, it is easy to use.
+• a b c abc3 3 3 3+ + −
+= + + + + − − −( )( )a b c a b c ab bc ac2 2 2
+• If a b c+ + = 0, then a b c abc3 3 3 3+ + =
+EXAMPLE 10. Factorise x x x3 3 3 27 8 18+ + −y yz
+a. ( )( )x x x x+ + + + + + +3 2 9 4 3 6 22 2 2y z y z y yz z
+b. ( )( )x x x x+ + + + − − −3 2 9 4 3 6 22 2 2y z y z y yz z
+c. ( )( )x x x x− − + − − + +3 2 9 4 3 6 22 2 2y z y z y yz z
+d. None of the above
+Sol. b. x x3 3 3 27 8 18+ + −y z yz
+= + + −x x3 3 3 3 2 3 3 2( ) ( ) ( )( )( )y z y z
+= + + + + −( )[ ( )x x x3 2 9 4 3 2 2 2y z y z y
+− −3 2 2y z z( ) ( )] x
+= + + + + − − −( )([ ])x x x x3 2 9 4 3 6 22 2 2y z y z y yz z
+EXAMPLE 11. Factorise
+( ) ( ) ( )2 3 3 5 5 23 3 3x x− + − + −y y z z
+a. 3 2 3 3 5 5 2( )( )( )x x− − −y y z z
+b. ( )( )( )2 3 3 5 5 2x x− − −y y z z
+c. 3 2 3 3 5 5 2( )( )( )x x− + −y y z z
+d. None of the above
+122 CDS Pathfinder
+--- PDF PAGE 328 ---
+123MATHEMATICS Algebraic Operations
+Sol. a. Here, 2 3x − =y a , 3 5y z b− = and 5 2z c− =x
+/c81 a b c+ + = 0 ⇒ a b c3 3 3+ + = 3abc
+∴ ( ) ( ) ( )2 3 3 5 5 23 3 3x x− + − + −y y z z
+= − − −3 2 3 3 5 5 2( )( )( )x x y y z z
+Remainder Theorem
+Let p x( ) be a polynomial of degree n greater than or
+equal to 1 (i.e. n≥ 1) and a be any real number. If p x( ) is
+divided by the linear polynomial ( )x a− , then the
+remainder is p a( ) . Remainder can be evaluated by
+substituting x a− = 0, i.e. x a= in p x( ) .
+EXAMPLE 12. The remainder when
+12 13 5 93 2x x x− − + is divided by ( )3 2x + is
+a. 1 b. 2 c. 3 d. 0
+Sol. c. Let p( )x x x x= − − +12 13 5 93 2 and q( )x x= +3 2
+When p ( )x is divided by ( )3 2x + , then remainder is p −
+ 
+2
+3 .
+Now,
+p −
+ 
+ = −
+ 
+ − −
+ 
+ − −
+ 
+ +2
+3 12 2
+3 13 2
+3 5 2
+3 9
+3 2
+= × −
+ 
+ − × + + =12 8
+27 13 4
+9
+10
+3 9 3
+Hence, the required remainder is 3.
+Factor Theorem
+Let p x( ) be a polynomial, if degree n≥ 1 and a be any
+real number. Then,
+(i) If p a( ) = 0, then ( )x a− is a factor of p x( ) .
+(ii) If ( )x a− is a factor of p x( ) , then p a( ) = 0.
+EXAMPLE 13. For what values of k will
+4 9 7 5 4 34 3 2 2x x x x x5 + − − − + k k
+contain x − 1 as a factor?
+a. 3 1
+2, −
+b. 3, −1 c. 0, 1
+3
+d. 1 1
+3,
+Sol. d. Given, P k k( )x x x x x x= + − − − +4 9 7 5 4 35 4 3 2 2
+Since, ( )x − 1 is a factor of P( )x . ∴ P( ) 1 0=
+⇒ 4 1 9 1 7 1 5 15 4 3 2× + × − × − ×( ) ( ) ( ) ( ) − × × + × =4 1 3 0 2k k ( )
+⇒ 3 4 1 02k k− + = ⇒ 3 3 1 02k k k− − + =
+⇒ ( )( )3 1 1 0k k− − = ⇒ k = 1
+3 1 ,
+Division Synthetic Algorithm
+If p x( ) and g x( ) any two polynomials with g x( ) ,≠ 0 then
+we can find polynomials q x( ) and r x( ) such that
+p x g x q x r x( ) ( ) ( ) ( )= × +
+i.e. Dividend = × +(Divisor Quotient) Remainder
+where, r x( ) = 0 or degree of r x( ) < degree of g x( ) , then
+we say that p x( ) divided by g x( ) , gives q x( ) as quotient
+and r x( ) as remainder.
+If the remainder r x( ) is zero, we say that divisor g x( ) is
+a factor of p x( ) .
+EXAMPLE 14. If two factors of a a a a4 3 22 9 2 8− − + +
+are ( )a +1 and ( )a − 1 , then what are the other two
+factors?
+a. ( )a − 2 and ( )a + 4 b. ( )a + 2 and ( )a + 4
+c. ( )a + 2 and ( )a − 4 d. ( )a − 2 and ( )a − 4
+Sol. c. Let f a a a a a( ) = − − + +4 3 22 9 2 8
+and ( )a + 1 and ( )a − 1 are two factors of f a( ) .
+Now, by division method,
+So, the required factor of f a( ) is ( )a a2 2 8− − .
+Further factorise it by splitting the middle term, i.e.
+a a2 2 8− − = − + −a a a2 4 2 8
+= − + −a a a( ) ( )4 2 4 = + −( )( )a a 2 4
+Hence, ( )a + 2 and ( )a − 4 are other two factors of f a( ).
+Factorisation of Polynomials
+Using Factor Theorem
+To factorise the polynomial, follow the following steps
+(i) Let p x( ) be a given polynomial.
+(ii) find all the possible factors of constant term in p x( ) .
+(iii) Take any one of the factors, say ( )α and find p ( )α . If
+p ( )α = 0 the ( )x − α is a factor of p x( ) .
+(iv) Divide the polynomial p x( ) by ( )x − α to find its all
+other factors.
+EXAMPLE 15. Factorise 2 5 19 423 2x x x− − + .
+a. ( ) ( ) ( )x x x− − +2 2 7 3 b. ( ) ( ) ( )x x x+ + −2 2 7 3
+c. ( ) ( ) ( )x x x− − −1 3 7 4 d. ( ) ( ) ( )2 3 4 7 1x x x+ − −
+Sol. a. Let p ( )x x x x= − − +2 5 19 423 2
+Hence, constant term is 42 and its all factors are = ± 1,
+± 2, ± 3, ± 6, ± 7, ± 14, ± 21 and ± 42.
+At x = 1 , p ( ) ( ) ( )1 2 1 5 1 19 423 2= − − +
+= − − +2 5 19 42 = ≠20 0
+So, ( )x − 1 is not a factor of p ( )x .
+At x = 2, p ( ) ( ) ( ) ( )2 2 2 5 2 19 2 423 2= − − + = − = 58 58 0
+So, ( )x − 2 is a factor of p ( )x .
+Now, on dividing p ( )x by ( )x − 2 , we get ( )2 22x x− − as
+quotient i.e. other factor of p( )x .
+So, p ( ) ( )[ ]x x x x= − − −2 2 212
+= − − + −( ) ( )x x x x2 2 7 6 212
+= − − + −( )[ ( ) ( )]x x x x2 2 7 3 2 7
+∴ p ( ) ( )( )( )x x x x= − − +2 2 7 3
+a a a a a a a2 4 3 2 2–1) – 2 – 9 + 2 + 8 ( – 2 – 8
+– 2 – 8 + 2 + 8a a a3 2
+– 2 a3
+– 8 a2
+2a
++ 8
+a4 – a2
+– 8 a2 + 8
+×
+--- PDF PAGE 329 ---
+1. If x y z= = =5 3 2, and , then the value of
+x y z xy yz zx2 2 2 2 2 2+ + − + − is
+(a) 125 (b) 0 (c) −25 (d) 10
+2. The factors of x x2 2 3 3− + are
+(a) ( )x + 3 2 (b) ( )x − 3 2
+(c) ( )( )x x+ − 3 3 (d) ( )( )x x+ +2 3
+3. The factors of ( )a b c4 4 4 16− are
+(a) 4 2 22 2 2( )( )( )a b c ab c ab c+ − +
+(b) ( )( )a b c ab c2 2 2 2 4 2− +
+(c) ( )( )( )a b c ab c ab c2 2 2 4 2 2+ + −
+(d) ( ) ( )( )a b c ab c ab c2 2 2 2 4 2 4− + +
+4. The factors of ( )x y8 8− are
+(a) ( )( )( )( )x x x x4 4 2 2+ + + −y y y y
+(b) ( ) ( )( )x x x2 2 2+ + −y y y
+(c) ( )( )x x4 4 2 2 2+ +y y
+(d) ( )( )x x2 2 2+ −y y
+5. The factors of a a2 1
+4
++ +
+ 
+ are
+(a)
+a +
+ 
+1
+2
+2
+(b)
+a a+
+ 
+ +1
+2
+2( )
+(c)
+a a+
+ 
+ −
+ 
+1
+2
+1
+2
+(d)
+a −
+ 
+1
+2
+2
+6. The factors of 8 4 2
+3 4− − +x x x are
+(a) ( )( )2 4 3− −x x (b) ( )( )2 4 3+ −x x
+(c) ( )( )2 3 3+ −x x (d) ( )( )2 4 3− −x x
+7. The factors of ( )a b ac c2 2 2 4 4− − + are
+(a) ( )( )a c b a c b+ + − −2 2 (b) ( )( )a c b a c b− + − −2 2
+(c) ( )( )a b c a b c− + + +2 2 (d) ( )( )a b a b c− + +2 2 2
+8. What are the factors of x y y xy2 2 4 4 4+ + −
+− −2 8x ?
+(a) ( )x − −2 4y and ( )x − +2 2y
+(b) ( )x − +y 2 and ( )x − +4 4y
+(c) ( )x − +y 2 and ( )x − −4 4y
+(d) ( )x + −2 4y and ( )x + +2 2y
+9. Factorise a
+a
+a
+a
+3
+3
+1 2 2− − +
+(a) a
+a
+a
+a
+a
+a
++
+ 
+ +
+ 
+ − − 
+ 
+1 1 2 12
+2
+(b)
+a
+a
+a
+a
+a
+a
+−
+ 
+ + +
+ 
+ + − 
+ 
+1 1 1 2 12
+2
+(c)
+a
+a
+a
+a
++
+ 
+ −
+ 
+1 1
+(d) None of the above
+10. What are the factors of
+1
+3
+2 92x x− −
+ 
+ ?
+(a)
+1
+3
+9 3( )( )x x− + (b)
+1
+3
+9 3( )( )x x− −
+(c)
+1
+3
+9 3( )( )x x+ + (d)
+1
+3
+9 3( )( )x x+ −
+11. What are the factors of
+( )6 3 47 5 32x x− + ?
+(a) ( )( )3 3 5 3 2 5 3x x+ −
+(b) ( )( )3 3 5 3 3 1x x x− +
+(c) ( )( )2 5 3 3 3 1x x+ +
+(d) ( )( )2 5 3 3 3 1x x− −
+12. The factors of ( )8 125 64 1203 3 3a b c abc+ − + are
+(a) ( ) ( )2 5 4 2 5 4a b c a b c+ − + +
+(b) ( ) ( )2 5 4 2 5 4a b c a b c− − + +
+(c) ( )2 5 4a b c+ − ( )4 25 16 10 20 82 2 2a b c ab bc ac+ + − + +
+(d) ( ) ( )2 5 4 4 25 16 10 20 82 2 2a b c a b c ab bc ac+ + + + − + +
+13. If x y z1 3 1 3 1 3 0/ / / + + = , then
+(a) x y z+ + = 0 (b) ( )x y z xyz+ + = 3 27
+(c) x y z xyz+ + = 3 (d) x y z3 3 3 0+ + =
+14. If x
+x
++ =1 5, then the value of x
+x
+3
+3
+1+ is
+(a) 8 5 (b) 2 5 (c) 5 5 (d) 7 5
+15. If x
+x
++
+ 
+ =1 6, then
+x
+x
+2
+2
+1+
+ 
+ is equal to
+(a) 32 (b) 38 (c) 34 (d) 44
+16. If
+x
+x
+− =1 1
+3
+, then what is 9 92
+2x
+x
++ equal to?
+(a) 18 (b) 19 (c) 20 (d) 21
+17. If a b c+ + = 6 and a b c2 2 2 26+ + = , then what is
+ab bc ca+ + equal to?
+(a) 0 (b) 2 (c) 4 (d) 5
+18. If ( )x x4 4 322+ =− , then what is one of the value
+of ( )x x− − 1 ?
+(a) 18 (b) 16 (c) 8 (d) 4
+19. If a b c+ + = 0, then what is the value of
+a
+bc
+b
+ca
+c
+ab
+2 2 2
++ + ?
+(a) − 3 (b) 0 (c) 1 (d) 3
+20. If a b c+ + = 10 and ab bc ca+ + = 31, then the
+value of a b c2 2 2+ + is
+(a) 48 (b) 38 (c) 28 (d) 18
+124 CDS Pathfinder
+PRACTICE EXERCISE
+--- PDF PAGE 330 ---
+21. The factors of x
+x
+x
+x
+2
+2
+1
+4
+1 2 1+ + − − are
+(a) x
+x
+x
+x
+−
+ 
+ − +
+ 
+1
+2
+1
+2
+2 (b)
+x
+x
+x
+x
++
+ 
+ + −
+ 
+1
+2
+1
+2
+2
+(c)
+x
+x
+x
+x
+−
+ 
+ − −
+ 
+1
+2
+1
+2
+2 (d)
+x
+x
+x
+x
++
+ 
+ − −
+ 
+1
+2
+1
+2
+2
+22. The factors of ( ) ( )a b c d abcd
+2 2 2 2 4− − − are
+(a) ( ) ( )ac bd bc ad ac bd bc ad+ + + − − −
+(b) ( ) ( )ac bd bc ad ac bd dc ab− − + + + +
+(c) ( ) ( )ac bd bc ad ac bd bc ad− + + − − −
+(d) ( ) ( )ac bd bc ad ac bd dc ab− − − + + +
+23. If ‘ a’ is an integer such that a
+a
++ =1 17
+4
+, then the
+value of a
+a
+−
+ 
+1 is
+(a) 4 (b)
+13
+4
+(c) 17
+4
+(d) 15
+4
+24. x y4 4 4+ is divisible by which one of the following?
+(a) ( )x x2 2 2 2+ + y y (b) ( )x2 2 2+ y
+(c) ( )x2 2 2− y (d) None of these
+25. If x x y z( ) + + = 9, y x y z( ) + + = 16 and
+z x y z( ) + + = 144, then x equal to
+(a) 9
+5
+(b)
+9
+7
+(c) 9
+13
+(d) 16
+13
+26. If x b c a d= − −( ) ( ) , y c a b d= − −( ) ( ) and z a b= −( )
+( )c d− , then what is x
+3 3 3+ +y z equal to?
+(a) xyz (b) 2xyz (c) 3xyz (d) − 3xyz
+27. If the expression ( )px x x q3 2 2+ − − is divisible by
+( )x − 1 and ( )x + 1 , what are the values of p and q
+respectively?
+(a) 2 1 ,− (b) − 2 1 , (c) − −2 1 , (d) 2 1 ,
+28. If the expression px x
+3 2 3 3+ − and 2 53x x p− +
+when divided by x − 4 leave the same remainder,
+then what is the value of p?
+(a) − 1 (b) 1 (c) − 2 (d) 2
+29. Let f x a x a x a x a x an n n
+n n( ) ... ,= + + + + + − −
+−0 1
+1
+2
+2
+1
+where a a a a n0 1 2, , ... are constants. If f x( ) is
+divided by ax b− , the remainder is
+(a) f b
+a
+
+ 
+ (b)
+f b
+a
+−
+ 
+ (c)
+f a
+b
+
+ 
+ (d)
+f a
+b
+−
+ 
+
+30. Which one of the following statements is correct?
+(a) Remainder theorem is a special case of factor
+theorem
+(b) Factor theorem is a special case of remainder
+theorem
+(c) Factor theorem and remainder theorem are two
+independent results
+(d) None of the above
+31. What is x y z y z y z x z x z( ) ( ) ( ) ( )− + + − + + ( )x y−
+( )x y+ equal to?
+(a) ( ) ( ) ( )x x+ + +y y z z (b) ( ) ( ) ( )x x− − −y z z y
+(c) ( ) ( ) ( )x x+ − −y z y z (d) ( ) ( ) ( )y z y z− − −x x
+32. If the remainder of the polynomial
+a a x a x
+0 1 2
+2+ + + /c76+ a xn
+n when divided by ( )x − 1
+is 1, then which one of the following is correct?
+(a) a a a a0 2 1 3+ + = + +/c76 /c76
+(b) a a a a0 2 1 3 1+ + = + + +/c76 /c76
+(c) 1 0 2 1 3+ + + = − + +a a a a /c76 /c76( )
+(d) 1 0 2 1 3− − − = + +a a a a /c76 /c76
+33. If u v, and w are real numbers such that
+u v w uvw
+3 3 3 8 27 18− − = , then which one of the
+following is correct?
+(a) u v w− + = 0 (b) u v w= − = −
+(c) u v w− =2 3 (d) u v w+ = −2 3
+34. The value of ( ) ( )
+/ / / /a a a a1 8 1 8 1 8 1 8+ − − − ( ) / /a a1 4 1 4+ −
+( ) / /a a1 2 1 2+ − is
+(a) ( )a a+ − 1 (b) ( )a a− − 1 (c) ( )a a2 2+ − (d) ( )a a2 2− −
+35. The polynomial f x x x x ax b( ) = − + − +4 3 2 2 3 ,
+when divided by ( )x − 1 and ( )x + 1 leaves the
+remainders 5 and 19, respectively. The values of
+a and b are
+(a) a b= =4 3, (b) a b= =3 4,
+(c) a b= =5 8, (d) a b= =9 7,
+36. If the expression ax bx c
+2 + + is equal to 4 when
+x = 0, leaves a remainder 4 when divided by x + 1
+and a remainder 6 when divided by x + 2., then
+the values of a b, and c are respectively:
+(a) 1, 1, 4 (b) 2, 2, 4 (c) 3, 3, 4 (d) 4, 4, 4
+37. If ( ) / / / /x xy x y y3 2 1 2 1 2 3 2− + − is divided by
+x y1 2 1 2/ / − the quotient is
+(a) x − y (b) x + y (c) x1 2 1 2/ / + y (d) x2 2− y
+38. If, 9 3 62x px q+ + when divided by 3 1x + leaves a
+remainder − 3
+4
+and qx px
+2 4 7+ + is exactly
+divisible by x + 1, then the values of p and q
+respectively are
+(a) 0 7 4, / (b) −7 4 0/ ,
+(c)
+7
+4
+0 , (d) None of these
+39. If a b c+ + = 1, then which of the following
+statements are true?
+I. ( )( )( )a b b c c a+ + + = + + − bc ac ab abc
+II. a b c ab2 2 2 2+ − + = + − a b c
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+40. If
+x
+x
++ =1 4, then the value of expression
+I. x
+x
+3
+3
+1 52+ = II. x = +2 3
+Which of the following is correct?
+(a) Only I (b) Only II
+(c) Neither I nor II (d) Both I and II
+125MATHEMATICS Algebraic Operations
+--- PDF PAGE 331 ---
+PREVIOUS YEARS’ QUESTIONS
+41. What is the value of k that ( )2 1x − may be a
+factor of 4 1 6 14 3 2x k x kx x− − + − +( ) ? e 2012 I
+(a) 8 (b) 9 (c) 12 (d) 13
+42. x xy x y xz y yz4 3 3 3 4 3+ + + + + is divisible by
+(a) Only ( )x − y e 2012 I
+(b) Only ( )x 3 3 3+ +y z
+(c) Both ( )x + y and ( )x 3 3 3+ +y z
+(d) None of the above
+43. If x x k3 2 5 10+ + leaves remainder −2x when
+divided by x2 2+ , then what is the value of k?
+e 2012 I
+(a) –2 (b) –1 (c) 1 (d) 2
+44. If x
+x
+a+ =1 , then what is the value of
+x x
+x x
+3 2
+3 2
+1 1+ + + ?
+e 2012 I
+(a) a a3 2+ (b) a a a3 2 5+ −
+(c) a a a3 2 3 2+ − − (d) a a a3 2 4 2+ − −
+45. If p x( ) is a common multiple of degree 6 of the
+polynomials f x x x x( ) = + − −3 2 1 and
+g x x x x( ) = − + −3 2 1, then which one of the
+following is correct? e 2012 I
+(a) p( ) ( ) ( ) ( )x x x x= − + +1 1 12 2 2
+(b) p( ) ( ) ( ) ( )x x x x= − + +1 1 1 2 2
+(c) p( ) ( ) ( ) ( )x x x x= − + +1 1 13 2
+(d) p( ) ( ) ( )x x x= − + 1 12 4
+46. What is the value of k which will make the
+expression 4 122k k k+ + a perfect square?e 2012 II
+(a) 5 (b) 7 (c) 8 (d) 9
+47. The factors of 5 10 2 4px qy rpx qry− + − is/are
+(a) Only ( )5 2+ r e 2013 I
+(b) Only ( )p qyx − 2
+(c) Both ( )5 2+ r and ( )p qyx − 2
+(d) Neither ( )5 2+ r nor ( )p qyx − 2
+48. ( )a a+ −1 4 4 is divisible by e 2013 I
+(a) − + −2 2 12a a (b) 2 2 13a a − −
+(c) 2 2 13a a − + (d) 2 2 12a a + +
+49. One of the factors of the polynomial
+x x x x4 3 2 7 5 6 81− + − + is e 2013 I
+(a) x + 2 (b) x − 2 (c) x + 3 (d) x − 3
+50. If the expression x x x k3 2 3 4+ + + has a factor
+x + 5, then what is the value of k? e 2013 II
+(a) −70 (b) 70 (c) 48 (d) −48
+51. The quantity which must be added to
+( )( )1 1 2− +x x to obtain x3 is e 2013 II
+(a) 2 3 13 2x x x+ + + (b) 2 13 2x x x+ + −
+(c) 2 13 2x x x− + − (d) − + −x x3 1
+52. x y z y z x z x y( ) ( ) ( )2 2 2 2 2 2− + − + − is divisible by
+(a) Only ( )y z− e 2013 II
+(b) Only ( )z − x
+(c) Both ( y z− ) and ( )z − x
+(d) Neither ( )y z− nor ( )z − x
+53. Consider the following statements
+I. x + 3 is the factor of x x x3 2 2 3 8+ + + .
+II. x − 2 is the factor of x x x3 2 2 3 8+ + + .
+Which of the statement(s) given above is/are
+correct? e 2013 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+54. x x x
+3 2 6 11 6+ + + is divisible by e 2014 I
+(a) Only ( )x + 1 (b) Only ( )x + 2
+(c) Only ( )x + 3 (d) All of these
+55. What should be added to the x x a x a( ) ( )+ + 2
+( )x a+ 3 , so that the sum be a perfect square?
+(a) 9 2a (b) 4 2a e 2014 I
+(c) a4 (d) None of these
+56. If x
+x
+2
+2
+1 17
+4
++
+ 
+ = , then what is
+x
+x
+3
+3
+1−
+ 
+ equal to?
+e 2014 I
+(a)
+75
+16
+(b)
+63
+8
+(c) 95
+8
+(d) None of these
+57. What is the remainder when x x5 2 5 125− + is
+divided by x + 5? e 2014 II
+(a) 0 (b) 125 (c) − 3125 (d) 3125
+58. If ax by+ − = 2 0 and axby = 1, where a b≠ ≠0 0, ,
+then what is ( )a x b y2 2 + equal to? e 2014 II
+(a) a b+ (b) 2ab (c) a b3 3+ (d) a b4 4+
+59. If ( )x k+ is the common factor of x ax b2 + + and
+x cx d2 + + , then what is k equal to? e 2014 II
+(a) ( ) / ( )d b c a− − (b) ( ) / ( )d b a c− −
+(c) ( ) / ( )d b c a+ + (d) ( ) / ( )d b c a− +
+60. Consider the following statements:
+I. ( )a b c− − is one of the factors of
+3 3 3 3abc b c a+ + − .
+II. ( )b c+ − 1 is one of the factors of 3 1 3 3bc b c+ + − .
+Which of the statement(s) given above is/are
+correct? e 2014 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+61. For what value of k is ( )x − 5 a factor of
+x x kx
+3 2 3 10− + − ? e 2015 I
+(a) −8 (b) 4 (c) 2 (d) 1
+62. If x y z+ + = 0, then x y z xyz3 3 3 3+ + + is equal to
+e 2015 I
+(a) 0 (b) 6xyz (c) 12xyz (d) xyz
+126 CDS Pathfinder
+--- PDF PAGE 332 ---
+63. The expression x q x pt x pt3 2 3 2 4− + − 4 2 2x q
++ −3 3 2xq xpt is divisible by e 2015 I
+(a) Only ( )x − 1 (b) Only ( )x − 3
+(c) Both ( )x − 1 and ( )x − 3 (d) Neither ( )x − 1 nor ( )x − 3
+64. Which one of the following is correct? e 2015 II
+(a) ( )x + 2 is a factor of x x x x4 3 2 6 12 24 32− + − +
+(b) ( )x + 2 is a factor of x x x x4 3 2 6 12 24 32+ − + −
+(c) ( )x − 2 is a factor of x x x x4 3 2 6 12 24 32− + − +
+(d) ( )x − 2 is a factor of x x x x4 3 2 6 12 24 32+ − + −
+65. For what value of k ( )x + 1 is a factor of
+x kx x3 2 2+ − + ? e 2016 I
+(a) 4 (b) 3 (c) 1 (d) −2
+66. If the polynomial x px qx x x6 5 4 2 3+ + − − − is
+divisible by ( )x4 1− , then the value of
+p q2 2+ is e 2016 I
+(a) 1 (b) 9 (c) 10 (d) 13
+67. If the linear factors of ax a x a2 2 1− + +( ) are p
+and q, then p q+ is equal to e 2016 I
+(a) ( ) ( )x − +1 1a (b) ( ) ( )x + +1 1a
+(c) ( ) ( )x − −1 1a (d) ( ) ( )x + −1 1a
+68. If x
+y
+y
+x
+= −10
+3
+and x y− = 8, then the value of
+xy is equal to e 2016 I
+(a) 36 (b) 24 (c) 16 (d) 9
+127MATHEMATICS Algebraic Operations
+ANSWERS
+1 b 2 b 3 c 4 a 5 a 6 a 7 b 8 a 9 d 10 a
+11 d 12 c 13 b 14 b 15 c 16 b 17 d 18 d 19 d 20 b
+21 b 22 c 23 d 24 a 25 c 26 c 27 d 28 b 29 a 30 b
+31 b 32 d 33 c 34 b 35 c 36 a 37 b 38 c 39 c 40 d
+41 d 42 c 43 c 44 c 45 a 46 d 47 c 48 d 49 d 50 b
+51 c 52 c 53 d 54 d 55 c 56 b 57 c 58 a 59 a 60 c
+61 a 62 b 63 c 64 c 65 d 66 c 67 a 68 d
+HINTS AND SOLUTIONS/CharA0 
+1. (b) x x x2 2 2 2 2 2+ + − + −y z y yz z
+= − −( )x y z 2 = − − =( )5 3 2 0 2
+[/c81x = =5 3, y and z = 2]
+2. (b) x x2 2 3 3− +
+= − − +x x x2 3 3 3
+= − − −x x x( ) ( ) 3 3 3
+= − −( ) ( )x x 3 3 = −( )x 3 2
+3. (c) ( )a b c4 4 4 16− = − [( ) ( ) ]a b c2 2 2 2 2 4
+= + −[ ] [ ]a b c a b c2 2 2 2 2 24 4
+[/c81a b a b a b2 2− = − + ( ) ( ) ]
+= + −[ ] [( ) ( ) ]a b c ab c2 2 2 2 2 4 2
+= + + −[ ] [( ) ( )]a b c ab c ab c2 2 2 4 2 2
+4. (a) x x8 8 4 2 4 2− = −y y [( ) ( ) ]
+= + −[ ][ ]x x4 4 4 4y y
+= + −[ ][( ) ( ) ]x x4 4 2 2 2 2y y
+= + + −( )( )( )x x x4 4 2 2 2 2y y y
+= + + + −( ) ( ) ( ) ( )x x x x4 4 2 2y y y y
+5. (a) a a a a a2 2 1
+4
+1
+2
+1
+2
+1
+4
++ +
+ 
+ = + + +
+= + 
+ 
+ + + 
+ 
+a a a 1
+2
+1
+2
+1
+2
+= +
+ 
+ +
+ 
+ = +
+ 
+a a a 1
+2
+1
+2
+1
+2
+2
+6. (a) 8 4 2 3 4− − +x x x
+= − − −4 2 2 3( ) ( ) x x x
+= − −( ) ( )2 4 3x x
+7. (b) ( )a b ac c2 2 2 4 4− − +
+= − + −( )a ac c b2 2 2 4 4
+[( ) ( )( ) ( ) ]a c a c b2 2 2 2 2 2− + −
+= − −( )a c b2 2 2
+= − − − +( ) ( )a c b a c b2 2
+8. (a) x x x2 2 4 4 4 2 8+ + − − −y y y
+= − + − + −x x x2 2 4 4 2 4 8y y y
+= − − − −( ) ( )x x 2 2 2 82y y
+Let x − =2 y z
+∴ z z2 2 8− − = − + −z z z2 4 2 8
+= − + −z z z( ) ( )4 2 4
+= + −( )( )z z 2 4
+Now, put z y= −x 2
+∴ ( )x − +2 2y
+and ( )x − −2 4y are required factors.
+9. (d)
+a
+a
+a
+a
+3
+3
+1 2 2− − +
+= − 
+ 
+ − − 
+ 
+a
+a
+a
+a
+3
+3
+1 2 1
+= −
+ 
+ + +
+ 
+ − − 
+ 
+a
+a
+a
+a
+a
+a
+1 1 1 2 12
+2
+= −
+ 
+ + −
+ 
+a
+a
+a
+a
+1 1 12
+2
+10. (a)
+1
+3
+2 9 6 27
+3
+2
+2
+x x x x− −
+ 
+ = − −( )
+= − + −1
+3
+9 3 272[ ]x x x
+= − + −1
+3
+9 3 9[ ( ) ( )]x x x
+= + −1
+3
+3 9( ) ( )x x
+--- PDF PAGE 333 ---
+11. (d) 6 3 47 5 32x x− +
+= − − +6 3 45 2 5 32x x x
+= − − −3 3 2 5 3 1 2 5 3x x x( ) ( )
+= − −( ) ( )2 5 3 3 3 1x x
+12. (c) 8 125 64 1203 3 3a b c abc+ − +
+= + − +( ) ( ) ( )2 5 4 1203 3 3a b c abc
+= + + − −( ) ( ) ( ) ( )2 5 4 3 23 3 3a b c a
+( ) ( )5 4b c −
+= + − + +( ) (2 5 4 4 25 16 2 2 2a b c a b c
+− + +10 20 8ab bc ac )
+[/c81a b c abc a b c3 3 3 3+ + − = + + ( )
+( )a b c ab bc ac2 2 2+ + − − − ]
+13. (b) Since, x y z1 3 1 3 1 3 0/ / /+ + =
+∴ ( ) ( ) ( )/ / /x y z1 3 3 1 3 3 1 3 3+ +
+− =3 0 1 3 1 3 1 3x y z/ / /
+⇒ x y z xyz+ + − = 3 0 1 3( ) /
+⇒ x y z xyz+ + = 3 1 3( ) /
+⇒ ( )x y z xyz+ + = 3 27
+14. (b) /c81 x
+x
+x
+x
+x
+x
++
+ 
+ = + + + 
+ 
+1 1 3 1
+3
+3
+3
+( ) ( )5 1 3 53 3
+3= + +x
+x
+/c81x
+x
++ =
+
+
+
+1 5
+⇒
+x
+x
+3
+3
+1 5 5 3 5 2 5+ = − =
+15. (c) Given, x
+x
++
+ 
+ =1 6
+On squaring both sides, we get
+x
+x
++
+ 
+ =1 6
+2
+2
+⇒
+x
+x
+2
+2
+1 2 36+ + =
+⇒ x
+x
+2
+2
+1 34+ =
+16. (b) Given, x
+x
+− =1 1
+3
+⇒ 3 3 1x
+x
+− =
+On squaring both sides, we get
+3 3 1
+2
+2x
+x
+−
+ 
+ = ( )
+9 9 2 9 12
+2x
+x
++ − × =
+⇒ 9 9 192
+2x
+x
++ =
+17. (d) /c81( )a b c a b c+ + = + + +2 2 2 2 2
+( )ab bc ca+ +
+∴ ( ) ( )6 26 22 = + + + ab bc ca
+⇒ 2 10( )ab bc ca+ + =
+⇒ ab bc ca+ + = 5
+18. (d) Given, x
+x
+4
+4
+1 322+ =
+⇒ x
+x
+2
+2
+2
+1 2 322+
+ 
+ − =
+⇒
+x
+x
+2
+2
+2
+21 324 18+
+ 
+ = =
+⇒
+x
+x
+2
+2
+1 18+ =
+⇒ x
+x
+−
+ 
+ + =1 2 18
+2
+⇒
+x
+x
+− =1 4
+19. (d) Given, a b c+ + = 0
+⇒ a b c abc3 3 3 3+ + =
+On dividing both sides by abc, we get
+⇒ a
+abc
+b
+abc
+c
+abc
+3 3 3
+3+ + =
+⇒ a
+bc
+b
+ac
+c
+ab
+2 2 2
+3+ + =
+20. (b) /c81 ( )a b c a b c+ + = + +2 2 2 2
++ + +2 2 2ab bc ac
+( ) ( ) ( )10 2 312 2 2 2= + + +a b c
+a b c2 2 2 100 62+ + = −
+⇒ a b c2 2 2 38+ + =
+21. (b) x
+x
+x
+x
+2
+2
+1
+4
+1 2 1+ + − −
+= + +
+ 
+ − + 
+ 
+x
+x
+x
+x
+2
+2
+1
+4
+1 2 1
+2
+= +
+ 
+ − + 
+ 
+x
+x
+x
+x
+1
+2
+2 1
+2
+2
+= +
+ 
+ + −
+ 
+x
+x
+x
+x
+1
+2
+1
+2
+2
+22. (c) ( )( )a b c d abcd2 2 2 2 4− − −
+= − − + −a c a d b c b d abcd2 2 2 2 2 2 2 2 4
+= + −( )a c b d abcd2 2 2 2 2
+− + +( )b c a d abcd2 2 2 2 2
+= − − +( ) ( )ac bd bc ad2 2
+= − + + − − −( )( )ac bd bc ad ac bd bc ad
+23. (d) /c81
+a
+a
+a
+a
+−
+ 
+ = + 
+ 
+ −1 1 4
+2
+= 
+ 
+ −17
+4
+4
+2
+/c81given a
+a
++
+ 
+ =
+
+
+
+1 17
+4
+=
+−289 64
+16
+= = 225
+16
+15
+4
+24. (a) x4 4 4+ y
+= + + −x x x4 4 2 2 2 24 4 4y y y
+= + −( ) ( )x x2 2 2 22 2y y
+= + −( )x x2 2 2 2y y
+( )x x2 2 2 2+ + y y
+From above it is clear that x4 4 4+ y is
+divisible by x x2 2 2 2+ + y y
+25. (c) Given, x x( ) + + =y z 9,
+y y z( )x + + = 16
+and z y z( )x + + = 144
+On adding all three equations, we get
+x x( ) ( )+ + + + +y z y x y z + + +z x y z( )
+= + +9 16 144
+⇒ ( ) ( )x + + + +y z x y z = + +9 16 144
+⇒ ( )x + + =y z 2 169
+⇒ x + + =y z 13
+/c81 x x( ) + + =y z 9
+⇒ x ( ) 13 9= ⇒ x = 9
+13
+26. (c) Given, x = − −( ) ( ),b c a d
+y c a b d= − −( ) ( )
+and z a b c d= − −( ) ( )
+/c81x + + = − −y z b c a d( ) ( )
++ − −( ) ( )c a b d
++ − −( ) ( )a b c d
+= 0
+Hence, x x3 3 3 3+ + =y z yz
+27. (d) Here, p qx x x3 2 2+ − − is divisible
+by ( )x − 1 and ( )x + 1 .
+∴ p q( ) ( ) ( )1 1 2 1 03 2+ − − =
+⇒ p q− = 1 …(i)
+and p q( ) ( ) ( )− + − − − − =1 1 2 1 03 2
+⇒ p q+ = 3 …(ii)
+On solving Eqs. (i) and (ii), we get
+p = 2 and q = 1
+28. (b) Let f p( )x x x= + −3 2 3 3
+and g p( )x x x= − +2 53 .
+On dividing f x( ) by( )x − 4 , remainder is
+f p( ) ( ) ( )4 4 3 4 3 3 2= + −
+= + − = +64 48 3 64 45p p
+Similarly g p( ) ( ) ( )4 2 4 5 4 3= − +
+= − + = +128 20 108 p p
+But f g( ) ( )4 4= [given]
+∴ 64 45 108p p+ = +
+⇒ 63 63p = ⇒ p = 1
+29. (a) ax b− = 0 ⇒ =x b a /
+By remainder theorem, if f x( ) is divisible
+by ax b− , the remainder is f b a( / ).
+30. (b) Factor theorem is a special case of
+remainder theorem.
+31. (b) x x x( )( ) ( ) ( )y z y z y z z− + + − +
++ − +z y y( ) ( )x x
+= − + −x x( ) ( )y z y z2 2 2 2
++ −z y( )x2 2
+= − + −x x( )y z yz y2 2 2 2
++ −z zyx2 2
+= − + − −( ) ( )y z y z yzx x x 2
+= −( )y z [ ( ) ( )]y z zx x x− + −
+= − − −( ) ( ) ( )y z z y x x
+= − − −( ) ( ) ( )x x y z z y
+128 CDS Pathfinder
+--- PDF PAGE 334 ---
+32. (d) Let f a a a( )x x x= + +0 1 2
+2
++ +/c76 an
+nx
+Since, ( )x − 1 is a factor of f ( )x .
+Put x = 1 in f ( )x , then
+f a a a a n( ) 1 0 1 2= + + + + /c76
+⇒ 1 0 1 2= + + + +a a a a n/c76
+∴ 1 0 2 1 3− − − = + +a a a a /c76 /c76
+33. (c) Given, ( ) ( ) ( )u v w3 3 3 2 3+ − + −
+= ×3 ( ) ( )− −2 3 uvw
+∴ u v w+ − + − =( ) ( )2 3 0
+[/c81a b c abc3 3 3 3+ + = , then
+a b c+ + = 0]
+⇒ u v w− − =2 3 0
+∴ u v w− =2 3
+34. (b) We know that, ( ) ( )a b a b+ −
+= −a b2 2
+So, [( ) ( )/ / / /a a a a1 8 1 8 1 8 1 8+ − − −
+( ) / /a a1 4 1 4+ − ( ) ]/ /a a1 2 1 2+ −
+= − + − −[( ) ( ) ( )]/ / / /a a a a1 8 2 1 8 2 1 4 1 4
+= − + − −( )( )/ / / /a a a a1 4 1 4 1 4 1 4
+( ) / /a a1 2 1 2+ −
+= − + − −[ ] [ ]/ / / /a a a a1 2 1 2 1 2 1 2
+= − −( )a a 1
+35. (c) f a b( )x x x x x= − + − +4 3 2 2 3
+Put x = 1 as f ( ) 1 5= , f ( )− =1 19
+f a b( ) ( ) ( )1 1 2 1 3 14 3 2= − + − +
+⇒ 1 2 3 5− + − + = a b
+⇒ − + = a b 3 …(i)
+and f ( ) ( ) ( )− = − − − +1 1 2 1 3 4 3
+( ) ( )− − − +1 12 a b
+⇒ 1 2 3 19+ + + + = a b
+⇒ a b+ = 13 …(ii)
+On solving Eqs. (i) and (ii), we get
+a = 5, b = 8
+36. (a) Let f x ax bx c( ) = + +2
+Given f ( ) 0 4=
+⇒ 0 0 4+ + = c ⇒ a b− + = 4 4 ⇒ c = 4
+On dividing f x( ) by x + 1, remainder is 4
+∴ f ( )− =1 4
+⇒ a b c− + = 4 ⇒ a b− + = 4 4
+⇒ a b− = 0 …(i)
+On dividing f x( ) by x + 2, remainder is 6
+∴ f ( )− =2 6
+⇒ 4 2 6a b c− + =
+⇒ 4 2 2a b− = …(ii)
+⇒ a b− + = 4 4
+On solving Eq. (i) and eq. (ii), we get
+a b= =1 1,
+Hence,
+a b c= = =1 1 4, , .
+37. (b) x xy x y y3 2 1 2 1 2 3 2/ / / /− + −
+= − + −x x y y x y( ) ( )/ / / /1 2 1 2 1 2 1 2
+= − +( )( )/ /x y x y1 2 1 2
+⇒ Quotient
+= − +
+−
+= +( )( )
+( )
+/ /
+/ /
+x y x y
+x y
+x y
+1 2 1 2
+1 2 1 2
+38. (c) Let f x x px q( ) = + +9 3 62
+Given, f ( / ) /− = −1 3 3 4
+⇒ 9 1
+3
+3 1
+3
+6 3 4
+2
+−
+ 
+ + − 
+ 
+ + = −p q /
+⇒ 1 6 3 4− + = −p q /
+⇒ 24 4 7 0q p− + = …(i)
+Let g x qx px( ) = + +2 4 7
+Since, ( )x + 1 is a factor of g x( )
+∴ g( )− =1 0 ⇒ q p− + =4 7 0 …(ii)
+On solving Eq. (i) and Eq. (ii), we get
+q = 0 and p = 7 4 /
+39. (c) I. ( )( )( )a b b c c a+ + +
+= − − −( )( )( )1 1 1c a b
+[/c81a b c+ + = 1]
+= −( )1 c [ ]1− − +b a ab
+= − − + − + + −1 b a ab c bc ac abc
+= − + + + + + −1 ( ) a b c ab bc ac abc
+= + + −ab bc ac abc
+II. a b c ab2 2 2 2+ − +
+= + + −a b ab c2 2 2 2
+= + −( )a b c 2 2
+= + + + − = + −( )( )a b c a b c a b c
+[ ]/c81a b c+ + = 1
+So, both statements are correct.
+40. (d) We have,
+x
+x
++ =1 4
+I. x
+x
+x
+x
+x+
+ 
+ = + +1 1 3
+3
+3
+3 ( )
+× 
+ 
+ +
+ 
+1 1
+x
+x
+x
+( ) ( )4 1 3 43 3
+3= + +x
+x
+64 12 13
+3− = + x
+x
+⇒ x
+x
+3
+3
+1 52+ =
+II. x
+x
++ =1 4 ⇒ x x2 4 1 0− + =
+x = ± − × ×
+×
+4 16 4 1 1
+2 1
+= ±4 2 3
+2
+= ±2 3
+Hence, both statements are correct.
+41. (d) Let f x( ) = 4 14 3 2x x x− − +( )k k
+− +6 1x …(i)
+Since, ( )2 1x − is a factor of f x( )
+∴ f 1
+2
+0
+ 
+ =
+⇒
+4 1
+2
+1 1
+2
+4 3
+× 
+ 
+ − − × 
+ 
+( )k
++ × 
+ 
+k 1
+2
+2
+− × + =6 1
+2
+1 0
+⇒ 1
+4
+1
+8 4
+2 0− − + − =( )k k
+⇒ k k
+4
+1
+8
+2 1
+4
+− − = −( )
+⇒ 2 1
+8
+8 1
+4
+7
+4
+k k− − = − =( )
+⇒ 8 4 4 56k k− + =
+⇒ 4 52k = ⇒ k = 13
+Hence, the value of k is 13.
+42. (c) Given, x x x x4 3 3 3+ + +y y z
++ +y yz4 3
+= + + + + +( ) ( )x x x x4 3 3 3 4 3y z y y yz
+= + + + + +x x x( ) ( )3 3 3 3 3 3y z y y z
+= + + +( ) ( )x x y y z 3 3 3
+Hence, given polynomial is divisible by
+both
+( )x + y and ( )x3 3 3+ +y z .
+43. (c)
+But given that, remainder = − 2x
+∴ − − + = − 2 10 10 2x x k
+⇒ − + = 10 10 0 k
+⇒ 10 10k = ⇒ k = 1
+44. (c) Given that,
+x
+x
++ =1 a ...(i)
+Then, x x
+x x
+3 2
+3 2
+1 1+ + +
+= +
+ 
+ + +
+ 
+x
+x
+x
+x
+3
+3
+2
+2
+1 1
+= +
+ 
+ − + 
+ 
+x
+x
+x
+x
+1 3 1
+3
++ +
+ 
+ −x
+x
+1 2
+2
+= − + −a a a3 2 3 2 = + − −a a a3 2 3 2
+45. (a) Given, f ( )x x x x= + − −3 2 1
+and g( )x x x x= − + −3 2 1
+p x( ) = f g( ) ( )x x⋅
+= + − − − + −( ) ( )x x x x x x3 2 3 2 1 1
+= + − +[ ( ) ( )]x x x2 1 1 1
+[ ( ) ( )]x x x2 1 1 1− + −
+= + − − +[( )( )][( )( )]x x x x1 1 1 12 2
+= + + − − +( )( )( )( )( )x x x x x1 1 1 1 1 2
+= + − +( ) ( ) ( )x x x1 1 12 2 2
+129MATHEMATICS Algebraic Operations
+x x x k x2 3 2+ 2 ) + 5 + 10 ( + 5
+x x3 + 2
+5 – 2 + 10x x k2
+5 + 10x2
+- 2 - 10 + 10 = Remainderx k
+−
+−
+−
+−
+--- PDF PAGE 335 ---
+46. (d) Put the value of all options in
+4 122k k k+ +
+when, k = 9,
+then, 4 9 12 9 92( ) ( )+ + = 441= ( ) 212
+47. (c) Given expression
+= − + −5 10 2 4p qy rp qryx x
+= + − +( ) ( )5 2 10 4p rp qy qryx x
+= + − +p r qy rx ( ) ( )5 2 2 5 2
+= + −( ) ( )5 2 2 r p qyx
+So, factors of given expression are both
+( )5 2+ r and ( )p qyx − 2 .
+48. (d) Given, ( )a a+ −1 4 4
+= + − + +{( ) } {( ) }a a a a1 12 2 2 2
+= + + + −{( ) } {( ) }a a a a1 1
+{ }a a a2 2 1 2+ + +
+= + + +( ) ( ) ( )2 1 1 2 2 1 2a a a
+= + + +( ) ( )2 1 2 2 1 2a a a
+So, ( )a a+ −1 4 4 is divisible by
+( )2 2 12a a + +
+49. (d) Let f ( )x x x x= − +4 3 2 7 5 − +6 81x
+f ( ) ( ) ( ) ( ) ( )3 3 7 3 5 3 6 34 3 2= − + − + 81
+= − + − +81 189 45 18 81 = 0
+∴ ( )x − 3 is a factor of f x( )
+50. (b) Let f k( )x x x x= + + +3 2 3 4
+/c81 ( )x + 5 is a factor of f ( )x
+∴ f ( )− =5 0
+⇒ ( ) ( ) ( )− + − + − + =5 3 5 4 5 03 2 k
+⇒ − + − + = 125 75 20 0 k
+⇒ − + = 70 0 k ⇒ k = 70
+Hence, the value of k is 70.
+51. (c) Let p( )x be added to obtain x3.
+Then, ( )( ) ( )1 1 2 3− + + =x x x x p
+⇒ 1 2 3 3+ − − + =x x x x x p( )
+⇒ p( )x x x x + x= − − +3 2 3 1
+∴ p( )x x x x= − + −2 13 2
+So, 2 13 2x x x− + − is added to
+( )( )1 1 2− +x x to obtain x3.
+52. (c) Let f(x) x x= − + −( ) ( )y z y z2 2 2 2
++ −z y( )x 2 2
+If it is divisible by ( )y z− , then y z− is
+a factor of f x( ) .
+∴ y z− = 0 ⇒ y z=
+On putting y z= , we get
+x x x( ) ( ) ( )z z z z z z2 2 2 2 2 2− + − + −
+= − + − =z z z z3 2 2 3 0x x
+Hence, y z− is a factor, so it is divisible
+by ( )y z− .
+On putting z = x, we get
+x x x x( ) ( )y y2 2 2 2− + −
++ −x x( ) 2 2 y
+= − + −x x x xy y2 3 3 2 = 0
+So, ( )z − x is also a factor, so it is also
+divisible by ( )z − x .
+53. (d) Put x = − 3 in p x( ), we get
+Let p x x x x( ) = + + +3 2 2 3 8
+p( )−3 = − + − + − +( ) ( ) ( )3 2 3 3 3 83 2
+= − + − +27 18 9 8
+= − ≠10 0
+So, ( )x + 3 is not the factor of
+x x x3 2 2 3 8+ + + .
+Similarly, put x = 2 in p x( ), we get
+p( ) 2= + + +( ) ( ) ( )2 2 2 3 2 83 2
+= ≠30 0 So, x − 2 is also not the factor
+of x x x3 2 2 3 8+ + + .
+54. (d) Let f ( )x x x x= + + +3 2 6 11 6
+Put x = − 1 in f ( )x , we get
+f ( ) ( ) ( ) ( )− = − + − + − +1 1 6 1 11 1 63 2
+= − + − +1 6 11 6
+= − +12 12 = 0
+Hence, ( )x + 1 is a factor of f ( )x .
+∴ f ( ) ( )( )x x x x= + + +1 5 62
+= + + + +( )( )x x x x1 3 2 62
+= + + +( )( )( )x x x1 2 3
+Hence, ( ), ( )x x+ +1 2 and ( )x + 3 are
+the factors of f ( )x .
+55. (c) x x x x( ) ( ) ( )+ + +a a a 2 3
+= + + +( )( ) ( )x a x a x x a 2 3
+= + + +( )( )x ax a x ax2 2 2 3 2 3
+= + + +( )x ax a a2 2 2 3
+( )x ax a a2 2 2 3+ + −
+= + + −( )x ax a a2 2 2 43
+So, a 4 must be added to
+x x a x a x a( )( )( )+ + + 2 3 to make it a
+perfect square.
+56. (b) Given, x
+x
+2
+2
+1 17
+4
++
+ 
+ =
+⇒
+x
+x
+2
+2
+1 2 2 17
+4
++ − + =
+⇒ x
+x
+−
+ 
+ + =1 2 17
+4
+2
+⇒
+x
+x
+−
+ 
+ = −1 17
+4
+2
+2
+⇒
+x
+x
+−
+ 
+ =1 9
+4
+2
+⇒
+x
+x
+−
+ 
+ =1 3
+2
+…(i)
+On cubing both sides, we get
+x
+x
+−
+ 
+ = 
+ 
+1 3
+2
+3 3
+⇒
+x
+x x
+x x
+x
+3
+3
+1 3 1 1 27
+8
+− − × − 
+ 
+ =.
+⇒
+x
+x
+3
+3
+1 27
+8
+3 3
+2
+− = + × 
+ 
+
+[From Eq. (i)]
+⇒
+x
+x
+3
+3
+1 27
+8
+9
+2
+− = +
+∴
+x
+x
+3
+3
+1 63
+8
+−
+ 
+ =
+57. (c) Let f ( )x x x= − +5 2 5 125
+Now, put x = − 5,
+∴ Required remainder = −f ( ) 5
+= − − − +( ) ( )5 5 5 1255 2
+= − − +3125 125 125 = − 3125
+58. (a) Given, a byx + − = 2 0
+⇒ a x + by = 2
+Squaring on both sides, we get
+( ) ( )a byx + = 2 2 2
+⇒ a b y a by2 2 2 2 2 4x x+ + =
+⇒ a b y2 2 2 2 2 4x + + = [/c81a byx = 1 ]
+⇒ a b y2 2 2 2 2x + =
+⇒ a 2 2 1x = and b y2 2 1=
+⇒ ax = 1 and by = 1
+⇒
+x = 1
+a
+and y
+b
+= 1
+∴ a b y2 2x + = a
+a
+b
+b
+a b2 2 1 1⋅ + ⋅ = +
+59. (a) Given, x + k is the common factor of
+x x2 + +a b and x x2 + +c d . Then, put
+x = − k in given polynomial.
+∴ k ka b2 0− + =
+and k kc d2 0− + =
+Then, k ka b k kc d2 2− + = − +
+⇒ k c a d b( ) − = − ⇒ k d b
+c a
+= −
+−
+60. (c) I. We have, 3 3 3 3abc b c a+ + −
+= − − − −( )a b c abc3 3 3 3
+= − + − + − − − −[ ( ) ( ) ( )( )( )]a b c a b c3 3 3 3
+= − − − + + +( )(a b c a b c ab 2 2 2
+− +bc ac )
+So, ( )a b c− − is a factor of
+3 3 3 3abc b c a+ + − .
+Hence, statement I is correct.
+II. Now, 3 1 3 3bc b c+ + −
+= + − − −b c bc3 3 3 1 3 1( ) ( )
+= + − + + − + +( )[ ]b c b c bc c b1 1 2 2 2
+So, ( )b c+ − 1 is a factor of
+3 1 3 3bc b c+ + − .
+Hence, statement II is also correct.
+130 CDS Pathfinder
+--- PDF PAGE 336 ---
+61. (a) Let p k( )x x x x= − + −3 2 3 10
+Then, ( )x − 5 is a factor of p( )x .
+∴ p( ) 5 0=
+⇒ 5 3 5 5 10 03 2− + × − =( ) k
+⇒ 125 75 5 10 0− + − = k
+⇒ 40 5 0+ =k ⇒ k = − 8.
+62. (b) /c81x x x3 3 3 3+ + − = + +y z yz y z ( )
+( )x x x2 2 2+ + − − −y z y yz z
+Given, x + + =y z 0
+∴ x x3 3 3 3 0+ + − =y z yz
+⇒ x y z xyz xyz3 3 3 3 6+ + + =
+63. (c) x x x x3 2 3 2 2 2 4 4q pt pt q− + −
++ −3 3 2x xq pt
+= − −x x x3 2 3 2 2 4q pt q
++ + −4 3 32 2x x xpt q pt
+= − − −x x3 2 2 2 4( ) ( )q pt q pt
++ −3 2x( )q pt
+= − + −( )( )x x x3 2 2 4 3 q pt
+= − −x x x +( )( )2 2 4 3 q pt
+= − − + −x x x x( )( )2 2 3 3 q pt
+= − − − −x x x x[ ( ) ( )]( )3 1 3 2q pt
+= − − −x x x( )( )( )3 1 2q pt
+64. (c) In option (c), we have
+( ) ( ) ( )2 6 2 12 2 24 2 324 3 2− + − × +
+= − + − +16 6 8 12 4 48 32( ) ( )
+= − + − +16 48 48 48 32 = 0
+Hence, ( )x − 2 is a factor of
+x x x x4 3 2 6 12 24 32− + − +
+65. (d) Let f k( )x x x x= + − +3 2 2
+If ( )x + 1 is a factor of f ( )x .
+Then, f ( )− =1 0
+⇒ ( ) ( ) ( )− + − − − + =1 1 1 2 03 2 k
+⇒ − + + + =1 1 2 0k ⇒ k = − 2
+66. (c) Let f x p q( ) = + +x x x6 5 4
+− − −x x2 3
+/c81f x( ) is divisible by ( )x4 1− .
+Then, f f( ) ( )1 1 0= − =
+Now, f p q( ) 1 1 1 1 3 0= + + − − − =
+⇒ p q+ = 4 …(i)
+and f p q( )− = − + − + −1 1 1 1 3
+⇒ q p− = 2 …(ii)
+On solving Eqs. (i) and (ii), we get q = 3
+and p = 1
+∴ p q2 2 2 2 3 1 10+ = + =
+67. (a) Let f a a a( ) ( )x x x= − + +2 2 1
+= − − +a a ax x x2 2
+= − − −x x x( ) ( )a a a 1 1
+= − −( )( )x x a a 1
+If p and q are linear factors of f ( )x , then
+p a= −( )x and q a= −( )x 1
+∴ p q a a+ = − + −( ) ( )x x 1
+= − +( )( )x 1 1a
+68. (d) We have, x − =y 8 …(i)
+and x
+xy
+y= −10
+3
+⇒ x
+xy
+y+ = 10
+3
+⇒ ( ) ( )x
+x
+2 2 10
+3
++ =y
+y
+⇒ x x+ =y y 10
+3
+On squaring both sides, we have
+( )x x+ =y y2 100
+9
+⇒ ( )x x x− + =y y y2 4 100
+9
+[/c81( ) ( )x x x+ = − +y y y2 2 4 ]
+⇒ ( ) 8 100
+9
+42 = −
+ 
+ xy [from Eq. (i)]
+⇒
+64 64
+9
+= xy ⇒ xy = 9
+131MATHEMATICS Algebraic Operations
