@@ -9,9 +9,8 @@ This index tracks all topics, subtopics, and questions discussed during practice
 
 ### Graph Algorithms
 #### Minimum Spanning Trees (MST)
-- **Counting MSTs**
-  - [[content/gate-cs/algorithms/notes/gate_2021_q34_mst|GATE 2021 Set 1 Q34: MST Count with Formulaic Edge Conditions]] `[Status: Wrong]`
-  - [[content/gate-cs/algorithms/notes/gate_2018_q12_mst|GATE 2018 Q12: Unique MST Condition]] `[Status: Correct]`
+- [[content/gate-cs/algorithms/notes/counting_msts_formulaic|Counting MSTs — Formulaic Edge Conditions]] `[Questions: 1 | Status: ❌ 0/1]`
+- [[content/gate-cs/algorithms/notes/mst_uniqueness_theorem|MST Uniqueness & Distinct Weights Theorem]] `[Questions: 1 | Status: ✅ 1/1]`
 
 #### Shortest Paths
 - **Dijkstra & Negative Weights**
