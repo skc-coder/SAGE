@@ -48,6 +48,7 @@ content/
    subject: "Elementary Mathematics"
    topic: "Trigonometry"
    subtopic: "Heights and Distances"
+   difficulty: "Medium"
    date: 2026-09-03
    source_file: "cds_2024_math_mock1.pdf"
    source_file_link: "[[content/cds/elementary-mathematics/test_sessions/2026-09-03_cds_mock_01|Mock Test 01]]"
@@ -119,26 +120,27 @@ xychart-beta
     y-axis "Accuracy %" 0 --> 100
     bar [66, 0]
 ```
-3. **Subtopic & Question Type Breakdown (Dedicated Parent Topic Pie Charts)**:
-   - Since standard Mermaid `pie` cycles fixed palette colors item-by-item regardless of string name, render **separate `pie` charts per parent topic** or use `%%{init: {'themeVariables': { 'pie1': '#1e3a8a', 'pie2': '#2563eb', 'pie3': '#3b82f6', 'pie4': '#60a5fa'}}}%%` theme directives.
-   - For subject dashboards, render per-topic pie charts so all subtopics within a topic (e.g. `Triangles`) strictly use the same dedicated color shade palette!
+3. **Subtopic & Question Type Breakdown (Frequency & Difficulty/Question Level)**:
+   - **Question-Level Status vs Subtopic Taxonomy**: Subtopics themselves are NOT marked as entirely wrong or correct. Outcome status (`Correct` vs `Wrong`) is tracked at the **individual question level** in note frontmatter.
+   - Subtopic charts break down **question frequency by specialization and difficulty rating** (`Easy`, `Medium`, `Hard`) or show question accuracy percentages across subtopics.
+   - Render per-topic pie/bar charts initialized with `%%{init: {'themeVariables': ...}}%%` so subtopics under the same parent topic share dedicated color shades.
 
 ```mermaid
 %%{init: {'themeVariables': { 'pie1': '#1e3a8a', 'pie2': '#2563eb', 'pie3': '#3b82f6', 'pie4': '#60a5fa'}}}%%
-pie title Triangles Subtopics Performance
-    "Incenter (Correct)" : 1
-    "Orthocenter (Wrong)" : 1
-    "Circumcenter (Correct)" : 1
-    "Centroid (Correct)" : 1
+pie title Triangles Subtopics Question Frequency & Difficulty
+    "Incenter (Easy)" : 2
+    "Orthocenter (Hard)" : 3
+    "Circumcenter (Medium)" : 1
+    "Centroid (Easy)" : 2
 ```
 
 ```mermaid
 %%{init: {'themeVariables': { 'pie1': '#064e3b', 'pie2': '#047857', 'pie3': '#10b981', 'pie4': '#34d399'}}}%%
-pie title Circles Subtopics Performance
-    "Tangents (Wrong)" : 1
-    "Secants (Correct)" : 1
-    "Cyclic Quadrilaterals (Wrong)" : 1
-    "Chords (Correct)" : 1
+pie title Circles Subtopics Question Frequency & Difficulty
+    "Tangents (Medium)" : 4
+    "Secants (Easy)" : 2
+    "Cyclic Quadrilaterals (Hard)" : 3
+    "Chords (Medium)" : 1
 ```
 
 ---
