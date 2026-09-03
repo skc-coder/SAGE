@@ -2,6 +2,25 @@
 
 ## Log Entries
 
+### [2026-09-03T19:17:00+05:30] - Pathfinder Chapter 16: Rational Expressions Study Notes & PYQ Analysis
+- **User Request**: Read Chapter 16 (Rational Expressions), create topic & subtopic notes, extract underlying theorems/properties/methods, categorize practice and PYQ questions, extract unique teaching questions, and formulate novel variations.
+- **Implementation**:
+  - Jumped directly via PDF bookmarks (`16. Rational Expressions -> page 343`).
+  - Created GitHub Issue [#7](https://github.com/skc-coder/SAGE/issues/7) and updated [`tickets.md`](file:///home/skc/dev/SAGE/tickets.md).
+  - Created main topic note [`rational_expressions.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/rational_expressions.md) with foundational definitions, lowest-term reduction algorithm, and cyclic symmetric identities.
+  - Created subtopic notes:
+    - [`rational_simplification.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/rational_simplification.md) covering binary difference telescoping series and linear complement shift transformations ($\frac{x}{x+a} = 1 - \frac{a}{x+a}$).
+    - [`cyclic_rational_identities.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/cyclic_rational_identities.md) covering 3-variable symmetric rational equation systems and $pq+qr+rp=0$ cyclic identities.
+  - Analyzed and created dedicated question notes for representative teaching questions:
+    - [`q15_rational.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/questions/q15_rational.md) (Shifted Rational Sum / Underdetermined Complement Trick).
+    - [`q19_telescoping.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/questions/q19_telescoping.md) (CDS 2014 II Binary Telescoping Series).
+    - [`q20_system.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/questions/q20_system.md) (CDS 2016 I System Symmetric Elimination).
+  - Formulated novel conceptual variations:
+    - [`var15.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/variations/var15.md) (Weighted Shifted Rational Sum).
+    - [`var16.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/variations/var16.md) (Telescoping Series with Integer Shift).
+  - Updated [`math_overview.md`](file:///home/skc/dev/SAGE/content/cds/math/math_overview.md) and verified Quartz site build.
+  - Committed and pushed to `origin/v5`.
+
 ### [2026-09-03T14:48:00+05:30] - Pathfinder Chapter 15: HCF and LCM of Polynomials Study Notes & Question Categorization
 - **User Request**: Read Chapter 15 (HCF and LCM of Polynomials), create topic & subtopic notes, categorize practice questions, identify unique practice questions, extract key theorems/patterns, and create dedicated SAGE notes.
 - **Implementation**:
