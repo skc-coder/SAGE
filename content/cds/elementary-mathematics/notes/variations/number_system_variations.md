@@ -44,4 +44,4 @@ If $\frac{p}{3} = \frac{q}{4} = \frac{r}{5}$, calculate the value of $\frac{p^2 
 
 ## Navigation
 
-- [[content/cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics Overview]]
+- [[cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics Overview]]

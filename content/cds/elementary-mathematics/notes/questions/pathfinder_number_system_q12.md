@@ -51,8 +51,8 @@ $$\frac{a+b+c}{4+5+6} = \frac{b}{5} \implies \frac{a+b+c}{15} = \frac{b}{5} \imp
 
 ## Tier 1 Variations
 
-- [[content/cds/elementary-mathematics/notes/variations/number_system_variations#variation-1|Variation 1: 4-Variable Continuous Ratio]]
+- [[cds/elementary-mathematics/notes/variations/number_system_variations#variation-1|Variation 1: 4-Variable Continuous Ratio]]
 
 ## Navigation
 
-- [[content/cds/elementary-mathematics/notes/subtopics/ratios_and_proportions|Ratios and Proportions]]
+- [[cds/elementary-mathematics/notes/subtopics/ratios_and_proportions|Ratios and Proportions]]

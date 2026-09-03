@@ -9,11 +9,11 @@ tags: [cds, elementary-mathematics, subject]
 
 ## Topics & Notes
 
-- [[content/cds/elementary-mathematics/notes/number_system|Number System]]
+- [[cds/elementary-mathematics/notes/number_system|Number System]]
 
 ## Variations
 
-- [[content/cds/elementary-mathematics/notes/variations/number_system_variations|Number System Variations]]
+- [[cds/elementary-mathematics/notes/variations/number_system_variations|Number System Variations]]
 
 ## Performance Overview
 
@@ -37,5 +37,5 @@ pie title Mistake Breakdown
 
 ## Navigation
 
-- [[content/cds/cds_overview|CDS Overview]]
-- [[content/cds/elementary-mathematics/question_db|Question Database]]
+- [[cds/cds_overview|CDS Overview]]
+- [[cds/elementary-mathematics/question_db|Question Database]]
