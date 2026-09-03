@@ -38,23 +38,9 @@ To factorize higher-degree polynomials quickly in exam conditions, memorize thes
 
 ### Derivation of the Sophie Germain Identity
 
-The **Sophie Germain Identity** factors $x^4 + 4y^4$ into two real quadratic terms.
-
-#### Step 1: Base Quadratic Expansion
-Notice the fundamental identity for sum of fourth powers:
-$$x^4 + y^4 = (x^2 - y^2)^2 + 2(xy)^2$$
-$$x^4 + y^4 = (x^2 + y^2)^2 - 2(xy)^2$$
-
-#### Step 2: Scale $y$ by $\sqrt{2}$
-Replace $y \to \sqrt{2}y$ (so $y^2 \to 2y^2$ and $y^4 \to 4y^4$):
-$$x^4 + 4y^4 = (x^2 + 2y^2)^2 - 2(x \cdot \sqrt{2}y)^2$$
-$$x^4 + 4y^4 = (x^2 + 2y^2)^2 - 4(xy)^2$$
+Substitute $y \to \sqrt{2}y$ into $x^4 + y^4 = (x^2 + y^2)^2 - 2(xy)^2$:
 $$x^4 + 4y^4 = (x^2 + 2y^2)^2 - (2xy)^2$$
-
-#### Step 3: Apply Difference of Squares $A^2 - B^2 = (A - B)(A + B)$
-$$x^4 + 4y^4 = (x^2 + 2y^2 - 2xy)(x^2 + 2y^2 + 2xy)$$
-
-$$\therefore x^4 + 4y^4 = (x^2 - 2xy + 2y^2)(x^2 + 2xy + 2y^2)$$
+$$x^4 + 4y^4 = (x^2 - 2xy + 2y^2)(x^2 + 2xy + 2y^2)$$
 
 ---
 
