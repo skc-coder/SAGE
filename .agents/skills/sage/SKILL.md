@@ -74,9 +74,11 @@ content/
    - Links to **Topic Variations** under `## Variations`.
    - **NO question links or inline subtopic content inside topic pages!**
 
-3. **Subtopic Pages (`notes/subtopics/[subtopic_slug].md`)**:
-   - Contains subtopic notes & theory.
-   - This is the **ONLY place** where direct links to individual practice question notes live!
+3. **Subtopic Notes (`notes/subtopics/[subtopic_slug].md`)**:
+   - Contains: Specialized subtopic theory, formulaic properties, and proofs (e.g., proofs of theorems like Addendo property live HERE, NOT in question notes!).
+   - `## Linked Practice Questions`: Direct links to individual regular practice question notes (e.g., `[[cds/math/notes/questions/q12|Q12]]`).
+   - `## Variations`: **MANDATORY**: Direct links to all topic & subtopic variations inside `vars.md` (e.g., `[[cds/math/notes/variations/vars#variation-4-1001-principle|Variation 4: 1001 Principle]]`).
+
 
 ---
 

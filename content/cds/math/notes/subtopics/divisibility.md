@@ -142,6 +142,12 @@ Test if $N = 45,983,724$ is divisible by 7, 11, or 13.
 
 - [[cds/math/notes/questions/q12|Q12]]
 
+## Variations
+
+- [[cds/math/notes/variations/vars#variation-4-divisibility-of-3-digit-repeated-number-1001-principle|Variation 4: 1001 Principle]]
+- [[cds/math/notes/variations/vars#variation-5-divisibility-of-562k984-by-13|Variation 5: Finding Unknown Digit $k$]]
+- [[cds/math/notes/variations/vars#variation-6-repunit-remainder-modulo-13|Variation 6: Repunit Modulo 13]]
+
 ## Navigation
 
 - [[cds/math/notes/numbers|Number System]]
