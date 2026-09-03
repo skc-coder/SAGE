@@ -1,0 +1,1360 @@
+
+--- PDF PAGE 237 ---
+FRACTION
+If any unit is divided into some parts, then ...... each of the se parts is called fraction of that unit. A
+fraction is represented as p/q, where q ≠ 0 and here q is called as denominator and p is called as
+numerator.
+e.g. 1 2 3 4 6 7/ , / , / etc. are fractions.
+Simple fraction
+The fraction which has denominator other than power of 10, is called simple fraction. e.g.
+6
+5
+2
+9
+, etc.
+Note Simple fraction is also known as vulgar fraction.
+DECIMAL FRACTION
+Fraction that has powers of 10 in the denominator are called decimal fraction. e.g.
+(i) 1
+10
+is the tenth part of 1 is written as 0.1. (ii) 1
+100
+is the hundredth part of 1 is written as 0.01.
+Types of Decimals
+1. Recurring Decimals A decimal number in which a digit or set of digits repeats regu larly is called
+non-terminating repeating decimals or recurring decimals . To represent these fractions, a line is
+drawn on repeating digits.
+e.g. 1
+7
+0 1428571428571= . . . . = 0 142857.
+2
+3
+0 66666 0 6= = . . . . .
+4
+3
+1 33333 1 3= =. . . . .
+32 CDS Pathfinder
+04
+DECIMAL FRACTIONS
+Regularly (1-2) questions have been asked from this chapter . It is one of the most common chapters which
+we are studying from the very starting age.
+--- PDF PAGE 238 ---
+33MATHEMATICS Decimal Fractions
+2. Pure recurring decimal A decimal fraction in
+which all the digits after the decimal points are
+repeated, is called a pure recurring decimal.
+e.g.
+0.786786786 0. 786. . . =
+0.77777 0.7. . . =
+EXAMPLE 1. Which one of the following is a
+non-terminating repeating decimal?
+a. 13
+8 b. 3
+16 c. 3
+11 d. 137
+25
+Sol. c. /c81 3
+11 0 272727= ⋅ ...
+= ⋅0 27
+13
+8
+13 125
+8 125
+1625
+1000= ×
+× = = 1.625
+3
+16
+3 625
+16 625
+1875
+10000 0 1875.= ×
+× = =
+137
+25
+137 4
+25 4
+548
+100 5 48.= ×
+× = =
+From above it is clear that all of these are terminating
+decimals. Hence,
+3
+11 is a non-terminating repeating
+decimal.
+3. Mixed recurring decimal A decimal fraction in
+which some digits after the decimal point are not
+repeated while some are repeated, is called a mixed
+recurring decimal.
+e.g.
+0.179999 0.179. . . =
+0 053939 0 0539. . . . . =
+Note The decimal expansion of a rational number is either
+terminating or non-terminating recurring. In other words, a
+number whose decimal expansion is terminating or
+non-terminating recurring is a rational number.
+Operations on Decimal Fractions,
+Addition and Subtraction
+While making addition or subtraction of decimal
+fractions the numbers are placed in such a way that the
+decimal point lie in one column. Then, the numbers
+can be added or subtracted as usual.
+EXAMPLE 2. 7.093 3.57 ?− =
+a. 3.523 b. 3.513
+c. 3.143 d. 3.532
+Sol. a. Here, 7.093
+– 3.570
+3.523
+EXAMPLE 3. 51 3 7 078 1 38 0 9. . . . ?+ + + =
+a. 61.668 b. 59.238
+c. 60.658 d. None of these
+Sol. c. Here,
+Note Adding/Annexing zeroes to the extreme right of a decimal
+fraction does not change its value.
+Multiplication
+While multiplying two or more decimal fractions,
+consider them without decimal point and multiply them
+as usual. In the product so obtained the decimal point is
+marked off as many places from the right as in the sum
+of the decimal places in the given numbers.
+EXAMPLE 4. 5 0 . 25 6.301 0.00394 ?× × × =
+a. 0.0310324220 b. 0.0310324210
+c. 0.0310324250 d. None of these
+Sol. c. For the product of 5 0.25 6.301 0.00394× × ×
+Here, 5 25 6301 394 310324250× × × =
+T otal decimal places ( )2 3 5 10+ + =
+∴ 5 0. 25 6. 301 0. 00394× × × = 0 031032425.
+Division
+While dividing the given decimal fraction by a natural
+number, divide it without the decimal point to get
+quotient. Here, in the quotient so obtained, place the
+decimal point after as many places from the right as are
+there in the dividend.
+For dividing a decimal fraction by a decimal fraction,
+multiply the dividend and the divisor by a suitable power
+of 10 to make the divisor a whole number and then
+proceed as in the previous rule.
+EXAMPLE 5. 0 01834 13. ? ÷ =
+a. 141.077 b. 1.41077
+c. 0.00141077 d. None of these
+Sol. c. Here, for 0 01834 13. ÷
+⇒ 1834
+13 141077= .
+So, 0 01834 13 0 00141077. . ÷ =
+EXAMPLE 6. 0 0066 0 22. . ÷ = ?
+a. 0.03 b. 0.3 c. 3 d. None of these
+Sol. a. 0 0066 0 22. . ÷
+So, 0 0066 10000
+0 22 10000
+66
+22 100
+.
+.
+×
+× = × = = 3
+100 0 03 .
+51.300
+7.078
+1.380
++ 0.900
+60.658
+--- PDF PAGE 239 ---
+34 CDS Pathfinder
+To Convert a Pure Recurring Decimal
+into a Simple Fraction
+In order to convert a pure recurring decimal fraction
+into simple (vulgar) fraction, we write the repeated
+figures only once in the numerator without decimal
+point and write as many nines in the denominator as the
+number of repeating figure.
+e.g.
+0 5 5
+9
+. = or
+0 45 45
+99
+. =
+EXAMPLE 7. 1.27 in the form p/q is equal to
+a. 127
+100
+b. 73
+100 c. 14
+11 d. 11
+14
+Sol. c. 1. 27 . 27= + = + = + = =1 0 1 27 99 99 27
+99
+126
+99
+14
+11/
+To Convert Mixed Recurring Decimal
+into a Simple Fraction
+The numerator is obtained by taking the difference
+between the number formed by all the digits after decimal
+point. (Here, repeated digits are taken only once) and the
+number formed by non-repeating digits. The
+denominator is obtained by placing, as many nines as in
+repeating digits followed by as many zeroes as the
+number of non-repeating digits.
+EXAMPLE 8. The vulgar fraction of 0 1236. is
+a. 120
+823 b. 102
+825 c. 93
+825 d. None of these
+Sol. b. 0.1236 1236 12
+9900= − = 1224
+9900
+= 102
+825
+EXAMPLE 9. What is the value of
+1. 34 + 4.12 ?
+a. 133
+90 b. 371
+90 c. 5 219
+990 d. 5 461
+990
+Sol. d. /c811. 34 134 1
+99= − = 133
+99 and 4 12 412 41
+90. = − = 371
+90
+∴ 134 4 12 133
+99
+371
+90. . + = + = +1330 4081
+990 = =5411
+990 5 461
+990
+Comparison of Fractions By
+Converting in Decimal Form
+To compare the fraction using decimal, convert each one
+of the given fractions in decimal form and now arrange
+them in ascending or descending order as per the
+requirement.
+By Equating Denominators
+For comparison of fractions, take LCM of the
+denominator of all fractions. So, that their denominators
+are same. Now, the fractions having largest numerator is
+the largest fraction.
+EXAMPLE 10. Arrange 2
+3
+5
+6
+16
+25
+3
+7, , , in ascending
+order.
+a. 2
+3 , 5
+6 , 16
+25 and 3
+7
+b. 16
+25 , 5
+6 , 3
+7 and 2
+3
+c. 3
+7
+16
+25
+2
+3
+5
+6, , and
+d. None of these
+Sol. c. Firstly, we convert each of the fraction in decimal
+form.
+2
+3 0 666 5
+6 0 833= =. , . ,
+16
+25 = =0 64 3
+7 0 428571. , .
+Here, 0 428571 0 64 0 666 0 8333. . . . < < <
+Hence, 3
+7
+16
+25
+2
+3
+5
+6< < < and so
+3
+7
+16
+25
+2
+3, , and
+5
+6 are in
+ascending order.
+EXAMPLE 11. Arrange 7
+8
+5
+6
+6
+7, , in descending order
+a. 6/7, 5/6, 7/8 b. 7/8, 5/6, 6/7
+c. 7/8, 6/7, 5/6 d. 6/7, 7/8, 5/6
+Sol. c. LCM of 8, 6, 7 = 168
+∴ 7
+8
+7 21
+8 21
+147
+168= ×
+× = ⇒
+5
+6
+5 28
+6 28
+140
+168= ×
+× =
+and
+6
+7
+6 24
+7 24
+144
+168= ×
+× =
+/c81
+140
+168
+144
+168
+147
+168< <
+So, descending order of fractions is
+7
+8
+6
+7
+5
+6, , .
+HCF and LCM of
+Decimal Fractions
+For finding the HCF or LCM of decimal fractions, first
+make the given fractions to have same number of
+decimal places by annexing zeroes, if needed. Now, find
+the HCF or LCM of the numbers without considering
+decimal. Finally, in the result mark as many decimal
+places as are there in each of the given numbers.
+EXAMPLE 12. The HCF and LCM of 1.600, 8 and 2.4 is
+a. 0.800 and 24 b. 0.6000 and 38
+c. 0.900 and 42 d. None of these
+Sol. a. We can write the given numbers as 1.600, 8.000,
+2.400.
+So, without decimal, the numbers are 1600, 8000 and
+2400.
+Now, HCF of 1600, 8000 and 2400 is 800.
+∴ HCF of 1.600, 8.000 and 2.400 is 0.800.
+And LCM of 1600, 8000, 2400 is 24000.
+∴ LCM of 1.600, 8.000 and 2.400 is 24.000.
+--- PDF PAGE 240 ---
+1. If ( . ) .15 9273 11 0049− =x , then the value of x is
+(a) 4.9224 (b) 0.4922 (c) 0.4294 (d) 6.932
+2. If ( . . . . ) ,15 39 0 236 5 290 0 0002+ + + = x then the
+value of x is
+(a) 0.20916 (b) 2.0916 (c) 209.16 (d) 20.9162
+3. If 175 1 24× = . , 2.17 then the value of 1 75 124. × is
+(a) 217 (b) 0.0217
+(c) 2.17 (d) None of these
+4. If 111 744 28 8 3 88. . . ÷ = , then the value of
+1117 44 288. ÷ is
+(a) 3.88 (b) 0.388 (c) 388.0 (d) 38.8
+5. The value of
+( . ) ( . )
+( . ) ( . )
+0 5 0 4
+0 5 0 4
+4 4
+2 2
+−
++
+is equal to
+(a) 0.9 (b) 0.09 (c) 9 (d) 0.009
+6. The value of 0 004 0 0008
+0 02
+. .
+.
+× equals to
+(a) 0.000016 (b) 0.00016
+(c) 0.0016 (d) None of these
+7. Which of the following sets of the fractions is in
+ascending order?
+(a)
+6
+8
+7
+9
+5
+6
+11
+13
+, , , (b)
+5
+6
+6
+8
+7
+9
+11
+13
+, , ,
+(c)
+11
+13
+5
+6
+7
+9
+6
+8
+, , , (d)
+11
+13
+7
+9
+6
+8
+5
+6
+, , ,
+8. When 0.232323…is converted into a fraction,
+then the result is
+(a)
+1
+5
+(b)
+2
+9
+(c) 23
+99
+(d) 23
+100
+9. If 3 245 10 0 0003245. . × = k , then the value of k is
+(a) 4 (b) –4 (c) 3 (d) 5
+10. The value of ( . . . )0 6 0 8 0 7+ + is
+(a) 2 1
+8
+(b)
+2 1
+9
+(c)
+2 1
+3
+(d)
+1 1
+9
+11. The value of
+( . . )6 88 2 58− is
+(a) 4 30 . (b) 4 29 . (c) 3 22 . (d) 4 38 .
+12. The expression ( . . . .11 98 11 98 11 98 0 02× + × + x
+× 0 02 . )will be a perfect square for x equal to
+(a) 0.02 (b) 0.2 (c) 0.04 (d) 0.4
+13. If 2 5 0 5. . x y= , then the value of x y
+x y
++
+−
+is
+(a) −1.3 (b) −1.5 (c) 1.5 (d) 1.3
+14. 7.2 exceeds its one-tenth by
+(a) 8.48 (b) 5.48 (c) 6.48 (d) 5.28
+15. If
+2 5252525. . . . = p
+q
+(in the lowest form), then
+what is the value of q
+p ?
+(a) 0.4 (b) 0.42525 (c) 0.0396 (d) 0.396
+16. What decimal of an hour is a second?
+(a) 0.25 (b) 0.0256 (c) 0.00027 (d) 0.0125
+17. If
+5 2 24= . , then the value of 3 5
+2 5 0 48− .
+is
+(a) 1.68 (b) 16.8 (c) 168 (d) 0.168
+18. The value of ( . ) ( . )
+.
+0 1 0 01
+0 0001
+1
+2 2− +
+
+
+
+
+
+is equal to
+(a) 1001 (b) 11 (c) 101 (d) 100
+19. The value of
+3
+3 0 3 3 03
+3 0 91
++ −
+×
+. .
+.
+is equal to
+(a) 0.75 (b) 1.5 (c) 15 (d) 0.15
+20. What should be subtracted from the
+multiplication of 0.527 and 2.013 to get 1?
+(a) 0.939085 (b) 0.060851 (c) 1.91984 (d) 2.16085
+21. The value of
+0 3467 0 1333. . + is equal to
+(a) 0.48 (b) 0 4801.
+(c) 0 48 . (d) 0.48
+22. The greatest fraction out of 2
+5
+5
+6
+11
+12
+7
+8
+, , and is
+(a)
+7
+8
+(b) 5
+6
+(c)
+11
+12
+(d) 2
+5
+23. Which of the following fractions is greater than 3
+4
+and less than
+5
+6
+.
+(a)
+1
+2
+(b) 2
+3
+(c) 4
+5
+(d)
+9
+10
+24. Consider the following statements:
+I. 1
+22 cannot be written as a terminating decimal.
+II. 2
+15 can be written as a terminating decimal.
+III. 1
+16 can be written as a terminating decimal.
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II
+(c) I and III (d) II and III
+35MATHEMATICS Decimal Fractions
+PRACTICE EXERCISE
+--- PDF PAGE 241 ---
+25. Consider the following decimal numbers:
+I. 1.16666666… II. 1.181181118…
+III. 2.010010001… IV. 1.454545…
+Which of the above numbers represent(s) rational
+number(s)?
+(a) Only IV (b) II and III
+(c) I and IV (d) None of these
+PREVIOUS YEARS’ QUESTIONS
+26. What is the value of
+0 007 17 83 310 0202. + + . . ?
+(a) 327 86638. (b) 327 86638. e 2012 I
+(c) 327 86683. (d) 327 8668.
+27. What is the value of 0.242424…? e 2012 II
+(a) 23
+99
+(b) 8
+33
+(c) 7
+33
+(d) 47
+198
+28. Representation of 0. 2341 in the form p
+q
+, where p
+and q are integers, q ≠ 0, is e 2013 I
+(a) 781
+3330
+(b) 1171
+4995
+(c)
+2341
+9990
+(d)
+2339
+9990
+29. Let p be a prime number other than 2 or 5. One
+would like to express the vulgar fraction 1/ p in
+the form of a recurring decimal. Then, the
+decimal will be e 2015 I
+(a) a pure recurring decimal and its period will be
+necessarily ( )p − 1
+(b) a mixed recurring decimal and its period will be
+necessarily ( )p − 1
+(c) a pure recurring decimal and its period will be some
+factor of ( )p − 1
+(d) a mixed recurring decimal and its period will be
+some factor of ( )p − 1
+30. The value of ( . . )0 63 0 37
+ 
++ is e 2015 II
+(a) 1 (b) 100
+91
+(c) 100
+99
+(d) 1000
+999
+36 CDS Pathfinder
+ANSWERS
+1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30
+HINTS AND SOLUTIONS
+1. (a) x = − =15.9273 11.0049 .92244
+2. (d)
+3. (a) 1.75 1.24 2.17× =
+⇒ 1.75 × =124 217
+4. (a) Since, 111.744
+28.8
+3.88=
+⇒ 111744
+28800
+3.88= [Rule 6]
+Now, 1117.44
+288
+11744
+28800
+3.88= = [Rule 4]
+5. (b)
+[( . ) ] [( . ) ]
+( . ) ( . )
+0 5 0 4
+0 5 0 4
+2 2 2 2
+2 2
+−
++
+[( ) ( ) ( )a b a b a b2 2− = + − ]
+= − +
++
+[( . ) ( . ) ][( . ) ( . ) ]
+[( . ) ( . ) ]
+0 5 0 4 0 5 0 4
+0 5 0 4
+2 2 2 2
+2 2
+= −( . ) ( . )0 5 0 42 2 = − +( . . )( . . )0 5 0 4 0 5 0 4
+[Rule 1]
+= ×0 1 0 9. . = 0 09 . [Rule 2]
+6. (b) 0.004 0.0008
+0.002
+0.0000032
+0.02
+× =
+= 0.00016
+7. (a) Here, 6
+8
+0 75 7
+9
+0 7 5
+6
+= =. , . ,
+= =0 83 11
+13
+0 846. , .
+So, 0 75 0 7 0 83 0 846. . . .< < <
+8. (c) Given, 0 232323 0 23. . …=
+
+(which is a recurring decimal) = 23
+99
+9. (b) Here,
+10k = 0.0003245
+3.245
+=
+× −3.245
+3.245
+10 4
+10 10 4k = −
+So, k = − 4
+10. (c) 0 6 0 8 0 7 6
+9
+8
+9
+7
+9
+. . .+ + = + +
+= = =21
+9
+7
+3
+2 1
+3
+11. (a) Here, 6 88 2 58. . −
+= +
+ 
+ − +
+ 
+6 88
+99
+2 58
+99
+= − + − 
+ 
+( )6 2 88
+99
+58
+99
+= + −4 88 58
+99
+= + =4 30
+99
+4 30 .
+12. (c) Given expression
+= + + ×( . ) ( . ) .11 98 0 02 11 982 2 x
+For the given expression to be a perfect
+square, we must have
+11 98 2 11 98 0 02. . . × = × ×x
+⇒ x = 0 04 .
+[by using ( )a b a b ab+ = + +2 2 2 2 ]
+15.3900
+0.2360
+5.2900
++ 0.0002
+20.9162
+x = 20.9162
+--- PDF PAGE 242 ---
+13. (b) 2 5 0 5. .x = y
+⇒ x
+y
+=
+⋅
+=0 5
+2 5
+0 20. .
+Now, the expression is [dividing
+numerator and denominator by y]
+x
+x
+x / y+
+−
+= +
+−
+y
+y x y
+1
+1/
+= +
+−
+=
+−
+0 20 1
+0 20 1
+1 20
+0 80
+.
+.
+.
+.
+= − 15 .
+Shortcut Method
+x
+y
+= 0 5
+2 5
+.
+.
+⇒ x
+x
++
+−
+= +
+−
+y
+y
+0 5 2 5
+0 5 2 5
+. .
+. .
+[using componendo and dividendo]
+⇒ x
+x
++
+−
+=
+−
+y
+y
+3
+2
+= − 1 5 .
+14. (c) 7 2 7 2
+10
+. .−
+⇒ 7 2 0 72 6 48. . .− =
+15. (d) Given, p
+q
+= 2 52 . …(i)
+Now, 100 multiply both sides, we get
+100 252 52p
+q
+= . …(ii)
+On subtracting Eq. (i) from Eq. (ii), we
+get
+99 250p
+q
+= ⇒ q
+p
+= =99
+250
+0 396 .
+16. (c) Required decimal fraction =
+×
+1
+60 60
+= 1
+3600
+= 0 00027.
+17. (a) 3 5
+2 5 0 48
+3 2 24
+2 2 24 0 48−
+=
+×
+× −.
+.
+. .
+[ . ]/c81 5 2 24=
+=
+−
+= =6 72
+4 48 0 48
+6 72
+4
+1 68.
+. .
+. .
+18. (d) Here, ( . ) ( . )
+.
+0 1 0 01
+0 0001
+1
+2 2− +
+
+
+
+= − + = + 
+ 
+0 01 0 0001
+0 0001
+1 0 0099
+0 0001
+1. .
+.
+.
+.
+= + =( )99 1 100
+19. (b)
+3
+3
+3
+273
+3 91
++ −
+×
+= −
+×
+0.3 3.03
+3 0.91
+3
+=
+−
+= =3
+3 1
+3
+2
+1.5
+20. (b) Let x should be subtracted
+( )0.527 2.013× − > x 1
+1.060851 − >x 1
+x = 0.060851
+21. (b) 0 34 67 0 1333. . +
+= − + −3467 34
+9900
+1333 13
+9900
+= + =3433 1320
+9900
+4753
+9900
+= − =4801 48
+9900
+0 4801.
+22. (c) 2
+5
+0 4= . , 5
+6
+0 83= . , 11
+12
+0 916= .
+and 7
+8
+0 875= .
+Clearly, the greatest fraction is 0 916 .i.e.
+11
+12
+.
+23. (c) 3
+4
+0 75= . , 5
+6
+0 833= .
+1
+2
+0 5= . , 2
+3
+0 66= . , 4
+5
+0 8= . and 9
+10
+0 9= .
+Clearly, 0.8 lies between 0.75 and
+0.8333.
+∴
+4
+5
+lies between 3
+4
+and 5
+6
+.
+24. (c) In 1
+22
+2
+15
+22and , and 15 are not in
+the form of 2 5m n× but in 1
+16
+.
+16 in the form of 2 54 0× . So, 1
+16
+can be
+written as a terminating decimal.
+Hence, statements I and III are correct.
+25. (c) Since, 1.16666… and 1.454545… are
+recurring numbers and we know that,
+recurring numbers represent rational
+numbers.
+Hence, statements I and IV are rational
+numbers.
+26. (b)
+0 007 0 007777777. . =
+⇒ 17 83 17 83838383. . =
+310 0202 310 020222222. . =
+= 327 8663838. on adding
+= 327 86638.
+27. (b) Given, 0.242424... = 0 24 .
+[which is a recurring decimal number]
+= =24
+99
+8
+33
+28. (d)
+0 2341 2341 2
+9990
+2339
+9990
+. = − =
+29. (c) Value p may be 3, 7, 11, 13.
+1
+3
+0 3= . , Period = 1
+Here, p − =1 2 and 1 is a factor of 2.
+1
+7
+0 142857= . , Period = 6
+Here, p − =1 6 and 6 is a factor of 6.
+1
+11
+0 09= . , Period = 2
+Here, p − =1 10 and 2 is a factor of 10.
+30. (c) We have, 0 63 0 37. .
+ 
++
+Let x= …0 63 6363 63.
+100 63 636363x = … . , 99 63x =
+and x = 63
+99
+Similarly, y = =
+
+0 37 0 373737. .
+/c81
+y = 37
+99
+∴ x + = + =y 63
+99
+37
+99
+100
+99
+37MATHEMATICS Decimal Fractions
+--- PDF PAGE 243 ---
+SQUARE
+The square of a number is obtained by multiplying the number b y itself.
+e.g. Square of 5 = × =5 5 25 , square of 6 = × =6 6 36
+Perfect square A natural number n is called a perfect square or a square number, if there exists a
+natural number m such that n m= 2.
+e.g. The numbers 1, 4, 9, 16, 25, ... are perfect square.
+Properties of Perfect Square
+The properties of perfect squares are discussed below.
+(i) A number having 2, 3, 7 or 8 at unit’s place is never a perfec t square.
+e.g. 172, 2783
+(ii) The squares of odd numbers are odd and the squares of even numbers are even.
+(iii) The difference of squares of two consecutive natural n umbers is equal to their sum.
+e.g. 7 6 7 6 132 2− = + =
+(iv) The product of four consecutive natural numbers plus on e is a always square.
+(v) A number ending in an odd number of zeroes is never a perfec t square.
+Square Root
+The square root of a number x is that number which when multiplied by itself gives x as the product.
+It is denoted by
+.
+In general, y x2 = ⇒ y x=
+Here, y is the square root of x, if and only if x is the square of y.
+e.g. 4 2 2 2= × =
+Thus, 2 is the square root of 4.
+38 CDS Pathfinder
+05
+SQUARE ROOTS
+AND□CUBE ROOTS
+Generally (1-3) questions have been asked from this chapter . This section will be useful in solving
+simplification questions and will save lots of time while doing fuzzy calculations.
+--- PDF PAGE 244 ---
+EXAMPLE 1. If x
+64
+4
+8= , then the value of x is
+a. 16 b. 12 c. 8 d. 4
+Sol. a. We have, x
+64
+4
+8= ,
+On squaring both sides, we get
+x
+64
+4
+8
+2 2
+ 
+ = 
+ 
+ ⇒
+x
+64
+16
+64= ⇒ x = 16
+Methods to Find Square Root
+The square root of a given number can be determined
+by using any of the following two methods
+1. Prime Factorization Method
+2. General Method/Division Method
+Prime Factorization
+In this method, we express the given number as the
+product of prime factors. Now, for finding square root,
+we take the product of these prime factors choosing one
+out of every pair of same prime factors.
+EXAMPLE 2. The square root of 213444 is
+a. 332 b. 368 c. 432 d. 462
+Sol. d. The prime factorisation of 213444 is
+213444 2 2 3 3 7 7 11 11= × × × × × × ×
+∴ 213444 2 2 3 3 7 7 11 11= × × × × × × ×
+Now, taking one number from each pair and multiplying
+them, we get
+213444 2 3 7 11= × × × = 462
+EXAMPLE 3. What is the square root of
+0 324 0 64 129 6
+0 729 1 024 36
+. . .
+. .
+× ×
+× × ?
+a. 4 b. 3
+c. 2 d. 1
+Sol. d. 0 324 0 64 129 6
+0 729 1024 36
+. . .
+. .
+× ×
+× × = × ×
+× ×
+324 64 1296
+729 1024 36
+= × × × ×
+× × ×
+( ) ( ) ( )
+( ) ( ) ( )
+2 3 2 2 3
+3 2 2 3
+2 4 6 4 4
+6 10 2 2 = × × × ×
+× × ×
+( ) ( )
+( )
+2 3 2 2 3
+3 2 2 3
+2 3 2 2
+3 5
+= × ×
+× × =18 8 36
+27 32 6 1
+Division Method
+To find the square root of a given number using this
+method, the following steps are to be followed.
+Step I In the given number, place bars over every pair of
+digits starting with the unit’s digit. Each pair and
+the remaining one digit (if any) on the extreme left
+is called a period.
+Step II Think of the largest number whose square is less
+than or equal to the first period.
+Step III Put the quotient above the period and write the
+product of divisor and quotient just below the
+first period.
+Step IV Subtract the product of divisor and quotient from
+the first period and bring down the next period to
+the right of the remainder. This becomes the new
+dividend.
+Step V Double the quotient and enter it with a blank on
+its right.
+Step VI Guess a largest possible digit to fill the blank
+which will also become the next digit in the
+quotient, such that when the new divisor is
+multiplied to the new quotient the product is less
+than or equal to the dividend.
+Step VII Repeat the above steps till all the periods have
+been taken up.
+Now, the quotient so obtained is the required
+square root of the given number.
+EXAMPLE 4. The square root of 1522756 is
+a. 1182 b. 1222
+c. 1234 d. 1334
+Sol. c
+1 1 52 27 56 1234
+1
+22 52
+×2 44
+243 08 27
+×3 729
+2464 9856
+×4 9856
+×
+Hence, the square root of 1522756 is 1234.
+EXAMPLE 5. The least number of four digits which
+is a perfect square is e 2012 II
+a. 1204 b. 1024
+c. 1402 d. 1420
+Sol. b. Here, the greatest three-digit number = 999
+31
+3 9 99
+× 3 9
+61 99
+61
+38
+Here, the greatest number of three digits which is
+perfect square = − = =999 38 961 31 2( )
+So, the smallest four-digit number which is perfect
+square = + = =( ) ( )31 1 32 10242 2
+39MATHEMATICS Square Roots and Cube Roots
+--- PDF PAGE 245 ---
+CUBE
+If a number is multiplied three times with itself, then the
+result of this multiplication is called the cube of that number.
+e.g. 8 2 2 2 2 3= × × =
+Properties of Cube
+1. Cubes of all even natural numbers are even and all
+odd natural numbers are odd.
+2. Cubes of the numbers ending in digit 0, 1, 4, 5, 6 and
+9 are the numbers ending in the same digit.
+3. Cubes of negative integers are negative.
+4. Cubes of numbers ending in digits 3 and 7 ends in
+digit 7 and 3, respectively.
+CUBE ROOT
+The cube root of a given number is the number whose
+cube is the given number.
+In general, we can say that a b3 = , then cube root of ‘ b’
+is ‘ a’. Cube root of a number ‘ a’ is denoted as
+a3 .
+e.g. 64 4 4 4 43 = × × = . Thus, 4 is the cube root of 64.
+EXAMPLE 6. If x
+27
+5
+3
+3 = , then the value of x is
+a. 125 b.25 c. 27 d. 9
+Sol. a. We have x
+27
+5
+3
+3 =
+On cubing both sides, we get
+x
+27
+5
+3
+3
+3 3
+ 
+ = 
+ 
+ ⇒
+x
+27
+125
+27=
+∴ x = 125
+Method to Find Cube Root
+Method to calculate the cube root of a number is as follow
+Prime Factorization Method
+In this method, we express the given number as the
+product of prime factors.
+Now, for finding cube root, we take the product of
+these prime factors choosing one out of every three,
+from the factors.
+EXAMPLE 7. Find the cube root of 373248.
+a. 42 b. 52 c. 62 d. 72
+Sol. d. Here, 373248 8 8 8 9 9 9= × × × × ×
+373248 2 2 2 2 2 2= × × × × ×
+× × × × × × × × ×2 2 2 3 3 3 3 3 3
+⇒ 373248 2 2 2 3 3 723 = × × × × =
+Hence, the cube root of 373248 is 72.
+POWERS OR EXPONENTS
+An expression that represents repeated multiplication of
+the same factor is called a power. It is written as ‘ x n’
+and is read as ‘ x’ raised to the power n.
+Here, x is called the ‘base’.
+and n is called the ‘exponent’.
+e.g. 6 6 6 6 6 6 77765 = × × × × = .
+Laws of Exponents
+Let
+x
+y
+be any rational number and m, n be any integers.
+Then,
+(i) x
+y
+x
+y
+x
+y
+m n m n
+
+
+
+ × 
+
+
+ = 
+
+
+
++
+(ii)
+x
+y
+x
+y
+x
+y
+m n m n
+
+
+
+ ÷ 
+
+
+ = 
+
+
+
+−
+(iii)
+x
+y
+x
+y
+m n mn
+
+
+
+
+
+
+
+
+
+
+
+
+= 
+
+
+
+(iv)
+x
+y
+y
+x
+n n
+
+
+
+ = 
+ 
+
+−
+(v)
+x
+y
+
+
+
+ =
+0
+1
+EXAMPLE 8. If 2 2 24 1m m+ = + , then the value of m is
+a. 1 b. 2 c. 3 d. 5
+Sol. c. Given, 2 2 24 1m m+ = + ⇒ 2 2 2 241m m+ × =
+⇒ 2 1 2 24m( ) + = ⇒ 2 3 24m × = ⇒ 2 8 2 3m = =
+Now, on comparing both sides, we get
+∴ m = 3
+Hence, the value of m is 3.
+SURDS OR RADICALS
+Let x be a rational number and n be a positive integer,
+such that xn is irrational, then xn is called a radical or
+surd of order n and here x is called the radicand.
+• A surd of order 2 is called a quadratic surd i.e. 2 3, .
+• A surd of order 3 is called a cubic surd. i.e. 23 , 33 .
+• A surd of order 4 is called a biquadratic surd i.e. 5 74 4 , .
+Laws of Radicals
+The laws of exponents which are applicable to the surds
+are
+(i)
+( ) x xn n =
+(ii) xy x yn n n= ⋅
+(iii) x
+y
+x
+y
+n
+n
+n
+=
+(iv) ( ) ( )x xn m m n=
+(v) x x xnm mn m n= =
+40 CDS Pathfinder

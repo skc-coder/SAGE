@@ -1,0 +1,3345 @@
+=== PDF PAGE 492 (PRINTED PAGE 287) ===
+287MATHEMATICS Circle
+A circle is a curved figure consisting of all points in a plane that
+are at a fixed distance from a fixed point. The fixed point is
+called centre and the fixed distance is called radius of the c ircle.
+• Circles are simple closed curves which
+divide the plane into two regions : an
+interior and an exterior.
+• In the given figure, O is the centre of
+circle, OA is the radius of the circle
+and AB is the diameter of the circle.
+RADIUS
+Radius is the fixed distance between the
+centre of the circle and the points lying
+on the circle.
+Here, in the given figure OA OB OC, and
+all are having fixed distance, so they are
+known as radius of the circle. It is
+denoted by r.
+Diameter
+Diameter is any line segment that passes
+through the centre of the circle and whose
+end points lie on the circle. The diameter
+of a circle is twice the radius. Here,
+AB CDand are the diameters of the circle.
+AB CD OA= = 2( )
+= = =2 2 2( ) ( ) ( )OB OC OD
+A circle can have an infinite number of diameters.
+Chord
+A chord is a line segment
+whose end points lie on the
+circle. A diameter is the
+longest chord in a circle.
+Here, in the given figure PQ
+is a chord and AB is the
+diameter of the circle which is
+the longest chord of that circle.
+Secant
+A line which intersect the circle
+at two points is called secant of
+the circle.
+Here, in the figure AB is a
+secant cutting the circle at two
+distinct points as C Dand .
+Arc
+Any part of a circle between two
+points is called an arc of the circle.
+Any two points, say A and B of a
+circle divide it into two parts
+called arcs. The smaller arc APB is
+called minor arc and larger arc
+AQB is called major arc.
+It is usually denoted by APB and AQB.
+25
+CIRCLE
+Usually (3-6) questions have been asked from this chapter . Generally questions are asked from the
+topics related to theorem of circle, tangent to a circle and locus.
+O
+B A
+O
+A BC D
+O BA
+C
+D
+O
+B
+A
+C
+O
+Q
+B
+P
+A
+Q
+O
+A B
+P
+SR
+
+=== PDF PAGE 493 (PRINTED PAGE 288) ===
+Semi Circle
+A diameter divides the circle into two
+equal parts. Each of the two is called a
+semi-circle.
+In the above figure, RPSR and RQSR
+are semi-circles.
+Segment
+The area enclosed by an arc and its
+corresponding chord is called a
+segment of the circle.
+• The segment containing the minor
+arc is called minor segment.
+• The segment containing the major
+arc is called major segment.
+Sector
+The area enclosed by any two radii
+and the arc determined by the end
+points of the radii is called a sector of
+the circle.
+Circumference
+The length of the complete circle is called its circumference.
+Circumference = × ×2 π Radius of the circle
+or
+= × π Diameter of the circle
+Concentric Circles
+Two or more circles having the
+same centre are called concentric
+circles.
+Here, in the given figure C C C1 2 3, ,
+and C4 are known as concentric
+circles as they have a common
+centre ‘O’.
+An infinite number of circles can be
+drawn with same centre.
+Tangent
+A tangent to a circle is a straight line that touches the
+circle at a single point.
+Here, in the given figure GBH is a tangent touching the
+circle at a single point B.
+Length of tangent The distance between external point
+P from which tangent is drawn and the point of contact
+of the tangent is called length of tangent.
+Properties of Tangent To a Circle
+• Only two tangents can be drawn from a point outside
+the circle.
+• Only one tangent can be drawn through a point lying
+on the circle.
+• No tangent can be drawn from a point lying inside the
+circle.
+• A tangent at any point of a circle is perpendicular to
+the radius through the point of contact.
+Relative Position of two Circles
+Two circles will
+(i) be disjoint, when OO r r′ > +
+1 2 .
+(ii) be touching externally, when OO r r′ = +1 2 .
+(iii) be intersecting when OO r r′ < +1 2 .
+(iv) be touching internally, when OO r r′ = −| | 2 1
+(v) one of the circle will lie inside the other, when
+OO r r′ < −| | 2 1 .
+EXAMPLE 1. Two circles with centres
+A and B touch each other internally,
+as shown in the figure given below.
+Their radii are 5 and 3 units,
+respectively. Perpendicular bisector of
+AB meets the bigger circle in P and Q.
+What is the length of PQ?
+a. 2 6 b. 34 c. 4 6 d. 6 2
+Sol. c. Let PQ intersect AB at O. Join AP and AQ. Produce
+AB to intersect the circle at M.
+Here, AP AM= = 5 units, BM = 3 units
+288 CDS Pathfinder
+A B
+Major
+Segment
+Minor
+Segment
+O
+A BC
+O
+A B Sector
+C4C3
+C2
+C1
+O
+O
+H
+B
+G T angent
+O O´O O ´r1 r2 O O´r1 r2
+(i) (ii) (iii)
+O O´
+(iv) (v)
+O
+O´
+P
+Q
+A B
+OR S
+Q
+P
+
+=== PDF PAGE 494 (PRINTED PAGE 289) ===
+∴ AB AM BM= − = − = 5 3 2 units
+PQ bisects AB perpendicularly.
+∴ AO OB= = 1unit
+Now, in right ∆ AOP ,
+( ) ( ) ( )PA OA OP2 2 2= +
+⇒ ( ) ( ) ( )5 12 2 2= + OP
+⇒ 24 2= ( )OP ⇒ OP = 2 6 units
+∴ PQ OP= = × =2 2 2 6 4 6 units
+Hence, the length of PQ is 4 6 units.
+Important Theorems of Circles
+Theorem 1 If two arcs of a circle are congruent, then
+the corresponding chords are equal.
+Theorem 2 Equal arcs (or chords) subtend equal angle
+at the centre. Here, if AB PQ= , then ∠ = ∠AOB POQ .
+Theorem 3 The perpendicular from the centre of a circle
+to a chord bisects the chord.
+Here, if OD AB⊥ , then AD DB= .
+Theorem 4 The line joining the centre to the mid-point
+of a chord is perpendicular to the chord.
+Here, if AD DB= , then ∠ = ∠ = °ADO ODB 90 .
+Theorem 5 The perpendicular bisectors of two chords
+of a circle intersect at its centre.
+Here, AB CD, are the chords and l m, are perpendicular
+bisector of AB and CD. So, l mand meet at centre ‘ O’.
+Theorem 6 There is one and only one circle passing
+through three non-collinear points.
+• An infinite number of circles can be drawn to pass
+through a single point.
+• An infinite number of circles can be drawn to pass
+through two given points.
+• A unique circle can be drawn to pass through three
+given non-collinear points.
+Theorem 7 Equal chords of congruent circles are
+equidistant from the corresponding centres.
+Here, if AB CD= , then OP O Q= ′ .
+Conversely if OP O Q= ′ , then AB CD= .
+Theorem 8 Equal chords of a circle are equidistant
+from the centre.
+Here, if AB CDand are equal chords of circle, then
+OP OQ= .
+Conversely, if OP OQ= , then also AB CD=
+i.e. chords at equal distance from the centre are equal.
+EXAMPLE 2. AB CDand are two parallel chords on
+the opposite sides of the centre of the circle. If
+AB = 10 cm, CD = 24 cm and the radius of the circle is
+13 cm, then what is the distance between the chords?
+a. 10 cm b. 17 cm
+c. 24 cm d. None of these
+Sol. b. From O draw OL AB⊥ and OM CD⊥ . Join
+OA OCand .
+AL AB= = =1
+2
+10
+2 5cm cm,
+OA = 13 cm
+In right angled ∆ OLA, by pythagoras
+theorem,
+OL OA AL2 2 2= − = − ( ) ( )13 52 2
+= − =( )169 25 144
+⇒
+OL = =144 12 cm
+Now, CM CD= × =1
+2 12 cm
+and OC = 13 cm
+In ∆ OMC, [by pythagoras theorem]
+OM OC CM2 2 2= −
+= −( ) ( )13 122 2
+= − =( )169 144 25
+⇒
+OM = = 25 5 cm
+∴ ML OM OL= +
+= +( )5 12 cm
+= 17 cm
+289MATHEMATICS Circle
+P
+M
+Q
+A B
+O
+O
+A
+B
+P
+Q
+m
+C
+D
+A
+Bl
+O
+D
+O
+A B
+O
+A BP
+O ´
+C DQ
+O
+B
+D
+A
+C
+Q
+P
+O
+B
+D
+A
+C
+L
+M
+
+=== PDF PAGE 495 (PRINTED PAGE 290) ===
+290 CDS Pathfinder
+Theorem 9 The angle subtended by an arc of a circle
+at the centre is double the angle subtended by it at any
+point on the circumference of circle. Here, three case
+arises.
+In all the three cases ∠ = ∠AOB ACB2 .
+EXAMPLE 3 In the figure given below, if ∠ = °AOP 75
+and ∠ = °AOB 120 , then what is the value of ∠ AQP ?
+a. 45° b. 37.5° c. 30° d. 22.5°
+Sol. b. We know that the angle subtended by an arc of a
+circle at the centre is double the angle subtended by it
+at any point on the circumference of a circle.
+2∠ = ∠AQP AOP
+∠ = × ∠ = ° = °AQP AOP1
+2
+75
+2 37 5 .
+Theorem 10 The angle in a semi-circle is a right angle.
+Theorem 11 Angles in the same segment of a circle are
+equal.
+Here, ∠ = ∠ACB ADB
+Theorem 12 If two chords AB CDand of a circle
+intersect inside or outside the circle when produced at a
+point P
+then, AP PB DP PC× = ×
+EXAMPLE 4. In the given figure, chords AB CDand
+of a circle intersect externally at P. If AB = 6 cm, CD = 3
+cm and PD = 5 cm, then the measurement of PB is
+a. 2.5 cm b. 4 cm c. 10 cm d. None of these
+Sol. b. Let the measurement of PB be x.
+PA PB PC PD× = × ⇒ ( )x x+ × = ×6 8 5
+⇒ x x2 6 40 0+ − = ⇒ x x x2 10 4 40 0+ − − =
+⇒ x x x( ) ( )+ − + =10 4 10 0 ⇒ ( )( )x x+ − =10 4 0
+⇒ x = 4, as x ≠ − 10 [side cannot be negative]
+∴ PB = 4 cm
+EXAMPLE 5. In the adjoining figure, ∆ ABC is an
+isosceles triangle with AB AC= and ∠ = °ABC 50 . Then,
+the measure of ∠ BDC is
+a. 80° b. 100° c. 40° d. 160°
+Sol. a. Given, AB AC= ⇒ ∠ = ∠ = ° ACB ABC 50
+In ∆ ABC, ∠ = ° − ° + ° = °BAC 180 50 50 80( )
+[by angle sum property of a triangle]
+∴ ∠ = ∠ = ° BDC BAC 80
+[angles lying in the same segment of the circle]
+Theorem 13 Let PT be a line tangent to the circle at
+point T. From external point P, draw a secant which
+intersect the circle at two point A and B, then
+PA PB PT× = 2
+EXAMPLE 6. In a ∆ ABC AB AC, . = A circle through B
+touches AC at D and intersects AB at P. If D is the
+mid-point of AC, then which one of the following is
+correct?
+a. AB AP= 2 b. AB AP= 3 c. AB AP= 4 d. 2 5AB AP=
+O 75°
+120° BA
+P
+Q
+R
+C
+D
+A B
+OO
+C
+C
+D
+D P
+P
+A
+A
+B
+B
+A
+B
+P D C5 cm
+3 cm
+6 cm
+xcm
+A
+B
+E
+C
+D
+OA
+C
+B
+(ii)
+O
+C
+A
+B(i)
+O
+A
+C
+B
+(iii)
+B
+A
+O
+TP
+
+=== PDF PAGE 496 (PRINTED PAGE 291) ===
+291MATHEMATICS Circle
+Sol. c. By using theorem,
+AB AP AD× = 2
+= 
+ 
+ =AC AC2
+1
+4
+2
+2( )
+⇒
+AB AP AB× = 1
+4
+2( )
+[/c81AC AB= given]
+⇒ AB AP= 4
+Theorem 14 Alternate Segment
+Theorem In the given figure B, if BAC
+is a tangent to a circle at point A and if
+AD is any chord, then ∠ = ∠DAC APD
+and ∠ = ∠PAB PDA .
+EXAMPLE 7. In the given figure, PAQ is the tangent.
+BC is the diameter of the circle. If ∠ = °BAQ 60 , then
+∠ ABC is
+a. 25° b. 30° c. 45° d. 50°
+Sol. b. Since BC is the diameter of the circle.
+∴ ∠ = ° BAC 90 [/c81angle in a semi-circle is 90°]
+∠ = °ACB 60 [/c81alternate angle theorem]
+Now, ∠ + ∠ + ∠ = °ACB BAC ABC 180
+⇒ ∠ + ° + ° = ° ABC 90 60 180
+⇒ ∠ = °− ° + ° = °ABC 180 90 60 30( )
+• Theorem 15 If two tangents are drawn to a circle from
+an external point, then they subtend equal angles at the
+centre. These two tangents
+are equally inclined to the
+line segment joining the
+centre to that point. In the
+given figure,
+∠ = ∠AOP BOP and
+∠ = ∠APO BPO
+• Theorem 16 Line joining centre and external point is
+perpendicular bisector of line joining point of contacts
+of tangents to the circle. In the above figure, OP AB⊥
+and AC BC=
+• Theorem 17 The length of two tangents drawn from an
+external point to a circle are equal.
+Here, PA PB=
+• Theorem 18 Tangents drawn at the end points of a
+diameter of a circle are always parallel.
+• Length of the direct common tangent is
+T T OO r r′ = ′ − −( ) ( ) 2
+1 2
+2 and length of transverse
+common tangent is MN OO r r= ′ − +( ) ( ) 2
+1 2
+2
+EXAMPLE 8. In the given figure, CP
+and CQ are tangent to a circle with
+centre O. ARB is another tangent
+touching. The circle at R. If CP = 11 cm,
+BC = 7 cm length of BR is
+a. 1 cm b. 2 cm
+c. 4 cm d. 3 cm
+Sol. c. Since, the length of two tangents
+drawn from external point are equal.
+∴ CQ CP= = 11 cm and BQ BR=
+Now, BQ CQ BC= −
+= −( )11 7 cm = 4 cm
+∴ BR BQ= = 4 cm
+Cyclic Quadrilateral
+A quadrilateral whose all vertices lie on a circle is called
+a cyclic quadrilateral.
+Properties of Cyclic Quadrilateral
+• The sum of either pair of opposite angles of a cyclic
+quadrilateral is 180° i.e. the opposite angles of a cyclic
+quadrilateral are supplementary.
+• If the sum of a pair of opposite angles of a quadrilateral
+is 180°, then quadrilateral is cyclic.
+• The exterior angle, formed by producing a side of a
+cyclic quadrilateral is equal to the interior opposite angle.
+Here, ∠ = ∠BAD BCE
+O
+O´
+r1 r2
+T′NT
+M
+P
+B
+A
+OC
+O
+RA B
+P Q
+C
+B
+AP Q
+C
+60°
+O
+P D
+AB C
+A
+P
+B C
+D
+P
+B
+A
+O
+CD
+A B
+E
+
+=== PDF PAGE 497 (PRINTED PAGE 292) ===
+EXAMPLE 9. In the given figure, if ∠ = °PAQ 59 ,
+∠ = °APD 40 , then what is ∠ AQB ?
+a. 19° b. 20° c. 22° d. 27°
+Sol. c. Given, ∠ = °PAD 59 and ∠ = °APD 40
+In ∆ APD, ∠ + ∠ + ∠ = °PAD APD ADP 180
+⇒ 59 40 180° + °+∠ = °ADP ⇒ ∠ = °ADC 81
+Also, ∠ + ∠ = °ABC ADC 180
+[property of cyclic quadrilateral]
+⇒ ∠ = °− ° ABC 180 81 = °99
+∴ ∠ = ∠ = °CDQ ABC 99 and ∠ = ∠ = °QCD BAD 59
+In ∆ CQD, ∠ + ∠ + ∠ = °CQD CDQ QCD 180
+⇒ ∠ = °− °− °CQD 180 59 99 = °− ° = °180 158 22
+⇒ ∠ = ∠ = ° AQB CQD 22
+LOCUS
+The path traced by a point moving under a given
+condition is called locus.
+e.g. The locus of points (in a plane) equidistant from a
+fixed point (in a plane) is a circle with the fixed point as
+centre.
+The plural of locus is loci.
+• The locus may be a line segment or lines, straight or
+curved.
+• Every point which satisfies the given geometrical
+condition(s) lies on the locus and vice-versa.
+Basic Locus Theorem
+1. The locus of points at a fixed distance d from point p
+is a circle with the given point p as its centre and d as
+its radius.
+2. The locus of points at a fixed
+distance d from a line mis a pair of
+parallel lines at a distance of d
+from line mand located on either
+side of m.
+3. The locus of points equidistant
+from two points A and B is the
+perpendicular bisector of the line
+segment joining the two points.
+4. The locus of points equidistant
+from two parallel lines m 1 and
+m2 , is a line parallel to both m 1
+and m 2 and midway between
+them.
+5. The locus of points in the interior
+of an angle equidistant from the
+sides of an angle is the bisector of
+the angle.
+6. The locus of points equidistant
+from two intersecting lines l1 and
+l 2 is a pair of bisectors that bisect
+the angles formed by l1 and l 2 .
+Locus in Some Standard Cases
+1. The loci of all points d units from a circle having a
+radius r units are two concentric circles with radii of
+r d− and r d+ units respectively.
+2. The locus of all points equidistant from two
+concentric circles is a third circle whose radius is the
+average of the radii of the given circles.
+3. The locus of the mid-points of all parallel chords of a
+circle is the diameter of the circle, which is
+perpendicular to the given chords.
+292 CDS Pathfinder
+p d
+d
+d m
+A B
+m1
+m2
+B
+A
+C
+D
+l2
+l1A
+P
+Q
+C
+D
+B
+59°
+40°
+A
+P
+Q
+C
+D
+B
+59°
+40°
+O
+r–d r
+r+d
+aO
+a+b
+2
+b
+
+=== PDF PAGE 498 (PRINTED PAGE 293) ===
+293MATHEMATICS Circle
+4. The locus of the mid-points of equal
+chords is a circle with the same
+centre as the given circle and radius
+equal to the distance from the centre
+of the given circle to the given
+chord.
+5. The locus of the centre of
+circle touching a given line at a
+given point is a line
+perpendicular to the given line
+through the given point.
+6. The locus of the centre of all circles
+passing through two given points is
+the perpendicular bisector of the line
+segment joining the two points.
+7. If A B, are fixed points, then the
+locus of a point P such that
+∠ = °APB 90 is the circle with AB as
+diameter.
+EXAMPLE 10. Given two parallel straight lines AB
+and CD which are 2 cm apart which of the following
+dotted lines may represent the locus of a point P such
+that it is equidistant from AB and CD ?
+Sol. b.
+EXAMPLE 11. What is the number of points in a plane
+two units from a given line and three units from a
+given point of the line?
+a. 1 b. 2 c. 3 d. 4
+Sol. d. The answer will be 4 points. The dotted lines are first
+locus condition and the circle is the second locus
+condition. These two loci intersect at points marked
+with A B C D, , and .
+EXAMPLE 12. Two points A and B are 6 units apart.
+How many points are there that are equidistant from
+both A and B and also 5 units from A?
+a. 0 b. 1 c. 2 d. 3
+Sol. c. The answer will be 2 points.
+The dotted line is first locus
+condition and the circle is the
+second locus condition. These
+two loci intersect at two points
+marked with P and Q.
+EXAMPLE 13. Given a circle with radius 1.5 cm.
+Which of the following dotted lines may represent the
+locus of a point P such that P is at a distance of 1 cm
+from the nearest point on the circle?
+Sol. b.
+A B
+P
+2 cm
+A B
+2 cm
+C D
+a.
+b.
+c.
+d.
+1 cm
+A B
+C D
+1 cmP
+A B
+C D
+1 cm
+1 cm
+A
+C
+B
+D1 cm
+1 cm
+2 units
+2 units
+given line
+3 units
+given point
+A
+CD
+B
+3 unitsA B
+P
+Q
+3 units
+5 units
+O
+A BP
+O
+A B
+1 cm
+A B
+C D
+1 cmP
+a. b.
+c. d.
+2.5 cm
+1.5 cm
+2.5 cm
+0.5 cm
+1.5 cm
+1 cm
+P
+3 cm
+1.5 cm 1.5 cm
+0.5 cm
+P
+2.5 cm
+0.5 cm
+1.5 cm
+1 cm
+P
+O
+T
+
+=== PDF PAGE 499 (PRINTED PAGE 294) ===
+1. In a circle with centre O and radius 5 cm, AB is
+a chord of length 8 cm. If OM AB⊥ , then what is
+the length of OM?
+(a) 4 cm (b) 5 cm
+(c) 3 cm (d) None of these
+2. An equilateral ∆ ABC is inscribed in a circle with
+centre O. Then, ∠ BOC is equal to
+(a) 120° (b) 75° (c) 180° (d) 60°
+3. A square ABCD is inscribed in a circle with
+centre O. Then, the angle subtended by each side
+of the square at the centre O is
+(a) 120° (b) 180° (c) 45° (d) 90°
+4. The points of concurrency of the
+perpendicular bisectors of the sides of a triangle
+is called its
+(a) incentre (b) circumcentre
+(c) excentre (d) orthocentre
+5. In the given figure, PQ is the diameter of a circle
+with centre at O. OS is perpendicular to PR.
+Then, OS is equal to
+(a)
+1
+4
+QR (b)
+1
+3
+QR (c)
+1
+2
+QR (d) QR
+6. In the given figure, OM ONand are the
+perpendiculars drawn on the chords PQ RSand .
+If OM ON= = 6 cm. Then,
+(a) PQ RS≥ (b) PQ RS< (c) PQ RS≤ (d) PQ RS=
+7. The locus of the mid-points of all radii of a circle
+is a
+(a) circle (b) parallelogram
+(c) rhombus (d) square
+8. The perpendicular bisectors of the sides of a
+triangle pass through the
+(a) different point (b) more than 2 points
+(c) same point (d) None of these
+9. If a point P moves such that the sum of the
+squares of its distance from two fixed points
+A Band is a constant, then the locus of P is
+(a) a circle
+(b) a straight line
+(c) an arbitrary curve
+(d) the perpendicular bisector of AB
+10. The locus of points equidistant from two fixed
+points is a straight line which
+(a) is a right angles to the line joining the two fixed points
+(b) bisects the line joining the two fixed points
+(c) is the perpendicular bisector of the line joining the
+two fixed points
+(d) None of the above
+11. Diameter AB CDand of a circle intersect at O. If
+m∠ = °BOD 50 , then m AOD∠ is
+(a) 50° (b) 180° (c) 130° (d) 310°
+12. CD is a direct common tangent to two circles
+intersecting each other at A Band . Then,
+∠ + ∠CAD CBD is equal to?
+(a) 180° (b) 90° (c) 360° (d) 120°
+13. In a circle of radius 17 cm, two parallel chords
+are drawn on opposite side of a diameter. The
+distance between the chords is 23 cm. If the
+length of one chord is 16 cm, then the length of
+the other chord is
+(a) 34 cm (b) 15 cm (c) 23 cm (d) 30 cm
+14. If AB is a chord of a circle, P Qand are the two
+points on the circle different from A Band , then
+(a) the angles subtended at P Qand by AB are always equal
+(b) the sum of the angles subtended by AB at P and Q
+is always equal to two right angles
+(c) the angles subtended by AB at P Qand are either
+equal or supplementary
+(d) None of the above
+294 CDS Pathfinder
+PRACTICE EXERCISE
+O
+C
+A
+B
+O
+R
+P
+S
+Q
+O
+P
+Q
+NM
+S
+R
+C
+D
+50°
+B
+A
+O
+B
+DC
+A
+
+=== PDF PAGE 500 (PRINTED PAGE 295) ===
+15. The locus of the centre of circles which pases
+through two given points is
+(a) perpendicular to the line joining the given points at
+one of those points
+(b) perpendicular bisector of the line joining the given poi nts
+(c) parallel to the line joining the given points
+(d) None of the above
+16. In the adjoining figure, POQ is the diameter of
+the circle, R and S are any two points on the
+circles. Then,
+(a) ∠ > ∠PRQ PSQ (b) ∠ < ∠PRQ PSQ
+(c) ∠ = ∠PRQ PSQ (d)
+∠ = ∠PRQ PSQ1
+2
+17. If O is the centre of the circle, then the value of x
+in the adjoining figure is
+(a) 80° (b) 70° (c) 60° (d) 50°
+18. If S is a circle with centre C Pand be a movable
+point outside S, then the locus of P such that the
+tangents from P to S are of constant length is
+(a) the straight line CP
+(b) the circle through P with centre at C
+(c) a circle intersecting S
+(d) a circle touching S
+19. In the given figure A B C D, , , are the concyclic
+points. The value of x is
+(a) 50° (b) 60° (c) 70° (d) 90°
+20. If O is the centre of the circle, then x is
+(a) 72° (b) 62° (c) 82° (d) 52°
+21. Two circles touch each other internally. Their
+radii are 2 cm and 3 cm. The biggest chord of the
+outer circle which is outside the inner circle is of
+length
+(a)
+2 2 cm (b) 3 2 cm (c) 2 3 cm (d) 4 2 cm
+22. If two circles are such that the centre of one lies
+on the circumference of the other, then the ratio
+of the common chord of the two circles to the
+radius of any one of the circles is
+(a) 2 : 1 (b)
+3 1 : (c) 5 1 : (d) 4 : 1
+23. In the given figure, ABCD is a cyclic
+quadrilateral. AE is drawn parallel to CD BAand
+is produced. If ∠ = °ABC 92 and ∠ = °FAE 20 , then
+∠ BCD is equal to
+(a) 88° (b) 98° (c) 108° (d) 72°
+24. The values of x + y in the figure is equal to
+(a) 90° (b) 85° (c) 75° (d) 65°
+25. Let A and B be two points. What is the locus of
+the point P such that ∠ = °APB 90 ?
+(a) The line AB itself
+(b) The point P itself
+(c) The circumference of the circle with AB as diameter
+(d) The line perpendicular to AB and bisecting AB
+26. In the adjoining figure AD AE BC, and are
+tangent to the circle at D E F, , respectively, then
+(a) AD AB BC AC= + + (b) 2 AD AB BC AC= + +
+(c) AD AB BC AC= + +1
+4
+( ) (d) 3AD AB BC AC= + +
+295MATHEMATICS Circle
+R
+P
+O
+S
+Q
+A
+O
+C
+B
+x
+90°
+110°
+F
+E
+A
+D
+x
+B
+130°
+C
+50°
+32°
+28° O
+C
+x°
+D
+A B
+DC
+B 20° F
+E
+A
+92°
+(2 + 4)x
+A
+C
+DB ( + 10)x (5 + 5)y
+(4 – 4)y
+E
+D
+F
+C
+B
+A
+
+=== PDF PAGE 501 (PRINTED PAGE 296) ===
+27. S S1 2and are two circles on a plane with radii
+4 cm, and 2 cm, respectively and the distance
+between their centres is 3 cm. Which one of the
+following statements is true?
+(a) S2 lies entirely within the circle S1
+(b) S S1 2and touch each other internally
+(c) S S1 2and touch each other externally
+(d) S S1 2and intersect in two distinct points
+28. ACB is a tangent to a circle at C CD, and CE are
+chords such that ∠ > ∠ACE ACD . If
+∠ = ∠ = °ACD BCE 50 , then
+(a) CD CE=
+(b) ED is not parallel to AB
+(c) ED passes through the centre of the circle
+(d) ∆ CDE is a right angled triangle
+29. A bicycle is running straight towards North.
+What is the locus of the centre of the front wheel
+of the bicycle whose diameter is d ?
+(a) A line parallel to the path of the wheel of the bicycle
+at a height d cm
+(b) A line parallel to the path of the wheel of the bicycle
+at a height d/2 cm
+(c) A circle of radius d/2 cm
+(d) A circle of radius d cm
+30. If ‘O’ is the centre of circle, then x is equal to
+(a) 80° (b) 60° (c) 40° (d) 20°
+31. If two equal circles touch each other externally,
+the common tangent divides the line of centres
+in the ratio
+(a) 1 : 1 (b) 2 : 1 (c) 1 : 2 (d) 3 : 2
+32. With the vertices of a ∆ ABC as centre three circles
+are described, each touching the other two circle
+externally. If the sides of the triangle are 9 cm,
+7 cm and 6 cm. Then, the radius of the circle are
+(a) 4, 5, 2 (b) 4, 5, 6
+(c) 3, 2, 3 (d) All equal to 3 cm
+33. In the given figure PT touches the circle with
+centre O at R. Diameter SQ when produced meet
+PT at P. If ∠ =SPR x and ∠ =QSR y , then x + 2y
+is equal to
+(a) 180° (b) 90°
+(c) 135° (d) None of these
+34. What is the locus of centres of circles which
+touch a given line at a given point?
+(a) A line perpendicular to the given line, passing
+through the given point
+(b) A line parallel to the given line
+(c) A circle tangent to the given line at the given point
+(d) A closed curve other than a circle
+35. In the given figure, O is the centre of the circle,
+OA = 3 cm, AC = 3 cm and OM is perpendicular
+to AC. What is ∠ ABC equal to?
+(a) 60° (b) 45°
+(c) 30° (d) None of these
+36. The distance between the centres of two circles
+having radii 4.5 cm and 3.5 cm, respectively is
+10 cm. What is the length of the transverse
+common tangent of these circles?
+(a) 8 cm (b) 7 cm
+(c) 6 cm (d) None of these
+37. ABC is an equilateral triangle inscribed in a
+circle with AB = 5 cm. Let the bisector of the
+angle, A meet BC in X and the circle in Y . What
+is the value of AX AY⋅ ?
+(a) 16 cm2 (b) 20 cm2 (c) 25 cm2 (d) 30 cm2
+38. Two unequal circles are touching each other
+externally at P, APB and CPD are two secants
+cutting the circles at A B C, , and D. Which one of
+the following is correct?
+(a) ACBD is parallelogram (b) ACBD is a trapezium
+(c) ACBD is a rhombus (d) None of these
+39. ABCD is a quadrilateral, the sides of which
+touch a circle. Which one of the following is
+correct?
+(a) AB AD CB CD+ = + (b) AB CD AD BC: : =
+(c) AB CD AD BC+ = + (d) AB AD CB CD: : =
+40. Let PAB be a secant to a circle intersecting at
+points A Band and PC is a tangent. Which one
+of the following is correct?
+(a) The area of rectangle with PA PB, as sides is equal
+to the area of square with PC as sides
+(b) The area of rectangle with PA PC, as sides is equal
+to the area of square with PB as sides
+(c) The area of rectangular with PC PB, as sides is equal
+to the area of square with PA as side
+(d) The perimeter of rectangle with PA PB, as sides is
+equal to the perimeter of square with PC as side
+296 CDS Pathfinder
+B
+O
+A
+C
+x° 80°
+y
+S
+O
+P
+Q
+x
+TR
+A
+O
+M
+B
+C
+
+=== PDF PAGE 502 (PRINTED PAGE 297) ===
+41. In the given figure, if ∠ = °BAD 60 , ∠ = °ADC 105 ,
+then what is ∠ DPC equal to?
+(a) 40° (b) 45° (c) 50° (d) 60°
+42. In the given figure, PQ is a diameter of the circle
+whose centre is at O. If ∠ = °ROS 44 and OR is a
+bisector of ∠ PRQ, then what is the value of ∠ RTS ?
+(a) 46° (b) 64°
+(c) 69° (d) None of these
+43. In the given figure, O is the centre of the circle.
+AC BDand intersect at P. If ∠ = °AOB 100 and
+∠ = °DAP 30 , what is ∠ APB ?
+(a) 77° (b) 80° (c) 85° (d) 90°
+44. In the given figure, AB is a
+diameter of a circle and CD is
+perpendicular to AB, if
+AB = 10 cm and AE = 2 cm, then
+what is the length of ED?
+(a) 5 cm (b) 4 cm (c)
+10 cm (d) 20 cm
+45. In the given figure, PT is a
+tangent to a circle of radius 6
+cm. If P is at a distance of 10 cm
+from the centre O and PB = 5 cm,
+then what is the length of the
+chord BC ?
+(a) 7.8 cm (b) 8 cm (c) 8.4 cm (d) 9 cm
+46. In the given figure, ∠ = °AOB 46 ,
+AC and OB intersect each other
+at right angles. What is the
+measure of ∠ OBC ? ( O is the
+centre of the circle.)
+(a) 44° (b) 46° (c) 67° (d) 78.5°
+47. In the given figure, a circle is inscribed in a
+quadrilateral ABCD. Given that, BC = 38 cm,
+QB = 27 cm, DC = 25 cm and AD is perpendicular
+to DC. What is the radius of the circle?
+(a) 11 cm (b) 14 cm (c) 15 cm (d) 16 cm
+48. In the figure given below, what is ∠ CBA ?
+(a) 30° (b) 45° (c) 50° (d) 60°
+49. PQ is a common chord of two circles. APB is a
+secant line joining points A Band on the two
+circles. Two tangents AC BCand are drawn. If
+∠ = °ACB 45 , then what is ∠ AQB equal to?
+(a) 75° (b) 90° (c) 120° (d) 135°
+50. ABCD is concyclic quadrilateral. The tangents at
+A and C intersect each other at P. If
+∠ = °ABC 100 , then what is ∠ APC equal to?
+(a) 10° (b) 20° (c) 30° (d) 40°
+51. In the given figure, quad. ABCD is circumscribed,
+touching the circle at P Q R, , and S such that
+∠ = °DAB 90 . If CS = 27 cm and CB = 38 cm and
+radius of the circle is 10 cm, then AB = ?
+(a) 28 cm (b) 21 cm (c) 19 cm (d) 17 cm
+52. In the figure given below, YAX is a tangent to
+the circle with centre O. If ∠ = °BAX 70 and
+∠ = °BAQ 40 , then what is ∠ ABQ equal to?
+(a) 20° (b) 30°
+(c) 35° (d) 40°
+297MATHEMATICS Circle
+P
+C
+105°
+60°
+D
+BA
+P
+O
+Q
+S44°
+TR
+E
+C
+PD
+O
+BA
+C
+A BE
+O
+D
+O
+C
+B
+P
+T
+O
+C
+BA
+O
+A
+Q
+R
+CD
+B
+C75°
+Q
+B
+P
+A
+R
+30°
+A Q B
+D C
+27 cm
+O
+10 cm
+S
+38 cmP
+R
+A
+Q
+B
+E
+O
+Y X
+
+=== PDF PAGE 503 (PRINTED PAGE 298) ===
+298 CDS Pathfinder
+53. In the given figure, what is ∠ BYX equal to?
+(a) 85° (b) 50° (c) 45° (d) 90°
+54. In the given figure, AD is a straight line, OP
+perpendicular to AD Oand is the centre of
+both circles. If OA = 20 cm, OB = 15 cm and
+OP = 12 cm, what is AB equal to?
+(a) 7 cm (b) 8 cm (c) 10 cm (d) 12 cm
+55. In the given figure, if x
+3 4 5
+= =y z , where ∠ =DCQ x ,
+∠ =BPC y and ∠ =DQC z , then what are the
+values of x, andy z , respectively ?
+(a) 33°, 44° and 55° (b) 36°, 48° and 60°
+(c) 39°, 52° and 65° (d) 42°, 56° and 70°
+56. In the given figure, if ∠ = °AOP 75 and
+∠ = °AOB 120 , then what is ∠ AQP ?
+(a) 45° (b) 37.5° (c) 30° (d) 22.5°
+57. A circle of radius 5 cm has chord RS at a
+distance of 3 units from it. Chord PQ intersects
+with chord RS at T such that TS = 1 3 / of RT.
+Find minimum value of PQ.
+(a)
+6 3 (b) 4 3 (c) 8 3 (d) 2 3
+58. Two mutually perpendicular chords AB and CD
+intersect at P. AP = 4 cm , PB = 6 cm, CP = 3 cm .
+Find radius of the circle.
+(a)
+5 5
+2
+cm (b) 3 5
+4
+cm (c) 6 5
+2
+cm (d) 2 5
+3
+cm
+59.
+In the above figure which of the following holds
+good?
+(a) ∠ = ∠SOQ ROP (b) 2∠ = ∠ROP SOR
+(c) ∠ = ∠POR ASO (d) ∠ = ∠ + ∠QOX SOR ROP'
+60. Semi-circle C
+1 is drawn with a line segment PQ
+as its diameter with centre at R. Semicircles C2
+and C3 are drawn with PR and QR as diameters
+respectively, both C2 and C3 lying inside C1. A
+full circle C4 is drawn in such a way that it is
+tangent to all the three semicircles C1, C2 and C3,
+C4 lies inside C1 and outside both C2 and C3. The
+radius of C4 is
+(a) 1
+3
+PQ (b)
+1
+6
+PQ (c)
+1
+2
+PQ (d) 1
+4
+PQ
+61. Two circles are placed in an
+equilateral triangle as shown in
+the figure. What is the ratio of the
+area of the smaller circle to that of
+the equilateral triangle?
+(a)
+π : 36 3 (b) π : 18 3 (c) π : 27 3 (d) π : 42 3
+62. Consider the following statements :
+I. The opposite angles of a cyclic quadrilateral are
+supplementary.
+II. Angle subtended by an arc at the centre is
+double the angle subtended by it at any point on
+the remaining part of the circle.
+Which one of the following is/are correct in
+respect of the above statements?
+(a) Statement I ⇒ Statement II
+(b) Statement II ⇒ Statement I
+(c) Statement I ⇔ Statement II
+(d) Neither Statement I ⇒ Statement II nor Statement II
+⇒ Statement I
+63. Consider the following statements :
+I. Let P be a point on a straight line L. Let Q R,
+and S be the points on the same plane
+containing the line L such that PQ PR PS, and
+are perpendicular to L. Then, there exists no
+triangle with vertices Q R S, , .
+II. Let C be a circle passing through three distinct
+points D E F, and such that the tangent at D to
+the circle C is parallel to EF. Then, DEF is an
+isosceles triangle.
+Which of the statement(s) given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+X
+45°
+A B
+Y
+50°
+C DBA P
+O
+D
+A
+C x
+z
+y
+P
+Q
+B
+O
+75°
+120° BA
+P
+Q
+R
+X O
+X'P
+R
+S
+Q
+
+=== PDF PAGE 504 (PRINTED PAGE 299) ===
+299MATHEMATICS Circle
+64. The incircle of a ∆ ABC touches the sides AB BC,
+and AC at the points P Q R, , , respectively,
+then which of the following statement is/are
+correct?
+I. AP BQ CR PB QC RA+ + = + +
+II. AP BQ CR+ + = 1
+2 (perimeter of ∆ ABC)
+III. AP BQ CR AB BC CA+ + = + + 3( )
+Select the correct answer using the codes given
+below
+(a) I, II and III are correct (b) Only I is correct
+(c) II and III are correct (d) I and II are correct
+65. Points X and Y are two different points on a
+circle. Point M is located so that line segment
+XM and line segment YM have equal length.
+Which of the following could be true?
+I. M is the centre of the circle.
+II. M is on arc XY III. M is outside of the circle.
+(a) Only 1 (b) Only II (c) I and II (d) I, II and III
+66. Which of the following statement(s) are correct?
+I. A circle is the locus of points equidistant from a
+fixed point.
+II. The locus of centre of circle rolling on the
+circumference of fixed circle is a circle
+concentric with fixed circle.
+III. The locus of the points which are equidistant
+from three distinct points on a line, is a line
+parallel to the given line.
+IV. If the bisectors of ∠ B and ∠ C of a quadrilateral
+ABCD intersect in P, then P is equidistant from
+AB and CD.
+Select the correct answer using the codes given
+below
+(a) All are correct (b) Only IV
+(c) Both I and II (d) I, II and IV
+67. A square and a circle intersect at more than one
+point. Consider the following statements:
+I If atleast two of the intersection points are on
+the vertices of the square then the square is
+cyclic.
+II If there are exactly four intersection points then
+the square has less area than the circle.
+III If there are exactly four intersection point then
+the diameter of circle is equal to the diagonal of
+square.
+IV If atleast two intersection points are on the
+vertices of square. Then it may be possible to
+have the sides of square equal to the diameter of
+circle.
+Which of the statement (s) given above is/are
+correct ?
+(a) Only I (b) Only IV
+(c) Both I and II (d) II, III and IV
+Directions (Q. Nos. 68-69) BC is a chord with centre O.
+A is a point on an arc BC as shown in the figure below.
+68. What is the value of ∠ + ∠BAC OBC if A is the
+point on the major arc?
+(a) 110° (b) 70° (c) 90° (d) 60°
+69. What is the value of ∠ − ∠BAC OBC if A is the
+point on the minor arc?
+(a) 90° (b) 180° (c) 130° (d) 50°
+PREVIOUS YEARS’ QUESTIONS
+70. A circular ring with centre O is kept in the vertical
+position by two weightless thin strings TP and
+TQ attached to the ring at P and Q. The line OT
+meets the ring at E where as a tangential string
+at E meets TP and TQ at A and B, respectively. If
+the radius of the ring is 5 cm and OT = 13 cm,
+then what is the length of AB ? e 2012 I
+(a) 10/3 cm (b) 20/3 cm (c) 10 cm (d) 40/3 cm
+71. The locus of the mid-points of all equal chords in
+a circle is e 2012 I
+(a) The circumference of the circle concentric with
+the given circle and having radius equal to the chords
+(b) The circumference of the circle concentric with the
+given circle and having radius equal to the distance
+of the chords from the centre
+(c) The circumference of the circle concentric with the
+given circle and having radius equal to half of the
+radius of the given circle
+(d) The circumference of the circle concentric with the
+given circle and having radius equal to half of the
+distance of the chords from the centre
+72. Consider the following statements
+I. The locus of points which are equidistant from
+two parallel lines is a line parallel to both of
+them and drawn mid way between them.
+II. The perpendicular distances of any point on this
+locus line from two original parallel lines are
+equal. Further, no point outside this locus line
+has this property.
+Which of the statement(s) given above is/are
+correct? e 2012 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+73. Consider a circle with centre at O and radius r.
+Points A and B lie on its circumference and a
+point M lies outside of it such that M, A and O lie
+on the same straight line. Then, the ratio of MA
+to MB is e 2013 I
+(a) equal to 1 (b) equal to r
+(c) greater than 1 (d) less than 1
+O
+A
+B C
+x
+zy y
+O
+A
+B C
+x
+z
+y yt
+
+=== PDF PAGE 505 (PRINTED PAGE 300) ===
+74. Consider the following statements :
+I. The perpendicular bisector of a chord of a circle
+does not pass through the centre of the circle.
+II. The angle in a semi-circle is a right angle.
+Which of the statement(s) given above is/are
+correct? e 2013 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+75. The diameter of a circle with centre at C is 50
+cm. CP is a radial segment of the circle. AB is a
+chord perpendicular to CP and passes through
+P. CP produced intersects the circle at D. If
+DP = 18cm, then what is the length of AB ?
+e 2013 II
+(a) 24 cm (b) 32 cm
+(c) 40 cm (d) 48 cm
+76. Consider the following statements in respect of
+two chords XY and ZT of a circle intersecting
+at P.
+I. PX PY PZ PT⋅ = ⋅
+II. PXZ and PTY are similar triangles.
+Which of the statement(s) given above is/are
+correct? e 2013 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+77. In a ∆ ABC, AB = BC = CA . The ratio of the radius
+of the circumcircle to that of the incircle is
+(a) 2 : 1 (b) 3 : 1 e 2014 I
+(c) 3 : 2 (d) None of these
+78. AB and CD are two chords of a circle meeting
+externally at P. Then, which of the following
+is/are correct?
+I. PA PD = PC PB× ×
+II. ∆ PAC and ∆ PDB are similar.
+Select the correct answer using the codes given
+below e 2014 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+79. For a triangle, the radius of the circumcircle is
+double the radius of the inscribed circle, then
+which one of the following is correct? e 2014 II
+(a) The triangle is a right angled
+(b) The triangle is an isosceles
+(c) The triangle is an equilateral
+(d) None of the above
+80. If the chord of an arc of a circle is of length x,
+the height of the arc is y and the radius of the
+circle is z. Then, which one of the following is
+correct? e 2014 II
+(a) y z y( )2 2− = x (b) y z y( )2 4 2− = x
+(c) 2 2 2y z y( ) − = x (d) 4 2 2y z y( ) − = x
+81. If the angle between the radii of a circle is 130°,
+then the angle between the tangents at the ends
+of the radii is e 2015 I
+(a) 90° (b) 70° (c) 50° (d) 40°
+82. Out of two concentric circles, the diameter of the
+outer circle is 26 cm and the chord MN of length
+24 cm is tangent to the inner circle. The radius
+of the inner circle is e 2015 I
+(a) 5 cm (b) 6 cm (c) 8 cm (d) 10 cm
+83. AD is the diameter of a circle and AB is a chord.
+If AD = 34 cm, AB = 30 cm, then the distance of
+AB from the centre of the circle is e 2015 I
+(a) 17 cm (b) 15 cm (c) 13 cm (d) 8 cm
+84. From an external
+point P, tangents PA
+and PB are drawn to
+the circle as shown
+in the above figure.
+CD is the tangent to
+the circle at E. If AP = 16 cm, then the perimeter
+of the ∆ PCD is equal to e 2015 II
+(a) 24 cm (b) 28 cm (c) 30 cm (d) 32 cm
+85. Chord CD intersects the diameter AB of a circle
+at right angle at a point P in the ratio 1:2. If
+diameter of circle is d, then CD is equal to
+e 2015 II
+(a)
+2
+3
+d (b) 2
+3
+d (c) 2 2
+3
+d (d) 2 3
+3
+d
+86. The diameter of a wheel that makes 452
+revolutions to move 2 km and 26 dm is equal to
+e 2015 II
+(a)
+1 9
+22
+m (b) 113
+22
+m (c) 2 5
+11
+m (d) 2 7
+11
+m
+87. A boy is cycling such that the wheels of the cycle
+are making 140 revolutions per minute. If the
+radius of the wheel is 30 cm, then the speed of
+the cycle is e 2015 II
+(a) 15.5 km/h (b) 15.84 km/h (c) 16 km/h (d) 16.36 km/h
+88. The two adjacent sides of a cyclic quadrilateral
+are 2 cm and 5 cm and the angle between them
+is 60°. If the third side is 3 cm, then the fourth
+side is of length e 2015 II
+(a) 2 cm (b) 3 cm (c) 4 cm (d) 5 cm
+89. AB is a line segment of length 2 a, with M as
+mid-point. Semi-circles are drawn on one side
+with AM, MB and AB as
+diameter as shown in the above
+figure. A circle with centre O
+and radius r is drawn such that
+this circle touches all the three
+semi-circles. The value of r, is e 2015 II
+(a)
+2
+3
+a (b) a
+2
+(c) a
+3
+(d)
+a
+4
+300 CDS Pathfinder
+A C
+P
+DB
+E
+A M B
+Or
+
+=== PDF PAGE 506 (PRINTED PAGE 301) ===
+90. A tangent is drawn from an external point O to a
+circle of radius 3 units at P such that OP = 4
+units. If C is the centre of the circle, then the
+sine of ∠ COP is e 2016 I
+(a) 4/5 (b) 3/4 (c) 3/5 (d) 1/2
+91. Let ABC be a triangle in which AB AC= . Let L
+be the locus of points X inside or on the triangle
+such that BX CX= .
+Which of the following statements are correct?
+I. L is a straight line passing through A and
+incentre of ∆ ABC is on L.
+II. L is a straight line passing through A
+orthocentre of ∆ ABC is a point on L.
+III. L is a straight line passing through A centroid of
+∆ ABC is a point on L.
+Select the correct answer using the code given
+below. e 2016 I
+(a) I and II (b) II and III (c) I and III (d) I, II and III
+92. In a circle of radius 2 units, a diameter AB
+intersects a chord of length 2 units perpendi-
+cularly at P. If AP BP> , then AP is equal to
+e 2016 I
+(a)
+( )2 5+ units (b) ( )2 3+ units
+(c) ( )2 2+ units (d) 3 units
+93. Consider a circle with centre at C. Let OP, OQ
+denote respectively the tangents to the circle
+drawn from a point O outside the circle. Let R be
+a point on OP and S be a point on OQ such that
+OR SQ OS RP× = × . Which of the following
+statement(s) is/are correct?
+I. If X is the circle with centre at O and radius OR
+and Y is the circle with centre at O and radius
+OS, then X Y= .
+II. ∠ + ∠ = °POC QCO 90
+Select the correct answer using the code given
+below. e 2016 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+94. Consider a circle at O and radius 7 cm. Let QR
+be a chord of length 2 cm and let P be the
+mid-point of QR. Let CD be another chord of this
+circle passing through P such that ∠ CPQ is acute.
+If M is the mid-point of CD and
+MP cm= 24 ,
+then which of the following statements are
+correct?
+I. ∠ = °QPD 135
+II. If CP m= cm and PD n= cm, then m and n are
+the roots of the quadratic equation x x2 10 1 0− + = .
+III. The ratio of the area of ∆ OPR to the area of
+∆ OMP is 1 2 2: .
+Select the correct answer using the code given
+below. e 2016 I
+(a) I and II (b) II and III (c) I and III (d) I, II and III
+95. Suppose chords AB and CD of a circle intersect
+at a point P inside the circle. Two right angled
+triangles ′ ′ ′A P B and ′ ′ ′C Q D are formed as shown
+in the figures below such that ′ ′ =A P AP ,
+′ ′ =B P BP , ′ ′ =C Q CP , ′ ′ =D Q DP and
+∠ ′ ′ ′ = ° = ∠ ′ ′ ′A P B C Q D90 .
+Which of the following statements are not correct?
+I. ′ ′ ′A P B and ′ ′ ′C Q D are similar triangles but need
+not be congruent.
+II. ′ ′ ′A P B and ′ ′ ′C Q D are congruent triangles.
+III. ′ ′ ′A P B and ′ ′ ′C Q D are triangles of same area.
+IV. ′ ′ ′A P B and ′ ′ ′C Q D are triangles of same perimeter.
+Select the correct answer using the code given
+below. e 2016 I
+(a) II and III (b) I and III
+(c) I, II and IV (d) I, II, III and IV
+301MATHEMATICS Circle
+ANSWERS
+1 c 2 a 3 d 4 b 5 c 6 d 7 a 8 c 9 a 10 c
+11 c 12 a 13 d 14 c 15 b 16 c 17 a 18 b 19 a 20 c
+21 d 22 b 23 c 24 d 25 c 26 b 27 d 28 a 29 b 30 c
+31 a 32 a 33 b 34 a 35 c 36 c 37 c 38 b 39 c 40 a
+41 b 42 d 43 b 44 b 45 a 46 c 47 b 48 d 49 d 50 b
+51 b 52 b 53 a 54 a 55 b 56 b 57 b 58 a 59 a 60 b
+61 c 62 d 63 c 64 d 65 d 66 d 67 d 68 c 69 a 70 b
+71 b 72 c 73 d 74 b 75 d 76 c 77 a 78 b 79 c 80 d
+81 c 82 a 83 d 84 d 85 c 86 b 87 b 88 a 89 c 90 c
+91 d 92 b 93 c 94 a 95 c
+B′
+A′
+P′
+C′
+Q′ D′
+
+=== PDF PAGE 507 (PRINTED PAGE 302) ===
+302 CDS Pathfinder
+HINTS AND SOLUTIONS/CharA0 
+1. (c) Given, OA = 5 cm, AM AB= × =1
+2
+8
+2⇒ AM = 4 cm
+In right angled ∆ OMA,
+OM OA AM2 2 2= −
+[by pythagoras theorem]
+= −5 42 2 = −25 16 = −25 16 = 9
+⇒ OM = 3 cm
+2. (a) /c81∠ = ∠BOC A 2 = × °2 60
+(Angle subtended by an arc at the center
+is double the angle subtended by it at
+any point on the circumference of circle)
+⇒ ∠ = ° BOC 120
+3. (d) A square has four equal side.
+∴ Each side subtends the same angle at
+the centre O.
+Let angle subtended be x°.
+So, 4 360x° = °
+x° = ° = °360
+4
+90
+4. (b) Clearly, the point of concurrency of
+the perpendicular bisectors of the sides
+of a triangle is known as circumcentre.
+5. (c) As, O is mid-point of diameter PQ
+and ∠ = °PRQ 90 (angle in semi-circle)
+So, OS QR|| and OS PR⊥
+∴
+PO
+PQ
+OS
+QR
+=
+⇒
+OS
+QR
+= 1
+2
+⇒ OS QR= 1
+2
+6. (d) PQ RS= as chords equidistant from
+the centre are equal.
+7. (a) The locus of the mid-points of all
+radii of a circle is a circle.
+8. (c) The perpendicular bisectors of the
+sides of a triangle passes through the
+same point. The perpendicular bisectors
+are concurrent and point is called the
+circumcentre.
+9. (a) Let P be the moving point.
+Then, PA PB2 2+ = constant
+So, the locus of P is a circle.
+10. (c) The locus of
+points equidistant
+from fixed points
+is a straight line
+which is the
+perpendicular
+bisector of the
+line joining the
+two fixed points.
+Here, A B, are fixed point and P is locus.
+11. (c) Given that, ⇒ ∠ = °BOD 50
+⇒ ∠ = ° − ∠ = °AOD BOD180 130
+[linear pair]
+12. (a) Here, ∠ = ∠CAB BCD
+[angles in alternate segments]
+and ∠ = ∠DAB CDB
+[angles in alternate segments]
+⇒ ∠ = ∠ + ∠CAD CAB DAB
+= ∠ + ∠BCD CDB
+On adding ∠ CBD both sides, we get
+∠ + ∠CAD CBD
+= ∠ + ∠ + ∠BCD CDB CBD
+= °180 [angles of a triangle]
+13. (d) Here,
+BE AB= = =1
+2
+16
+2
+8cm cm
+OB OD= = 17 cm (radii)
+In right angled ∆ OEB,
+OE OB BE= − 2 2
+= − 17 82 2 = − 289 64
+= = 225 15 cm
+∴ OF EF OE= − = − ( )23 15 = 8 cm
+In right angled ∆ OFD ,
+FD OD OF= − 2 2
+= − = −17 8 289 642 2
+= 225 = 15 cm
+∴ CD FD= =2 30 cm
+14. (c) There are two possibilities
+Case I When P Qand are on the same
+side of AB. In this case ∠ = ∠APB AQB
+(angle in the same segment).
+Case II When P Qand are on the
+opposite of AB. In this case PAQB is a
+cyclic quadrilateral.
+So, ∠ + ∠ = °APB AQB 180
+15. (b) Clearly, the locus of the centre of
+circles which passes through two given
+point is perpendicular bisector of the
+line joining the given points.
+16. (c) As POQ is the diameter of the circle,
+therefore, PRQ and PSQ are two
+semicircles and ∠ = ∠PRQ PSQ .
+∠ = ∠ = °PRQ PSQ 90
+[angles in semicircle]
+17. (a) ∠ = °− °+ °COB 360 110 90( ) = °160
+∴
+x = ∠ = ∠CAB COB1
+2
+= × ° = °1
+2
+160 80
+18. (b) If S is a circle
+with centre C and P
+be a movable point
+outside S, then the
+locus of P such that
+the tangent from P
+to S are of constant length is the circle
+through P with centre at C .
+19. (a) ∠ = ∠CBF CDA
+(angles in alternate segments)
+⇒ ∠ = °CDA 130
+∠ + = °CDA x 180 [linear pair]
+x = ° − °180 130 = °50
+Hence, the value of x is 50 °.
+20. (c) ∠ = ∠ = °ACB ADB 32
+[angle in same segment]
+∠ = ∠ = °ACD ABD 50
+∴ x = ∠ = ∠ + ∠BCD ACB ACD
+= °+ ° = °32 50 82
+O
+8 cmM BA
+5 cm
+A B
+CD
+O
+B
+DC
+A
+O
+F
+E
+BP
+A
+A
+B
+Q
+P
+C
+S
+P
+P
+A B
+P ´
+P ´ ´
+A
+B
+Q
+P
+
+=== PDF PAGE 508 (PRINTED PAGE 303) ===
+21. (d) Here, OB OD= = 3 cm and
+O D O A′ = ′ = 2 cm
+OO OD O D′ = − ′ = − = 3 2 1 cm
+∴ OA O A OO= ′ − ′= − = 2 1 1 cm
+In ∆ OAB,
+AB OB OA= − 2 2
+[by pythagoras
+theorem]
+= − = −3 1 9 12 2
+= 8cm
+∴ Required length = =BC AB2
+= 2 8 cm = 4 2 cm
+22. (b) Here, let O O, ′be the centres of the
+circles.
+As, the centre of each lies on the
+circumference of the other, therefore the
+two circles will have the same radius.
+Let the radius be r.
+∴
+OC O C r= ′ =
+2
+In right angled ∆ OCA, by pythagoras
+theorem
+∴ AC OA OC= − 2 2
+= − r r2
+2
+4
+= 3
+2
+r
+⇒ AB AC= =2 3 r
+∴ Common chord
+Radius
+3= =AB
+OA
+r
+r
+Hence, ratio of common chord to the
+radius is
+3 1 : .
+23. (c) /c81∠ + ∠ = °B D 180
+(sum of two opposite angle in cyclic
+quadrilateral)
+⇒ ∠ = ° − ∠D B 180
+= ° − °180 92 = °88
+⇒ ∠ = ∠ = °DAE D 88 [alternate angle]
+⇒ ∠ = ° + ° = °FAD 88 20 108
+⇒ ∠ = ∠ = °BCD FAD 108
+[angles in alternate segments]
+⇒ ∠ = ° BCD 108
+24. (d) As, ∠ + ∠ = °B D 180
+and ∠ + ∠ = °A C 180
+[sum of two opposite angle in a cyclic
+quadrilateral]
+x + + + = °10 5 5 180y
+⇒ x + = °5 165y …(i)
+/c81 ∠ + ∠ = °A C 180
+⇒ 2 4 4 4 180x + + − = °y
+⇒ 2 4 180x + = °y …(ii)
+On solving, Eqs. (i) and (ii), we get
+x and y are 40° and 25°, respectively.
+∴ x + = ° + ° = °y 40 25 65
+25. (c) The locus of a point is the
+circumference of the circle with AB as
+diameter.
+26. (b) As, the tangents drawn to a circle
+from a point outside it are equal. We
+have,
+AD AE= , BD BF= and CE CF=
+⇒ AD AB BD AB BF= + = +
+and AD AC EC AC CF= + = +
+∴ 2 AD AB AC BF CF= + + + ( )
+2 AD AB AC BC= + +
+27. (d) OB = 4 cm
+O A′ = 2 cm, OO′ =3 cm
+As, OO OB O A′ ≠ + ′
+So, circle does not touch each other
+externally.
+Also, OO OB O A′ ≠ − ′
+So, circle does not touch internally,
+hence they intersect each other at two
+distinct points.
+28. (a) Join ED, then
+∠ = ∠ = °DEC ACD 50
+[angle in alternate segment]
+∠ = ∠ = °EDC BCE 50
+[angle in alternate segment]
+∴ ∠ = ∠DEC EDC
+So, CD CE=
+29. (b)
+The locus of the centre of the front
+wheel of the cycle is a line parallel to the
+path of the wheel of the bicycle at a
+height d / 2 cm.
+30. (c) /c81 ∠ = ∠OAC OCA
+[angle opposite to equal sides]
+∴ 2 80∠ = °OAC
+[external angle of ∆ OAC ]
+∠ = ° = °OAC 80
+2
+40 ⇒ x = °40
+Hence, the value of x is 40°.
+31. (a) Since, the direct common tangents of
+two circles divides the line joining their
+centres externally in the ratio of their
+radii. Here, both the circles being of
+equal radii. Hence, their ratio is 1 : 1.
+32. (a) Let AB = 9 cm, BC = 7 cm,
+AC = 6 cm
+Let x, y zand be
+radii of circles with
+centre A B C, , .
+x + =y 9 …(i)
+y z+ = 7 … (ii)
+and z + =x 6 …(iii)
+On adding Eqs. (i), (ii) and (iii), we get
+2 22( )x + + =y z
+⇒ ( )x + + =y z 11 …(iv)
+On putting x + =y 9 in Eq. (iv), we get
+9 11+ =z ⇒ z = 2 cm
+On putting value of z in Eq. (ii), we get
+y + =2 7 ⇒ y = 5
+Again, putting value of y in Eq. (i), we
+get
+x + =5 9 ⇒ x = 4 cm
+So, radii are 4 cm, 5 cm and 2 cm.
+33. (b) ∠ = °QRS 90 [angle in semi-circle]
+and ∠ = ∠ = °QRP QSR y
+[angle in alternate segments]
+Also, ∠ = + °PRS y 90
+In ∆ PRS,
+∠ + ∠ + ∠ = °SRP RPS PSR 180
+[/c81sum of all angles of triangle is 180°]
+⇒ ( )90 180+ ° + ° + ° = °y y x
+⇒ x + ° = °2 90y
+34. (a) A line perpendicular to the given
+line, passing through the given point is
+the required locus.
+303MATHEMATICS Circle
+B
+O´O C
+A
+A B
+P
+90°
+B
+O´O
+A
+B
+A
+C
+50°50°
+DE
+B
+C
+A
+O ´O D
+A
+B C
+z
+xx
+y
+y z
+O
+P T
+R
+S
+Q
+x
+y
+d/2
+O
+
+=== PDF PAGE 509 (PRINTED PAGE 304) ===
+304 CDS Pathfinder
+35. (c) Given, OA = 3 cm and AC = 3 cm
+and OA OC= = 3 cm (radius of a circle)
+In ∆ AOC , all sides are equal.
+∴∆ AOC , is an equilateral triangle
+⇒ ∠ = ° AOC 60
+Hence, ∠ = ∠ABC AOC1
+2
+[Angle subtended by an arc at the
+centre is double the angle subtended
+by it at any point on the circle]
+= ° = °60
+2
+30
+36. (c) From figure, length of the transverse
+common tangent of these circles
+= −
+(distance between the centres
+of circles) (sum2 of radius) 2
+= − +10 4 5 3 52 2 ( . . ) = − 10 82 2
+= − ( )100 64 = = 36 6 cm
+37. (c)
+In equilateral triangle, angle bisector
+and median are same
+∴
+CX BX BC= = =
+2
+5
+2
+cm
+In ∆ CXA, cos30° = AX
+AC
+⇒
+3
+2 5
+= AX
+⇒ AX = × =3
+2
+5 5 3
+2
+cm
+AY BCand are the chord of circle.
+∴ AX XY BX XC⋅ = ⋅
+⇒ 5 3
+2
+5
+2
+5
+2
+⋅ = ⋅XY ⇒ XY = 5
+2 3
+∴ AY AX⋅ = + 
+ 
+ ×5 3
+2
+5
+2 3
+5 3
+2
+= 25 cm 2
+38. (b)
+l is the common tangent of two circles
+Then, ∠ = ∠1 4 and ∠ = ∠5 8
+[angle in alternate segment]
+But ∠ = ∠4 5 [opposite angles]
+∴ ∠ = ∠ 1 8
+Similarly ∠ = ∠2 7
+But these are alternate angles
+⇒ AD BC|| ⇒ ACBD is a trapezium.
+39. (c) We know that, two
+tangents drawn from
+an external point to a
+circle are equal in
+length.
+∴ AP AS= …(i)
+BP BQ= …(ii)
+CR CQ= …(iii)
+DR DS= …(iv)
+On adding Eqs. (i), (ii), (iii) and (iv), we
+get
+( ) ( )AP BP CR DR+ + +
+= + + +( ) ( )AS DS BQ C Q
+⇒ AB CD AD BC+ = +
+40. (a) If a secant to a
+circle intersect
+circle at points
+A Band and PC
+is a tangent to
+circle, then
+PC PA PB2 = ×
+which is equivalent to saying that area of
+rectangle with PA PBand as sides is
+equal to the area of square with PC as
+sides.
+41. (b) Given, ∠ = °BAD 60
+and ∠ = °ADC 105
+As ABCD is a cyclic
+quadrilateral
+∴ ∠ = ∠DCP BAD = °60
+and∠ + ∠ADC CDP
+= °180 [linear line]
+⇒ 105 180°+∠ = °CDP
+⇒ ∠ = ° CDP 75
+In ∆ CPD,
+∠ + ∠ + ∠ = °DCP CDP DPC 180
+[by angle sum property of a triangle]
+⇒ 60 75 180° + ° + ∠ = ° DPC
+⇒ ∠ = ° − ° = °DPC 180 135 45
+42. (d) ∠ = °PRQ 90 as angle in a semi-circle
+is 90°.
+Since, OR is a bisector of ∠ PRQ.
+∴ ∠ = ∠ = °PRO ORQ 45
+Also, OP OR= [radius]
+∴ ∠ = ° OPR 45
+in ∆ ORS , OR OS=
+⇒ ∠ = ∠ ORS OSR
+in ∆ ORS , by angle sum property
+of a triangle,
+∠ + ∠ + ∠ = °ORS OSR ROS 180
+2 180 44∠ = °− °ORS
+2 136∠ = °ORS
+∴ ∠ = ∠ ORS OSR
+= ° = °136
+2
+68
+∴ ∠ = ° − ° = °MRS 68 45 23
+⇒ ∠ = ° + ° = °PRS 90 23 113
+By properties of cyclic quadrilateral,
+∠ + ∠ = °PRS PQS 180
+⇒ ∠ = ° − °PQS 180 113 = °67
+in ∆ PTQ,
+∠ + ∠ + ∠ = °QPT PQT PTQ 180
+[by angle sum property of a triangle]
+⇒ ∠ = ° − ° − ° = °PTQ 180 45 67 68
+∴ ∠ = ∠ RTS PTQ = °68
+43. (b) Since, ∠ = ∠ = °ADB AOB1
+2
+50
+In ∆ DPA, by angle sum property of a
+triangle
+∠ + ∠ + ∠ = °DAP ADP DPA 180
+⇒ 30 50 180° + ° + ∠ = ° DPA
+⇒ ∠ = ° DPA 100
+Also, DPB is a straight line,
+∴ ∠ + ∠ = °DPA APB 180
+⇒ ∠ = ° − ° APB 180 100 = °80
+3.5 cm
+4.5 cm
+10 cm O ´
+O
+A
+B
+A
+Y
+BC 5
+2
+5
+2
+5 cm
+5 cm
+X
+30° 30°
+B
+C
+D
+A
+1
+2
+3
+46
+7
+8
+l
+5
+T
+Q
+S
+R
+P
+O
+45°
+44°
+45°
+M
+RD C
+Q
+BPA
+S
+B
+A
+P C
+BA
+C
+P
+D
+105°
+60°
+B
+A
+O
+M C
+θ
+E
+CD
+P
+BA
+O30°
+100°
+
+=== PDF PAGE 510 (PRINTED PAGE 305) ===
+305MATHEMATICS Circle
+44. (b) In ∆ OED,
+[by pythagoras theorem]
+( ) ( ) ( )OD DE EO2 2 2= +
+⇒ ( ) ( ) ( )5 32 2 2= +DE
+⇒ ( )DE 2 25 9 16= − =
+⇒ DE = 4 cm
+45. (a) Given, PO = 10 cm, OT = 6 cm and
+PB = 5 cm
+In right angled ∆ OTP ,
+( ) ( ) ( )OP PT OT2 2 2= +
+⇒ ( ) ( )10 62 2 2= +PT
+⇒ PT 2 100 36= − ⇒ PT 2 64=
+⇒ PT = 64
+∴ PT = 8 cm
+By using theorem of circle,
+( )PT PB PC2 = ×
+⇒ 8 52 = × + ( )BC PB
+⇒ 64 5 5= +( )BC ⇒ 5 39BC =
+∴ BC = 7 8 .cm
+46. (c) Given, ∠ = °AOB 46 ,
+∴ ∠ = ∠ACB AOB1
+2
+= × ° = °1
+2
+46 23
+[angle subtended on the circumference
+is half of the angle subtend on centre.]
+In ∆ MCB,
+∠ + ∠ + ∠ = °C B BMC 180
+[by angle sum property of a triangle]
+⇒ 23 90 180° + ∠ + ° = °B
+⇒ ∠ = ° B 67
+47. (b) We know that, the tangents drawn to
+the circle from a point outside the circle
+are always equal.
+∴ BQ BR= = 27 cm
+⇒ RC BC BR= −
+= − =38 27 11 cm
+∴ RC CM= = 11 cm
+Now, DM = −25 11 = 14 cm
+∴ ST DM= = 14 cm
+48. (d) We know that, the sum of opposite
+angles in a cyclic quadrilateral is always
+180°.
+∠ + ∠ = °ACQ APQ 180
+⇒ 75 180° + ∠ = °APQ
+⇒ ∠ = ° − °APQ 180 75 = °105
+Since, ∠ + ∠ = °APQ BPQ 180
+[linear pair]
+∴ 105 180° + ∠ = °BPQ
+⇒ ∠ = ° − °BPQ 180 105 = °75
+Since, ∠ ACQ is an exterior angle of
+∆ RCQ.
+∴ ∠ = ∠ + ∠ACQ CRQ CQR
+⇒ 75 30° = ° + ∠ CQR
+⇒ ∠ = ° CQR 45 = ∠ PQB
+[vertically opposite angles]
+In ∆ BPQ,∠ + ∠ + ∠ = °B P Q 180
+[by angle sum property of a triangle]
+⇒ ∠ + ° + ° = °B 75 45 180 ⇒ ∠ = °B 60
+49. (d)
+In ∆ CAB, 45 180°+∠ + ∠ = °x y
+[by angle sum property of triangle]
+⇒ ∠ + ∠ = °− ° = °x y 180 45 135 …(i)
+∠ = ∠x AQP and ∠ = ∠y BQP
+[angles in alternate segment]
+∴∠ = ∠ + ∠AQB AQP BQP
+= ∠ + ∠ = °x y 135
+50. (b) We know that, the sum of opposite
+angles of a cyclic quadrilateral is always
+180°.
+∴ ∠ + ∠ = °B D 180
+⇒ 100 180+ ∠ = °D ⇒ ∠ = °D 80
+∴ ∠ = ∠ = °ACP PAC 80
+[by theorem of alternate interior
+segment]
+In ∆ PAC ,
+∠ + ∠ + ∠ = °P PAC PCA 180
+[by angle sum property of a triangle]
+⇒ ∠ + ° + ° = °P 80 80 180
+⇒ ∠ = ° − ° = °P 180 160 20
+51. (b) Since, the length of tangents from an
+external point to a circle are equal
+∴ CR CS= = 27 cm
+∴ BR BC CR= − = − =( ) 38 27 11 cm
+⇒ BQ BR= = 11 cm
+join OQ, then PAQO is a rectangle.
+∴ AQ PQ= = 10 cm
+So, AB AQ BQ= + = +( ) ( ) 10 11 = 21cm
+52. (b) Given, ∠ = °BAX 70
+and ∴∠ = °BEA 70
+[angles in alternate segment]
+Since, AQBE is a cyclic quadrilateral.
+∴ ∠ + ∠ = ° AEB AQB 180
+⇒ ∠ = ° − ° = °AQB 180 70 110
+In ∆ ABQ,
+∠ + ∠ + ∠ = °ABQ BAQ AQB 180
+⇒ ∠ = °− ° + °ABQ 180 40 110( )
+= °− °180 150 = °30
+C
+A B E
+D
+O
+5 cm
+5 cm
+3 cm2 cm
+O
+C
+B
+P
+T
+O
+CM
+BA
+46°
+90° 90°
+T
+A
+Q
+R
+CD
+B
+M
+S
+27 cm
+38 cm
+30°
+C75°
+QB
+P
+A
+R
+Q
+BA
+C
+45°
+x P y
+100°P D
+A
+C
+B
+Y X
+B
+Q
+E
+O
+A
+40°
+70°
+
+=== PDF PAGE 511 (PRINTED PAGE 306) ===
+53. (a) We know that, the angles in the same
+segment of a circle are equal.
+∴ ∠ = ∠ = °XBY XAY 45
+In ∆ BXY , by angle sum property of a
+triangle
+∠ + ∠ + ∠ = °BXY XBY BYX 180
+⇒ 50 45 180° + ° + ∠ = ° BYX
+[/c81∠ = °BXY 50 ]
+⇒ ∠ = ° − °BYX 180 95 = °85
+54. (a) In right angled ∆ OPB,
+[by pythagoras theorem]
+OB OP BP2 2 2= +
+⇒ ( ) ( )15 122 2 2= + BP
+⇒ 225 144 2− = BP
+⇒ ( )BP 2 81= ⇒ BP = 9 cm
+and in right angled ∆ AOP, by
+pythagoras theoram,
+( ) ( ) ( )OA OP AP2 2 2= +
+⇒ ( ) ( ) ( )20 122 2 2= + AP
+⇒ ( )AP 2 400 144 256= − =
+⇒ AP = 16 cm
+Hence, AB AP BP= − = − = 16 9 7 cm
+55. (b) Given, x
+3 4 5
+= = =y z k [say]
+∴ x = 3k, y k= 4 and z k= 5
+Since, ∠ = ∠ =DCQ BCP k 3
+[vertically opposite angle]
+In ∆ DCQ, by angle sum property of a
+triangle
+∠ = ° − + = ° −CDQ k k k180 3 5 180 8( )
+By properties of cyclic quadrilateral,
+∠ = ∠ = ° −CDQ CBA k 180 8
+⇒ ∠ = PBC k 8
+In ∆ PBC , by angle sum property of
+a triangle
+∠ + ∠ + ∠ = °P B C 180
+∴ 4 8 3 180k k k+ + = °
+⇒ k = °180
+15
+⇒ k = °12
+∴ x = °36 , y = °48 , z = °60
+56. (b) We know that, angle subtended on
+the circumference is half of the angle
+subtended at the centre.
+∠ = ∠AQP AOP1
+2
+= ° = °1
+2
+75 37 5 .
+57. (b)
+Given, OM = 3 cm, OS = 5 cm.
+MS = 4 cm = RM
+{Using pythagoras theorem}
+⇒ RS = 8 cm
+We know that, TS = 1 3 / of RT
+⇒ TS = 1 4 / of RS , if RS = 8 cm
+Then, TS = 2 cm
+Also, RT TS PT TQ× = ×
+[When there are two intersecting
+chords, the product of the segments of
+one chord is equal to the product of
+the segments of other.]
+⇒ 6 2× = × PT TQ
+⇒ PT TQ× = 12
+Now, by AM GM≥ inequality,
+( ) / ( )PT TQ PT TQ+ ≥ × 2
+( ) /PT TQ+ ≥ 2 12
+⇒ PT TQ+ ≥ 2 12 ⇒ ≥PQ 2 12
+or PQ ≥ 4 3
+∴ Minimum PQ = 4 3
+58. (a) When 2 chords AB and CD intersect
+at P then
+AP × PB CP PD= ×
+Hence,
+4 6 3× = × PD, Thus,
+PD = 8 cm
+Now AB AP PB= +
+= 10 cm
+and CD CP PD= +
+Thus, CD = 11 cm
+Consider the circle with center O.
+Drop a perpendicular from O to chord
+AB and CD. This will bisect the chords
+at X and Y .
+∴ AX AB= =
+2
+5 cm
+and YD CD= =
+2
+11
+2
+cm
+Now, PX AX AP= − = − ( )5 4 = 1 cm
+OY PX= = 1 cm
+[/c81PXOY is a rectangle]
+In right triangle OYD
+OD OY YD= + 2 2
+[by pythagoras theorem]
+= + 
+ 
+1 11
+2
+2
+2
+= 5 5
+2
+cm
+59. (a) In the figure,
+Let ∠ = °POX x , ∠ = °ROP y
+∠ = ∠ =POX PQO x
+and ∠ = ∠ = °+ °ROX RSO x y
+[angles in alternate segment]
+Now, in ∆ SQO RSO,∠ is the exterior
+angle
+∴ ∠ + ∠ = ° + °SQO SOQ x y
+⇒ x SOQ x y+ ∠ = ° + °
+⇒ ∠ = = ∠ SOQ y ROP
+60. (b)
+Assume that the radius of C r4 = and
+PQ k=
+Now, PR k RQ RO= = =/ 2
+⇒ RS k r= −( / ) 2 , RT k= / 4
+ST k r= +( / ) 4
+Applying pythagoras theorem in
+triangle STR.
+k r k k r
+4 4 2
+2 2 2
++
+ 
+ = 
+ 
+ + −
+ 
+
+⇒ r k PQ= = / /6 6
+61. (c)
+In-radius of equilateral triangle of side
+a a=
+2 3
+,
+Diameter of larger circle = a
+3
+Let us say common tangent PQ touches
+the two circle at R, centre of smaller
+circle is I.
+306 CDS Pathfinder
+A B
+O
+C DP
+5k
+4k
+D
+A
+CP
+Q
+B
+3k
+O
+P
+S
+Q
+TMR
+QS
+R
+P
+O
+X′X
+P T R Q
+O
+S C3
+C1C4C2
+A
+P Q
+B C
+R
+D
+O
+l
+O
+B
+DY
+PC
+X
+A
+
+=== PDF PAGE 512 (PRINTED PAGE 307) ===
+307MATHEMATICS Circle
+Now, PQ is parallel to BC. AR is
+perpendicular to PQ. Triangle PQR is
+also an equilateral triangle and AORID
+is a straight line.
+AD a= 3
+2
+, RD a=
+3
+, AR a a= − 3
+2 3
+AR a a a= − =3 2
+2 3 2 3
+, AR AD= 1
+3
+Radius of smaller circle = 1 3 / radius of
+larger circle
+Radius of smaller circle
+= ⋅ =1
+3 2 3 6 3
+a a
+Area of smaller circle = π r 2
+π πa a
+6 3 108
+2 2
+
+ 
+ =
+Area of triangle
+= 3
+4
+2a
+Ratio = πa a
+2
+2
+108
+3
+4
+: , π : 27 3
+62. (d) I. It is true that the opposite angles
+of a cyclic quadrilateral are
+supplementary.
+II. It is also true that the angle
+subtended by an arc at the centre is
+double the angle subtended by it at
+any point on the remaining part of
+the circle.
+Hence, both statements are individually
+true, but neither statements implies to
+each other.
+63.(c) I. It is clear from the
+figure that points
+Q S R, and are in a
+straight line.
+So, statement I is true.
+II. Since, PQ is parallel to EF .
+∴∠ = ∠PDE DEF [alternate angle]
+Also, ∠ = ∠PDE EFD
+[angle in the alternate segment of
+chord ED]
+∴ ∠ = ∠ DEF DFE
+⇒ ∆ DEF is an isosceles triangle.
+So, statement II is also true.
+Hence, the statement I and II are
+correct.
+64. (d) As, the tangents
+drawn from an
+external point to a
+circle are equal.
+∴ AP AR= …(i)
+BQ BP= …(ii)
+and CR QC= ...(iii)
+On adding Eqs. (i), (ii) and (iii), we get
+AP BQ CR+ + = + + BP QC RA
+and perimeter of
+∆ ABC AB BC CA= + +
+= + + +( ) ( )AP PB BQ QC
++ +( )CR RA
+= + + +( ) ( )AP BQ BQ CR
++ +( )CR AP
+= + +2 ( )AP BQ CR
+∴ AP BQ CR+ + = 1 2 /
+[perimeter of ∆ ABC ]
+Hence, the statement I and II are correct.
+65. (d) I. Consider the possibility that M
+could be the
+centre of the
+circle, We know
+this could be
+true because M
+being the center
+point of the
+circle would make line XM and
+YM radii of the circle, which would
+mean that they are equal.
+II. The statement presents us with the
+possiblity that
+point M lies
+somewhere on
+the arc of XY .
+Well, if point
+M rested exactly
+halfway
+between X and
+Y , then straight lines drawn from X
+to M and Y to M would certainly be
+equal.
+III. The statement presents us with the
+possibility that M lies somewhere
+outside of the circle. If two tangents
+are drawn from point M at X and Y
+they will be equal.
+Hence, the statement I, II and III are
+correct.
+66. (d) I. Circle is a locus of points which are
+equidistant from a fixed point.
+II. Let C1 be a fixed circle and C 2 be
+moving circle then locus of centre of
+C 2 is also a circle.
+III. There does not exists any point
+which is equidistant from three
+distinct points on a line.
+IV. If P lies on bisector of ∠ B then P is
+equidistant from AB and BC also, P
+lies on bisector of ∠ C .
+⇒ P is equidistant from BC and CD
+⇒ P is equidistant from AB and CD.
+Hence, I, II, and IV are correct statement.
+67. (d) I.
+So, the square is not cyclic.
+II.
+Square has less area than circle.
+III. From the above figure it is clear that
+the diameter of circle is equal to the
+diagonal of square. ⇒
+2 2r a=
+IV.
+So, it is possible that the sides of square
+is equal to diameter of circle.
+Hence statement II, III and IV are
+correct.
+68. (c) We observe that the arc BC makes
+∠ =BOC z at the centre and ∠ =BAC x
+at a point on the circumference.
+∴ z x= 2
+In ∆ OBC , we have
+∠ + ∠ + ∠ = °OBC OCB BOC 180
+⇒ y z y+ + = ° 180
+⇒ z y+ = °2 180 ⇒ 2 2 180x y+ = °
+⇒ x y+ = ° 90
+⇒ ∠ + ∠ = °BAC OBC 90
+R
+S
+P
+Q
+l
+P
+Q
+D
+E
+F
+A
+P
+B C
+R
+Q
+X
+Y
+M
+X
+Y
+M
+X
+Y
+M
+O
+C2
+C1
+A D
+B C
+B C
+A D
+r
+r
+a
+A B
+D C
+
+=== PDF PAGE 513 (PRINTED PAGE 308) ===
+308 CDS Pathfinder
+69. (a) In ∆ OBC , we have
+∠ + ∠ + ∠ = °OBC OCB BOC 180
+⇒ y y t+ + = ° 180 ⇒ t y= ° −180 2
+Now,z t= °−360 ⇒ z y= °− °−360 180 2( )
+⇒ 2 180 2x y= °+ ⇒ 2 2 180x y− = °
+[ ]/c81z x= 2
+⇒ x y− = ° 90
+⇒ ∠ − ∠ = °BAC OBC 90
+70. (b) In right angled ∆ OTQ ,
+OT OQ TQ2 2 2= +
+⇒ ( ) ( ) ( )13 52 2 2= + TQ
+⇒ TQ2 169 25 144= − = ⇒ TQ = 12cm
+In right angled ∆ TEB,
+TB EB TE2 2 2= +
+/c81( )EB BQ=
+⇒ ( )12 2 2 2− = +x BQ TE
+⇒ 144 24 82 2 2+ − = +x x x ( )
+⇒ 144 24 642 2+ − = +x x x
+⇒ 24 80x = ⇒ x = =20
+6
+10
+3
+cm
+∴ AB EB= 2 = 2x = ×2 10
+3
+= 20
+3
+cm
+Hence, the length of AB is 20
+3
+cm.
+71. (b) The locus obtained is the
+circumference of the circle concentric
+with the given circle and having radius
+equal to the distance of the chords from
+the centre.
+72. (c) Statements I and II are both correct,
+because the locus of points which are
+equidistant from two parallel lines is a
+line parallel to both of them and lie mid
+way between them.
+Also, it is true that the perpendicular
+distances of any point on this locus line
+from two original parallel lines are equal.
+further, no point outside this locus line
+has this property.
+73. (d) Since, secants LA and BN are
+intersecting at an exterior point M, then
+LM AM BM NM× = ×
+⇒
+MA
+MB
+MN
+LM
+= < 1
+74. (b) The perpendicular bisector of the
+chord of a circle always passes through
+the centre. So, statement I is wrong.
+The angle in a semi-circle is a right
+angle. So, statement II is correct.
+75. (d) Here, CA CD CB= = = 25 cm
+and DP = 18 cm
+In right angled ∆ ACP,
+CP CD PD= − = − 25 18 = 7cm
+Now, AC CP AP2 2 2= +
+[by pythagoras theorem]
+∴
+AP AC CP= − = − 2 2 2 2 25 7( ) ( )
+= − 625 49 = 576 = 24 cm
+Similarly, PB = 24 cm
+∴ AB AP PB= + = + = 24 24 48 cm
+76. (c) When two chords of a circle are
+intersect internally, then they are divided
+in a proportion.
+i.e. PX PY PZ PT⋅ = ⋅
+In ∆ PXZ and ∆ PTY, ∠ = ∠ZPX YPT
+[vertically opposite angles]
+∠ = ∠PZX PYT
+[angles in same segment]
+∠ = ∠PXZ PTY
+[angles in same segment]
+∴ ∆ ∆ PXZ PTY~
+Hence, the both statements are correct.
+77. (a) In ∆ ABC , AB BC AC= =
+Hence, ∆ ABC is equilateral triangle.
+Let r be the radius of incircle and R be
+the radius of circumcircle.
+Now, radius of incircle,
+r = =side
+2 3
+AB
+2 3
+and radius of circumcircle,
+R AB= =side
+3 3
+So, the required ratio = =R
+r
+AB
+AB
+/
+/
+3
+2 3
+= 2
+1
+= 2 1 :
+78. (b) I. AB and CD are chords when
+produced meet externally at P.
+∴ AP BP CP DP× = ×
+II. Since, ABDC is a cyclic quadrilateral
+∠ = ∠PAC PDB
+and ∠ = ∠PCA PBD
+Also, ∠ = ∠APC BPD [common]
+∴ ∆ ∆PAC PDB~
+So, statement II is true.
+79. (c) Let OA r= be the inradius of circle.
+Then, circumradius = =OB r 2
+We know that, inradius is the
+perpendicular distance of centre O from
+side of triangle and circumradius OB
+bisect ∠ B. Again, let ∠ OBA = θ
+In right angled ∆ OAB,
+sinθ = =OA
+OB
+r
+r2
+⇒
+sin sinθ = = °1
+2
+30 /c81sin30 1
+2
+° =
+
+
+
+∴ θ = ° 30
+Then, ∠ = × = × ° = °B 2 2 30 60θ
+Hence, given triangle is an equilateral
+triangle.
+T
+O
+P
+A
+12 − x
+13 cm
+5 m
+5 m
+x
+x
+B
+Q
+E
+A
+B
+C
+D
+X
+Y
+X´
+Y ´
+Z Z ´
+A O
+L
+B
+N
+M •
+A BP 18 cm
+25 cm
+D
+C
+Z
+X
+Y
+T
+P
+O
+B CR
+A
+r
+A
+B
+D
+P
+C
+O
+A
+B θθ 2r
+r
+•
+
+=== PDF PAGE 514 (PRINTED PAGE 309) ===
+309MATHEMATICS Circle
+80. (d) Let O be the centre of circle and AB
+be the chord of an arc. According to the
+question,
+Length of chord AB = x, Radius of
+circle = =OA z
+and height of arc MN y=
+Now,
+AM MB AB= = =
+2 2
+x
+[Perpendicular from the centre to a
+chord bisects the chord]
+and OM ON MN= −
+= −z y [ /c81ON = z (radius)]
+In right angled ∆ OMA ,
+OA OM AM2 2 2= +
+[by pythagoras theorem]
+⇒ z z y2 2
+2
+2
+= − + 
+ 
+( ) x
+⇒
+z z y yz2 2 2
+2
+2
+4
+= + − + x
+[/c81( )a b a b ab− = + −2 2 2 2 ]
+⇒ 2
+4
+2
+2
+yz y− = x ⇒ 4 2 2 2( ) yz y− = x
+⇒ 4 2 2y z y( ) − = x
+81. (c) Given, AB and AC are the tangents
+of the circle.
+and OB OC= [radius of circle]
+∴ ∠ = ∠ = ° B C 90
+[radius is perpendicular to the tangent]
+In quadrilateral ABOC ,
+∠ + ∠ + ∠ABO OCA BAC
++∠ = °BOC 360
+⇒ 90 90° + ° + ∠ + ° = °BAC 130 360
+⇒ ∠ = °− ° = °BAC 180 130 50 .
+Hence, the angle between the tangents
+at the ends of the radius is 50 °.
+82. (a) Given, MN = 24 cm and
+AN = =26
+2
+13cm cm
+Now, we draw a perpendicular bisector
+from A to MN, which meets MN at B.
+Then,
+MB BN MN= = = =
+2
+24
+2
+12 cm
+[/c81perpendicular from centre to the
+chord bisects the chord]
+In right angled ∆ ABN ,
+AN AB BN2 2 2= +
+⇒ 13 122 2 2= +AB
+⇒ 169 144 2= +AB
+⇒ AB 2 169 144 25= − =
+⇒ AB = 5 cm
+∴ Radius of the inner circle is 5 cm.
+83. (d) Given, AD = 34 cm and AB = 30 cm
+Let C be a point on AB such that
+OC AB⊥
+⇒ OD OB= = 17 cm
+Also, CB AB= =
+2
+15 cm
+[Perpendicular from centre to the
+chord bisects the chord]
+⇒ OC OB CB= − 2 2 = − 17 152 2
+= − 289 225 = 64 = 8 cm
+84. (d) Since, AP BP= ;DE BD= and AC CE=
+/c81Perimeter of ∆ PCD
+= + +PC PD CD
+= + + +PC PD CE DE
+= + + +( ) ( )PC CE PD DE
+= + + +( ) ( )PC CA PD BD
+= +PA PB = 2PA = × =2 16 32 cm
+85. (c) Given, AB d= is diameter of circle
+and CD intersect AB at P in the ratio 1 : 2.
+∴ AP d=
+3
+and PB d= 2
+3
+⇒ OA OC OB d= = = / 2
+/c81radius of circle 1
+2
+diameter=
+
+
+
+In ∆ OPC ,
+OP OA AP d d d= − = − =
+2 3 6
+Applying pythagoras theorem in ∆ OPC ,
+OC OP PC2 2 2= +
+⇒ d d PC
+2 6
+2 2
+2
+ 
+ = 
+ 
+ +
+⇒
+( )PC d d2
+2 2
+4 36
+= −
+= − =9
+36
+8
+36
+2 2 2d d d
+⇒ PC d d= =2 2
+6
+2
+3
+∴ CD PC d= =2 2 2
+3
+86. (b) 1 1000km m= , 1 dm = 10 m
+/c812 km and 26 dm
+= + =2000 260 2260 m
+Let radius be r m.
+Distance covered in revolution = 2πr
+Distance covered in 452 revolution
+= ×452 2 πr
+/c81452 2 2260× = π r
+∴ r = ×
+× ×
+=2260 7
+452 2 22
+35
+44
+Diameter = × = =2 35
+44
+35
+22
+1 13
+22
+m
+87. (b) Distance covered in 1 revolution
+= =2 0 3 0 6π π( . ) . m m
+/c81Distance covered in 140 revolutions
+= ×140 0 6 . π m
+⇒ Speed the cycle
+= × × ×140 0 6 22
+7
+60. / m h
+= 15840 m/h = 15.84 km/h
+88. (a) Let ABCD be cyclic quadrilateral.
+in which ∠ = °A 60 ,
+AB = 2 cm, AD = 5 cm
+Since, ∠ + ∠ = °A C 180
+[property of cyclic quadrilateral]
+⇒ 60 180° + ∠ = °C
+⇒ ∠ = ° − ° = °C 180 60 120
+In ∆ ABD, let BD xbe cm.
+cos 60 2 5
+2 2 5
+2 2 2
+° = + −
+× ×
+x
+[by cosine formula]
+⇒ 1
+2
+4 25
+2 2 5
+2
+= + −
+× ×
+x ⇒ 29 10 2− =x
+⇒ x 2 29 10= − ⇒ x 2 19=
+Again, in ∆ BCD,
+cos 120 3
+2 3
+2 2 2
+° = + −
+× ×
+y x
+y
+[by cosine formula]
+Let length of fourth side of cyclic
+quadrilateral be y cm.
+⇒
+− = + −
+× ×
+1
+2
+9 19
+2 3
+2y
+y
+[ ]/c81x 2 19=
+⇒ − = + −3 9 19 2y y
+A
+O
+B
+N
+M
+z
+y
+A
+C
+B
+O130°
+P d
+A B O
+C
+D
+5 cm
+D C
+BA
+2cm
+3 cm
+x cm
+y cm
+M
+A
+N
+24 cm
+13 cm
+B
+
+=== PDF PAGE 515 (PRINTED PAGE 310) ===
+310 CDS Pathfinder
+⇒ y y2 3 10 0+ − =
+⇒ y y y2 5 2 10 0+ − − =
+⇒ y y y( ) ( )+ − + =5 2 5 0
+⇒ ( ) ( )y y+ − =5 2 0
+⇒ y + =5 0 or y − =2 0
+∴ y 2 cm=
+89. (c) Since, two
+circles touch each
+other externally if
+distance between
+their centres =
+Sum of their radii
+O O r a
+1 2 2
+= + and O2 M a r= −
+O M a
+1 2
+=
+In right O MO1 2
+( ) ( ) ( )O O O M O M1 2
+2
+1
+2
+2
+2= +
+⇒ r a a a r+
+ 
+ = + −
+2 4
+2 2
+2( )
+⇒ 3r a=
+∴
+r a=
+3
+90. (c) Since, OP is tangent to the circle
+OP PC⊥ .
+Here, ∆ OPC is right angled triangle
+with ∠ = °P 90
+( ) ( )OC = + =3 4 5
+2 2
+units
+∴ sin ( )∠ =COP 3
+5
+.
+91. (d) In ∆ ABC ,
+AB AC= i.e.
+∆ ABC is
+isosceles
+triangle.
+If L is the locus
+of points X
+inside or on the
+triangle, such that BX CX= . Then, L is
+a straight line passing through A.
+As, AX is bisecting the line BC, then it
+passes through the centroid.
+As, AB AC= in ∆ ABC , then AX is
+perpendicular to BC , hence it passes
+through the orthocentre.
+In ∆ ABC , AB AC= and AX BC⊥ . So,
+AX is angle bisector of ∠ A, hence it
+passes through the incentre. Hence, all
+statements are correct.
+92. (b) Given, radius of a circle = 2 unit
+∴
+CP PD CD= = = =
+2
+2
+2
+1unit
+Now, OP OD PD= − 2 2
+= − =4 1 3 units
+∴ AP AO OP= + = +( )2 3 units
+93. (c) In the given figure, OP and OQ are
+tangents to the circle with centre C .
+Then, OP OQ= and
+∠ = ∠ = °CPO CQO 90
+I. We have, OR SQ OS RP× = ×
+⇒ ( )OP RP SQ− ×
+= − ×( )OQ SQ PR
+⇒ ( )OP RP SQ− ×
+= − ×( )OP SQ PR
+⇒ SQ PR= ⇒ OR OS=
+Hence, statement I is correct.
+II. /c81 ∆ ∆OPC OCQ≅
+In ∆ OPC , 90 1 180° + + ∠ = °x
+⇒ x + ∠ = °1 90
+⇒ ∠ + ∠ = + ∠ = °POC QCO x 1 90
+Hence, statement II is correct.
+94. (a) We have, MP = 24 cm,
+OQ OR= = 7 cm
+and QP PR QR= = = =
+2
+2
+2
+1
+I. In ∆ OPQ,
+OP OQ QP= − 2 2
+= − = =49 1 48 4 3 cm
+In ∆ OMP, OP PM OM2 2 2= +
+⇒ OM = − =48 24 24 cm
+So, OM PM= = 24 cm
+∴ ∠ = ∠ = °OPM POM 45
+Now, ∠ = ° + ∠QPD OPM90
+= °+ ° = °90 45 135
+Hence, statement I is correct.
+II. Now, if CP m= and PD n= ,
+then QP PR CP PD× = ×
+⇒ 1 1× = × m n ⇒ mn = 1
+Also, CM MD=
+⇒ CP PM PD PM+ = −
+⇒ m n+ = −24 24
+⇒ n m− = 2 24
+∴ m n m n mn+ = − + ( ) 2 4
+= + =96 4 10
+So, statement II is also true
+III. ar
+ar(
+( )
+)
+∆
+∆
+OPR
+OMP
+OP PR
+OM PM
+=
+× ×
+× ×
+1
+2
+1
+2
+= ×
+×
+=4 3 1
+24 24
+1
+2 3
+So, statement III is not true.
+Hence, the statement I, II are correct.
+95. (c) From the given circle,
+AP BP CP PD× = × …(i)
+Given that, A P AP′ ′= ,
+B P BP′ ′= , C Q CP′ ′= and D Q DP′ ′=
+Now,
+ar (
+ar
+∆ A P B
+C Q D
+A P P B
+C Q Q D
+′ ′ ′
+∆ ′ ′ ′
+=
+× ′ ′× ′ ′
+× ′ ′× ′ ′
+)
+( )
+1
+2
+1
+2
+= ×
+×
+AP BP
+CP DP
+= ×
+×
+=AP BP
+AP BP
+1 [using (i)]
+∴ A P B′ ′ ′ and C Q D′ ′ ′ are triangles of
+same area.
+So, statement III cannot be false.
+Hence, only (c) is correct option.
+O 4 P
+3
+C
+A B
+C
+D
+PO
+P
+R
+O
+S
+Q
+C x
+x
+1
+D
+R
+C
+PQ
+M
+O
+D
+B
+C
+A
+P
+A
+B C
+X
+A M B
+a/2
+r
+O1
+O2

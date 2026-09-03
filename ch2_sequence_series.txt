@@ -1,0 +1,853 @@
+--- PAGE 225 ---
+SEQUENCE
+A set of numbers arranged in a definite order according to som e definite rule is called a sequence.
+e.g. 2, 4, 6, 8, ... is a sequence.
+SERIES
+If a a a1 2 3, , ,... an is a sequence, then the expression a a a1 2 3+ + + ... + an is called the series.
+The series is said to be finite or infinite depending upon the last term is given or not. e.g.
+(i) a a a a n1 2 3, , , . . . , is a finite sequence and is denoted as { }ak k
+n
+= 1.
+(ii) a a a a1 2 3 4, , , , . . is an infinite sequence and is denoted by { }an n =
+∞
+1 or simply { }an .
+Here, a1 is called the first term and in case of finite sequence an is called the last term.
+e.g. 2, 4, 6, 8, … , 100 is a finite sequence.
+1, 2, 3, 4, … is an infinite sequence.
+PROGRESSION
+Sequence following certain patterns are called progressio ns.
+e.g. 2, 3, 4, 5, … is a progression, here each term is increasin g by 1.
+Arithmetical Progression (AP)
+An arithmetic progression is a sequence in which the differe nce between any term and its preceding
+term is constant throughout. The constant ‘ d’ is called the common difference. The first term of an AP
+is represented by ‘ a’.
+20 CDS Pathfinder
+02
+SEQUENCE
+AND□SERIES
+Usually (1-2) questions have been asked from this chapter . Questions are mostly based on
+relation between arithmatic geometric and harmonic mean.
+
+--- PAGE 226 ---
+If an AP has first term = a and common difference = d,
+then the general form of an AP is
+a a d a d a d a n d, , , , . . . , ( )+ + + + −2 3 1
+• nth term of an AP is T a n dn = + −( ) 1 .
+• Sum of the first n terms of an AP is
+S n a n dn = + −
+2
+2 1[ ( ) ] or S n a ln = +
+2
+[ ]
+where, l = last term
+EXAMPLE 1. Find the sum of 11 terms of
+− −7 2 3 8, , , /c75.
+a. 200 b. 198 c. 326 d. 137
+Sol. d. Here, a = −7, l = − + × =7 10 5 43( )
+∴ S n a l
+11 2= +
+ 
+
+= × − +
+ 
+11 7 43
+2
+= × =11 36
+2 198
+Arithmetic Mean (AM)
+When three terms are in AP, then the middle term is
+called arithmetic mean of the other two.
+If a b c, and are in AP, then b is AM of a and c.
+Let a and b be two numbers and M be the AM between
+them. Then, a, M, b are in AP,
+M a b= +
+2
+.
+EXAMPLE 2. Find the arithmetic mean (AM)
+between 3 and 9.
+a. 4 b. 6
+c. 8 d. None of these
+Sol. b. The arithmetic mean is 3 9
+2
+12
+2 6+ = = .
+So, 3, 6, 9 are in AP .
+Geometric Progression
+A geometric progression is a progression of numbers,
+whose first term is non-zero and each of the term is
+obtained by multiplying its preceding term by a
+constant quantity. This constant quantity is called the
+common ratio of the GP.
+Thus, if t ,t t1 2 3 and are in GP, then common ratio
+r t
+t
+= =Second term
+First term
+2
+1
+If ‘a’ is the first term and ‘r’ is the common ratio, then
+GP can be written as a ar ar ar ar a n, , , , , ( )2 3 1 0… = ≠ −
+• n th term of a GP is T ar ln
+n= = −1 .
+[where, l = last term]
+• Sum of the n terms of a GP is S a r
+rn
+n
+= −
+−
+( ) ,1
+1
+if r > 1 and S a r
+rn
+n
+= −
+−
+( )1
+1
+, if r < 1.
+• Sum of infinite terms of a GP is S a
+rn =
+−1
+.
+Geometric Mean (GM)
+If three terms are in GP, then the middle term is called
+the geometric mean of the other two. If a b c, and are in
+GP, then b is the GM of a and c.
+Let a and b be two numbers and G be the GM between
+them. Then, a G b, , are in GP,
+G ab a b= > > , , 0 0 .
+EXAMPLE 3. If the 4th, 10th and 16th terms of a GP
+are x, y and z respectively, then x, ,y z are in
+a. AP b. GP
+c. AGP d. HP
+Sol. b. Let the first term and common ratio be a and r,
+respectively.
+Given, T ar4
+4 1= ⇒ −x = ⇒ =x x ar 3 …(i)
+T y ar y10
+10 1= ⇒ = − ⇒ =ar y9 …(ii)
+T z ar16
+16 1= ⇒ − = ⇒ =z ar z 15 …(iii)
+On multiplying Eq. (i), by Eq. (iii), we get
+ar ar z3 15× = x ⇒ a r z2 18 = x
+⇒ ( )ar z9 2 = x ⇒ y xz2 = [from Eq. (i)]
+Hence, x, andy z are in GP .
+Harmonic Progression (HP)
+A sequence is said to be harmonic progression (HP). If
+the reciprocals of its terms are in arithmetic progression
+(AP).
+e.g. The sequence,
+1 1
+3
+1
+5
+1
+7
+, , , … is an HP because the
+sequence 1, 3, 5, 7 … is an AP.
+If a a a1 2 3, , , . . . , an are in HP, then
+1 1 1 1
+1 2 3a a a a n
+, , , . . . ,
+are in AP.
+• nth term of an HP is T
+a
+n
+a a
+n =
++ − − 
+ 
+
+1
+1 1 1 1
+1 2 1
+( )
+Harmonic Mean (HM)
+If three terms are in HP, then the middle term is called
+the harmonic mean of the other two. If a, b and c are
+in HM, then b is the HM of a and c.
+21MATHEMATICS Sequence and Series
+
+--- PAGE 227 ---
+Let a and b be two numbers and H be the HM between
+them.
+Then, a b c, and are in HP
+∴
+H ab
+a b
+=
++
+2
+Relation□between□Arithmetic,□Geometric
+and□Harmonic□Mean
+Let A, G and H be the arithmetic, geometric and
+harmonic means between a and b, then
+(i) A G H≥ ≥ (ii ) G AH2 =
+EXAMPLE 4. If a b c, , are in AP , p q r, , are in HP and
+ap bq cr, , are in GP, then p
+r
+r
+p+ is equal to
+a. a
+c
+c
+a− b. a
+c
+c
+a+
+d. b
+q
+q
+b+ d. b
+q
+q
+b−
+Sol. b. Since, a b c, , are in AP ⇒ b a c= +
+2 ...(i)
+p q r, , are in HP ⇒ q pr
+p r= +
+2 …(ii)
+and ap bq cr, , are in GP , b q apcr2 2 =
+⇒ a c p r
+p r
+apcr+
+ 
+
++
+
+
+
+
+
+
+
+ =2
+42 2 2
+2( )
+[from Eqs. (i) and (ii)]
+⇒
+( )
+( )
+a c pr
+p r
+ac+
++
+=
+2
+2
+⇒ ( ) ( )a c
+ac
+p r
+pr
++ = +2 2
+⇒ p
+pr
+r
+pr
+a
+ac
+c
+ac
+2 2 2 2
+2 2+ + = + + ⇒
+p
+r
+r
+p
+a
+c
+c
+a+ = +
+Sum□to n Terms□of□Special□Series
+The sum of first n terms of some special series is given
+below
+1. The sum of first n natural numbers
+= ∑ = + + +…+ = +n n n n1 2 3 1
+2
+( )
+2. The sum of square of the first n natural numbers
+= ∑ = + +…+ = + +n n n n n2 2 2 21 2 1 2 1
+6
+( )( )
+3. The sum of cubes of the first n natural numbers
+= ∑ = + +…+ = +
+
+
+n n n n3 3 3 3
+2
+1 2 1
+2
+( )
+1. If
+3 5 7
+5 8 11 10
+7+ + + +
++ + + +
+=/c76
+/c76
+n
+terms
+, then the value of n
+is
+(a) 35 (b) 36 (c) 37 (d) 40
+2. If sum of n terms of an AP is 3 52n n+ and
+Tm = 164, then m is equal to
+(a) 26 (b) 27 (c) 28 (d) None of these
+3. In a GP, if the ( )m n+ th term be p and ( )m n− th
+term be q, then its mth term is
+(a)
+pq (b) p q/ (c) q p/ (d) p q+
+4. The sum of the first ‘ n’ terms of the series
+1
+2
+3
+4
+7
+8
+15
+16
++ + + + /c76 is
+(a) 2 1n n− − (b) 1 2− − n
+(c) n n+ − −2 1 (d) 2 1n −
+5. An AP consists of n (odd terms) and its middle
+term is m. Then, the sum of the AP is
+(a) 2mn (b)
+1
+2
+mn (c) mn (d) mn2
+6. The sum of 1 2
+5
+3
+5
+4
+52 3+ + + + /c76∞ upto n terms is
+(a)
+25
+16
+(b)
+15
+16
+(c)
+5
+16
+(d) 3
+2
+7. The sum of n terms of an AP is an ( )n − 1 . The
+sum of the squares of these terms is equal to
+(a) a n n2 2 2 1( ) − (b)
+a n n n
+2
+6
+1 2 1( ) ( )− −
+(c) 2
+3
+1 2 1
+2a n n n( ) ( )− − (d) 2
+3
+1 2 1
+2a n n n( ) ( )+ +
+22 CDS Pathfinder
+PRACTICE EXERCISE
+
+--- PAGE 228 ---
+8. If S be the sum to infinity of a GP, whose first
+term is a, then the sum of first n terms is
+(a) S a
+S
+n
+1 −
+ 
+
+(b)
+S a
+S
+n
+1 1− −
+ 
+
+
+
+
+
+
+
+(c)
+a a
+S
+n
+1 1− −
+ 
+
+
+
+
+
+
+
+(d) None of the above
+9. If the non-zero numbers a b c, , are in AP and
+tan ,− 1 a tan , tan− −1 1b c are also in AP, then
+(a) a b c= = (b) b ac2 2=
+(c) a bc2 = (d) c ab2 =
+10.
+1 1 1 1
+b a b c a c−
++
+−
+= + , then a b c, , are in
+(a) AP (b) GP
+(c) HP (d) None of these
+11. The value of x + +y z is 15, if a y z b, , , ,x are in
+AP while the value of
+1 1 1
+x
++ +
+y z
+is 5
+3
+, if a y z b, , , ,x
+are in HP. Then, a and b are
+(a) 1, 9 (b) 3, 7
+(c) 7, 3 (d) None of these
+12. If the mth and nth term of a HP are n and m
+respectively, then the mnth term is
+(a) 0 (b) 1 (c) 2 (d)
+1
+2
+13. If a a a, ,2 2 3 3+ + are in GP, then what is the
+fourth term of the GP?
+(a) − 13.5 (b) 13.5 (c) − 27 (d) 27
+14. If the sum of first ‘ n’ natural numbers is
+n n( ) + 1
+2
+. Then, what will be the sum of first ‘ n’
+terms of the series of alternate positive and
+negative numbers when ‘ n’ is even?
+1 2 3 4 52 2 2 2 2− + − + − /c75
+I. n n( ) + 1
+2 II. n n2 1
+2
+( ) + III. − +n n( ) 1
+2
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only III (c) Only II (d) None of these
+PREVIOUS YEARS QUESTIONS
+15. If A G, and H are the arithmetic, geometric and
+harmonic means between a and b respectively,
+then which one of the following relations is
+correct?
+(a) G is the geometric mean between A and H e 2015 I
+(b) A is the arithmetic mean between G and H
+(c) H is the harmonic mean between A and G
+(d) None of the above
+16. Consider the following statements in respect of
+the expression
+S n n
+n = +( ) 1
+2
+, where ‘ n’ is an
+integer.
+I. There are exactly two values of n for which
+Sn = 861.
+II. S Sn n= − +( ) 1 and hence for any integer m we have
+two values of n for which S mn = .
+Which of these statement(s) is/are correct? e 2016 (I)
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+23MATHEMATICS Sequence and Series
+ANSWERS
+1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16
+HINTS AND SOLUTIONS/CharA0 
+1. (a) /c81
+n n
+2
+2 3 1 2
+10
+2
+2 5 10 1 3
+7
+[ ( ) ]
+[ ( ) ]
+× + −
+× + − ×
+=
+⇒ n n( ) +
+×
+=2
+5 37
+7
+⇒ n n2 2 1295 0+ − =
+⇒ n n n2 37 35 1295 0+ − − =
+⇒ ( ) ( )n n+ − =37 35 0
+∴ n = 35
+2. (b) /c81 T S Sm m m= − − 1
+⇒ 164 3 2 1 5 1= − + ⋅( )m
+⇒ 6 162m =
+∴ m = 27
+3. (a) T ar pm n
+m n
++
++ −= = 1 ,
+T ar qm n
+m n
+−
+− −= = 1
+On multiplying, we get a r pqm2 2 2 − =
+∴ T ar pqm
+m= = − 1
+4. (c) 1
+2
+3
+4
+7
+8
+15
+16
++ + + + ... + n terms
+= −
+ 
+ + −
+ 
+ + −
+ 
+1 1
+2
+1 1
+4
+1 1
+8
++ + − 
+ 
+... 1 1
+2n
+= − + + + +
+ 
+n n
+1
+2
+1
+4
+1
+8
+1
+2
+...
+= − −
+−
+
+ 
+n
+n1
+2
+1 1 2
+1 1 2
+( / )
+/
+= + − −n n2 1
+
+--- PAGE 229 ---
+5. (c) Middle term = +Tn 1
+2
+∴ a n d m+ + −
+ 
+ =1
+2
+1 [given]
+2 1 2a n d m+ − =( ) …(i)
+Now,
+S n a n d nmn = + − =
+2
+2 1[ ( ) ]
+6. (a) The given sequence is arithmetic
+geometric series, where r = 1
+5
+and d = 1
+S a
+r
+dr
+r∞ =
+−
++
+−1 1 2( )
+=
+−
++
+×
+−
+ 
+
+1
+1 1
+5
+1 1
+5
+1 1
+5
+2
+= + =5
+4
+5
+16
+25
+16
+7. (c) Let S an nn = − ( ), 1 then
+S a n nn − = − −1 1 2( )( )
+∴ T S S a nn n n= − = − −1 2 1( )
+T a nn 2 2 24 1= − ( )
+∴ Sum
+= = − −Σ T a n n n
+n
+2 2 4 1 2 1
+6
+( )( )( )
+= − −2 1 2 1
+3
+2a n n n( )( )
+8. (b) Let r be the common ratio of GP ,
+then
+S a
+r
+=
+−1
+, r a
+S
+= −1
+∴ S a r
+r
+a
+r
+rn
+n n= −
+−
+=
+−
+−( ) ( )1
+1 1
+1
+= − − 
+ 
+
+
+
+S a
+S
+n
+1 1
+9. (a) Since, 2b a c= + …(i)
+and 2 1 1 1tan tan tan− − − = +b a c
+⇒
+2
+1 12
+b
+b
+a c
+ac−
+= +
+−
+⇒ b ac2 = [from Eq. (i)]
+⇒ 4 42b ac=
+⇒ ( )a c ac+ − =2 4 0 [from Eq. (i)]
+⇒ ( )a c− = 2 0
+⇒ a c b= =
+10. (c) Given, 1 1 1 1
+b a b c a c−
++
+−
+= +
+⇒ 1 1 1 1
+b a c a b c−
+− = −
+−
+⇒ ( )
+( )
+( )
+( )
+c b a
+c b a
+b c a
+a b c
+− +
+−
+= − −
+−
+⇒ 1 1
+c b a a b c( ) ( )−
+= −
+−
+⇒ ba ca cb ac− = − +
+⇒ ab bc ac+ = 2
+∴ b ac
+a c
+=
++
+2
+Hence, a b c, , are in HP .
+11. (a) /c81a, x, y, z, b are in AP .
+∴ x y z a b+ + = +
+ 
+3
+2
+⇒
+15 3
+2
+= +
+ 
+a b
+⇒ a b+ = 10 …(i)
+Also, a x y z b, , , , are in HP .
+⇒
+1 1 1 1 1
+a x y z b
+, , , , are in AP .
+⇒ 1 1 1 3
+2x y z
+a b
+ab
++ + = +
+ 
+
+⇒
+5
+3
+3 10
+2
+= ×
+ab
+[/c81a b+ = 10]
+⇒ ab = 9
+On solving Eqs. (i) and (ii), we get
+a = 1, b = 9 or b = 1, a = 9
+12. (b) Let a be the first term and d the
+common difference of corresponding
+AP .
+So, m th and nth term of AP are
+1
+n
+and
+1
+m
+.
+∴ 1 1
+n
+a m d= + − ( ) …(i)
+and 1 1
+m
+a n d= + − ( ) …(ii)
+On solving Eqs. (i) and (ii), we get,
+d
+mn
+= 1 and a
+mn
+= 1
+∴ mnth term of AP
+= + − ×1 1 1
+mn
+mn
+mn
+( )
+= + − =1 1 1mn
+mn
+∴ mnth term of HP = 1
+13. (c) a a a, ,2 2 3 3+ + are in GP .
+⇒ ( ) ( )2 2 3 3 2a a a+ = +
+⇒ 4 4 8 3 32 2a a a a+ + = +
+⇒ a a2 5 4 0+ + =
+⇒ a = − −1 4 ,
+Now, a = − 1 does not satisfy the given
+series.
+∴ − − −4 6 9, , are in GP .
+∴ t4
+3
+4 3
+2
+= − 
+ 
+ = − 13 5 .
+14. (b) When ‘ n’ is even.
+Let n m= 2 , then
+= − + − + −1 2 3 4 52 2 2 2 2 /c75
+= − + − + −( ) ( ) ( )1 2 3 4 5 62 2 2 2 2 2
++ + − −/c75 ( ) ( )2 1 2 2 2m m
+= + − + + −( )( ) ( )( )1 2 1 1 3 4 1
++ + − +( )( )5 6 1 /c75
++ − + −( )( )2 1 2 1m m
+= − + + + + +( ... )1 2 3 4 2 m
+= − + =
+− +2 2 1
+2
+1
+2
+m m n n( ) ( )
+15. (a) Given, A, G and H are the arithmetic,
+geometric and harmonic means between
+a and b, respectively.
+∴
+A a b G ab H ab
+a b
+= + = =
++2
+2
+( )
+,
+( ) ( )i ii
+and
+iii
+On multiplying Eq. (i) and (iii), we get
+∴ AH a b ab
+a b
+ab ab= + ×
++
+= =
+2
+2 2( )
+[from Eq. (ii)]
+AH G= 2
+Hence, the option (a) is correct.
+16. (a) I. S
+n n
+n =
++
+=
+( ) 1
+2
+861
+⇒ n n2 861 2 0+ − × =
+⇒ ( ) ( )n n+ − =42 41 0
+⇒ n = − 42 41 ,
+Hence, statement I is correct.
+II. Given, S Sn n
+=
+− +( ) 1
+If S mn = , then we have two values of
+n if and only if m is positive integer.
+Hence, statement II is incorrect.
+24 CDS Pathfinder
+
+--- PAGE 230 ---
+FACTORS
+If number ‘ a’ divides the number b without leaving a remainder, then ‘ a’ is said to be the factor of ‘ b’.
+e.g. (i) 4 is a factor of 16 as 16 4 4= × (ii) 9 is a factor of 729 as 729 9 9 9= × ×
+Prime Factors
+The factors that cannot be again factorized i.e. the factors which are prime numbers are called prime factors.
+e.g. (i) 9 is a factor of 729, but 3 is a prime factor of 729.
+(ii) 8 and 9 are factors of 72, but 2 and 3 are prime factors of 72 .
+Least Common Multiple (LCM)
+1. Common Multiple A common multiple of two or more numbers is a number which is ex actly divisible
+(without leaving remainder) by each of them.
+e.g. 30 is a common multiple of 2, 3, 5, 6, 10 and 15 because 30 is exactly divisible by each number.
+Similarly, 72 is a common multiple of 2, 3, 4, 6, 9, 12 and 18.
+2. Least Common Multiple The least common multiple of two or more given numbers is the l east number
+which is exactly divisible by all the given numbers.
+e.g. 84, 162, 252 are the common multiples of 2, 3, 4, 7. But, 84 is the LCM of 2, 3, 4, 7.
+Methods of Finding LCM
+1. Prime Factorization Method Write down the given numbers as the product of prime factors. Then, the
+LCM is the product of the highest powers of all the prime facto rs.
+25
+03
+HCF AND□LCM OF
+NUMBERS
+Usually (2-3) questions have been asked from this chapter . Generally questions based on LCM and HCF
+are related to traffic lights, racitracks, largest size of tile etc. This concept is also useful in the chapters
+of time and distance, time and work, pipes and cristerns etc.
+

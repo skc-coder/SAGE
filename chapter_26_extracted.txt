@@ -1,0 +1,5950 @@
+
+--- PDF PAGE 516 ---
+Area of the plane figure is the amount of surface enclosed by i ts boundary. It is measured in square
+units. The perimeter of plane figure is total length of the si des enclosing the figure. Unit of Perimeter is
+same as the unit of sides of a given figure.
+SQUARE
+Let each side of a square be a unit.
+(i) Perimeter of square = 4 (Side) = 4a units
+(ii) Diagonal of square = × 2 (Side) = a 2 units
+(iii) Area of square = Side × Side = ( )a 2 sq units = 1
+2
+(Diagonal)2 = 1
+2
+2d sq units
+EXAMPLE 1. The perimeter of a square is 2 2 4 y( )x + . Then, the area is
+a. x x2 2 4 4y y− + b. x 2 2 4y+ c. x 2 2 4y− d. x x2 2 4 4y y+ +
+Sol. d. Here, perimeter of a square = +2 2 4( ) x y
+/c81 Side of a square = Perimeter of a square
+4 ∴ Side of a square = +2 2 4
+4
+( )x y = +x 2y
+/c81 Area of square = ( ) 2Side ∴ Area of square = +( )x 2 2y = + +x x2 2 4 4y y
+EXAMPLE 2. The side of a square exceeds the side of the another square by 4 cm and the sum of
+the areas of the two squares is 400cm 2. The dimensions of the squares are
+a. 8 cm and 12 cm b. 6 cm and 10 cm c. 12 cm and 16 cm d. None of these
+Sol. c. Let the side of a square be x cm. Then, side of another square = +( )x 4 cm.
+Area of first square = x2 2cm and area of second square = +( )x 4 2 cm 2
+According to the question ⇒ x x2 2 4 400+ + =( ) ⇒ x x x2 2 16 8 400+ + + = ⇒ 2 8 384 02x x+ − =
+311
+26
+AREA□AND□PERIMETER
+OF PLANE FIGURES
+Generally (7-9) questions have been asked from this chapter . Generally, questions are asked from
+the topics related to the triangles and circles. Square
+Side ( )aA B
+CD
+a a
+a
+--- PDF PAGE 517 ---
+312 CDS Pathfinder
+x x2 4 192 0+ − = ⇒ x x x2 16 12 192 0+ − − =
+⇒ x x x( ) ( )+ − + =16 12 16 0 ⇒ ( )( )x x− + =12 16 0
+⇒ x − =12 0 or x + =16 0
+∴ x = 12 [side cannot be negative]
+Hence, side of one square = 12 cm and side of another
+square = + =12 4 16 cm
+RECTANGLE
+Let l and b be the length and breadth of a rectangle
+respectively, then
+(i) Area of rectangle = Length × Breadth = ×l b
+(ii) Perimeter of rectangle = 2 (Length + Breadth)
+= +2( )l b units
+(iii) Diagonal of rectangle = +(Length) (Breadth)2 2
+= + l 2 2 b units
+(iv) Area of track (Shaded region) = −( )l l1 1 2 2b b sq units
+EXAMPLE 3. The area of a rectangular plot is 180 m 2.
+If its length is 18 m. Then, its perimeter is
+a. 28 m b. 56 m c. 360 m d. None of these
+Sol. b. Given, area of rectangular plot = 180 m 2
+and length of the plot = 18 m
+∴ Breadth = = =Area
+Length
+180
+18 10 m
+Now, Perimeter of rectangular plot
+= 2 (Length + Breadth) = + =2 18 10 56( ) m
+Hence, the perimeter of rectangular plot is 56 m.
+EXAMPLE 4. The area of the floor of a rectangular
+hall of length 40 m is 960 m 2. Carpets of size 6 m 4 m×
+are available. Then, how many carpets are required to
+cover the hall?
+a. 20 b. 30 c. 40 d. 45
+Sol. c. Given, area of the floor = 960m2
+Area of one carpet = × =6 4 24 m 2
+Number of carpets required
+= Area of the floor
+Area of one carpet = 960
+24 = 40
+Hence, 40 carpets are required to cover the hall.
+EXAMPLE 5. A lawn is in the shape of a rectangle of
+length 60 m and width 40 m. There is a footpath of
+uniform width 1m bordering the lawn. The area of the
+path is
+a. 194 m 2 b. 196 m 2 c. 198 m 2 d. 200 m 2
+Sol. b. Given, length of the outer rectangle = 60 m
+and breadth of the outer rectangle = 40 m
+∴ Area of outer rectangle = × =60 40 2400 m 2
+/c81Width of path = 1m
+∴ Length of the inner rectangle = − + =60 (1 1) 58 m
+Breadth of the inner rectangle = − +40 1 1( ) = 38 m
+∴ Area of the inner rectangle = ×58 38 = 2204 m 2
+Area of the path = [Area of the outer rectangle]
+− [Area of the inner rectangle] = −( )2400 2204
+= 196 m 2
+Hence, the area of the path is 196 m 2.
+QUADRILATERAL
+(i) Let ABCD is a quadrilateral in which DM h= 1 and
+BN h= 2 are perpendiculars on diagonal AC from
+other two vertices B and D, then
+Area of the quadrilateral = ×1
+2
+Diagonal × +( )h h1 2
+= × × +1
+2
+AC DM BN( ) sq units
+(ii) Let d1 and d 2 are two diagonals and θ is angle
+between them, then area of quadrilateral
+= 1
+2
+1 2d d sinθ
+b2 b1l2
+l1
+w
+A B
+D C
+A B
+CD
+Rectangle
+Length ( )l
+Breadth(b)
+Path
+Path
+38 m 40 m
+60 m
+1 mD
+A B
+C
+h1
+h2
+C
+A
+D
+B
+M
+N
+40 m
+4
+6
+D
+A B
+C
+d1
+D
+A B
+C
+d2
+θ
+--- PDF PAGE 518 ---
+EXAMPLE 6. In a quadrilateral ABCD, diagonal
+AC = 44 cm and the length of the perpendicular drawn
+from B and D to AC are 10 cm and 20 cm, respectively.
+The area of the quadrilateral is
+a. 330 cm 2 b. 440 cm 2 c. 550 cm 2 d. 660 cm 2
+Sol. d.
+Area of quadrilateral
+= +1
+2 1 2AC h h( )
+= +1
+2 44 20 10( ) ( )
+= × × =1
+2 44 30 660 cm 2
+Hence, the area of the quadrilateral is 660 cm 2.
+PARALLELOGRAM
+Let adjacent sides of a parallelogram are b and a
+respectively and h is the corresponding altitude (height)
+of side a, then
+(i) Area of the parallelogram = ×(Base Height)
+= ×a h sq units
+(ii) Perimeter of a parallelogram = 2 (Sum of adjacent side)
+= +2( )a b units
+Note Each diagonal of a parallelogram divides it into two triangl es
+of equal area.
+EXAMPLE 7. ABCD is a parallelogram as shown in
+figure, then its area is
+a. 12 cm 2 b. 14 cm 2 c. 15 cm 2 d. 18 cm 2
+Sol. a. Given, base = 3 cm and height = 4 cm
+Area of parallelogram,
+ABCD = Base × height = ×3 4 = 12 cm 2
+EXAMPLE 8. In the parallelogram ABCD, AB = 10 cm.
+The altitude corresponding to sides AB and AD are
+respectively 7 cm and 8 cm. Then, AD is
+a. 8.75 cm b. 8.95 cm c. 9 cm d. 9.25 cm
+Sol. a.Area of parallelogram ABCD
+= Base × Corresponding altitude
+∴ Area of parallelogram
+ABCD AB DM= ×
+= × =10 7 70 cm 2 …(i)
+Also, area of parallelogram
+ABCD AD BN= × = 8AD [/c81BN = 8 cm] …(ii)
+From Eqs. (i) and (ii), 8 70AD =
+∴ AD = =70
+8 8 75 .cm
+RHOMBUS
+Let the length of each sides of a rhombus is a and
+length of both diagonals are d1 and d 2 , then
+(i) Area of rhombus = × ×1
+2
+1 2d d sq units
+(ii) Side of rhombus = +1
+2
+1
+2
+2
+2d d units ⇒ 4 2
+1
+2
+2
+2a d d= +
+(iii) Perimeter of rhombus = ×4 (Side) units
+Note Diagonals of a rhombus bisect each other at right angles.
+EXAMPLE 9. If the length of the diagonal of a
+rhombus is ( )a b+ and its area is a b2 2
+2
+− sq units, then
+the other diagonal is
+a. a b+ b. a b− c. a b−
+2
+d. a b+
+2
+Sol. b. Let second diagonal be d units.
+Given, area of rhombus = a b2 2
+2
+–
+/c81 Area of rhombus = × ×1
+2 1 2d d
+∴
+1
+2 2 1 2
+2 2
+× × =d d a b– ⇒
+1
+2 2
+2 2
+( )a b d a b+ ⋅ = −
+[ ]/c81d a b1 = +
+⇒ ( )a b d a b+ = − 2 2 ⇒
+d a b
+a b
+a b a b
+a b= −
++ = +
++
+( ) ( – )( )
+( )
+2 2
+∴ d a b= −( ) [/c81a b a b a b2 2− = − +( )( ) ]
+MATHEMATICS >□Area□and□Perimeter□of□Plane□Figures 313
+4 cm
+90°
+D C 3 cm
+3 cm BA
+90°
+Base
+b
+a
+Height ( )h
+D
+A B
+C
+44 m
+20 m
+10 cm F CA
+D
+B
+E
+O B
+A
+D
+C
+a a
+aa
+d1
+d2
+10 cm
+MA B
+CD
+N
+7 cm
+8 cm
+--- PDF PAGE 519 ---
+TRAPEZIUM
+Let the length of parallel sides of a trapezium are a and
+b and distance between them is h, then
+Area of trapezium = 1
+2
+(Sum of parallel sides)
+× (Distance between them)
+= + ×1
+2
+( )AB CD h = + ×1
+2
+( )a b h sq units
+EXAMPLE 10. The difference between two parallel
+sides of a trapezium is 4 cm and the perpendicular
+distance between them is 19 cm. Find the lengths
+of the parallel sides, if the area of the trapezium is
+475 cm
+2.
+a. 22 cm and 18 cm b. 25 cm and 21 cm
+c. 29 cm and 25 cm d. 27 cm and 23 cm
+Sol. d. Let the length of the parallel sides of the trapezium
+be a cm and b cm, respectively.
+Then, according to the question, ( )a b− = 4 …(i)
+∴ Area of trapezium = × + ×1
+2 ( )a b h
+1
+2 19 475× + × =( )a b
+⇒
+a b+ = = 950
+19 50
+∴ a b+ = 50 ...(ii)
+On solving Eqs. (i) and (ii), we get a = 27 and b = 23
+Thus, length of parallel sides are 27 cm and 23 cm.
+SCALENE TRIANGLE
+Let the sides of a triangle are a, b, c and h be the
+corresponding altitude to side a, then
+(i) Perimeter of scalene triangle, 2 s a b c= + +( ) units
+(ii) Semi-perimeter of scalene triangle, s a b c= + +
+2
+units
+(iii) Area of triangle = − − −s s a s b s c( )( )( ) sq units
+where, s = a b c+ +
+2
+[Heron’s formula]
+or area of triangle = × ×1
+2
+a h sq units
+(iv) The radius of incircle = 2 ( )Area
+Perimeter
+(v) The radius of circumcircle = abc
+4 ( )Area
+EXAMPLE 11. The area of a triangle whose sides are
+9 cm, 12 cm and 15 cm is
+a. 45 cm 2 b. 54 cm 2 c. 56 cm 2 d. 64 cm 2
+Sol. b. Here a = 9 cm , b = 12 cm and c = 15 cm
+s a b c= + +
+2 = + + =9 12 15
+2 18 cm
+Area of a triangle = − − −s s a s b s c( ) ( ) ( )
+[Heron’s formula]
+= − − −18 18 9 18 12 18 15( ) ( ) ( )
+= × × × =18 9 6 3 54 cm 2
+Hence, the area of a triangle is 54 cm 2.
+RIGHT ANGLED TRIANGLE
+A figure bounded by three straight lines is called a
+triangle.
+Let perpendicular, base and hypotenuse of a right angled
+triangle ( )∆ ABC be p, b and h, respectively, then
+(i) Perimeter of right angled triangle = + +AB BC CA
+= + +( )b p h units
+(ii) Area of right angled triangle
+= ×1
+2
+Base × Altitude
+= × ×1
+2
+b p sq units
+EXAMPLE 12. The base of triangular field is three
+times its altitude. If the cost of cultivating the field at
+50 per hectare be ` 675, then its base and height are
+a. 900 m and 300 m b. 600 m and 300 m
+c. 500 m and 200 m d. None of these
+Sol. a. Area of the triangular field = Total cost
+Rate
+= =675
+50 13.5 hec
+= ×(13.5 10000) m 2 = 135000 m 2 ...(i)
+314 CDS Pathfinder
+A B
+C
+h p
+b
+CD
+A B
+hh
+b
+a
+A
+B C
+c b
+a
+h
+--- PDF PAGE 520 ---
+Let altitude of triangular field be x m
+and base of field = 3x m
+Again, area of the field = × ×1
+2 Base Altitude
+= × ×1
+2 3x x
+= 3
+2
+2x
+...(ii)
+From Eqs. (i) and (ii), we get
+3
+2 135000
+2x =
+∴ x2 135000 2
+3 90000= × = ⇒ x = 300 m
+So, base = = × =3 3 300 900x m
+and altitude = =x 300 m
+EXAMPLE 13. The perimeter of a right triangle is
+12 cm. The hypotenuse is 5 cm. The other two sides
+and area of the triangle are
+a. 3, 4 and 6 cm 2 b. 4, 3 and 12 cm 2
+c. 6, 2 and 6 cm 2 d. None of these
+Sol. a. Let other two sides of a right triangle be a cm and b cm
+such that a b> .
+Given, perimeter of a right angled triangle = 12 cm
+∴ a b+ + = 5 12 ⇒ a b+ = 7 cm …(i)
+Also, by pythagoras theorem,
+a b2 2 25+ =
+Also, ( ) ( ) ( )a b a b a b+ + − = +2 2 2 2 2
+( ) ( ) ( )a b a b a b− = + − +2 2 2 22
+⇒ ( ) ( ) ( )a b− = −2 2 2 25 7 = −50 49 = 1
+∴ a b− = 1 [/c81a b> ]..(ii)
+On solving Eqs. (i) and (ii), we get
+a b= =4 3cm and cm
+∴ Area of triangle = 1
+2 × Base × Altitudes
+⇒
+1
+2 3 4× × = 6 2cm
+ISOSCELES TRIANGLE
+Let sides of an isosceles triangle are a, b and b, then
+(i) Perimeter of isosceles triangle
+= + +a b b = +a b 2 units
+(ii) Area of isosceles triangle
+= − − = −( )( ( )s b s s a a b a 1
+4
+4 2 2 sq units
+where, a = Base and b = Equal sides and
+s = semi− perimeter
+(iii) Area of a right isosceles triangle, in which equal side s
+from a right angle is given by
+Area = 1
+2
+a 2 sq units
+(iv) If θ is the angle between two equal sides of isosceles
+triangle, then
+Area of triangle = 1
+2
+2a sinθ
+EXAMPLE 14. The perimeter of an isosceles triangle
+is 32 cm while equal sides together measure 20 cm.
+Then, area of an isosceles triangle is
+a. 48 cm 2 b. 84 cm 2 c. 44 cm 2 d. 41 cm 2
+Sol. a. Let third side of an isosceles triangle be a cm.
+Given, b = 10 cm
+∴ Perimeter of isosceles triangle = + +a b b = +a b 2
+⇒ 32 2 10 20= + × = +a a ⇒ 32 20– = a
+∴ a = 12 cm
+Now, area of an isosceles triangle
+= 1
+4 4 2 2a b a – = × ×1
+4 12 4 10 122 2–
+= 3 400 144– = × =3 16 48 cm 2
+EQUILATERAL TRIANGLE
+Let a be the side of an equilateral triangle, then
+(i) Height (altitude) of an equilateral triangle = 3
+2
+a
+(ii) Area of an equilateral triangle = 3
+4
+2a
+(iii) Perimeter of an equilateral triangle = ×3 Side = 3a
+(iv) The radius of incircle = a
+2 3
+MATHEMATICS >□Area□and□Perimeter□of□Plane□Figures 315
+A B
+C
+a
+b a
+A
+B Ca
+b b
+A
+B C
+a a
+θ
+a
+5b
+A
+B C
+--- PDF PAGE 521 ---
+(v) The radius of circumcircle = a
+3
+EXAMPLE 15. The perimeter of an equilateral
+triangle whose area is 4 3 cm 2 is
+a. 4 cm b. 3 cm c. 12 cm d. 7 cm
+Sol. c. Area of an equilateral triangle = 3
+4 (Side)2
+⇒ 3
+4 (Side) 4 32 = , (Side) 162 =
+∴ Side = 4 cm
+Hence, the perimeter of an equilateral triangle
+= ×3 Side = ×3 4 = 12 cm
+CIRCLE
+Let the radius of a circle be r, then
+(i) Circumference of circle = 2πr = πD units
+[/c81D is diameter, D r= 2 ]
+(ii) Area of circle = πr 2 sq units
+(iii) Distance covered by a wheel in one revolution
+= Circumference of the wheel
+EXAMPLE 16. The circumference of a circle whose
+area is 24.64 m 2 is
+a. 17.2 m b. 17.4 m c. 17.6 m d. 18.0 m
+Sol. c. Let the radius of the circle be r m.
+∴ π r .2 24 64=
+⇒ 22
+7 24 642r . = ⇒ r .2 7 24 64
+22= ×
+⇒ r = × =7 24 64
+22 2 8. .
+Thus, circumference = = × × =2 2 22
+7 2 8 17 6πr . . m
+EXAMPLE 17. The diameter of the driving wheel of
+a car is 140 cm. Then, in order to keep the speed of
+66 km/h, how many revolutions per minute must the
+wheel make?
+a. 250 b. 275 c. 290 d. 295
+Sol. a. Given, radius of the wheel = =70 cm 0.7 m
+Circumference of the wheel = 2πr = × ×
+ 
+ =2 22
+7 0 7 4 4. . m
+Distance to be covered in 1 min
+= ×66 1000
+60 = 1100 m
+∴ Number of revolutions per minute = .
+1100
+4 4 = 250
+Circular Ring
+If ‘ R’ and ‘ r’ be outer and inner radii of a ring, then the
+area of ring = −π ( )R r2 2 sq units
+EXAMPLE 18. The area of a ring whose outer and
+inner radii are respectively 20 cm and 15 cm is
+a. 440 cm 2 b. 550 cm 2 c. 565 cm 2 d. 675 cm 2
+Sol. b. Given, radius of outer circle ( )R = 20 cm
+Radius of inner circle ( )r = 15 cm
+∴ Area of the ring = [Area of outer circle
+− Area of inner circle]
+= − = − = −( ) ( ) ( )π π πR r R r2 2 2 2 2 2 22
+7 20 15
+= + − = × × =22
+7 20 15 20 15 22
+7 35 5 550( ) ( ) cm2
+Semi-circle
+A diameter divides a circle into two equal parts. Each of
+these two arcs is called semi-circle. If r is the radius of a
+circle, then
+(i) Area of semi-circle
+= 1
+2
+2πr sq units
+(ii) Perimeter of semi-circle
+= + = +( ) ( )π πr r r D2 units
+EXAMPLE 19. If the perimeter of a semi-circular
+protractor is 36 cm, then its diameter is
+a. 6 cm b. 7 cm c. 7.5 cm d. 14 cm
+Sol. d. Let the radius of the protractor be r cm, then perimeter
+= + = + =( ) ( )π πr r r r2 2 36
+7 ⇒ 36 36
+7= r
+∴ r = 7 cm
+Hence, diameter of the protractor = 2 r = × =2 7 14 cm
+316 CDS Pathfinder
+R
+r
+20 cm
+15 cm
+A
+B C
+a a
+a
+r
+O
+r
+OA B
+--- PDF PAGE 522 ---
+MATHEMATICS >□Area□and□Perimeter□of□Plane□Figures 317
+Quadrant of a Circle
+If r is the radius of a circle, then
+(i) The perimeter of the quadrant
+= 1
+4
+(Circumference of a circle) +2r
+= × + = + 
+ 
+1
+4
+2 2
+2
+2π πr r r units
+(ii) Area of the quadrant
+= 1
+4
+(Area of circle)= πr 2
+4
+sq units
+If two diameters are perpendicular to each other,
+then they divides the circle into four quadrants.
+Area of Sector
+If θ be the angle at the centre of a circle of radius r, then
+(i) Length of the arc
+PQ r r=
+°
+=
+°
+2
+360 180
+π θ π θ
+(ii) Area of sector OPRQO r=
+°
+π θ2
+360
+(iii) Area of segment PRQP
+= (Area of sector OPRQO) − Area of ∆ OPQ
+=
+°
+−π θ θr r
+2
+2
+360
+1
+2
+sin
+(iv) Area of major segment QPSQ= (Area of circle)
+− (Area of minor segment PRQP)
+EXAMPLE 20. The arc AB of the circle with centre at O
+and radius 10 cm has length 16 cm. What is the area of
+the sector bounded by the radii OA, OB and the arc AB?
+a. 40π cm 2 b. 40 cm 2 c. 80 cm 2 d. 20π cm 2
+Sol. c. Arc length = ⋅ °2 360π θr
+⇒ 16 2 360= ⋅ °π θr ⇒ θ
+π360
+16
+2° = r
+Now, area of sector OABO r= ⋅ °π θ2
+360
+= ⋅π πr r
+2 16
+2 = 8r = ×8 10 = 80 cm 2
+REGULAR POLYGON
+A polygon that has all sides equal and all interior angles
+equal are regular polygon.
+Let, n = number of sides, a = length of side
+r = radius of inscribed circle (or inradius)
+R = radius of circumcircle
+Area of polygon
+= °
+ 
+1
+4
+1802na
+n
+cot
+= °
+ 
+nr
+n
+2 180tan
+= °
+ 
+1
+2
+3602nR
+n
+sin
+Perimeter of polygon = ×n a
+= 
+ 
+2nr
+n
+sin π
+Inradius of polygon,
+r a
+n
+= °
+ 
+1
+2
+180cot
+circumradius of polygon,
+R a
+n
+= °
+ 
+1
+2
+180cosec
+(i) Area of regular pentagon
+= +1
+4
+5 5 2 5 2( ) a sq units
+(ii) Area of regular hexagon = 3 3
+2
+2a sq units
+(iii) Area of regular octagon = +2 2 1 2( ) a sq units
+EXAMPLE 21. If the area of a regular hexagon is
+96 3 cm 2, then its perimeter is
+a. 36 cm b. 48 cm c. 54 cm d. 64 cm
+Sol. b. Given that, area of a regular hexagon = 96 3
+⇒ 3
+2 3 (Side) 96 32 = ⇒ (Side) 64 (8)2 2= =
+∴ Side 8 cm=
+Hence, perimeter of a regular hexagon
+= ×6 (Side) = × =6 8 48 cm
+Some Useful Results
+• Angle inscribed by minute hand in 60 min = °360
+• Angle inscribed by hour hand in 12 h = °360
+• Angle inscribed by minute hand in 1 min = °6
+• If the length of a square/rectangle is increased
+decreased by x% and the breadth is increased decreased
+by y% , the net effect on the area is given by
+Net effect
+= ± ± + ± ±
+
+
+x y x y( )( ) %
+100
+.
+• If the length of a square/rectangle is
+increased/decreased by x% and the breadth is
+increased/decreased by y% the net effect on the area is
+given by
+• Net effect = ± ± + ± ±
+
+
+x y x y( ) ( ) %
+100
+.
+Note ( )+ Increase
+( )− Decrease
+• If the side of a square/rectangle/triangle is doubled the
+area is increased by 300%, i.e. the area becomes four
+times of itself.
+• If the radius of a circle is decreased by x%, then, area is
+decreased by − +
+
+ 
+
+2
+100
+2
+x x %. And, if radius is increased
+by x%, then area is increased by
+2
+100
+2
+x x+
+
+ 
+
+ %.
+O A
+16
+B
+θ
+10
+O
+S
+θ
+QP
+R
+--- PDF PAGE 523 ---
+• If a room of dimensions ( )l b× m is to be paved with
+square tiles, then
+(i) the side of the largest square tile = HCF of l and b
+(ii) the least number of tiles required
+= ×l b
+l b(HCF of and )2
+• Area of a square inscribed in a circle of radius r is 2 2r
+and the side of a square inscribed in a circle of radius r
+is 2 r.
+• The area of the largest triangle inscribed in a semi-circle
+of radius r is r 2.
+EXAMPLE 22. The ratio of the areas of the incircle
+and circumcircle of a square are
+a. 1 : 1 b. 2 : 1 c. 1 : 2 d. 3 : 1
+Sol. c. Let side AB BC CD AD= = = = x
+/c81Diagonal of square = 2 x
+∴ Radius of circumcircle = = 2
+2 2
+x x
+∴ Radius of incircle = x
+2
+∴ Required ratio
+= 
+
+
+
+
+π πx x2 2
+4 2 : = =2 4 1 2: :
+EXAMPLE 23. The minute hand of a clock is 14 cm
+long. The area of the face of the clock inscribed by the
+minute hand in 30 min is
+a. 308 cm 2 b. 312 cm 2 c. 412 cm 2 d. 416 cm 2
+Sol. a. Angle inscribed by the minute hand in 60 min = °360
+Angle inscribed by the minute hand in 30 min
+= ° × = °360
+60 30 180
+So, θ = °180 and r = 14 cm.
+Required area swept by minute hand in 30 min
+= ° ×θ π360
+2r = °
+° × × ×180
+360
+22
+7 14 14
+= × × × =1
+2
+22
+7 14 14 308 cm 2
+EXAMPLE 24. Two circles touch internally. The sum
+of their areas is 116 π cm
+2 and distance between their
+centres is 6 cm. Then, the radii of the circles are
+a. 4 cm and 9 cm
+b. 5 cm and 10 cm
+c. 4 cm and 8 cm
+d. 4 cm and 10 cm
+Sol. d. Let the radius of outer circle be R and radius of inner
+circle = r cm
+∴ Given, π π πR r2 2 116+ = , R r2 2 116+ =
+If O and ′O be the centre of these circles, then
+OO R r′= −( )
+Also, ( )R r− = 6 [given]
+So, ( ) ( ) ( )R r R r R r+ + − = +2 2 2 2 2
+⇒ ( ) ( )R r+ = −2 2 116 36 = 196
+⇒ R r+ = 196
+So R r+ = 14 …(i)
+R r− = 6 …(ii)
+On solving Eqs. (i) and (ii), we get
+r = 4 cm and R = 10 cm
+318 CDS Pathfinder
+CD
+A B
+O
+O 180°
+O′O
+--- PDF PAGE 524 ---
+MATHEMATICS >□Area□and□Perimeter□of□Plane□Figures 319
+1. The diagonal of a square field measures 50 m.
+The area of square field is
+(a) 1250 2m (b) 1200 2m (c) 1205 2m (d) 1025 2m
+2. The length of a rectangle is 2 cm more than its
+breadth. The perimeter is 48 cm. The area of the
+rectangle (in cm
+2) is
+(a) 96 (b) 128 (c) 143 (d) 144
+3. In a circle of radius 42 cm, an arc subtends an
+angle of 72° at the centre. The length of the arc
+is
+(a) 52.8 cm (b) 53.8 cm (c) 72.8 cm (d) 79.8 cm
+4. An isosceles right angle triangle has area
+200 cm
+2. The length of its hypotenuse is
+(a) 15 2 cm (b) 10
+2
+cm (c) 10 2 cm (d) 20 2 cm
+5. With in a rectangular garden 10 m wide and
+20 m long, we wish to pave a walk around the
+borders of uniform width so as to leave an area
+of 96 m
+2 for flowers. The width of the walk is
+(a) 1 m (b) 2 m (c) 2.5 m (d) 2.56 m
+6. The least number of square slabs that can be
+fitted in a room 10.5 m long and 3 m wide, is
+(a) 12 (b) 13 (c) 14 (d) 15
+7. If the side of a square be increased by 50%, the
+percent increase in area is
+(a) 50 (b) 100 (c) 125 (d) 150
+8. The area of the largest circle that can be drawn
+inside a square of side 14 cm in length, is
+(a) 84 cm 2 (b) 96 cm 2 (c) 104 cm 2 (d) 154 cm 2
+9. If the radius of a circle is decreased by 50%, its
+area will decrease by
+(a) 25% (b) 50% (c) 75% (d) 100%
+10. The area of the circle whose circumference is
+equal to the perimeter of a square of side 11 cm
+is
+(a) 154 cm 2 (b) 144 cm 2 (c) 134 cm 2 (d) 124 cm 2
+11. A wire is in the form of a circle of radius 42 cm.
+It is bent into a square. The side of the square is
+(a) 33 cm (b) 66 cm (c) 78 cm (d) 112 cm
+12. A horse is tied to a pole with 28 m long string.
+The area which the horse can graze is equal to
+(a) 246 m 2 (b) 2404 m 2 (c) 2464 m 2 (d) 2164 m 2
+13. The area of ring is 418 cm
+2. If the radius of the
+smaller circle is 6 cm. The radius of the bigger
+circle is
+(a) 18 cm (b) 16 cm (c) 13 cm (d) 10 cm
+14. The length of a rectangle is increased by 60%. By
+what per cent would the width have to be
+decreased to maintain the same area?
+(a)
+37 1
+2
+% (b) 60% (c) 75% (d) 120%
+15. The perimeter of a rectangular field is 240 m
+and the ratio between the length and breadth is
+5 : 3. The area of the field is
+(a) 33750 2m (b) 3375 m 2 (c) 3500 m2 (d) 3950 m2
+16. The inner circumference of a circular park is
+440 m. The track is 14 m wide. The diameter of
+the outer circle of the track is
+(a) 168 m (b) 169 m (c) 144 m (d) 108 m
+17. If the length and breadth of a rectangular plot
+are increased by 50% and 20% respectively, then
+the new area is how many times the original
+area?
+(a)
+5
+9
+(b) 10 (c)
+9
+5
+(d) None of these
+18. The area of an isosceles triangle, each of whose
+equal sides is 13 cm and whose base is 24 cm is
+(a) 60 cm 2 (b) 55 cm 2 (c) 50 cm 2 (d) 40 cm 2
+19. The difference between the sides at right angles
+in a right angled triangle is 14 cm. The area of
+the triangle is 120 cm
+2 . The perimeter of the
+triangle
+(a) 68 cm (b) 64 cm (c) 60 cm (d) 58 cm
+20. In a four sided field, the length of the longer
+diagonal is 128 m. The lengths of the
+perpendicular from the opposite vertices upon this
+diagonal are 22.7 m and 17.3 m. The area of the
+field is
+(a) 2246 m 2 (b) 2460 m 2 (c) 2540 m 2 (d) 2560 m 2
+21. The adjacent sides of a parallelogram are 36 cm
+and 27 cm in length. If the distance between the
+shorter sides is 12 cm. The distance between the
+longer sides is
+(a) 9 cm (b) 10 cm (c) 11 cm (d) 12 cm
+22. The area of the quadrilateral whose sides
+measures are 9 cm, 40 cm, 28 cm and 15 cm and
+in which the angle between the first two sides is
+a right angle is
+(a) 206 cm 2 (b) 306 cm 2 (c) 356 cm 2 (d) 380 cm 2
+23. A bicycle wheel makes 5000 revolutions in
+moving 11 km. The diameter of the wheel is
+(a) 50 cm (b) 60 cm (c) 70 cm (d) 80 cm
+PRACTICE EXERCISE
+--- PDF PAGE 525 ---
+320 CDS Pathfinder
+24. Two circles touch externally. The sum of their
+areas is 130 π cm
+2 and the distance between
+their centres is 14 cm. The radii of the circles are
+(a) 11 cm, 3 cm (b) 10 cm, 4 cm
+(c) 9 cm, 5 cm (d) 8 cm, 6 cm
+25. The minute hand of a clock is 12 cm long. The
+area of the face of the clock described by the
+minute hand in 35 min.
+(a) 284 cm 2 (b) 294 cm 2 (c) 274 cm 2 (d) 264 cm 2
+26. In the given figure,
+sectors of two
+concentric circles of
+radii 7 cm and 3.5 cm
+are shown. The area of
+the shaded region
+(a)
+77
+4
+cm 2 (b) 77
+8
+cm 2
+(c) 77
+2
+cm 2 (d) None of these
+27. Of the two square fields, the area of one is 1
+hectare, while the other one is broader by 2%.
+The difference in their areas is
+(a) 104 m 2 (b) 200 m 2 (c) 204 m 2 (d) 404 m 2
+28. If the diameter of the circle is increased by
+100%, its area is increased by
+(a) 100% (b) 200% (c) 300% (d) 400%
+29. If the two parallel sides of a trapezium are 15 cm
+and 25 cm respectively and the distance between
+them is 7 cm, then the area of the trapezium is
+(a) 105 cm 2 (b) 125 cm 2
+(c) 140 cm 2 (d) None of these
+30. The diagonals of a rhombus are 24 cm and 10 cm,
+respectively. The perimeter of the rhombus is
+(a) 50 cm (b) 52 cm (c) 60 cm (d) 68 cm
+31. In the given figure OABC is a rhombus whose
+three vertices A B C, , lies on the circle of radius
+10 cm. The area of rhombus is
+(a)
+50 3 cm 2 (b) 100 3 cm 2 (c) 75 3 cm 2 (d) 125 3 cm 2
+32. In the adjoining figure, ABCD is
+a rectangle such that
+AB AD a= =2 . P is the mid-point
+of AD. The area of the shaded
+region is
+(a)
+1
+3
+2a (b)
+1
+2
+2a (c) 1
+4
+2a (d) a2
+33. A garden is in the form of a
+rectangle with semi-circular
+endson the either side as shown
+in the diagram below. The
+length and breadth of the
+rectangle are 20 m and 14 m, respectively. The
+cost of levelling the plot at ` 25
+(a) ` 10850 (b) ` 5425 (c) ` 8510 (d) ` 4255
+34. Consider the adjoining
+figure, let AB = 4 cm,
+BC = 14 cm, then the
+area (shaded) bounded
+by three semi-circles as
+shown in the adjoining
+figure in cm ,
+2 is π times
+(a) 48 (b) 24 (c) 14 (d) 12
+35. Area of shaded portion as shown in the figure is
+(a) 10 m 2 (b) 12 m 2 (c) 14 m 2 (d) 16 m 2
+36. The boundary of the
+shaded region in the
+adjoining diagram
+consists of three
+semi-circular arc, the
+smaller two being equal.
+If the diameter of the
+large one is 10 cm, then
+the length of the
+boundary is
+(a) 31 cm (b) 10π cm (c) 20π cm (d) 19π cm
+37. In the adjoining figure, the larger circle with
+radius 4 cm is touched internally by two smaller
+circles which also touch each other externally at
+the centre O of the larger circle. The area of
+shaded region is (in cm )
+2
+(a) π (b) 2 π (c) 3π (d) 4π
+3.5 m
+7 m
+30°A B
+C
+P
+OB
+A
+C
+A B
+C D
+14 m
+20 m
+DA P
+B C
+D
+B CA
+8 m
+5 m
+1m
+1m
+CBA
+Q
+P
+R
+--- PDF PAGE 526 ---
+38. The lengths of two sides of a right angled
+triangle which contain the right angle are a and
+b, respectively. Three squares are drawn on the
+three sides of the triangle on the outer side.
+What is the total area of the triangle and the
+three squares?
+(a) 2 2 2( )a b ab+ + (b) 2 2 52 2( ) .a b ab+ +
+(c) 2 0 52 2( ) .a b ab+ + (d) 25 2 2( )a b+
+39. A grassy field has the shape of an equilateral
+triangle of side 6 m. A horse is tied to one of its
+vertices with a rope of length 4.2 m. The
+percentage of the total area of the field which is
+available for grazing is best approximated by
+(a) 50% (b) 55% (c) 59% (d) 62%
+40. From the mid-point of the side of a square of
+length 2 units, a circle of radius 2 units is
+circumscribed. The area of intersection of the
+square and the circle is
+(a)
+4
+3
+3 3π + (b)
+π + 3 (c) 2
+3
+3π + (d) 2
+3
+2 3π +
+41. In a circle with radius 2 cm, on its chord 2 2 cm
+long taken as a diameter, another circle is
+constructed. The area of part of that circle,
+which is outside the greater circle is
+(a) 1 cm 2 (b) 2 cm 2 (c) 6 cm 2 (d) 10 cm 2
+42. If a rectangular park has length l, width w, area
+a and perimeter p, which equation describing
+this park must be true?
+I. wp w a− =2 22 II. 2 2 0 2a w wp− − =
+III. p a l w2 2 28 4− = + ( )
+Select the correct answer using the codes given
+below
+(a) I and II (b) II and III
+(c) I and III (d) All of these
+43. A regular polygon with number of sides 12 is
+inscribed in a circle of area 9π cm
+2. If r is the
+radius of a circle inscribed in a polygon, then
+consider the following statements.
+I. Radius of circumcircle is 3 cm.
+II. Radius of incircle is 3cos 15°.
+III. Ratio of area of circumcircle to area of polygon
+is π : 3.
+Which of the following statement(s) are correct?
+(a) I and II (b) II and III
+(c) I and III (d) All of these
+44. What is the area of rectangle R?
+I. The length of rectangle R is twice the width.
+II. The area of rectangle R is twice the perimeter.
+(a) Statement I alone is sufficient but statement II alone
+is not sufficient.
+(b) Statement II alone is sufficient but statement I alone
+is not sufficient.
+(c) Both statements together are sufficient.
+(d) Neither statement I nor II is sufficient.
+Directions (Q. Nos. 45-46) Answer
+the questions based on the
+following information.
+A cow is tethered at point A by a
+rope. Neither the rope nor the cow is
+allowed to enter the triangle
+ABC BAC. ,∠ = ° 30 AB AC= = 10 m.
+45. What is the area that can be grazed by the cow if
+the length of the rope is 8 m?
+(a)
+134 1
+3
+π m 2 (b) 121π m 2 (c) 132 π m 2 (d)
+176
+3
+π m 2
+46. What is the area that can be grazed by the cow if
+the length of the rope is 12 m?
+(a)
+133 1
+6
+π m 2 (b) 121π m 2 (c) 132 π m 2 (d)
+176
+3
+π m 2
+PREVIOUS YEARS’ QUESTIONS
+47. If the outer and inner diameters of a stone
+parapet around a well are 112 cm and 70 cm,
+respectively. Then, what is the area of the
+parapet? e 2012 I
+(a) 264 cm 2 (b) 3003 cm 2
+(c) 6006 cm 2 (d) 24024 cm 2
+48. The area of a rectangle, whose one side is a is
+2
+2a . What is the area of a square having one of
+the diagonals of the rectangle as side? e 2012 I
+(a) 2 2a (b) 3 2a (c) 4 2a (d) 5 2a
+49. If the altitude of an equilateral triangle is
+3 cm, then what is its perimeter? e 2012 I
+(a) 3 cm (b) 3 3 cm (c) 6 cm (d) 6 3 cm
+50. If the area of a rectangle whose length is 5 more
+than twice its width is 75 sq units. What is the
+perimeter of the rectangle? e 2012 I
+(a) 40 units (b) 30 units
+(c) 24 units (d) 20 units
+51. A square, a circle and an equilateral triangle
+have same perimeter.
+Consider the following statements
+I. The area of square is greater than the area of
+the triangle.
+II. The area of circle is less than the area of triangle.
+MATHEMATICS >□Area□and□Perimeter□of□Plane□Figures 321
+BA
+E
+N
+F
+CD
+rr
+θ
+M
+2
+A
+B
+C
+--- PDF PAGE 527 ---
+Which of the statement(s) given above is/are
+correct? e 2012 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+52. If the area of a circle is equal to the area of a
+square with side
+2 π units, then what is the
+diameter of the circle? e 2012 I
+(a) 1 unit (b) 2 units (c) 4 units (d) 8 units
+53. In the ∆ ABC, the base BC is trisected at D and
+E. The line through D, parallel to AB, meets AC
+at F and the line through E parallel to AC meets
+AB at G. If EG and DF intersect at H, then
+what is the ratio of the sum of the area of
+parallelogram AGHF and the area of the ∆ DHE
+to the area of the ∆ ABC ? e 2012 II
+(a) 1/2 (b) 1/3 (c) 1/4 (d) 1/6
+54. If the area of a circle inscribed in an equilateral
+triangle is 154 cm
+2, then what is the perimeter
+of the triangle? e 2012 II
+(a) 21 cm (b) 42 3 cm (c) 21 3 cm (d) 42 cm
+55. If the circumferences of two circles are in the
+ratio 2 : 3, then what is the ratio of their areas?
+e 2012 II
+(a) 2 : 3 (b) 4 : 9 (c) 1 : 3 (d) 8 : 27
+56. If the circumference of a circle is equal to the
+perimeter of square, then which one of the
+following is correct? e 2012 II
+(a) Area of circle = Area of square
+(b) Area of circle ≥ Area of square
+(c) Area of circle > Area of square
+(d) Area of circle < Area of square
+57. The area enclosed between the circumferences of
+two concentric circles is 16π cm
+2 and their radii
+are in the ratio 5 : 3. What is the area of the
+outer circle? e 2012 II
+(a) 9π cm 2 (b) 16π cm 2 (c) 25π cm 2 (d) 36π cm 2
+58. The perimeter of a rectangle is 82 m and its area
+is 400 m
+2. What is the breadth of the rectangle?
+e 2012 II
+(a) 18 m (b) 16 m (c) 14 m (d) 12 m
+59. Consider the following statements
+I. Area of a segment of a circle is less than area of
+its corresponding sector.
+II. Distance travelled by a circular wheel of diameter
+2d cm in one revolution is greater than 6 d cm.
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II e 2012 II
+(c) Both I and II (d) Neither I nor II
+60. The minute hand of a watch is 2.5 cm long. The
+distance its extreme end transverses in 40 min is
+(a) 10 π/3 cm (b) 3π/10 cm e 2013 I
+(c) 10/3 cm (d) 10 cm
+61. The short and long hands of a clock are 4 cm and
+6 cm long, respectively. Then, the ratio of
+distances travelled by tips of short hand in 2
+days and long hand in 3 days is e 2013 I
+(a) 4 : 9 (b) 2 : 9 (c) 2 : 3 (d) 1 : 27
+62. The area of a square inscribed in a circle of
+radius 8 cm is e 2013 I
+(a) 32 cm 2 (b) 64 cm 2 (c) 128 cm 2 (d) 256 cm 2
+63. A circular water fountain 6 6 .m in diameter is
+surrounded by a path of width 1 5 .m. The area of
+this path (in m
+2) is e 2013 I
+(a) 13 62. π (b) 1315. π
+(c) 12 15. π (d) None of these
+64. If an isosceles right angled triangle has area
+1sq unit, then what is its perimeter? e 2013 I
+(a) 3 units (b)
+2 2 1+ units
+(c) ( )2 1+ units (d) 2 2 1( ) + units
+65. In the figure given below, the
+area of rectangle ABCD is 100
+cm
+2, O is any point on AB and
+CD = 20 cm. Then, the area of
+∆ COD is e 2013 I
+(a) 40 cm 2 (b) 45 cm 2 (c) 50 cm 2 (d) 80 cm 2
+66. One side of a parallelogram is 8.06 cm and its
+perpendicular distance from opposite side is
+2.08 cm. What is the approximate area of the
+parallelogram? e 2013 II
+(a) 12.56 cm2 (b) 14.56 cm2 (c) 16.76 cm2 (d) 22.56 cm2
+67. The perimeter of a rectangle having area equal
+to 144
+2cm and sides in the ratio 4 9 :is e 2013 II
+(a) 52 cm (b) 56 cm (c) 60 cm (d) 64 cm
+68. What is the area between a square of side 10 cm
+and two inverted semi-circular, cross-section
+each of radius 5 cm inscribed in the square?
+(a) 17.5 cm 2 (b) 18.5 cm 2 e 2013 II
+(c) 20.5 cm 2 (d) 21.5 cm 2
+69. How many 200 mm lengths can be cut from 10 m
+of ribbon? e 2013 II
+(a) 50 (b) 40 (c) 30 (d) 20
+70. The area of an isosceles ∆ ABC with AB AC= and
+altitude AD = 3 cm is 12 cm
+2. What is its
+perimeter? e 2013 II
+(a) 18 cm (b) 16 cm (c) 14 cm (d) 12 cm
+71. If the area of an equilateral triangle is x and its
+perimeter is y, then which one of the following is
+correct? e 2013 II
+(a) y4 2 432= x (b) y4 2 216= x
+(c) y2 2 432= x (d) None of these
+322 CDS Pathfinder
+A O B
+D C
+--- PDF PAGE 528 ---
+72. What is the area of a circle whose area is equal
+to that of a triangle with sides 7 cm, 24 cm and
+25 cm? e 2013 II
+(a) 80 cm2 (b) 84 cm2 (c) 88 cm2 (d) 90 cm2
+73. If AB and CD are two diameters of a circle of
+radius r and they are mutually perpendicular,
+then what is the ratio of the area of the circle to
+the area of the ∆ ACD? e 2014 I
+(a)
+π
+2
+(b) π (c) π
+4
+(d) 2 π
+74. A rectangle of maximum area is drawn inside a
+circle of diameter 5 cm. What is the maximum
+area of such a rectangle? e 2014 I
+(a) 25 cm 2 (b) 12.5 cm 2
+(c) 12 cm 2 (d) None of these
+75. What is the area of the larger segment of a circle
+formed by a chord of length 5 cm subtending an
+angle of 90° at the centre? e 2014 I
+(a)
+25
+4 2
+1π +
+ 
+ cm 2 (b)
+25
+4 2
+1π −
+ 
+ cm 2
+(c)
+25
+4 2
+13π +
+ 
+ cm 2 (d) None of these
+76. Consider an equilateral triangle of side of unit
+length. A new equilateral triangle is formed by
+joining the mid-points of one, then a third
+equilateral triangle is formed by joining the
+mid-points of second. The process is continued.
+The perimeter of all triangles, thus formed is
+e 2014 I
+(a) 2 units (b) 3 units (c) 6 units (d) Infinity
+77. ABC is triangle right angled at A, AB = 6 cm and
+AC = 8 cm. Semi-circles drawn (outside the
+triangle) on AB AC, and BC as diameteres which
+enclose areas x, y and z square units,
+respectively. What is x y z+ − equal to? e 2014 I
+(a) 48 cm 2 (b) 32 cm 2
+(c) 0 (d) None of these
+78. A square is inscribed in a circle of diameter 2 a
+and another square is circumscribing circle. The
+difference between the areas of outer and inner
+squares is e 2014 I
+(a) a2 (b) 2 2a (c) 3 2a (d) 4 2a
+79. The area of a sector of a circle of radius 36 cm is
+72
+2π cm the length of the corresponding arc of
+the sector is e 2014 I
+(a) π cm (b) 3π cm (c) 3π cm (d) 4π cm
+80. What is the total area of three equilateral
+triangles inscribed in a semi-circle of radius
+2 cm? e 2014 I
+(a) 12 cm2 (b)
+3 3
+4
+cm2 (c) 9 3
+4
+cm2 (d) 3 3 cm2
+81. How many circular plates of diameter d be taken
+out of a square plate of side 2 d with minimum
+loss of material? e 2014 I
+(a) 8 (b) 6 (c) 4 (d) 2
+82. The sides of a triangle are in the ratio 1
+2
+1
+3
+1
+4
+: : . If
+its perimeter is 52 cm, then what is the length of
+the smallest side? e 2014 II
+(a) 9 cm (b) 10 cm (c) 11 cm (d) 12 cm
+83. The sides of a triangle are 25 cm, 39 cm and
+56 cm. The perpendicular from the opposite
+vertex on the side of 56 cm is e 2014 II
+(a) 10 cm (b) 12 cm (c) 15 cm (d) 16 cm
+84. The area of the largest triangle that can be
+inscribed in a semi-circle of radius r is e 2015 I
+(a) r2 (b) 2 2r (c) 3 2r (d) 4 2r
+85. The area of a rhombus with side 13 cm and one
+diagonal 10 cm will be e 2015 I
+(a) 140 cm 2 (b) 130 cm 2 (c) 120 cm 2 (d) 110 cm 2
+86. Four equal-sized maximum circular plates are
+cut off from a square paper sheet of area 784 cm
+2.
+The circumference of each plate is e 2015 I
+(a) 11 cm (b) 22 cm (c) 33 cm (d) 44 cm
+87. From a circular piece of cardboard of radius
+3 cm, two sectors of 40° each have been cut off.
+The area of the remaining portion is e 2015 I
+(a) 11 cm 2 (b) 22 cm 2 (c) 33 cm 2 (d) 44 cm 2
+88. Three equal circles each of diameter d are drawn
+on a plane in such a way that each circle touches
+the other two circles. A big circle is drawn in
+such a manner that it touches each of the small
+circles internally. The area of the big circle is
+e 2015 I
+(a) πd 2 (b)
+πd 2 22 3( – )
+(c) πd 2 2 3 1
+2
+( ) + (d) πd 2 2 3 2
+12
+( ) +
+89. The angles of a triangle are in the ratio 4 : 1 : 1.
+Then, the ratio of the largest side to the
+perimeter is e 2015 I
+(a)
+2
+3
+(b) 1
+2 3+
+(c) 3
+2 3+
+(d) 2
+1 3+
+90. Let a, b, c be the sides of a right triangle, where
+c is the hypotenuse. The radius of the circle
+which touches the sides of the triangle is e 2015 I
+(a) ( – ) /a b c+ 2 (b) ( ) /a b c+ + 2
+(c) ( ) /a b c+ +2 2 2 (d) ( – ) /2 2 2a b c+
+91. The ratio of the outer and inner perimeters of a
+circular path is 23 : 22. If the path is 5 m wide,
+the diameter of the inner circle is e 2015 I
+(a) 55 m (b) 110 m (c) 220 m (d) 230 m
+MATHEMATICS >□Area□and□Perimeter□of□Plane□Figures 323
+--- PDF PAGE 529 ---
+92. The sides of a triangular field are 41 m, 40 m
+and 9 m. The number of rose beds that can be
+prepared in the field if each rose bed, on an
+average, needs 900 cm
+2 space, is e 2015 I
+(a) 2000 (b) 1800 (c) 900 (d) 800
+93. The diameter of a wheel that makes 452
+revolutions to move 2 km and 26 dm is equal to
+e 2015 II
+(a)
+1 9
+22
+m (b) 113
+22
+m (c) 1 5
+11
+m (d) 1 7
+11
+m
+94. From a rectangular sheet of sides 18 cm and
+14 cm, a semi-circular portion with smaller side
+as diameter is taken out. Then, the area of the
+remaining sheet will be e 2015 II
+(a) 98 cm 2 (b) 100 cm 2 (c) 108 cm 2 (d) 175 cm 2
+95. A square and an equilateral triangle have equal
+perimeter. If the diagonal of the square is
+12 2 cm, then the area of the triangle is e 2015 II
+(a) 24 2 cm 2 (b) 24 3 cm 2 (c) 48 3 cm 2 (d) 64 3 cm 2
+96. ABCD is a square. If the sides AB and CD are
+increased by 30%, sides BC and AD are increased
+by 20%, then the area of the resulting rectangle
+exceeds the area of the square by e 2015 II
+(a) 50% (b) 52% (c) 54% (d) 56%
+97. The area of a trapezium is 336 cm
+2. If its
+parallel sides are in the ratio 5 : 7 and the
+perpendicular distance between them is 14 cm,
+then the smaller of the parallel sides is e 2015 II
+(a) 20 cm (b) 22 cm (c) 24 cm (d) 26 cm
+98. The circumference of a circle is 100 cm. The side
+of the square inscribed in the circle is e 2015 II
+(a)
+50 2 cm (b) 100
+π
+cm (c) 50 2
+π
+cm (d) 100 2
+π
+cm
+99. There are 437 fruit plants in an orchard planted
+in rows. The distance between any two adjacent
+rows is 2 m and the distance between any two
+adjacent plants is 2 m. Each row has the
+same number of plants. There is 1 m clearance
+on all sides of the orchard. What is the cost of
+fencing the area at the rate of ` 100 per metre?
+e 2015 II
+(a) ` 15600 (b) ` 16800 (c) ` 18200
+(d) More information is required
+100. A square is inscribed in a right triangle with
+legs x and y and has common right angle with
+the triangle. The perimeter of the square is
+given by e 2015 II
+(a)
+2x
+x
+y
+y+
+(b) 4x
+x
+y
+y+
+(c) 2
+2 2
+x
+x
+y
+y+
+(d) 4
+2 2
+x
+x
+y
+y+
+101. A circle of radius r is inscribed in a regular
+polygon with n sides (the circle touches all sides
+of the polygon). If the perimeter of the polygon is
+p then the area of the polygon is e 2015 II
+(a) ( )p n r+ (b) ( )2 p n r− (c) pr
+2
+(d) None of these
+102. A circular path is made from two concentric
+circular rings in such a way that the smaller ring
+when allowed to roll over the circumference of the
+bigger ring, it takes three full revolutions. If the
+area of the pathway is equal to n times the area
+of the smaller ring, then n is equal to e 2016 I
+(a) 4 (b) 6 (c) 8 (d) 10
+103. The number of rounds that a wheel of diameter
+7/11 m will make in traversing 4 km will be
+e 2016 I
+(a) 500 (b) 1000 (c) 1700 (d) 2000
+104. The base of an isosceles triangle is 300 units and
+each of its equal sides is 170 units. Then, the
+area of the triangle is e 2016 I
+(a) 9600 sq units (b) 10000 sq units
+(c) 12000 sq units (d) None of these
+105. Four equal disc are placed such that each one
+touches two others. If the area of empty space
+enclosed by them is 150/847 cm
+2, then the radius
+of each disc is equal to e 2016 I
+(a) 7 6 /cm (b) 5 6 /cm (c) 1 2 /cm (d) 5 11 /cm
+106. AD is the diameter of a
+circle with area 707 m2 and
+AB BC CD= = as shown in
+the figure above. All curves
+inside the circle are semicircles
+with their diameters on AD.
+What is the cost of levelling the
+shaded region at the rate of ` 63 per m
+2? e 2016 I
+(a) ` 29700 (b) ` 22400 (c) ` 14847 (d) None of these
+107. A rhombus is formed by joining mid-points of the
+sides of a rectangle in the suitable order. If the
+area of the rhombus is 2 sq units, then the area
+of the rectangle is e 2016 I
+(a)
+2 2 sq units (b) 4 sq units
+(c) 4 2 sq units (d) 8 sq units
+108. A circle of 3 m radius is
+divided into three areas by
+semi-circles of radii 1 m and 2
+m as shown in the figure
+above. The ratio of the three
+areas A, B and C will be
+e 2016 I
+(a) 2 : 3 : 2 (b) 1 :1 : 1 (c) 4 : 3 : 4 (d) 1 : 2 : 1
+324 CDS Pathfinder
+B
+C
+A
+A B DC
+--- PDF PAGE 530 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (a) Area of square = ×1
+2
+(Diagonal) 2
+= × ×1
+2
+50 50
+= 1250 m 2
+2. (c) Let length of rectangle be x cm.
+and breadth of rectangle = −( )x 2 cm
+/c81Perimeter of rectangle = +2( )l b
+So, 2 2 48[ ( )]x x+ − =
+⇒ 4 4 48x − =
+⇒ x = =52
+4
+13
+∴ Length = 13 cm and breadth = 11 cm
+Hence, area of rectangle
+= × = ×l b 13 11
+= 143 cm 2
+3. (a) Length of the arc =
+°
+2
+360
+π θr
+= × × ×
+×
+=2 22 42 72
+7 360
+52.8 cm
+4. (d) Area of an
+isosceles right
+triangle with side
+‘a’
+= =1
+2
+2a 200 cm 2
+∴ Side = =a 20 cm
+Hence, hypotenuse
+= + a a2 2
+= = 2 20 2a cm
+5. (b) Let the width of the walk be ‘ a’ m.
+Given, length of outer rectangle = 20 m
+and breadth of outer rectangle = 10 m
+/c81Width of walk = a m
+∴ Length of inner rectangle
+= =( – – ) ( – )20 20 2a a a m
+and breadth of inner rectangle
+= ( – – )10 a a = ( – )10 2 a m
+Now, area of inner rectangle
+= ( – )( – )20 2 10 2a a
+∴ ( )( )20 2 10 2 96− − =a a [given]
+⇒ 4 60 104 02a a − + =
+⇒ a a2 15 26 0− + =
+⇒ ( ) ( )a a− − =13 2 0
+But a ≠ 13, so a = 2 m
+6. (c) Side of the greatest square tile
+= GCM of the length and breadth of the
+room
+= GCM of 10.5 and 3 is 1.5 m
+Area of room = ×10.5 3 m 2
+∴ Number of tiles needed
+= ×l b
+l b( . . & )H C of F 2
+= × =10.5 3
+2.25
+14 tiles
+7. (c) Let side of a square be a. Area of
+square = a 2
+/c81 The side of a square be increased by
+50%, then new side = + =a a a
+2
+3
+2
+New area
+= 9
+4
+2a
+Increase in area = − =9
+4
+5
+4
+2
+2
+2a a a
+∴ Percent increase in area = ×5
+4
+100
+2
+2
+a
+a
+= 125%
+Shortcut Method
+Side of square is increased by 50%.
+∴ Net effect on area
+= + + ×
+
+
+50 50 50 50
+100
+% = 125%
+8. (d) Given, diameter of circle = Side of
+square = 14 cm
+∴ r = 7 cm
+Area of circle
+= = × ×πr 2 22
+7
+7 7
+= 154 cm 2
+9. (c) Let original radius of circle be r.
+∴ Area of circle = π r 2
+/c81Radius of a circle is decreased by 50%,
+then
+New radius
+= r
+2
+325MATHEMATICS Area and Perimeter of□Plane Figures
+ANSWERS
+1 a 2 c 3 a 4 d 5 b 6 c 7 c 8 d 9 c 10 a
+11 b 12 c 13 c 14 a 15 b 16 a 17 c 18 a 19 c 20 d
+21 a 22 b 23 c 24 a 25 d 26 b 27 d 28 c 29 c 30 b
+31 a 32 c 33 a 34 c 35 b 36 b 37 d 38 c 39 c 40 c
+41 b 42 c 43 d 44 c 45 d 46 c 47 c 48 d 49 c 50 a
+51 a 52 c 53 b 54 b 55 b 56 c 57 c 58 b 59 c 60 a
+61 d 62 c 63 c 64 d 65 c 66 c 67 a 68 d 69 a 70 a
+71 a 72 b 73 b 74 c 75 c 76 c 77 c 78 b 79 d 80 d
+81 c 82 d 83 c 84 a 85 c 86 d 87 b 88 d 89 c 90 a
+91 c 92 a 93 b 94 d 95 d 96 d 97 a 98 c 99 b 100 b
+101 c 102 c 103 d 104 c 105 d 106 c 107 b 108 b
+A a B
+a
+C
+Area of flowers
+20 m
+a
+10 m
+A B
+CD
+14 cmA B
+CD
+--- PDF PAGE 531 ---
+New area of circle = πr 2
+4
+∴ Decrease in area
+= − =π π πr r r2
+2 2
+4
+3
+4
+Decrease percent in area
+= × ×
+ 
+3
+4
+1 1002
+2π
+π
+r
+r
+% = 75%
+Short trick Area is decreased by
+= − +
+
+ 
+
+2
+100
+2
+x x
+= − × +
+
+ 
+
+2 50 50
+100
+2( )
+= − +
+ 
+ = −100 2500
+100
+75%
+Area is decreased by 75%.
+10. (a) Perimeter of square
+= × =4 11 44 cm
+2 44πr = cm [by condition]
+∴
+r = =44
+2
+7
+π
+cm
+Thus, area of circle
+= = × × =πr 2 2 22
+7
+7 7 154 cm
+11. (b) Circumference of circle
+= = × ×2 2 22
+7
+42πr = 264 cm
+∴ Length of wire = 264 cm
+Wire is bent into a square.
+∴ Perimeter of square = 264 cm
+⇒ 4 × Sides of square = 264
+∴ Side of square = =264
+4
+66 cm
+12. (c) Given, length of string = Radius of
+circle = 28 m
+Area over which the horse can graze
+= = × × =πr 2 2 22
+7
+28 28 2464 m
+13. (c) /c81Area of ring = −π( )R r2 2
+Here, r = 6 cm, R = ?
+Area of ring = = −418 22
+7
+62 2( )R
+[given]
+⇒ R2 36 418 7
+22
+− = ×
+⇒ R2 133 36 169= + =
+⇒ R = = 169 13 cm
+14. (a) Let the length and breadth of
+rectangle be l and b, respectively.
+/c81 Area of rectangle = ×l b sq units
+∴ New length = + × =l l l60
+100
+8
+5
+New breadth = a
+Then, lb l a= ×8
+5
+⇒ a b= 5
+8
+[by condition]
+Decrease percent
+= −
+ 
+ × ×
+
+
+b b
+b
+5
+8
+1 100 %
+= 37 1
+2
+%
+15. (b) Let the length and breadth of
+rectangular field be 5x and 3x,
+respectively.
+l = 5x and b = 3x
+Perimeter of rectangular field = +2 ( )l b
+2 5 3 240( )x x+ =
+⇒ 8 120 15x x= ⇒ =
+∴ l = = × =5 5 15 75x m
+and b = = × =3 3 15 45x m
+Now, area of rectangle = ×l b
+= × =75 45 3375 2m
+16. (a) Given, inner circumference
+= =2 440πr m
+⇒ r =
+×
+× =440
+2 22
+7 70 m
+Width of track = 14 m
+/c81Radius of outer circle = +( )70 14 m
+= 84 m
+∴ Diameter of outer circle
+= × =2 84 168 m
+17. (c) Let length and breadth of rectangular
+be x and y, respectively.
+The original area = xy
+New length = + ×x x 50%
+= =x + x x
+2
+3
+2
+New breadth = + ×y y 20%
+= + =y y y
+5
+6
+5
+New area = × =3
+2
+6
+5
+9
+5
+x xy y
+= 9
+5
+(original area)
+Short trick Area is increased by
+= + + ×50 20 50 20
+100
+= 80 %
+New Area = + × =A A A80
+100
+9
+5
+18. (a) Let each equal side = =a 13 cm and
+base b = 24 cm
+∴ Area of the isosceles triangle
+= ⋅ −1
+4
+4 2 2b a b
+= × × × − ×
+
+
+
+1
+4
+24 4 169 24 24
+= 60 cm 2
+19. (c) Let the sides containing right
+angle be x cm and ( )x − 14 cm.
+Now, area of right triangle
+= × −
+
+
+
+1
+2
+14x x ( ) cm 2
+But area = 120 cm 2 [given]
+⇒
+1
+2
+14 120x x( ) − =
+⇒ x x2 14 240 0− − =
+⇒ ( )( )x x− + =24 10 0
+⇒ x ≠ − 10 ∴ x = 24
+Other side = − =24 14 10 cm
+Hypotenuse = + =24 10 6762 2 cm
+= 26 cm
+∴ Perimeter = + + =( )24 10 26 60 cm
+20. (d) Here, AC = 128 m, BL = 22 7 .m,
+DM = 17 3 .m
+∴ Area of the field
+= +1
+2
+[ ( )]AC BL DM
+= × +1
+2
+128 22 7 17 3( . . )
+= × =64 40 2560 m 2
+21. (a) Let distance between the longer sides
+be x cm.
+Area of parallelogram
+= × = ×AD LC MC AB
+∴ 36 27 12× = ×x
+⇒ x = × =27 12
+36
+9
+∴ Distance between the longer sides
+= 9 cm
+22. (b) Applying pythagoras theorem in
+∆ ABC , we get
+9 402 2 2+ = AC
+⇒ AC = = 1681 41 cm
+Area of ∆ ABC = × ×1
+2
+9 40 cm 2
+= 180 cm 2
+In ∆ ACD,
+s = + +41 28 15
+2
+= =84
+2
+42 cm
+326 CDS Pathfinder
+CM
+L
+B
+D
+A
+36 cm
+A B
+CD
+L
+M
+27 cmx cm
+12 cm
+A
+B C
+D
+28 cm
+40 cm
+9 cm
+15 cm
+--- PDF PAGE 532 ---
+∆ = s s a s b s c( – )( – )( – )
+= 42 42 41 42 28 42 15( – )( – )( – )
+= × × ×42 1 14 27
+= × × =14 3 3 126 cm 2
+∴ Area of quadrilateral = Area of
+∆ ABC + Area of ∆ ADC
+= +180 126 = 306 cm 2
+23. (c) Distance covered in one revolution
+= × ×11 1000 100
+5000
+= 220 cm
+∴ The circumference of the wheel
+= 220 cm
+Let the diameter be ‘ D’.
+Then, πD = 220 ⇒ 22
+7
+220× =D
+∴ D = × =220 7
+22
+70 cm
+24. (a) Let radius of given circles be x cm
+and ( )14 − x cm.
+∴ Sum of areas of circle
+= + −[ ( ) ]π πx x2 2 14
+130 14 2 2π π π= + −x x ( )
+[by condition]
+⇒ 130 2 28 1962= − +x x
+⇒ x x2 14 33 0− + =
+⇒ ( )( )x x− − =11 3 0
+⇒ x = 11 or x = 3
+So, the radii of circles are 11 cm and
+3 cm.
+25. (d) Angle inscribed by minute hand in
+60 min = °360 .
+Angle inscribed in 35 min
+= ° ×360
+60
+35
+= °210
+given, r = 12 cm
+∴ Area swept by the minute-hand in
+35 min
+= Area of sector with r = 12 cm
+and θ = °210
+= × × × 
+ 
+22
+7
+12 12 210
+360
+cm2 = 264 cm 2
+26. (b) Area of the shaded region
+= (Area of sector with r = 7 cm,θ = °30 )
+− (Area of sector with r = 3 5 .cm,
+θ = °30 )
+= × × ×
+ 
+
+
+22
+7
+7 7 30
+360
+− × × ×
+ 
+
+
+22
+7
+7
+2
+7
+2
+30
+360
+cm2
+= −
+ 
+ =77
+6
+77
+24
+cm 77
+8
+cm2 2
+27. (d) Area of field = 1 hec 10000 m 2=
+∴ side
+= 10000 m = 100 m
+/c81 Side of other field = 102% of 100
+= 102
+∴ Area of the field
+= × =102 102 10404 m 2
+Thus, difference of area
+= −( )10404 10000 m 2
+= 404 m 2
+28. (c) Let diameter of the circle be 2r.
+∴ Area of the circle = π r 2
+Diameter is increased by 100%
+New diameter = 4r
+and new area = 4 2πr
+/c81Increase in area = −4 2 2π πr r = 3 2πr
+∴ Increase percentage in area
+= ×
+
+ 
+
+ =3 100 300
+2
+2
+π
+π
+r
+r
+% %
+Short trick Area is increased by
+= +
+
+ 
+
+2
+100
+2
+x x %
+= × +
+
+ 
+
+2 100 100
+100
+2
+%
+= +( ) %200 100 = 300 %
+29. (c) Area of trapezium = 1 2 /
+(Sum of parallel sides)
+× Distance between them
+= + ×1 2 25 15 7/ ( ) = 140 cm 2
+30. (b) Since, diagonal of rhombus bisect
+each other and perpendicular to each
+other.
+∴
+AO = =10
+2
+5cm cm ,
+DO = =24
+2
+12cm cm
+∴ AD OA OD= + 2 2 = + 5 122 2
+= = 169 13 cm
+∴ Perimeter = × =4 13 52 cm
+31. (a) Here, OA OB OC= = = 10 cm
+Also, AC CP= 2
+and CP OC OP= − 2 2 = 10 52 2–
+= = 75 5 3 cm
+As, AC PC= 2
+∴ AC = 10 3 cm
+∴ Area of the rhombus OABC
+= × ×1
+2 1 2d d = × ×1
+2
+OB AC
+= × ×1
+2
+10 10 3 = 50 3 cm 2
+32. (c) Area of shaded region
+= Area of ∆ ABP + Area of ∆ PDC
+= × × + ×1
+2
+1
+2
+AB AP DC PD
+= × × + ×1
+2
+1
+2
+AB AP AB PD
+[ ]/c81AB DC=
+= +1
+2
+AB AP PD( )
+= ×1
+2
+AB AD [/c81AD AP PD= +( ) ]
+= ×1
+2 2
+AB AB = 1
+4
+2a
+/c81AB a AD AB= =
+
+
+and
+2
+33. (a) Area of figure = Area of rectangle
++ 2 (Area of semi-circular ends)
+= × + × × × ×20 14 2 1
+2
+22
+7
+7 7
+= + =280 154 434 2m
+∴ Cost of levelling = ` ( )434 25×
+= ` 10850
+34. (c) Length of
+AC AB BC= + = + = 4 14 18 cm
+The area (shaded) bounded by three
+semi-circle = Area of semi-circle with
+AC as diameter − [(Area of semi-circle
+with diameter AB + Area of semi-circle
+with diameter BC )]
+= − + 
+
+
+
+1
+2
+9 1
+2
+7 1
+2
+22 2 2π π π( ) ( ) ( )
+= − +π π π81
+2
+1
+2
+49 4[ ]
+= −π π( ) [ ]81
+2
+1
+2
+53
+= − = =π π π
+2
+81 53 28
+2
+14( ) ( )
+∴ Area of shaded region
+= 14 times π
+35. (b) Area of shaded region = Area of
+horizontal rectangle
++ Area of vertical rectangle
+= × + − ×5 1 8 1 1( ) = +5 7 = 12 2m
+36. (b) Length of boundary = Length of arc
+( )APB BQC ARC+ +
+= 
+ 
+ + 
+ 
+ + 
+ 
+π π πAB BC AC
+2 2 2
+= 
+ 
+ + 
+ 
+ +π π π5
+2
+5
+2
+5 ( )
+= =20
+2
+10π π cm
+37. (d) Radius of smaller circle = 2 cm
+∴ Area of shaded region
+= 1
+2
+[Area of larger circle – 2(Area of
+smaller circle)]
+= −1
+2
+4 2 22 2[ ( ) ]π π
+= −1
+2
+16 8[ ] π π
+= 1
+2
+8 ( )π = 4 2π cm
+327MATHEMATICS Area and Perimeter of□Plane Figures
+A B
+C
+O
+D
+5 cm
+12 cm
+--- PDF PAGE 533 ---
+328 CDS Pathfinder
+38. (c)
+∴ Total area
+= + + + +a b a b ab2 2 2 2 2 1
+2
+( )
+= + +2 0 52 2( ) .a b ab
+39. (c) Suppose, a horse is tied at vertex A.
+Then, area available grazing field is
+ADE .
+Now, area of sector ADE r=
+°
+π θ2
+360
+= × × °
+× °
+22 4 2 60
+7 360
+2( . ) = 9.24 m 2
+and area of equilateral
+∆ ABC = 3
+4
+(Side) 2 = × 3
+4
+6 2( )
+= .15 57
+∴ Required percentage = × .
+.
+9 24
+15 57
+100
+= . %59 34 = 59% (approx)
+40. (c) Given, radius of circumcircle,
+r = 2 units
+side of square, AB = 2 units
+Since, EF ME MF= = = 2 units
+∴ MEF is an equilateral triangle
+In ∆ AEM, by pythagoras theorem
+AE EM AM2 2 2 2 2 2 1= − = − ( ) ( )
+∴ AE = 3 units
+Area of intersection region square and
+circle = Area of sector MENF + Area of
+∆ AEM + Area of ∆ FMB
+=
+°
+× + × ×θ π
+360
+1
+2
+2r AE AM
++ × ×1
+2
+MB FB
+= °
+°
+× × + × ×60
+360
+(2) 1
+2
+3 12π
++ × ×1
+2
+3 1 [/c81FB EA= = 3]
+= + =4
+6
+3 2
+3
+3π π +
+41. (b) Given, radius, r = 2 cm
+length of chord, AB = 2 2 cm
+In ∆ ODB, sin θ
+2
+= BD
+OB
+⇒
+sin θ
+2
+2 2
+2
+2
+1
+2
+= = ⇒
+θ
+2
+45= °
+∴ θ = ° 90
+Area of segment APBA = Area of sector
+− Area of ∆ OAB
+= − × ×1
+4
+1
+2
+2. πr OA OB
+= × × − × ×1
+4
+2 1
+2
+2 22π ( )
+= ( )π − 2 cm 2
+Area of shaded region = Area of
+semicircle with AB as diameter − Area
+of segment APBA
+= × × − −1
+2
+22π π ( ) ( )BD
+= × × − −1
+2
+2 22π π ( ) ( ) = 2 cm 2
+42. (c) We have, a l w= × …(i)
+and p l w= +2 ( ) … (ii)
+Putting the value of l from Eq. (i) in (ii),
+we get
+wp w a− =2 2 2
+Now, p a l w lw2 2 8 2 8− = + −[ ( )]
+= + + −4 2 82 2( )l w lw lw
+= + + −4 4 8 82 2l w lw lw
+= +4 2 2( )l w
+Hence, the statement I and III are
+correct.
+43. (d) I. Let R be the radius of circumcircle
+Area of circumcircle = π R2
+⇒ 9 2π π = R ⇒ R = 3 cm
+II.
+Inradius of polygon
+circumradius of polygon
+= r
+R
+=
+°
+ 
+
+°
+ 
+
+= °
+ 
+1
+2
+180
+1
+2
+180
+180a
+n
+a
+n
+n
+cot
+cos
+cosec 
+⇒
+r R= 
+ 
+° = °cos cos180
+12
+3 15
+III. Area of polygon
+= °
+ 
+1
+2
+3602nR
+n
+sin
+= × × °
+ 
+1
+2
+12 360
+12
+2R sin
+= ° =6 30 32 2R Rsin
+∴
+Area of circumcircle
+Area of polygon
+= =π πR
+R
+2
+23 3
+or π : 3
+Hence, all three statements are
+correct.
+44. (c) /c81From statement I
+length = ×2 width
+∴ Area of rectangle = ×2 width × width
+= 2 (width) 2
+From statement II,
+∴ Area of rectangle = ×2 Perimeter
+= ×2 2( length + width)
+= 4 ( length + width)
+From I and II,
+2 (width) 2 = 4 (2 width + width)
+2 (width) 2 = 12 width
+⇒ width = 6 units.
+So, both statements together are
+sufficient.
+45. (d) The length of the rope is 8 m, then
+the cow will be able to graze an
+area equal to the area of the circle with
+radius = 8 m, subtracting from that the
+area of the sector of the same circle with
+angle 30°,
+which is equal to
+π( ) θ π( )2 28
+360
+8−
+= × − × =π π π64 30
+360
+64 176
+3
+m 2
+46. (c) Since, the length of the rope is more
+than that of sides AB and AC ,
+∴ Required Area =
+(area of the circle with radius 12)
+– (area of the sector of the same circle
+with angle 30°)
+= π(12) π(12) π2 2− =30
+360
+132 m 2
+A B
+O
+D
+θ/2
+2
+P
+60°
+60° 60°
+ED
+4.2 m
+A
+B C6 m
+A B
+b
+C
+a
+√a + b2 2
+10
+30°
+8
+A
+12
+AB
+C 30°
+--- PDF PAGE 534 ---
+329MATHEMATICS Area and Perimeter of□Plane Figures
+47. (c) /c81Outer diameter = 112 cm
+and inner diameter = 70 cm
+∴ Required area = −1
+4
+112 702 2π ( )
+= −1
+4
+12544 4900( ) π
+= × ×1
+4
+7644 22
+7
+= ×1
+4
+24024 = 6006 cm 2
+48. (d) Given that, Area of rectangle = 2 2a
+= ×l b
+⇒ l × =b a 2 2 = ×l a ⇒ l = 2a
+Now, in ∆ ACD, by pythagoras theorem
+AC AD CD2 2 2= +
+= + =a a a2 2 2 4 5
+∴ Side of square, AC a= 5 unit
+Hence, area of the square = ( )a 5 2
+= 5 2a sq units
+49. (c)
+Height of equilateral triangle ( AD)
+= × 3
+2
+Side ⇒ 3
+2
+= ×3 Side
+⇒ 2 3 3= × Side
+∴ Side = =2 3
+3
+2 cm
+∴ Perimeter of an equilateral triangle
+= 3a = ×3 2 = 6 cm
+50. (a) Let the width of the rectangle be x
+unit.
+∴ Length = +( )2 5x unit
+According to the question,
+Area = +x x( )2 5 ⇒ 75 2 5 2= +x x
+⇒ 2 5 75 02x x+ − =
+⇒ 2 15 10 75 02x x x+ − − =
+⇒ x x x( ) ( )2 15 5 2 15 0+ − + =
+⇒ ( ) ( )2 15 5 0x x+ − =
+∴ x = 5 and −15
+2
+Since, width cannot be negative.
+∴ Width = 5 units
+and length = × +2 5 5 = 15 units
+∴ Perimeter of the rectangle
+= + =2 15 5 40( ) units
+51. (a) Let the radius of circle is r and the
+side of a square is a, then by given condition,
+2 4πr a= ⇒ a r= π
+2
+∴ Area of square = 
+ 
+ =π πr r
+2 4
+2 2 2
+= =( . ) .3 14
+4
+9 86
+4
+2 2 2r r = 2 46 2. r
+and area of circle = =πr r2 2 3 14 .
+Again, let the side of equilateral triangle
+be x.
+Then, by given condition, 3 2x = π r
+⇒
+x = 2
+3
+πr
+∴ Area of equilateral triangle = 3
+4
+2x
+= × 3
+4
+4
+9
+2 2π r = π 2
+2
+3 3
+r = 189 2. r
+Hence, Area of circle > Area of square
+> Area of equilateral triangle
+Hence, only I statements is correct.
+52. (c) Given that, Area of the circle = Area
+of the square = (Side) 2
+∴ π πr 2 2 2= ( ) ⇒ π π r 2 4=
+⇒ r 2 4 4= = π
+π
+∴ r = = 4 2 units
+∴ Diameter of circle ( d) = ⋅2 r = ⋅2 2
+= 4 units
+53. (b) Here, ∆ ABC forms an equilateral
+triangle.
+where, AGHF form a rhombus and
+∆ HDE is also an equilateral triangle.
+∴ Area of rhombus = (Area of ∆ AGF
++ Area of ∆ GFH )
+= 
+ 
+ + 
+ 
+3
+4 3
+3
+4 3
+2 2x x
+= ⋅ 
+ 
+2 3
+4 3
+2x
+Now, area of ∆ HDE
+= 
+ 
+3
+4 3
+2x
+and area of ∆ ABC
+= 3
+4
+2x
+By given condition,
+Area of rhombus
+Area
+AGHF
+HD+ of ∆ E
+ABCArea of ∆
+=
+⋅ 
+ 
+ + 
+ 
+2 3
+4 3
+3
+4 3
+3
+4
+2 2
+2
+x x
+x
+=
+⋅ 
+ 
+3 3
+4 3
+3
+4
+2
+2
+x
+x
+= =3
+9
+1
+3
+54. (b) We know that, the radius of a circle
+inscribed in a equilateral triangle= a / 2 3
+where, a be the length of the side of an
+equilateral triangle.
+Given that, area of a circle inscribed in
+an equilateral triangle = 154 cm 2
+∴
+π a
+2 3
+154
+2
+
+ 
+ =
+⇒
+a
+2 3
+154 7
+22
+7 7 7
+2
+2
+ 
+ = × = × = ( )
+⇒
+a
+2 3
+7= ⇒ a = 14 3 cm
+∴ Perimeter of an equilateral triangle
+= 3a = 3 14 3( ) = 42 3 cm
+55. (b) Let the radii of two circles be r1 and
+r2 , respectively.
+Given, Circumference of Ist circle
+Circumference of IInd c ircle
+2
+3
+=
+⇒
+2
+2
+2
+3
+1
+2
+π
+π
+r
+r
+= ⇒
+r
+r
+1
+2
+2
+3
+= ⇒
+r
+r
+1
+2
+2
+4
+9
+
+
+
+
+
+
+
+ =
+...(i)
+∴
+Area of Ist circle
+Area of IInd circle
+=
+π
+π
+r
+r
+1
+2
+2
+2
+=
+
+
+
+
+
+
+
+ =
+r
+r
+1
+2
+2
+4
+9
+or 4 : 9
+56. (c) Let the radius of a circle be r and a be
+the length of the side of a square.
+Given, circumference of a circle
+= Perimeter of a square
+⇒ 2 4πr a= ⇒
+a r r= =π
+2
+1 57 .
+Now, area of the circle ( A c )
+= =πr r2 2 3 14 .
+and area of the square ( As)
+= =a r2 2 2.4649
+∴ Area of circle > Area of square
+A B
+CD
+F
+E
+a
+2a
+A
+B C
+a
+D
+a
+a
+70 cm
+112 cm
+A B
+CB D E
+G F
+A
+H
+x/3x/3
+x/3
+x/3x/3
+x/3 x/3 x/3 x/3
+x/3x/3x/3
+x/3 x/3
+--- PDF PAGE 535 ---
+330 CDS Pathfinder
+57. (c) Given that, ratio of their radii = 5 : 3
+i.e. r r1 2 5 3: : =
+⇒
+r
+r
+1
+2
+5
+3
+= ...(i)
+Let, r r1 2 5 3= =x xand
+Also, given that area enclosed between
+the circumferences of two concentric
+circles = 16 2π cm
+∴ π π ( )r r1
+2
+2
+2 16− =
+⇒ ( ) ( )5 3 162 2x x − =
+⇒ 25 9 162 2x x− =
+⇒ 16 162x = ⇒ x2 1=
+∴ x = 1
+∴ r1 5= and r2 3=
+∴ Area of the outer circle = πr1
+2 = π ( ) 52
+= 25 2π cm
+58. (b) Given that, perimeter of a rectangle
+= 82 m
+∴ 2 (Length + Breadth) = 82 m
+⇒ Length + Breadth = 41 m
+⇒ l + b = 41m ...(i)
+Also, its area = 400 m 2
+⇒ l.b = 400 ...(ii)
+Now, ( ) ( )l l l− = + −b b b2 2 4
+= −( ) ( )41 4 4002
+= −1681 1600 =81
+∴ l− =b 9 ...(iii)
+On solving Eqs. (i) and (iii), we get
+2 50l = ⇒ l = 25 m and b = 16 m
+∴ Required breadth (b) = 16 m
+59. (c) I. We know that, area of segment
+(PRQP)
+= Area of sector ( OPRQO)
+− Area of ∆ OPQ
+= −π θ θr r
+2
+2
+360
+1
+2
+sin
+So, the area of a segment of a circle is
+always less than area of its
+corresponding sector.
+II. Distance travelled by a circular wheel
+of diameter 2 d cm in one revolution
+= 2 2
+2
+π ( )d = × × =2 3 14 6 28. . d d
+which is greater than 6 d cm.
+Hence, both statements are correct.
+60. (a) /c81 Angle described in 60 min by
+minute hand of a clock = 360°
+and angle described in 40 min by
+minute hand of a clock
+= °
+°
+× = °360
+60
+40 240
+∴ Required distance = ⋅ × °
+°
+2 2 5 240
+360
+π( )
+= 10
+3
+π cm
+61. (d) Given that, length of hour hand
+= 4 cm
+and length of minute hand = 6 cm
+∴ Hour hand rotating in 1 day
+= × ° = °2 360 720
+∴ Hour hand rotating in 2 days
+= × °2 720 = °1440
+Similarly,
+Minute hand rotating in 1 day
+= × °24 360
+∴ Minute hand rotating in 3 days
+= × °72 360
+∴ Distance travelled by hour hand
+= × °
+°
+2 4 1440
+360
+π( ) = 32π
+and distance travelled by minute hand
+= × × °2 6 72 360
+360
+π( )
+= ×6 144 π cm
+∴ Required ratio = ×32 6 144π π:
+= 1 27 :
+62. (c) Let side of a square be a cm.
+Given that, radius of a circle = 8 cm
+and diameter of a circle = 16 cm
+/c81Length of a diagonal of a square
+= Diameter of a circle
+⇒ a 2 16=
+∴ a = 8 2 cm
+∴ Area of square ABCD = a 2 = ( )8 2 2
+= ×64 2 = 128 cm 2
+63. (c) Area of the path = Area of circular
+water [fountain + path]
+− Area of circular water fountain
+= + −π π( . . ) ( . )3 3 15 3 32 2
+= −[( . ) ( . ) ]4 8 3 32 2 π
+= −( . . )23 04 10 89 π
+= 12 15 .π m 2
+64. (d) Let the equal sides of isosceles right
+triangle be a cm.
+Then AB BC a= =
+In ∆ ABC , by pythagoras theorem
+AC AB BC AB2 2 2 2 2= + =
+⇒ AC a2 2 2= ∴ AC a= 2
+Area of ∆ ABC a a= × ×1
+2
+⇒ 1 1
+2
+2= a ⇒ a = 2
+∴ Perimeter of ∆ ABC a a= +2 2
+= + ⋅2 2 2 2
+= +2 2 1( ) units
+65. (c) Given that, CD = 20 cm
+and area of rectangle ABCD = 100 cm 2
+⇒ AD CD× = 100 cm 2
+⇒ AD × =20 100
+∴ AD = 5 cm
+∴ Area of ∆ PDC PQ CD= × ×1
+2
+= × ×1
+2
+5 20 = × =5 10 50 cm 2
+[ ]/c81 AD PQ=
+66. (c) Area of parallelogram
+= Base × Height
+= ×8 06 2 08. . = .16 76 cm 2
+S
+O
+P Q
+R
+θ
+B
+A
+O
+r2
+r1
+A D
+B C
+a
+a
+a a
+r = 3.3 m
+1.5 m
+A
+B C
+√2 a
+90°
+a
+a
+A P B
+D C Q
+--- PDF PAGE 536 ---
+67. (a) Let b = 4x and l x= 9
+∴ Area of rectangle = ×l b
+144 4 9= × x x
+⇒ x 2 144
+36
+= ⇒ x 2 4= ∴ x = 2
+Now, b = × =4 2 8 cm and
+l = × =9 2 18 cm
+∴ Perimeter of rectangle = +2( )b l
+= +2 8 18( ) = ×2 26 = 52 cm
+68. (d) Area between square and semi-circles
+= Area of square − 2 (Area of semi-circle)
+= − × × ×( ) )10 2 1
+2
+22
+7
+52 2 = −100 78 5 .
+= .21 5 cm 2
+Hence, the area between the square and
+semi-circular cross-section is 21.5 cm 2.
+69. (a) 1 m 1000= mm
+∴ 10 m 10000 mm=
+Number of 200 mm lengths that can be
+cut from 10 m of ribbon
+= 10000
+200
+= 50
+70. (a) Area of the ∆ = × ×ABC b h 1
+2
+⇒ 12 1
+2
+3= × × b
+∴ b = ×12 2
+3
+= 8 cm
+Here, BD CD b= = = =
+2
+8
+2
+4 cm
+In right angled ∆ ABD, by pythagoras
+theorem,
+AB BD AD= + 2 2
+⇒ a = + 4 32 2 = + 16 9
+= 25 = 5 cm
+Now, perimeter of an isosceles triangle
+= +2a b = × +2 5 8
+= +10 8 = 18 cm
+71. (a) Area of equilateral triangle
+= = 3
+4
+2a x ...(i)
+and perimeter = =3a y ⇒ a y=
+3
+...(ii)
+Now, putting the value of a from Eq. (ii)
+in Eq. (i), we get
+3
+3
+4
+2y
+ 
+
+=
+x ⇒ x = ×
+×
+3
+9 4
+2y
+⇒ x =
+×
+y 2
+3 3 4
+⇒ x = y 2
+12 3
+⇒ 12 3 2x = y
+On squaring both sides, we get
+y 4 2 432= x
+72. (b) Here, a = 7 cm, b = 24 cm
+and c = 25 cm
+Semi-perimeter of triangle
+s a b c= + +
+2
+= + +7 24 25
+2
+= 56
+2
+= 28 cm
+According to the question,
+Area of circle = Area of triangle
+= − − −s s a s b s c( )( )( )
+= − − −28 28 7 28 24 28 25( )( )( )
+= × × ×28 21 4 3 = 7056 = 84 cm 2
+73. (b) Diameters of a circle intersect at the
+centre of circle.
+Required ratio = Area of circle
+Area of ∆ ACD
+=
+× ×
+πr
+r r
+2
+1
+2
+2
+= π
+74. (c) Area of rectangle inscribed in a circle
+is maximum, when
+Diameter of the circle = Diagonal of the
+rectangle
+Now, let x and y be the length and
+breadth of the rectangle, respectively.
+Now in ∆ ABD, by pythagoras theorem
+AB AD2 2 2 5+ = ( ) ⇒ x2 2 25+ =y
+Since, they form pythagorian triplet,
+∴ x = 4 and y = 3
+So, area of rectangle = × =3 4 12 cm 2
+75. (c) Let AO OB r= = [radius of circle]
+In ∆ AOB, by pythagoras theorem,
+AB OA OB2 2 2= +
+⇒ ( ) 52 2 2= +r r [ ]/c81 AB = 5 cm
+∴
+r 2 25
+2
+= cm
+Now, area of sector
+ACBOA r=
+°
+×θ π
+360
+2
+= °
+°
+× ×90
+360
+25
+2
+π = 25
+8
+π cm 2
+Now, area of minor segment ACBA
+= Area of sectorACBOA − Area of triangle
+= −25
+8 2
+2π r = −25
+8
+25
+4
+π
+= −
+ 
+25 50
+8
+2π cm
+Area of major segment = Area of circle
+− Area of minor segment
+= − −
+ 
+π πr 2 25 50
+8
+= − −25
+2
+25 50
+8
+π π ( )
+= − +100 25 50
+8
+π π = +75 50
+8
+π
+= +25
+8
+3 2( )π = + 
+ 
+25
+4
+3
+2
+1 2π cm
+76. (c)
+Perimeters of triangles
+= + × + × + × +3 3 1
+2
+3 1
+4
+3 1
+8
+...
+= + + + +
+
+
+3 1 1
+2
+1
+4
+1
+8
+....
+= ×
+−
+3 1
+1 1
+2
+= 6 units
+331MATHEMATICS Area and Perimeter of□Plane Figures
+A B
+CD
+10 cm5 cm
+10 cm
+A
+aa
+CB D
+3 cm
+( )h
+b/2 b/2
+b
+A B
+C
+D
+O r
+r
+r
+r
+A B
+CD
+A B
+O
+5
+90°
+C minor segment
+A
+B C
+D E
+F
+--- PDF PAGE 537 ---
+332 CDS Pathfinder
+77. (c) In ∆ ABC , by pythagoras theorem,
+BC AB AC2 2 2= +
+= +6 82 2 = +36 64 = 100 cm
+∴ BC = 10 cm
+Radius of semi-circle x = =6
+2
+3
+Now, area of semi-circle
+= =x π( ) 3
+2
+2
+= 9
+2
+π cm 2
+Radius of semi-circle, y = 8
+2
+cm
+Area of semi-circle = =y 16
+2
+π cm 2
+Radius of semi-circular,
+= = =z 10
+2
+5 cm 2
+Area of semi-circle = =z 25
+2
+π cm 2
+Now, x y z+ − = + − =9
+2
+16
+2
+25
+2
+0π π π
+78. (b)
+For inscribed circle, Diameter of circle
+= Diagonal of square = 2 a
+Now, in ∆ ABC by pythagoras theorem,
+AB BC AC2 2 2+ = ⇒ 2 4 2 2AB a =
+AB a2 2 2= ⇒ AB a= 2
+/c81 Area of inner square
+= =AB a2 2 2 ( ) = 2 2a
+For circumscribed square,
+Diameter of a circle = Side of square
+∴ Area of circumscribed square
+= =( ) 2 42 2a a
+∴ Difference between areas of outer
+and inner squares
+= −4 22 2a a = 2 2a
+79. (d) Given that, area of sector = 72π cm 2
+⇒
+π θ πr 2
+360
+72
+°
+=
+⇒ θ = ×
+×
+72 360
+36 36
+= °20
+Now, length of arc ACB =
+°
+π θr
+180
+= × ×π 36 20
+180
+= 4π cm
+80. (d) Since, ∆ AOB, ∆ BOC and ∆ COD are
+equilateral.
+∴ Side of an equilateral triangle
+= radius of semi-circle = 2 cm
+Now, total area of three equilateral
+triangles
+= ×3 3
+4
+(Side) 2
+= × × =3 3
+4
+4 3 3 cm 2
+81. (c)
+From the figure it is clear that, 4 circular
+plates of diameter d can be made from.
+square plate of side 2 d with minimum
+loss of material.
+82. (d) Given, sides of a triangle are in the
+ratio
+= 1
+2
+1
+3
+1
+4
+: : i.e. 6 : 4 : 3
+Let the sides of a triangle be 6x, 4x and
+3x, respectively.
+We know that,
+Perimeter of a triangle = Sum of all sides
+of a triangle
+⇒ 52 6 4 3= + +x x x
+⇒ 52 13= x
+/c81
+x = =52
+13
+4
+∴ Smallest side of a triangle
+= 3x = ×3 4 = 12 cm
+83. (c) Let the three sides of a triangle be a, b
+and c, respectively.
+∴ a = 56 cm, b = 39 cm
+and c = 25 cm
+Perimeter of triangle, 2s a b c= + +
+⇒ 2 25 39 56s = + +
+⇒ s = 60 cm
+Now, area of triangle
+= s s a s b s c( – )( – )( – )
+= 60 60 25 60 39 60 56( – )( – )( – )
+= × × ×60 35 21 4 = 420 cm 2 …(i)
+Again area of triangle = ×1
+2
+Base
+× Altitude
+= × ×1
+2
+BC AD ...(ii)
+From Eqs. (i) and (ii), we get
+1
+2
+420× × =BC AD
+⇒ 1
+2
+56 420× × = AD
+⇒ AD = =420
+28
+15 cm
+Hence, the length of AD is 15 cm.
+84. (a) Let the r be the radius of semi-circle.
+In ∆ ABC ,
+AO OB OC r= = = [radius of circle]
+∴ Area of largest triangle
+= × ×1
+2
+Base Height
+= × ×1
+2
+AB OC = × ×1
+2
+2r r
+[ ]/c81AB OA OB= +
+= r 2
+Hence, the area of the largest triangle
+is r 2.
+D
+BA
+C
+2a
+O
+36 cm
+θ
+B
+C
+A
+O
+y
+A B
+8 10
+z
+x
+C
+6
+2
+2
+2 2
+2
+2 2A O D
+CB
+d/2 d/2
+d/2 d/2
+2dA B
+CD
+A
+B C
+D
+a
+56 cm
+25 cm
+c b
+39 cm
+r
+C
+A B O r
+r
+2r
+--- PDF PAGE 538 ---
+85. (c) Given, a side of rhombus ( )a = 13 cm
+and a diagonal of rhombus ( d1) = 10 cm
+Now, in right angled ∆ ABD,
+AB AD BD2 2 2= +
+⇒ 13 52 2 2= + BD
+⇒ BD 2 169 25= – = 144
+/c81 BD = 12 cm
+∴ EB BD= × = × =2 2 12 24 cm
+Length of second diagonal ( )d2 24= cm
+Now, area of rhombus = × ×1
+2 1 2d d
+= × ×1
+2
+10 24 = 120 cm 2
+Shortcut Method
+Here, a = 13 cm, d1 10= cm
+We know that,
+4 2
+1
+2
+2
+2a d d= +
+⇒ 4 13 102 2
+2
+2× = + d
+⇒ 4 169 100 2
+2× = + d
+⇒ 676 100 2
+2– = d
+⇒
+d2 576 24= = cm
+Now, area of rhombus = 1
+2 1 2d d
+= × ×1
+2
+10 24 = 120 cm 2
+86. (d) Let the side of a square paper sheet
+be a cm.
+Given, area of square paper sheet
+= 784 cm 2
+⇒ a 2 784= ⇒ a = 28 cm
+/c81 Diameter of one circle = 28
+2
+= 14 cm
+and radius of one circle = =14
+2
+7 cm
+∴ Circumference of each plate = 2πr
+= ×2 7π = × ×2 22
+7
+7 = 44 cm
+Hence, the circumference of each plate
+is 44 cm.
+87. (b) Given, radius of circle, r = 3 cm
+Area of remaining portion
+= Area of circle – 2 (Area of sector
+OABQO).
+=
+°
+π π θr r2
+22
+360
+–
+=
+°
+
+
+
+π θr 2 1 2
+360
+–
+= − ×
+°
+
+
+
+πr 2 1 2 40
+360
+= × 
+
+
+
+22
+7
+9 1 8
+36
+–
+= × 
+
+
+
+22
+7
+9 1 2
+9
+–
+= × ×22
+7
+7
+9
+9 = 22 cm2
+88. (d) Given, diameter of each circle = d
+∴ Radius of each circle = d / 2
+CE AF BF d= = = / 2
+Here, ∆ ABC is an equilateral triangle.
+∴ Altitude of equilateral triangle
+= 3
+2
+(Side) = = 3
+2
+3
+2
+( )AB d
+[/c81AB AF FB d= + = ]
+Let D be the centroid of ∆ ABC
+/c81 Ratio of centroid of equilateral
+triangle = 2 : 1
+∴ Length of DC d d= × =2
+3
+3
+2
+3
+3
+Now, radius of big circle,
+R DE DC CE= = + = + 3
+3 2
+d d
+= + 
+
+
+ = × +d d3
+3
+1
+2
+3 2 3
+6
+( )
+∴ Area of big circle = π R2
+= × +
+
+
+π d 3 2 3
+6
+2
+( )
+= × × +
+
+
+π d 2 2 3 2 3
+36
+( )
+= +πd 2 22 3
+12
+( )
+Hence, the area of big circle is
+= +πd 2 22 3
+12
+( ) .
+89. (c) Let the angles of a triangle be 4x, x
+and x, respectively.
+i.e. ∠ =A 4x,
+∠ =B x and
+∠ =C x
+/c81 Sum of all
+angles of a
+triangle = °180
+∴∠ + ∠ + ∠ = °A B C 180
+⇒ 4 180x x x+ + = ° ⇒ 6 180x = °
+⇒ x = °30
+∴ ∠ = = × = ° A 4 30 4 120x ,
+∠ = = °B x 30
+and ∠ = = °C x 30
+So, it is clear that, given triangle is
+isosceles triangle. Let the sides isosceles
+triangle be a, a and b, respectively.
+∴ Perimeter of triangle
+= + + = +a a b a b 2
+Using sine rule,
+b a
+sin sin120 30°
+=
+°
+⇒ b a
+3 2 1 2/ /
+= ⇒ 2
+3
+2b a= ⇒ a b=
+3
+Now, b
+a b
+b
+b b2 2
+3
++
+=
+× +
+=
++
+=
++
+b
+b b2 3
+3
+3
+2 3
+90. (a) Given, a, b and c be the sides of a
+right triangle, where c is the hypotenuse.
+∴ c a b2 2 2= + ...(i)
+and perimeter of triangle 2s a b c= + +
+∴ s a b c= + +
+2
+Area of triangle = × ×1
+2
+BC AC
+⇒ ∆ = 1
+2
+ab …(ii)
+From Eq. (i), c a b2 2 2= +
+⇒ c a b ab2 2 2= +( ) –
+333MATHEMATICS Area and Perimeter of□Plane Figures
+28 cm
+28 cm
+D C
+BA
+A B
+C
+D
+E
+90°5 cm
+13 cm
+5 cm
+A B Q
+40°
+40°
+O
+A B
+CD
+F
+d/2 d/2
+d/2
+E
+A
+F
+B
+C
+D
+dd
+A
+a a
+b
+30° 30°
+120°
+B C
+c
+a
+b
+O
+r
+A
+B C
+--- PDF PAGE 539 ---
+334 CDS Pathfinder
+⇒ 2 2 2ab a b c= +( ) –
+⇒ ab a b c= +( ) – 2 2
+2
+Now, area of triangle = ab
+2
+[from Eq. (ii)]
+∆ =
++[( ) – ]a b c 2 2
+2
+2
+,
+∆ = [( ) – ]a b c+ 2 2
+4
+∴ Radius of circle, r
+s
+= ∆
+= + + +
+× + +
+ 
+
+( – )( )a b c a b c
+a b c4
+2
+= + −( )a b c
+2
+Hence, the radius of circle is ( – )a b c+
+2
+91. (c) Let the radius of outer circle and
+inner circle be R and r , respectively.
+Perimeter of outer
+circle = 2πR
+and perimeter of
+inner circle = 2πr
+/c81
+2
+2
+23
+22
+π
+π
+R
+r
+=
+⇒
+R
+r
+= 23
+22
+From the figure, R r= +5
+∴
+5 23
+22
++ =r
+r
+⇒ 110 22 23+ = r r
+⇒ r = 110 m
+So, diameter of the inner circle is 220 m.
+92. (a) Let the sides of a triangular field be
+a, b and c, respectively.
+∴ a = 41 m, b = 40 m and c = 9 m
+Perimeter of triangular field = + +a b c
+⇒ 2 41 40 9s a b c= + + = + + ( )
+⇒ 2 90s = ⇒ s = 45 m
+/c81 Area of triangular field
+= s s a s b s c( – )( – )( – )
+= 45 45 41 45 40 45 9( – )( – )( – )
+= × × ×45 4 5 36
+= × × × × ×9 5 5 4 9 4
+= × × =9 5 4 180 m 2
+Given, area of each rose bed = 900 cm2
+=
+×
+900
+100 100
+m 2
+∴ Number of rose beds
+= Area of triangular field
+Area of one rose b ed
+= × ×180 100 100
+900
+= 2000
+93. (b) 1 km = 1000 m 1 dm = 10 m
+/c81 2 km and 26 dm
+= + =2000 260 2260 m
+Let radius be r m.
+Distance covered in revolution = 2πr
+Distance covered in 452 revolution
+= ×452 2 πr
+/c81 452 2 2260× = π r
+r = ×
+× ×
+=2260 7
+452 2 22
+35
+44
+Diameter = × = =2 35
+44
+35
+22
+1 13
+22
+m
+94. (d) Area of remaining portion
+= Area of rectangle – Area of semi-circle
+= × − × × ×18 14 1
+2
+22
+7
+7 7
+= − =252 77 175 cm 2
+95. (d) Let length of side of square and
+equilateral triangle be x and y,
+respectively.
+Then, 4 3x y= …(i)
+Given, diagonal of square = 12 2
+⇒ x 2 12 2=
+/c81 x = 12 cm …(ii)
+∴ y x= = ×4
+3
+4
+3
+12
+= 16 cm
+So, area of triangle = × ×3
+4
+16 16
+= 64 3 2cm
+96. (d) Let the side of square be x.
+Area of square = x 2
+Now, increased length
+= + 
+ 
+ =x x1 30
+100
+13
+10
+and increased breadth
+= + 
+ 
+ =x x1 20
+100
+12
+10
+Now, new area of rectangle
+= ×13
+10
+12
+10
+x x = 156
+100
+2x
+Increased in area
+= − =156
+100
+56
+100
+2
+2
+2x x x
+Percentage increased in area
+= × 56
+100
+100
+2
+2
+x
+x
+= 56%
+Shortcut Method
+Here, x = 30% , y = 20%
+∴ Net effect
+= + +
+
+
+x y xy
+100
+%
+= + + ×
+
+
+ =30 20 30 20
+100
+56%
+Hence, area is increased by 56%.
+97. (a) Area of trapezium
+= 1
+2
+(Sum of parallel side) × Distance
+between them
+⇒ 1
+2
+5 7 14 336( )x x+ × =
+⇒ 12 7 336x × = ⇒ x = 4
+The length of smaller side
+= × =4 5 20 cm
+98. (c) We have, 2 100πr =
+∴ 2 100r =
+π
+cm
+Let the side of square be l cm.
+∴ l 2 100=
+π
+⇒ l = 50 2
+π
+cm
+99. (b) There are 437 fruits plants.
+/c81437 19 23= ×
+∴ There are 19 rows and 23 trees or
+there are 23 rows and 19 trees.
+Given, the distance between any two
+adjacent plants is 2 m and the distance
+between any two adjacent rows is 2 m.
+∴ Length of orchard
+= + + =[ ( ) ]1 22 2 1 46 m
+Breadth of orchard
+= + + =[ ( ) ]1 18 2 1 38 m
+∴ Perimeter of orchard
+= × + ×[( ) ( )]46 2 38 2 = 168 m
+∴ Cost of fencing at the rate of
+= ` 100 per metre
+= × =168 100 16800`
+100. (b) Let length of the side of square be l.
+In ∆ DEC ,
+tan θ = =
+−
+DE
+EC x
+l
+l
+…(i)
+In ∆ AFD, tan ( ) cot90° − = =θ θ FD
+AF
+=
+−
+l
+ly
+…(ii)
+R
+r
+5 m
+18 cm
+14 cm
+A B
+CD
+O
+A B
+CD
+F D
+B C
+90°– θA
+θ
+y
+E
+x
+l
+l
+--- PDF PAGE 540 ---
+On multiplying Eqs. (i) and (ii), we get
+1
+2
+=
+− −
+l
+l l( ) ( )x y
+⇒ xy x y− − + =l l l l 2 2
+/c81 l( )x y xy+ = ⇒ l =
++
+xy
+x y
+∴ Perimeter of square = =
++
+4 4l xy
+x y
+101. (c) Let a be the side of regular polygon
+then, inradius, r a
+n
+=
+
+ 
+2 tan π
+⇒
+a r
+n
+= 
+ 
+2 tan π
+∴ Perimeter of polygon,
+p na nr
+n
+= = 
+ 
+2 tan π
+⇒
+tan π
+n
+
+ 
+
+= p
+nr2
+…(i)
+Area of polygon = 
+ 
+nr
+n
+2 tan π
+= ×nr p
+nr
+2
+2
+= pr
+2
+[from Eq. (i)]
+102. (c) Let the radius of smaller ring be r1
+and the radius of bigger ring be r.
+Since, the smaller ring takes three full
+revolutions to roll over the
+circumference of bigger ring.
+∴ 2 3 2 1π πr r= ( ) ⇒ r r= 3 1
+Area of pathway = − =π π πr r n r2
+1
+2
+1
+2( )
+⇒ π π r n r2
+1
+21= +( )
+⇒
+r n r2
+2
+1
+9
+= +( ) ⇒ n = − =9 1 8
+103. (d) Number of rounds that a wheel of
+diameter D will make in traversing a
+distance = n D(π )
+Given that, distance = 4 km
+⇒ n D( )π = 4000 m
+⇒ n π ×
+ 
+ =7
+11
+4000
+⇒
+n 22
+7
+7
+11
+4000×
+ 
+ =
+⇒ n = 2000
+Hence, the number of rounds is 2000.
+104. (c) Here, base = 300 units and side
+= 170 units
+We know that,
+Area of an isosceles triangle
+= −Base
+4
+4 (Side) (Base)2 2
+= −300
+4
+4 170 3002 2( ) ( )
+= × −75 4 28900 90000
+= −75 115600 90000 = 75 25600
+= ×75 160 = 12000 sq units
+105. (d) Let the radius of the circle be r.
+Then, side of square ABCD r= 2
+∴ Area of empty space = Area of square
+− 4 [Area of quadrant]
+⇒ 150
+847
+2 4 1
+4
+2 2= − × 
+
+
+( ) r r π
+⇒
+150
+847
+6
+7
+2= r
+⇒
+r 2 25
+121
+= /c81π = 22
+7
+
+
+
+
+⇒
+r = 5
+11
+cm
+106. (c) Area of circle with diameter ( AD)
+=
+π ( )AD 2
+4
+So, π( )AD 2
+4
+707=
+⇒ AD = × =707 4 2 707
+π π
+m
+As, AB BC CD AD= = =
+3
+= 2
+3
+707
+π
+m
+and AC AB BD= =2
+= =2 4
+3
+707CD
+π
+m
+∴ Area of shaded portion = 2
+[Area of semi-circle with AC as
+diameter − Area of semi-circle with
+AB as diameter]
+= −2
+8
+2
+8
+2 2π π( ) ( )AC AB
+= ⋅ − ⋅
+
+
+ = ×2
+8
+16
+9
+707 4
+9
+707 1
+3
+707 2π
+π π
+m
+∴ Cost of levelling the shaded portion
+= × =707
+3
+63 14847`
+107. (b) We know that, Area of rhombus
+= ×1
+2
+product of diagonals
+= × ×1
+2 1 2d d
+From the above figure,
+Area of rectangle = ×d d1 2
+= 2 (Area of rhombus)
+= × =2 2 4 sq units
+108. (b) In the given question, A radii of 3 m
+is divided in such a way that the radii of
+smaller semi-circle is 1 m and radii of
+bigger semi-circle is 2 m.
+Area of shaded portion A
+= Area of semi–circle of radii 3 m − Area
+of semi–circle of radii 2 m + Area of
+semi- circle of radii 1 m
+= − +1
+2
+3 1
+2
+2 1
+2
+12 2 2π( ) π π ( ) ( )
+= − + =1
+2
+9 4 1 3π π( )
+Area of portion B
+= 2 [Area of semi-circle of radii 2 m
+− Area of semi-circle of radii 1 m]
+= − 
+
+
+2 1
+2
+2 1
+2
+12 2π π( ) ( ) = 3π
+Similarly, area of shaded portion C
+= Area of portion A
+Hence, the ratio of areas A, B and C is
+1 : 1 : 1.
+335MATHEMATICS Area and Perimeter of□Plane Figures
+A B
+C D
+r r
+d2
+d2
+d1
+d1
+A B
+CD
+B
+C
+A
+x w y
+z
+--- PDF PAGE 541 ---
+In this chapter, we will study how to find the surface area and volume of solid figures, like
+parallelopiped, cube, cuboid, cylinder, cone, frustum of c one, sphere and hemisphere and the
+combination of solid figures.
+SOLID FIGURES
+The objects which occupy space (i.e. they have three dimensi ons) are called solid figures. The solid
+figures can be derived from the plane figures.
+A solid figure has surface area and volume.
+Surface Area of Solid Figure
+Surface area of a solid body is the area of all of its surfaces t ogether. It is always measured in square units.
+Surface area is also referred to as the total surface area. Th e area of four walls or the area excluding top
+and bottom is called curved surface area or lateral surface a rea.
+Volume of Solid Figure
+The measure of space occupied by a solid is called its volume. It is always measured in cubic units.
+Cuboid
+A figure which is surrounded by six rectangular surfaces, is called cuboid. It is also called rectangular
+parallelopiped.
+• A cuboid has 8 corners, 12 edges, 6 faces and 4 diagonals.
+336 CDS Pathfinder
+27
+SURFACE AREA□AND
+VOLUME OF SOLIDS
+Regularly (10-12) questions have been asked from this chapter . Questions from this chapter are
+direct formula based, so one must be through with all the formulae and their application. It is easy
+to score section in the exam.
+--- PDF PAGE 542 ---
+• Volume of cuboid = Area of base × height = × ×l b h
+where, l = length, b = breadth and h = height
+• Total surface area of cuboid = + +2 ( )lb bh lh
+• Diagonal of the cuboid = + +l b h2 2 2
+• Lateral surface area or Area of four walls = +2 ( )l b h .
+EXAMPLE 1. The volume of a cuboid is 880 cm ,3 the
+area of its base is 88 cm 2. Then, its height is
+a. 10 cm b. 12 cm c. 14 cm d. 16 cm
+Sol. a. Here, volume of a cuboid = 880 3cm
+Area of the base = 88 2cm
+Height = =Volume of the cuboid
+Area of the base
+880
+88 = 10 cm
+EXAMPLE 2. The length of the longest rod that can
+be placed in a room 12 m long, 9 m broad and 8 m
+high is
+a. 15 m b. 16 m
+c. 17 m d. 17.5 m
+Sol. c. Since, the length of the longest rod is the diagonal of
+the room
+= + +l b h2 2 2 = + +( ) ( ) ( )12 9 82 2 2
+= + + = =144 81 64 289 17 m
+EXAMPLE 3. The areas of three adjacent faces of a
+cuboid are x y, and z. If its volume is V, then which of
+the following is true?
+a. V y z= x 3 2 2 b. V yz2 = x
+c. V yz= x3 d. V y
+z= x 2
+Sol. b. Let the dimensions of a cuboid be l b, and h
+respectively, then volume of cuboid, V lbh=
+Also, x = =lb y bh, and z hl=
+∴ V lbh=
+On squaring both sides, we get
+V l b h2 2 2 2= = ⋅ ⋅ ( ) ( ) ( )lb bh hl = xyz
+EXAMPLE 4. A metallic sheet is of rectangular shape
+with dimensions 48 36cm cm× from each of its corners
+a square of 8 cm is cut-off. An open box is made of
+the remaining sheet, what is the volume of the box?
+a. 13824 cm 3 b. 1728 cm 3
+c. 5120 cm 3 d. None of these
+Sol. c. Given length of metallic sheet = 48 cm
+Breadth of metallic sheet = 36 cm
+When square of side 8 cm is cut-off from each corner
+and the flaps turned up, we get an open box whose
+Length = − + =48 8 8 32( ) cm
+Breadth = − + =36 8 8 20( ) cm
+and height = 8 cm
+∴ Volume of the box = × × = × ×l b h 32 20 8 = 5120 3cm
+Cube
+A cuboid whose length, breadth and height are same is
+called a cube.
+• A cube has 6 surfaces, 12 edges, 8 corners and 4
+diagonals.
+• Cube is a special case of cuboid which has 6 square
+faces.
+• Volume of a cube = (side) 3
+• Total surface area of a cube
+= ×6 2(side)
+• Diagonal of a cube = × 3 edge
+• Lateral surface area or area of four walls = 4 × (side) 2
+EXAMPLE 5. If the surface area of a cube is 96 cm 2,
+then, its volume is
+a. 16 cm 3 b. 64 cm 3
+c. 12 cm 3 d. 32 cm 3
+Sol. b. Surface area of cube = ×6 2a , where a = Side of a cube
+⇒ 6 962a = ⇒ a2 16= ⇒ a = 4 cm
+∴ Volume of the cube = = =a 3 3 4 64 cm 3
+EXAMPLE 6. The surface area and the length of
+the diagonal of the cube, if the volume of a cube is
+2197 cm
+3 , are
+a. 1012 cm 2 and 21.516 cm b. 1024 cm 2 and 24.516 cm
+c. 1014 cm 2 and 22.516 cm d. None of these
+MATHEMATICS > Quadratic□Equations□and□Inequalities 337
+A B
+CD
+32
+8
+20
+A B
+CD
+48
+32
+8
+88
+8
+8
+8 8
+8
+2036
+A B
+CD
+A B
+CD
+--- PDF PAGE 543 ---
+Sol. c. Volume of cube = (side) = 2197 cm3 3
+⇒ Side of cube = volume of a cube3 = 13 cm
+⇒ Surface area of cube
+= = × =6 (side) = 6 (13) 6 169 1014 cm2 2 2
+and length of the diagonal of the cube = × 3 side
+= × = ×3 13 1 732 13. = 22.516 cm
+EXAMPLE 7. How many 6 m cubes can be cut from
+a cuboid measuring 36 m × ×15 m m?8
+a. 10 b. 15
+c. 19 d. 20
+Sol. d. Volume of given cuboid = × ×( )36 15 8 3m
+Volume of the cube to be cut = × ×( )6 6 6 3m
+∴ Number of cubes that can be cut from the cuboid
+= Volume of the cuboid
+Volume of the cube = × ×
+× × =36 15 8
+6 6 6 20
+EXAMPLE 8. Two cubes each of 10 cm edge are
+joined end-to-end. Then, the surface area of the
+resulting cuboid is
+a. 100 cm 2 b. 1000 cm 2
+c. 2000 cm 2 d. None of these
+Sol. b. Length of the resulting cuboid = 10 10+ = 20 cm
+Breadth of resulting cuboid = 10 cm
+Height of resulting cuboid = 10 cm
+∴ Surface area of resulting cuboid = + +2 ( )lb bh hl
+= × + × + ×2 20 10 10 10 20 10[ ]
+= + +2 200 100 200[ ] = × =2 500 1000 2cm
+IMPORTANT FORMULAE
+G V olume of prism = Area of base × height
+G Lateral surface area of prism = Perimeter of base × height
+G V olume of pyramid = ×1 3 / Area of base × height
+G Lateral surface area = ×1 2 / Perimeter of base × slant
+height
+Right Circular Cylinder
+A right circular cylinder is a solid figure obtained by
+revolving the rectangle, say ABCD about its one side,
+say BC. Let base radius of right circular cylinder be r
+and its height be h. Then,
+(i) Volume of the cylinder
+= ×(Area of base) Height
+= πr h2 cu units
+(ii) Curved surface area = Circumference
+of the base × Height
+= 2πrh sq units
+(iii) Total surface area = Curved surface +
+Area of two ends
+= +2 2 2π πrh r = +2πr h r( ) sq units
+EXAMPLE 9. The volume of a cylinder is 448 π cm 3
+and height 7 cm. Then, its lateral surface area and
+total surface area are
+a. 349 cm 2 and 753.286 cm 2
+b. 352 cm 2 and 754.286 cm 2
+c. 353 cm 2 and 755.286 cm 2
+d. None of the above
+Sol. b. Given, volume of the cylinder = 448 3π cm
+and height of the cylinder = 6 cm
+Let radius be r, then π πr h2 448=
+∴ r h
+2 448 448
+7 64= = = π
+π ⇒ r = 8 cm
+∴ Lateral surface area of the cylinder = 2πrh
+= × × × =2 22
+7 8 7 352 2cm
+T otal surface area of the cylinder = +2π r h r( )
+= × × +2 22
+7 8 7 8( )
+= × × ×2 22
+7 8 15 = ≈5280
+7 754.286 cm 2
+EXAMPLE 10. The radii of two cylinders are in the
+ratio 2 3 : and their heights are in the ratio 5 3 :. Then,
+the ratio of their volumes is
+a. 4 : 9 b. 16 : 25 c. 20 : 27 d. None of these
+Sol. c. For first cylinder,
+Let radius = r1, height = h1, volume = V1
+For second cylinder,
+Let radius = r2 , height = h2 and volume = V2
+Then,
+r
+r
+1
+2
+2
+3= and
+h
+h
+1
+2
+5
+3= ⇒
+r r
+1
+22
+3= and h h
+1
+25
+3=
+Required ratio of their volumes be V V1 2: .
+⇒ π π r h r h1
+2
+1 2
+2
+2: ⇒ r h r h1
+2
+1 2
+2
+2:
+⇒ 4
+9
+5
+32
+2 2
+2
+2
+2r h r h: ⇒ 20
+27 1 :⇒ 20 27 :
+338 CDS Pathfinder
+A
+B
+CD
+10
+10
+1010
+BA
+D C
+h
+--- PDF PAGE 544 ---
+EXAMPLE 11. A cylindrical bucket of diameter 28 cm
+and height 12 cm is full of water. The water is emptied
+into a rectangular tub of length 66 cm and breadth 28 cm.
+The height to which water rises in the tub is
+a. 2 cm b. 4 cm c. 6 cm d. 8 cm
+Sol. b. Volume of water in the bucket
+= = × × × =πr h2 22
+7 14 14 12 7392 cm 3
+Let h be the height to which water rises in the tub.
+∴ Volume of water in the tub = × ×66 28 h cm3
+According to the question,
+66 28 7392× × = h ⇒ h = × =7392
+66 28 4 cm
+Hence, the height to which water rises in the tub is 4 cm.
+Hollow Cylinder
+A hollow cylinder is one which
+is empty from inside and has
+some difference between the
+internal and external radius.
+Let R and r be the external and
+internal radii of the hollow
+cylinder and h be its height.
+Then,
+(i) Volume of hollow cylinder = −π ( )R r h2 2 cu units
+(ii) Curved surface area
+= +2 2π πRh rh = +2π ( )R r h sq units
+(iii) Total surface area
+= + + −2 2 2 2 2π π πrh Rh R r ( ) sq units
+= + + −2 π ( ) ( )R r h R r sq units
+EXAMPLE 12. A hollow cylindrical tube, open at
+both ends is made of iron 1 cm thick. The volume of
+iron used in making the tube, if the external diameter
+is 12 cm and the length of tube is 70 cm, is
+a. 2420 cm 3 b. 2520 cm 3
+c. 2720 cm 3 d. 2900 cm 3
+Sol. a. Here, external radius ( )R 1 6= cm
+and internal radius ( )R2 6 1 5= − = cm
+Height of hollow cylinder ( )h = 70 cm
+∴ Volume of iron used in making tube
+= External volume − Internal volume
+= −π πR h r h2 2 = −πh R r( ) 2 2
+= × × −22
+7 70 36 25( )
+= ×220 11= 2420 cm 3
+Right Circular Cone
+A right circular cone is a solid,
+generated by the revolution of a
+right angled triangle about one of
+its sides containing the right
+angle. Let height of a right
+circular cone be h, slant height be
+l and its radius be r, Then,
+(i) The slant height of the cone,
+l AC r h= = + 2 2 units
+(ii) Volume of cone = 1
+3
+2πr h cu units
+(iii) Curved surface area of cone = πrl sq units
+(iv) Total surface area of a cone = Curved surface area
++ Base area = +πr l r( ) sq units
+EXAMPLE 13. How many metres of cloth 5 m wide
+will be required to make a conical tent, the radius of
+whose base is 7 m and whose height is 24 m?
+a. 100 m b. 105 m c. 109 m d. 110 m
+Sol. d. Given radius of base ( )r = 7 m
+and vertical height of tent ( )h = 24 m
+Slant height of the tent ( )l
+= + = + = =r h2 2 2 2 24 7 625 25 m
+Now, curved surface area = πrl = × × =22
+7 7 25 550 2m
+/c81 Width of cloth = 5 m
+∴ Length required to make conical tent
+= =550
+5 110 m
+EXAMPLE 14. The radius and the height of a right
+circular cone are in the ratio 5 12 : . If its volume is
+314 m 3 , the slant height and the radius are
+a. 12 m, 5 m b. 13 m, 4 m c. 1 m, 4 m d. 13 m, 5 m
+Sol. d. Let radius of cone be 5x and the height of the cone
+be 12x .
+∴ Volume of cone = =314 1
+3
+2πr h
+⇒
+1
+3 314 5 12 3142× × × =. ) ( ) ( x x ⇒ 314 3143x =
+⇒ x3 1= ⇒ x = 1
+/c81 Radius = 5 m and height = 12 m
+∴ Slant height
+= + r h2 2 = + = =25 144 169 13 m
+Hence, the slant height and the radius are 5 m and
+13 m.
+MATHEMATICS > Quadratic□Equations□and□Inequalities 339
+l
+h
+COrB
+A
+A B
+CD R
+r
+h
+--- PDF PAGE 545 ---
+Frustum of a Cone
+If a right circular cone is cut-off by a plane parallel to
+the base of the cone, then the portion of the cone
+between the cutting plane and base of the cone is called
+the frustum of the cone. Let R r, be the radii of base
+and top ( )R r> of the frustum of a cone. Let height of
+frustum of a cone be h and slant height be l, then
+(i) Slant height of frustum of right circular cone
+= = + −BC h R r 2 2 ( ) units
+(ii) Volume of frustum of right circular cone
+= + +π h R r Rr
+3
+2 2[ ] c unitsu
+(iii) Curved (lateral) surface area of frustum of right
+circular cone = +πl R r( ) sq units
+(iv) Total surface area of frustum of right circular cone
+= Area of base + Area of top + Lateral surface area
+= + + +π [ ( ) ]R r l R r2 2 sq units
+(v) Total surface area of bucket = + +π [( ) ]R r l r 2 sq unit
+[/c81 it is open at the bigger end.]
+EXAMPLE 15. The radii of the ends of a bucket of
+height 24 cm are 15 cm and 5 cm. Then, its capacity is
+a. 8000 cm 3 b. 8100 cm 3
+c. 8171.43 cm 3 d. 8200.43 cm 3
+Sol. c. Given, h = 24 cm, R = 15cm and r = 5 cm
+Capacity of bucket = Volume
+of frustum of a cone
+= + +π h R r Rr3
+2 2[ ]
+= × + + ×22
+7
+24
+3 15 5 15 52 2[( ) ]
+= × + +22
+7 8 225 25 75[ ]
+= 176
+7 325( ) = 8171.43 cm 3
+Sphere
+The set of all points in space, which are
+equidistant from a fixed point, is called a
+sphere. Let radius of sphere be r, then
+(i) Volume of sphere
+= 4
+3
+3πr cu units
+(ii) Surface area of sphere = 4 2πr sq units
+(iii) Volume of a hollow sphere
+= −4
+3
+3 3π ( )R r cu units
+where, r = Inner radius and R = Outer radius
+EXAMPLE 16. Given that the volume of a metal
+sphere is 38808 cm3 . Then, its radius and its surface
+area are
+a. 7 cm and 616 cm 2 b. 21 cm and 5544 cm 2
+c. 14 cm and 2464 cm 2 d. None of these
+Sol. b. Given, volume of the metal sphere = 38808 cm3
+But volume of sphere = 4
+3
+3πr
+∴ 4
+3 388083πr = ⇒ r 3 38808 3
+4
+7
+22 9261= × × =
+⇒ r = =( ) /9261 211 3 cm
+∴ Surface area of the sphere = 4 2πr
+= × × ×4 22
+7 21 21
+= 5544 2cm
+EXAMPLE 17. How many balls each of radius 2 cm
+can be made by melting a big ball whose radius is 8 cm.
+a. 4 balls b. 16 balls c. 64 balls d. 128 balls
+Sol. c. Given radius of big ball ( )R = 8 cm
+∴ Volume of big ball = =4
+3
+4
+3 83 3π πR ( )
+Radius of small ball ( )r = 2 cm
+∴ Volume of small balls = 4
+3 2 3π ( )
+∴ Required number of balls = Volume of big ball
+Volume of small ball
+= = × ×
+× × =
+4
+3 8
+4
+3 2
+8 8 8
+2 2 2 64
+3
+3
+π
+π
+( )
+( )
+balls
+EXAMPLE 18. A copper sphere of diameter 18 cm is
+drawn into a wire of diameter 4 mm. Then, the length
+of the wire is
+a. 243 m b. 343 m c. 443 m d. 972 m
+Sol. a. Let the length of wire be h cm.
+Volume of sphere = Volume of wire [by condition]
+⇒ 4
+3 9 9 9 2
+10
+2
+10π π× × ×
+ 
+ = × × ×
+ 
+h
+⇒
+h
+25 972= ⇒ h = ×( )972 25 cm
+= 972 25
+100
+× = 243 m
+Hence, the length of the wire is 243 m.
+340 CDS Pathfinder
+15 cm
+24 cm
+5 cm
+A B
+CD
+rO
+A B
+CD
+R
+r
+h
+--- PDF PAGE 546 ---
+Hemisphere
+A plane passing through the centre cuts the sphere in
+two equal parts, each part is called a hemisphere.
+Let the radius of hemisphere be r, then
+(i) Volume of hemisphere
+= 2
+3
+3πr cu units
+(ii) Curved surface area of hemisphere = 2 2πr sq units
+(iii) Total surface area = + =2 3 2 2 2π π πr r r sq units
+(iv) Volume of hemispherical shell
+= −2
+3
+3 3π( )R r
+where, R = outer radius, r = inner radius
+EXAMPLE 19. The volumes of two hemispheres are
+in the ratio 8 27 :. What is the ratio of their radii?
+a. 2 : 3 b. 3 : 2 c. 1 : 2 d. 2 : 1
+Sol. a. Let volumes be V1 and V2.
+∴ V V1 2 8 27: : = ⇒ 2
+3
+2
+3 8 271
+3
+2
+3π πr r : : =
+⇒ r r1
+3
+2
+3 8 27: : = ⇒ r r1 2 2 3: : =
+IMPORTANT FORMULAE
+G If the side of a cube is increased by x %, then its volume
+is increased by 1
+100
+1 100
+3
++
+ 
+ −
+
+
+
+
+
+
+
+
+×x % .
+G If the length, breadth and height of cuboid are made x y,
+and z times respectively, then its volume is increased by
+( ) %xyz − ×1 100 .
+G If the length, breadth and height of a cuboid are
+increased by x y%, % and z % respectively, then its
+volume is increased by
+x y z xy yz zx xyz+ + + + + +
+
+
+100 100 2( )
+% .
+G If the sides and diagonal of a cuboid are given, then
+the total surface area in terms of diagonal and sides is
+given by
+T otal surface area = −(Sum of the sides) (Diagonal)2 2 .
+G If the side of a cube is increased by x % , then the surface
+area is increased by 2
+100
+2
+x x+
+
+
+
+
+
+
+ % .
+1. Three equal cubes are placed adjacently in a
+row. The ratio of total surface area of the new
+cuboid to that of the sum of the surface areas of
+the three cubes is
+(a) 3 : 1 (b) 6 : 5 (c) 7 : 9 (d) 6 : 7
+2. If side of a cube is increased by 12%, by how much
+percent does its volume increase?
+(a) 35.2% (b) 40.5% (c) 45.0% (d) 42.4%
+3. The curved surface area of a cylinder is 1320 cm
+2
+and its base has diameter 21 cm, then the height
+of the cylinder is
+(a) 10 cm (b) 20 cm (c) 22 cm (d) 25 cm
+4. A cylindrical vessel can hold 154 g of water. If
+the radius of its base is 3.5 cm and 1 cm
+3 of
+water weights 1 g. The depth of the water is
+(a) 2 cm (b) 3 cm
+(c) 4 cm (d) 5 cm
+5. The curved surface area of a cylindrical pillar is
+264
+2m and its volume is 924 m 3. The diameter
+of the pillar is
+(a) 3 m (b) 6 m
+(c) 7 m (d) 14 m
+6. How many metres of cloth 50 m wide will be
+required to make a conical tent, the radius of
+whose base is 7 m and whose height is 24 m?
+(a) 9 m (b) 11 m (c) 12 m (d) 13 m
+7. The radius and height of a right circular
+cone are in the ratio of 5 : 12 and its volume is
+2512 cm
+3. The slant height of the cone is
+(a) 24 cm (b) 25 cm (c) 26 cm (d) 27 cm
+8. If the height of a cone is doubled, then its
+volume is increased by
+(a) 100% (b) 200% (c) 300% (d) 400%
+9. If the surface areas of two spheres are in the
+ratio of 4 : 25, then the ratio of their volumes is
+(a) 2 : 25 (b) 4 : 75 (c) 8 : 125 (d) 16 : 125
+10. A cone and a cylinder are of the same height.
+Their radii of the bases are in ratio of 2 : 1. The
+ratio of their volumes is
+(a) 2 : 1 (b) 3 : 2 (c) 4 : 3 (d) 1 : 3
+11. If the height and diameter of a right circular
+cylinder are 32 cm and 6 cm respectively, then
+the radius of the sphere whose volume is equal
+to the volume of the cylinder is
+(a) 3 cm (b) 4 cm (c) 6 cm (d) 8 cm
+MATHEMATICS > Quadratic□Equations□and□Inequalities 341
+PRACTICE EXERCISE
+rO
+--- PDF PAGE 547 ---
+12. Two solid spheres of gold having diameters 3 cm
+and 4 cm are molten and then cast into one big
+sphere of gold. If the radius of this sphere is x,
+then what is the value of x
+3?
+(a) 125 cm 3 (b) 15.625 cm 3
+(c) 11.375 cm 3 (d) 9.875 cm 3
+13. The total surface area of a cone, whose slant
+height is equal to the radius R of its base, is S. If
+A is the area of a circle of radius 2R, then which
+one of the following is correct?
+(a) A S= (b) A = 2S (c) A = S/ 2 (d) A = 4 S
+14. A cylinder having base of circumference 60 cm is
+rolling without sliding at a rate of 5 rounds per
+second. How much distance will the cylinder roll
+in 5 s?
+(a) 15 m (b) 1.5 m (c) 30 m (d) 3 m
+15. 27 drops of water form a big drop of water. If the
+radius of each smaller drop is 0.2 cm, then what
+is the radius of the bigger drop?
+(a) 0.4 cm (b) 0.6 cm (c) 0.8 cm (d) 1.0 cm
+16. A circus tent is made of canvas and is in the
+form of a right circular cylinder and a right
+circular cone above it, the diameter and height
+of the cylindrical part of the tent are 126 m and
+5 m, respectively. The total height of the tent is
+21 m. Then, the cost of the canvas used for tent
+at the rate of ` 12 per m
+2
+(a) ` 14850 (b) ` 168200 (c) ` 178200 (d) ` 112000
+17. A solid sphere of radius 6 cm is melted into a
+hollow cylinder of uniform thickness. If the
+external radius of the base of the cylinder is 5 cm
+and its height is 32 cm. The uniform thickness of
+the cylinder is
+(a) 1.5 cm (b) 3 cm (c) 1.2 cm (d) 1 cm
+18. Given a solid cylinder of radius 10 cm and length
+1000 cm a cylindrical hole is made into it to
+obtain a cylindrical shell of uniform thickness
+and having volume equal to one-fourth of the
+original volume of the original cylinder. The
+thickness of the cylindrical shell is
+(a)
+5 5 2( ) − cm (b) 7 2 3( ) − cm
+(c) 10 cm (d) 5 2 cm
+19. A tent is of the shape of right circular cylinder
+upto a height of 3 m and then becomes a right
+circular cone with a maximum height of 13.5 m
+above the ground. The cost of painting the inner
+side of the tent at the rate of ` 2 per m
+2, if the
+radius of the base is 14 m is
+(a) ` 2048 (b) ` 2068 (c) ` 2008 (d) ` 2088
+20. A container is in the form of a right circular
+cylinder surmounted by a hemisphere of the same
+radius 15 cm as the cylinder. If the volume of the
+container is 32400
+3π cm , then the height h of the
+container satisfies which one of the following ?
+(a) 135 cm < h < 150 cm (b) 140 cm < h < 147 cm
+(c) 145 cm < h < 148 cm (d) 139 cm < h < 145 cm
+21. A conical flask of base radius r and height h is
+full of milk. The milk is now poured into a
+cylindrical flask of radius 2r. What is the height
+to which the milk will rise in the flask?
+(a)
+h
+3
+(b)
+h
+6
+(c)
+h
+9
+(d)
+h
+12
+22. The radius and height of a right circular cone
+are in the ratio 3 : 4 and its volume is 96 π cm
+3.
+What is the lateral surface area?
+(a) 24 π cm2 (b) 36 π cm2 (c) 48 π cm2 (d) 60 π cm2
+23. What is the number of wax balls, each of radius
+1 cm, that can be molded out of a sphere of
+radius 8 cm?
+(a) 256 (b) 512 (c) 768 (d) 1024
+24. 10 cylindrical pillars of a building have to be
+painted. The diameter of each pillar is 70 cm and
+the height is 4 m. What is the cost of painting at
+the rate of ` 5 per m
+2 ?
+(a) ` 400 (b) ` 440 (c) ` 480 (d) ` 500
+25. The radii of the circular ends of a bucket of
+height 40 cm are of lengths 35 cm and 14 cm.
+What is the volume of the bucket?
+(a) 60060 cm3 (b) 70040 cm3
+(c) 80080 cm3 (d) 80160 cm3
+26. If S is the total surface area of a cube and V is its
+volume, then which one of the following is correct?
+(a) V S3 2 216= (b) S V3 2 216=
+(c) S V3 2 6= (d) S V2 3 36=
+27. A cylindrical tank 7 m in diameter, contains
+water to a depth of 4 m. What is the total area of
+wetted surface?
+(a) 110.5 m2 (b) 126.5 m2
+(c) 131.5 m2 (d) 136.5 m2
+28. The radii of two cylinders are in the ratio 2 : 3
+and their curved surface areas are in the ratio
+5 3 : .What is the ratio of their volumes?
+(a) 20 : 27 (b) 10 : 9 (c) 9 : 10 (d) 27 : 20
+29. A cylindrical vessel of height 10 cm has base
+radius 60 cm. If d is the diameter of a spherical
+vessel of equal volume, then what is the value
+of d ?
+(a) 30 cm (b) 60 cm (c) 90 cm (d) 120 cm
+30. A hollow sphere of internal and external
+diameters 4 cm and 8 cm, respectively is melted
+into a cone of base diameter 8 cm. The height of
+the cone is
+(a) 11 cm (b) 12 cm (c) 14 cm (d) 16 cm
+342 CDS Pathfinder
+--- PDF PAGE 548 ---
+31. If the diameter of a sphere is doubled, how does
+its surface area change?
+(a) It increases two times (b) It increases three times
+(c) It increases four times (d) It increases eight times
+32. A cistern 6 m long and 4 m wide contains water
+to a depth of 1.25 m. What is the area of wetted
+surface?
+(a) 40 m2 (b) 45 m2 (c) 49 m2 (d) 73 m2
+33. The outer and inner diameters of a circular pipe
+are 6 cm and 4 cm, respectively. If its length is
+10 cm, then what is the total surface area in cm
+2?
+(a) 35 π (b) 110 π
+(c) 150 π (d) None of these
+34. A toy is in the form of a cone mounted on a
+hemisphere such that the diameter of the base of
+the cone is equal to that of the hemisphere. If
+the diameter of the base of the cone is 6 cm and
+its height is 4 cm, what is the surface area in
+cm
+2 of the toy ? (Take π = 3.14)
+(a) 93.62 (b) 103.62 (c) 113.62 (d) 115.50
+35. A solid cylinder of height 9 m has its curved
+surface area equal to one-third of the total
+surface area. What is the radius of the base?
+(a) 9 m (b) 18 m (c) 27 m (d) 30 m
+36. The volume of a sphere is 8 times that of another
+sphere. What is the ratio of their surface areas?
+(a) 8 1 : (b) 4 1 : (c) 2 1 : (d) 4 3 :
+37. The dimensions of a field are 12 m × 10 m. A pit
+5 m long, 4 m wide and 2 m deep is dug in one
+corner of the field and the Earth removed has
+been evenly spread over the remaining area of
+the field. The level of the field is raised by
+(a) 30 cm (b) 35 cm (c) 38 cm (d) 40 cm
+38. A cube of 9 cm edge is immersed completely in a
+rectangular vessel containing water. If the
+dimensions of base are 15 cm and 12 cm. Then,
+the rise in water level in the vessel is
+(a) 4.05 cm (b) 4 cm (c) 3.5 cm (d) 3 cm
+39. From a solid cube of edge 3 m, a solid of largest
+sphere is curved out. What is the volume of solid
+left?
+(a) ( )27 − 2.25 π m 3 (b) ( . )27 4 5− π m 3
+(c) 2.25 π m 3 (d) 4.5π m 3
+40. A rectangular tank is 80 40× cm
+3. Water flows
+into it through a pipe of cross-section area
+40 2cm at the speed of 10 km/h. The rise in the
+level of water in the tank in 1
+2
+h is
+(a) 3
+2
+cm (b) 4
+3
+cm (c)
+5
+8
+cm (d) 6 cm
+41. A measuring jar of internal diameter 10 cm is
+partially filled with water. Four equal spherical
+balls of diameter 2 cm each are dropped in it
+and they sink down in the water completely. The
+change in the level of water in the jar is
+(a)
+16
+65
+cm (b) 15
+16
+cm (c)
+16
+75
+cm (d) None of these
+42. The height of a cone is 30 cm. A small cone is cut
+off at the top by a plane parallel to the base. If
+its volume be
+1
+27
+of the volume of the given cone,
+then the height above the base where the section
+is made, is
+(a) 12 cm (b) 15 cm (c) 20 cm (d) 22 cm
+43. From a wooden cylindrical block, whose diameter
+is equal to its height, a sphere of maximum
+possible volume is carved out. What is the ratio
+of the volume of the utilised wood to that of the
+wasted wood?
+(a) 2 : 1 (b) 1 : 2 (c) 2 : 3 (d) 3 : 2
+44. The base diameter of a right circular cylinder is
+3 cm. There is a section making an angle of 30°
+with the cross section. What is its area?
+(a)
+9
+4
+2π cm (b) 3 3
+2
+2π cm (c) 9
+8
+2π cm (d) 9 3
+8
+2π cm
+45. A cone is inscribed in a hemisphere such that
+their bases are common. If C is the volume of the
+cone and H that of the hemisphere, then what is
+the value of C H: ?
+(a) 1 : 2 (b) 2 : 3 (c) 3 : 4 (d) 4 : 5
+46. If the diameter of a wire is decreased by 10%, by
+how much per cent (approximately) will the
+length be increased to keep the volume constant?
+(a) 5% (b) 17% (c) 20% (d) 23%
+47. The diameter of a solid metallic right circular
+cylinder is equal to its height. After cutting out
+the largest possible solid sphere S from this
+cylinder, the remaining material is recast to
+form a solid sphere S
+1. What is the ratio of the
+radius of sphere S to that of sphere S1?
+(a) 1 2
+1
+3: (b)
+2 1
+1
+3 : (c)
+2 3
+1
+3
+1
+3: (d)
+3 2
+1
+2
+1
+2:
+48. A square has its side equal to the radius of a
+sphere. The square revolves round a side to
+generate a surface of total area S. If A is the
+surface area of the sphere, then which one of the
+following is correct?
+(a) A = 3S (b) A = 2S (c) A = S (d) A < S
+49. A swimming pool is 24 m long and 15 m broad.
+When x number of men dive into the pool, the
+height of the water rises by 1 cm. If the average
+amount of water displaced by one man is 0.1 m
+3,
+then what is the value of x?
+(a) 36 (b) 72 (c) 108 (d) 360
+MATHEMATICS > Quadratic□Equations□and□Inequalities 343
+--- PDF PAGE 549 ---
+50. Water is distributed to a town of 50000
+inhabitants from a rectangular reservoir consisting
+of 3 equal compartments. Each compartment has
+length and breadth 200 m, 100 m, respectively
+and 12 m depth of water in the beginning. The
+allowance is 20 L per head per day. For how
+many days will the supply of water hold out?
+(a) 240 days (b) 720 days (c) 800 days (d) 900 days
+51. A right circular cylinder and a right circular
+cone have equal bases and equal volumes. But
+the lateral surface area of the right circular cone
+is 15/8 times the lateral surface area of the right
+circular cylinder. What is the ratio of radius to
+height of the cylinder?
+(a) 3 : 4 (b) 9 : 4 (c) 15 : 8 (d) 8 : 15
+52. The volume of a cuboid whose sides are in the
+ratio of 1 : 2 : 4 is same as that of a cube. What
+is the ratio of length of diagonal of cuboid to that
+of cube?
+(a)
+1 25 . (b) 175 . (c) 2 (d) 3 5 .
+53. A field is 125 m long and 15 m wide. A tank
+10 6m m× ×7.5 m was dug in it and the Earth,
+thus dug out was spread equally on the
+remaining field. The level of the field thus raised
+is equal to which one of the following?
+(a) 15 cm (b) 20 cm (c) 25 cm (d) 30 cm
+54. If C
+1 is a right circular cone with base radius r1 cm
+and height h1 cm and C2 is a right circular
+cylinder with base radius r2 cm and height h2 cm
+and if r r n1 2 1: : = (where n is a positive integer)
+and their volumes are equal, then which one of
+the following is correct?
+(a) h nh1 2 3= (b) h n h1
+2
+23=
+(c) h h1 2 3= (d) h n h1
+2
+2=
+55. A right circular cone is cut by a plane parallel to
+its base in such a way that the slant heights of
+the original and the smaller cone thus obtained
+are in the ratio 2 : 1. If V
+1 and V2 are respectively
+the volumes of the original cone and of the new
+cone, then what is V V
+1 2: ?
+(a) 2 : 1 (b) 3 : 1 (c) 4 : 1 (d) 8 : 1
+56. The surface area of a sphere is 616 cm 2. If its
+radius is changed so that the area gets reduced
+by 75%, then the radius becomes
+(a) 1.6 cm (b) 2.3 cm (c) 2.5 cm (d) 3.5 cm
+57. A sphere is inscribed in a cubical box such that
+the sphere is tangent to all six faces of the box.
+What is the ratio of the volume of the cubical box
+to the volume of sphere?
+(a) 6π (b) 36π (c)
+4
+3
+π (d) 6
+π
+58. From a solid cylinder of height 4 cm and radius
+3 cm, a conical cavity of height 4 cm and of base
+radius 3 cm is hollowed out. What is the total
+surface area of the remaining solid?
+(a) 15π cm2 (b) 22 π cm2 (c) 33π cm2 (d) 48π cm2
+59. The curved surface of a cylinder is 1000 cm
+2. A
+wire of diameter 5 mm is wound around it, so as
+to cover it completely. What is the length of the
+wire used?
+(a) 22 m (b) 20 m
+(c) 18 m (d) None of these
+60. In order to fix an electric pole along a roadside, a
+pit with dimensions 50 cm × 50 cm is dug with
+the help of a spade. The pit is prepared by
+removing Earth by 250 strokes of spade. If one
+stroke of spade removes 500 cm
+3 of Earth, then
+what is the depth of the pit?
+(a) 2 m (b) 1 m (c) 0.75 m (d) 0.5 m
+61. A figure is formed by revolving a rectangular
+sheet of dimensions 7 cm 4 cm× about its length.
+What is the volume of the figure thus formed?
+(a) 352 cm3 (b) 296 cm3
+(c) 176 cm3 (d) 616 cm3
+62. The diagonals of the three faces of a cuboid are
+x y z, , , respectively. What is the volume of the
+cuboid?
+(a)
+x yz
+2 2
+(b) ( ) ( ) ( )y z z y2 2 2 2 2 2
+2 2
++ + + x x
+(c) ( ) ( ) ( )y z z y y z2 2 2 2 2 2 2 2 2
+2 2
++ − + − + −x x x
+(d) None of the above
+63. The volume of a cone is equal to that of a sphere.
+If the diameter of base of cone is equal to the
+diameter of the sphere, what is the ratio of
+height of cone to the diameter of the sphere?
+(a) 2 : 1 (b) 1 : 2 (c) 3 : 1 (d) 4 : 1
+64. The length, breadth and height of a rectangular
+parallelopiped are in ratio 6 : 3 : 1. If the surface
+area of a cube is equal to the surface area of this
+parallelopiped, then what is the ratio of the
+volume of the cube to the volume of the
+parallelopiped?
+(a) 1 : 1 (b) 5 : 4 (c) 7 : 5 (d) 3 : 2
+65. A hollow hemisphere is made of a sheet of a
+metal 1 cm thick. If the outer radius is 5 cm.
+What is the weight of the hemisphere (1 cm
+3 of
+the metal weight 9 g)?
+(a) 54 π g (b) 366 π g (c) 122 π g (d) 108 π g
+344 CDS Pathfinder
+--- PDF PAGE 550 ---
+66. Half of a large cylindrical tank open at the top is
+filled with water and identical heavy spherical
+balls are to be dropped into the tank without
+spilling water out. If the radius and the height of
+the tank are equal and each is four times the
+radius of a ball, what is the maximum number of
+balls that can be dropped?
+(a) 12 (b) 24 (c) 36 (d) 48
+67. A cylinder is circumscribed about a hemisphere
+and a cone is inscribed in the cylinder so as to
+have its vertex at the centre of one end, and the
+other end as its base. The volume of the cylinder,
+hemisphere and the cone are respectively in the
+ratio
+(a) 2 : 3 : 2 (b) 3 : 2 : 1 (c) 3 : 1 : 2 (d) 1 : 2 : 3
+68. A conical cavity is drilled in a circular cylinder of
+height 15 cm and base radius 8 cm. The height
+and the base radius of the cone are also same.
+Then the whole surface area of the remaining
+solid is
+(a) 440 π cm 2 (b) 240 π cm 2 (c) 640 π cm 2 (d) 960 π cm 2
+69. Smaller lead shots are to be prepared by
+using the material of a spherical lead shot of
+radius 1 cm. Same possibilities are listed in the
+statements given below
+I. The material is just sufficient to prepare 8 shots
+each of radius 0.5 cm.
+II. A shot of radius 0.75 cm and a second shot of
+radius 0.8 cm can be prepared from the available
+material.
+Which of the above statement is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+70. Consider the following statements:
+I. The volume of a cuboid is the product of the
+lengths of its coterminous edges.
+II. The surface area of a cuboid is twice the sum of
+the products of lengths of its coterminous edges
+taken two at a time.
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+71. Consider the following statements :
+The length of a side of a cube is 1 cm. Which of
+the following can be the distance between any
+two vertices?
+I. 1 cm II. 2 cm III. 3 cm
+Select the correct answer using the code given
+below.
+(a) Only I (b) Only II (c) Only III (d) All of these
+72. Consider the following statements.
+I. When eight drops of water combine to form a
+single drop, the surface area of all the eight drops
+is greater than the surface area of big drop.
+II. Square of volume of a spherical body is directly
+proportional to cube of its surface area.
+III. A sphere occupies the biggest space but has the
+smallest surface area.
+Which of the above statement(s) is/are correct?
+(a) I and II (b) I and III (c) II and III (d) All of these
+73. Consider the following statements:
+I. The curved surface area of a right circular cone
+of base radius r and height h is given by
+πr h r( ) 2 2+ .
+II. The right circular cone of base radius r and
+height h when cut opened along the slant height,
+forms a rectangle of length πr and breadth
+h r2 2+ .
+III. If a right circular cone is cut off by a plane
+parallel to the base of the cone, then its curved
+surface area is
+πh
+3 [ ]R r Rr2 2+ + .
+IV. If a right triangle is being revolved about one of
+its edges. The surface generated by the hypotenuse
+is the lateral surface of the right circular cone.
+Which of the above statement(s) are correct?
+(a) I and II (b) I, II and III (c) I, III and IV (d) All of these
+Directions (Q. Nos. 74-76) Read the following
+information carefully and answer the given
+questions that follow .
+A cone of height 10 cm and radius 5 cm is divided into
+two parts by drawing a plane through the mid-point of its
+axis,□parallel□to□its□base.
+74. What is the ratio of the volume of the original
+cone to the volume of the frustum left?
+(a)
+4
+3
+(b)
+7
+8
+(c) 8
+7
+(d) 9
+8
+75. What is the area of the top circle of the frustum
+in square centimetre?
+(a) 25π (b)
+5
+4
+π (c) 25
+4
+π (d) None of these
+76. What is the ratio of the curved surface area of
+the original cone and the curved surface area of
+the frustum?
+(a) 3 : 1 (b) 3 : 2 (c) 4 : 1 (d) 4: 3
+Directions (Q. Nos. 77-79) Read the following
+information carefully and answer the given
+questions that follow.
+Let C be a right circular cone. It is given that the two
+ends of a frustum ofC are of radii 3 cm and 6 cm and the
+height□of□the□frustum□is□9□cm.
+77. What is the slant height of the given frustum?
+(a)
+3 10 cm (b) 6 10 cm (c) 12 cm (d) 15 cm
+78. What is the height of the cone?
+(a) 9 cm (b) 12 cm (c) 13.5 cm (d) 18 cm
+MATHEMATICS > Quadratic□Equations□and□Inequalities 345
+--- PDF PAGE 551 ---
+79. What is the total surface area of the given frustum?
+(a)
+9 2 10 5 2π ( ) + cm (b) 9 3 10 5π ( ) + cm2
+(c) 9 3 10 4 2π ( ) + cm (d) 27 10 1π ( ) + cm2
+PREVIOUS YEARS’ QUESTIONS
+80. What will be the cost to plaster the inner surface
+of a well 14 m deep and 4 m in diameter at the
+rate of ` 25 per m
+2? e 2012 I
+(a) ` 4000 (b) ` 4200 (c) ` 4400 (d) ` 5400
+81. What is the length of the uniform wire of
+diameter 0.4 cm that can be drawn from a solid
+sphere of radius 9 cm? e 2012 I
+(a) 243 m (b) 240 m (c) 60.75 m (d) 60 m
+82. The total surface area of a cube is 150 cm
+2. What
+is its volume? e 2012 I
+(a) 64 cm3 (b) 81 cm3 (c) 125 cm3 (d) 160 cm3
+83. If the volume of a cube is 729 cm 3, then what is
+the length of its diagonal? e 2012 I
+(a) 9 2 cm (b) 9 3 cm (c) 18 cm (d) 18 3 cm
+84. The curved surface area of a right circular cone
+of radius 14 cm is 440 cm
+2. What is the slant
+height of the cone? e 2012 I
+(a) 10 cm (b) 11cm (c) 12 cm (d) 13 cm
+85. A large solid metallic cylinder whose radius and
+height are equal to each other is to be melted and
+48 identical solid balls are to be recast from the
+liquid metal, so formed. What is the ratio of the
+radius of a ball to the radius of the cylinder?
+(a) 1 : 16 (b) 1 : 12 e 2012 I
+(c) 1 : 8 (d) 1 : 4
+86. What are the dimensions (length, breadth and
+height, respectively) of a cuboid with volume
+720 cm
+3, surface area 484 cm2 and the area of
+the base 72 cm2? e 2012 I
+(a) 9, 8 and 10 cm (b) 12, 6 and 10 cm
+(c) 18, 4 and 10 cm (d) 30, 2 and 12 cm
+87. If the surface area of a sphere is 616 cm
+2, then
+what is its volume? e 2012 I
+(a) 4312/3 cm 3 (b) 4102/3 cm3
+(c) 1257 cm 3 (d) 1023 cm3
+Directions (Q.Nos. 88-89) Read the following
+information carefully and answer the given
+questions that follow.
+The areas of the ends of a frustum of a cone areP and Q,
+where P < Q and H is□its□thickness.
+88. What is the difference in radii of the ends of the
+frustum? e 2012 II
+(a)
+Q P−
+π
+(b) Q P−
+π
+(c)
+Q P− (d) None of these
+89. What is the volume of the frustum? e 2012 II
+(a) 3H P Q PQ( ) + + (b) H P Q PQ( ) + +
+(c) H P Q PQ( ) /+ + 3 (d) H P Q PQ( ) /+ − 3
+90. Let the largest possible right circular cone and
+largest possible sphere be fitted into two cubes of
+same length. If C and S denote the volume of
+cone and volume of sphere, respectively. Then,
+which one of the following is correct? e 2012 II
+(a) C S= 2 (b) S C= 2 (c) C S= (d) C S= 3
+91. 10 circular plates each of thickness 3 cm, are
+placed one above the other and a hemisphere of
+radius 6 cm is placed on the top just to cover the
+cylindrical solid. What is the volume of the solid
+so formed? e 2012 II
+(a) 264 π cm 3 (b) 252 π cm 3
+(c) 236 π cm 3 (d) None of these
+92. A right circular metal cone (solid) is 8 cm high and
+the radius is 2 cm. It is melted and recast into a
+sphere. What is the radius of the sphere? e 2012 II
+(a) 2 cm (b) 3 cm (c) 4 cm (d) 5 cm
+93. The volume of a cube is numerically equal to
+sum of its edges. What is the total surface area?
+(a) 12 sq units (b) 36 sq units e 2012 II
+(c) 72 sq units (d) 144 sq units
+94. The diameter of base of a right circular cone is
+7 cm and slant height is 10 cm, then what is its
+lateral surface area? e 2012 II
+(a) 110 cm 2 (b) 100 cm 2 (c) 70 cm 2 (d) 49 cm 2
+95. What is the height of a solid cylinder of radius
+5 cm and total surface area is 660 cm
+2? e 2012 II
+(a) 10 cm (b) 12 cm (c) 15 cm (d) 16 cm
+96. If the ratio of the diameters of two spheres is
+3 5 : ,then what is the ratio of their surface areas?
+e 2012 II
+(a) 9 : 25 (b) 9 : 10 (c) 3 : 5 (d) 27 : 125
+97. What is the volume of the largest sphere that can
+be curved out of a cube of edge 3 cm? e 2012 II
+(a) 9π cm 3 (b) 6π cm 3 (c) 4 5 .π cm 3 (d) 3π cm 3
+98. What is the quantity of cloth required to roll
+up to form a right circular tent whose base is of
+radius 12 m and height 5 m? e 2013 I
+(a) 40π m 2 (b) 60π m 2 (c) 78π m 2 (d) 156π m 2
+99. The volume of the material of a hemispherical
+shell with outer and inner radii 9 cm and 7 cm,
+respectively is approximately e 2013 I
+(a) 808 cm 3 (b) 800 cm 3 (c) 816 cm 3 (d) 824 cm 3
+100. The ratio of surface area to diameter of a sphere
+whose volume is 36π cm
+3, is e 2013 I
+(a) 3π (b) 6π (c) 6 (d) None of these
+346 CDS Pathfinder
+--- PDF PAGE 552 ---
+101. A cylindrical tube open at both ends is made of
+metal. The internal diameter of the tube is 6 cm
+and length of the tube is 10 cm. If the thickness
+of the metal used is 1 cm, then the outer curved
+surface area of the tube is e 2013 I
+(a) 140π cm 2 (b) 146 5 .π cm 2
+(c) 70π cm 2 (d) None of these
+102. From a solid wooden right circular cylinder, a
+right circular cone whose radius and height are
+same as the radius and height of the cylinder,
+respectively is carved out. What is the ratio of
+the volume of the utilised wood to that of the
+wasted wood? e 2013 I
+(a) 1 : 2 (b) 2 : 1 (c) 2 : 3 (d) 1 : 3
+103. If the heights and the areas of the base of a right
+circular cone and a pyramid with square base
+are the same, then they have e 2013 I
+(a) same volume and same surface area
+(b) same surface area but different volumes
+(c) same volume but different surface areas
+(d) different volumes and different surface areas
+104. The volume of a right circular cone of height
+3 cm and slant height 5 cm is e 2013 I
+(a) 49.3 cm 3 (b) 50.3 cm 3
+(c) 52 cm 3 (d) 53 cm 3
+105. A bucket is of a height 25 cm. Its top and bottom
+radii are 20 cm and 10 cm, respectively. Its
+capacity (in L) is e 2013 I
+(a)
+17 5 3. π (b) 17 5 .π (c) 20 π (d) 25 π
+106. The height of a cylinder is 15 cm. The lateral
+surface area is 660 cm
+2. Its volume is e 2013 II
+(a) 1155 cm 3 (b) 1215 cm 3 (c) 1230 cm 3 (d) 2310 cm 3
+107. The diameter of the Moon is approximately
+one-fourth of the diameter of the Earth. What is
+the ratio (approximate) of their volumes? e 2013 II
+(a) 1 16 : (b) 1 64 : (c) 1 4 : (d) 1 128:
+108. A conical cap has the base diameter 24 cm and
+height 16 cm. What is the cost of painting the
+surface of the cap at the rate of 70 paise
+per cm
+2? e 2013 II
+(a) ` 520 (b) ` 524 (c) ` 528 (d) ` 532
+109. What is the whole surface area of a cone of base
+radius 7 cm and height 24 cm? e 2013 II
+(a) 654 cm 2 (b) 704 cm 2 (c) 724 cm 2 (d) 964 cm 2
+110. A tent is in the form of a right circular cylinder
+surmounted by a cone. The diameter of the
+cylinder is 24 m. The height of the cylindrical
+portion is 11 m, while the vertex of the cone is
+16 m above the ground. What is the area of the
+curved surface for conical portion? e 2013 II
+(a) 3434/9 m 2 (b) 3431/8 m 2
+(c) 3432/7 m 2 (d) 3234/7 m 2
+111. If x is the curved surface area and y is the
+volume of a right circular cylinder, then which
+one of the following is correct? e 2014 I
+(a) Only the ratio of the height to radius of the cylinder
+is independent of
+x
+(b) Only the ratio of height to radius of the cylinder is
+independent of y
+(c) Either (a) or (b)
+(d) Neither (a) nor (b)
+112. A cylinder is surmounted by a cone at one end, a
+hemisphere at the other end. The common radius
+is 3.5 cm, the height of the cylinder is 6.5 cm
+and the total height of the structure is 12.8 cm.
+The volume V of the structure lies between
+e 2014 I
+(a) 370 cm 3 and 380 cm 3 (b) 380 cm 3 and 390 cm 3
+(c) 390 cm 3 and 400 cm 3 (d) None of these
+113. The diameter of the base of a cone is 6 cm and
+its altitude is 4 cm. What is the approximate
+curved surface area of the cone? e 2014 I
+(a) 45 cm 2 (b) 47 cm 2 (c) 49 cm 2 (d) 51 cm 2
+114. A drainage tile is a cylindrical shell 21 cm long.
+The inside and outside diameters are 4.5 cm and
+5.1 cm, respectively. What is the volume of the
+clay required for the tile? e 2014 I
+(a) 6.96 π cm 3 (b) 6.76 π cm 3
+(c) 5.76 π cm 3 (d) None of these
+115. A cube has each edge 2 cm and a cuboid is 1 cm
+long, 2 cm wide and 3 cm high. The paint in a
+certain container is sufficient to paint an area
+equal to 54 cm
+2. e 2014 I
+Which one of the following is correct?
+(a) Both cube and cuboid can be painted
+(b) Only cube can be painted
+(c) Only cuboid can be painted
+(d) Neither cube nor cuboid can be painted
+116. A cone of radius r cm and height h cm is divided
+into two parts by drawing a plane through the
+middle point of its height and parallel to the base.
+What is the ratio of the volume of the original
+cone to the volume of the smaller cone? e 2014 I
+(a) 4 : 1 (b) 8 : 1 (c) 2 : 1 (d) 6 : 1
+117. If 64 identical small spheres are made out of big
+sphere of diameter 8 cm, then what is surface
+area of each small sphere? e 2014 I
+(a) π cm 2 (b) 2 π cm 2 (c) 4 π cm 2 (d) 8 π cm 2
+118. The dimensions of a field are 15 m by 12 m. A
+pit 8 m long, 2.5 m wide and 2 m deep is dug in
+one corner of the field and the earth removed is
+evenly spread over the remaining area of the
+field. The level of the field is raised by e 2014 I
+(a) 15 cm (b) 20 cm (c) 25 cm (d)
+200
+9
+cm
+MATHEMATICS > Quadratic□Equations□and□Inequalities 347
+--- PDF PAGE 553 ---
+119. What is the diameter of the largest circle lying on
+the surface of a sphere of surface area 616 cm
+2?
+e 2014 I
+(a) 14 cm (b) 10.5 cm (c) 7 cm (d) 3.5 cm
+120. The volume of a hollow cube is 216 3x . What is
+the surface area of the largest sphere which can
+be enclosed in it? e 2014 I
+(a) 18 2π x (b) 27 2π x (c) 36 2π x (d) 72 2π x
+Directions (Q. Nos. 121-122) Read the following
+information carefully and answer the given
+questions that follow.
+A right angled triangle having hypotenuse 25 cm and
+legs in the ratio 3 : 4 is made to revolve about its
+hypotenuse. (π = 3.14)
+121. What is the volume of the double cone so
+formed? e 2014 II
+(a) 3124 cm3 (b) 3424 cm3 (c) 3768 cm3 (d) 3924 cm3
+122. What is the surface area of the double cone so
+formed? e 2014 II
+(a) 1101.2 cm2 (b) 11114 2. cm (c) 1310 4 2. cm (d) 1318 8 2. cm
+123. If the side of a cube is increased by 100%, then
+by what percentage is the surface area of the
+cube increased? e 2014 II
+(a) 150% (b) 200% (c) 300% (d) 400%
+124. A cylinder circumscribes a sphere. What is the
+ratio of volume of the sphere to that of the
+cylinder? e 2014 II
+(a) 2 : 3 (b) 1 : 2 (c) 3 : 4 (d) 3 : 2
+Directions (Q. Nos. 125-126) Read the following
+information carefully and answer the given
+questions that follow.
+A toy is in the form of a cone mounted on the
+hemisphere with the same radius. The diameter of the
+base of the conical portion is12 cmand its height is8 cm.
+125. What is the total surface area of the toy? e 2014 II
+(a) 132 2π cm (b) 112 2π cm (c) 96 2π cm (d) 66 2π cm
+126. What is the volume of the toy? e 2014 II
+(a) 180 3π cm (b) 240 3π cm (c) 300 π cm3 (d) 320 3π cm
+127. The areas of the three adjacent faces of a
+cuboidal box are x, 4x and 9x sq unit. What is the
+volume of the box? e 2014 II
+(a) 6 2x cu units (b) 6 3 2x / cu units
+(c) 3 3 2x / cu units (d) 2 3 2x / cu units
+128. What is the number of pairs of perpendicular
+planes in a cuboid? e 2014 II
+(a) 4 (b) 8
+(c) 12 (d) None of these
+129. Consider the following statements in respect of
+four spheres A, B C, and D having respective
+radii 6, 8, 10 and 12 cm.
+I. The surface area of sphere C is equal to the sum
+of surface areas of spheres A and B.
+II. The volume of sphere D is equal to the sum of
+volumes of spheres A, B and C. e 2014 II
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+130. The diameter of a metallic sphere is 6 cm. The
+sphere is melted and drawn into a wire of uniform
+circular cross-section. If the length of the wire is
+36 m, then what is its radius? e 2014 II
+(a) 0.1 cm (b) 0.01 cm (c) 0.001 cm (d) 1.0 cm
+131. What is the maximum distance between two
+points of a cube of side 2 cm? e 2014 II
+(a)
+3 cm (b) 2 3 cm (c) 4 3 cm (d) 2 2 cm
+132. The total outer surface area of a right circular
+cone of height 24 cm with a hemisphere of radius
+7 cm upon its base is e 2015 I
+(a) 327 π cm 2 (b) 307 π cm 2
+(c) 293 π cm 2 (d) 273 π cm 2
+133. A sphere and a cube have same surface area.
+The ratio of square of their volumes is e 2015 I
+(a) 6 : π (b) 5 : π (c) 3 5 : (d) 1 : 1
+134. The radius of a sphere is equal to the radius of
+the base of a right circular cone, and the volume
+of the sphere is double the volume of the cone.
+The ratio of the height of the cone to the radius
+of its base is e 2015 I
+(a) 2 : 1 (b) 1 : 2 (c) 2 : 3 (d) 3 : 2
+135. If the radius of a sphere is increased by 10%,
+then the volume will be increased by e 2015 I
+(a) 33.1% (b) 30% (c) 50% (d) 10%
+136. If three metallic spheres of radii 6 cm, 8 cm and
+10 cm are melted to form a single sphere, then
+the diameter of the new sphere will be e 2015 I
+(a) 12 cm (b) 24 cm (c) 30 cm (d) 36 cm
+137. If the height of a right circular cone is increased
+by 200% and the radius of the base is reduced by
+50%, then the volume of the cone e 2015 I
+(a) remains unaltered (b) decreases by 25%
+(c) increases by 25% (d) increases by 50%
+138. A rectangular paper of 44 cm long and 6 cm wide
+is rolled to form a cylinder of height equal to
+width of the paper. The radius of the base of the
+cylinder so rolled is e 2015 I
+(a) 3.5 cm (b) 5 cm (c) 7 cm (d) 14 cm
+348 CDS Pathfinder
+--- PDF PAGE 554 ---
+139. The diagonals of three faces of a cuboid are 13,
+281 and 20 linear units. Then, the total surface
+area of the cuboid is e 2015 I
+(a) 650 sq units (b) 658 sq units
+(c) 664 sq units (d) 672 sq units
+140. A cylindrical vessel of radius 4 cm contains
+water. A solid sphere of radius 3 cm is lowered
+into the water until it is completely immersed.
+The water level in the vessel will rise by e 2015 I
+(a) 1.5 cm (b) 2 cm (c) 2.25 cm (d) 4.5 cm
+141. A rectangular block of wood having dimensions
+3 2 1 75m m× × . m has to be painted on all its
+faces. The layer of paint must be 01 .mm thick.
+Paint comes in cubical boxes having their edges
+equal to 10 cm. The minimum number of boxes
+of paint to be purchased is e 2015 I
+(a) 5 (b) 4 (c) 3 (d) 2
+142. If the surface area of a cube is 13254 cm
+2, then
+the length of its diagonal is e 2015 II
+(a) 44 2 cm (b) 44 3 cm (c) 47 2 cm (d) 47 3 cm
+143. A water tank, open at the top, is hemispherical
+at the bottom and cylindrical above it. The
+radius is 12 m and the capacity is 3312
+3π m .
+The ratio of the surface areas of the spherical
+and cylindrical portions, is e 2015 II
+(a) 3 : 5 (b) 4 : 5 (c) 1 : 1 (d) 6 : 5
+144. A large water tank has the shape of a cube. If
+128 m
+3 of water is pumped out, the water level
+goes down by 2m. Then, the maximum capacity
+of the tank is e 2015 II
+(a) 512 m 3 (b) 480 m 3 (c) 324 m 3 (d) 256 m 3
+145. The areas of three mutually perpendicular faces
+of a cuboid are x, y, z. If V is the volume, then
+xyz is equal to e 2015 II
+(a) V (b) V 2 (c) 2V (d) 2 2V
+146. How many right angled triangles can be formed
+by joining the vertices of a cuboid? e 2015 II
+(a) 24 (b) 28 (c) 32 (d) None of these
+147. Three rectangles R
+1, R2 and R3 have the same
+area. Their lengths x1, x2 and x3 respectively are
+such that x x x1 2 3< < . If V1, V2 and V3 are the
+volumes of the cylinders formed from the
+rectangles R
+1, R2 and R3 respectively by joining
+the parallel sides along the breadth, then which
+one of the following is correct? e 2015 II
+(a) V V V3 2 1< < (b) V V V1 3 2< <
+(c) V V V1 2 3< < (d) V V V3 1 2< <
+148. Let V be the volume of an inverted cone with vertex
+at origin and the axis of the cone is along positive
+Y-axis. The cone is filled with water up to half of
+its height. The volume of water is e 2015 II
+(a)
+V
+8
+(b) V
+6
+(c) V
+3
+(d) V
+2
+149. 30 metallic cylinders of same size are melted and
+cast in the form of cones having the same radius
+and height as those of the cylinders.
+Consider the following statements
+I. A maximum of 90 cones will be obtained.
+II. The curved surface of the cylinder can be
+flattened in the shape of a rectangle but the
+curved surface of the cone when flattened has
+the shape of triangle.
+Which one of the following statement(s) is/are
+correct in respect of the above? e 2015 II
+(a) Both statement I and statement II are correct and
+statement II is the correct explanation of statement I
+(b) Both statement I and statement II are correct and
+statement II is not the correct explanation of
+statement I
+(c) statement I is correct but statement II is not correct
+(d) statement I is not correct but statement II is correct
+150. Water is filled in a container in such a manner
+that its volume doubles every 5 min. If it takes
+30 min for the container to be full, in how much
+time will it be one-fourth full ? e 2015 II
+(a) 7.5 min (b) 15 min (c) 20 min (d) 17.5 min
+151. Consider the following statements:
+I. If the height of a cylinder is doubled, the area of
+the curved surface is doubled.
+II. If the radius of a hemispherical solid is doubled,
+its total surface area becomes fourfold.
+Which of the statement(s) given above is/are
+correct? e 2015 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+152. From the solid gold in the form of a cube of side
+length 1 cm, spherical solid balls each having
+the surface area π
+1 3 / cm 2 are to be made.
+Assuming that there is no loss of the material in
+process of making the balls, the maximum
+number of balls made will be e 2015 II
+(a) 3 (b) 4 (c) 6 (d) 9
+153. A hollow cylindrical drum has internal diameter
+of 30 cm and a height of 1 m. What is the
+maximum number of cylindrical boxes of
+diameter 10 cm and height 10 cm each that can
+be packed in the drum? e 2015 II
+(a) 60 (b) 70 (c) 80 (d) 90
+154. A pipe with square cross-section is supplying
+water to a cistern which was initially empty. The
+area of cross-section is 4 cm
+2 and the nozzle
+velocity of water is 40m/s. The dimensions of the
+cistern 10 8 6m m m× × . Then, the cistern will be
+full in e 2015 II
+(a) 9.5 h (b) 9 h
+(c) 8 h and 20 min (d) 8 h
+MATHEMATICS > Quadratic□Equations□and□Inequalities 349
+--- PDF PAGE 555 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (c) Let ‘ a’ be the edge of three equal
+cubes. Surface area of a single cube
+= 6 (Side) 2 = 6 2a
+∴ Sum of the surface areas of the three
+cubes is = =3 6 182 2( )a a
+Length of resulting cuboid = 3a
+Breadth of resulting cuboid = a
+Height of resulting cuboid = a
+∴ Total surface area of cuboid
+= + +2 ( )lb bh hl
+= + +2 3 3 2 2 2( )a a a = 14 2a
+Required ratio = =14
+18
+7
+9
+2
+2
+a
+a
+, i.e. 7 9 :
+2. (b) Here, x = 12,
+According to the formula, percentage
+increase in volume
+= +
+ 
+ −
+
+
+
+
+×1
+100
+1 100
+3x %
+= +
+ 
+ −
+
+
+
+
+×1 12
+100
+1 100
+3
+%
+= +
+ 
+ −
+
+
+
+
+×1 3
+25
+1 100
+3
+%
+= 
+ 
+ −
+
+
+
+
+×28
+25
+1 100
+3
+%
+= −
+
+
+×21952
+15625
+1 100% = − ×[ ] %1.405 1 100
+= ×0.405 100% = 40.5%
+3. (b) Given, diameter of the base of the
+cylinder = 21 cm
+∴ Radius
+= 21
+2
+cm
+As, curved surface area = =2 1320πrh
+⇒ 2 22
+7
+21
+2
+1320× × × = h
+∴ h =
+×
+=1320
+22 3
+20 cm
+4. (c) 1 cm 3 of water weighs 1 g.
+/c81Volume of 154 g of water = 154 cm 3
+∴ Volume of cylinder = =πr h2 154 cm 3
+⇒ 22
+7
+3 5 1542( . ) × =h
+⇒ 77
+2
+154h =
+⇒ h = × =154 2
+77
+4 cm
+5. (d) Here, 2 264πrh = m 2
+and πr h2 924= m 3 [given]
+∴ π
+π
+r h
+rh
+2
+2
+924
+264
+=
+⇒
+r
+2
+7
+2
+= ⇒ r = 7 m
+∴ Diameter of pillar
+= × = × =r 2 7 2 14 m
+6. (b) Given, r = 7 m, h = 24 m
+Slant height of cone,
+= + = +r h2 2 2 2 24 7
+= + = =576 49 625 25 m
+Curved surface area = π rl
+= × × =22
+7
+7 25 550 m 2
+Width of cloth = 50 m
+Length required = =550
+50
+11 m
+7. (c) Let radius and height of a
+right circular cone be 5x and 12x
+respectively.
+∴ r = 5x and h = 12x
+Volume of cone = =1
+3
+25122πr h
+⇒ 1
+3
+3 14 5 12 25122× × × =. ( )x x
+⇒ x3 2512
+314
+8= =
+⇒ x = 2
+∴ Radius = 10 cm, height = 24 cm
+∴ Slant height,
+l r h= + = +2 2 2 2 10 24
+= 676 = 26 cm
+350 CDS Pathfinder
+ANSWERS
+1 c 2 b 3 b 4 c 5 d 6 b 7 c 8 a 9 c 10 c
+11 c 12 c 13 b 14 a 15 b 16 c 17 d 18 a 19 b 20 a
+21 d 22 d 23 b 24 b 25 c 26 b 27 b 28 b 29 b 30 c
+31 c 32 c 33 b 34 b 35 b 36 b 37 d 38 a 39 b 40 c
+41 c 42 c 43 a 44 b 45 a 46 d 47 b 48 c 49 a 50 b
+51 b 52 b 53 c 54 b 55 d 56 d 57 d 58 d 59 b 60 d
+61 a 62 c 63 a 64 d 65 b 66 b 67 b 68 a 69 c 70 c
+71 d 72 d 73 c 74 c 75 c 76 d 77 a 78 d 79 b 80 c
+81 a 82 c 83 b 84 a 85 d 86 a 87 a 88 a 89 c 90 b
+91 d 92 a 93 c 94 a 95 d 96 a 97 c 98 d 99 a 100 b
+101 d 102 a 103 c 104 b 105 a 106 d 107 b 108 c 109 b 110 c
+111 d 112 a 113 b 114 d 115 a 116 b 117 c 118 c 119 a 120 c
+121 c 122 d 123 c 124 a 125 a 126 b 127 b 128 c 129 c 130 a
+131 b 132 d 133 a 134 a 135 a 136 b 137 b 138 c 139 c 140 c
+141 c 142 d 143 b 144 a 145 b 146 a 147 a 148 a 149 b 150 c
+151 c 152 c 153 d 154 c

@@ -1,0 +1,2045 @@
+
+--- PDF PAGE 288 ---
+COMPOUND INTEREST
+When the interest is calculated on the amount of previous yea r, then it is known as compound interest.
+It will make a deposit or loan grow at a faster rate than simple interest.
+Important Rules and Formulae
+Consider P = Principal (amount borrowed) , A = Amount (Principal + Interest)
+R = Rate of interest per annum and n = Number of years
+Rule 1 When interest is compounded annually, then
+(i) Amount = + 
+ 
+P R
+n
+1
+100
+(ii) CI = A – P
+= + 
+ 
+ −
+
+
+
+
+
+
+
+
+P R
+n
+1
+100
+1
+EXAMPLE 1. The amount and the compound interest on ` 24000 compounded annually for 2 yr at
+the rate of 10% per annum is
+a. ` 39040 and ` 4040 b. ` 29040 and ` 5040 c. ` 19040 and ` 3040 d. None of these
+Sol. b. Here, P = ` 24000, R = 10% per annum and n = 2 yr
+/c81A P R n
+= + 
+ 
+1 100
+= + 
+ 
+ = 
+ 
+24000 1 10
+100 24000 110
+100
+2 2
+= × × =24000 110
+100
+110
+100 ` 29040
+/c81 Compound interest = Amount − Principal = ` 29040 24000− ` = ` 5040
+So, amount = ` 29040 and compound interest = ` 5040
+Rule 2 When interest is compounded half-yearly (every 6 months), t hen
+(i) Amount = +
+×
+
+ 
+P r
+n
+1
+100 2
+2
+(ii) CI
+= +
+×
+
+ 
+ −
+
+
+
+
+
+
+
+
+1
+100 2
+1
+2
+R
+n
+83
+10
+COMPOUND□INTEREST
+Usually (1-2) questions have been asked from this chapter . Questions from this chapter are based on
+the direct application of compound interest formula.
+--- PDF PAGE 289 ---
+EXAMPLE 2. The compound interest on ` 24000
+compounded semi-annually for 1 1
+2 yr at the rate of
+10% per annum is
+a. ` 3783 b. ` 2783 c. ` 2763 d. ` 3763
+Sol. a. Given, P = ` 24000
+Rate of interest = 10% per annum
+and time = 1 1
+2 yr
+= 3
+2 yr
+Since, the interest is compounded half-yearly.
+Then, rate
+( ) %R = 10
+2 half-yearly
+and time ( )n = × =2 3
+2 3 half-yearly
+∴
+A = + 
+ 
+24000 1 5
+100
+3
+/c81A P R n
+= +
+ 
+
+
+
+1 100
+= + 
+ 
+ = 
+ 
+24000 1 1
+20 24000 21
+20
+3 3
+[Rule 1]
+= × × ×24000 21
+20
+21
+20
+21
+20 = ` 27783
+Now, compound interest = −A P
+= ` 27783 − ` 24000 = ` 3783
+Rule 3 When interest is compounded quarterly
+(every 3 months), then
+(i) Amount = +
+×
+
+ 
+P R
+n
+1
+100 4
+4
+(ii) CI
+= +
+×
+
+ 
+ −
+
+
+
+
+
+
+
+
+P R
+n
+1
+100 4
+1
+4
+EXAMPLE 3. The amount and the compound
+interest on ` 100000 compounded quarterly for 9
+months at the rate of 4% per annum is
+a. ` 106060 and ` 6060.10 b. ` 103030 and ` 3030.10
+c. ` 103030.10 and ` 3030.10 d. ` 106060.10 and ` 6060.10
+Sol. c. Given, P = ` 100000, rate of interest = 4% per annum
+and time = 9 months
+Since, the interest is compounded quarterly.
+Then, rate
+( ) %R = =4
+4 1 quarterly
+and time ( )n = 9 months
+= × =9
+12 4 3 quarter yearly
+/c81Amount, A P R n
+= + 
+ 
+1 100
+∴
+A = + 
+ 
+100000 1 1
+100
+3
+= 
+ 
+100000 101
+100
+3
+= × × ×100000 101
+100
+101
+100
+101
+100 = ` 103030.10
+∴ Compound interest = −A P = ` 103030 10 .− ` 100000
+= ` 3030.10
+Rule 4 When interest is compounded annually but time
+is given in fraction (say, t a
+b
+yr), then
+Amount
+= + 
+ 
+ × +
+ 
+P R a/b Rt
+1
+100
+1
+100
+( )
+EXAMPLE 4. The amount and compound interest on
+` 5000 compounded annually for 2 yr 6 months at the
+rate of 10% per annum is
+a. ` 6252.5 and ` 1342.5 b. ` 6000 and ` 1300
+c. ` 6250 and ` 1340 d. ` 6352.5 and ` 1352.5
+Sol. d. Here, time = 2 yr and 6 months
+∴ t = 2 yr and a
+b = 1
+2 yr
+/c81 Amount
+= +
+ 
+ ×
++
+
+
+
+
+
+
+
+
+
+P R
+a
+b Rt
+1 100
+1
+100
+∴
+A = + 
+ 
+ +
+⋅
+
+
+
+
+
+
+
+
+
+5000 1 10
+100 1
+1
+2 10
+100
+2
+= 
+ 
+ 
+ 
+5000 110
+100
+105
+100
+2
+= × × ×5000 11
+10
+11
+10
+21
+20 = ` 6352.50
+∴ Compound interest = −A P
+CI = − =6352 50 5000 1352 50. . `
+Rule 5 When rate of interest for n n1 2, and n3 yr are
+R R1 2, and R3 respectively, then
+Amount = + 
+ 
+ +
+ 
+ +
+ 
+P R R R
+n n n
+1
+100
+1
+100
+1
+100
+1 2 3
+1 2 3
+EXAMPLE 5. The compound interest on ` 5000 for
+4 yr if the rate of interest is 10% per annum for the
+first two years and 15% for the next two years is
+a. ` 3000 b. ` 3001 c. ` 3002 d. None of these
+Sol. b. Here, R1 10= %, n n n= + =1 2 4 yr
+n 1 2= yr, R2 15= % , n2 2= yr
+and principal = ` 5000
+/c81 Amount = 
+ 
+ + 
+ 
+P R R n n
+1 + 1 2
+100 1 100
+1 2
+∴ A = 5000 1 10
+100 1 15
+100
+2 2
++
+ 
+ +
+ 
+
+= × 
+ 
+ 
+ 
+5000 110
+100
+115
+100
+2 2
+= × × × ×5000 11
+10
+11
+10
+23
+20
+23
+20 = ` 8001.125
+∴ Compound interest
+= − = − −A P ` `8001125 5000. ~ ` 3001
+84 CDS Pathfinder
+--- PDF PAGE 290 ---
+85MATHEMATICS Compound Interest
+Rule 6 The difference D between simple and compound
+interest accrued on ` P at the rate of interest of R% is
+given by
+(i) For 2 yr, D PR=
+2
+2100( )
+(ii) For 3 yr, D PR r= +2
+3
+300
+100
+( )
+( )
+EXAMPLE 6. The difference between the compound
+interest and the simple interest on a certain sum at
+12% per annum for 2 yr is ` 90. Then, sum is
+a. ` 6250 b. ` 6350 c. ` 6520 d. ` 6950
+Sol. a. Let the sum be ` 100.
+Case I Then, simple interest on ` 100 for 2 yr
+= 100 12 2
+100
+× ×
+ 
+ = ` 24
+Case II Amount when ` 100 is borrowed for 2 yr
+=
+100 1 12
+100
+2
+× +
+ 
+
+A P R n
+= +
+ 
+
+
+
+1 100 ,Rule 1 (i)
+=
+100 28
+25
+28
+25× × = ` 3136
+25
+
+ 
+
+∴ Compound interest for 2yr =
+3136
+25 100−
+ 
+= `
+636
+25
+
+ 
+
+Difference between CI and SI =
+636
+25 24−
+ 
+ = `
+36
+25
+If the difference between CI and SI is ` 36
+25 , then the
+sum = ` 100
+If the difference between CI and SI is ` 1,
+then the sum = ` 100 25
+36
+×
+ 
+
+If the difference between CI and SI is ` 90, then the sum
+=
+100 25
+36 90× ×
+ 
+ = ` 6250
+Here, the sum is ` 6250.
+Shortcut Method
+Let the required sum be ` P.
+Here, difference = ` 90 and R = 12%
+∴ Difference between CI and SI
+90 100
+12
+100
+2
+2
+2
+2= =PR P
+( )
+( )( )
+( ) ⇒ 90 144
+100 100= ×
+×
+P
+∴ P = ` 6250
+Required sum = ` 6250
+Rule 7 If a certain sum at compound interest becomes
+A1, in n yr and A 2 in ( )n+ 1 yr, then
+(i) Rate of compound interest = − ×(A A
+A
+2 1
+1
+100) %
+(ii) Sum = 
+
+
+A A
+A
+n
+1
+1
+2
+EXAMPLE 7. A sum of money on compound interest
+amount to ` 9680 in 2 yr and to ` 10648 in 3 yr. What
+is the rate of interest per annum?
+a. 5% b. 10% c. 15% d. 20%
+Sol. b. Given, A1 10648= ` and A2 9680= `
+∴ Rate of compound interest = − ×( ) %A A
+A
+2 1
+1
+100
+= − ×10648 9680
+9680 100% = 10%
+DEPRECIATION
+The value of certain things like the machine, vehicle etc.,
+decreases over a period of time. The decrement in the
+value things is called depreciation. The depreciation per
+unit time is called the rate of depreciation.
+Rule 8 If the present value of a article is P and it
+depreciate at the rate of R% per annum. Then,
+(i) Value of article after n yr = × − 
+ 
+P R
+n
+1
+100
+(ii) Value of article n yr ago =
+−
+ 
+
+P
+R
+n
+1
+100
+EXAMPLE 8. Given that carbon − 14 14( )C decays at a
+constant rate in such a way that it reduces to 50% in
+5568 yr. Then, the age of an old wooden piece in
+which the carbon is only 12.5% of the original is
+a. 16000 yr b. 16244 yr c. 16702 yr d. None of these
+Sol. d. Let the rate of decay be R% and the age of the
+wooden piece be n yr.
+Then, 50
+100 1 100
+5568
+
+ 
+ = −
+ 
+R ⇒
+1 100 0 5 1 5568−
+ 
+ =R ( . ) / …(i)
+⇒
+12 5
+100 1 100
+. = −
+ 
+R n
+⇒
+( . )0 125 1 100= −
+ 
+R n
+⇒
+( . ) /0 125 1 100
+1 n R= −
+ 
+ ⇒
+( . ) /0 5 1 100
+3 n R= −
+ 
+ …(ii)
+From Eqs. (i) and (ii),
+( . ) ( . )/0 5 0 53
+1
+5568n =
+On comparing both sides, we get
+3 1
+5568n = ⇒ n = ×3 5568 = 16704 yr
+INSTALMENTS
+When a borrower pays the sum in parts, then we say
+that he/she is paying in instalments.
+∴
+P x
+R
+x
+R
+=
++
+ 
+
++
++
+ 
+1
+100 1
+100
+2
++…+
++
+ 
+
+x
+R
+n
+1
+100
+--- PDF PAGE 291 ---
+x = value of each instalment
+Total amount paid in instalments, A P R
+n
+= + 
+ 
+1
+100
+n = number of instalments
+EXAMPLE 9. Sapna borrowed some money on
+compound interest and returned it in 3 yr in equal
+annual instalments. If rate of interest is 15 % per
+annum and annual instalment is ` 486680, then the
+sum borrowedes.
+a. 111300 b. 122400
+c. 1111200 d. 154320
+Sol. c. Given that, rate of interest, R = 15% pa
+Annual instalment, x = ` 486680
+T otal number of instalments, n = 3
+∴ P R R R
+=
++
+ 
+
++
++
+ 
+
++
++
+ 
+
+
+
+
+
+
+x x x
+1 100 1 100 1 100
+2 3
+
+
+
+
+
+
+
+⇒
+P R R R= + + + + +
+
+
+
+
+
+x 100
+100
+100
+100
+100
+100
+2
+2
+3
+3( )
+( )
+( )
+( )
+( )
+= 486680
+100
+100 15
+100
+100 15
+100
+100 15
+2 3
++
+
+
+
+
+
+ + +
+
+
+
+
+
+ + +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= × + 
+ 
+ + 
+ 
+
+
+
+486680 20
+23
+20
+23
+20
+23
+2 3
+= × + + 
+ 
+486680 20
+23 1 20
+23
+400
+529
+= 1111200
+∴ Principal borrowed = ` 1111200
+SOME IMPORTANT RESULTS
+1. Simple interest and compound interest are equal for first
+year period on the same sum and at the same rate.
+2. If A Band are the amounts of a certain sum for two
+consecutive years, then simple interest for 1 yr = −B A
+3. If certain sum at compound interest becomes x times in
+n1yr and y times in n 2yr, then x y n n1 1 1 2/ / =
+86 CDS Pathfinder
+--- PDF PAGE 292 ---
+1. Kiran purchased a scooter for ` 24000. The value
+of scooter is depreciating at the rate of 5% per
+annum. Then, its value after 3 yr is
+(a) ` 20577 (b) ` 20977 (c) ` 20677 (d) ` 20877
+2. If P be the principal amount and the rate of
+interest be r% per annum and the compound
+interest is calculated k times in a year, then
+what is the amount at the end of n yr?
+(a)
+P r
+k
+nk
+1
+100
++
+ 
+ (b)
+P kr
+nk
+1
+100
++
+ 
+
+(c)
+P kr
+n k
+1
+100
++
+ 
+
+/
+(d)
+P kr
+k
+n k
+1
+100
++
+ 
+
+/
+3. The amount of a certain sum at compound
+interest for 2 yr at 5% is ` 4410. The sum is
+(a) ` 4000 (b) ` 4200 (c) ` 3900 (d) ` 3800
+4. A person borrowed ` 7500 at 16% compound
+interest. How much does he have to pay at the
+end of 2 yr to clear the loan?
+(a) ` 9900 (b) ` 10092 (c) ` 11000 (d) ` 11052
+5. If the rate of interest is 10% per annum and
+is compounded half-yearly, then the principal of
+` 400 in 3/2 yr will amount to
+(a) ` 463.00 (b) ` 463.05
+(c) ` 463.15 (d) ` 463.20
+6. At compound interest, if a certain sum of money
+doubles in n yr, then the amount will be four
+fold in
+(a) 2 2n yr (b) n2 yr (c) 2n yr (d) 4n yr
+7. The simple interest on a certain sum of money
+for 3 yr at 8% per annum is half the compound
+interest on ` 4000 for 2 yr at 10% per annum.
+What is the sum placed on simple interest?
+(a) ` 1550 (b) ` 1650 (c) ` 1750 (d) ` 2000
+8. What is the least number of complete years in
+which a sum of money at 20% compound interest
+will be more than doubled?
+(a) 7 (b) 6 (c) 5 (d) 4
+9. The difference between the simple interest and
+the compound interest (compounded annually) on
+` 1250 for 2 yr at 8% per annum will be
+(a) ` 18 (b) ` 2 (c) ` 8 (d) ` 4
+10. The compound interest on a sum for 2 yr is ` 832
+and the simple interest on the same sum at the
+same rate for the same period is ` 800. What is
+the rate of interest?
+(a) 6% (b) 8% (c) 10% (d) 12%
+11. A saving bank gives interest which compounds
+annually. Raju deposited ` 100 and received
+` 121 at the end of second year. Rate of
+compound interest per annum is
+(a) 10% (b) 15% (c) 11.5% (d) 20.5%
+12. The amount of a certain sum at compound
+interest for 4 yr at 10% in ` 4410. The sum is
+(a) 3012.08 (b) 3015 (c) 3020.16 (d) 3016.9
+13. The compound interest on ` 5000 for 3 yr at 8%
+for first year, 10% for second year and 12% for
+third year will be
+(a) ` 1560.40 (b) ` 1500 (c) ` 1565.60 (d) ` 1652.80
+14. An amount of ` x at compound interest at 20%
+per annum for 3 yr becomes y. What is y x: ?
+(a) 3 : 1 (b) 36 : 25
+(c) 216 : 125 (d) 125 : 216
+15. The compound interest on ` 2000 for 1 yr at the
+rate of 8% per annum, when the interest is
+compounded semi-annually
+(a) ` 163.20 (b) ` 2163.20 (c) ` 3153.20 (d) ` 1163
+16. ` 16000 invested at 10% per annum compounded
+semi-annually amounts to ` 18522. Then, the
+period of investment is
+(a)
+1 1
+2
+yr (b) 3 yr (c) 2 yr (d) 5
+2
+yr
+17. A sum compounded annually becomes 25
+16
+times
+of itself in 2 yr. Then, the rate of interest per
+annum is
+(a) 25% (b) 20% (c) 15% (d)
+7 1
+2
+%
+18. A sum of ` 3200 invested at 10% per annum
+compounded quarterly amounts to ` 3362, then
+the time period is
+(a)
+1 1
+2
+yr (b) 1
+2
+yr (c) 2 yr (d) 1 yr
+19. A sum amount to ` 9680 in 2 yr and to ` 10648
+in 3 yr compounded annually. Then, the sum and
+rate of interest, respectively are
+(a) ` 8000, 10% (b) ` 8500, 10%
+(c) ` 8500, 9% (d) ` 8000, 9%
+20. If the value of a machine depreciates by 10% of
+its value at the beginning of the year and its
+present value is estimated as ` 10935, then what
+was its value three years back?
+(a) ` 15000 (b) ` 7000
+(c) ` 8050 (d) None of these
+87MATHEMATICS Compound Interest
+PRACTICE EXERCISE
+--- PDF PAGE 293 ---
+21. A sum of money doubles itself at compound
+interest in 15 yr. It will becomes 8 times in
+(a) 30 yr (b) 40 yr
+(c) 60 yr (d) 45 yr
+22. A man borrows ` 4000 at 8% per annum on
+compound interest. At the end of every year he
+pays ` 1500 as part payment of loan and
+interest. How much does he still owe to the bank
+after three such annual payments?
+(a) ` 1799 (b) ` 2000
+(c) ` 169.25 (d) None of these
+23. A sum of ` 10000 deposited at compound interest
+becomes double after 5 yr. After 20 yr, the
+amount will be
+(a) ` 160000 (b) ` 40000
+(c) ` 50000 (d) ` 60000
+24. Vinod and Karan each invested ` 15000 for 3 yr
+at the same rate of interest but Vinod's
+investment is compounded annually while
+Karan’s investment is charged on simple
+interest.
+I. Vinod receive more interest than karan.
+II. Data is insufficient to calculate the interest.
+Which one is correct?
+(a) Only I (b) Only II
+(c) Neither I nor II (d) Both I and II
+25. An amount is invested in a bank at compound
+rate of interest. The total amount, including
+interest, after first and third year is ` 1200 and
+` 1587, respectively.
+I. The principal amount will be ` 1403.
+II. The rate of interest is 16%
+Which statement(s) is/are correct?
+(a) Both I and II (b) Only I
+(c) Only II (d) Neither I nor II
+26. From the given statements, identify which of the
+following or both are correct and then select the
+appropriate option.
+I. The Present worth of ` 169 due in 2 yr at 4% Pa
+compound interest is 156.25.
+II. If the simple interest on a certain sum for 2 yr is
+` 120 and compound interest is ` 129, then the
+rate of interest must be 15%.
+Which statement(s) is/are correct?
+(a) Only II (b) Only I
+(c) Neither I nor II (d) Both I and II
+PREVIOUS YEARS’ QUESTIONS
+27. What is the compound interest on ` 1600 at 25%
+per annum of 2 yr compound annually? e 2012 II
+(a) ` 700 (b) ` 750 (c) ` 800 (d) ` 900
+28. The difference between compound interest and
+simple interest for 2 yr at the rate of 10% over
+principal amount of ` X is ` 10. What is the
+value of X? e 2014 II
+(a) ` 100 (b) ` 1000 (c) ` 500 (d) ` 5000
+29. The difference between compound interest and
+simple interest at the same rate of interest R per
+cent per annum on an amount of ` 15000 for
+2 yr is ` 96. What is the value of R? e 2015 I
+(a) 8% (b) 10 %
+(c) 12% (d) Cannot be determined
+30. There is 60% increase in an amount in 6 yr at
+simple interest. What will be the compound
+interest on ` 12000 after 3 yr at the same rate of
+interest? e 2015 I
+(a) ` 2160 (b) ` 3120 (c) ` 3972 (d) ` 6240
+31. A sum of ` 10000, is deposited for 1 yr at the
+rate of interest 10% compounded half yearly.
+What will be the interest at the end of one year?
+e 2015 II
+(a) ` 1000 (b) ` 1025 (c) ` 1050 (d) ` 1100
+88 CDS Pathfinder
+ANSWERS
+1 a 2 a 3 a 4 b 5 b 6 c 7 c 8 d 9 c 10 b
+11 a 12 a 13 d 14 c 15 a 16 a 17 a 18 b 19 a 20 a
+21 d 22 c 23 a 24 b 25 d 26 d 27 d 28 b 29 a 30 c
+31 b
+--- PDF PAGE 294 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (a) Given, P = ` 24000, R = 5% per
+annum and n = 3 yr
+∴ A P R
+n
+= − 
+ 
+1
+100
+[Rule 8 (i)]
+= − 
+ 
+24000 1 5
+100
+3
+= × 
+ 
+24000 95
+100
+3
+= ` 20577
+2. (a) Given, principal amount = ` P
+Rate of interest,
+R r
+k
+= % per annum and
+Time, T nk=
+/c81 A P R
+T
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+A P r
+k
+nk
+= +
+
+
+
+
+
+
+
+1
+100
+3. (a) Let the principal be = ` x.
+Given, n = 2 yr, R = 5% , A = ` 4410
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+4410 1 5
+100
+2
+= + 
+ 
+x
+⇒
+4410 21
+20
+2
+= 
+ 
+x
+⇒
+x = × =4410 400
+441
+` 4000
+4. (b) Given, P , R= ` 7500 16 = % and
+n = 2 yr
+/c81A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+= + 
+ 
+7500 1 16
+100
+2
+= 
+ 
+7500 116
+100
+2
+= × ×7500 29
+25
+29
+25
+= ×12 841 = ` 10092
+5. (b) Refer to example 2.
+6. (c) Let the principal be ` x.
+∴ Rate = ` R, Amount = ` 2x
+and Time = n yr
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+x x 1
+100
+2+
+ 
+ =R
+n
+⇒
+1
+100
+2+
+ 
+ =R
+n
+…(i)
+Let it becomes four fold in N yr.
+Then,
+x x 1
+100
+4+
+ 
+ =R
+N
+⇒
+1
+100
+4+
+ 
+ =R
+N
+⇒
+2 1
+100
+2 = +
+ 
+R
+N
+⇒
+1
+100
+1
+100
+2
++
+ 
+ = +
+ 
+R R
+n N
+[from Eq. (i)]
+∴ N n= 2 yr
+7. (c) Let the principal amount be ` P.
+By given condition, SI
+= 1
+2
+CI
+⇒ P × × =8 3
+100
+1
+2
+4000 1 10
+100
+4000
+2
++
+ 
+ −
+
+
+
+
+
+[Rule 1 (ii)]
+⇒
+24
+100
+1
+2
+4000 121
+100
+4000P = × −
+
+
+
+= −1
+2
+4840 4000[ ]
+⇒ 24
+100
+420P =
+∴ P = ×420 100
+24
+= ` 1750
+8. (d) Let the sum of money be ` P .
+∴ Amount = ` 2P
+⇒ A P R
+n
+= 
+ 
+1 +
+100
+[Rule 1. (i)]
+⇒
+2 1 20
+100
+P P
+n
+= + 
+ 
+
+⇒
+2 6
+5
+P
+P
+n
+= 
+ 
+
+⇒
+2 6
+5
+= 
+ 
+
+n
+On putting n = 4, we get
+6
+5
+1296
+625
+2
+4
+
+ 
+ = = (approx)
+∴ Least number of years = 4
+9. (c) Given, P R= =` 1250 8, % per
+annum and n = 2 yr
+/c81 Simple interest
+= × ×P R T
+100
+∴ Simple interest = × ×1250 8 2
+100
+= ` 200
+/c81 Compound interest
+= + 
+ 
+ −
+
+
+P R
+n
+1
+100
+1 [Rule 1. (ii)]
+/c81 CI
+= + 
+ 
+ −1250 1 8
+100
+1250
+2
+= × 
+ 
+ −1250 108
+100
+1250
+2
+= −1458 1250 = ` 208
+∴ Difference in SI and CI
+= −208 200 = ` 8
+Shortcut Method
+Here, p = ` 1250 and R = 8%
+∴ Required difference
+= PR2
+2100( )
+[Rule 6. (i)]
+= ×
+×
+=1250 64
+100 100
+8`
+10. (b) Given, CI = ` 832, SI = ` 800,
+n = 2 yr
+CI = + 
+ 
+ −
+
+
+
+
+
+P R
+n
+1
+100
+1
+[Rule 1. (ii)]
+∴
+832 1
+100
+1
+2
+= + 
+ 
+ −
+
+
+
+
+
+P R …(i)
+Also,
+SI = × ×P R T
+100
+⇒ 800 2
+100
+= × ×P R
+⇒ P
+R
+= 40000
+From Eq. (i),
+832 40000
+10000
+2
+100
+2
+= + 
+
+ 
+
+R
+R R
+⇒
+832 40000
+100 100
+2= + 
+ 
+R
+⇒ 832 4 800= +R
+∴
+R = =32
+4
+8%
+89MATHEMATICS Compound Interest
+--- PDF PAGE 295 ---
+11. (a) Given, principal ( P) = ` 100
+Amount (A) received after 2 yr = ` 121
+Let rate of interest = R% per annum
+/c81A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+121 100 1
+100
+2
+= + 
+ 
+R
+⇒
+121
+100
+100
+100
+2
+= +
+ 
+R
+⇒
+11
+10
+100
+100
+2 2
+
+ 
+ = +
+ 
+R
+⇒
+11
+10
+100
+100
+= + R
+⇒ 100 11 100
+10
++ = ×R
+⇒ 100 110+ =R
+∴ R = − =110 100 10
+∴ Rate of interest = 10%
+12. (a) Refer to example 3.
+13. (d) Given, P = ` 5000,
+R R R1 2 3 8 10 12= = =%, %, %
+and n n n1 2 3 1= = = yr
+/c81 Amount
+= + 
+
+ 
+
+ +
+
+ 
+
+ +
+
+ 
+
+P
+R R R
+n n n
+1
+100
+1
+100
+1
+100
+1 2 3
+1 2 3
+[Rule 5]
+= × + 
+ 
+ +
+ 
+ +
+ 
+5000 1 8
+100
+1 10
+100
+1 12
+100
+
+
+=
+5000 27
+25
+11
+10
+28
+25
+× × ×
+ 
+ = ` 6652.80
+∴ Compound interest = 6652 80 5000. −
+= ` 1652.80
+14. (c) Given, P = ` x , R = 20% per annum,
+n = 3 yr
+and A = ` y
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+y = + 
+ 
+x 1 20
+100
+3
+⇒
+y = 
+ 
+x 6
+5
+3
+⇒
+y
+x
+= 216
+125
+⇒ y : :x = 216 125
+15. (a) Given, principal ( )P = ` 2000
+Time = 1 yr
+Rate of interest = 8% per annum
+Since, the interest is compounded
+semi-annually.
+Then, rate
+( ) %R = =8
+2
+4 half-yearly
+and time ( )n = × =1 2 2 half-yearly
+/c81 CI = + 
+ 
+ −
+
+
+P R
+n
+1
+100
+1
+[Rule 1. (ii)]
+CI
+= + 
+ 
+ −2000 1 4
+100
+2000
+2
+= × 
+ 
+ −2000 26
+25
+2000
+2
+= −2163 20 2000. = ` 163.20
+16. (a) Given, principal ( P) = ` 16000
+Amount received at the end of period
+(A) = ` 18522
+Let time = t yr
+∴ n t= 2
+Rate = 10% per annum i.e 5% half-yearly
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+18522 16000 1 5
+100
+= + 
+ 
+
+n
+⇒
+18522
+16000
+21
+20
+
+ 
+ = 
+ 
+
+n
+⇒
+9261
+8000
+21
+20
+
+ 
+ = 
+ 
+
+n
+⇒
+21
+20
+21
+20
+3
+
+ 
+ = 
+ 
+
+n
+⇒ n = 3
+/c81 n t= 2 ⇒ 2 3t =
+∴
+t = 3
+2
+yr = 1 1
+2
+yr
+17. (a) Let sum/ principal be ` x and the rate
+be R% per annum.
+∴ Amount, A = 25
+16
+x and n = 2 yr
+/c81 A = P
+1
+100
++
+ 
+R
+n
+[Rule 1. (i)]
+∴
+25
+16
+1
+100
+2
+x x= + 
+ 
+R
+⇒
+25
+16
+1
+100
+2
+= +
+ 
+R
+⇒
+5
+4
+1
+100
+2 2
+
+ 
+ = +
+ 
+R
+⇒
+5
+4
+1
+100
+= +
+ 
+R ⇒
+R
+100
+1
+4
+=
+∴ R = 25%
+18. (b) Here, P = ` 3200,
+A = ` 3362
+[since, amount is payable quarterly]
+∴ R = 10% per annum = 10
+4
+% quarterly
+and let time = t
+⇒ n t= 4
+/c81 A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+⇒
+3362 3200 1 10
+4 100
+= +
+×
+
+
+
+
+
+
+
+
+n
+⇒
+3362
+3200
+410
+400
+= 
+ 
+
+n
+⇒
+41
+40
+41
+40
+2
+
+ 
+ = 
+ 
+
+n
+⇒ n = 2 ⇒ 4 2t = yr [as n t= 4 ]
+∴
+t = 1
+2
+yr
+19. (a) Given, A , A1 2 9680 10648= =` `
+and n = 2 yr
+∴ Rate of compound interest
+=
+−
+×
+A A
+A
+2 1
+1
+100% [Rule 7 (i)]
+= − × =10648 9680
+9680
+100 10% %
+∴ Sum =
+
+
+
+
+
+
+
+A
+A
+A
+n
+1
+1
+2
+[Rule 7 (ii)]
+= 
+ 
+9680 9680
+10648
+2
+= 
+ 
+9680 110
+121
+2
+= 
+ 
+9680 10
+11
+2
+= × =9680 100
+121
+8000`
+20. (a) Let the value of machine 3 yr ago be
+` x.
+and given, P = ` 10935, R = 10% and
+n = 3 yr
+/c81 x P R
+n
+= − 
+ 
+1
+100
+[Rule 8 (i)]
+∴
+x 1 10
+100
+10935
+3
+−
+ 
+ =
+⇒
+x 90
+100
+10935
+3
+
+ 
+ =
+∴
+x = × × ×
+× ×
+=10935 10 10 10
+9 9 9
+` 15000
+21. (d) Let the sum be ` x and rate be R %
+per annum.
+∴ Amount, A = ` 2x
+and time, n = 15 yr
+/c81 A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+Then,
+x x 1
+100
+2
+15
++
+ 
+ =R
+⇒
+1
+100
+2
+15
++
+ 
+ =R …(i)
+Suppose the sum becomes eight times in
+‘n’ yr, then
+x x 1
+100
+8+
+ 
+ =R
+n
+[by given condition]
+⇒
+1
+100
+8 2 3+
+ 
+ = =R
+n
+…(ii)
+90 CDS Pathfinder
+--- PDF PAGE 296 ---
+[but 2 1
+100
+3
+15 3
+= +
+ 
+
+
+
+
+
+
+
+
+
+R from Eq. (i)]
+⇒
+1
+100
+2 1
+100
+3
+45
++
+ 
+ = = + 
+ 
+R R
+n
+[on comparing]
+∴ n = 45 yr
+Shortcut Method
+Since, a sum of money at compound
+interest doubles itself in 15 yr.
+Hence, it will becomes eight times
+(23 times) in = ×15 3 = 45 yr
+22. (c) Amount due at the end of 1 yr
+= + 
+ 
+ =4000 1 8
+100
+` 4320
+∴ Amount due after 1 yr
+= ( )4320 1500− = ` 2820
+Amount due at the end of second year
+= + 
+ 
+ =2820 1 8
+100
+` 3045.60
+∴ Amount due after second year
+= ( . )3045 60 1500− = ` 1545.60
+Amount due at the end of third year
+= + 
+ 
+ =1545 60 1 8
+100
+. ` 1669.25
+Amount due after the payment of third
+instalment
+= ( . )1669 25 1500− = ` 169.25
+23. (a) Let the sum be ` x, then
+x x 1
+100
+2
+5
++
+ 
+ =R ⇒
+1
+100
+2
+5
++
+ 
+ =R
+…(i)
+The amount after 20 yr,
+x x 1
+100
+1
+100
+20 5 4
++
+ 
+ = + 
+ 
+
+
+
+
+
+
+
+
+
+R R
+= 24 x = 16x [from Eq. (i)]
+= ×16 10000 = ` 160000
+[put x = ` 10000]
+24. (b) Data is insufficient as the rate of
+interest is not given to calculate further.
+25. (d) Let amount be ` x and rate of
+interest is R % annually.
+According to the questions,
+Amount after 1st yr = ` 1200
+x 1
+100
+1200+
+ 
+ =R …(i)
+Amount after 3rd yr = ` 1587
+x 1
+100
+1587
+3
++
+ 
+ =R ` …(ii)
+On dividing Eq. (ii) by Eq. (i), we get
+1
+100
+1587
+1200
+529
+400
+2
++
+ 
+ = =R
+1
+100
+23
+20
++ =R ⇒
+R
+100
+3
+20
+=
+∴ R = 15%
+Put R = 15% in Eq. (i),
+x 1 15
+100
+1200+
+ 
+ = ` ⇒
+x = ×1200 100
+115
+∴ x = ` 1043 478 .
+26. (d) I. Given, R = 4%, n = 2 yr and
+A = ` 169, P = ?
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+169 1 4
+100
+2
+= + 
+ 
+P
+⇒
+169 26
+25
+2
+= 
+ 
+P
+P = × ×
+×
+169 25 25
+26 26
+= ` 156.25
+II. Given, SI = ` 120 , n = 2 yr
+and CI = ` 129.
+SI = × ×P R T
+100
+120 2
+100
+= × ×P R ⇒ PR = ` 6000
+∴ P
+R
+= 6000 …(i)
+CI = + 
+ 
+ −
+
+
+P R
+n
+1
+100
+1 [Rule 1. (ii)]
+129 1
+100
+1
+2
+= + 
+ 
+ −
+
+
+
+
+P R .
+1290000 100 100 2 2= + −P R[( ) ] .
+= + ×P R R[ ] 2 200 .
+= + ×6000 2002
+R
+R R[ ]
+[from Eq. (i)]
+1290000 6000 1200000= + R
+R = =90000
+6000
+15%
+Hence, both statement are correct.
+27. (d) P r %= ` 1600 25, = and n = 2 yr
+∴ A P R
+n
+= 
+
+
+1+
+100
+[Rule 1. (i)]
+= + 
+
+
+1600 1 25
+100
+2
+= × × =1600 5
+4
+5
+4
+2500`
+∴ Compound interest
+= − =` ` `2500 1600 900
+28. (b) Refer to example 6.
+29. (a) Given, principal = ` 15000
+Rate, R = ?
+Difference, D = ` 96
+For 2 yr Difference, D PR=
+2
+2100( )
+[Rule 6 (i)]
+⇒ 96 15000
+100 100
+2
+= ×
+×
+R
+⇒ R2 64=
+∴ R = 8%
+30. (c) ∴ Let the principal be `x.
+Then, SI = ` 60
+100
+x
+/c81 SI = × ×Principal Rate Time
+100
+⇒ 60
+100
+6
+100
+x x= × ×Rate [/c81Time = 6 yr]
+60 = Rate × 6
+∴ Rate = 10%
+Again principal = ` 12000, Time = 3 yr
+Amount = Principal 1
+100
++
+ 
+Rate
+Time
+= + 
+ 
+12000 1 10
+100
+3
+= 
+ 
+12000 11
+10
+3
+= × × ×12000 11 11 11
+1000
+= × ×12 121 11 = ` 15972
+∴ CI = Amount − Principal
+= −15972 12000 = ` 3972
+31. (b) Refer to example 2.
+91MATHEMATICS Compound Interest

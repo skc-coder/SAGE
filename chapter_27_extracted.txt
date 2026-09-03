@@ -1,0 +1,6698 @@
+
+--- PDF PAGE 541 ---
+In this chapter, we will study how to find the surface area and volume of solid figures, like
+parallelopiped, cube, cuboid, cylinder, cone, frustum of c one, sphere and hemisphere and the
+combination of solid figures.
+SOLID FIGURES
+The objects which occupy space (i.e. they have three dimensi ons) are called solid figures. The solid
+figures can be derived from the plane figures.
+A solid figure has surface area and volume.
+Surface Area of Solid Figure
+Surface area of a solid body is the area of all of its surfaces t ogether. It is always measured in square units.
+Surface area is also referred to as the total surface area. Th e area of four walls or the area excluding top
+and bottom is called curved surface area or lateral surface a rea.
+Volume of Solid Figure
+The measure of space occupied by a solid is called its volume. It is always measured in cubic units.
+Cuboid
+A figure which is surrounded by six rectangular surfaces, is called cuboid. It is also called rectangular
+parallelopiped.
+• A cuboid has 8 corners, 12 edges, 6 faces and 4 diagonals.
+336 CDS Pathfinder
+27
+SURFACE AREA□AND
+VOLUME OF SOLIDS
+Regularly (10-12) questions have been asked from this chapter . Questions from this chapter are
+direct formula based, so one must be through with all the formulae and their application. It is easy
+to score section in the exam.
+--- PDF PAGE 542 ---
+• Volume of cuboid = Area of base × height = × ×l b h
+where, l = length, b = breadth and h = height
+• Total surface area of cuboid = + +2 ( )lb bh lh
+• Diagonal of the cuboid = + +l b h2 2 2
+• Lateral surface area or Area of four walls = +2 ( )l b h .
+EXAMPLE 1. The volume of a cuboid is 880 cm ,3 the
+area of its base is 88 cm 2. Then, its height is
+a. 10 cm b. 12 cm c. 14 cm d. 16 cm
+Sol. a. Here, volume of a cuboid = 880 3cm
+Area of the base = 88 2cm
+Height = =Volume of the cuboid
+Area of the base
+880
+88 = 10 cm
+EXAMPLE 2. The length of the longest rod that can
+be placed in a room 12 m long, 9 m broad and 8 m
+high is
+a. 15 m b. 16 m
+c. 17 m d. 17.5 m
+Sol. c. Since, the length of the longest rod is the diagonal of
+the room
+= + +l b h2 2 2 = + +( ) ( ) ( )12 9 82 2 2
+= + + = =144 81 64 289 17 m
+EXAMPLE 3. The areas of three adjacent faces of a
+cuboid are x y, and z. If its volume is V, then which of
+the following is true?
+a. V y z= x 3 2 2 b. V yz2 = x
+c. V yz= x3 d. V y
+z= x 2
+Sol. b. Let the dimensions of a cuboid be l b, and h
+respectively, then volume of cuboid, V lbh=
+Also, x = =lb y bh, and z hl=
+∴ V lbh=
+On squaring both sides, we get
+V l b h2 2 2 2= = ⋅ ⋅ ( ) ( ) ( )lb bh hl = xyz
+EXAMPLE 4. A metallic sheet is of rectangular shape
+with dimensions 48 36cm cm× from each of its corners
+a square of 8 cm is cut-off. An open box is made of
+the remaining sheet, what is the volume of the box?
+a. 13824 cm 3 b. 1728 cm 3
+c. 5120 cm 3 d. None of these
+Sol. c. Given length of metallic sheet = 48 cm
+Breadth of metallic sheet = 36 cm
+When square of side 8 cm is cut-off from each corner
+and the flaps turned up, we get an open box whose
+Length = − + =48 8 8 32( ) cm
+Breadth = − + =36 8 8 20( ) cm
+and height = 8 cm
+∴ Volume of the box = × × = × ×l b h 32 20 8 = 5120 3cm
+Cube
+A cuboid whose length, breadth and height are same is
+called a cube.
+• A cube has 6 surfaces, 12 edges, 8 corners and 4
+diagonals.
+• Cube is a special case of cuboid which has 6 square
+faces.
+• Volume of a cube = (side) 3
+• Total surface area of a cube
+= ×6 2(side)
+• Diagonal of a cube = × 3 edge
+• Lateral surface area or area of four walls = 4 × (side) 2
+EXAMPLE 5. If the surface area of a cube is 96 cm 2,
+then, its volume is
+a. 16 cm 3 b. 64 cm 3
+c. 12 cm 3 d. 32 cm 3
+Sol. b. Surface area of cube = ×6 2a , where a = Side of a cube
+⇒ 6 962a = ⇒ a2 16= ⇒ a = 4 cm
+∴ Volume of the cube = = =a 3 3 4 64 cm 3
+EXAMPLE 6. The surface area and the length of
+the diagonal of the cube, if the volume of a cube is
+2197 cm
+3 , are
+a. 1012 cm 2 and 21.516 cm b. 1024 cm 2 and 24.516 cm
+c. 1014 cm 2 and 22.516 cm d. None of these
+MATHEMATICS > Quadratic□Equations□and□Inequalities 337
+A B
+CD
+32
+8
+20
+A B
+CD
+48
+32
+8
+88
+8
+8
+8 8
+8
+2036
+A B
+CD
+A B
+CD
+--- PDF PAGE 543 ---
+Sol. c. Volume of cube = (side) = 2197 cm3 3
+⇒ Side of cube = volume of a cube3 = 13 cm
+⇒ Surface area of cube
+= = × =6 (side) = 6 (13) 6 169 1014 cm2 2 2
+and length of the diagonal of the cube = × 3 side
+= × = ×3 13 1 732 13. = 22.516 cm
+EXAMPLE 7. How many 6 m cubes can be cut from
+a cuboid measuring 36 m × ×15 m m?8
+a. 10 b. 15
+c. 19 d. 20
+Sol. d. Volume of given cuboid = × ×( )36 15 8 3m
+Volume of the cube to be cut = × ×( )6 6 6 3m
+∴ Number of cubes that can be cut from the cuboid
+= Volume of the cuboid
+Volume of the cube = × ×
+× × =36 15 8
+6 6 6 20
+EXAMPLE 8. Two cubes each of 10 cm edge are
+joined end-to-end. Then, the surface area of the
+resulting cuboid is
+a. 100 cm 2 b. 1000 cm 2
+c. 2000 cm 2 d. None of these
+Sol. b. Length of the resulting cuboid = 10 10+ = 20 cm
+Breadth of resulting cuboid = 10 cm
+Height of resulting cuboid = 10 cm
+∴ Surface area of resulting cuboid = + +2 ( )lb bh hl
+= × + × + ×2 20 10 10 10 20 10[ ]
+= + +2 200 100 200[ ] = × =2 500 1000 2cm
+IMPORTANT FORMULAE
+G V olume of prism = Area of base × height
+G Lateral surface area of prism = Perimeter of base × height
+G V olume of pyramid = ×1 3 / Area of base × height
+G Lateral surface area = ×1 2 / Perimeter of base × slant
+height
+Right Circular Cylinder
+A right circular cylinder is a solid figure obtained by
+revolving the rectangle, say ABCD about its one side,
+say BC. Let base radius of right circular cylinder be r
+and its height be h. Then,
+(i) Volume of the cylinder
+= ×(Area of base) Height
+= πr h2 cu units
+(ii) Curved surface area = Circumference
+of the base × Height
+= 2πrh sq units
+(iii) Total surface area = Curved surface +
+Area of two ends
+= +2 2 2π πrh r = +2πr h r( ) sq units
+EXAMPLE 9. The volume of a cylinder is 448 π cm 3
+and height 7 cm. Then, its lateral surface area and
+total surface area are
+a. 349 cm 2 and 753.286 cm 2
+b. 352 cm 2 and 754.286 cm 2
+c. 353 cm 2 and 755.286 cm 2
+d. None of the above
+Sol. b. Given, volume of the cylinder = 448 3π cm
+and height of the cylinder = 6 cm
+Let radius be r, then π πr h2 448=
+∴ r h
+2 448 448
+7 64= = = π
+π ⇒ r = 8 cm
+∴ Lateral surface area of the cylinder = 2πrh
+= × × × =2 22
+7 8 7 352 2cm
+T otal surface area of the cylinder = +2π r h r( )
+= × × +2 22
+7 8 7 8( )
+= × × ×2 22
+7 8 15 = ≈5280
+7 754.286 cm 2
+EXAMPLE 10. The radii of two cylinders are in the
+ratio 2 3 : and their heights are in the ratio 5 3 :. Then,
+the ratio of their volumes is
+a. 4 : 9 b. 16 : 25 c. 20 : 27 d. None of these
+Sol. c. For first cylinder,
+Let radius = r1, height = h1, volume = V1
+For second cylinder,
+Let radius = r2 , height = h2 and volume = V2
+Then,
+r
+r
+1
+2
+2
+3= and
+h
+h
+1
+2
+5
+3= ⇒
+r r
+1
+22
+3= and h h
+1
+25
+3=
+Required ratio of their volumes be V V1 2: .
+⇒ π π r h r h1
+2
+1 2
+2
+2: ⇒ r h r h1
+2
+1 2
+2
+2:
+⇒ 4
+9
+5
+32
+2 2
+2
+2
+2r h r h: ⇒ 20
+27 1 :⇒ 20 27 :
+338 CDS Pathfinder
+A
+B
+CD
+10
+10
+1010
+BA
+D C
+h
+--- PDF PAGE 544 ---
+EXAMPLE 11. A cylindrical bucket of diameter 28 cm
+and height 12 cm is full of water. The water is emptied
+into a rectangular tub of length 66 cm and breadth 28 cm.
+The height to which water rises in the tub is
+a. 2 cm b. 4 cm c. 6 cm d. 8 cm
+Sol. b. Volume of water in the bucket
+= = × × × =πr h2 22
+7 14 14 12 7392 cm 3
+Let h be the height to which water rises in the tub.
+∴ Volume of water in the tub = × ×66 28 h cm3
+According to the question,
+66 28 7392× × = h ⇒ h = × =7392
+66 28 4 cm
+Hence, the height to which water rises in the tub is 4 cm.
+Hollow Cylinder
+A hollow cylinder is one which
+is empty from inside and has
+some difference between the
+internal and external radius.
+Let R and r be the external and
+internal radii of the hollow
+cylinder and h be its height.
+Then,
+(i) Volume of hollow cylinder = −π ( )R r h2 2 cu units
+(ii) Curved surface area
+= +2 2π πRh rh = +2π ( )R r h sq units
+(iii) Total surface area
+= + + −2 2 2 2 2π π πrh Rh R r ( ) sq units
+= + + −2 π ( ) ( )R r h R r sq units
+EXAMPLE 12. A hollow cylindrical tube, open at
+both ends is made of iron 1 cm thick. The volume of
+iron used in making the tube, if the external diameter
+is 12 cm and the length of tube is 70 cm, is
+a. 2420 cm 3 b. 2520 cm 3
+c. 2720 cm 3 d. 2900 cm 3
+Sol. a. Here, external radius ( )R 1 6= cm
+and internal radius ( )R2 6 1 5= − = cm
+Height of hollow cylinder ( )h = 70 cm
+∴ Volume of iron used in making tube
+= External volume − Internal volume
+= −π πR h r h2 2 = −πh R r( ) 2 2
+= × × −22
+7 70 36 25( )
+= ×220 11= 2420 cm 3
+Right Circular Cone
+A right circular cone is a solid,
+generated by the revolution of a
+right angled triangle about one of
+its sides containing the right
+angle. Let height of a right
+circular cone be h, slant height be
+l and its radius be r, Then,
+(i) The slant height of the cone,
+l AC r h= = + 2 2 units
+(ii) Volume of cone = 1
+3
+2πr h cu units
+(iii) Curved surface area of cone = πrl sq units
+(iv) Total surface area of a cone = Curved surface area
++ Base area = +πr l r( ) sq units
+EXAMPLE 13. How many metres of cloth 5 m wide
+will be required to make a conical tent, the radius of
+whose base is 7 m and whose height is 24 m?
+a. 100 m b. 105 m c. 109 m d. 110 m
+Sol. d. Given radius of base ( )r = 7 m
+and vertical height of tent ( )h = 24 m
+Slant height of the tent ( )l
+= + = + = =r h2 2 2 2 24 7 625 25 m
+Now, curved surface area = πrl = × × =22
+7 7 25 550 2m
+/c81 Width of cloth = 5 m
+∴ Length required to make conical tent
+= =550
+5 110 m
+EXAMPLE 14. The radius and the height of a right
+circular cone are in the ratio 5 12 : . If its volume is
+314 m 3 , the slant height and the radius are
+a. 12 m, 5 m b. 13 m, 4 m c. 1 m, 4 m d. 13 m, 5 m
+Sol. d. Let radius of cone be 5x and the height of the cone
+be 12x .
+∴ Volume of cone = =314 1
+3
+2πr h
+⇒
+1
+3 314 5 12 3142× × × =. ) ( ) ( x x ⇒ 314 3143x =
+⇒ x3 1= ⇒ x = 1
+/c81 Radius = 5 m and height = 12 m
+∴ Slant height
+= + r h2 2 = + = =25 144 169 13 m
+Hence, the slant height and the radius are 5 m and
+13 m.
+MATHEMATICS > Quadratic□Equations□and□Inequalities 339
+l
+h
+COrB
+A
+A B
+CD R
+r
+h
+--- PDF PAGE 545 ---
+Frustum of a Cone
+If a right circular cone is cut-off by a plane parallel to
+the base of the cone, then the portion of the cone
+between the cutting plane and base of the cone is called
+the frustum of the cone. Let R r, be the radii of base
+and top ( )R r> of the frustum of a cone. Let height of
+frustum of a cone be h and slant height be l, then
+(i) Slant height of frustum of right circular cone
+= = + −BC h R r 2 2 ( ) units
+(ii) Volume of frustum of right circular cone
+= + +π h R r Rr
+3
+2 2[ ] c unitsu
+(iii) Curved (lateral) surface area of frustum of right
+circular cone = +πl R r( ) sq units
+(iv) Total surface area of frustum of right circular cone
+= Area of base + Area of top + Lateral surface area
+= + + +π [ ( ) ]R r l R r2 2 sq units
+(v) Total surface area of bucket = + +π [( ) ]R r l r 2 sq unit
+[/c81 it is open at the bigger end.]
+EXAMPLE 15. The radii of the ends of a bucket of
+height 24 cm are 15 cm and 5 cm. Then, its capacity is
+a. 8000 cm 3 b. 8100 cm 3
+c. 8171.43 cm 3 d. 8200.43 cm 3
+Sol. c. Given, h = 24 cm, R = 15cm and r = 5 cm
+Capacity of bucket = Volume
+of frustum of a cone
+= + +π h R r Rr3
+2 2[ ]
+= × + + ×22
+7
+24
+3 15 5 15 52 2[( ) ]
+= × + +22
+7 8 225 25 75[ ]
+= 176
+7 325( ) = 8171.43 cm 3
+Sphere
+The set of all points in space, which are
+equidistant from a fixed point, is called a
+sphere. Let radius of sphere be r, then
+(i) Volume of sphere
+= 4
+3
+3πr cu units
+(ii) Surface area of sphere = 4 2πr sq units
+(iii) Volume of a hollow sphere
+= −4
+3
+3 3π ( )R r cu units
+where, r = Inner radius and R = Outer radius
+EXAMPLE 16. Given that the volume of a metal
+sphere is 38808 cm3 . Then, its radius and its surface
+area are
+a. 7 cm and 616 cm 2 b. 21 cm and 5544 cm 2
+c. 14 cm and 2464 cm 2 d. None of these
+Sol. b. Given, volume of the metal sphere = 38808 cm3
+But volume of sphere = 4
+3
+3πr
+∴ 4
+3 388083πr = ⇒ r 3 38808 3
+4
+7
+22 9261= × × =
+⇒ r = =( ) /9261 211 3 cm
+∴ Surface area of the sphere = 4 2πr
+= × × ×4 22
+7 21 21
+= 5544 2cm
+EXAMPLE 17. How many balls each of radius 2 cm
+can be made by melting a big ball whose radius is 8 cm.
+a. 4 balls b. 16 balls c. 64 balls d. 128 balls
+Sol. c. Given radius of big ball ( )R = 8 cm
+∴ Volume of big ball = =4
+3
+4
+3 83 3π πR ( )
+Radius of small ball ( )r = 2 cm
+∴ Volume of small balls = 4
+3 2 3π ( )
+∴ Required number of balls = Volume of big ball
+Volume of small ball
+= = × ×
+× × =
+4
+3 8
+4
+3 2
+8 8 8
+2 2 2 64
+3
+3
+π
+π
+( )
+( )
+balls
+EXAMPLE 18. A copper sphere of diameter 18 cm is
+drawn into a wire of diameter 4 mm. Then, the length
+of the wire is
+a. 243 m b. 343 m c. 443 m d. 972 m
+Sol. a. Let the length of wire be h cm.
+Volume of sphere = Volume of wire [by condition]
+⇒ 4
+3 9 9 9 2
+10
+2
+10π π× × ×
+ 
+ = × × ×
+ 
+h
+⇒
+h
+25 972= ⇒ h = ×( )972 25 cm
+= 972 25
+100
+× = 243 m
+Hence, the length of the wire is 243 m.
+340 CDS Pathfinder
+15 cm
+24 cm
+5 cm
+A B
+CD
+rO
+A B
+CD
+R
+r
+h
+--- PDF PAGE 546 ---
+Hemisphere
+A plane passing through the centre cuts the sphere in
+two equal parts, each part is called a hemisphere.
+Let the radius of hemisphere be r, then
+(i) Volume of hemisphere
+= 2
+3
+3πr cu units
+(ii) Curved surface area of hemisphere = 2 2πr sq units
+(iii) Total surface area = + =2 3 2 2 2π π πr r r sq units
+(iv) Volume of hemispherical shell
+= −2
+3
+3 3π( )R r
+where, R = outer radius, r = inner radius
+EXAMPLE 19. The volumes of two hemispheres are
+in the ratio 8 27 :. What is the ratio of their radii?
+a. 2 : 3 b. 3 : 2 c. 1 : 2 d. 2 : 1
+Sol. a. Let volumes be V1 and V2.
+∴ V V1 2 8 27: : = ⇒ 2
+3
+2
+3 8 271
+3
+2
+3π πr r : : =
+⇒ r r1
+3
+2
+3 8 27: : = ⇒ r r1 2 2 3: : =
+IMPORTANT FORMULAE
+G If the side of a cube is increased by x %, then its volume
+is increased by 1
+100
+1 100
+3
++
+ 
+ −
+
+
+
+
+
+
+
+
+×x % .
+G If the length, breadth and height of cuboid are made x y,
+and z times respectively, then its volume is increased by
+( ) %xyz − ×1 100 .
+G If the length, breadth and height of a cuboid are
+increased by x y%, % and z % respectively, then its
+volume is increased by
+x y z xy yz zx xyz+ + + + + +
+
+
+100 100 2( )
+% .
+G If the sides and diagonal of a cuboid are given, then
+the total surface area in terms of diagonal and sides is
+given by
+T otal surface area = −(Sum of the sides) (Diagonal)2 2 .
+G If the side of a cube is increased by x % , then the surface
+area is increased by 2
+100
+2
+x x+
+
+
+
+
+
+
+ % .
+1. Three equal cubes are placed adjacently in a
+row. The ratio of total surface area of the new
+cuboid to that of the sum of the surface areas of
+the three cubes is
+(a) 3 : 1 (b) 6 : 5 (c) 7 : 9 (d) 6 : 7
+2. If side of a cube is increased by 12%, by how much
+percent does its volume increase?
+(a) 35.2% (b) 40.5% (c) 45.0% (d) 42.4%
+3. The curved surface area of a cylinder is 1320 cm
+2
+and its base has diameter 21 cm, then the height
+of the cylinder is
+(a) 10 cm (b) 20 cm (c) 22 cm (d) 25 cm
+4. A cylindrical vessel can hold 154 g of water. If
+the radius of its base is 3.5 cm and 1 cm
+3 of
+water weights 1 g. The depth of the water is
+(a) 2 cm (b) 3 cm
+(c) 4 cm (d) 5 cm
+5. The curved surface area of a cylindrical pillar is
+264
+2m and its volume is 924 m 3. The diameter
+of the pillar is
+(a) 3 m (b) 6 m
+(c) 7 m (d) 14 m
+6. How many metres of cloth 50 m wide will be
+required to make a conical tent, the radius of
+whose base is 7 m and whose height is 24 m?
+(a) 9 m (b) 11 m (c) 12 m (d) 13 m
+7. The radius and height of a right circular
+cone are in the ratio of 5 : 12 and its volume is
+2512 cm
+3. The slant height of the cone is
+(a) 24 cm (b) 25 cm (c) 26 cm (d) 27 cm
+8. If the height of a cone is doubled, then its
+volume is increased by
+(a) 100% (b) 200% (c) 300% (d) 400%
+9. If the surface areas of two spheres are in the
+ratio of 4 : 25, then the ratio of their volumes is
+(a) 2 : 25 (b) 4 : 75 (c) 8 : 125 (d) 16 : 125
+10. A cone and a cylinder are of the same height.
+Their radii of the bases are in ratio of 2 : 1. The
+ratio of their volumes is
+(a) 2 : 1 (b) 3 : 2 (c) 4 : 3 (d) 1 : 3
+11. If the height and diameter of a right circular
+cylinder are 32 cm and 6 cm respectively, then
+the radius of the sphere whose volume is equal
+to the volume of the cylinder is
+(a) 3 cm (b) 4 cm (c) 6 cm (d) 8 cm
+MATHEMATICS > Quadratic□Equations□and□Inequalities 341
+PRACTICE EXERCISE
+rO
+--- PDF PAGE 547 ---
+12. Two solid spheres of gold having diameters 3 cm
+and 4 cm are molten and then cast into one big
+sphere of gold. If the radius of this sphere is x,
+then what is the value of x
+3?
+(a) 125 cm 3 (b) 15.625 cm 3
+(c) 11.375 cm 3 (d) 9.875 cm 3
+13. The total surface area of a cone, whose slant
+height is equal to the radius R of its base, is S. If
+A is the area of a circle of radius 2R, then which
+one of the following is correct?
+(a) A S= (b) A = 2S (c) A = S/ 2 (d) A = 4 S
+14. A cylinder having base of circumference 60 cm is
+rolling without sliding at a rate of 5 rounds per
+second. How much distance will the cylinder roll
+in 5 s?
+(a) 15 m (b) 1.5 m (c) 30 m (d) 3 m
+15. 27 drops of water form a big drop of water. If the
+radius of each smaller drop is 0.2 cm, then what
+is the radius of the bigger drop?
+(a) 0.4 cm (b) 0.6 cm (c) 0.8 cm (d) 1.0 cm
+16. A circus tent is made of canvas and is in the
+form of a right circular cylinder and a right
+circular cone above it, the diameter and height
+of the cylindrical part of the tent are 126 m and
+5 m, respectively. The total height of the tent is
+21 m. Then, the cost of the canvas used for tent
+at the rate of ` 12 per m
+2
+(a) ` 14850 (b) ` 168200 (c) ` 178200 (d) ` 112000
+17. A solid sphere of radius 6 cm is melted into a
+hollow cylinder of uniform thickness. If the
+external radius of the base of the cylinder is 5 cm
+and its height is 32 cm. The uniform thickness of
+the cylinder is
+(a) 1.5 cm (b) 3 cm (c) 1.2 cm (d) 1 cm
+18. Given a solid cylinder of radius 10 cm and length
+1000 cm a cylindrical hole is made into it to
+obtain a cylindrical shell of uniform thickness
+and having volume equal to one-fourth of the
+original volume of the original cylinder. The
+thickness of the cylindrical shell is
+(a)
+5 5 2( ) − cm (b) 7 2 3( ) − cm
+(c) 10 cm (d) 5 2 cm
+19. A tent is of the shape of right circular cylinder
+upto a height of 3 m and then becomes a right
+circular cone with a maximum height of 13.5 m
+above the ground. The cost of painting the inner
+side of the tent at the rate of ` 2 per m
+2, if the
+radius of the base is 14 m is
+(a) ` 2048 (b) ` 2068 (c) ` 2008 (d) ` 2088
+20. A container is in the form of a right circular
+cylinder surmounted by a hemisphere of the same
+radius 15 cm as the cylinder. If the volume of the
+container is 32400
+3π cm , then the height h of the
+container satisfies which one of the following ?
+(a) 135 cm < h < 150 cm (b) 140 cm < h < 147 cm
+(c) 145 cm < h < 148 cm (d) 139 cm < h < 145 cm
+21. A conical flask of base radius r and height h is
+full of milk. The milk is now poured into a
+cylindrical flask of radius 2r. What is the height
+to which the milk will rise in the flask?
+(a)
+h
+3
+(b)
+h
+6
+(c)
+h
+9
+(d)
+h
+12
+22. The radius and height of a right circular cone
+are in the ratio 3 : 4 and its volume is 96 π cm
+3.
+What is the lateral surface area?
+(a) 24 π cm2 (b) 36 π cm2 (c) 48 π cm2 (d) 60 π cm2
+23. What is the number of wax balls, each of radius
+1 cm, that can be molded out of a sphere of
+radius 8 cm?
+(a) 256 (b) 512 (c) 768 (d) 1024
+24. 10 cylindrical pillars of a building have to be
+painted. The diameter of each pillar is 70 cm and
+the height is 4 m. What is the cost of painting at
+the rate of ` 5 per m
+2 ?
+(a) ` 400 (b) ` 440 (c) ` 480 (d) ` 500
+25. The radii of the circular ends of a bucket of
+height 40 cm are of lengths 35 cm and 14 cm.
+What is the volume of the bucket?
+(a) 60060 cm3 (b) 70040 cm3
+(c) 80080 cm3 (d) 80160 cm3
+26. If S is the total surface area of a cube and V is its
+volume, then which one of the following is correct?
+(a) V S3 2 216= (b) S V3 2 216=
+(c) S V3 2 6= (d) S V2 3 36=
+27. A cylindrical tank 7 m in diameter, contains
+water to a depth of 4 m. What is the total area of
+wetted surface?
+(a) 110.5 m2 (b) 126.5 m2
+(c) 131.5 m2 (d) 136.5 m2
+28. The radii of two cylinders are in the ratio 2 : 3
+and their curved surface areas are in the ratio
+5 3 : .What is the ratio of their volumes?
+(a) 20 : 27 (b) 10 : 9 (c) 9 : 10 (d) 27 : 20
+29. A cylindrical vessel of height 10 cm has base
+radius 60 cm. If d is the diameter of a spherical
+vessel of equal volume, then what is the value
+of d ?
+(a) 30 cm (b) 60 cm (c) 90 cm (d) 120 cm
+30. A hollow sphere of internal and external
+diameters 4 cm and 8 cm, respectively is melted
+into a cone of base diameter 8 cm. The height of
+the cone is
+(a) 11 cm (b) 12 cm (c) 14 cm (d) 16 cm
+342 CDS Pathfinder
+--- PDF PAGE 548 ---
+31. If the diameter of a sphere is doubled, how does
+its surface area change?
+(a) It increases two times (b) It increases three times
+(c) It increases four times (d) It increases eight times
+32. A cistern 6 m long and 4 m wide contains water
+to a depth of 1.25 m. What is the area of wetted
+surface?
+(a) 40 m2 (b) 45 m2 (c) 49 m2 (d) 73 m2
+33. The outer and inner diameters of a circular pipe
+are 6 cm and 4 cm, respectively. If its length is
+10 cm, then what is the total surface area in cm
+2?
+(a) 35 π (b) 110 π
+(c) 150 π (d) None of these
+34. A toy is in the form of a cone mounted on a
+hemisphere such that the diameter of the base of
+the cone is equal to that of the hemisphere. If
+the diameter of the base of the cone is 6 cm and
+its height is 4 cm, what is the surface area in
+cm
+2 of the toy ? (Take π = 3.14)
+(a) 93.62 (b) 103.62 (c) 113.62 (d) 115.50
+35. A solid cylinder of height 9 m has its curved
+surface area equal to one-third of the total
+surface area. What is the radius of the base?
+(a) 9 m (b) 18 m (c) 27 m (d) 30 m
+36. The volume of a sphere is 8 times that of another
+sphere. What is the ratio of their surface areas?
+(a) 8 1 : (b) 4 1 : (c) 2 1 : (d) 4 3 :
+37. The dimensions of a field are 12 m × 10 m. A pit
+5 m long, 4 m wide and 2 m deep is dug in one
+corner of the field and the Earth removed has
+been evenly spread over the remaining area of
+the field. The level of the field is raised by
+(a) 30 cm (b) 35 cm (c) 38 cm (d) 40 cm
+38. A cube of 9 cm edge is immersed completely in a
+rectangular vessel containing water. If the
+dimensions of base are 15 cm and 12 cm. Then,
+the rise in water level in the vessel is
+(a) 4.05 cm (b) 4 cm (c) 3.5 cm (d) 3 cm
+39. From a solid cube of edge 3 m, a solid of largest
+sphere is curved out. What is the volume of solid
+left?
+(a) ( )27 − 2.25 π m 3 (b) ( . )27 4 5− π m 3
+(c) 2.25 π m 3 (d) 4.5π m 3
+40. A rectangular tank is 80 40× cm
+3. Water flows
+into it through a pipe of cross-section area
+40 2cm at the speed of 10 km/h. The rise in the
+level of water in the tank in 1
+2
+h is
+(a) 3
+2
+cm (b) 4
+3
+cm (c)
+5
+8
+cm (d) 6 cm
+41. A measuring jar of internal diameter 10 cm is
+partially filled with water. Four equal spherical
+balls of diameter 2 cm each are dropped in it
+and they sink down in the water completely. The
+change in the level of water in the jar is
+(a)
+16
+65
+cm (b) 15
+16
+cm (c)
+16
+75
+cm (d) None of these
+42. The height of a cone is 30 cm. A small cone is cut
+off at the top by a plane parallel to the base. If
+its volume be
+1
+27
+of the volume of the given cone,
+then the height above the base where the section
+is made, is
+(a) 12 cm (b) 15 cm (c) 20 cm (d) 22 cm
+43. From a wooden cylindrical block, whose diameter
+is equal to its height, a sphere of maximum
+possible volume is carved out. What is the ratio
+of the volume of the utilised wood to that of the
+wasted wood?
+(a) 2 : 1 (b) 1 : 2 (c) 2 : 3 (d) 3 : 2
+44. The base diameter of a right circular cylinder is
+3 cm. There is a section making an angle of 30°
+with the cross section. What is its area?
+(a)
+9
+4
+2π cm (b) 3 3
+2
+2π cm (c) 9
+8
+2π cm (d) 9 3
+8
+2π cm
+45. A cone is inscribed in a hemisphere such that
+their bases are common. If C is the volume of the
+cone and H that of the hemisphere, then what is
+the value of C H: ?
+(a) 1 : 2 (b) 2 : 3 (c) 3 : 4 (d) 4 : 5
+46. If the diameter of a wire is decreased by 10%, by
+how much per cent (approximately) will the
+length be increased to keep the volume constant?
+(a) 5% (b) 17% (c) 20% (d) 23%
+47. The diameter of a solid metallic right circular
+cylinder is equal to its height. After cutting out
+the largest possible solid sphere S from this
+cylinder, the remaining material is recast to
+form a solid sphere S
+1. What is the ratio of the
+radius of sphere S to that of sphere S1?
+(a) 1 2
+1
+3: (b)
+2 1
+1
+3 : (c)
+2 3
+1
+3
+1
+3: (d)
+3 2
+1
+2
+1
+2:
+48. A square has its side equal to the radius of a
+sphere. The square revolves round a side to
+generate a surface of total area S. If A is the
+surface area of the sphere, then which one of the
+following is correct?
+(a) A = 3S (b) A = 2S (c) A = S (d) A < S
+49. A swimming pool is 24 m long and 15 m broad.
+When x number of men dive into the pool, the
+height of the water rises by 1 cm. If the average
+amount of water displaced by one man is 0.1 m
+3,
+then what is the value of x?
+(a) 36 (b) 72 (c) 108 (d) 360
+MATHEMATICS > Quadratic□Equations□and□Inequalities 343
+--- PDF PAGE 549 ---
+50. Water is distributed to a town of 50000
+inhabitants from a rectangular reservoir consisting
+of 3 equal compartments. Each compartment has
+length and breadth 200 m, 100 m, respectively
+and 12 m depth of water in the beginning. The
+allowance is 20 L per head per day. For how
+many days will the supply of water hold out?
+(a) 240 days (b) 720 days (c) 800 days (d) 900 days
+51. A right circular cylinder and a right circular
+cone have equal bases and equal volumes. But
+the lateral surface area of the right circular cone
+is 15/8 times the lateral surface area of the right
+circular cylinder. What is the ratio of radius to
+height of the cylinder?
+(a) 3 : 4 (b) 9 : 4 (c) 15 : 8 (d) 8 : 15
+52. The volume of a cuboid whose sides are in the
+ratio of 1 : 2 : 4 is same as that of a cube. What
+is the ratio of length of diagonal of cuboid to that
+of cube?
+(a)
+1 25 . (b) 175 . (c) 2 (d) 3 5 .
+53. A field is 125 m long and 15 m wide. A tank
+10 6m m× ×7.5 m was dug in it and the Earth,
+thus dug out was spread equally on the
+remaining field. The level of the field thus raised
+is equal to which one of the following?
+(a) 15 cm (b) 20 cm (c) 25 cm (d) 30 cm
+54. If C
+1 is a right circular cone with base radius r1 cm
+and height h1 cm and C2 is a right circular
+cylinder with base radius r2 cm and height h2 cm
+and if r r n1 2 1: : = (where n is a positive integer)
+and their volumes are equal, then which one of
+the following is correct?
+(a) h nh1 2 3= (b) h n h1
+2
+23=
+(c) h h1 2 3= (d) h n h1
+2
+2=
+55. A right circular cone is cut by a plane parallel to
+its base in such a way that the slant heights of
+the original and the smaller cone thus obtained
+are in the ratio 2 : 1. If V
+1 and V2 are respectively
+the volumes of the original cone and of the new
+cone, then what is V V
+1 2: ?
+(a) 2 : 1 (b) 3 : 1 (c) 4 : 1 (d) 8 : 1
+56. The surface area of a sphere is 616 cm 2. If its
+radius is changed so that the area gets reduced
+by 75%, then the radius becomes
+(a) 1.6 cm (b) 2.3 cm (c) 2.5 cm (d) 3.5 cm
+57. A sphere is inscribed in a cubical box such that
+the sphere is tangent to all six faces of the box.
+What is the ratio of the volume of the cubical box
+to the volume of sphere?
+(a) 6π (b) 36π (c)
+4
+3
+π (d) 6
+π
+58. From a solid cylinder of height 4 cm and radius
+3 cm, a conical cavity of height 4 cm and of base
+radius 3 cm is hollowed out. What is the total
+surface area of the remaining solid?
+(a) 15π cm2 (b) 22 π cm2 (c) 33π cm2 (d) 48π cm2
+59. The curved surface of a cylinder is 1000 cm
+2. A
+wire of diameter 5 mm is wound around it, so as
+to cover it completely. What is the length of the
+wire used?
+(a) 22 m (b) 20 m
+(c) 18 m (d) None of these
+60. In order to fix an electric pole along a roadside, a
+pit with dimensions 50 cm × 50 cm is dug with
+the help of a spade. The pit is prepared by
+removing Earth by 250 strokes of spade. If one
+stroke of spade removes 500 cm
+3 of Earth, then
+what is the depth of the pit?
+(a) 2 m (b) 1 m (c) 0.75 m (d) 0.5 m
+61. A figure is formed by revolving a rectangular
+sheet of dimensions 7 cm 4 cm× about its length.
+What is the volume of the figure thus formed?
+(a) 352 cm3 (b) 296 cm3
+(c) 176 cm3 (d) 616 cm3
+62. The diagonals of the three faces of a cuboid are
+x y z, , , respectively. What is the volume of the
+cuboid?
+(a)
+x yz
+2 2
+(b) ( ) ( ) ( )y z z y2 2 2 2 2 2
+2 2
++ + + x x
+(c) ( ) ( ) ( )y z z y y z2 2 2 2 2 2 2 2 2
+2 2
++ − + − + −x x x
+(d) None of the above
+63. The volume of a cone is equal to that of a sphere.
+If the diameter of base of cone is equal to the
+diameter of the sphere, what is the ratio of
+height of cone to the diameter of the sphere?
+(a) 2 : 1 (b) 1 : 2 (c) 3 : 1 (d) 4 : 1
+64. The length, breadth and height of a rectangular
+parallelopiped are in ratio 6 : 3 : 1. If the surface
+area of a cube is equal to the surface area of this
+parallelopiped, then what is the ratio of the
+volume of the cube to the volume of the
+parallelopiped?
+(a) 1 : 1 (b) 5 : 4 (c) 7 : 5 (d) 3 : 2
+65. A hollow hemisphere is made of a sheet of a
+metal 1 cm thick. If the outer radius is 5 cm.
+What is the weight of the hemisphere (1 cm
+3 of
+the metal weight 9 g)?
+(a) 54 π g (b) 366 π g (c) 122 π g (d) 108 π g
+344 CDS Pathfinder
+--- PDF PAGE 550 ---
+66. Half of a large cylindrical tank open at the top is
+filled with water and identical heavy spherical
+balls are to be dropped into the tank without
+spilling water out. If the radius and the height of
+the tank are equal and each is four times the
+radius of a ball, what is the maximum number of
+balls that can be dropped?
+(a) 12 (b) 24 (c) 36 (d) 48
+67. A cylinder is circumscribed about a hemisphere
+and a cone is inscribed in the cylinder so as to
+have its vertex at the centre of one end, and the
+other end as its base. The volume of the cylinder,
+hemisphere and the cone are respectively in the
+ratio
+(a) 2 : 3 : 2 (b) 3 : 2 : 1 (c) 3 : 1 : 2 (d) 1 : 2 : 3
+68. A conical cavity is drilled in a circular cylinder of
+height 15 cm and base radius 8 cm. The height
+and the base radius of the cone are also same.
+Then the whole surface area of the remaining
+solid is
+(a) 440 π cm 2 (b) 240 π cm 2 (c) 640 π cm 2 (d) 960 π cm 2
+69. Smaller lead shots are to be prepared by
+using the material of a spherical lead shot of
+radius 1 cm. Same possibilities are listed in the
+statements given below
+I. The material is just sufficient to prepare 8 shots
+each of radius 0.5 cm.
+II. A shot of radius 0.75 cm and a second shot of
+radius 0.8 cm can be prepared from the available
+material.
+Which of the above statement is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+70. Consider the following statements:
+I. The volume of a cuboid is the product of the
+lengths of its coterminous edges.
+II. The surface area of a cuboid is twice the sum of
+the products of lengths of its coterminous edges
+taken two at a time.
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+71. Consider the following statements :
+The length of a side of a cube is 1 cm. Which of
+the following can be the distance between any
+two vertices?
+I. 1 cm II. 2 cm III. 3 cm
+Select the correct answer using the code given
+below.
+(a) Only I (b) Only II (c) Only III (d) All of these
+72. Consider the following statements.
+I. When eight drops of water combine to form a
+single drop, the surface area of all the eight drops
+is greater than the surface area of big drop.
+II. Square of volume of a spherical body is directly
+proportional to cube of its surface area.
+III. A sphere occupies the biggest space but has the
+smallest surface area.
+Which of the above statement(s) is/are correct?
+(a) I and II (b) I and III (c) II and III (d) All of these
+73. Consider the following statements:
+I. The curved surface area of a right circular cone
+of base radius r and height h is given by
+πr h r( ) 2 2+ .
+II. The right circular cone of base radius r and
+height h when cut opened along the slant height,
+forms a rectangle of length πr and breadth
+h r2 2+ .
+III. If a right circular cone is cut off by a plane
+parallel to the base of the cone, then its curved
+surface area is
+πh
+3 [ ]R r Rr2 2+ + .
+IV. If a right triangle is being revolved about one of
+its edges. The surface generated by the hypotenuse
+is the lateral surface of the right circular cone.
+Which of the above statement(s) are correct?
+(a) I and II (b) I, II and III (c) I, III and IV (d) All of these
+Directions (Q. Nos. 74-76) Read the following
+information carefully and answer the given
+questions that follow .
+A cone of height 10 cm and radius 5 cm is divided into
+two parts by drawing a plane through the mid-point of its
+axis,□parallel□to□its□base.
+74. What is the ratio of the volume of the original
+cone to the volume of the frustum left?
+(a)
+4
+3
+(b)
+7
+8
+(c) 8
+7
+(d) 9
+8
+75. What is the area of the top circle of the frustum
+in square centimetre?
+(a) 25π (b)
+5
+4
+π (c) 25
+4
+π (d) None of these
+76. What is the ratio of the curved surface area of
+the original cone and the curved surface area of
+the frustum?
+(a) 3 : 1 (b) 3 : 2 (c) 4 : 1 (d) 4: 3
+Directions (Q. Nos. 77-79) Read the following
+information carefully and answer the given
+questions that follow.
+Let C be a right circular cone. It is given that the two
+ends of a frustum ofC are of radii 3 cm and 6 cm and the
+height□of□the□frustum□is□9□cm.
+77. What is the slant height of the given frustum?
+(a)
+3 10 cm (b) 6 10 cm (c) 12 cm (d) 15 cm
+78. What is the height of the cone?
+(a) 9 cm (b) 12 cm (c) 13.5 cm (d) 18 cm
+MATHEMATICS > Quadratic□Equations□and□Inequalities 345
+--- PDF PAGE 551 ---
+79. What is the total surface area of the given frustum?
+(a)
+9 2 10 5 2π ( ) + cm (b) 9 3 10 5π ( ) + cm2
+(c) 9 3 10 4 2π ( ) + cm (d) 27 10 1π ( ) + cm2
+PREVIOUS YEARS’ QUESTIONS
+80. What will be the cost to plaster the inner surface
+of a well 14 m deep and 4 m in diameter at the
+rate of ` 25 per m
+2? e 2012 I
+(a) ` 4000 (b) ` 4200 (c) ` 4400 (d) ` 5400
+81. What is the length of the uniform wire of
+diameter 0.4 cm that can be drawn from a solid
+sphere of radius 9 cm? e 2012 I
+(a) 243 m (b) 240 m (c) 60.75 m (d) 60 m
+82. The total surface area of a cube is 150 cm
+2. What
+is its volume? e 2012 I
+(a) 64 cm3 (b) 81 cm3 (c) 125 cm3 (d) 160 cm3
+83. If the volume of a cube is 729 cm 3, then what is
+the length of its diagonal? e 2012 I
+(a) 9 2 cm (b) 9 3 cm (c) 18 cm (d) 18 3 cm
+84. The curved surface area of a right circular cone
+of radius 14 cm is 440 cm
+2. What is the slant
+height of the cone? e 2012 I
+(a) 10 cm (b) 11cm (c) 12 cm (d) 13 cm
+85. A large solid metallic cylinder whose radius and
+height are equal to each other is to be melted and
+48 identical solid balls are to be recast from the
+liquid metal, so formed. What is the ratio of the
+radius of a ball to the radius of the cylinder?
+(a) 1 : 16 (b) 1 : 12 e 2012 I
+(c) 1 : 8 (d) 1 : 4
+86. What are the dimensions (length, breadth and
+height, respectively) of a cuboid with volume
+720 cm
+3, surface area 484 cm2 and the area of
+the base 72 cm2? e 2012 I
+(a) 9, 8 and 10 cm (b) 12, 6 and 10 cm
+(c) 18, 4 and 10 cm (d) 30, 2 and 12 cm
+87. If the surface area of a sphere is 616 cm
+2, then
+what is its volume? e 2012 I
+(a) 4312/3 cm 3 (b) 4102/3 cm3
+(c) 1257 cm 3 (d) 1023 cm3
+Directions (Q.Nos. 88-89) Read the following
+information carefully and answer the given
+questions that follow.
+The areas of the ends of a frustum of a cone areP and Q,
+where P < Q and H is□its□thickness.
+88. What is the difference in radii of the ends of the
+frustum? e 2012 II
+(a)
+Q P−
+π
+(b) Q P−
+π
+(c)
+Q P− (d) None of these
+89. What is the volume of the frustum? e 2012 II
+(a) 3H P Q PQ( ) + + (b) H P Q PQ( ) + +
+(c) H P Q PQ( ) /+ + 3 (d) H P Q PQ( ) /+ − 3
+90. Let the largest possible right circular cone and
+largest possible sphere be fitted into two cubes of
+same length. If C and S denote the volume of
+cone and volume of sphere, respectively. Then,
+which one of the following is correct? e 2012 II
+(a) C S= 2 (b) S C= 2 (c) C S= (d) C S= 3
+91. 10 circular plates each of thickness 3 cm, are
+placed one above the other and a hemisphere of
+radius 6 cm is placed on the top just to cover the
+cylindrical solid. What is the volume of the solid
+so formed? e 2012 II
+(a) 264 π cm 3 (b) 252 π cm 3
+(c) 236 π cm 3 (d) None of these
+92. A right circular metal cone (solid) is 8 cm high and
+the radius is 2 cm. It is melted and recast into a
+sphere. What is the radius of the sphere? e 2012 II
+(a) 2 cm (b) 3 cm (c) 4 cm (d) 5 cm
+93. The volume of a cube is numerically equal to
+sum of its edges. What is the total surface area?
+(a) 12 sq units (b) 36 sq units e 2012 II
+(c) 72 sq units (d) 144 sq units
+94. The diameter of base of a right circular cone is
+7 cm and slant height is 10 cm, then what is its
+lateral surface area? e 2012 II
+(a) 110 cm 2 (b) 100 cm 2 (c) 70 cm 2 (d) 49 cm 2
+95. What is the height of a solid cylinder of radius
+5 cm and total surface area is 660 cm
+2? e 2012 II
+(a) 10 cm (b) 12 cm (c) 15 cm (d) 16 cm
+96. If the ratio of the diameters of two spheres is
+3 5 : ,then what is the ratio of their surface areas?
+e 2012 II
+(a) 9 : 25 (b) 9 : 10 (c) 3 : 5 (d) 27 : 125
+97. What is the volume of the largest sphere that can
+be curved out of a cube of edge 3 cm? e 2012 II
+(a) 9π cm 3 (b) 6π cm 3 (c) 4 5 .π cm 3 (d) 3π cm 3
+98. What is the quantity of cloth required to roll
+up to form a right circular tent whose base is of
+radius 12 m and height 5 m? e 2013 I
+(a) 40π m 2 (b) 60π m 2 (c) 78π m 2 (d) 156π m 2
+99. The volume of the material of a hemispherical
+shell with outer and inner radii 9 cm and 7 cm,
+respectively is approximately e 2013 I
+(a) 808 cm 3 (b) 800 cm 3 (c) 816 cm 3 (d) 824 cm 3
+100. The ratio of surface area to diameter of a sphere
+whose volume is 36π cm
+3, is e 2013 I
+(a) 3π (b) 6π (c) 6 (d) None of these
+346 CDS Pathfinder
+--- PDF PAGE 552 ---
+101. A cylindrical tube open at both ends is made of
+metal. The internal diameter of the tube is 6 cm
+and length of the tube is 10 cm. If the thickness
+of the metal used is 1 cm, then the outer curved
+surface area of the tube is e 2013 I
+(a) 140π cm 2 (b) 146 5 .π cm 2
+(c) 70π cm 2 (d) None of these
+102. From a solid wooden right circular cylinder, a
+right circular cone whose radius and height are
+same as the radius and height of the cylinder,
+respectively is carved out. What is the ratio of
+the volume of the utilised wood to that of the
+wasted wood? e 2013 I
+(a) 1 : 2 (b) 2 : 1 (c) 2 : 3 (d) 1 : 3
+103. If the heights and the areas of the base of a right
+circular cone and a pyramid with square base
+are the same, then they have e 2013 I
+(a) same volume and same surface area
+(b) same surface area but different volumes
+(c) same volume but different surface areas
+(d) different volumes and different surface areas
+104. The volume of a right circular cone of height
+3 cm and slant height 5 cm is e 2013 I
+(a) 49.3 cm 3 (b) 50.3 cm 3
+(c) 52 cm 3 (d) 53 cm 3
+105. A bucket is of a height 25 cm. Its top and bottom
+radii are 20 cm and 10 cm, respectively. Its
+capacity (in L) is e 2013 I
+(a)
+17 5 3. π (b) 17 5 .π (c) 20 π (d) 25 π
+106. The height of a cylinder is 15 cm. The lateral
+surface area is 660 cm
+2. Its volume is e 2013 II
+(a) 1155 cm 3 (b) 1215 cm 3 (c) 1230 cm 3 (d) 2310 cm 3
+107. The diameter of the Moon is approximately
+one-fourth of the diameter of the Earth. What is
+the ratio (approximate) of their volumes? e 2013 II
+(a) 1 16 : (b) 1 64 : (c) 1 4 : (d) 1 128:
+108. A conical cap has the base diameter 24 cm and
+height 16 cm. What is the cost of painting the
+surface of the cap at the rate of 70 paise
+per cm
+2? e 2013 II
+(a) ` 520 (b) ` 524 (c) ` 528 (d) ` 532
+109. What is the whole surface area of a cone of base
+radius 7 cm and height 24 cm? e 2013 II
+(a) 654 cm 2 (b) 704 cm 2 (c) 724 cm 2 (d) 964 cm 2
+110. A tent is in the form of a right circular cylinder
+surmounted by a cone. The diameter of the
+cylinder is 24 m. The height of the cylindrical
+portion is 11 m, while the vertex of the cone is
+16 m above the ground. What is the area of the
+curved surface for conical portion? e 2013 II
+(a) 3434/9 m 2 (b) 3431/8 m 2
+(c) 3432/7 m 2 (d) 3234/7 m 2
+111. If x is the curved surface area and y is the
+volume of a right circular cylinder, then which
+one of the following is correct? e 2014 I
+(a) Only the ratio of the height to radius of the cylinder
+is independent of
+x
+(b) Only the ratio of height to radius of the cylinder is
+independent of y
+(c) Either (a) or (b)
+(d) Neither (a) nor (b)
+112. A cylinder is surmounted by a cone at one end, a
+hemisphere at the other end. The common radius
+is 3.5 cm, the height of the cylinder is 6.5 cm
+and the total height of the structure is 12.8 cm.
+The volume V of the structure lies between
+e 2014 I
+(a) 370 cm 3 and 380 cm 3 (b) 380 cm 3 and 390 cm 3
+(c) 390 cm 3 and 400 cm 3 (d) None of these
+113. The diameter of the base of a cone is 6 cm and
+its altitude is 4 cm. What is the approximate
+curved surface area of the cone? e 2014 I
+(a) 45 cm 2 (b) 47 cm 2 (c) 49 cm 2 (d) 51 cm 2
+114. A drainage tile is a cylindrical shell 21 cm long.
+The inside and outside diameters are 4.5 cm and
+5.1 cm, respectively. What is the volume of the
+clay required for the tile? e 2014 I
+(a) 6.96 π cm 3 (b) 6.76 π cm 3
+(c) 5.76 π cm 3 (d) None of these
+115. A cube has each edge 2 cm and a cuboid is 1 cm
+long, 2 cm wide and 3 cm high. The paint in a
+certain container is sufficient to paint an area
+equal to 54 cm
+2. e 2014 I
+Which one of the following is correct?
+(a) Both cube and cuboid can be painted
+(b) Only cube can be painted
+(c) Only cuboid can be painted
+(d) Neither cube nor cuboid can be painted
+116. A cone of radius r cm and height h cm is divided
+into two parts by drawing a plane through the
+middle point of its height and parallel to the base.
+What is the ratio of the volume of the original
+cone to the volume of the smaller cone? e 2014 I
+(a) 4 : 1 (b) 8 : 1 (c) 2 : 1 (d) 6 : 1
+117. If 64 identical small spheres are made out of big
+sphere of diameter 8 cm, then what is surface
+area of each small sphere? e 2014 I
+(a) π cm 2 (b) 2 π cm 2 (c) 4 π cm 2 (d) 8 π cm 2
+118. The dimensions of a field are 15 m by 12 m. A
+pit 8 m long, 2.5 m wide and 2 m deep is dug in
+one corner of the field and the earth removed is
+evenly spread over the remaining area of the
+field. The level of the field is raised by e 2014 I
+(a) 15 cm (b) 20 cm (c) 25 cm (d)
+200
+9
+cm
+MATHEMATICS > Quadratic□Equations□and□Inequalities 347
+--- PDF PAGE 553 ---
+119. What is the diameter of the largest circle lying on
+the surface of a sphere of surface area 616 cm
+2?
+e 2014 I
+(a) 14 cm (b) 10.5 cm (c) 7 cm (d) 3.5 cm
+120. The volume of a hollow cube is 216 3x . What is
+the surface area of the largest sphere which can
+be enclosed in it? e 2014 I
+(a) 18 2π x (b) 27 2π x (c) 36 2π x (d) 72 2π x
+Directions (Q. Nos. 121-122) Read the following
+information carefully and answer the given
+questions that follow.
+A right angled triangle having hypotenuse 25 cm and
+legs in the ratio 3 : 4 is made to revolve about its
+hypotenuse. (π = 3.14)
+121. What is the volume of the double cone so
+formed? e 2014 II
+(a) 3124 cm3 (b) 3424 cm3 (c) 3768 cm3 (d) 3924 cm3
+122. What is the surface area of the double cone so
+formed? e 2014 II
+(a) 1101.2 cm2 (b) 11114 2. cm (c) 1310 4 2. cm (d) 1318 8 2. cm
+123. If the side of a cube is increased by 100%, then
+by what percentage is the surface area of the
+cube increased? e 2014 II
+(a) 150% (b) 200% (c) 300% (d) 400%
+124. A cylinder circumscribes a sphere. What is the
+ratio of volume of the sphere to that of the
+cylinder? e 2014 II
+(a) 2 : 3 (b) 1 : 2 (c) 3 : 4 (d) 3 : 2
+Directions (Q. Nos. 125-126) Read the following
+information carefully and answer the given
+questions that follow.
+A toy is in the form of a cone mounted on the
+hemisphere with the same radius. The diameter of the
+base of the conical portion is12 cmand its height is8 cm.
+125. What is the total surface area of the toy? e 2014 II
+(a) 132 2π cm (b) 112 2π cm (c) 96 2π cm (d) 66 2π cm
+126. What is the volume of the toy? e 2014 II
+(a) 180 3π cm (b) 240 3π cm (c) 300 π cm3 (d) 320 3π cm
+127. The areas of the three adjacent faces of a
+cuboidal box are x, 4x and 9x sq unit. What is the
+volume of the box? e 2014 II
+(a) 6 2x cu units (b) 6 3 2x / cu units
+(c) 3 3 2x / cu units (d) 2 3 2x / cu units
+128. What is the number of pairs of perpendicular
+planes in a cuboid? e 2014 II
+(a) 4 (b) 8
+(c) 12 (d) None of these
+129. Consider the following statements in respect of
+four spheres A, B C, and D having respective
+radii 6, 8, 10 and 12 cm.
+I. The surface area of sphere C is equal to the sum
+of surface areas of spheres A and B.
+II. The volume of sphere D is equal to the sum of
+volumes of spheres A, B and C. e 2014 II
+Which of the above statement(s) is/are correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+130. The diameter of a metallic sphere is 6 cm. The
+sphere is melted and drawn into a wire of uniform
+circular cross-section. If the length of the wire is
+36 m, then what is its radius? e 2014 II
+(a) 0.1 cm (b) 0.01 cm (c) 0.001 cm (d) 1.0 cm
+131. What is the maximum distance between two
+points of a cube of side 2 cm? e 2014 II
+(a)
+3 cm (b) 2 3 cm (c) 4 3 cm (d) 2 2 cm
+132. The total outer surface area of a right circular
+cone of height 24 cm with a hemisphere of radius
+7 cm upon its base is e 2015 I
+(a) 327 π cm 2 (b) 307 π cm 2
+(c) 293 π cm 2 (d) 273 π cm 2
+133. A sphere and a cube have same surface area.
+The ratio of square of their volumes is e 2015 I
+(a) 6 : π (b) 5 : π (c) 3 5 : (d) 1 : 1
+134. The radius of a sphere is equal to the radius of
+the base of a right circular cone, and the volume
+of the sphere is double the volume of the cone.
+The ratio of the height of the cone to the radius
+of its base is e 2015 I
+(a) 2 : 1 (b) 1 : 2 (c) 2 : 3 (d) 3 : 2
+135. If the radius of a sphere is increased by 10%,
+then the volume will be increased by e 2015 I
+(a) 33.1% (b) 30% (c) 50% (d) 10%
+136. If three metallic spheres of radii 6 cm, 8 cm and
+10 cm are melted to form a single sphere, then
+the diameter of the new sphere will be e 2015 I
+(a) 12 cm (b) 24 cm (c) 30 cm (d) 36 cm
+137. If the height of a right circular cone is increased
+by 200% and the radius of the base is reduced by
+50%, then the volume of the cone e 2015 I
+(a) remains unaltered (b) decreases by 25%
+(c) increases by 25% (d) increases by 50%
+138. A rectangular paper of 44 cm long and 6 cm wide
+is rolled to form a cylinder of height equal to
+width of the paper. The radius of the base of the
+cylinder so rolled is e 2015 I
+(a) 3.5 cm (b) 5 cm (c) 7 cm (d) 14 cm
+348 CDS Pathfinder
+--- PDF PAGE 554 ---
+139. The diagonals of three faces of a cuboid are 13,
+281 and 20 linear units. Then, the total surface
+area of the cuboid is e 2015 I
+(a) 650 sq units (b) 658 sq units
+(c) 664 sq units (d) 672 sq units
+140. A cylindrical vessel of radius 4 cm contains
+water. A solid sphere of radius 3 cm is lowered
+into the water until it is completely immersed.
+The water level in the vessel will rise by e 2015 I
+(a) 1.5 cm (b) 2 cm (c) 2.25 cm (d) 4.5 cm
+141. A rectangular block of wood having dimensions
+3 2 1 75m m× × . m has to be painted on all its
+faces. The layer of paint must be 01 .mm thick.
+Paint comes in cubical boxes having their edges
+equal to 10 cm. The minimum number of boxes
+of paint to be purchased is e 2015 I
+(a) 5 (b) 4 (c) 3 (d) 2
+142. If the surface area of a cube is 13254 cm
+2, then
+the length of its diagonal is e 2015 II
+(a) 44 2 cm (b) 44 3 cm (c) 47 2 cm (d) 47 3 cm
+143. A water tank, open at the top, is hemispherical
+at the bottom and cylindrical above it. The
+radius is 12 m and the capacity is 3312
+3π m .
+The ratio of the surface areas of the spherical
+and cylindrical portions, is e 2015 II
+(a) 3 : 5 (b) 4 : 5 (c) 1 : 1 (d) 6 : 5
+144. A large water tank has the shape of a cube. If
+128 m
+3 of water is pumped out, the water level
+goes down by 2m. Then, the maximum capacity
+of the tank is e 2015 II
+(a) 512 m 3 (b) 480 m 3 (c) 324 m 3 (d) 256 m 3
+145. The areas of three mutually perpendicular faces
+of a cuboid are x, y, z. If V is the volume, then
+xyz is equal to e 2015 II
+(a) V (b) V 2 (c) 2V (d) 2 2V
+146. How many right angled triangles can be formed
+by joining the vertices of a cuboid? e 2015 II
+(a) 24 (b) 28 (c) 32 (d) None of these
+147. Three rectangles R
+1, R2 and R3 have the same
+area. Their lengths x1, x2 and x3 respectively are
+such that x x x1 2 3< < . If V1, V2 and V3 are the
+volumes of the cylinders formed from the
+rectangles R
+1, R2 and R3 respectively by joining
+the parallel sides along the breadth, then which
+one of the following is correct? e 2015 II
+(a) V V V3 2 1< < (b) V V V1 3 2< <
+(c) V V V1 2 3< < (d) V V V3 1 2< <
+148. Let V be the volume of an inverted cone with vertex
+at origin and the axis of the cone is along positive
+Y-axis. The cone is filled with water up to half of
+its height. The volume of water is e 2015 II
+(a)
+V
+8
+(b) V
+6
+(c) V
+3
+(d) V
+2
+149. 30 metallic cylinders of same size are melted and
+cast in the form of cones having the same radius
+and height as those of the cylinders.
+Consider the following statements
+I. A maximum of 90 cones will be obtained.
+II. The curved surface of the cylinder can be
+flattened in the shape of a rectangle but the
+curved surface of the cone when flattened has
+the shape of triangle.
+Which one of the following statement(s) is/are
+correct in respect of the above? e 2015 II
+(a) Both statement I and statement II are correct and
+statement II is the correct explanation of statement I
+(b) Both statement I and statement II are correct and
+statement II is not the correct explanation of
+statement I
+(c) statement I is correct but statement II is not correct
+(d) statement I is not correct but statement II is correct
+150. Water is filled in a container in such a manner
+that its volume doubles every 5 min. If it takes
+30 min for the container to be full, in how much
+time will it be one-fourth full ? e 2015 II
+(a) 7.5 min (b) 15 min (c) 20 min (d) 17.5 min
+151. Consider the following statements:
+I. If the height of a cylinder is doubled, the area of
+the curved surface is doubled.
+II. If the radius of a hemispherical solid is doubled,
+its total surface area becomes fourfold.
+Which of the statement(s) given above is/are
+correct? e 2015 II
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+152. From the solid gold in the form of a cube of side
+length 1 cm, spherical solid balls each having
+the surface area π
+1 3 / cm 2 are to be made.
+Assuming that there is no loss of the material in
+process of making the balls, the maximum
+number of balls made will be e 2015 II
+(a) 3 (b) 4 (c) 6 (d) 9
+153. A hollow cylindrical drum has internal diameter
+of 30 cm and a height of 1 m. What is the
+maximum number of cylindrical boxes of
+diameter 10 cm and height 10 cm each that can
+be packed in the drum? e 2015 II
+(a) 60 (b) 70 (c) 80 (d) 90
+154. A pipe with square cross-section is supplying
+water to a cistern which was initially empty. The
+area of cross-section is 4 cm
+2 and the nozzle
+velocity of water is 40m/s. The dimensions of the
+cistern 10 8 6m m m× × . Then, the cistern will be
+full in e 2015 II
+(a) 9.5 h (b) 9 h
+(c) 8 h and 20 min (d) 8 h
+MATHEMATICS > Quadratic□Equations□and□Inequalities 349
+--- PDF PAGE 555 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (c) Let ‘ a’ be the edge of three equal
+cubes. Surface area of a single cube
+= 6 (Side) 2 = 6 2a
+∴ Sum of the surface areas of the three
+cubes is = =3 6 182 2( )a a
+Length of resulting cuboid = 3a
+Breadth of resulting cuboid = a
+Height of resulting cuboid = a
+∴ Total surface area of cuboid
+= + +2 ( )lb bh hl
+= + +2 3 3 2 2 2( )a a a = 14 2a
+Required ratio = =14
+18
+7
+9
+2
+2
+a
+a
+, i.e. 7 9 :
+2. (b) Here, x = 12,
+According to the formula, percentage
+increase in volume
+= +
+ 
+ −
+
+
+
+
+×1
+100
+1 100
+3x %
+= +
+ 
+ −
+
+
+
+
+×1 12
+100
+1 100
+3
+%
+= +
+ 
+ −
+
+
+
+
+×1 3
+25
+1 100
+3
+%
+= 
+ 
+ −
+
+
+
+
+×28
+25
+1 100
+3
+%
+= −
+
+
+×21952
+15625
+1 100% = − ×[ ] %1.405 1 100
+= ×0.405 100% = 40.5%
+3. (b) Given, diameter of the base of the
+cylinder = 21 cm
+∴ Radius
+= 21
+2
+cm
+As, curved surface area = =2 1320πrh
+⇒ 2 22
+7
+21
+2
+1320× × × = h
+∴ h =
+×
+=1320
+22 3
+20 cm
+4. (c) 1 cm 3 of water weighs 1 g.
+/c81Volume of 154 g of water = 154 cm 3
+∴ Volume of cylinder = =πr h2 154 cm 3
+⇒ 22
+7
+3 5 1542( . ) × =h
+⇒ 77
+2
+154h =
+⇒ h = × =154 2
+77
+4 cm
+5. (d) Here, 2 264πrh = m 2
+and πr h2 924= m 3 [given]
+∴ π
+π
+r h
+rh
+2
+2
+924
+264
+=
+⇒
+r
+2
+7
+2
+= ⇒ r = 7 m
+∴ Diameter of pillar
+= × = × =r 2 7 2 14 m
+6. (b) Given, r = 7 m, h = 24 m
+Slant height of cone,
+= + = +r h2 2 2 2 24 7
+= + = =576 49 625 25 m
+Curved surface area = π rl
+= × × =22
+7
+7 25 550 m 2
+Width of cloth = 50 m
+Length required = =550
+50
+11 m
+7. (c) Let radius and height of a
+right circular cone be 5x and 12x
+respectively.
+∴ r = 5x and h = 12x
+Volume of cone = =1
+3
+25122πr h
+⇒ 1
+3
+3 14 5 12 25122× × × =. ( )x x
+⇒ x3 2512
+314
+8= =
+⇒ x = 2
+∴ Radius = 10 cm, height = 24 cm
+∴ Slant height,
+l r h= + = +2 2 2 2 10 24
+= 676 = 26 cm
+350 CDS Pathfinder
+ANSWERS
+1 c 2 b 3 b 4 c 5 d 6 b 7 c 8 a 9 c 10 c
+11 c 12 c 13 b 14 a 15 b 16 c 17 d 18 a 19 b 20 a
+21 d 22 d 23 b 24 b 25 c 26 b 27 b 28 b 29 b 30 c
+31 c 32 c 33 b 34 b 35 b 36 b 37 d 38 a 39 b 40 c
+41 c 42 c 43 a 44 b 45 a 46 d 47 b 48 c 49 a 50 b
+51 b 52 b 53 c 54 b 55 d 56 d 57 d 58 d 59 b 60 d
+61 a 62 c 63 a 64 d 65 b 66 b 67 b 68 a 69 c 70 c
+71 d 72 d 73 c 74 c 75 c 76 d 77 a 78 d 79 b 80 c
+81 a 82 c 83 b 84 a 85 d 86 a 87 a 88 a 89 c 90 b
+91 d 92 a 93 c 94 a 95 d 96 a 97 c 98 d 99 a 100 b
+101 d 102 a 103 c 104 b 105 a 106 d 107 b 108 c 109 b 110 c
+111 d 112 a 113 b 114 d 115 a 116 b 117 c 118 c 119 a 120 c
+121 c 122 d 123 c 124 a 125 a 126 b 127 b 128 c 129 c 130 a
+131 b 132 d 133 a 134 a 135 a 136 b 137 b 138 c 139 c 140 c
+141 c 142 d 143 b 144 a 145 b 146 a 147 a 148 a 149 b 150 c
+151 c 152 c 153 d 154 c
+--- PDF PAGE 556 ---
+8. (a) Let r and H be the radius and height
+of the cone respectively.
+∴ Original volume = =1
+3
+2πr h V
+New radius = r and new height = 2h
+New volume = × =1
+3
+2 22πr h V
+∴ Increase in volume = − =2V V V
+Increase percentage of volume
+= ×
+ 
+ =V
+V
+100 100% %
+9. (c) Ratio of surface area
+= = 
+ 
+ = 
+ 
+4
+4
+4
+25
+2
+5
+2
+2
+2
+π
+π
+r
+R
+⇒
+r
+R
+= 2
+5
+Now, ratio of volumes
+= = 
+ 
+ = 
+ 
+ =
+4
+3
+4
+3
+2
+5
+8
+125
+3
+3
+3 3π
+π
+r
+R
+r
+R
+= 8 : 125
+10. (c) Let radius of cylinder = x and radius
+of cone = 2x
+Height of each = h
+∴ Required ratio
+= Volume of cone
+Volume of cylinder
+= =
+1
+3
+4 4
+3
+2
+2
+π
+π
+x
+x
+h
+h
+= 4 3 :
+11. (c) Volume of sphere= Volume of cylinder
+∴ 4
+3
+3 3 323π πR = × × ×
+⇒ R3 3 3 3 8= × × × ⇒ R = 6 cm
+12. (c) Volume of first sphere = 
+ 
+4
+3
+3
+2
+3
+π
+and volume of second sphere
+= 4
+3
+2 3π ( )
+∴ Volume of big sphere
+= 
+ 
+ +
+
+
+
+
+
+4
+3
+3
+2
+2
+3
+3π ( ) [by condition]
+⇒
+4
+3
+4
+3
+27
+8
+83π πx = + 
+
+
+
+
+
+x3 91 8= = / 11.375 cm 3
+13. (b) Given, l R=
+/c81 Total surface area of cone,
+S R R l= +π ( ) = + =π πR R R R( ) 2 2
+∴ Area of circle, A R R= =π π( ) 2 42 2
+⇒ A S= 2
+14. (a) In one round, distance covered by
+cylinder = 60 cm
+In one second, distance covered by
+cylinder = × =60 5 300 cm
+In five seconds, distance covered by
+cylinder = ×300 5 = 1500 cm = 15 m
+15. (b) Let the radius of big drop and small
+drop be R and r respectively.
+By given condition,
+27 × Volume of smaller drops = Volume
+of bigger drop
+∴
+27 4
+3
+4
+3
+3 3× = π πr R
+⇒ 27 3× =(0.2) 3 R [/c81 r = 0 2 . cm]
+⇒ (3 0.2) 3× = R 3 ⇒ R = 0.6 cm
+16. (c) Common radius = =126
+2
+63 m
+Curved surface area of cylindrical part
+= 2πrh
+= × × × =2 22
+7
+63 5 1980 m 2
+Height of cone = − =21 5 16 m
+Curved surface area of conical part = π rl
+= × × +22
+7
+63 63 16 2 2( ) ( )
+= × × +22
+7
+63 3969 256
+= × ×22
+7
+63 65 = 12870 2m
+/c81 Total surface area
+= + =1980 12870 14850 2m
+∴ Total cost of canvas used
+= ×14850 12 = ` 178200
+17. (d) Given, radius of cylinder = 6 cm
+Volume of sphere
+= = × × × ×4
+3
+4
+3
+22
+7
+6 6 63πr
+= × ×88 2 36
+7
+3cm
+Let r be its internal radius, R be its
+external radius, then material used to
+cast the cylinder
+= −πh R r( ) 2 2
+= × −22
+7
+32 25 2( ) r
+Hence, 22
+7
+32 25 2× × − ( ) r
+= × ×88 2 36
+7
+⇒ ( )25 88 2 36 7
+22 32 7
+92− = × × ×
+× ×
+=r
+⇒ r 2 25 9 16= − = ⇒ r = 4 cm
+Thickness of cylinder
+= − = − =R r 5 4 1 cm
+18. (c) Volume of original cylinder
+= × ×[ ( ) ]π 10 10002 cm3
+Volume of shell
+= × × =1
+4
+100000 25000π π cm3
+Let r be the radius of shell, then
+π πr h2 25000=
+⇒ r 2 25000
+1000
+25=
+×
+=π
+π
+⇒ r = 5 cm
+Now, thickness = 2r = ×2 5 = 10 cm
+⇒ R2 100 25 125= + =
+⇒ R = 125
+∴ Thickness of cylindrical shell
+= − = −R 10 125 10
+= − ×5 5 5 2 = −5 5 2( ) cm
+19. (b) Curved surface area of cylinder
+= × × × =2 22
+7
+14 3 264 2m
+Height of cone = − =13.5 3 10.5 m
+Slant height of cone
+= +(10.5) (14)2 2 = + .110 25 196
+= .306 65 = 17. 5 m
+Curved surface area of cone = π rl
+= × × =22
+7
+14 17 5 770 2. m
+Total area to be painted
+= + =264 770 1034 2m
+∴ Cost of painting = × =1034 2 ` 2068
+20. (a) Let height of the cylinder be H.
+By given condition,
+Volume of hemisphere + Volume of
+cylinder = Volume of container
+∴
+2
+3
+324003 2π π πr r H+ =
+⇒ 2
+3
+3375 225 32400π π π× + × = H
+⇒ 2 1125 225 32400π π π× + × = H
+MATHEMATICS > Quadratic□Equations□and□Inequalities 351
+16
+5
+21 m
+63 m
+A B
+D C
+10.5 m
+3 m
+13.5 cm
+14 m
+A B
+CD
+15 cm
+15 cm
+H
+A B
+CD
+--- PDF PAGE 557 ---
+352 CDS Pathfinder
+On dividing both sides by 225 π, we get
+⇒ 10 144+ =H ⇒ H = 134 cm
+∴ Height of container
+= + =15 134 149 cm
+21. (d) Since, milk is in a conical flask whose
+base radius and height are r and h ,
+respectively.
+∴ Volume of milk = 1
+3
+2πr h
+Now, this milk is poured into a
+cylindrical flask whose base radius is 2r.
+Let H be the height of cylindrical flask.
+∴ Volume of milk
+= Volume of cylindrical flask
+⇒
+1
+3
+2πr h = π ( ) 2 2r H
+⇒ 1
+3
+42 2π πr h r H= ⇒ H h=
+12
+22. (d) Let radius and height of a cone be r
+and h.
+/c81 r
+h
+= 3
+4
+⇒ h r= 4
+3
+…(i)
+Volume of cone = 1
+3
+2πr h
+∴ 96 1
+3
+4
+3
+2π π= × × r r
+[from Eq. (i)]
+⇒ r 3 96 3 3
+4
+216= × × =
+⇒ r = 6 cm and h = 8 cm
+∴ Lateral surface area = π rl
+[/c81l r h2 2 2= + ]
+= +πr r h2 2
+= × + =π π 6 36 64 60 cm 2
+23. (b) /c81 Volume of wax balls
+= =4
+3
+1 4
+3
+3π π( ) cm 3
+and volume of sphere = 4
+3
+8 3π ( ) cm 3
+∴ Required number of balls =
+4
+3
+8
+4
+3
+3π
+π
+( )
+= 512
+24. (b) Given, r = 70
+2
+35cm m= 0.
+and h = 4 m
+∴ Surface area of 10 cylinders
+= 10 2 ( )πrh
+= × × × 
+ 
+10 2 22
+7
+0 35 4. = 88 m 2
+∴ Total cost of 10 pillars painting at
+the rate of ` 5 per m 2
+= × =88 5 440 `
+25. (c) Given,
+R , r h= = =35 14 40cm cm and cm
+∴ Volume of the bucket
+= + +πh R r Rr
+3
+2 2( )
+= ×
+×
++ + ×22 40
+7 3
+35 14 35 142 2( )
+= + +880
+21
+1225 196 490( )
+= × =880
+21
+1911 80080 cm 3
+26. (b) Let side of a cube be a unit.
+∴ Volume of cube, V a= 3
+and total surface area of cube, S a= 6 2( )
+S a3 3 6 6= ( ) = 216 2V
+27. (b) Total area of wetted surface
+= Curved surface area of cylinder + Area
+of base of cylinder
+= +2 2π πrh r
+= × × +π [2 3. 5 4 (3.5) ] 2
+= +22
+7
+(28 12. 25 ) = ×22
+7
+40.25
+= 126 .5 m 2
+28. (b) Let height h1, radius r1 , area S1
+and volume V1 of first cylinder.
+Similarly, height h2 , radius r2 , area S2
+and volume V2 of second cylinder.
+By given condition,
+r
+r
+1
+2
+2
+3
+= …(i)
+∴
+S
+S
+1
+2
+5
+3
+= ⇒
+2
+2
+5
+3
+1 1
+2 2
+π
+π
+r h
+r h
+=
+⇒
+h
+h
+1
+2
+2
+3
+5
+3
+× = ⇒
+h
+h
+1
+2
+5
+2
+= …(ii)
+∴
+V
+V
+r h
+r h
+r
+r
+h
+h
+1
+2
+1
+2
+1
+2
+2
+2
+1
+2
+2
+1
+2
+= =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+π
+π
+= 
+ 
+ 
+ 
+ =2
+3
+5
+2
+10
+9
+2
+or, 10 : 9
+29. (b) By given condition,
+Volume of cylindrical vessel = Volume of
+sphere
+∴
+π πr h R2 3 4
+3
+=
+⇒ ( ) 60 10 4
+3 2
+2
+3
+× = 
+ 
+d
+⇒
+( ) 60 10 4
+3 8
+2
+3
+× = × d
+⇒ d 3 2 60 60= ×( ) ( )
+∴ d = 60 cm
+30. (c) Given, inner radius of hollow sphere
+( )r = =4
+2
+2 cm
+Outer radius of hollow sphere
+( )R = =8
+2
+4 cm
+Volume of metal of the sphere
+= −4
+3
+4
+3
+3 3π πR r = −4
+3
+4 23 3π ( )
+= ×4
+3
+56π cm 3
+Radius of base of cone ( )x = =8
+2
+4 cm
+∴ 1
+3
+4 4
+3
+562π π h = × [by condition]
+⇒ h =
+× ×
+=
+4
+3
+56 3
+16
+14 cm
+Hence, the height of cone is 14 cm.
+31. (c) Surface area of sphere, S r1
+24= π
+If radius is 2r, then surface area of
+sphere,
+S r r2
+2 24 2 16= = π π( )
+∴ S S2 1 4=
+Hence, it increases four times.
+32. (c) Given, l = 6 m, b = 4 m
+and h .= 1 25 m
+Area of wetted surface
+= × + × + ×2 ( )l h b h l b
+= + +2 7 5 5 24( ) .
+= + =25 24 49 m 2
+33. (b) Given, R = 3 cm, r = 2 cm, h = 10 cm
+Total surface area
+= + + −2π ( ) ( )R r R h r
+= + + −2 3 2 3 10 2π ( ) ( )
+= 110 π cm 2
+34. (b) For conical part, r = =6
+2
+3 cm,
+h = 4cm,
+l h r= + =2 2 5 cm
+Surface area of conical part = π rl
+= × × =3.14 3 5 47.1 cm 2
+For hemispherical part, r = =6
+2
+3 cm
+Surface area of hemispherical part
+= 2 2πr = × × ×2 3.14 3 3
+= 56 52. cm 2
+∴ Surface area of toy = +47 1 56 52. .
+= 103.62 cm 2
+35. (b) Let r and h be the radius and height
+of the cylinder. Here, h = 9 m
+By given condition,
+2 2
+3
+π πr h r h r× = + ( )
+⇒ 9 1
+3
+9= + ( ) r ⇒ 27 9= + r
+∴ r = 18 m
+--- PDF PAGE 558 ---
+36. (b) Let r1 and r2 be the radii of two spheres.
+/c81
+4
+3
+4
+3
+8
+1
+1
+3
+2
+3
+π
+π
+r
+r
+= ⇒
+r
+r
+1
+2
+2
+1
+=
+∴ Ratio of their surface areas =
+4
+4
+1
+2
+2
+2
+π
+π
+r
+r
+= 
+ 
+ =2
+1
+4 1
+2
+:
+37. (d) Area of the field = ×Length Breadth
+= × =12 10 120 m 2
+Area of the pit’s surface = × =5 4 20 m 2
+Area on which the Earth is to be spread
+= − =120 20 100 cm 2
+Volume of Earth dug out
+= × × =5 4 2 40 cm 3
+∴ Level of field raised
+= =40
+100
+2
+5
+m
+= × =2
+5
+100 40 cm
+38. (a) Edge of cube = 9 cm
+For rectangular vessel,
+Length = 15 cm and breadth = 12 cm
+Let the rise in the water level is x cm.
+Volume of cube = = × ×9 9 9 93 cm 3
+Volume of water risen in the vessel
+= × ×15 12 x cm 3
+⇒ 15 12 9 9 9× × = × × x
+∴
+x = × ×
+×
+= =9 9 9
+15 12
+81
+20
+4 05. cm
+39. (b) The maximum diameter of a sphere
+in a cube is of 3 m.
+∴ Volume of sphere,
+V1
+4
+3
+= π (1.5) 3
+= 4.5 m 3π
+Volume of cube, V2
+33= =( ) 27 m 3
+and Volume of solid left = −V V2 1
+= −(27 4.5 ) m 3π
+40. (c) Length of water flowing in 1h= 10 km
+∴ Length of the water flowing in 1
+2
+h
+= 5 km = 5000 m
+Area of pipe
+= = =40 40
+10000
+1
+250
+2 2 2cm m m
+∴ Volume of water flowing in 1
+2
+h
+= × =5000 1
+250
+20 3m
+Area of bottom of tank
+= × =80 40 3200 2m
+∴ Depth of water
+= = =Volume
+Area
+20
+3200
+1
+160
+m
+= × =1
+160
+100 5
+8
+cm cm
+41. (c) Given radius of balls = 1 cm
+Volume of each ball
+= × × × ×4
+3
+1 1 1π
+= 4
+3
+π cm3
+∴ Volume of 4 balls
+= × =4 4
+3
+16
+3
+π π cm3
+Volume of water increased
+= Volume of balls
+⇒ Area of base × height = 16
+3
+π
+⇒ π π× × × =5 5 16
+3
+h
+∴ h =
+×
+=16
+3 25
+16
+75
+cm
+42. (c) Given, height of the cone = 30 cm
+∴ Volume of original cone ( )AOB
+= 1
+3
+2πR H
+= × ×1
+3
+302πR = 10 2πR cm3
+Volume of small cone OCD
+= 1
+27
+of volume cone AOB
+⇒ 1
+3
+1
+27
+102 2π πr h R= ×
+⇒ h
+R
+r
+= ×
+10
+27
+3
+2
+2
+π
+π
+⇒ h R
+r
+= 
+ 
+10
+9
+2
+/c81
+R
+r h
+= 30 [ ~ ]/c81∆ ∆OQB OPD
+∴ h
+h h
+= 
+ 
+ = ×10
+9
+30 10
+9
+900
+2
+2
+⇒ h 3 10 100= ×
+⇒
+h = = 1000 103 cm
+∴ Required height
+= − = − =H h 30 10 20 cm
+43. (a) Let r be the radius of cylindrical
+block, then height will be 2r.
+Volume of block = =π π( ) ( )r r r2 3 2 2
+A sphere of maximum possible volume
+is curved out whose radius will be r.
+/c81 Volume of sphere
+= 4
+3
+3πr
+∴ Volume of utilised wood = 4
+3
+3πr
+and volume of wasted wood
+= −2 4
+3
+3 3π πr r = − =6 4
+3
+2
+3
+3 3 3π π πr r r
+∴ Required ratio = =4
+3
+2
+3
+2 13 3π πr r : :
+44. (b) Let the slant height of cone = l cm
+In ∆ ABC ,
+cos
+/
+30
+3 2
+° = =AB
+AC l
+[/c81AC l= cm]
+⇒ l = =
+3 2
+3 2
+3
+/
+/
+cm /c81cos30 3
+2
+° =
+
+
+
+∴ Area of cone ACD rl= π
+= × ×π 3
+2
+3 = 3 3
+2
+π cm 2
+45. (a) Volume of cone, C R H= 1
+3
+2π
+= 1
+3
+3πR [ ]/c81H R=
+Volume of hemisphere, H R= 2
+3
+3π
+∴ C H R R: : : = =1
+3
+2
+3
+1 23 3π π
+46. (d) Volume of wire = π r h2
+Now, new radius of the wire
+= × =r r 90
+100
+9
+10
+Let new length of the wire be L. .
+∴ Volume of new wire =
+
+
+
+
+
+
+
+ ×π
+9
+10
+2
+r
+L
+= 81
+100
+2πr L
+By given condition, π πr h r L2 2 81
+100
+=
+⇒ L h= 100
+81
+MATHEMATICS > Quadratic□Equations□and□Inequalities 353
+Q
+P DC
+O
+A B
+h
+A B
+CD CD
+A B
+C
+DA 3/2 B
+l
+30°
+EF
+RR
+R
+A B
+C
+D
+--- PDF PAGE 559 ---
+Increases in length = −100
+81
+h h = 19
+81
+h
+Percentage increase
+= ×19 81 100/ %h
+h
+= 23.45% = 23% (approx)
+47. (b) Let the height of cylinder be h.
+Then, radius of cylinder = h
+2
+Also, radius of the sphere,
+r h=
+2
+/c81 Volume of cylinder = 
+ 
+π h h
+2
+2
+= πh 3
+4
+and volume of sphere.
+S r h= = 
+ 
+4
+3
+4
+3 2
+3
+3
+π π
+= πh 3
+6
+/c81 Volume of remaining material
+= −π πh h3 3
+4 6
+= πh 3
+12
+∴ Volume of sphere in remaining material,
+S r1 1
+34
+3
+= π
+By given condition, 4
+3 12 1
+3
+3
+π πr h=
+⇒ r h
+1
+3
+3
+16
+= ⇒ r h
+1 1 32 2
+=
+⋅ /
+Required ratio = =
+⋅
+=r
+r
+h
+h1
+1 3
+1 32
+2 2
+2/
+/ /
+/
+⇒ r r: : /
+1
+1 32 1=
+48. (c) Let side of square be x
+∴ Radius of sphere = x
+Surface area of sphere, A = 4 2πx
+Since, square revolves round a side to
+generate a cylinder whose height and
+radius are x and x, respectively.
+∴ S = + =2 4 2π πx x x x( )
+So, it is clear that, A S= .
+49. (a) Given, length of pool = 24 m
+and breadth of pool = 15 m
+Rise in height of water
+= 1 cm = 0.01 m
+Volume of water displaced by x men
+= × × .24 15 0 01 = 3.6 m 3
+But volume of water displaced by x men
+= 0.1 m 3x
+∴ 0 1 3 6. . x = ⇒
+x = =3 6
+0 1
+36.
+.
+50. (b) Given, length of one compartment
+= 200 m
+and breadth of one compartment
+= 100 m
+and height of water in one compartment
+= 12 m
+Volume of one compartment
+= × ×200 100 12
+= 240000 m 3
+∴ Volume of 3 compartments
+= ×3 240000 = 720000 m 3
+= 720000000 L
+[/c811 10003m L= ]
+Total requirement of water 50000
+inhabitants in 1 day
+= × =50000 20 1000000 L
+∴ Required number of days
+= =720000000
+1000000
+720 days
+51. (b) Let r and h be the radius and height
+of the cone and r and H be the radius
+and height of the cylinder.
+∴ Volume of cone = 1
+3
+2πr h
+and volume of cylinder = π r H2
+By given condition, 1
+3
+2 2π πr h r H=
+⇒ h H= 3 …(i)
+Lateral surface area of cone = π rl
+and lateral surface area of cylinder
+= 2πrH
+By given condition, π πrl rH= ×15
+8
+2
+⇒ l H= 15
+4
+⇒ l H2 2 225
+16
+=
+⇒ r h H2 2 2 225
+16
++ = [/c81r h l2 2 2+ = ]
+⇒ r H H2 2 2 9 225
+16
++ = [from Eq. (i)]
+⇒ r H2 2 81
+16
+= ⇒
+r
+H
+2
+2
+81
+16
+=
+⇒
+r
+H
+= 9
+4
+∴ r H: : = 9 4
+52. (b) Let the sides of the cuboid be x, 2x
+and 4x and the side of the cube is y.
+∴ Volume of cuboid = × ×x x x2 4
+= 8 3x
+and volume of cube = y 3
+By given condition,
+Volume of cuboid = Volume of cube
+∴ 8 3 3x = y ⇒ y = 2x …(i)
+∴ Diagonal of cuboid
+= + +x x x2 2 2 4 16 = 21x
+and diagonal of cube = =y 3 2 3 x
+[from Eq. (i)]
+Hence, the required ratio
+= =
+×
+21
+2 3
+21
+4 3
+x
+x
+= = 1 75 .
+53. (c) Area of tank,
+BCDE = × =10 7 5 75 2. m
+Area of remaining field
+ABEDFGA = × −125 15 75
+= 1800 m 2
+Volume of Earth dug = × × .10 7 5 6
+= 450 m 3
+By given condition, 1800 450× =h
+⇒ h = = × =1
+4
+1
+4
+100 25m cm cm
+54. (b) Let r k1 = and r nk2 =
+Since, V V1 2=
+∴ 1
+3 1
+2
+1 2
+2
+2π πr h r h=
+⇒ 1
+3
+2
+1
+2 2
+2π πk h n k h× =
+⇒ h n h1
+2
+23=
+55. (d) Let r be the radius, h the height and l
+the slant height of smaller cone
+Given, slant height of original cone
+slant height of small er cone
+= 2
+1
+Since, ∆ ABM and ∆ ADL are similar.
+Therefore, radius and height of original
+cone will be 2r and 2h respectively.
+∴
+V
+V
+r h
+r h
+r h
+r h
+1
+2
+2
+2
+2
+2
+1
+3
+2 2
+1
+3
+8 8=
+× ×
+= =
+π
+π
+( )
+∴ V V1 2 8 1: : =
+56. (d) By given condition,
+Surface area of new sphere = 25% of 616
+4 1542π r =
+⇒ r 2
+2
+154
+22
+7
+4
+7
+2
+=
+×
+= 
+ 
+ ⇒ r 3.5 cm=
+354 CDS Pathfinder
+• h
+A B
+CD
+E
+FG
+A B C
+D
+7.5 m
+10 m E
+CB
+A
+rD2l
+l
+2r
+L
+M
+--- PDF PAGE 560 ---
+57. (d) Let side of a cube be ‘ a’ unit.
+Then, radius of sphere is a
+2
+unit.
+∴
+Volume of cube
+Volume of sphere
+=
+
+ 
+
+=( )a
+a
+3
+34
+3 2
+6
+π π
+58. (d) Total surface area = Curved surface
+area of cylinder + Curved
+surface area of cone + Top surface area
+of cylinder
+= + +2 2π π πrh rl r = + +π [ ]2 2rh r rl
+= × × + + +π [ ]2 3 4 3 3 3 4 2 2 2
+= 48π cm 2
+59. (b) Curved surface of a cylinder
+= 1000 cm2, 2 1000πrh = …(i)
+Length of wire used in one round
+= Perimeter of cylinder’s base = 2πr
+∴ Number of rounds
+= Height of cylinder
+Diameter of wire 0.5
+= h
+∴ Required length of wire
+= × =2
+0 5
+2
+0 5
+π πr h
+.
+rh
+.
+= =1000
+0 5
+2000
+.
+cm or 20 m
+60. (d) Let h be the depth of the pit.
+∴ Volume of Earth dug
+= × =500 250 cm 125000 cm3 3
+But volume of pit = × ×50 50 h
+∴ h =
+×
+= =125000
+50 50
+50 cm 0.5 m
+61. (a) Since, sheet is revolved about its
+length, threfore a cylinder is formed with
+h = 7 cm and r = 4 cm
+∴ Volume of the figure, thus formed
+= = × × ×π r h2 22
+7
+4 4 7 = 352 cm 3
+62. (c) Let l, b and h be the sides of cuboid.
+then, l b2 2 2+ = x …(i)
+b h y2 2 2+ = …(ii)
+and h l z2 2 2+ = …(iii)
+Adding Eq. (i), (ii) and (iii), we get
+2 2 2 2 2 2 2( )l b h y z+ + = + + x
+⇒ l b h y z2 2 2 2 2 2 1
+2
++ + = + + ( )x
+…(iv)
+From Eqs. (i), (ii), (iii) and (iv)
+h y z= + −2 2 2
+2
+x , l z y= + −2 2 2
+2
+x
+and b y z= + −x2 2 2
+2
+Hence, volume of cuboid = lbh
+=
++ − + −
++ −
+× ×
+( ) ( )
+( )
+y z z y
+y z
+2 2 2 2 2 2
+2 2 2
+2 2 2
+x x
+x
+=
++ − + −
++ −
+1
+2 2
+2 2 2 2 2 2
+2 2 2
+( ) ( )
+( )
+y z z y
+y z
+x x
+x
+63. (a) Let the radius of cone and sphere be
+r and height of cone be h1.
+By given condition,
+Volume of cone = Volume of sphere
+∴
+1
+3
+2
+1π r h = 4
+3
+3π ( )r ⇒
+h
+r
+1
+2
+2
+1
+=
+or, 2 : 1
+64. (d) Let the length, breadth and height of
+a rectangular parallelopiped be 6 3x x,
+and x, respectively.
+Also, let the side of a cube be a.
+By given condition,
+Surface area of a cube = Surface area of
+rectangular parallelopiped
+⇒ 6 2 6 3 32( ) (a = × + x x x × + ×x x x 6 )
+⇒ 6 2 18 3 62 2 2 2a = + +( ) x x x
+⇒ 6 542 2a = x
+∴ a = 3x
+Now,
+Volume of cube
+Volume of rectangular parallelopiped
+=
+× ×
+= = =a 3 3
+3
+3
+36 3
+3
+18
+27
+18
+3
+2x x x
+x
+x
+x
+x
+( )
+or, 3 : 2
+65. (b) Given thickness of a metal = 1 cm
+∴ Inner radius
+= outer radius – thickness
+= − =5 1 4 cm
+Volume of hemisphere
+= −2
+3
+3 3π( )R r
+= −2
+3
+5 43 3π ( ) = −2
+3
+125 64π ( )
+= ×2
+3
+61π cm3
+/c81 Weight of 1 cm3 of metal = 9 g
+∴ Weight of all metal
+= × ×2 3 61 9/ π g = 366 π g
+66. (b) Let the radius of ball be r.
+/c81 Radius of base of cylinder = 4r
+and height of cylinder = 4r
+∴ Volume of spherical ball = 4
+3
+3πr
+and volume of water
+= 1
+2
+4 4 2π ( r r) ( ) = 32 3πr
+Also, volume of remaining portion of
+cylinder = 32 3πr
+Let number of spherical balls be n.
+∴
+32 4
+3
+3 3π πr n r= ×
+⇒ n = × =8 3 24
+67. (b) From the information given in the
+question and the figure it is clear that
+Radius of the hemisphere = radius of
+cone = height of cone = height of
+cylinder. Let it be r .
+Then, ratio of volume of cylinder,
+hemisphere and cone.
+= π π πr r r3 3 32
+3
+1
+3
+: :
+= =1 2
+3
+1
+3
+3 2 1: : : :
+68. (a) l = + =15 8 172 2 cm
+Total surface area of the remaining solid
+= + +2 2π π πrh r rl
+= × × + + × ×2 8 15 8 8 17 2π π π ( )
+= 240π + 64π + 136π
+= 440 π cm 2
+69. (c) Volume of spherical lead shot
+= 4
+3
+1 3π ( ) = 4
+3
+π cm3
+I. Volume of 8 shots
+= ×4
+3
+8π (0.5) 3
+= 4
+3
+π cm 3
+MATHEMATICS > Quadratic□Equations□and□Inequalities 355
+4 cm
+5 cm
+A B
+CD
+l cm
+15 cm
+8 cmA B
+CD
+--- PDF PAGE 561 ---
+356 CDS Pathfinder
+II. Volume of both shots
+= +4
+3
+4
+3
+0 8 3π π(0.75) 3 ( . )
+= 
+ 
+ + 
+ 
+
+
+
+
+
+
+
+4
+3
+3
+4
+4
+5
+3 3
+π
+= + 
+ 
+4
+3
+27
+64
+64
+125
+π
+=
++
+
+
+
+
+
+
+
+4
+3
+3375 4096
+8000
+π
+= 
+ 
+4
+3
+7471
+8000
+π
+= 4
+3
+π (0.93) cm 3
+Hence, statement I, II are true.
+70. (c) I. Coterminous edges are those who
+have same boundaries and for a
+cuboid, these may be considered as
+length, breadth and height.
+So, given statement is true
+II. The surface area of a cuboid is twice
+the sum of the products of lengths of
+its coterminous edges taken two at a
+time.
+Hence, both statements I and II are
+correct.
+71. (d) I. The distance between vertices
+B and C is 1 cm.
+II. The distance between A and B is
+1 1 22 2+ = cm
+III. The distance between vertices B
+and D is 1 1 1 32 2 2+ + = cm
+Hence, the statements I and II, III
+are correct.
+72. (d) I. It is true that the surface area of all
+the eight drops is greater than the
+surface area of big drop.
+II. Let radius of spherical body be ‘ a’.
+∴ Volume of sphere,
+V a= 4
+3
+3π
+∴ Surface area of sphere, S a= 4 2π
+⇒ V a S2 2 6 316
+9
+= ∝ π
+III. It is true that sphere occupies biggest
+space but has smallest surface area.
+Hence, all statements are true.
+73. (c) I. It is a correct statement.
+II. The length may be πr but the
+breadth is always less than
+h r2 2+ of formed rectangle,
+So, statement II is false.
+Statement III and IV are correct.
+Solution. (74-76)
+As cone is divided into two parts by a
+plane through mid-point of its axis,
+therefore it will bisect the slant height.
+∆ ∆AOB ADC~
+∴
+DC
+OB
+AD
+AO
+= = 1
+2
+⇒ DC OB=
+2
+∴ Radius of smaller cone will be half of
+original cone
+74. (c) The volume of the original cone
+= × × ×1
+3
+5 102π ( ) = 250
+3
+π
+The volume of the frustum.
+= − × 
+ 
+ ×250
+3
+1
+3
+5
+2
+5
+2
+π π
+= −250
+3
+125
+12
+π π = 875
+12
+π
+Thus, dividing the two volumes, we
+get
+8
+7
+75. (c) Area of the top circle of the frustum
+= 
+ 
+ =π π5
+2
+25
+4
+2
+76. (d) Let l be slant height of original cone.
+Curved surface area of cone
+= × × =π π 5 5 l l
+Curved surface area of frustum
+= − × × =5 5
+2 2
+15
+4
+π π πl l l
+Thus, the ratio of the two will be 4
+3
+or 4 : 3.
+Solution. (77-79)
+Here, r r1 2 6= =3 cm, cm and h = 9 cm
+77. (a) In ∆ ABC , AC AB BC2 2 2= +
+AC 2 2 2 9 6 3= + − ( ) = + =81 9 90
+∴ AC = 3 10 cm
+78. (d) By using properties of similar
+triangle in ∆ MPA and ∆ MOC .
+3
+6 9
+=
++
+x
+x
+⇒ 3 27 6x x+ =
+⇒ 27 3= x
+⇒ x = 9 cm
+Hence, height of cone = +9 9
+= 18 cm
+79. (b) Total surface area of the frustum
+= + + +π [ ) ]R r l r R 2 2
+where, l h R r= + −2 2 ( )
+= + + + +π [( ) ]6 3 81 9 9 36
+= +π ( )9 90 45
+= +9 3 10 5π ( ) cm 2
+80. (c) Curved surface area of the well
+= 2πrh = × × ×2 22
+7
+2 14 = 176 m 2
+/c81 Expense of getting per square metre
+plastered = ` 25
+∴ Expense of 176 m 176 252 = ×
+= ` 4400
+81. (a) Given that,
+Radius of sphere ( r) = 9 cm = 0 09 .m
+and diameter of wire (d) = 0 4 .cm
+⇒ R = 0 2 . cm = 0 002 .m
+Given condition,
+Volume of sphere = Volume of wire
+⇒
+4
+3
+3 2π πr R h= ⇒ h r
+R
+= ⋅4
+3
+3
+2
+= × × ×
+×
+= ×4
+3
+0 09 0 09 0 09
+0 002 0 002
+81. . .
+. .
+= 243 m
+82. (c) Total surface area of cube
+6 (Side) 2= ×
+∴ 150 6 (Side) 2= ×
+⇒ Side 150
+6
+252 = =
+∴ Side 25= = 5 cm
+∴ Volume of cube = (Side) 3
+= × ×5 5 5 125 cm 3=
+83. (b) Volume of cube = (Side) 3
+/c81 729 3= a ⇒ a = 9 cm
+∴ Diagonal of cube = ×Side 3
+= ×9 3 = 9 3 cm
+84. (a) Curved surface area of right circular
+cone = π r l
+∴ 440 22
+7
+14= × × l ⇒ l = ×
+×
+440 7
+22 14
+= 10 cm
+B
+C
+A
+O
+5
+D
+10
+C
+G
+B
+F
+E
+O
+D
+A
+O
+M
+C
+9 cm
+x
+P
+3 cm
+A
+6 cm
+B
+D
+B
+--- PDF PAGE 562 ---
+85. (d) Volume of cylinder = π r h1
+2
+Volume of sphere = 4
+3 2
+3πr
+Number of spheres = 48
+∴ Volume of cylinder
+Volume of sphere
+=
+π
+π
+r h
+r
+1
+2
+2
+34
+3
+⇒
+π
+π
+r h
+r
+1
+2
+2
+34
+3
+48= ⇒
+π
+π
+r
+r
+1
+3
+2
+34
+3
+48=
+[/c81r h1 = ]
+⇒ 3
+4
+481
+2
+3
+r
+r
+
+
+
+
+
+
+
+ = ⇒
+r
+r
+1
+2
+3
+48 4
+3
+
+
+
+
+
+
+
+ = ×
+⇒
+r
+r
+1
+2
+1 364= ( ) / ⇒
+r
+r
+1
+2
+4
+1
+= ⇒
+r
+r
+2
+1
+1
+4
+=
+Hence, the ratio of radius of ball to
+cylinder is 1 4 :.
+86. (a) Volume of the cuboid = 720 cm 3
+Area of base = =lb 72
+Height of the cuboid
+= Volume of the cuboid
+Base area of the cuboid
+= =720
+72
+10 cm
+Surface area of the cuboid
+= + +2 ( )lb bh hl
+⇒ 484 2 72 10 10= + × + ×( ) b l
+⇒ 20 340( )l b+ = ⇒ l b+ = 17
+So, it is obvious that length, breadth and
+height of the cuboid is 9 cm, 8 cm and
+10 cm.
+87. (a) Surface area of the sphere
+= 4 2πr
+⇒ 616 4 2= π r ⇒
+πr 2 616
+4
+154= =
+⇒ r 2
+154 7
+22
+=
+×
+= 49
+/c81 r = = 49 7 cm
+∴ Volume of the sphere = 4
+3
+3πr
+= × × × ×4
+3
+22
+7
+7 7 7 = 4312
+3
+cm3
+88. (a) Given that,
+Area of first end = =P r π 2
+and area of second end = =Q R π 2
+Given, P Q< ⇒ r P=
+π
+and R Q=
+π
+∴ Difference in radii of the ends of the
+frustum = −R r
+= − = −Q P Q P
+π π π
+89. (c) We know that,
+Volume of frustum
+= + +πH R r Rr
+3
+2 2( )
+= 
+
+ 
+
+ + 
+
+ 
+
+ +
+
+
+
+
+
+
+π
+π π π π3
+2 2
+H Q P Q P.
+= + + 
+
+
+
+
+
+π
+π π π
+H Q P PQ
+3
+= + +H P Q PQ
+3
+( )
+90. (b) Let the side of both cubes be a,
+then the height and radius of a cone,
+h a= and r a=
+2
+and radius of sphere ( )R a=
+2
+∴ Volume of cone ( C) = 1
+3
+2π r h
+= 
+ 
+ ⇒ =1
+3 2 12
+2 3
+π πa a C a ...(i)
+and volume of sphere ( S)
+= 4
+3
+3πR
+= 
+ 
+ =4
+3 2 6
+3 3
+π πa a ... (ii)
+From Eqs. (i) and (ii), S C= 2
+91. (d) If 10 circular plates each of thickness
+3 cm, are placed one above the other,
+then it forms a cylinder with height
+(3 10 30× = cm) and a hemisphere of
+radius 6 cm is placed on the top just to
+cover the cylinder that means its radius
+is also 6 cm.
+∴ Radius of hemi-sphere ( R) = 6 cm
+Radius of cylinder ( r) = 6 cm
+and height of cylinder ( h) = 30 cm
+∴ Volume of the solid = Volume of
+cylinder + Volume of hemisphere
+= +π πr h R2 3 2
+3
+= × +π π( ) ( )6 30 2
+3
+62 3
+= × × + ×π π 36 30 2
+3
+216
+= + ×1080 2 72π π
+= +1080 144π π = 1224 π cm 3
+92. (a) Given that, the height and radius of a
+right circular metal cone (solid) are 8 cm
+and 2 cm, respectively.
+i.e. h = 8 cm and r = 2 cm
+Let the radius of the sphere be R .
+Then, by condition,
+1
+3
+4
+3
+2 3π πr h R=
+⇒ 4 8 4 3× = R ⇒ R3 3 2=( )
+∴ R = 2
+Hence, radius of the sphere = 2 cm
+93. (c) Let the edge of a square be x. Then,
+its volume isx3 and sum of its edges is12x.
+Now, by condition, x x3 12=
+⇒ x x( ) 2 12 0− =
+⇒ x2 12= [/c81x ≠ 0]
+∴ Its total surface area = 6 2x
+= 6 12 ( )= 72 sq units
+94. (a) Given that,
+Diameter of a right circular cone = 7 cm
+∴ Radius of a right circular cone = 7
+2
+cm
+and slant height of a right circular cone
+(l) = 10 cm
+∴ Lateral surface area of a cone = π r l
+= × ×22
+7
+7
+2
+10 = × =11 10 110 cm 2
+95. (d) Let the height and radius of solid
+cylinder be h and r cm , respectively.
+Given that, r = 5 cm
+and total surface area = 660 cm 2
+⇒ 2 2 660 2π πrh r+ =
+⇒ 2 660πr h r( ) + =
+⇒
+( )h + = = ×5 330
+5
+330
+5
+7
+22π
+⇒ h = × − = − =66 7
+22
+5 21 5 16
+∴ Required height = 16 cm
+96. (a) Let the diameters of two spheres be
+d1 and d2, respectively.
+/c81 d d1 2 3 5: : =
+∴ Ratio of their surface areas
+=
+4
+4
+1
+2
+2
+2
+π
+π
+r
+r
+= =
+( )
+( )
+2
+2
+1
+2
+2
+2
+1
+2
+2
+2
+r
+r
+d
+d
+=
+
+
+
+
+
+
+
+ = 
+ 
+ =
+d
+d
+1
+2
+2 2
+3
+5
+9
+25
+= 9 : 25
+97. (c) From figure, it is clear that
+Diameter of a sphere = Side of the cube
+= 3 cm
+/c81 Radius =
+3
+2
+cm
+MATHEMATICS > Quadratic□Equations□and□Inequalities 357
+r
+R
+H
+A B
+CD
+‘C’ ‘S’
+A
+B
+C
+D D
+C
+B
+A
+--- PDF PAGE 563 ---
+358 CDS Pathfinder
+∴ Volume of the largest sphere
+= 4
+3
+π (Radius)3 = 
+ 
+4
+3
+3
+2
+3
+π
+= 4
+3
+27
+8
+π. = =9
+2
+4 5π π . cm 3
+98. (d) Given that, radius of a right circular
+cone ( r) = 12 m
+Height of a right circular cone ( h) = 5 m
+∴ Lateral height of cone ( l)
+= + r h2 2
+= + =144 25 169 = 13 m
+∴ Required quantity of cloth to roll up
+to form a right circular tent = πr l
+= π π× × =( ) ( )12 13 156 m 2
+99. (a) Given that, Outer radius of
+hemispherical shell ( R) = 9 cm
+and inner radius of hemispherical shell
+(r) = 7 cm
+∴ Volume of a hemispherical shell
+= −2
+3
+3 3π ( )R r
+= × × −2
+3
+22
+7
+729 343( )
+= × ×2
+3
+22
+7
+386 = 16984
+21
+= 808.76
+≈ 808 cm 3 (approx)
+100. (b) Let r be the radius of the sphere.
+Given that, volume of sphere = 36 π
+⇒ 4
+3
+363π πr = ⇒ r 3 3 27 3= = ( )
+/c81 r = 3 cm
+∴ Diameter of sphere
+= = =2 2 3 6r ( ) cm
+and surface area of sphere = 4 2πr
+= =4 3 36 2π π( ) cm 2
+∴ Required ratio
+= Surface area of sphere
+Diameter of sphere
+= =36
+6
+6π π
+101. (d) Given that,
+Internal diameter of the tube = 6 cm
+∴ Internal radius ( r) = 3 cm
+Height of the tube ( h) = 10 cm
+Thickness of the metal = 1 cm
+/c81 Outer radius ( R)
+= Thickness of the metal
++ Internal radius
+= + =1 3 4 cm
+∴ Outer curved surface area
+= 2πrh = × × × =2 4 10 80π π
+102. (a) Let the height and radius of right
+circular cylinder be h and r, respectively.
+Then, volume of cylinder = π r h2
+Volume of circular cone = 1
+3
+2π r h
+∴ Required ratio
+= Volume of utilised wood
+Volume of wasted wood
+= Volume of right circular cone
+Volume of right circular cylinder
+Volume of right circular con− e
+=
+−
+=
+1
+3
+1
+3
+1
+3
+2
+3
+2
+2 2
+2
+2
+π
+π π
+π
+π
+r h
+r h r h
+r h
+r h
+= =1
+2
+1 2 :
+103. (c) Since, volume of cone and pyramid
+= ×1
+3
+Base area × Height
+Therefore, they have same volume but
+their surface areas are not same as
+nothing can be said about their slant
+heights.
+104. (b) Given that, height of cone ( h) = 3 cm
+and slant height of cone ( l) = 5 cm
+Let r be the radius of cone.Then,
+l r h= + =2 2 5 ⇒ r h2 2 25+ =
+⇒ r 2 25 9 16= − = ⇒ r = 4 cm
+∴ Volume of cone = 1
+3
+2πr h
+= × × ×1
+3
+22
+7
+16 3 = =352
+7
+50 3 .cm 3
+105. (a) Given that,
+Height of bucket = 25 cm
+Radius of top ( )R = 20 cm
+and radius of bottom ( )r = 10 cm
+∴ Capacity of bucket
+= + +π
+3
+2 2h R r rh( )
+= × + +π
+3
+25 400 100 200 3( ) cm
+= × ×π
+3
+25 700 3cm
+= × ×π
+3
+175 100
+1000
+L = 17 5
+3
+. π L
+106. (d) Given that, h = 15 cm
+Let r be the radius of cylinder.
+Lateral surface area of cylinder = 2πrh
+⇒ 2 660πrh = [given]
+⇒ π rh = 330
+⇒ 22
+7
+15 330× × =r ⇒ 22
+7
+22× =r
+/c81 r = 7 cm
+∴ Volume of cylinder = π r h2
+= × ×22
+7
+49 15
+= × ×22 7 15 = 2310 cm 3
+107. (b) Given that, the diameter of Moon
+is approximately one-fourth of the
+diameter of Earth.
+If radius of Moon = r
+Then, radius of Earth = 4r
+∴
+Volume of Moon
+Volume of Earth
+=
+4
+3
+4
+3
+4
+3
+3
+π
+π
+r
+r( )
+= r
+r
+3
+364
+= =1
+64
+1 64 :
+108. (c) Slant height, l h r= + 2 2
+= + 16 122 2
+= + 256 144 = 400 = 20 cm
+7 cm
+9 cm
+A B
+CD
+h
+rA B
+CD
+25 cm
+20 cm
+10 cm
+A B
+CD 180°
+l
+16 cm
+12 cm
+24 cm
+A B
+C
+A
+B
+C
+D
+--- PDF PAGE 564 ---
+Curved surface area = π rl
+= × ×22
+7
+12 20 cm 2
+Cost of painting the surface of the cap
+= × × ×22
+7
+12 20 0.70 = ` 528
+109. (b) Slant height, l h r= + 2 2
+= + ( ) ( )24 72 2 = + 576 49
+= 625 = 25
+Total surface area = +πr l r( )
+= × +22
+7
+7 25 7( )
+= × ×22
+7
+7 32 = 704 cm 2
+110. (c) Radius of cone, r = =24
+2
+12 cm
+Slant height of the cone, l = + 5 122 2
+= + 25 144 = 169 = 13 m
+Curved surface area for conical portion
+= π rl = × ×22
+7
+12 13 = 3432
+7
+m 2
+111. (d) Curved surface area of cylinder
+= =2π rh x
+Volume of cylinder = =πr h y2
+⇒
+2
+2
+π
+π
+rh
+r h y
+= x ⇒ r
+y
+=
+2
+x
+Also, h
+r
+= x
+2π
+∴ Required ratio = =h
+r
+r
+y
+x
+x
+2
+2
+π
+=
+⋅
+×x
+x
+x
+2 2 2π y y
+= x3
+28πy
+So, the ratio is not independent of x or y.
+112. (a) Let common radius be r cm.
+Then, height of cylinder = h
+and height of cone = ′h
+∴ Volume of the complete structure
+= ′ + +1
+3
+2
+3
+2 2 3π π πr h r h r
+= ′+ +
+ 
+πr h h r2
+3
+2
+3
+= + + × 
+ 
+π ( ) 3 5 2 8
+3
+6 5 2
+3
+3 52. . . .
+= × × ×π 3 5 3 5 9 76. . . = 375 86 3. cm
+Hence, volume (V ) of the structure lies
+between 370 3cm and 380 3cm .
+113. (b) Given, radius of cone
+= =6
+2
+3 cm
+and height of cone = 4 cm
+Now, curved surface area = π rl
+where,
+l r h= + = + =2 2 2 2 3 4 5 cm
+∴ Curved surface area = × ×π 3 5 = 15π
+= × ≈15 22
+7
+47 cm 2
+114. (d) Volume of clay required
+= 
+ 
+ − 
+ 
+
+
+
+
+
+
+ ×π 5 1
+2
+4 5
+2
+21
+2 2
+. .
+= − ×π [( . ) ( . ) ]2 55 2 25 212 2
+= × ×π ( . .0 3 4 8 21) = 30 24 .π cm 2
+115. (a) Surface area of cube which can be
+painted = 6 (Side) 2 = =6 2 242( ) cm 2
+Now, surface area of cuboid which can
+be painted
+= + +2( )lb bh lh
+= + +2 2 6 3( ) = 22 cm 2
+T otal surface area of both cube and cuboid
+= +22 24 = <46 cm 54 cm2 2
+Hence, both cube and cuboid can be
+painted.
+116. (b) Let the cone is divided into two parts
+by a line l.
+In ∆ AOB and ∆ ACD, ∆ ∆AOB ACD~
+By basic proportionality theorem,
+CD r=
+2
+, since AC h=
+2
+Now, ratio = Volume of original cone
+Volume of smaller cone
+=
+
+ 
+ 
+ 
+
+=
+1
+3
+1
+3 2 2
+8
+1
+2
+2
+π
+π
+r h
+r h
+∴ Required ratio = 8 1 :
+117. (c) Volume of each small sphere
+= Volume of bigger sphere
+Number of small spheres
+=
+4
+3
+4
+64
+3π( )
+= × × × × =4
+3
+4 4 4
+64
+4
+3
+π π cm3
+Let radius of small sphere be ′r .
+∴ 4
+3
+4
+3
+3π π′ =r ⇒ ′=r 1 cm
+Now, surface area of small sphere
+= ′4 2πr = 4π cm2
+118. (c) Volume of Earth dug out
+= × ×8 2 5 2. = 40 m 3
+Area where Earth is spread × Field level
+raised
+= Volume of Earth dug out
+⇒ [( ) ( . )]12 15 8 2 5 40× − × × = h
+∴ h =
+−
+40
+180 20
+= =40
+160
+1
+4
+m
+= 100
+4
+cm = 25 cm
+119. (a) Given, surface area of sphere
+= 616 cm 2
+⇒ 4 6162πr = ⇒ r 2 616 7
+4 22
+= ×
+×
+⇒ r 2 7 7= × ∴ r = 7 cm
+∴ Diameter of the largest circle lying on
+sphere
+= ×2 r = 14 cm
+120. (c) Given, volume of cube = 216 3x
+(Side) 2163 3= x ⇒ Side = 6x
+Since, sphere is enclosed in hollow cube.
+∴ Diameter of sphere = 6x
+Now, surface area of sphere = 4 2πr
+= 
+ 
+4 6
+2
+2
+π x = 36 2πx
+MATHEMATICS > Quadratic□Equations□and□Inequalities 359
+lh
+O rA B
+C
+12 m
+12 m
+11 m
+5 m
+16 m
+24 m
+A B
+CD
+E
+3.5 cm
+3.5 cm
+6.5 cm
+A B
+CD
+E
+2.8 cm
+12.8 cm
+D
+Br
+A
+r/2
+h/2
+hCl
+OC
+15 m
+8 m
+2.5 m 12 m
+A B
+CD
+--- PDF PAGE 565 ---
+121. (c) Let ABC be a right angled triangle.
+Then, hypotenuse, AC = 25 cm
+Let AB = 3x and BC = 4x
+Thus, AC AB BC2 2 2= +
+[by pythagoras theorem]
+⇒ ( ) ( ) ( )25 3 42 2 2= + x x
+⇒ ( ) 25 9 162 2 2= +x x
+⇒ 25 2= x ⇒ x = 5
+∴ AB = 15 cm and BC = 20 cm
+Now, ∆ ABC revolves about AC , so it
+forms two cones ABD and BCD.
+Since, ∆ AEB and ∆ ABC are similar.
+∴ BE
+BC
+AB
+AC
+= ⇒ BE
+20
+15
+25
+=
+⇒
+BE = × =15 20
+25
+12 cm
+So, radius of the base of cone
+= BE = 12 cm
+In right angled ∆ AEB,
+AE AB BE= − ( ) ( ) 2 2
+= − ( ) ( )15 122 2
+= − 225 144 = 81 = 9 cm
+So, height of cone ABD AE= = 9 cm
+∴ Height of cone BCD AC AE= −
+= −25 9 = 16 cm
+Now, volume of cone ABD r h= 1
+3
+2π
+= ×1
+3
+12 92π ( ) = 432π cm3
+and volume of cone
+BCD = ×1
+3
+12 162π ( ) = 768π cm3
+∴ Required volume of double cone
+= +432 768π π = 1200π
+= ×1200 3 14 . [/c81π = 3 14. ]
+= 3768 cm 3
+122. (d) /c81Surface area of cone ABD r= π l
+= × ×π 12 15 = 180π cm2
+and surface area of cone
+BCD = × ×π 12 20 = 240π cm2
+∴ Required surface area of double cone
+= +180 240π π = 420π
+= ×420 3 14 . = 1318 8 . cm2
+123. (c) Let side of a cube be x.
+Then, surface area of cube = 6 2x
+If the side of cube is increased by 100%.
+Then, new side of cube = +x 100% of x
+= +x x = 2x
+∴ New surface area of cube = 6 2 2( )x
+= ×6 4 2x = 24 2x
+Now, increase percentage in surface area
+= − ×24 6
+6
+100
+2 2
+2
+x x
+x
+= ×18
+6
+100 = 300%
+124. (a) Let radius of the sphere be r.
+Since, cylinder circumscri-
+bes a sphere.
+∴ Radius of the base of
+cylinder = r and height
+of cylinder = 2r
+= Diameter of sphere
+Now, volume of sphere
+= 4
+3
+3πr
+and volume of cylinder
+= = =π π πr h r r r2 2 3 2 2( )
+∴ Required ratio =
+4
+3
+2
+3
+3
+π
+π
+r
+r
+=
+×
+4
+3 2
+= =2
+3
+2 : 3
+125. (a) Given, diameter of
+the base of the conical
+portion = 12 cm
+∴ Radius of conical
+portion = 6 cm
+Radius of hemisphere
+= 6 cm and height of
+conical portion = 8 cm
+∴ Slant height of conical portion
+= + = +6 8 36 642 2
+[/c81l = + r h2 2 ]
+= 100 = 10 cm
+Now, total surface area of the toy
+= Curved surface area of conical portion
++ Curved surface area of hemisphere
+= +π πr rl 2 2 = +π( )r rl 2 2
+= × + × ×π ( )6 10 2 6 6
+= +π ( )60 72 = 132π cm2
+126. (b) Volume of the toy
+= Volume of conical portion
++ Volume of hemisphere
+= +1
+3
+2
+3
+2 3π πr h r
+= + 
+ 
+π 1
+3
+2
+3
+2 3r h r
+= × × + ×
+
+
+π 1
+3
+6 8 2
+3
+62 3( ) ( )
+= +π [ ]96 144 = 240π cm3
+127. (b) Let length, breadth and height of a
+cuboidal box be l b, and h, respectively.
+Given, areas of the three adjacent faces
+are x, 4x and 9x sq units.
+Now, l xb =
+[/c81area of rectangular face =
+length breadth× ]
+Similarly, bh = 4x and l xh = 9
+Now, ( ) ( ) ( ) ( ) ( ) ( )l l x x xb bh h⋅ ⋅ = ⋅ ⋅ 4 9
+⇒ ( )l xbh 2 3 36= ⇒
+l xbh = 36 3
+∴ l xbh = 6 3 2 /
+Hence, volume of cuboidal box
+= =l xbh 6 3 2 / cu units
+128. (c) In a cuboid, 4 perpendicular face pairs
+in bottom surface, 4 perpendicular face
+pairs in top surface and 4 perpendicular
+face pairs in vertical surface.
+Hence, total perpendicular pairs are 12.
+129. (c) I. Surface area of sphere A
+= 4 6 2π ( ) = 144π cm2
+Surface area of sphere B = 4 8 2π ( )
+= 256π cm2
+Surface area of sphere C = 4 10 2π ( )
+= 400π cm2
+Now, sum of surface area of spheres
+A and B
+= +144 256π π = 400π cm2
+= Surface area of sphere C
+Hence, statement I is correct.
+II. /c81Volume of sphere D
+= 4
+3
+12 3π( ) = 2304π cm3
+Volume of sphere A = 4
+3
+6 3π ( ) cm 3
+Volume of sphere B = 4
+3
+8 3π ( ) cm 3
+and volume of sphere
+C = 4
+3
+10 3π ( ) cm 3
+Now, sum of volumes of spheres
+A B, and C
+= 4
+3
+63π[ + 8 + 10 ]3 3
+= + +4
+3
+216 512 1000π [ ]
+= 2304π cm3 = Volume of sphere D
+Hence, statement II is also correct.
+360 CDS Pathfinder
+8 cm
+12 cm
+h
+A B
+CD
+l
+h
+bA
+B
+C
+D
+A
+D
+C
+20 cm
+15 cm
+EB
+--- PDF PAGE 566 ---
+130. (a) Given, diameter of a sphere, d = 6 cm
+∴ Radius of a sphere, r d= = =
+2
+6
+2
+3 cm
+Let the radius of wire be R cm.
+Also, given the length of wire, H = 36 m
+= 3600 cm
+According to the question,
+Volume of sphere = Volume of wire
+⇒
+4
+3
+3 2π πr R H=
+⇒ 4
+3
+3 36003 2× = ×( ) R
+⇒ R2
+2 2
+2
+4 3
+3600
+6
+60
+=
+×
+= ( )
+( )
+∴ R = =6
+60
+1
+10
+= 0 1 .cm
+131. (b) Given, side of a cube = 2 cm
+∴ Maximum distance between two
+points of a cube
+= Length of diagonal
+= × 3 Side = 2 3 cm
+132. (d) Let the slant height of cone be l cm.
+Given, h = 24 cm and r = 7 cm
+∴ l h r2 2 2= +
+⇒ l 2 2 2 24 7= + = + 576 49
+⇒ l 2 625= ⇒ l = 25 cm
+Total surface area = Curved surface
+area of cone + curved surface area of
+hemisphere
+= +π πrl r 2 2 = +πr l r( ) 2
+= × + ×π 7 25 2 7( ) = +7 25 14π [ ]
+= ×7 39π = 273π cm 2
+133. (a) Let the radius of the sphere and side
+of cube be r and a respectively.
+∴ Total surface area of sphere
+( )S r1
+24= π sq units
+and total surface area of cube
+( )S a2
+26= sq units
+Now, according to the question,
+S S1 2= ⇒ 4 6 2 2πr a = ⇒ r
+a
+2
+2
+6
+4
+=
+π
+…(i)
+∴ Volume of sphere( )V r1
+34
+3
+= π cu units
+and volume of cube ( )V a2
+3= cu units
+Now,
+V
+V
+r
+a
+r
+a
+1
+2
+2 3
+3
+2
+2
+2
+2
+34
+3 16
+9
+
+
+
+
+
+
+
+ =
+
+
+
+
+
+
+
+
+
+
+= 
+
+ 
+
+
+π
+π
+= 
+ 
+16
+9
+6
+4
+2
+3
+π
+π
+[from Eq. (i)]
+= × × ×
+× × ×
+16
+9
+6 6 6
+4 4 4
+2
+3π
+π
+= =6 6
+π
+π:
+Hence, the ratio of square of their
+volume is 6 : π.
+134. (a) Let radius of sphere and cone be r.
+∴ Volume of sphere
+V r1
+34
+3
+= π
+and volume of cone V r h2
+21
+3
+= π
+Now, according to the question,
+V V1 2 2= ⇒ 4
+3
+2 1
+3
+3 2π πr r h= ×
+⇒ 2 3 2r r h= ⇒ 2r h= ⇒ h
+r
+= 2
+1
+∴ h r: : = 2 1
+135. (a) Let the radius of sphere be r.
+∴ Volume of sphere = 4
+3
+3πr
+According to the question,
+If the radius of a sphere is increased by
+10%.
+Then, new radius ′= + ×r r r 10%
+= + =r r r
+10
+11
+10
+∴ New volume of sphere = ′4
+3
+3πr
+= 
+ 
+4
+3
+11
+10
+3
+π r
+= ×4
+3
+1331
+1000
+3
+π r
+Increased volume
+= × −4
+3
+1331
+1000
+4
+3
+3 3π π r r = ×4
+3
+331
+1000
+3πr
+Increased percentage
+=
+×
+×
+4
+3
+331
+1000
+4
+3
+100
+3
+3
+π
+π
+r
+r
+% = 33 1 . %
+136. (b) Since, three metallic spheres are
+melted to form a single sphere.
+So, the sum of volume of three spherical
+solid sphere.
+= + +4
+3
+6 4
+3
+8 4
+3
+103 3 3π π π( ) ( ) ( )
+= + +4
+3
+6 8 103 3 3π[ ]
+Let r be the radius of new sphere
+∴ 4
+3
+4
+3
+6 8 103 3 3 3π πr = + + ( )
+⇒ r 3 3 3 36 8 10= + +
+⇒ r 3 216 512 1000= + +
+⇒ r 3 1728=
+⇒ r 3 12 12 12= × ×
+⇒ r = 12 cm
+∴ Diameter of the new sphere
+= 2r = × =2 12 24 cm
+137. (b) Let the radius and height of the cone
+be r and h, respectively.
+∴ Initial volume of cone
+( )V r h= 1
+3
+2π …(i)
+new height, H = + ×h h 200%
+= + =h h h200
+100
+3
+and new radius, R r r= − × 50%
+= −r r50
+100
+= r
+2
+∴ New volume of cone ( )V R H2
+21
+3
+= π
+= 
+ 
+ ×1
+3 2
+3
+2
+π r h
+= × ×1
+3 4
+3
+2
+π r h
+= ×1
+3
+3
+4
+2πr h = 3
+4
+V [from Eq. (i)]
+Decrease in volume = − =V V V3
+4 4
+∴ Decrease percentage in volume
+= ×Decrease in Volume
+Initial Volume
+100%
+= ×V
+V
+/ %4 100 = ×V
+V4
+100% = 25%
+138. (c) Given a rectangular paper of 44 cm
+long and 6 cm wide is rolled to form a
+cylinder of height equal to width of the
+paper.
+∴ Circumference of the base of cylinder
+= 44
+i.e. 2 44πr = ⇒
+r = 44
+2π
+= ×
+×
+44 7
+2 22
+∴ r = 7 cm
+Hence, the radius of the base of the
+cylinder is 7 cm.
+139. (c) Let the
+dimensions of
+cuboid be l, b
+and h
+respectively.
+For first face
+l b2 2 2 13+ = [/c81l b d2 2 2+ = ]
+⇒ l b2 2 169+ = …(i)
+For second face
+b h2 2 2 281+ = ( )
+⇒ b h2 2 281+ = . …(ii)
+For third face
+h l2 2 2 20+ = ⇒ h l2 2 400+ = …(iii)
+On adding Eqs. (i), (ii) and (iii), we get
+2 8502 2 2( )l b h+ + =
+⇒ l b h2 2 2 425+ + = …(iv)
+Subtracting Eq. (i) form Eq. (iv), we get
+h2 256= ⇒ h = 16 units
+similarly, b 2 25= ⇒ b = 5 units
+and l 2 144= ⇒ l = 12 units
+∴ Total surface area of cuboid
+= + +2( )lb bh lh
+MATHEMATICS > Quadratic□Equations□and□Inequalities 361
+l
+b
+h
+A
+B
+C
+D
+--- PDF PAGE 567 ---
+362 CDS Pathfinder
+= × + × + ×2 12 5 5 16 16 12( )
+= + +2 60 80 192( )
+= ×2 332 = 664 sq units
+Hence, the total surface area of cuboid is
+664 sq units.
+140. (c) Given, radius of vessel, ( )r = 4 cm
+and radius of sphere ( )R = 3 cm
+Let height of vessel be h cm, then volume
+of vessel = π r h2 = =π π( ) 4 162 h h
+and volume of sphere
+= 4
+3
+3πR = 36π
+Let H be the rise in water level
+∴ Volume of water displaced
+= volume of sphere
+⇒ 16π H = 36π ⇒ H = =36
+16
+2 25 .cm
+141. (c) Volume of paint required
+= × × × +2 3 2 0 0001( . )
+2 2 1 75 0 0001× × × +( . . )
+2 3 1 75 0 0001× × ×( . . )
+= + +0 0012 0 0007 0 00105. . . = 0 00295. m 3
+Volume of cubical box = 103.
+= 1000 cm 3 = 0 001 .m 3
+∴ Boxes required = ≈0 00295
+0 001
+3.
+.
+.
+142. (d) Let the sides of a cube be l cm.
+Then, 6 132542l =
+⇒ l 2 13254
+6
+2209= = ⇒ l = 47
+∴ Length of diagonal = l 3 = 47 3 cm
+143. (b) Let the height of cylindrical
+portion be h.
+Then, 2
+3
+33123 2π π πr r h+ =
+⇒ π πr r h2 2
+3
+3312+
+
+
+ =
+⇒
+12 12 2
+3
+12 3312× × + 
+
+
+ =h
+⇒ 8 23+ =h ⇒ h = 15m
+/c81
+Surface area of hemisphere
+Surface area of cylinder
+= 2
+2
+2π
+π
+r
+rh
+= = =r
+h
+12
+15
+4
+5
+∴ r h: = 4 5 :
+144. (a) Let the length of water tank be lm.
+volume of tank = × × =l l l l 3
+volume of water tank after taking out
+water
+= × × − = −l l l l l ( ) ( )2 2 2
+∴ l l l3 2 128 2− = − ( )
+⇒ 2 1282l = ⇒ l 2 64= ⇒ l = 8 m
+So, volume of cubical tank
+= =8 5123 m 3.
+145. (b) Let the sides of the cuboid be l b,
+and h respectively.
+Volume of cuboid,
+V l b h= × × …(i)
+Given, x lb= , y bh= and z lh=
+∴ xyz lb bh lh= × ×
+= =( )lbh V2 2 [using Eq. (i)]
+146. (a) On each face, we can draw four right
+angled triangles by choosing one vertex
+to serve as the right angled and two
+adjacent vertices. Since there are six
+faces, you can form 6 4 24× = triangles.
+147. (a) Let the area of each rectangle be A.
+Then, breadth of R1, R2 and
+R A
+x
+A
+x
+A
+x3
+1 2 3
+are and, respectively
+Cylinder is formed by joining parallel
+side of breadth.
+Here, length becomes height
+and 2πr = breadth
+= A
+x
+⇒
+r A
+x
+=
+2π
+∴ V r h A
+x
+x A
+x
+= = × =π π
+π π
+2
+2
+2 2
+2
+4 4
+Now,V1, V V A
+x2 3
+2
+14
+and are
+π
+, A
+x
+2
+24π
+and A
+x
+2
+34π
+respectively
+/c81 x x x1 2 3< < ⇒ 1 1 1
+1 2 3x x x
+> >
+⇒ A
+x
+A
+x
+A
+x
+2
+1
+2
+2
+2
+34 4 4π π π
+> >
+∴ V V V3 2 1< <
+148. (a) Since, ∆ OAB and ∆ OCD are similar
+∴ r
+r
+h
+h
+1
+2
+2
+1
+= =
+We have,
+V r h= 1
+3
+2π
+⇒ r V
+h
+2 3=
+π
+⇒ r r
+1 2
+= ⇒ r r
+1
+2
+2
+4
+=
+Hence, volume of water = 1
+3 2 1
+2πr h
+= 1
+6 4
+2
+πh r = 1
+24
+3π
+π
+h V
+h
+= =3
+24 8
+V V
+149. (b) Let radius be r and height be h of the
+cylinder.
+Then, 30 1
+3
+2 2⋅ = ×π πr h r h n
+⇒ n = ×30 3 = 90 cones
+Statement I is correct. Statement II is
+also correct. But statement II is not
+correct explanation of statement of I.
+150. (c) At 30 min, the container was full
+∴ At 5 min before i.e. in 25 min, the
+container was half filled and at 20 min,
+container was one-fourth full.
+151. (c) I. Area of curved surface = 2πrh
+/c81 2 2 2 2π πr h rh( ) = ⋅
+∴ Curved surface area is also doubled.
+It is correct.
+II. Total surface area of hemisphere
+= 3 2πr
+/c813 2 2π ( )r = 3 4 2π r = ⋅ ⋅4 3 2π r
+= 4 times the area
+It is also correct.
+152. (c) Let n spherical ball be made.
+Then,
+4 2 1
+3π πr =
+⇒ r 2
+1
+3 2
+3
+4
+1
+4
+= =
+−π
+π
+π ⇒
+r 2 1
+3
+2
+1
+2
+= 
+ 
+
+−
+π
+⇒
+r =
+−1
+2
+1
+3π
+Given, n ⋅ 
+ 
+ = × ×
+−4
+3
+1
+2
+1 1 1
+1
+3
+3
+π π
+⇒
+n ⋅ × × =4
+3
+1
+8
+1 1π
+π
+⇒ n
+6
+1=
+∴ n = 6
+153. (d) Let n cylindrical boxes be packed.
+⇒ n × × × ×π 5 5 10
+= × × ×π 15 15 100
+∴ n = 90 boxes
+154. (c) We have, area of cross-section of pipe
+= 4 cm 2 = × −4 10 4 m 2
+and 4 10 40 4× × − m 3 water flows in 1 s.
+Let cistern fill in t s.
+⇒ 4 10 40 10 8 64× × × = × ×− t
+⇒ t = 30000 s
+=
+×
+30000
+60 60
+h
+= =50
+6
+8h h and 20 min
+r
+h
+r
+r1
+h
+O
+h
+2
+C D
+A B
+--- PDF PAGE 568 ---
+Statistics is the branch of Mathematics which deals with the
+collection, analysis and interpretation of numerical data . In
+this chapter, we shall study measures of central tendency i. e.
+mean, median and mode of ungrouped data and grouped
+data. Concept of cumulative frequency, the cumulative
+frequency distribution how to draw cumulative frequency
+curves (ogive) and graphical representation of data will al so
+be discussed.
+Collection of Data
+Collection of data is the first step in statistics towards
+achieving the goal or conclusion.
+On the basis of collection, data are of two types
+1. Primary data The data collected actually in the process
+of investigation by the investigator is called primary data .
+It is original and first hand information.
+2. Secondary data The data collected by someone and used
+by any other person known as secondary data.
+Presentation of Data
+Raw or Ungrouped data When the data presented is
+random and is not prepared according to some order, it is
+known as raw or ungrouped data. It does not give us a clear
+picture of the class.
+Grouped data When the data is arranged in any manner
+like ascending or descending order etc., it is called groupe d
+data. It can also be presented in the form of a table called
+frequency distribution table.
+Class Intervals Class intervals are the groups in
+which all the observations are divided. Each class is
+bounded by two figures (numbers) which are called
+class limits. The figure on the left side of a class, is
+called its lower limit and that on the right side of a
+class, is called its upper limit.
+Class mark It is the mid-point of the class interval.
+i.e. Class mark
+= Lower class limit + Upper class limit
+2
+Range or a class size Difference between the upper
+limit and the lower limit of a class is called its class
+size.
+Range = Upper limit − Lower limit
+e.g. Range of the observations 4, 7, 8, 10, 12
+= − =12 4 8
+Frequency of an observation The number of times
+an observation occurs is called its frequency.
+Frequency distribution
+The tabular arrangement of data, showing the
+frequency of each observation is called a frequency
+distribution. It is a method of presenting the data in
+a summarized form. Frequency distribution is also
+known as frequency table.
+There are two types of frequency distribution which
+are as follows:
+363
+28
+STATISTICS
+Usually (10-13) questions have been asked from this chapter . This chapter is very important from
+examination point of view and generally questions are asked from the graphical representation of data,
+measures of central tendency.
+--- PDF PAGE 569 ---
+364 CDS Pathfinder
+1. Discrete frequency distribution
+A frequency distribution is called a discrete frequency
+distribution, if data are presented in a way such that
+exact measurements of the units are clearly shown.
+Marks Number of students (frequency)
+40 7
+60 3
+80 3
+100 2
+Total 15
+2. Continuous frequency distribution
+Exclusive form A frequency distribution in which upper
+limit of each class is excluded and lower limit is
+included, is called an exclusive form.
+e.g. In the class 0-10 of marks obtained by students, a
+student who has obtained 10 marks is not included in
+this class. It will be counted in the next class i.e 10-20.
+Inclusive method In this method,the classes are so
+formed that the upper limit of a class is included in that
+class. The following example illustrates the method. In
+class 1000-1099, we include workers having wages
+between ` 1000 and ` 1099. If the income of a worker
+is exactly ` 1100, then it will be included in the next
+class 1100-1199.
+Exclusive method Inclusive method
+Wages (in `) Number of workers Wages (in `) Number of works
+1000-1100 125 1000-1099 125
+1100-1200 150 1100-1199 150
+1200-1300 200 1200-1299 200
+1300-1400 250 1300-1399 250
+1400-1500 175 1400-1499 175
+1500-1600 100 1500-1599 100
+Total 1000 Total 1000
+It is clear from the above example that both the
+inclusive and exclusive methods give us the same class
+frequency although the class intervals are aparently
+different in the two cases.
+In the above example on inclusive method, the
+difference between the lower limit of a class and upper
+limit of the preceding class is 1.
+Therefore, we subtract
+1
+2
+from the lower limit and add 1
+2
+to upper limit of each class to make it continuous.
+The adjusted classes would be as follows:
+Wages (in `) Number of workers
+999.5-1099.5 125
+1099.5-1199.5 150
+1199.5-1299.5 200
+1299.5-1399.5 250
+1399.5-1499.5 175
+1499.5-1599.5 100
+Cumulative frequency
+If the frequency of first class interval is added to the
+frequency of second class and this sum is added to third
+class and so on, then frequencies so obtained are known
+as cumulative frequency.
+EXAMPLE 1. Consider the table given below :
+Marks Number of students
+(frequency)
+Cumulative
+frequency
+0-10 13 13
+10-20 7 20
+20-30 5 25
+30-40 4 29
+40-50 1 30
+50-60 7 37
+60-70 3 40
+70-80 4 44
+80-90 5 49
+90-100 1 50
+Total 50
+Then, find the value of the following
+(i) frequency of class 10-20. (ii) class size.
+(iii) mid value of 60-70. (iv) total frequencies.
+a. 10, 65, 50, 60 b. 7, 10, 65, 60
+c. 50, 65, 10, 10 d. 7, 10, 65, 50
+Sol. d. (i) Here, frequency of class 10-20 is 7.
+(ii) Class size = Upper limit − Lower limit = − =30 20 10
+(iii) Mid value Upper limit + Lower limit
+2= = +60 70
+2 = 65
+(iv) T otal frequencies = 50
+EXAMPLE 2. The class mark of the interval 12.5-17.5
+is
+a. 5 b. 12.5 c. 15 d. 17.5
+Sol. c. Class mark = Lower limit + Upper limit
+2
+= +12 5 17 5
+2
+. . = =30
+2 15
+--- PDF PAGE 570 ---
+365MATHEMATICS Statistics
+EXAMPLE 3. The class marks of a distribution are
+54, 64, 74, 84, 94 and 104. Then, the class size is
+a. 5 b. 10 c. 54 d. 104
+Sol. b. Since, class size is the difference between the
+class marks of two adjacent classes.
+∴ Class size = − =64 54 10
+MEASURES OF CENTRAL
+TENDENCY
+An average or central value of a statistical series is the
+value of the variable which describes the charateristic
+of the entire distribution. The following are the five
+measure of central tendency
+(i) Arithmetic mean or mean (ii) Geometric mean
+(iii) Harmonic mean (iv) Median
+(v) Mode
+Out of these measures of central tendency. Arithmetic
+mean, median and mode are sometimes knows as
+measures of location.
+Arithmetic Mean
+The mean (or average) of number of observations is
+the sum of the values of all the observations divided
+by the total number of observations.
+Mean = Sum of observations/Number of observation
+Properties of Arithmetic Mean
+1. If every observation is increased by a constant,
+then the mean of the observations, so obtained
+also increases by the same constant.
+2. If every observation is decreased by a constant,
+then the mean of the observation, so obtained also
+decreases by the same constant.
+3. If each observation is multiplied by a constant,
+then the mean of the resulting observations can be
+obtained by multiplying the mean by the same
+constant.
+4. If each observation is divided by a constant, then
+the mean of the resulting observation can be
+obtained by dividing the mean by the same
+constant.
+5. The average of natural numbers from 1 to n is
+( )n+ 1
+2
+.
+6. The average of odd numbers from 1 to n is
+Last odd number + 1
+2
+
+
+
+ and the average of even
+numbers from 1 to n is
+Last even number + 2
+2
+
+
+
+⋅
+1. Arithmetic mean of ungrouped or individual
+observations If x x x x1 2 3, , , . . . , n are n observations,
+then
+(i) Mean
+( ) . . .x
+n n
+n
+i
+i
+n
+= + + + = ∑
+=
+x x x x1 2
+1
+1
+It is also called direct method.
+(ii) Mean ( )x A
+n
+di
+i
+n
+= + ∑
+=
+1
+1
+where, A = Assumed mean and d Ai i= −x .
+It is also called shortcut method.
+EXAMPLE 4. If the heights of 5 persons are 144 cm,
+152 cm, 150 cm, 158 cm and 155 cm, respectively. Find
+the mean height.
+a. 152.5 cm b. 150 cm c. 149.8 cm d. 151.8 cm
+Sol. d. Mean height = Sum of the heights
+Number of persons
+= + + + +144 152 150 158 155
+5 = 759
+5 = 151 8 .cm
+EXAMPLE 5. If the average of 6, 8, 5, 7, x and 4 is 7.
+Then, the value of x is
+a. 10 b. 11 c. 12 d. 15
+Sol. c. /c81Sum of observation = + + + + +6 8 5 7 4 x = +30 x
+and number of observation = 6
+∴ Average = +30
+6
+x ⇒ 7 30
+6= + x
+⇒ 42 30= + x ⇒ x = − =42 30 12
+Hence, the value of x is 12.
+EXAMPLE 6. The average of 27 observations is 35. If 5 is
+added to each observation, what will be the new mean?
+a. 10 b. 20 c. 30 d. 40
+Sol. d. Given, x = 35 and n = 27
+Sum of observation = = × =nx 27 35 945
+and new total of observation = + × =945 27 5 1080
+∴ New mean = =1080
+27 40
+Shortcut Method
+New mean = Previous mean + Number added to each term
+= + =35 5 40
+EXAMPLE 7. The mean of 53 observations is 18. If each
+observation is multiplied by 3. What will be the new mean?
+a. 18 b. 36 c. 53 d. 54
+Sol. d. Given, x = 18 and n = 53
+So, sum of observation = = × =nx 53 18 954
+New total of observation = × =954 3 2842
+∴ New mean = =2862
+53 54
+--- PDF PAGE 571 ---
+Shortcut Method
+New mean = Previous mean × Constant multiplied to
+each term = × =18 3 54
+2. Mean of grouped or continuous observations If
+x x x x1 2 3, , , . . . , n are n observations whose
+corresponding frequencies are f f f f n1 2 3, , , . . . , , then
+(i) Direct Method
+(a) Mean,
+x x x x= + + +
++ + +
+1 1 2 2
+1 2
+f f f
+f f f
+n n
+n
+. . .
+. . .
+=
+∑
+∑
+=
+=
+i
+n
+i i
+i
+n
+i
+f
+f
+1
+1
+x
+= Σ
+Σ
+f
+f
+i i
+i
+x
+(b) Mean, x = +
+∑
+∑
+=
+=
+A
+f d
+f
+i
+n
+i i
+i
+n
+i
+1
+1
+= + ∑
+∑
+A f d
+f
+i i
+i
+w here, A =Assumed mean and d x Ai i= − .
+(ii) Step Deviation Method ( )x = + ∑
+∑
+
+
+
+ ×A f u
+f
+h
+i i
+i
+where, h = Difference between two consecutive class
+marks.
+EXAMPLE 8. The arithmetic mean of the marks from
+the following table is
+Marks 0-10 10-s20 20-30 30-40 40-50 50-60
+Number of students 12 18 27 20 17 6
+a. 20 b. 28 c. 2800 d. 100
+Sol. b. We have,
+Marks Class mark, ( x) f f x
+0-10 5 12 60
+10-20 15 18 270
+20-30 25 27 675
+30-40 35 20 700
+40-50 45 17 765
+50-60 55 6 330
+Total Σf = 100 Σfx = 2800
+∴ x x= = =Σ
+Σ
+f
+f
+2800
+100 28
+EXAMPLE 9. Find the mean wage from the data
+given below :
+Wages (in `) 800 820 860 900 920 980 1000
+Number of workers 7 14 19 25 20 10 5
+a. 890 b. 890.5 c. 891.2 d. 100
+Sol. c. Let the assumed mean be A = 900.
+The given data can be written as under :
+Wages (in `)
+(xi)
+Number
+workers ( )fi
+d x A i= − fdi i
+800 7 −100 −700
+820 14 − 80 −1120
+860 19 − 40 −760
+900 25 0 0
+920 20 20 400
+980 10 80 800
+1000 5 100 500
+Total Σ f
+i = 100 Σ f di i = − 880
+Here, A = 900
+∴ Mean = +A f d
+f
+i i
+i
+Σ
+Σ = + −900 880
+100 = −900 8 80 . = 891 2 .
+∴ Mean wage = `891 2 .
+EXAMPLE 10. Find the mean of the following data.
+x 15 25 35 45 55 65
+f 4 28 15 20 17 16
+a. 44.2 b. 42.4 c. 40.6 d. 41.6
+Sol. d. Here, the values of class marks xi are given, so let
+A = 35 and class width, h = difference between two
+consecutive class marks = 10, then
+xi fi u x a
+h
+i
+i= − fui i
+15 4 15 35
+10
+20
+10
+2− = − = − 4 2 8× − = −( )
+25 28
+25 35
+10
+10
+10
+1− = − = − 28 1 28× − = −( )
+35 = ( )A 15
+35 35
+10
+0
+10
+0− = = − 15 0 0× =
+45 20
+45 35
+10
+10
+10
+1− = = 20 1 20× =
+55 17
+55 35
+10
+20
+10
+2− = = 17 2 34× =
+65 16
+65 35
+10
+30
+10
+3− = = 16 3 48× =
+Total Σ fi = 100 Σ f ui i = 66
+Thus, we have Σ Σf u f hi i i = = =66 100 10, ,
+∴ x = + 
+
+
+A h f u
+f
+i i
+i
+Σ
+Σ
+= + ×35 10 66
+100
+= + = +35 660
+100 35 6 6 . ⇒
+x = 416 .
+Weighted Arithmetic Mean
+If corresponding weight of x x x1 2, , . . . , n are
+w w w n1 2, , . . . , respectively, then
+Weighted arithmetic mean
+= + + +
++ + +
+w w w
+w w w
+n n
+n
+1 1 2 2
+1 2
+x x x . . .
+. . .
+=
+∑
+∑
+=
+=
+i
+n
+i i
+i
+n
+i
+w
+w
+1
+1
+x
+366 CDS Pathfinder
+--- PDF PAGE 572 ---
+EXAMPLE 11. The weighted arithmetic mean of the
+first n natural numbers, the weights being the
+corresponding numbers, is
+a. n + 1
+2 b. n + 2
+2 c. 2 1
+3
+n + d. None of these
+Sol. c. First n natural numbers are 1 2 3, , , . . . , n ; whose
+corresponding weights are 1 2 3, , , . . . , n , respectively.
+∴ Weight arithmetic mean = × + × + + ×
++ + +
+1 1 2 2
+1 2
+. . .
+. . .
+n n
+n
+= + + +
++ + +
+1 2
+1 2
+2 2 2 . . .
+. . .
+n
+n = + +
++ = +n n n
+n n
+n( )( )
+( )
+1 2 1
+6 1
+2
+2 1
+3
+/c81Σ
+Σ
+n n n n
+n n n
+2 1 2 1
+6
+1
+2
+= + +
+= +
+
+
+
+
+
+
+
+
+
+
+( )( )
+( )
+Combined Arithmetic Mean
+If two sets of observations are given, then the combined
+mean of both the sets can be calculated by the following
+formula.
+x x x= +
++
+n n
+n n
+1 1 2 2
+1 2
+where, x = Mean of sets of observations
+x1 = Mean of first set of observations
+n1 = Number of observations in first set
+x2 = Mean of second set of observations
+n2 = Number of observations in second set
+EXAMPLE 12. The average salary of male employees
+in a firm was ` 5200 and that of females was ` 4200.
+The mean salary of all the employees was ` 5000. The
+percentage of male and female employees are,
+respectively.
+a. 80 and 20 b. 20 and 80 c. 60 and 40 d. 52 and 48
+Sol. a. Let x1 5200= , x2 4200= and x = 5000
+We know that, x x x= +
++
+n n
+n n
+1 1 2 2
+1 2
+⇒ 5000 5200 42001 2 1 2( )n n n n+ = + ⇒ n
+n
+1
+2
+4
+1=
+∴ The percentage of male employees in the firm
+= + × =4
+4 1 100 80
+and the percentage of female employees in the firm
+= + × =1
+4 1 100 20
+Geometric Mean
+If a G b, and are in GP, then the geometric mean
+between a band is,
+G ab= .
+EXAMPLE 13. What is the geometrical mean of the
+variate which takes values 210, 201, 202, 20, 12, 10, 2,
+1 and 0?
+a. 10 b. 9 c. 8 d. 0
+Sol. d. The given variates are 210, 201, 202, 20, 12, 10, 2,
+1 and 0.
+∴ Geometric mean of given variates
+= × × × × × × ×210 201 202 20 10 2 1 09 = =0 09
+Harmonic Mean
+The harmonic mean of n positive numbers a a a n1 2, , . . . , is
+1 1 1 1 1 1
+1 2 3H n a a a a n
+= + + + +
+ 
+. . .
+where, H denotes the harmonic mean.
+Median
+After arranging the given data in ascending or
+descending order of magnitude, the value of the middle
+most observation is called the median of the data.
+1. Median of an individual series If number of
+observations is n. Then, arrange the observations in
+ascending or descending order.
+(i) If n is an odd number, then
+Median = Value of the
+n +
+ 
+1
+2
+th observation
+(ii) If n is an even number, then
+Median
+Value of the
+2
+th observation
+=
+
+ 
+n
+Value of
+2
++ 1 th observation
+2
++ 
+ 
+n
+2. Median of a discrete frequency series First arrange
+the data in ascending or descending order and find
+cumulative frequency. Now, find
+N
+2
+, where N f i= Σ .
+See the cumulative frequency just greater than N
+2
+.
+The corresponding value of x is median.
+3. Median of a continuous series In this case, the
+class corresponding to the cumulative frequency just
+greater than N / 2 is called the median class and the
+value of median is obtained by the following
+formula.
+Median
+= +
+−
+
+
+
+
+
+
+
+
+
+×l
+N c
+f
+h2
+where, l = Lower limit of median class
+367MATHEMATICS Statistics
+--- PDF PAGE 573 ---
+368 CDS Pathfinder
+f = Frequency of median class
+h = Size of median class
+c = Cumulative frequency of class before
+median class
+EXAMPLE 14. From the data given, the median
+of the average deposit balance of saving for the
+branch during March 1982 is
+Average deposit balance
+(in `)
+Number of deposit
+0 – 100 26
+100-200 68
+200-300 145
+300-400 242
+400-500 188
+500-600 65
+600-700 16
+a. 356 b. 300 c. 56.2 d. 356.2
+Sol. d. Average deposit
+balance (in `) f Cumulative
+frequency (c f )
+Less than 100 26 26
+100-200 68 94
+200-300 145 239
+300-400 242 481
+400-500 188 669
+500-600 65 734
+600-700 16 750
+N
+2
+750
+2 375= =
+The frequency just greater than 375 is 481.
+∴ Median class is 300-400.
+Median = +
+−
+ 
+
+×l
+N c
+f h2
+= + − ×300 375 239
+242 100
+= +300 56 2 . = 356 2 .
+Mode
+The data value which occurs maximum number of
+times in a data distribution is called mode.
+1. Mode of individual series The value which is
+repeated maximum number of times is called
+mode of the series.
+EXAMPLE 15. Find the mode for the following
+series 2.5, 2.3, 2.2, 2.2 2.4, 2.7, 2.7, 2.5, 2.3, 2.2,
+2.6 and 2.2.
+a. 2.2 b. 2.3
+c. 2.7 d. 2.6
+Sol. a. Arranging the data in the form of a frequency table, we
+have
+Value Frequency
+2.2 4
+2.3 2
+2.4 1
+2.5 2
+2.6 1
+2.7 2
+We see that, the value 2.2 has the maximum frequency 4. So,
+the mode for the given series is 2.2.
+2. Mode of a discrete frequency series In this case, mode is
+the value of the variate corresponding to the maximum
+frequency.
+EXAMPLE 16. Compute the modal value for the following
+frequency distribution.
+x 95 105 115 125 135 145 155 165 175
+f 4 2 18 22 21 19 10 3 2
+a. 115 b. 125 c. 22 d. 120
+Sol. b. From the given table, it is clear that 125 has the highest
+frequency i.e. 22. Hence, modal value of the given frequency
+distribution is 125.
+3. Mode of a continuous series The class which has
+maximum frequency is called modal class or group. The
+mode is given by the formula,
+Mode
+= + −
+− −
+×l f f
+f f f
+h1 0
+1 0 22
+where, l = Lower limit of modal class
+h = Size of class interval
+f1 = Frequency of modal class
+f0 = Frequency of the class preceding the
+modal class
+f2 = Frequency of the class succeeding the
+modal class
+EXAMPLE 17. The mode of the following distribution is
+Class interval Frequency
+0-10 5
+10-20 8
+20-30 7
+30-40 12
+40-50 28
+50-60 20
+60-70 10
+70-80 10
+a. 46 b. 6.66
+c. 46.67 d. None of these
+--- PDF PAGE 574 ---
+Sol. c. Here, maximum frequency is 28. Thus, the class
+40-50 is the modal class. Here, f f f1 0 228 12 20= = =, , ,
+l = 40 and h = 10
+∴ Mode = + −
+− −
+
+
+
+ ×l f f
+f f f h1 0
+1 0 22
+= + −
+× − −40 10 28 12
+2 28 12 20
+( )
+( )
+= + × =40 10 16
+24 40 6 666+ . = 46 67 . (approx)
+Relation between Mean, Median and Mode
+The empirical relationship between the three measures
+of central tendency is given by
+Mode = 3 (Median) − 2 (Mean)
+In case, mean = median = mode, then distribution is said
+to be symmetric distribution.
+EXAMPLE 18. If in a frequency distribution, the mean
+and median are 20 and 21 respectively, then its mode
+is approximate by
+a. 24 b. 23 c. 25 d. None of these
+Sol. b. Here, mean = 20 and median = 21
+Mode = ×3 Median − ×2 Mean = −63 40 = 23
+Some Useful Formulae
+If x1, x2, …, xn are n observations with their mean M,
+then deviation d i is given by d Mi i= −| |x .
+• Mean deviation for individual series is given by Σ | |d
+n
+i .
+• Mean deviation for discrete series is given by Σ
+Σ
+f d
+f
+i i
+i
+| | .
+• Standard deviation ( )σ for ungrouped data is given by
+σ = Σ | |d
+n
+i
+2
+.
+• Standard variation for grouped data is given by
+σ = Σf d
+n
+i i| | 2
+• Variance = σ 2
+• Coefficient of variation = ×Standard deviation
+Mean
+100
+• Coefficient of mean deviation = ×Mean deviation
+Mean
+100
+EXAMPLE 19. The mean deviation of the data, 3, 5, 6,
+7, 8, 10, 11, 14 is
+a. 4 b. 3.25 c. 2.75 d. 2.4
+Sol. c.Mean = + + + + + + +3 5 6 7 8 10 11 14
+8 = =64
+8 8
+∴ Σ δ = − + − + − + − + −3 8 5 8 6 8 7 8 8 8
++ − + − + −| |10 8 11 8 14 8 = 22
+∴ Mean deviation = = =Σδ
+n
+22
+8 2 75 .
+Graphical Representation of Data
+There are many ways of picturing a frequency
+distribution of continuous type which are discussed
+below
+1. Bar Graph
+In a bar graph, bars of uniform width are drawn with
+various heights. The heights of a bar represents the
+frequency of observation.
+2. Histogram
+A histogram is the graphical representation of a
+frequency distribution in the form of the rectangles with
+class intervals as bases, and the corresponding
+frequencies as height. There being no gap between any
+two consecutive rectangles.
+POINTS TO BE REMEMBERED
+G A histogram consists of a set of adjacent rectangles,
+whose bases are equal to class sizes and height are equal
+to class frequencies.
+G The total area of the histogram = Sum of areas of all
+rectangles. If the class intervals are of same size (width),
+then the area of histogram = NK,
+where K = Size of a class and N = Sum of frequences of
+all classes.
+G If the frequency distribution is discontinuous (inclusive ),
+change it to continuous (exclusive) and then construct a
+histogram.
+3. Frequency polygon
+A frequency polygon can be drawn by joining the
+mid-points of the respective tops of the rectangles of a
+histogram in case of equal class intervals.
+369MATHEMATICS Statistics
+40
+30
+20
+10
+10 20 30 40 50
+Frequency
+50
+Number
+40
+30
+20
+10
+Frequency
+--- PDF PAGE 575 ---
+A frequency polygon for a grouped data can also be
+drawn independently by plotting the mid-points of the
+all classes along X-axis and frequencies along Y-axis and
+joining the plotted points by straight line.
+4. Ogive (Cumulative Frequency Curve)
+When we plot the upper or lower class limits along
+X-axis and cumulative frequencies along Y-axis, And on
+joining them we get a curve called an ogive.
+We have two types of ogive curves
+(a) less than ogive (i.e. the rising curve)
+It is the graph between upper limits and cumulative
+frequencies of a distribution.
+(b) more than ogive (i.e. a falling curve)
+It is the graph between lower limits and cumulative
+frequencies of a distribution.
+Note
+/c110If we have both ogive (i.e. less than type and more
+than type), then these two ogives intersect each other at a
+point.
+/c110From this point, draw a perpendicular on X-axis, the point
+at which it cuts the X-axis gives the median.
+i.e. the x-coordinate of intersection point gives the median.
+Pie-Diagram (or Pie chart)
+A type of graph in which a circle is divided into sectors
+such that each sector represents a proportion of the
+whole.
+Thus, in a pie chart
+• Data is represented by sectors of a
+circle.
+• Each part of data makes a certain
+central angle.
+• Sum of all the angles of sector is
+360°.
+• Central angle = ×
+ 
+
+°
+Frequency 360
+Total frequency
+EXAMPLE 20. In statistics, a suitable graph
+for representing the partitioning of total into subpart
+is
+a. an ogive
+b. a pictograph
+c. a histogram
+d. a pie chart
+Sol. d. In statistics, a suitable graph for representing the
+partitioning of total into sub parts is a pie chart.
+EXAMPLE 21. The following diagram show the
+expenditure of a family on various items A B C D, , , and E.
+Study the diagram carefully and answer the following
+questions.
+(i) The angle of pie diagram showing the expenditure
+incurred on item A is
+a. 30° b. 35°
+c. 108° d. None of these
+(ii) Which two expenditures together will form an angle
+of 90° at the centre of pie diagram?
+a. B Oand b. C Aand
+c. D Eand d. None of these
+(iii) If the income of the family is ` 3000 per month, then
+expenditure of item C will be
+a. ` 400 b. ` 500 c. ` 600 d. ` 800
+Sol. (i) c. Angle for 100 360% = °
+∴ Angle for expenditure of A = 30% of 360°
+= × 30
+100 360 = °108
+(ii) c. /c81100 360% = °
+∴ An angle of 90° at the centre of pie diagram in
+percentage is = ×90 100
+360 = 25%
+Expenditure of items D Eand makes upto
+( ) %15 10 25+ = .
+So, expenditure of D Eand together will form
+an angle of 90° at the centre of pie diagram.
+(iii) c. Expenditure on item C
+= 20% of ` 3000 = × =20
+100 3000 ` 600
+370 CDS Pathfinder
+E 10%
+A
+30%B
+25%
+C
+20%
+D
+15%
+A
+90°
+D
+120°
+C
+40°
+B
+80°
+E
+30°
+9:000
+85
+80
+75
+70
+65
+Time
+T emperature
+10:00 11:00 12:00 13:00 14:00 15:00
+--- PDF PAGE 576 ---
+1. Frequency polygon can be drawn after drawing
+(a) ogive (b) bar chart
+(c) histogram (d) None of these
+2. An ogive is used to determine
+(a) mean (b) median (c) GM (d) HM
+3. The mid-value of a class interval is 42. If the
+class size is 10, then the upper and lower limits
+of the class are
+(a) 37.5 and 47.5 (b) 47 and 37
+(c) 37 and 47 (d) 47.5 and 37.5
+4. The actual lower class limits of the following
+classes 10-19, 20-29, 30-39 and 40-49 are
+(a) 9.5, 19, 29 and 39.5 (b) 10, 20, 30 and 40
+(c) 9.5, 19.5, 29.5 and 39.5 (d) 18.5, 28.5, 38.5 and 48.5
+5. If the mean of five observations x x, , + 2
+x x+ +4 6, and x + 8 is 11, then the mean of first
+three observations is
+(a) 9 (b) 11
+(c) 13 (d) None of these
+6. The combined mean of three groups is 12 and
+the combined mean of first two groups is 3. If
+the first, second and third groups have 2, 3
+and 5 items respectively, then mean of third
+group is
+(a) 10 (b) 21
+(c) 12 (d) 18
+7. 10 is the mean of a set of 7 observations and 5 is
+the mean of a set of 3 observations. The mean of
+the combined set is given by
+(a) 15 (b) 10 (c) 8.5 (d) 7.5
+8. In a class of 50 students, 10 have failed and
+their average marks are 28. The total marks
+obtained by the entire class are 2800. The
+average marks of those who have passed are
+(a) 43 (b) 53 (c) 63 (d) 70
+9. Which of the following statements about the
+median is true?
+(a) It is not affected by extreme values
+(b) It can be found even, if some items are not known
+(c) It is useful when the data cannot be measured
+quantitatively
+(d) All of the above
+10. The middle item of the series arranged in
+ascending or descending order is called
+(a) mean (b) median
+(c) mode (d) standard deviation
+11. The following pie chart shows the marks
+obtained by a student in an examination who
+scored 540 marks in all. The subject in which the
+student scored 108 marks is
+(a) Science (b) Hindi
+(c) English (d) Social Science
+12. A distribution consists of three components with
+frequencies 45, 40 and 15 having their means 2,
+2.5 and 2 respectively. The mean of the combined
+distribution is
+(a) 2.1 (b) 2.2 (c) 2.3 (d) 2.4
+13. If the values
+1 1
+2
+1
+3
+1
+4
+1
+5
+1, , , , , . . . ,
+n
+occur at
+frequencies 1, 2, 3, 4, 5, 6,…, n respectively, in a
+frequency distribution, then the mean is
+(a) 1 (b) n (c)
+1
+n
+(d)
+2
+1n +
+14. If the geometric mean of three observations 40,
+50 and x is 10, then the value of x is
+(a)
+1
+2
+(b) 4 (c) 6 (d) 2
+15. Suppose, X is some statistical variable with
+mean µ. Let x x x1 2, , . . . , n be its deviations from
+mean with the respective frequencies f f f n1 2, , . . . , .
+What is the value of the sum
+x x x
+1 1 2 2f f f n n+ + + . . . ?
+(a) 0 (b) 1 (c) µ (d) µ + 1
+16. Which one of the following statements is not
+correct with reference to a histogram?
+(a) Frequency curve is obtained by joining the
+mid-points of the top of the adjacent rectangles with
+smooth curves
+(b) Histogram is drawn for continuous data
+(c) The height of the bar is proportional to the
+frequency of that class
+(d) Mode of the distribution can be obtained from the
+histogram
+371MATHEMATICS Statistics
+PRACTICE EXERCISE
+English
+63°
+Social
+Science
+72°Science
+75°
+Mathematics
+90°
+Hindi
+60°
+--- PDF PAGE 577 ---
+17. X 0 1 2 3 4
+Frequency 4 f 9 g 4
+The table above gives the frequency distribution
+of a discrete variable X with two missing
+frequencies. If the total frequency is 25 and the
+arithmetic mean of X is 2, then what is the value
+of the missing frequency f?
+(a) 4 (b) 5 (c) 6 (d) 7
+18. The yield of paddy per plot of one acre were
+obtained from a number of plots from two
+different districts in a state and are summarized
+in the following table.
+Yield of paddy per
+plot in quintals
+Number of plots in
+district A
+Number of plots in
+district B
+38.0-41.0 25 14
+41.0-44.0 36 29
+44.0-47.0 59 35
+47.0-50.0 30 54
+50.0-53.0 25 41
+Which one of the following statements is correct?
+(a) The mode for district A is higher than the mode for
+district B
+(b) The mode for district B is higher than the mode for
+district A
+(c) Both the distributions are symmetric
+(d) Both the distributions have the same mean
+19. Average score of 50 students in a class is 44.
+Later on it was found that the score 23 was
+incorrectly recorded as 73. The correct average
+score is
+(a) 42 (b) 43 (c) 45 (d) 46
+20. In the “less than” type of ogive the cumulative
+frequency is plotted against
+(a) the lower limit of the concerned class interval
+(b) the upper limit of the concerned class interval
+(c) the mid value of the concerned class interval
+(d) any value of the concerned class interval
+21. A, B and C are three sets of values of x
+A : 2, 3, 7, 1, 3, 2, 3
+B : 7, 5, 9, 12, 5, 3, 8
+C : 4, 4, 11, 7, 2, 3, 4
+Select the correct statement from among the
+following
+(a) Mean of A is equal to mode of C
+(b) Mean of C is equal to median of B
+(c) Median of B is equal to mode of A
+(d) Median, mean and mode of A are same
+22. A student obtains 75%, 80% and 85% marks in
+three subjects. If the marks of any other subject
+are added, then their average cannot be less than
+(a) 60% (b) 65% (c) 70% (d) 80%
+23. If the mean and median of a set of numbers are
+8.9 and 9 respectively, then the mode will be
+(a) 7.2 (b) 8.2 (c) 9.2 (d) 10.2
+24. If every number of a finite set is increased by
+any number k, then the measure of central
+tendency should also increase by k. Which one of
+the following measures of central tendency does
+not have this property?
+(a) Arithmetic mean
+(b) Median
+(c) Mid-range i.e. the arithmetic mean of the largest
+and the smallest numbers
+(d) Geometric mean
+25. If the median of the distribution (arranged in
+ascending order) 1, 3, 5, 7, 9, x, 15, 17, 19, 21 is
+10, what is the value of x?
+(a) 11 (b) 13 (c) 9 15< <x (d) 9 15≤ ≤x
+26. If the width of each of the ten classes in a
+frequency distribution is 2.5 and the lower class
+boundary of the lowest class is 5.1, then the
+upper class boundary of the highest class is
+(a) 30.1 (b) 30 (c) 31.1 (d) 27.56
+27. The average value of the median of 2, 8, 3, 7, 4,
+6, 7 and the mode of 2, 9, 3, 4, 9, 6, 9 is
+(a) 9 (b) 8 (c) 7.5 (d) 6
+28. When 10 is subtracted from each of the given
+observations, the mean is reduced to 60%. If 5 is
+added to all the given observations, the mean
+will be
+(a) 25 (b) 30 (c) 60 (d) 65
+29. A data has highest value 120 and the lowest
+value 71. A frequency distribution in descending
+order with seven classes is to be constructed.
+The limits of the second class interval shall be
+(a) 77 and 78 (b) 78 and 85
+(c) 85 and 113 (d) 113 and 120
+30. If mean of y and
+1
+y
+is M, then what is the mean
+of y3 and 1
+3y
+?
+(a) M M( ) 2 3
+3
+− (b) M 3
+(c) M 3 3− (d) M M( )4 3 2 −
+31. For the following frequency distribution
+Class interval 0-5 5-10 10-15 15-20 20-25 25-30
+Frequency 10 15 30 80 40 20
+If m is the value of mode, then which one of the
+following is correct?
+(a) 5 10< <m (b) 10 15< <m
+(c) 15 20< <m (d) 20 25< <m
+372 CDS Pathfinder
+--- PDF PAGE 578 ---
+32. Square diagrams are drawn to represent the
+following data
+Country Pakistan India Myanmar China
+Labour Production
+(in `) 36 81 25 100
+Using the scale 1 cm 2 = ` 25 what is the length
+of the representative square for India?
+(a) 1.8 cm (b) 1.2 cm (c) 1 cm (d) 2 cm
+33. The standard deviation of 7, 9, 11, 13, 15 is
+(a) 2.4 (b) 2.5 (c) 2.7 (d) 2.82
+34. The total number of cellphones sold for Motorola,
+Samsung and Sony was 45664. The number of
+cellphones sold for these companies were in the
+ratio 3:5:8 respectively. If these data were
+shown on a pie chart, calculate the angle
+represented by the number of cellphones sold by
+Motorola.
+(a) 75° (b) 67.5° (c) 70° (d) 74.5°
+35. If the population figures are given for each State
+of India, then the data can be classified as
+(a) qualitative (b) quantitative
+(c) chronological (d) geographical
+36. Which one of the following represents statistical
+data?
+(a) The names of all owners of shops located in a
+shopping complex
+(b) A list giving the names of all States of India
+(c) A list of all European countries and their respective
+capital cities
+(d) The volume of a rainfall in certain geographical area,
+recorded every month for 24 consecutive months
+37. Prime numbers are the numbers which comes in
+the table of 1 and itself only.
+I. The mean of first seven prime numbers is
+greater than their median.
+II. Mean is always greater than median.
+Select the correct option from the options given
+below
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+38. Consider the following statements in respect of a
+histogram
+I. The histogram consists of vertical rectangular
+bars with a common base such that there is no
+gap between consecutive bars.
+II. The height of the rectangle is determined by the
+frequency of the class it represents.
+Which of the statements given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+39. Consider the following statements in respect of
+histogram
+I. Histogram is an equivalent graphical
+representation of the frequency distribution.
+II. Histogram is suitable for continuous random
+variables, where the total frequency of an
+interval is evenly distributed over the interval.
+Which of the statements given above is/are
+correct?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+40. Examples of data are given below
+I. Information on households collected by an
+investigator by door-to-door visits.
+II. Data on the percentage of literates, sex-wise, for
+the different districts of a state collected from
+records of the census of India.
+III. General information about families, collected by
+telephonic interviews.
+Which one of the following in respect of the above
+is correct?
+(a) I and II are primary data (b) I and III are primary data
+(c) II and III are primary data (d) I, II and III are primary dat a
+41. Consider the following types of data
+I. Marks of students who appeared for a test of 100
+marks.
+II. Collar sizes of 200 shirts sold in a week.
+III. Monthly incomes of 250 employees of a factory.
+For which of the above data, mode is a suitable
+measure of central tendency?
+(a) I and II (b) Only II (c) I and III (d) All of these
+42. The cumulative frequency curve of a frequency
+distribution with 6 classes and total frequency
+60 is a straight line. Consider the following
+statements
+I. The first and the last classes have a frequency of
+10 each.
+II. Both the middle classes have a total frequency of
+30.
+III. The frequency distribution does not have a mode.
+Which of the statements given above are correct?
+(a) I and II (b) I and III (c) II and III (d) All of these
+43. State which of the following variables are
+discrete?
+I. Number of children in a family.
+II. Wages of workers.
+III. The ages of students.
+IV. Weights of a set of a students.
+Select the correct answer using the codes given
+below
+(a) I and II (b) I, II and III
+(c) All of these (d) None of these
+373MATHEMATICS Statistics
+--- PDF PAGE 579 ---
+Directions (Q. Nos. 44-45) The number of goals
+scored by a soccer team in a season were as follows:
+Number of goals Number of matches
+0 3
+1 6
+2 2
+3 x
+4 5
+44. If the mode is 1, the largest possible value of x is
+(a) 2 (b) 5 (c) 3 (d) 6
+45. If the median is 2, the smallest possible value of
+x is
+(a) 2 (b) 5 (c) 3 (d) 6
+Directions (Q. Nos. 46-47) The itemwise expenditure
+of a non-government organisation for the year
+2008-2009 is given below.
+Item Expenditure (in ` lakh)
+Salary of employees 6
+Social welfare activities 7
+Office contingency 3
+Vehicle maint evance 4
+Rent and hire charges 2.5
+Miscellaneous expenses 1.5
+The□above□data□are□represented□by□a□pie□diagram.
+46. What is the sectorial angle of the largest sector?
+(a) 120° (b) 105° (c) 90° (d) 85°
+47. What is the difference in the sectorial angles of
+the largest and the smallest sectors?
+(a) 90° (b) 85° (c) 82.5° (d) 77.5°
+Directions (Q. Nos. 48-49) The following table
+gives the frequency distribution of life length in
+hours of 100 electric bulbs having median life 20 h .
+Life of bulbs (in h) Number of bulbs
+8-13 7
+13-18 x
+18-23 40
+23-28 y
+28-33 10
+33-38 2
+48. What is the missing frequency of x?
+(a) 31 (b) 27 (c) 24 (d) 14
+49. What is the missing frequency of y?
+(a) 27 (b) 24 (c) 14 (d) 11
+Directions (Q. Nos. 50-52) The arithmetic mean,
+geometric mean and median of 6 positive numbers
+a a b b c c, , , , , where a b c< < are 7
+3
+2 2, , respectively.
+50. What is the sum of the squares of all the six
+numbers?
+(a) 40 (b) 42 (c) 45 (d) 48
+51. What is the value of c ?
+(a) 1 (b) 2 (c) 3 (d) 4
+52. What is the mode?
+(a) 1 (b) 2
+(c) 1, 2 and 4 (d) None of these
+Directions (Q. Nos. 53-55) Study the following pie
+diagram and answer the questions .
+53. The percentage of wheat production is
+(a) 35% (b) 70% (c) 19.44% (d) 20%
+54. If the sugar production is 9000 kg, then the
+wheat production is
+(a) 20000 kg (b) 24000 kg
+(c) 15750 kg (d) None of these
+55. If the total production is 180000 kg, the
+difference in sugar and wheat production is
+(a) 10000 (b) 15000 (c) 20000 (d) None of these
+Directions (Q. Nos. 56-58) Consider the following
+frequency distribution
+Class interval 1-4 4-7 7-10 10-13 13-16 16-19
+Frequency 6 30 40 16 4 4
+56. What is the median of the data?
+(a) 9.4 (b) 7.68 (c) 8.05 (d) 8.32
+57. What is modal size of the given data?
+(a) 8.14 (b) 7.88 (c) 7.62 (d) 8.48
+58. The value of (Mean + Mode −2 Median) is equal to
+(a) 0 (b) 0.2 (c) 0.4 (d) 0.1
+PREVIOUS YEARS’ QUESTIONS
+59. Let the observations at hand be arranged in
+increasing order. Which one of the following
+measures will not be affected when the smallest
+and the largest observations are removed?
+e 2012 I
+(a) Mean (b) Median
+(c) Mode (d) Standard deviation
+374 CDS Pathfinder
+Sugar70°
+110°
+Others
+Wheat
+Rice 40°
+140°
+--- PDF PAGE 580 ---
+60. Consider the following statements :
+I. The data collected by the investigator to be used
+by himself are called primary data.
+II. The data obtained from government agencies are
+called secondary data.
+Which of the statement(s) given above is/are
+correct? e 2012 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+61. Which one among the following statements is
+correct? e 2012 I
+(a) Simple bar diagrams are those diagrams which
+show two characteristics of the data
+(b) In pie diagrams, all the items are converted into
+angles
+(c) A bar diagram is one in which data are shown in
+terms of bars
+(d) Bar diagrams present data through length and breadth
+62. Consider the following distribution :
+Value of the variable 1 2 3 4 5
+Frequency 3 f 6 5 3
+For what value of f, is the arithmetic mean of
+the above distribution 3.1? e 2012 I
+(a) 2 (b) 3 (c) 4 (d) 5
+63. Which of the following pair(s) is/are correctly
+matched?
+I. Weight of a person : Continuous variable
+II. Educational qualification of the person : Attribute
+(a) Only I (b) Only II e 2012 II
+(c) Both I and II (d) Neither I nor II
+64. The mean of 100 values is 45. If 15 is added to
+each of the first forty values and 5 is subtracted
+from each of the remaining sixty values, then the
+new mean becomes e 2012 II
+(a) 45 (b) 48 (c) 51 (d) 55
+65. Which one of the following relations for the
+numbers 10, 7, 8, 5, 6, 8, 5, 8 and 6 is correct?
+(a) Mean = Median (b) Mean = Mode e 2012 II
+(c) Mean > Median (d) Mean > Mode
+66. In histogram the width of the bars is
+proportional to e 2012 II
+(a) Frequency (b) Number of classes
+(c) Class interval (d) None of these
+67. Which one of the following statements is correct?
+e 2013 I
+(a) A frequency polygon is obtained by connecting the
+corner points of the rectangles in a histogram
+(b) A frequency polygon is obtained by connecting the
+mid-points of the tops of the rectangles in a
+histogram
+(c) A frequency polygon is obtained by connecting the
+corner points of the class intervals in a histogram
+(d) None of the above
+68. Consider the following statements :
+I. A frequency distribution condenses the data and
+reveals its important features.
+II. A frequency distribution is an equivalent
+representation of original data.
+Which of the statement(s) given above is/are
+correct? e 2013 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+Directions (Q. Nos. 69-71) Read the following
+information carefully to answer the questions that
+follow. e 2013 I
+In a frequency distribution having class intervals 0-10,
+10-20, 20-30 and 30-40 the respective frequencies arex,
+x x+ −8 2, and x − 4 and the arithmetic mean of the
+distribution□is□17.8.
+69. The value of x is
+(a) 3 (b) 6 (c) 8 (d) 12
+70. The median lies in which one of the following
+class intervals?
+(a) 0-10 (b) 10-20 (c) 20-30 (d) 30-40
+71. The modal class is
+(a) 0-10 (b) 10-20 (c) 20-30 (d) 30-40
+72. The mean of 7 observations is 7. If each observation
+is increased by 2, then the new mean is e 2013 I
+(a) 12 (b) 10 (c) 9 (d) 8
+73. There are 45 male and 15 female employees in
+an office. If the mean salary of the 60 employees
+is ` 4800 and the mean salary of the male
+employees is ` 5000, then the mean salary of the
+female employees is e 2013 I
+(a) ` 4200 (b) ` 4500 (c) ` 5600 (d) ` 6000
+Directions (Q. Nos. 74-75) Read the following
+information carefully and answer the questions
+given below. e 2013 II
+The median of the following distribution is 14.4 and the
+total□frequency□is□20.
+Class interval 0-6 6-12 12-18 18-24 24-30
+Frequency 4
+x 5 y 1
+74. What is x equal to?
+(a) 4 (b) 5 (c) 6 (d) 7
+75. What is the relation between x and y?
+(a) 2 3x = y (b) 3 2x = y (c) x = y (d) 2x = y
+76. If m is the mean of p, q, r, s, t, u and v, then what
+is ( ) ( ) ( ) ( )p m q m r m s m− + − + − + − + − ( )t m
++ −( )u m + −( )v m equal to? e 2013 II
+(a) 0 (b) s
+(c) ( )p v+
+2
+(d) None of these
+375MATHEMATICS Statistics
