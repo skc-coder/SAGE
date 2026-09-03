@@ -95,11 +95,27 @@ Every base $a$ modulo $m$ repeats its remainders in a periodic cycle.
 
 ### 6. Modular Inverse & Cancellation
 
-To "divide" by $a$ modulo $m$, we multiply by the **Modular Multiplicative Inverse $a^{-1}$**:
-$$a \cdot a^{-1} \equiv 1 \pmod m$$
-- **Condition for Existence**: $a^{-1}$ exists if and only if $\operatorname{GCD}(a, m) = 1$.
-- **Finding $a^{-1}$ using Fermat's Little Theorem**: If $m = p$ is prime, then:
-  $$a^{p-2} \equiv a^{-1} \pmod p$$
+In modular arithmetic, fractions do not exist. To "divide" by $a$ modulo $m$, we multiply both sides by the **Modular Multiplicative Inverse $a^{-1}$**:
+
+$$\mathbf{a \cdot a^{-1} \equiv 1 \pmod m}$$
+
+- **Condition for Existence**: $a^{-1} \pmod m$ exists **if and only if $\operatorname{GCD}(a, m) = 1$** (co-prime).
+- **Finding $a^{-1}$ using Fermat's Little Theorem**: If modulus $p$ is prime, then:
+  $$a \cdot a^{p-2} \equiv a^{p-1} \equiv 1 \pmod p \implies \mathbf{a^{-1} \equiv a^{p-2} \pmod p}$$
+
+#### 🔍 Practical Worked Example: Solve $5x \equiv 4 \pmod{11}$
+1. **Identify Modulus & Inverse Formula**:  
+   Since $p = 11$ is prime and $\operatorname{GCD}(5, 11) = 1$, multiply both sides by $5^{-1}$:
+   $$x \equiv 4 \cdot 5^{-1} \pmod{11}$$
+2. **Calculate $5^{-1} \pmod{11}$ using FLT ($5^{11-2} = 5^9$)**:  
+   - $5^2 = 25 \equiv 3 \pmod{11}$
+   - $5^4 \equiv 3^2 = 9 \equiv -2 \pmod{11}$
+   - $5^8 \equiv (-2)^2 = 4 \pmod{11}$
+   - $5^9 = 5^8 \times 5^1 \equiv 4 \times 5 = 20 \equiv \mathbf{9 \pmod{11}}$
+   *(Check: $5 \times 9 = 45 = 44 + 1 \equiv 1 \pmod{11}$ ✅)*
+3. **Solve for $x$**:  
+   $$x \equiv 4 \times 9 = 36 \equiv \mathbf{3 \pmod{11}}$$
+   *(Verification: $5(3) = 15 = 11 + 4 \equiv 4 \pmod{11}$ ✅)*
 
 ---
 
