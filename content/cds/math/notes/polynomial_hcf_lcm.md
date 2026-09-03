@@ -79,6 +79,7 @@ where $c = 90 = 6 \times 15$ is the scalar multiplier reflecting the product of 
 - [[cds/math/notes/questions/q35|Q35: Polynomial Recovery from HCF and LCM]]
 - [[cds/math/notes/questions/q36|Q36: Variable Power Trap in Polynomial LCM (PYQ 2013 II)]]
 - [[cds/math/notes/questions/q37|Q37: Exponent HCF & Imaginary Roots Trap (PYQ 2013 II)]]
+- [[cds/math/notes/questions/q38|Q38: Fast HCF Option Root Testing (PYQ 2014 II)]]
 
 ---
 
