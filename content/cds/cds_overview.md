@@ -8,9 +8,9 @@ tags: [cds, overview]
 
 ## Subjects
 
-- [[content/cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics]]
-- [[content/cds/general-knowledge/general_knowledge_overview|General Knowledge]]
-- [[content/cds/english/english_overview|English]]
+- [[cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics]]
+- [[cds/general-knowledge/general_knowledge_overview|General Knowledge]]
+- [[cds/english/english_overview|English]]
 
 ## Performance Overview
 
@@ -31,4 +31,4 @@ pie title Exam Mistakes
 
 ## Navigation
 
-- [[content/exams_config|Exams Config]]
+- [[exams_config|Exams Config]]
