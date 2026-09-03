@@ -11,8 +11,8 @@ tags: [cds, elementary-mathematics, subject]
 
 - [[cds/math/notes/formulas|Master Formulas (AP, GP, HP & Summations)]]
 - [[cds/math/notes/numbers|Number System]]
-- [[cds/math/notes/hcf_lcm|HCF and LCM]] ([Key Theorems & Models Cheatsheet](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/hcf_lcm_cheatsheet.md))
-- [[cds/math/notes/modular|Modular Arithmetic]] ([Key Theorems & Models Cheatsheet](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/modular_cheatsheet.md))
+- [[cds/math/notes/hcf_lcm|HCF and LCM]] ([[cds/math/notes/subtopics/hcf_lcm_cheatsheet|Key Theorems & Models Cheatsheet]])
+- [[cds/math/notes/modular|Modular Arithmetic]] ([[cds/math/notes/subtopics/modular_cheatsheet|Key Theorems & Models Cheatsheet]])
 
 ## Variations
 

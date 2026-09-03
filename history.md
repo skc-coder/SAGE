@@ -2,12 +2,11 @@
 
 ## Log Entries
 
-### [2026-09-03T14:18:00+05:30] - HCF-LCM & Modular Cheatsheets Creation & Overview Linking
-- **User Request**: Save HCF-LCM and Modular Arithmetic key theorems/models in separate markdown files and link them on the math overview page beside their main chapter links.
+### [2026-09-03T14:46:00+05:30] - Fix External Links to Internal Obsidian Wikilinks
+- **User Feedback**: Correct external `file:///...` links to native Obsidian wikilinks `[[path|Title]]` in `math_overview.md`.
 - **Implementation**:
-  - Created standalone notes [`hcf_lcm_cheatsheet.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/hcf_lcm_cheatsheet.md) and [`modular_cheatsheet.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/modular_cheatsheet.md).
-  - Linked both cheatsheets in [`math_overview.md`](file:///home/skc/dev/SAGE/content/cds/math/math_overview.md) directly alongside the main topic notes.
-  - Committed and pushed changes to remote `origin/v5`.
+  - Replaced `[Key Theorems & Models Cheatsheet](file:///...)` with `[[cds/math/notes/subtopics/hcf_lcm_cheatsheet|Key Theorems & Models Cheatsheet]]` and `[[cds/math/notes/subtopics/modular_cheatsheet|Key Theorems & Models Cheatsheet]]` in [`math_overview.md`](file:///home/skc/dev/SAGE/content/cds/math/math_overview.md).
+  - Committed and pushed to `origin/v5`.
 
 - **User Feedback**: Standardize Dataview plugin queries for question log tables, strip all remaining bloated header titles, store test metadata in YAML frontmatter properties, and link directly to variation files without intermediate index links.
 - **Implementation**:
