@@ -49,9 +49,30 @@ $$\text{Percentage More} = \frac{\text{Absolute Gap }\Delta}{\text{New Base } A}
 
 ---
 
-### 3. Proof of Price-Consumption Expenditure Neutrality
-Expenditure is given by:
+### 3. Proof & Intuition of Price-Consumption Expenditure Neutrality
+
+#### 🧠 The 5-Second Mental Model: "The See-Saw / Seesaw Scale"
+Expenditure is the area of a rectangle:
 $$\text{Expenditure } E = \text{Price } P \times \text{Consumption } C$$
+
+If **Price increases by factor $F$**, then to keep the area $E$ identical, **Consumption must be multiplied by $\frac{1}{F}$** (its reciprocal)!
+
+1. **Price Multiplier $F$**:
+   - Price increases by $x\% \implies F = \frac{100 + x}{100}$.
+2. **Consumption Reciprocal Multiplier $\frac{1}{F}$**:
+   - New Consumption $C' = C \times \frac{100}{100 + x}$.
+3. **Consumption Reduction**:
+   - Fraction of consumption reduced:
+     $$1 - \frac{100}{100 + x} = \frac{(100 + x) - 100}{100 + x} = \frac{x}{100 + x}$$
+   - Expressed as percentage reduction:
+     $$\text{Percentage Reduction} = \left(\frac{x}{100 + x} \times 100\right)\%$$
+
+> [!KEYWORD]
+> **Why is Price-Consumption EXACTLY identical to Asymmetric Comparison?**
+> Because **New Price $P'$** acts as the **New Base ($100+x$)**! The amount of money you need to cut out of your consumption is proportional to the **NEW higher price**, not the old price!
+
+#### Step-by-Step Algebraic Derivation
+$$\text{Expenditure } E = P \times C$$
 
 If price increases by $x\%$, new price $P' = P \left(1 + \frac{x}{100}\right) = P \cdot \frac{100+x}{100}$.
 
