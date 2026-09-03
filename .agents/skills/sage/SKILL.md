@@ -1,9 +1,9 @@
 ---
-name: exam-analysis-master
-description: Modular AI skill for exam practice, question taxonomy tracking, intuitive concept notes generation, novel variations testing, zero-rewrite session wrap, and user analytics (GATE, CDS, general exams) targeting Obsidian & Quarto.
+name: sage
+description: Smart Analysis & Generation for Exams (SAGE) - Modular AI skill for exam practice, question taxonomy tracking, intuitive concept notes generation, novel variations testing, zero-rewrite session wrap, and user analytics (GATE, CDS, general exams) targeting Obsidian & Quarto.
 ---
 
-# Exam Analysis & Practice Master Skill (`exam-analysis-master`)
+# SAGE — Smart Analysis & Generation for Exams (`sage`)
 
 This skill empowers the AI to act as an exam coach and knowledge curator for competitive exams (e.g., **GATE**, **CDS**, or general learning), generating Obsidian-native notes exportable via **Quarto** or **Quartz**.
 
