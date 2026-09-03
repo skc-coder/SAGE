@@ -49,13 +49,13 @@ $$\frac{la + mb + nc}{lx + my + nz} = \frac{a}{x} = \frac{b}{y} = \frac{c}{z}$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions#question-1-q12-continuous-equal-ratios|Question 1 (Q12)]]
+- [[cds/math/notes/questions/q1|Question 1: Continuous Equal Ratios]]
 
 ## Variations
 
-- [[cds/math/notes/variations/vars#variation-1-continuous-ratio-substitution|Variation 1: Continuous Ratio Substitution]]
-- [[cds/math/notes/variations/vars#variation-2-weighted-addendo-property|Variation 2: Weighted Addendo Property]]
-- [[cds/math/notes/variations/vars#variation-3-homogeneous-quadratic-ratio|Variation 3: Homogeneous Quadratic Ratio]]
+- [[cds/math/notes/variations/var1|Variation 1: Continuous Ratio Substitution]]
+- [[cds/math/notes/variations/var2|Variation 2: Weighted Addendo Property]]
+- [[cds/math/notes/variations/var3|Variation 3: Homogeneous Quadratic Ratio]]
 
 ## Navigation
 

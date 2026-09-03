@@ -51,7 +51,10 @@ $$A = H \cdot x, \quad B = H \cdot y \quad \text{where } \operatorname{GCD}(x, y
 
 ## Variations
 
-- [[cds/math/notes/variations/vars|Topic Variations (HCF & LCM Core Cases)]]
+- [[cds/math/notes/variations/var8|HCF via Successive Quotients]]
+- [[cds/math/notes/variations/var9|Co-prime Pairs Given Product & HCF]]
+- [[cds/math/notes/variations/var10|Largest 4-Digit Number with Constant Remainder]]
+- [[cds/math/notes/variations/var11|Smallest 4-Digit Number with Constant Difference]]
 
 ---
 

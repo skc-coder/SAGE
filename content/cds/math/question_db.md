@@ -2,11 +2,10 @@
 
 ```dataview
 TABLE 
-    rows.question_number AS "Q#",
-    rows.file.link AS "Question Note",
-    rows.difficulty AS "Difficulty",
+    rows.file.link AS "Question / Variation",
     rows.status AS "Status",
-    rows.mistake_category AS "Mistake Category"
-FROM "content/cds/math/notes"
+    rows.importance AS "Importance",
+    rows.difficulty AS "Difficulty"
+FROM "content/cds/math/notes/questions" OR "content/cds/math/notes/variations"
 GROUP BY topic + " > " + subtopic AS "Topic & Subtopic"
 ```

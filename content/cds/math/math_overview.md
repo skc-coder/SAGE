@@ -16,7 +16,7 @@ tags: [cds, elementary-mathematics, subject]
 
 ## Variations
 
-- [[cds/math/notes/variations/vars|Number System, HCF & LCM Variations]]
+- [[cds/math/notes/variations/var1|Topic Variations (11 Solved Cases)]]
 
 ## Performance Overview
 
