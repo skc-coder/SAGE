@@ -23,6 +23,7 @@ Key Theorems & Tricks:
 
 - [[cds/math/notes/subtopics/ratios|Ratios and Proportions]]
 - [[cds/math/notes/subtopics/divisibility|Divisibility Rules & Proofs]]
+- [[cds/math/notes/subtopics/remainders|Remainders & Dual Congruences]]
 
 ## Navigation
 
