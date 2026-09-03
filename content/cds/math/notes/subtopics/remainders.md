@@ -17,7 +17,7 @@ If a number $N$ leaves remainder $r_1$ when divided by $m_1$, and remainder $r_2
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q26|Q26]]
+- [[cds/math/notes/questions#question-2-q26-dual-remainder-ap-sum|Question 2 (Q26)]]
 
 ## Variations
 

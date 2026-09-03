@@ -30,19 +30,15 @@ content/
 
 ### Note Content Guidelines by Taxonomy Level
 
-### Ultra-Lean Question Notes Mandate (STRICT)
+### Consolidated Questions Page Mandate per Chapter (STRICT)
 
-- **QUESTION NOTES MUST CONTAIN ONLY**:
-  1. `# [Q_NUMBER]` (e.g. `# Q12`)
-  2. `## Question Statement`
-  3. `## Solution` (1-2 crisp solution methods / shortcuts)
-  4. **Correct Answer**
-  5. `## Navigation` (link back to parent subtopic ONLY)
-- **STRICTLY FORBIDDEN IN QUESTION NOTES**:
-  - ❌ NO "Root Cause & Concept Note" sections!
-  - ❌ NO subtopic theory or formula proofs!
-  - ❌ NO "Tier 1 Variations" sections! (Variations belong strictly in `notes/variations/vars.md`).
-  - ❌ NO redundant header fluff!
+- **ONE CONSOLIDATED QUESTIONS PAGE PER CHAPTER**: Do NOT create separate `.md` files for individual practice questions (e.g. no individual `q12.md`, `q26.md`, etc.). All solved practice questions for a chapter/topic belong in **ONE single consolidated page** at `notes/questions.md`!
+- **CONSOLIDATED QUESTIONS FORMAT**:
+  - Main Heading: `# [TOPIC] Practice Questions` (e.g. `# Numbers Practice Questions`).
+  - Section per question: `### Question 1 (Q12: [SHORT TITLE])`, `### Question 2 (Q26: [SHORT TITLE])`, etc.
+  - Question statement & options directly under the heading.
+  - Solution inside collapsible block: `> [!faq]- View Solution`.
+- **SUBTOPIC LINKING**: Subtopic notes must link directly to the specific question heading anchor inside `notes/questions.md` (e.g. `[[cds/math/notes/questions#question-1-q12-continuous-equal-ratios|Question 1 (Q12)]]`).
 
 ### Short Filename Mandate across ALL Taxonomy Levels
 

@@ -140,9 +140,8 @@ Test if $N = 45,983,724$ is divisible by 7, 11, or 13.
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q12|Q12]]
-- [[cds/math/notes/questions/q30|Q30]]
-- [[cds/math/notes/questions/q37|Q37]]
+- [[cds/math/notes/questions#question-3-q30-even-integer-divisibility|Question 3 (Q30)]]
+- [[cds/math/notes/questions#question-4-q37-3-digit-numbers-ending-in-7-divisible-by-11|Question 4 (Q37)]]
 
 ## Variations
 
