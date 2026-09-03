@@ -17,6 +17,7 @@
 - [[content/cds/math/notes/heights_distances|Ch 22. Heights and Distances]]
 - [[content/cds/math/notes/triangles|Ch 23. Triangles]]
 - [[content/cds/math/notes/quadrilateral|Ch 24. Quadrilateral and Polygon]]
+- [[content/cds/math/notes/ratio_proportion|Ch 12. Ratio and Proportion]]
 - [[content/cds/math/notes/statistics|Ch 28. Statistics]]
 
 ## Variations
