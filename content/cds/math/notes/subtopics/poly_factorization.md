@@ -36,12 +36,42 @@ To factorize higher-degree polynomials quickly in exam conditions, memorize thes
 
 ---
 
+## Quadratic Factorization: AC Splitting Method vs. Standard Sum-Product
+
+When factorizing a general quadratic polynomial $a x^2 + b x + c$:
+
+### 1. Standard Sum-Product Method (When $a = 1$)
+For $x^2 + b x + c$, find two numbers $r$ and $s$ such that:
+$$\text{Sum: } r + s = b, \quad \text{Product: } r \cdot s = c$$
+Factorization: $(x + r)(x + s)$.
+
+### 2. AC Splitting Method (When $a \neq 1$)
+For $a x^2 + b x + c$ (where leading coefficient $a \neq 1$):
+- **Step 1**: Calculate the product $A \cdot C = a \times c$.
+- **Step 2**: Find two numbers $m$ and $n$ such that:
+  $$\text{Sum: } m + n = b, \quad \text{Product: } m \cdot n = a \cdot c$$
+- **Step 3**: Split the middle term $b x \to m x + n x$.
+- **Step 4**: Factor by grouping terms in pairs:
+  $$a x^2 + m x + n x + c = x(a x + m) + \text{constant}(a x + m) = (a x + m)(\dots)$$
+
+### Comparison Example: $3x^2 + 5x - 2$
+- Leading coefficient $a = 3$, $b = 5$, $c = -2$.
+- $A \cdot C = 3 \times (-2) = -6$.
+- Find two numbers that multiply to $-6$ and add to $5$: numbers are $6$ and $-1$.
+- Split middle term: $5x = 6x - x$.
+- Grouping:
+  $$3x^2 + 6x - x - 2 = 3x(x + 2) - 1(x + 2) = (3x - 1)(x + 2)$$
+
+---
+
 ## Key Worked Pattern
 
 **Example**: Find the HCF of $P(x) = x^4 - y^4$ and $Q(x) = x^6 - y^6$.
-1. Factorize $P(x)$: $x^4 - y^4 = (x^2 - y^2)(x^2 + y^2) = (x-y)(x+y)(x^2 + y^2)$.
-2. Factorize $Q(x)$: $x^6 - y^6 = (x^3 - y^3)(x^3 + y^3) = (x-y)(x^2 + xy + y^2)(x+y)(x^2 - xy + y^2) = (x^2 - y^2)(x^4 + x^2 y^2 + y^4)$.
-3. Common terms: $(x-y)$ and $(x+y)$, so $\operatorname{HCF} = (x-y)(x+y) = x^2 - y^2$.
+1. Factorize $P(x)$:
+   $$x^4 - y^4 = (x^2 - y^2)(x^2 + y^2) = (x-y)(x+y)(x^2 + y^2)$$
+2. Factorize $Q(x)$:
+   $$x^6 - y^6 = (x^3 - y^3)(x^3 + y^3) = (x-y)(x^2 + xy + y^2)(x+y)(x^2 - xy + y^2) = (x^2 - y^2)(x^4 + x^2 y^2 + y^4)$$
+3. Common factors: $(x-y)$ and $(x+y)$, so $\operatorname{HCF} = (x-y)(x+y) = x^2 - y^2$.
 
 ---
 
