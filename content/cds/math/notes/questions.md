@@ -244,7 +244,49 @@ Find the least number which when divided by 5, 6, 7 and 8 leaves a remainder 3 b
 
 ---
 
+### Question 11 (Modular Fast Power Reduction)
+
+What is the remainder when $2^{100}$ is divided by 101?
+
+(a) 1  
+(b) 2  
+(c) 100  
+(d) 0  
+
+> [!faq]- View Solution
+> 1. **Check conditions for Fermat's Little Theorem**:
+>    - Modulus $p = 101$ (101 is a prime number).
+>    - Base $a = 2$, $\operatorname{GCD}(2, 101) = 1$.
+> 2. **Apply Fermat's Little Theorem ($a^{p-1} \equiv 1 \pmod p$)**:
+>    $$2^{101 - 1} \equiv 2^{100} \equiv 1 \pmod{101}$$
+> 
+> **Correct Answer:** **(a) 1**
+
+---
+
+### Question 12 (Negative Remainder Power Trick)
+
+What is the remainder when $24^{101}$ is divided by 25?
+
+(a) 1  
+(b) 24  
+(c) 23  
+(d) 0  
+
+> [!faq]- View Solution
+> 1. **Convert to Negative Remainder**:
+>    $$24 \equiv 24 - 25 \equiv -1 \pmod{25}$$
+> 2. **Raise both sides to exponent 101**:
+>    $$24^{101} \equiv (-1)^{101} \pmod{25} \equiv -1 \pmod{25}$$
+> 3. **Convert Negative Remainder back to Positive**:
+>    $$-1 \pmod{25} \equiv 25 - 1 = 24$$
+> 
+> **Correct Answer:** **(b) 24**
+
+---
+
 ## Navigation
 
 - [[cds/math/math_overview|Elementary Mathematics Overview]]
+
 
