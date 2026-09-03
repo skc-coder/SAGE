@@ -107,8 +107,16 @@ content/
 - **NO UNEXPLAINED SYMBOL DUMPING**: Never dump raw equations or modular arithmetic lines without explaining *why* the algebraic step was taken.
 - **NO LONG HORIZONTAL INLINE EQUATION RUN-ONS (STRICT READABILITY RULE)**:
   - NEVER dump long multi-step equations, stream-of-consciousness algebra, or inline derivations wrapped in inline math `$ ... $` across multiple lines. Long inline math equations cause hideous horizontal overflow, word wrapping glitches, and unreadable text blobs in Obsidian and Quartz!
-  - Use display math `$$ ... $$` on dedicated lines for every major algebraic step, equation transformation, or factor expansion.
-  - Break long derivations into a clean vertical bulleted list or line-by-line display math blocks with explanatory text between steps.
+  - **STRICT NEWLINES & PUNCTUATION FOR EQUATIONS & EXPLANATIONS**:
+    - Every explanatory step MUST end with proper punctuation (period `.`, colon `:`, or semicolon `;`).
+    - NEVER append an equation or a second sentence directly after inline math on the same line without a newline or bullet point.
+    - Every standalone mathematical step or equation MUST be placed on its own separate line using display math `$$ ... $$` or as an indented bullet point `- ...`.
+    - Example of **FORBIDDEN BAD FORMAT**: `Factor out $x^2$: $P(x) = 36x^2(3x^2+5x-2)$ Split middle term $5x = 6x-x$: $P(x) = 36x^2(3x-1)(x+2)`
+    - Example of **REQUIRED GOOD FORMAT**:
+      - Factor out $x^2$:
+        $$P(x) = 36x^2(3x^2 + 5x - 2)$$
+      - Split middle term $5x = 6x - x$:
+        $$P(x) = 36x^2(3x - 1)(x + 2)$$
 - **NO CHILDISH ANALOGIES**: Strictly avoid kindergarten analogies ("sweets in boxes", "pizza slices", "friends sharing toys"). Keep explanations sharp, mature, and exam-focused.
 
 ### Formatting & Title Standards (KISS Principle)
