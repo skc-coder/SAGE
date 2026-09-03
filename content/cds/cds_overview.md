@@ -22,5 +22,6 @@ pie title Mistake Breakdown
 - [[content/cds/physics/physics_overview|Physics]]
 - [[content/cds/economy/economy_overview|Indian Economy]]
 - [[content/cds/geography/geography_overview|Geography]]
+- [[content/cds/polity/polity_overview|Indian Polity]]
 
 
