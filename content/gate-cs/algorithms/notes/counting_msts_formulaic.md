@@ -8,9 +8,9 @@ tags: [gate-cs, algorithms, mst, topic-hub]
 date: 2026-09-03
 ---
 
-# Counting Minimum Spanning Trees — Topic Executive Hub
+# Counting Minimum Spanning Trees
 
-## 1. Executive Theory & Intuition
+## 1. Core Theory & Intuition
 
 ### Kruskal's & Cycle Property for MST Counting
 When edge weights are determined by a formula $w(u, v) = f(u, v)$, determining the number of distinct MSTs relies on inspecting **equal weight edge choices** during Kruskal's algorithm execution.
