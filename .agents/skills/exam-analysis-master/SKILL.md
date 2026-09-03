@@ -119,23 +119,26 @@ xychart-beta
     y-axis "Accuracy %" 0 --> 100
     bar [66, 0]
 ```
-3. **Subtopic & Question Type Breakdown (Grouped Topic Frequency & Status)**:
-   - Group subtopics sequentially under their parent topic so Mermaid assigns consistent theme color shades to all subtopics under the same parent topic.
-   - Append performance indicators `(Correct)`, `(Wrong)`, or `(Unattempted)` after each subtopic entry.
+3. **Subtopic & Question Type Breakdown (Dedicated Parent Topic Pie Charts)**:
+   - Since standard Mermaid `pie` cycles fixed palette colors item-by-item regardless of string name, render **separate `pie` charts per parent topic** or use `%%{init: {'themeVariables': { 'pie1': '#1e3a8a', 'pie2': '#2563eb', 'pie3': '#3b82f6', 'pie4': '#60a5fa'}}}%%` theme directives.
+   - For subject dashboards, render per-topic pie charts so all subtopics within a topic (e.g. `Triangles`) strictly use the same dedicated color shade palette!
+
 ```mermaid
-pie title Subtopic & Question Type Performance Breakdown
-    "Triangles: Incenter (Correct)" : 1
-    "Triangles: Orthocenter (Wrong)" : 1
-    "Triangles: Circumcenter (Correct)" : 1
-    "Triangles: Centroid (Correct)" : 1
-    "Circles: Tangents (Wrong)" : 1
-    "Circles: Secants (Correct)" : 1
-    "Circles: Cyclic Quadrilaterals (Wrong)" : 1
-    "Circles: Chords (Correct)" : 1
-    "Polygons: Interior Angles (Correct)" : 1
-    "Polygons: Diagonals (Wrong)" : 1
-    "Trigonometry: Heights & Distances (Correct)" : 2
-    "Trigonometry: Max & Min Values (Correct)" : 1
+%%{init: {'themeVariables': { 'pie1': '#1e3a8a', 'pie2': '#2563eb', 'pie3': '#3b82f6', 'pie4': '#60a5fa'}}}%%
+pie title Triangles Subtopics Performance
+    "Incenter (Correct)" : 1
+    "Orthocenter (Wrong)" : 1
+    "Circumcenter (Correct)" : 1
+    "Centroid (Correct)" : 1
+```
+
+```mermaid
+%%{init: {'themeVariables': { 'pie1': '#064e3b', 'pie2': '#047857', 'pie3': '#10b981', 'pie4': '#34d399'}}}%%
+pie title Circles Subtopics Performance
+    "Tangents (Wrong)" : 1
+    "Secants (Correct)" : 1
+    "Cyclic Quadrilaterals (Wrong)" : 1
+    "Chords (Correct)" : 1
 ```
 
 ---

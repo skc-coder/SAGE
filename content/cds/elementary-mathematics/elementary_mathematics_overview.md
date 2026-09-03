@@ -26,25 +26,36 @@ xychart-beta
     bar [100, 75, 75, 50, 50]
 ```
 
-### Subtopic & Question Type Breakdown (Grouped Topic Performance)
+### Subtopic Performance Breakdown by Topic (Custom Color Shading)
 
+#### Triangles Subtopics (Blue Palette)
 ```mermaid
-pie title Subtopic Performance Breakdown
-    "Triangles: Incenter (Correct)" : 1
-    "Triangles: Orthocenter (Wrong)" : 1
-    "Triangles: Circumcenter (Correct)" : 1
-    "Triangles: Centroid (Correct)" : 1
-    "Circles: Tangents (Wrong)" : 1
-    "Circles: Secants (Correct)" : 1
-    "Circles: Cyclic Quadrilaterals (Wrong)" : 1
-    "Circles: Chords (Correct)" : 1
-    "Polygons: Interior Angles (Correct)" : 1
-    "Polygons: Diagonals (Wrong)" : 1
+%%{init: {'themeVariables': { 'pie1': '#1e3a8a', 'pie2': '#2563eb', 'pie3': '#3b82f6', 'pie4': '#60a5fa'}}}%%
+pie title Triangles Subtopics Performance
+    "Incenter (Correct)" : 1
+    "Orthocenter (Wrong)" : 1
+    "Circumcenter (Correct)" : 1
+    "Centroid (Correct)" : 1
+```
+
+#### Circles Subtopics (Teal/Emerald Palette)
+```mermaid
+%%{init: {'themeVariables': { 'pie1': '#064e3b', 'pie2': '#047857', 'pie3': '#10b981', 'pie4': '#34d399'}}}%%
+pie title Circles Subtopics Performance
+    "Tangents (Wrong)" : 1
+    "Secants (Correct)" : 1
+    "Cyclic Quadrilaterals (Wrong)" : 1
+    "Chords (Correct)" : 1
+```
+
+#### Trigonometry & Algebra Subtopics (Purple/Indigo Palette)
+```mermaid
+%%{init: {'themeVariables': { 'pie1': '#4c1d95', 'pie2': '#6d28d9', 'pie3': '#8b5cf6', 'pie4': '#a78bfa'}}}%%
+pie title Trigonometry & Algebra Subtopics Performance
     "Trigonometry: Heights & Distances (Correct)" : 2
     "Trigonometry: Max & Min Values (Correct)" : 1
     "Algebra: Discriminants (Wrong)" : 1
     "Algebra: Remainder Theorem (Correct)" : 1
-    "Mensuration: Sphere Volume (Correct)" : 1
 ```
 
 ## Navigation
