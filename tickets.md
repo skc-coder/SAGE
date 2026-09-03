@@ -29,5 +29,15 @@
   - [ ] Extract and analyze unique teaching questions and novel variations.
   - [ ] Update `math_overview.md` and verify site build (`npx quartz build`).
 
+### [OPEN] Issue #8: Chapter 17: Linear Equations Notes & Practice Workflow
+- **GitHub Issue**: [#8](https://github.com/skc-coder/SAGE/issues/8)
+- **Description**: Read Chapter 17 (Linear Equations), create topic & subtopic notes, categorize questions, extract key theorems and properties, identify unique practice questions.
+- **Acceptance Criteria**:
+  - [x] Topic note `content/cds/math/notes/linear_equations.md` created with system consistency ratios, digit reversal invariant, cyclic sum symmetries, and curated question solutions.
+  - [ ] Subtopic notes for linear solvability/consistency, digit reversal invariants, and pairwise cyclic sum systems.
+  - [ ] Individual question & variation notes created according to SAGE mandate.
+  - [ ] Update `math_overview.md` and verify Quartz build (`npx quartz build`).
+
+
 
 
