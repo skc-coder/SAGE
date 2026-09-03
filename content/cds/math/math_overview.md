@@ -3,6 +3,7 @@
 ## Topics & Notes
 
 - [[content/cds/math/notes/numbers|Ch 1. Number System]]
+- [[content/cds/math/notes/sequence_series|Ch 2. Sequence and Series]]
 - [[content/cds/math/notes/hcf_lcm|Ch 3. HCF and LCM of Numbers]]
 - [[content/cds/math/notes/modular|Ch 3. Modular Arithmetic & Remainders]]
 - [[content/cds/math/notes/polynomial_hcf_lcm|Ch 15. HCF and LCM of Polynomials]]
@@ -20,6 +21,7 @@
 ## Variations
 
 - [[content/cds/math/notes/variations/vars|Set Theory & General Variations]]
+- [[content/cds/math/notes/variations/var29|Ch 2 Sequence and Series Variations]]
 - [[content/cds/math/notes/variations/var19|Trigonometry Variations]]
 - [[content/cds/math/notes/variations/var20|Generalised Multi-Point Complementary Elevation]]
 - [[content/cds/math/notes/variations/var21|Elliptic Cloud Reflection in Spherical Lake]]
