@@ -27,11 +27,11 @@ When a constant principal $P$ grows to amount $A_1$ in time $t_1$ and to amount 
 
 ## Linked Practice Questions
 
-- [[content/cds/math/notes/questions/q46|Q46: Dual Maturity Amount Rate & Principal Extraction]]
+- [[cds/math/notes/questions/q46|Q46: Dual Maturity Amount Rate & Principal Extraction]]
 
 ---
 
 ## Navigation
 
-- [[content/cds/math/notes/simple_interest|Chapter 9: Simple Interest]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/simple_interest|Chapter 9: Simple Interest]]
+- [[cds/math/math_overview|Subject Dashboard]]

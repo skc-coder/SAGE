@@ -31,4 +31,4 @@ If the angles of elevation of the top of a tower of height $h$ from two points o
 
 ## Variations
 
-- [[content/cds/math/notes/variations/heights_variations#variation-3-complementary-angles-geometric-mean|Variation 3: Complementary Angles Geometric Mean Theorem]]
+- [[cds/math/notes/variations/heights_variations#variation-3-complementary-angles-geometric-mean|Variation 3: Complementary Angles Geometric Mean Theorem]]

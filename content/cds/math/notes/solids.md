@@ -66,4 +66,4 @@ pie title 3D Solids Difficulty
 ---
 
 ## 6. Navigation
-- [[content/cds/math/math_overview|Elementary Mathematics Overview]]
+- [[cds/math/math_overview|Elementary Mathematics Overview]]

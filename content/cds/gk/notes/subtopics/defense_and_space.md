@@ -41,10 +41,10 @@ Conceived by Dr. A.P.J. Abdul Kalam (1983) under DRDO:
 
 ## Linked Practice Questions
 
-- [[content/cds/gk/notes/questions/q3|Q3: IGMDP Missile Classifications]]
+- [[cds/gk/notes/questions/q3|Q3: IGMDP Missile Classifications]]
 
 ---
 
 ## Variations
 
-- [[content/cds/gk/notes/variations/vars#variation-1-missile-classification-traps|Variation 1: IGMDP Missile Classifications & Launch Platforms]]
+- [[cds/gk/notes/variations/vars#variation-1-missile-classification-traps|Variation 1: IGMDP Missile Classifications & Launch Platforms]]

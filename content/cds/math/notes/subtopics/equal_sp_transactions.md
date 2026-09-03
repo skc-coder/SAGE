@@ -48,11 +48,11 @@ When two articles are sold at the same selling price, one at a gain of $x\%$ and
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q11_4|Q11.4: Dual Vehicle Sale with Symmetric Profit/Loss]]
-- [[content/cds/math/notes/questions/q11_5|Q11.5: Asymmetric Dual Sale with Constant Selling Price]]
+- [[cds/math/notes/questions/q11_4|Q11.4: Dual Vehicle Sale with Symmetric Profit/Loss]]
+- [[cds/math/notes/questions/q11_5|Q11.5: Asymmetric Dual Sale with Constant Selling Price]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/profit_loss|Profit & Loss Topic Note]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/profit_loss|Profit & Loss Topic Note]]
+- [[cds/math/math_overview|Subject Dashboard]]

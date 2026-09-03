@@ -46,12 +46,12 @@ In any triangle $\Delta ABC$ with sides $a, b, c$ opposite to angles $A, B, C$:
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q26|Question 26: AM-GM Bound on Tan Square and Cot Square]]
-- [[content/cds/math/notes/questions/q29|Question 29: Quadratic Equation in Cosine for Tan Value]]
-- [[content/cds/math/notes/questions/q138|Question 138: Linear Combination Extrema Bounds]]
+- [[cds/math/notes/questions/q26|Question 26: AM-GM Bound on Tan Square and Cot Square]]
+- [[cds/math/notes/questions/q29|Question 29: Quadratic Equation in Cosine for Tan Value]]
+- [[cds/math/notes/questions/q138|Question 138: Linear Combination Extrema Bounds]]
 
 ---
 
 ## Variations
-- [[content/cds/math/notes/variations/var7|Variation 7: Cauchy-Schwarz and AM-GM Bound Optimization]]
-- [[content/cds/math/notes/variations/var8|Variation 8: Circumradius Substitution in Side Sum Expressions]]
+- [[cds/math/notes/variations/var7|Variation 7: Cauchy-Schwarz and AM-GM Bound Optimization]]
+- [[cds/math/notes/variations/var8|Variation 8: Circumradius Substitution in Side Sum Expressions]]

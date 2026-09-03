@@ -68,4 +68,4 @@ $$\blacksquare$$
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q43|Q43: Pathfinder Example 3 Complementary Heights]]
+- [[cds/math/notes/questions/q43|Q43: Pathfinder Example 3 Complementary Heights]]

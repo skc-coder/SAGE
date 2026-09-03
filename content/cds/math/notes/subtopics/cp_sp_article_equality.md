@@ -41,10 +41,10 @@ $$n \cdot \text{CP} = m \cdot \text{SP}$$
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q11_7|Q11.7: Article Count Equality Profit Percentage]]
+- [[cds/math/notes/questions/q11_7|Q11.7: Article Count Equality Profit Percentage]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/profit_loss|Profit & Loss Topic Note]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/profit_loss|Profit & Loss Topic Note]]
+- [[cds/math/math_overview|Subject Dashboard]]

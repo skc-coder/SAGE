@@ -38,4 +38,4 @@ $$p = \frac{h}{\sqrt{\tan^2 \alpha + \tan^2 \beta}} = \frac{d_1 d_2}{\sqrt{d_1^2
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q46|Q46: Pathfinder Q38 Tower Distance from Road (200m West, 300m South)]]
+- [[cds/math/notes/questions/q46|Q46: Pathfinder Q38 Tower Distance from Road (200m West, 300m South)]]

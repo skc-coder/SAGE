@@ -54,5 +54,5 @@ $$F = -k x \implies a = -\omega^2 x$$
 
 ## Navigation
 
-- [[content/cds/physics/physics_overview|Physics Overview]]
-- [[content/cds/physics/notes/formulas|Master Formulas]]
+- [[cds/physics/physics_overview|Physics Overview]]
+- [[cds/physics/notes/formulas|Master Formulas]]

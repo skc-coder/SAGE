@@ -39,11 +39,11 @@ $$\frac{\cos \theta - \sin \theta}{\cos \theta + \sin \theta} = \frac{1 - \tan \
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q19|Question 19: Compound Angle Linear Combination Collapse]]
-- [[content/cds/math/notes/questions/q20_trig|Question 20: Allied Angle Quotient to Tan Formula]]
+- [[cds/math/notes/questions/q19|Question 19: Compound Angle Linear Combination Collapse]]
+- [[cds/math/notes/questions/q20_trig|Question 20: Allied Angle Quotient to Tan Formula]]
 
 ---
 
 ## Variations
-- [[content/cds/math/notes/variations/var5|Variation 5: Triple Angle Expansion Factorization]]
-- [[content/cds/math/notes/variations/var6|Variation 6: Geometric Progression Angle Products]]
+- [[cds/math/notes/variations/var5|Variation 5: Triple Angle Expansion Factorization]]
+- [[cds/math/notes/variations/var6|Variation 6: Geometric Progression Angle Products]]

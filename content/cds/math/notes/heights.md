@@ -57,17 +57,17 @@ From a window at height $h_1$ above ground, the angle of elevation of top of opp
 
 ## Subtopics & Specialized Questions
 
-- [[content/cds/math/notes/subtopics/angle_elevation_depression|Angle of Elevation & Depression Fundamentals]]
-- [[content/cds/math/notes/subtopics/two_point_observer_shift|Two-Point Observer Shift & Shadow Length Problems]]
-- [[content/cds/math/notes/subtopics/complementary_angles_height|Complementary Angles Theorem for Height]]
-- [[content/cds/math/notes/subtopics/flagstaff_antenna_tower|Flagstaff & Antenna Subtended Angles]]
-- [[content/cds/math/notes/subtopics/elevated_observer_window|Elevated Observer & Opposite Building Models]]
+- [[cds/math/notes/subtopics/angle_elevation_depression|Angle of Elevation & Depression Fundamentals]]
+- [[cds/math/notes/subtopics/two_point_observer_shift|Two-Point Observer Shift & Shadow Length Problems]]
+- [[cds/math/notes/subtopics/complementary_angles_height|Complementary Angles Theorem for Height]]
+- [[cds/math/notes/subtopics/flagstaff_antenna_tower|Flagstaff & Antenna Subtended Angles]]
+- [[cds/math/notes/subtopics/elevated_observer_window|Elevated Observer & Opposite Building Models]]
 
 ---
 
 ## Variations
 
-- [[content/cds/math/notes/variations/heights_variations|Heights and Distances Master Variations]]
+- [[cds/math/notes/variations/heights_variations|Heights and Distances Master Variations]]
 
 ---
 
@@ -93,5 +93,5 @@ pie title Heights & Distances Difficulty
 
 ## Navigation
 
-- [[content/cds/math/math_overview|Back to Elementary Mathematics Overview]]
-- [[content/cds/math/question_db|Subject Question Database]]
+- [[cds/math/math_overview|Back to Elementary Mathematics Overview]]
+- [[cds/math/question_db|Subject Question Database]]

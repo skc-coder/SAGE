@@ -90,4 +90,4 @@ The Indian Economy is a **mixed, agrarian, and developing economy**. It combines
 ---
 
 ## Navigation
-- [[content/cds/cds_overview|CDS Overview]]
+- [[cds/cds_overview|CDS Overview]]

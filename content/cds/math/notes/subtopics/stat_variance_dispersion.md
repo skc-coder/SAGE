@@ -57,10 +57,10 @@ $$CV = \frac{\sigma}{\bar{x}} \times 100\%$$
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q28_6|Question 28.6: Mean Deviation of Ungrouped Observations]]
+- [[cds/math/notes/questions/q28_6|Question 28.6: Mean Deviation of Ungrouped Observations]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/statistics|Statistics Topic Page]]
-- [[content/cds/math/math_overview|Elementary Mathematics]]
+- [[cds/math/notes/statistics|Statistics Topic Page]]
+- [[cds/math/math_overview|Elementary Mathematics]]

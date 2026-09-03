@@ -37,4 +37,4 @@ Let the initial distance from the tower base be $x_1$ and final distance be $x_2
 
 ## Variations
 
-- [[content/cds/math/notes/variations/heights_variations#variation-2-two-point-shift-along-straight-line|Variation 2: Two-Point Observer Shift Along Line]]
+- [[cds/math/notes/variations/heights_variations#variation-2-two-point-shift-along-straight-line|Variation 2: Two-Point Observer Shift Along Line]]

@@ -37,4 +37,4 @@ $$S_{\text{avg}} = \frac{2 \times 80 \times 20}{80 + 20} = \frac{3200}{100} = 32
 ---
 
 ## Concept Backlink
-- [[content/cds/math/notes/subtopics/average_speed_harmonic|Average Speed & Equal Distance Harmonics]]
+- [[cds/math/notes/subtopics/average_speed_harmonic|Average Speed & Equal Distance Harmonics]]

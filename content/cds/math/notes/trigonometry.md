@@ -24,19 +24,19 @@ Trigonometry is one of the highest-weightage topics in the CDS Elementary Mathem
 
 ## Subtopics & Specialized Questions
 
-- [[content/cds/math/notes/subtopics/angle_measurements|Angle Measurements & Clocks]]
-- [[content/cds/math/notes/subtopics/trig_identities|Fundamental Identities & Ratios]]
-- [[content/cds/math/notes/subtopics/compound_angles|Compound & Multiple Angles]]
-- [[content/cds/math/notes/subtopics/trig_extrema|Extrema & Triangle Properties]]
+- [[cds/math/notes/subtopics/angle_measurements|Angle Measurements & Clocks]]
+- [[cds/math/notes/subtopics/trig_identities|Fundamental Identities & Ratios]]
+- [[cds/math/notes/subtopics/compound_angles|Compound & Multiple Angles]]
+- [[cds/math/notes/subtopics/trig_extrema|Extrema & Triangle Properties]]
 
 ---
 
 ## Variations
 
-- [[content/cds/math/notes/variations/var19#variation-1-clock-hand-overlap--perpendicularity-times|Variation 1: Clock Hand Overlap & Perpendicularity Times]]
-- [[content/cds/math/notes/variations/var19#variation-3-secant-tangent-conjugate-reciprocal-system|Variation 3: Secant-Tangent Conjugate Reciprocal System]]
-- [[content/cds/math/notes/variations/var19#variation-7-cauchy-schwarz-and-am-gm-bound-optimization|Variation 7: Cauchy-Schwarz & AM-GM Bound Optimization]]
-- [[content/cds/math/notes/variations/var19#variation-8-circumradius-substitution-in-side-sum-expressions|Variation 8: Circumradius Substitution in Triangle Side Expressions]]
+- [[cds/math/notes/variations/var19#variation-1-clock-hand-overlap--perpendicularity-times|Variation 1: Clock Hand Overlap & Perpendicularity Times]]
+- [[cds/math/notes/variations/var19#variation-3-secant-tangent-conjugate-reciprocal-system|Variation 3: Secant-Tangent Conjugate Reciprocal System]]
+- [[cds/math/notes/variations/var19#variation-7-cauchy-schwarz-and-am-gm-bound-optimization|Variation 7: Cauchy-Schwarz & AM-GM Bound Optimization]]
+- [[cds/math/notes/variations/var19#variation-8-circumradius-substitution-in-side-sum-expressions|Variation 8: Circumradius Substitution in Triangle Side Expressions]]
 
 ---
 
@@ -53,5 +53,5 @@ pie title Trigonometry Difficulty
 ---
 
 ## Navigation
-- [[content/cds/math/math_overview|Elementary Mathematics]]
-- [[content/cds/cds_overview|CDS Dashboard]]
+- [[cds/math/math_overview|Elementary Mathematics]]
+- [[cds/cds_overview|CDS Dashboard]]

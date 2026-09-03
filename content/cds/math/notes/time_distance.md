@@ -48,29 +48,29 @@ Time and distance problems deal with measuring rate of motion, relative speeds, 
 
 ## Subtopics & Core Models
 
-- [[content/cds/math/notes/subtopics/basic_speed_distance|Basic Speed Distance Time & Unit Conversions]]
-- [[content/cds/math/notes/subtopics/average_speed_harmonic|Average Speed & Equal Distance Harmonics]]
-- [[content/cds/math/notes/subtopics/relative_speed_early_late|Relative Speed & Early Late Arrival Theorems]]
-- [[content/cds/math/notes/subtopics/trains_crossing_invariants|Train Problems & Crossing Point/Platform Invariants]]
-- [[content/cds/math/notes/subtopics/boats_and_streams|Boats, Streams & Upstream-Downstream Motion]]
-- [[content/cds/math/notes/subtopics/races_and_circular_tracks|Linear & Circular Races, Head Starts & Distance Deficits]]
+- [[cds/math/notes/subtopics/basic_speed_distance|Basic Speed Distance Time & Unit Conversions]]
+- [[cds/math/notes/subtopics/average_speed_harmonic|Average Speed & Equal Distance Harmonics]]
+- [[cds/math/notes/subtopics/relative_speed_early_late|Relative Speed & Early Late Arrival Theorems]]
+- [[cds/math/notes/subtopics/trains_crossing_invariants|Train Problems & Crossing Point/Platform Invariants]]
+- [[cds/math/notes/subtopics/boats_and_streams|Boats, Streams & Upstream-Downstream Motion]]
+- [[cds/math/notes/subtopics/races_and_circular_tracks|Linear & Circular Races, Head Starts & Distance Deficits]]
 
 ---
 
 ## Linked Practice Questions
 
-- [[content/cds/math/notes/questions/q53_td|Q53: Constant Distance Speed-Time Scaling]]
-- [[content/cds/math/notes/questions/q54_td|Q54: Round Trip Equal Distance Average Speed]]
-- [[content/cds/math/notes/questions/q55_td|Q55: Early & Late Arrival Distance Calculation]]
-- [[content/cds/math/notes/questions/q56_td|Q56: Boat Upstream & Downstream Velocity Isolation]]
-- [[content/cds/math/notes/questions/q57_td|Q57: Three-Runner Transitive Race Deficit]]
+- [[cds/math/notes/questions/q53_td|Q53: Constant Distance Speed-Time Scaling]]
+- [[cds/math/notes/questions/q54_td|Q54: Round Trip Equal Distance Average Speed]]
+- [[cds/math/notes/questions/q55_td|Q55: Early & Late Arrival Distance Calculation]]
+- [[cds/math/notes/questions/q56_td|Q56: Boat Upstream & Downstream Velocity Isolation]]
+- [[cds/math/notes/questions/q57_td|Q57: Three-Runner Transitive Race Deficit]]
 
 ---
 
 ## Variations
 
-- [[content/cds/math/notes/variations/var32|Variation 32: Transitive Distance Deficit in Three-Runner Races]]
-- [[content/cds/math/notes/variations/var32_boat|Variation 33: Round-Trip River Navigation & Still Water Speed Invariant]]
+- [[cds/math/notes/variations/var32|Variation 32: Transitive Distance Deficit in Three-Runner Races]]
+- [[cds/math/notes/variations/var32_boat|Variation 33: Round-Trip River Navigation & Still Water Speed Invariant]]
 
 ---
 
@@ -94,5 +94,5 @@ pie title Time & Distance Difficulty
 ---
 
 ## Navigation
-- [[content/cds/math/math_overview|Elementary Mathematics Overview]]
-- [[content/cds/cds_overview|CDS Dashboard]]
+- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [[cds/cds_overview|CDS Dashboard]]

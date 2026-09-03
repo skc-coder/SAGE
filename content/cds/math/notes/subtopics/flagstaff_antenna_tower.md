@@ -34,4 +34,4 @@ When a vertical object of height $p$ (flagstaff/antenna) is mounted on top of a 
 
 ## Variations
 
-- [[content/cds/math/notes/variations/heights_variations#variation-4-mounted-flagstaffantenna-formula|Variation 4: Mounted Flagstaff/Antenna General Ratio]]
+- [[cds/math/notes/variations/heights_variations#variation-4-mounted-flagstaffantenna-formula|Variation 4: Mounted Flagstaff/Antenna General Ratio]]

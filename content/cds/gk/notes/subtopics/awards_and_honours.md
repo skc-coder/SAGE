@@ -40,10 +40,10 @@ tags: [cds, general-knowledge, awards, subtopic]
 
 ## Linked Practice Questions
 
-- [[content/cds/gk/notes/questions/q4|Q4: Param Vir Chakra First Recipient]]
+- [[cds/gk/notes/questions/q4|Q4: Param Vir Chakra First Recipient]]
 
 ---
 
 ## Variations
 
-- [[content/cds/gk/notes/variations/vars#variation-2-award-hierarchy-wartime-vs-peacetime|Variation 2: Wartime vs. Peacetime Gallantry Award Hierarchy]]
+- [[cds/gk/notes/variations/vars#variation-2-award-hierarchy-wartime-vs-peacetime|Variation 2: Wartime vs. Peacetime Gallantry Award Hierarchy]]

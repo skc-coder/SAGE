@@ -37,6 +37,6 @@ $$S = \tan(45^\circ + 11^\circ) = \tan 56^\circ$$
 ## Key Takeaway & Atomic Theorem Reference
 - Standard identity transform:
   $$\frac{\cos\theta + \sin\theta}{\cos\theta - \sin\theta} = \tan(45^\circ + \theta)$$
-- Reference Note: [[content/cds/math/notes/subtopics/compound_angles|Compound & Multiple Angles]]
+- Reference Note: [[cds/math/notes/subtopics/compound_angles|Compound & Multiple Angles]]
 
 **Correct Answer**: **(a) $\tan 56^\circ$**

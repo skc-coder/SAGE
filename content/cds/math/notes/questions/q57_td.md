@@ -48,5 +48,5 @@ $$z = 50 + 8 - \frac{50 \times 8}{200} = 58 - 2 = 56\text{ m}$$
 ---
 
 ## Concept Backlink
-- [[content/cds/math/notes/subtopics/races_and_circular_tracks|Linear & Circular Races, Head Starts & Distance Deficits]]
-- [[content/cds/math/notes/variations/var32|Transitive Distance Deficit in Three-Runner Races]]
+- [[cds/math/notes/subtopics/races_and_circular_tracks|Linear & Circular Races, Head Starts & Distance Deficits]]
+- [[cds/math/notes/variations/var32|Transitive Distance Deficit in Three-Runner Races]]

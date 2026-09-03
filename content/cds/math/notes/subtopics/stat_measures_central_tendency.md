@@ -46,11 +46,11 @@ $$\bar{x}_{12} = \frac{n_1 \bar{x}_1 + n_2 \bar{x}_2}{n_1 + n_2}$$
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q28_1|Question 28.1: Combined Mean of Pass and Fail Students]]
-- [[content/cds/math/notes/questions/q28_2|Question 28.2: Weighted Arithmetic Mean of First n Natural Numbers]]
+- [[cds/math/notes/questions/q28_1|Question 28.1: Combined Mean of Pass and Fail Students]]
+- [[cds/math/notes/questions/q28_2|Question 28.2: Weighted Arithmetic Mean of First n Natural Numbers]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/statistics|Statistics Topic Page]]
-- [[content/cds/math/math_overview|Elementary Mathematics]]
+- [[cds/math/notes/statistics|Statistics Topic Page]]
+- [[cds/math/math_overview|Elementary Mathematics]]

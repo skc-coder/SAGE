@@ -26,13 +26,13 @@ Square roots and cube roots form the foundational tools for numerical evaluation
 
 ## Subtopics & Specialized Questions
 
-- [[content/cds/math/notes/subtopics/roots_methods|Prime Factorization & Division Method]]
+- [[cds/math/notes/subtopics/roots_methods|Prime Factorization & Division Method]]
 
 ---
 
 ## Variations
 
-- [[content/cds/math/notes/variations/var5|Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)]]
+- [[cds/math/notes/variations/var5|Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)]]
 
 ---
 
@@ -49,5 +49,5 @@ pie title Roots Subtopic Difficulty
 
 ## Navigation
 
-- [[content/cds/math/math_overview|Subject Overview]]
-- [[content/cds/cds_overview|CDS Dashboard]]
+- [[cds/math/math_overview|Subject Overview]]
+- [[cds/cds_overview|CDS Dashboard]]

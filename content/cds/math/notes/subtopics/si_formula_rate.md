@@ -31,12 +31,12 @@ Simple Interest ($SI$) is calculated strictly on the original Principal ($P$) th
 
 ## Linked Practice Questions
 
-- [[content/cds/math/notes/questions/q44|Q44: Monthly Interest Principal Calculation]]
-- [[content/cds/math/notes/questions/q45|Q45: Doubling Period Rate Percentage]]
+- [[cds/math/notes/questions/q44|Q44: Monthly Interest Principal Calculation]]
+- [[cds/math/notes/questions/q45|Q45: Doubling Period Rate Percentage]]
 
 ---
 
 ## Navigation
 
-- [[content/cds/math/notes/simple_interest|Chapter 9: Simple Interest]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/simple_interest|Chapter 9: Simple Interest]]
+- [[cds/math/math_overview|Subject Dashboard]]

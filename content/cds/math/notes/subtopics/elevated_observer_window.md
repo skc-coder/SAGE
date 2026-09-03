@@ -35,4 +35,4 @@ When observing an opposite structure of height $H$ from a window/balcony at heig
 
 ## Variations
 
-- [[content/cds/math/notes/variations/heights_variations#variation-5-window-level-opposite-building-height|Variation 5: Window-Level Opposite Building Elevation/Depression]]
+- [[cds/math/notes/variations/heights_variations#variation-5-window-level-opposite-building-height|Variation 5: Window-Level Opposite Building Elevation/Depression]]

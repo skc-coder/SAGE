@@ -38,4 +38,4 @@ $$D = \frac{3 \times 4}{4 - 3} \times \left(\frac{1}{4} + \frac{1}{4}\right) = 1
 ---
 
 ## Concept Backlink
-- [[content/cds/math/notes/subtopics/relative_speed_early_late|Relative Speed & Early Late Arrival Theorems]]
+- [[cds/math/notes/subtopics/relative_speed_early_late|Relative Speed & Early Late Arrival Theorems]]

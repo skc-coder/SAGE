@@ -40,4 +40,4 @@ $$S_2 = \frac{D}{T_2} = \frac{300}{5} = 60\text{ km/h}$$
 ---
 
 ## Concept Backlink
-- [[content/cds/math/notes/subtopics/basic_speed_distance|Basic Speed Distance Time & Unit Conversions]]
+- [[cds/math/notes/subtopics/basic_speed_distance|Basic Speed Distance Time & Unit Conversions]]

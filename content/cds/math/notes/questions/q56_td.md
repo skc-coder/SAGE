@@ -38,4 +38,4 @@ The speed of a boat upstream and downstream are $7\text{ km/h}$ and $13\text{ km
 ---
 
 ## Concept Backlink
-- [[content/cds/math/notes/subtopics/boats_and_streams|Boats, Streams & Upstream-Downstream Motion]]
+- [[cds/math/notes/subtopics/boats_and_streams|Boats, Streams & Upstream-Downstream Motion]]

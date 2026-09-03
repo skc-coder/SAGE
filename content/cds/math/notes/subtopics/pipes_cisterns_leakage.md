@@ -40,15 +40,15 @@ If an inlet pipe fills a tank in $T_{\text{in}}$ hours normally, but due to a le
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q43|Q43: Three Pipes Fill and Outlet Empty System]]
+- [[cds/math/notes/questions/q43|Q43: Three Pipes Fill and Outlet Empty System]]
 
 ---
 
 ## Variations
-- [[content/cds/math/notes/variations/var26|Variation 26: Variable Rate Cistern Filling with Altitude Leakage Threshold]]
+- [[cds/math/notes/variations/var26|Variation 26: Variable Rate Cistern Filling with Altitude Leakage Threshold]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/work|Time and Work Topic]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/work|Time and Work Topic]]
+- [[cds/math/math_overview|Subject Dashboard]]

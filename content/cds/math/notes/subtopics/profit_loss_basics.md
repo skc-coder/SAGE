@@ -41,11 +41,11 @@ tags: [cds, elementary-mathematics, profit-and-loss, subtopic]
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q11_1|Q11.1: Cost Price Determination from Fractional Profit]]
-- [[content/cds/math/notes/questions/q11_2|Q11.2: Selling Price Adjustment for Target Profit]]
+- [[cds/math/notes/questions/q11_1|Q11.1: Cost Price Determination from Fractional Profit]]
+- [[cds/math/notes/questions/q11_2|Q11.2: Selling Price Adjustment for Target Profit]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/profit_loss|Profit & Loss Topic Note]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/profit_loss|Profit & Loss Topic Note]]
+- [[cds/math/math_overview|Subject Dashboard]]

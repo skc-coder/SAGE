@@ -1,7 +1,7 @@
 # Indian Economy
 
 ## Topics & Notes
-- [[content/cds/economy/notes/economy_cheatsheet|Indian Economy Cheat Sheet (Names, Events, Plans & Institutions)]]
+- [[cds/economy/notes/economy_cheatsheet|Indian Economy Cheat Sheet (Names, Events, Plans & Institutions)]]
 
 ## Performance Overview
 
@@ -21,4 +21,4 @@ pie title Mistake Breakdown
 ```
 
 ## Navigation
-- [[content/cds/cds_overview|CDS Overview Dashboard]]
+- [[cds/cds_overview|CDS Overview Dashboard]]

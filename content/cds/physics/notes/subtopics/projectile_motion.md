@@ -63,5 +63,5 @@ $$R = \frac{u^2 (2 \sin\theta \cos\theta)}{g} = \frac{u^2 \sin(2\theta)}{g}$$
 
 ## Navigation
 
-- [[content/cds/physics/notes/mechanics|Mechanics Overview]]
-- [[content/cds/physics/notes/formulas|Physics Formulas]]
+- [[cds/physics/notes/mechanics|Mechanics Overview]]
+- [[cds/physics/notes/formulas|Physics Formulas]]

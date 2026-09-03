@@ -27,10 +27,10 @@ When an article undergoes sequential percentage transactions (or multiple trader
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q11_3|Q11.3: Resale Chain between Sequential Traders]]
+- [[cds/math/notes/questions/q11_3|Q11.3: Resale Chain between Sequential Traders]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/profit_loss|Profit & Loss Topic Note]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/profit_loss|Profit & Loss Topic Note]]
+- [[cds/math/math_overview|Subject Dashboard]]

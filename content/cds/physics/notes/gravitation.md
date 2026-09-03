@@ -59,5 +59,5 @@ $$g = \frac{G M}{R^2} \approx 9.8\text{ m/s}^2$$
 
 ## Navigation
 
-- [[content/cds/physics/physics_overview|Physics Overview]]
-- [[content/cds/physics/notes/formulas|Master Formulas]]
+- [[cds/physics/physics_overview|Physics Overview]]
+- [[cds/physics/notes/formulas|Master Formulas]]

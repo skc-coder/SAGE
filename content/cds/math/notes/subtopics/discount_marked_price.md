@@ -44,11 +44,11 @@ tags: [cds, elementary-mathematics, profit-and-loss, subtopic]
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q11_8|Q11.8: Target Profit Markup and Discount Relation]]
-- [[content/cds/math/notes/questions/q11_9|Q11.9: Equivalent Single Discount Series Calculation]]
+- [[cds/math/notes/questions/q11_8|Q11.8: Target Profit Markup and Discount Relation]]
+- [[cds/math/notes/questions/q11_9|Q11.9: Equivalent Single Discount Series Calculation]]
 
 ---
 
 ## Navigation
-- [[content/cds/math/notes/profit_loss|Profit & Loss Topic Note]]
-- [[content/cds/math/math_overview|Subject Dashboard]]
+- [[cds/math/notes/profit_loss|Profit & Loss Topic Note]]
+- [[cds/math/math_overview|Subject Dashboard]]

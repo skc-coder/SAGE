@@ -32,4 +32,4 @@ tags: [cds, elementary-mathematics, subtopic, heights]
 
 ## Variations
 
-- [[content/cds/math/notes/variations/heights_variations#variation-1-equal-height-and-shadow|Variation 1: Equal Height & Shadow Ratio]]
+- [[cds/math/notes/variations/heights_variations#variation-1-equal-height-and-shadow|Variation 1: Equal Height & Shadow Ratio]]

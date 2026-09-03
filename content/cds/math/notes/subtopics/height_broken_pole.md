@@ -36,4 +36,4 @@ When a vertical telegraph pole or tree of initial total height $H$ breaks at a h
 ---
 
 ## Linked Practice Questions
-- [[content/cds/math/notes/questions/q16_broken_pole|Q16: Pathfinder Broken Telegraph Pole (d=20m, theta=30deg)]]
+- [[cds/math/notes/questions/q16_broken_pole|Q16: Pathfinder Broken Telegraph Pole (d=20m, theta=30deg)]]

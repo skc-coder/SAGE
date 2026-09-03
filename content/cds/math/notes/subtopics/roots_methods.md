@@ -42,9 +42,9 @@ The square root of a non-negative real number $x$, denoted $\sqrt{x}$, is the un
 
 ## Linked Practice Questions
 
-- [[content/cds/math/notes/questions/q5_1|Q1: Decimal Root Simplification Ratio]]
-- [[content/cds/math/notes/questions/q5_2|Q2: Smallest 4-Digit Perfect Square]]
+- [[cds/math/notes/questions/q5_1|Q1: Decimal Root Simplification Ratio]]
+- [[cds/math/notes/questions/q5_2|Q2: Smallest 4-Digit Perfect Square]]
 
 ## Variations
 
-- [[content/cds/math/notes/variations/var5|Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)]]
+- [[cds/math/notes/variations/var5|Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)]]

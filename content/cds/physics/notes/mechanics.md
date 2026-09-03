@@ -60,21 +60,21 @@ Comprehensive theoretical framework and formula derivations for Kinematics, Dyna
 
 ## 3. Subtopics & Specialized Proofs
 
-- [[content/cds/physics/notes/subtopics/projectile_motion|Projectile Motion Derivations & Range]]
-- [[content/cds/physics/notes/subtopics/newtons_laws_momentum|Newton's Laws & Momentum Conservation]]
-- [[content/cds/physics/notes/subtopics/work_energy_power|Work-Energy Theorem & Power]]
-- [[content/cds/physics/notes/subtopics/friction_circular|Friction & Centripetal Acceleration]]
+- [[cds/physics/notes/subtopics/projectile_motion|Projectile Motion Derivations & Range]]
+- [[cds/physics/notes/subtopics/newtons_laws_momentum|Newton's Laws & Momentum Conservation]]
+- [[cds/physics/notes/subtopics/work_energy_power|Work-Energy Theorem & Power]]
+- [[cds/physics/notes/subtopics/friction_circular|Friction & Centripetal Acceleration]]
 
 ---
 
 ## 4. Linked Practice Questions
 
-- [[content/cds/physics/notes/questions/q1|Q1: Projectile Maximum Range Angle]]
-- [[content/cds/physics/notes/questions/q2|Q2: Recoil Velocity of Gun]]
+- [[cds/physics/notes/questions/q1|Q1: Projectile Maximum Range Angle]]
+- [[cds/physics/notes/questions/q2|Q2: Recoil Velocity of Gun]]
 
 ---
 
 ## Navigation
 
-- [[content/cds/physics/physics_overview|Physics Overview]]
-- [[content/cds/physics/notes/formulas|Master Formulas]]
+- [[cds/physics/physics_overview|Physics Overview]]
+- [[cds/physics/notes/formulas|Master Formulas]]

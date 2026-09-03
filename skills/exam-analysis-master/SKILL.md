@@ -38,7 +38,7 @@ content/
      - Question Note: `# GATE 2021 Q34`
      - Variations Note: `# Counting MSTs Variations`
 2. **Clean Wikilinks (Descriptive Labels, No `/index` Raw Paths)**:
-   - Always display clean topic/subject names for wikilinks: `[[content/gate-cs/algorithms/index|Algorithms]]`.
+   - Always display clean topic/subject names for wikilinks: `[[gate-cs/algorithms/index|Algorithms]]`.
    - Never display raw `/index` or `/question_db` in link text.
    - Do NOT place `❌` or `✅` icons next to topics on index pages.
 3. **Collapsible Solutions (`> [!faq]- View Solution`)**:
@@ -53,7 +53,7 @@ content/
    subtopic: "Number of MSTs"
    question_type: "Formulaic Edge Conditions"
    source: "GATE CS 2021 Set 1 Q34"
-   source_file_link: "[[content/gate-cs/algorithms/test_sessions/2026-09-03_mock_03|Mock Test 03 PDF]]"
+   source_file_link: "[[gate-cs/algorithms/test_sessions/2026-09-03_mock_03|Mock Test 03 PDF]]"
    question_number: "Q34"
    status: "Wrong"
    mistake_category: "Calculation Error"
