@@ -1,0 +1,2229 @@
+=== PAGE 344 ===
+RATIONAL EXPRESSIONS
+An expression in the form of p x
+q x
+( )
+( )
+, where p x( ) and q x( )
+are polynomials and q x( ) ≠ 0 is called a rational
+expression.
+• In the rational expression p x
+q x
+p x( )
+( )
+, ( ) is called the
+numerator and q x( ) is called the denominator of the
+rational expression.
+• Every polynomial is a rational expression. Since, p x( )
+can always be written as p x( )
+1
+and a constant function 1
+is a polynomial of degree 0.
+• Every rational expression need not be a polynomial.
+Working Rule to Reduce the Given
+Rational Expression in its Lowest Term
+1. Firstly, factorize both the polynomials p x( ) and q x( ) .
+2. Find the HCF of p x( ) and q x( ) . If HCF of p x( ) and
+q x( ) is one, then rational expression
+p x
+q x
+( )
+( )
+is in its
+lowest terms.
+3. If HCF is not equal to 1. Then, divide both p x( ) and
+q x( ) by their HCF and the rational expression is
+obtained in the lowest terms.
+EXAMPLE 1. The lowest term of an expression
+a b
+a ab b
+3 3
+2 2
+−
++ + is
+a. a b+ b. a b− c. ab d. a
+b
+Sol. b. Rational expression
+= −
++ +
+a b
+a ab b
+3 3
+2 2 = − + +
++ + = −( ) ( )
+( )
+a b a ab b
+a ab b a b
+2 2
+2 2
+[/c81( ) ( )( )a b a b a ab b3 3 2 2− = − + + ]
+EXAMPLE 2. The lowest term of an expression
+3 11 4
+6 7 3
+2
+2
+x x
+x x
+− −
+− − is
+a. x
+x
++
++
+4
+2 3 b. x
+x
++
+−
+4
+2 3 c. x
+x
+−
++
+4
+2 3 d. x
+x
+−
+−
+4
+2 3
+Sol. d. 3 11 4
+6 7 3
+2
+2
+x x
+x x
+− −
+− − = − + −
+− + −
+3 12 4
+6 9 2 3
+2
+2
+x x x
+x x x
+= − + −
+− + −
+3 4 1 4
+3 2 3 1 2 3
+x x x
+x x x
+( ) ( )
+( ) ( ) = + −
++ −
+( ) ( )
+( ) ( )
+3 1 4
+3 1 2 3
+x x
+x x = −
+−
+x
+x
+4
+2 3
+EXAMPLE 3. The lowest term of an expression
+12
+18
+3 5 4
+2 6 5
+x
+x
+y z
+y z is
+a. 2x
+yz b. xy
+z c. 2
+3
+x
+yz d. 3
+2
+x
+yz
+Sol. c. 12
+18
+6 2
+6 3
+23 5 4
+2 6 5
+2 5 4
+2 5 4
+x
+x
+x x
+x
+xy z
+y z
+y z
+y y z z= × × × × ×
+× × × × × × = 3yz
+139MATHEMATICS Rational Expressions
+16
+RATIONAL EXPRESSIONS
+Usually (1-2) questions have been asked from this chapter . Generally questions are asked from this
+chapter are based on simplification of rational expressions.
+=== PAGE 345 ===
+Operations on Rational
+Expressions
+1. Addition or Subtraction of Rational Expressions
+with like denominators
+It
+P x
+q x
+( )
+( )
+and h x
+q x
+( )
+( )
+are two rational expressions then
+p x
+q x
+h x
+q x
+p x h x
+q x
+( )
+( )
+( )
+( )
+( ) ( )
+( )
+± = ±
+2. Addition or subtraction of Rational Expressions
+with unlike denominators
+To add or subtract rational expressions with unlike
+denominators, follow the steps given below
+Step I Write each denominator in the factor form
+Step II Find the LCM of the denominators
+Step III Rewrite each rational expression with LCM as
+the denominator
+Step IV Add or subtract the numerators.
+EXAMPLE 4. The sum of
+x
+x
++
+−
+1
+1 and
+x
+x
+−
++
+1
+1 is
+a. x
+x
+2
+2
+1
+1
++
+−
+b. 1
+12x +
+c. 2 2
+1
+2
+2
+x
+x
++
+−
+d. x
+x
+2
+2
+2
+1
++
+−
+Sol. c. x
+x
+x
+x
++
+− + −
++
+1
+1
+1
+1 = +
+− × +
++ + −
++ × −
+−
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+x
+x
+x
+x
+x
+x
+x
+x
+1
+1
+1
+1
+1
+1
+1
+1
+= + + −
+−
+( ) ( )
+( )
+x x
+x
+1 1
+1
+2 2
+2
+= + + + + −
+−
+x x x x
+x
+2 2
+2
+1 2 1 2
+1 = +
+−
+2 2
+1
+2
+2
+x
+x
+[ ( )/c81a b a b ab+ = + +2 2 2 2 and ( )a b a b ab− = + −2 2 2 2 ]
+EXAMPLE 5. What should be subtracted from
+7
+122
+x
+x x + − to get 4
+4x + ?
+a. 1
+3x − b. 3
+3x − c. 1
+3x + d. 3
+3x +
+Sol. b. Let p( )x is to be subtracted, then
+7
+12
+4
+42
+x
+x x x x+ − − = +p( )
+⇒ p( )x x
+x x x= + − − +
+7
+12
+4
+42 = + − − +
+7
+4 3
+4
+4
+x
+x x x( ) ( ) ( )
+= + − − −
++ −
+7
+4 3
+4 3
+4 3
+x
+x x
+x
+x x( )( )
+( )
+( )( ) = − −
++ −
+7 4 3
+4 3
+x x
+x x
+( )
+( ) ( )
+= +
++ − = +
++ − = −
+3 12
+4 3
+3 4
+4 3
+3
+3
+x
+x x
+x
+x x x( ) ( )
+( )
+( ) ( )
+3. Multiplication of Rational Expressions If p x
+q x
+( )
+( )
+and
+g x
+h x
+( )
+( )
+are two rational expressions, then their product
+is given by
+p
+q
+g
+h
+p g
+q h
+( )
+( )
+( )
+( )
+( ) ( )
+( ) ( )
+x
+x
+x
+x
+x x
+x x
+× = ⋅
+⋅
+• Multiplicative inverse of p x
+q x
+( )
+( )
+is q x
+p x
+( )
+( )
+.
+• 1 is the multiplicative identity.
+EXAMPLE 6. The product of
+x
+x
+2
+2
+1
+1
+−
++ and
+x
+x
++
++
+2
+1 is
+a. ( )
+( )
+x
+x
+−
++
+1
+12 b. ( )
+( )
+x
+x
+−
++
+2
+12
+c. ( )( )
+( )
+x x
+x
+− +
++
+1 2
+12 d. x
+x
++
+−
+2
+12( )
+Sol. c. Here, product = −
++ × +
++
+x
+x
+x
+x
+2
+2
+1
+1
+2
+1
+( )
+( )
+= − + +
++ +
+( ) ( ) ( )
+( ) ( )
+x x x
+x x
+1 1 2
+1 12
+[ ( )( )]/c81a b a b a b2 2− = − +
+= − +
++
+( ) ( )
+( )
+x x
+x
+1 2
+12
+4. Division of Rational Expressions If p x
+q x
+( )
+( )
+and g x
+h x
+( )
+( )
+are two rational expressions, then their division is
+given by
+p x
+q x
+g x
+h x
+p x
+q x
+h x
+g x
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+÷ = ×
+= Product of
+p x
+q x
+( )
+( )
+and the reciprocal of g x
+h x
+( )
+( )
+i.e.
+h x
+g x
+( )
+( )
+.
+EXAMPLE 7. The lowest term of an expression
+x x
+x x
+x x
+x
+2
+2
+28 12
+7 12
+4 12
+4
++ +
+− + ÷
++ −
+− is
+a. ( )
+( )( )
+x
+x x
+−
+− +
+2
+3 2 b. x
+x
+−
++
+2
+2
+c. ( )
+( )( )
+x
+x x
++
+− −
+2
+3 2 d. x
+x
++
+−
+3
+2
+Sol. c. Here, x x
+x x
+x x
+x
+2
+2
+28 12
+7 12
+4 12
+4
++ +
+− + ÷ + −
+−
+= + + +
+− − + × −
++ − −
+x x x
+x x x
+x
+x x x
+2
+2 2
+6 2 12
+4 3 12
+4
+6 2 12( )
+= + +
+− − × −
++ −
+( ) ( )
+( ) ( ) ( ) ( )
+x x
+x x
+x
+x x
+6 2
+4 3
+4
+6 2 = +
+− −
+x
+x x
+2
+3 2( ) ( )
+140 CDS Pathfinder
+=== PAGE 346 ===
+1. Which of the following are rational expressions?
+I. x x
+x
+3 2
+2
+3 2
+1
+− +
++
+II. z z
+z
+3 2 3
+2 3
+−
++
+III. x x
+x
+2 2
+3
+− +
++ IV. x x
+x x
+3 2
+2
+3 1
+1
++ −
++ −
+Select the correct answer using the codes given below
+(a) I, II and III (b) II, III and IV
+(c) All of these (d) None of these
+2. The simplified form of
+a
+a
+a
+a
++
++
+− +
++
+2
+3
+1
+2
+( )
+( )
+.
+(a)
+1
+5 62a a+ +
+(b) a
+a a
++
++ +
+2
+5 62
+(c) 0 (d) ( )a
+a a
++
++ +
+2
+5 6
+2
+2
+3. x
+x x
++
+−
+−
+
+
+ 
+
+1
+1
+2
+2 expressed as a rational expression is
+(a) x
+x x
+2
+2
+2
+1
+−
+−( )
+(b) − −
+−
+( )
+( )
+x
+x x
+2
+1
+(c) 2 1
+13
+( )
+( )
+x
+x
++
+−
+(d) 1
+1x x( ) +
+4. The expression ( ) ( ) ( )
+( ) ( )
+x x x x
+x x x
+− − − +
+− − +
+1 2 9 14
+7 3 2
+2
+2 in
+lowest terms is
+(a)
+1
+7x −
+(b) ( )x − 7 (c) ( )x − 2 (d) 1
+2x −
+5. a c
+a b x a
+b c
+b a x b
+−
+− −
++ −
+− −( ) ( ) ( ) ( )
+is equal to
+(a) b a
+b a
+−
+− −( ) ( )x x
+(b) x
+x x
+−
+− −
+c
+a b( ) ( )
+(c) b a
+b c
+−
+− −( ) ( )x x
+(d) None of these
+6. The sum of the rational expression x
+x
+−
++
+3
+12 and its
+reciprocal is
+(a)
+x x x
+x x x
+3 2
+4 2
+3 3
+3 6 10
+− + −
++ − +
+(b) x x x
+x x x
+4 2
+3 2
+3 6 10
+3 3
++ − +
+− + −
+(c) x x x
+x x x
+4 2
+3 2
+3 6 10
+3 3
+− + +
+− + −
+(d) ( )
+( )
+x
+x
+−
++
+1
+3
+3
+2
+7. The value of
+a
+a b a c
+b
+b c b a
+c
+c a c b( ) ( ) ( ) ( ) ( ) ( )− −
++
+− −
++
+− −
+(a) 2a (b) 0 (c) 2b (d) b c−
+8. If A x
+x
+= −
++
+
+
+
+
+1
+1
+and
+B x
+x
+= +
+−
+
+
+
+
+1
+1
+, then ( )A B+
+2 is
+(a) 4 8 4
+2 1
+4 2
+4 2
+x x
+x x
++ −
+− +
+(b) 4 8 4
+2 1
+4 2
+4 2
+x x
+x x
++ +
+− +
+(c) 4 8 4
+2 1
+4 2
+4
+x x
+x x
++ +
++ +
+(d) None of these
+9. The value of
+1
+1 1 1 1
+2 2
+( ) ( ) ( ) ( ) ( ) ( )− −
++
+− −
+−
+− −a b
+a
+a b a
+b
+b a b
+is
+(a) 1 + a (b) 1 2− a
+(c) 1 2− b (d) None of these
+10. The value of
+x
+y
+y
+x
+y
+z
+z
+y
+z
+x
+x
+z
+x y y
+−
+
+
+ −
+
+
+ −
+
+
+
+−
+
+
+ −1 1 1
+2 2 2
+1 1 1
+2 2 2z z x
+
+
+
+ −
+
+
+
+is
+(a) x2 2 2y z (b) − x2 2 2y z
+(c) 1 (d) None of these
+11. What is the simplified form of
+x x
+x
+2
+3
+3 2
+8
+− +
+−
+
+
+
+
+
+
+
+
+÷ −
++ +
+
+
+
+
+
+
+
+ × + +
++ −
+
+
+
+
+
+
+
+
+x
+x x
+x x x
+x x
+2
+2
+3 2
+2
+9
+7 12
+2 4
+3 4
+?
+(a) x
+x − 3
+(b) x
+x
+−
+−
+2
+3
+(c)
+x
+x + 3
+(d) x
+x
++
++
+3
+4
+12. If pq qr rp+ + = 0, then what is the value of
+p
+p qr
+q
+q rp
+r
+r pq
+2
+2
+2
+2
+2
+2−
++
+−
++
+−
+?
+(a) 0 (b) 1
+(c) −1 (d) 3
+13. If x y z+ + = 0, then what is the value of
+1 1 1
+2 2 2 2 2 2 2 2 2x y z y z x z x y+ −
++
++ −
++
++ −
+?
+(a) 1
+2 2 2x + +y z
+(b) 1
+(c) −1 (d) 0
+14. If a x
+x
+= +
+−
+1
+2
+, then what is 1
+1
+2 1
+12a
+a
+a+
++ +
+−
+equal to?
+(a) ( )( )1 2
+2 1
++ +
+−
+x x
+x
+(b) ( )( )1 2
+2
+− −
+−
+x x
+x
+(c) ( )( )1 2
+2 1
++ −
+−
+x x
+x
+(d) ( )( )1 2
+2 1
+− −
++
+x x
+x
+141MATHEMATICS Rational Expressions
+PRACTICE EXERCISE
+=== PAGE 347 ===
+15. If 1
+1
+2
+2
+1009
+1009
+1
+x y z+
++
++
++
++
+= , then what is the
+value of x
+x
+y
+y
+z
+z+
++
++
++
++1 2 1009
+?
+(a) 0 (b) 2 (c) 3 (d) 4
+16. What is x x
+x x
+x x
+x x
+2
+2
+2
+2
+3 2
+5 6
+5 4
+7 12
+− +
+− +
+÷ − +
+− +
+equal to?
+(a)
+x
+x
++ 3
+− 3
+(b) 1 (c) x +
+x
+1
+3+
+(d) 2
+17. If x y z+ + = 0, then what is
+xyz
+x y y z z x( )( )( )+ + +
+equal to (where, x y y z z x≠ − ≠ − ≠ −, , ) ?
+(a) −1 (b) 1
+(c) x xy yz z+ + (d) None of these
+PREVIOUS YEARS’ QUESTIONS
+18. What is ( )( ) ( )x y x y x y
+x y xy
+2 2 3
+2 2
++ − − −
+−
+equal to?
+e 2013 II
+(a) 1 (b) 2 (c) 4 (d) − 2
+19. What is 1 1 2 4 8
+2 2
+3
+4 4
+7
+8 8a b a b
+b
+a b
+b
+a b
+b
+a b−
+−
++
+−
++
+−
++
+−
+−
+equal to? e 2014 II
+(a) a b+ (b) a b− (c) 1 (d) 0
+20. If a by cz2 0− − = , ax b cz− + =2 0 and
+ax by c+ − = 2 0, then the value of
+x
+a x
+y
+b y
+z
+c z+
++
++
++
++
+will be
+e 2016 I
+(a) a b c+ + (b) 3 (c) 1 (d) 0
+142 CDS Pathfinder
+ANSWERS
+1 a 2 a 3 b 4 c 5 b 6 b 7 b 8 b 9 d 10 b
+11 a 12 b 13 d 14 c 15 b 16 b 17 a 18 b 19 d 20 c
+HINTS AND SOLUTIONS
+1. (a) Here, x x
+x x
+3 2
+2
+3 1
+1
++ −
++ −
+is not a rational
+expression, since the denominator is not
+a polynomial.
+2. (a) We know
+a
+a
+a
+a
++
++
+− +
++
+2
+3
+1
+2
+( )
+( )
+= + − + +
++ +
+( ) ( )( )
+( )( )
+a a a
+a a
+2 1 3
+3 2
+2
+= + + − + +
++ +
+a a a a
+a a
+2 2
+2
+4 4 4 3
+5 6
+( )
+=
++ +
+1
+5 62a a
+3. (b) Here, x
+x x x x
++
+−
+−
+ 
+ =
+−
+−1
+1
+2 1
+1
+2
+2
+[/c81x x x2 1 1 1− = + −( )( ) ]
+= − +
+−
+= − −
+−
+x x
+x x
+x
+x x
+2 2
+1
+2
+1( )
+( )
+( )
+4. (c) We know that,
+( )( )( )
+( )( )
+x x x x
+x x x
+− − − +
+− − +
+1 2 9 14
+7 3 2
+2
+2
+= − − − − +
+− − − +
+( )( )( )
+( )( )
+x x x x x
+x x x x
+1 2 7 2 14
+7 2 2
+2
+2
+= − − − −
+− − −
+= −( )( )( )( )
+( )( )( )
+x x x x
+x x x
+x1 2 7 2
+7 2 1
+2
+5. (b) Here, a c
+a b a
+b c
+b a b
+−
+− −
++ −
+− −( )( ) ( )( )x x
+= − − − − −
+− − −
+( )( ) ( )( )
+( )( )( )
+a c b b c a
+a b a b
+x x
+x x
+= − − + − − − +
+− − −
+a ab c bc b ab c ac
+a b a b
+x x x x
+x x
+( )
+( )( )( )
+= + − −
+− − −
+a bc b ac
+a b a b
+x x
+x x( )( )( )
+= − − − +
+− − −
+x
+x x
+( ) ( )
+( )( )( )
+a b c b a
+a b a b
+= − −
+− − −
+( )( )
+( )( )( )
+x
+x x
+c a b
+a b a b
+= −
+− −
+( )
+( )( )
+x
+x x
+c
+a b
+6. (b) Here, reciprocal of x
+x
+−
++
+3
+12 is x
+x
+2 1
+3
++
+−( )
+So,
+x
+x
+x
+x
+x x
+x x
+−
++
++ +
+−
+= − + +
++ −
+3
+1
+1
+3
+3 1
+1 32
+2 2 2 2
+2
+( ) ( )
+( )( )
+= + − + + +
+− + −
+x x x x
+x x x
+2 4 2
+3 2
+9 6 1 2
+3 3
+= + − +
+− + −
+x x x
+x x x
+4 2
+3 2
+3 6 10
+3 3
+7. (b) We know that,
+a
+a b a c
+b
+b c b a( )( ) ( )( )− −
++
+− −
++
+− −
+c
+c a c b( )( )
+= −
+− −
+−
+− −
+a
+a b c a
+b
+b c a b( )( ) ( )( )
+−
+− −
+c
+c a b c( )( )
+= − − − − − −
+− − −
+( )( ) ( ) ( )
+( )( )( )
+a b c b c a c a b
+a b b c c a
+= − + − + − +
+− − −
+ab ac bc ab ac bc
+a b b c c a( )( )( )
+=
+− − −
+=0 0
+( )( )( )a b b c c a
+8. (b) Here,
+( )A B+ = −
++
+
+ 
+ + +
+−
+
+ 
+
+
+
+
+2
+2
+1
+1
+1
+1
+x
+x
+x
+x
+= − + +
++ −
+
+
+
+
+
+
+( ) ( )
+( ) ( )
+x x
+x x
+1 1
+1 1
+2 2 2
+= +
+−
+
+
+
+
+
+
+2 1
+1
+2
+2
+2
+( )x
+x
+[/c81( ) ( ) ( )a b a b a b+ + − = +2 2 2 2 2 ]
+= + +
+− +
+4 2 1
+2 1
+4 2
+4 2
+( )x x
+x x
+= + +
+− +
+4 8 4
+2 1
+4 2
+4 2
+x x
+x x
+9. (d) Given,
+1
+1 1 1
+2
+( )( ) ( )( )− −
++
+− −a b
+a
+a b a
+−
+− −
+b
+b a b
+2
+1( )( )
+= − + − − −
+− − −
+( ) ( ) ( )
+( )( )( )
+b a a b b a
+a b b a
+2 21 1
+1 1
+=== PAGE 348 ===
+143MATHEMATICS Rational Expressions
+= − + − − +
+− − −
+b a a a b b ab
+a b b a
+2 2 2 2
+1 1( )( )( )
+= − + − + −
+− − −
+( ) ( ) ( )
+( )( )( )
+b a a b ab b a
+a b b a
+2 2
+1 1
+= − − + − + −
+− − −
+( ) ( )( ) ( )
+( )( )( )
+b a a b b a ab b a
+a b b a1 1
+= − − +
+− − +
+1
+1
+a b ab
+b a ab
+= 1
+10. (b) Given,
+x
+x x
+x
+x
+y
+y y
+z
+z
+y
+z
+z
+y y
+−
+
+
+ −
+
+
+ −
+
+
+
+−
+
+
+ −1 1 1
+2 2 2
+1 1 1
+2 2 2z z
+
+
+
+ −
+
+
+x
+=
+−
+
+
+
+−
+
+
+
+−
+
+
+
+−
+x
+x x
+x
+x
+2 2 2 2 2 2
+2 2
+2 2
+y
+y
+y z
+zy
+z x
+z
+y
+y
+
+
+
+−
+
+
+
+−
+
+
+
+z y
+z y
+z
+z
+2 2
+2 2
+2 2
+2 2
+x
+x
+= −
+− − −
+− − −
+( )( )( )
+( )( )( )
+x x
+x
+x x
+2 2 2 2 2 2
+2 2 2
+2 2 2 2 2 2
+y y z z
+y z
+y y z z
+x 4 4 4y z
+= − = −x
+x
+x
+4 4 4
+2 2 2
+2 2 2y z
+y z
+y z
+11. (a) Given,
+x x
+x
+x
+x x
+2
+3
+2
+2
+3 2
+8
+9
+7 12
+− +
+−
+
+
+ 
+
+ ÷ −
++ +
+
+
+ 
+
+
+× + +
++ −
+
+
+ 
+
+x x x
+x x
+3 2
+2
+2 4
+3 4
+= − +
+−
+× + +
+−
+
+
+ 
+
+x x
+x
+x x
+x
+2
+3
+2
+2
+3 2
+8
+7 12
+9
+× + +
++ −
+
+
+ 
+
+x x x
+x x
+3 2
+2
+2 4
+3 4
+= − −
+− + +
+× + +
+− +
+( )( )
+( )( )
+( )( )
+( )( )
+x x
+x x x
+x x
+x x
+1 2
+2 4 2
+4 3
+3 32 × + +
+− +
+x x x
+x x
+( )
+( )( )
+2 2 4
+1 4
+=
+−
+x
+x 3
+[/c81a b a b a b ab3 3 2 2− = − + +( )( ) ]
+12. (b) Given, pq qr r p+ + = 0
+∴ p
+p qr
+q
+q r p
+r
+r pq
+2
+2
+2
+2
+2
+2−
++
+−
++
+−
+=
++ +
++
++ +
++
++ +
+p
+p rp pq
+q
+q pq qr
+r
+r qr rp
+2
+2
+2
+2
+2
+2
+=
++ +
++
++ +
++
++ +
+p
+p p r q
+q
+q p q r
+r
+r p q r
+2 2 2
+( ) ( ) ( )
+= + +
++ +
+=p q r
+p q r
+1
+13. (d) Given, x + + =y z 0 ⇒ x + = −y z .
+On squaring both sides, we get x x2 2 2 2+ + =y y z
+x x2 2 2 2+ − = −y z y
+Similarly, y z x yz2 2 2 2+ − = − and z x y zx2 2 2 2+ − = −
+∴
+1 1 1
+2 2 2 2 2 2 2 2 2x x x+ −
++
++ −
++
++ −y z y z z y
+=
+−
++
+−
++
+−
+1
+2
+1
+2
+1
+2x xy yz z
+= + +
+
+ 
+
+1
+2
+z y
+yz
+x
+x
+= 0
+14. (c) Given,
+a = +
+−
+1
+2
+x
+x
+So,
+1
+1
+2 1
+1
+3
+1
+3 1
+2
+1
+2
+1
+2 2 2a
+a
+a
+a
+a+
++ +
+−
+=
+−
+=
++
+−
+
+ 
+
++
+−
+
+ 
+ −
+x
+x
+x
+x
+=
++ −
++ + − + −
+3 1 2
+1 2 4 42 2
+( )( )
+( )
+x x
+x x x x
+=
++ −
+−
+3 1 2
+6 3
+( )( ) x x
+x
+= + −
+−
+( )( )
+( )
+1 2
+2 1
+x x
+x
+15. (b) Given, 1
+1
+2
+2
+1009
+1009
+1
+x +
++
++
++
++
+=
+y z
+⇒ 1
+1
+1 2
+2
+1 1009
+1009
+1 1 3
+x +
+− +
++
+− +
++
+− = −
+y z
+⇒ −
++
+−
++
+−
++
+= −x
+x 1 2 1009
+2y
+y
+z
+z
+∴ x
+x +
++
++
++
++
+=
+1 2 1009
+2y
+y
+z
+z
+16. (b) Given, x x
+x x
+x x
+x x
+2
+2
+2
+2
+3 2
+5 6
+5 4
+7 12
+− +
+− +
+÷ − +
+− +
+= − +
+− +
+× − +
+− +
+x x
+x x
+x x
+x x
+2
+2
+2
+2
+3 2
+5 6
+7 12
+5 4
+( )
+( )
+= − −
+− −
+× − −
+− −
+( )( )
+( )( )
+( )( )
+( )( )
+x x
+x x
+x x
+x x
+1 2
+3 2
+4 3
+4 1
+= 1
+17. (a) Given, x + + =y z 0
+⇒ x x+ = − + = −y z y z , and z y+ = −x
+∴
+x
+x x
+x
+x
+yz
+y y z z
+yz
+z y( )( )( ) ( )( )( )+ + +
+=
+− − −
+=
+−
+= −x
+x
+yz
+yz
+1
+18. (b) Given, ( )( ) ( )x y x y x y
+x y xy
+2 2 3
+2 2
++ − − −
+−
+= + − − − − − +
+−
+2x xy x y y x y x y xy
+x y xy
+3 2 2 3 3 3 2
+2 2
+3 3( )
+= + − − − + + −
+−
+x xy x y y x y x y xy
+x y xy
+3 2 2 3 3 3 2 2
+2 2
+3 3
+= −
+−
+= −
+−
+=2 2 2 2
+2 2
+2 2
+2 2
+2 2
+x y xy
+x y xy
+x y xy
+x y xy
+( )
+19. (d)
+1 1 2 4
+2 2
+3
+4 4a b a b
+b
+a b
+b
+a b−
+−
++
+−
++
+−
++
+−
+−
+8 7
+8 8
+b
+a b
+= + − −
+− +
+−
++
+( ) ( )
+( )( )
+a b a b
+a b a b
+b
+a b
+2
+2 2 −
++
+4 3
+4 4
+b
+a b
+−
+−
+8 7
+8 8
+b
+a b
+=
+−
+−
++
+−
++
+2 2 4
+2 2 2 2
+3
+4 4
+b
+a b
+b
+a b
+b
+a b
+−
+−
+8 7
+8 8
+b
+a b
+= + − −
+− +
+2 2 2 2 2 2
+2 2 2 2
+b a b b a b
+a b a b
+( ) ( )
+( )( )
+−
++
+−
+−
+4 83
+4 4
+7
+8 8
+b
+a b
+b
+a b
+=
+−
+−
++
+−
+−
+4 4 83
+4 4
+3
+4 4
+7
+8 8
+b
+a b
+b
+a b
+b
+a b
+= + − −
+− +
+4 43 4 4 3 4 4
+4 4 4 4
+b a b b a b
+a b a b
+( ) ( )
+( )( )
+−
+−
+8 7
+8 8
+b
+a b
+= 0
+20. (c) Given, a by cz2 0− − = …(i)
+a b czx − + =2 0 …(ii)
+and a by cx + − = 2 0 …(iii)
+On adding Eqs. (i), (ii) and (iii), we get
+x = − +b a c
+a
+2 2 2
+2
+⇒ x
+xa
+b a c
+a b c+
+= − +
++ +
+2 2 2
+2 2 2
+Similarly, y
+b y
+a b c
+a b c+
+= − +
++ +
+2 2 2
+2 2 2 and z
+c z
+a b c
+a b c+
+= + −
++ +
+2 2 2
+2 2 2
+∴ x
+xa
+y
+y b
+z
+c z+
++
++
++
++
+=
+− + + − +
++ + −
++ +
+=
+( ) ( )
+( )
+b a c a b c
+a b c
+a b c
+2 2 2 2 2 2
+2 2 2
+2 2 2 1

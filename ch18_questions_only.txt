@@ -1,0 +1,906 @@
+
+
+167MATHEMATICS Quadratic Equations and Inequalities
+• Pick a number from each interval and test it in the
+original inequality.
+• If the inequality holds true for the choosen point. then
+that interval is the solution of the given quadratic
+inequality.
+Note (i) If the quadratic equation does not have real roots, then t he
+quadratic expression is always positive (or always negativ e)
+depending on the sign of a meaning that the solution set will
+either be empty or the entire real number line.
+e.g. 15 18 7 0
+2x x− + > has no real roots as
+D b ac= − = − <2 4 64 420 0 . Since a > 0, so the
+expression is always positive and hence the solution set
+will be the entire real number line.
+(ii) When the inequality has an additional ‘ =’ sign ( ≥ or ≤), use
+closed intervals like [ a, b] to indicate that the two end points
+are also included in the solution set. If the inequality is st rict
+(>or<), use open intervals like ( a, b) as end points are not
+included.
+EXAMPLE 22. The solution of the inequality
+x x2 4 3 0+ + ≥ is
+a. x < − 3 and x > − 1 b. x ≤ − 3 and x ≥ − 1
+c. x < − 3 and x ≥ − 1 d. x ≤ − 3 or x > − 1
+Sol. b. We have, x x2 4 3 0+ + ≥
+Change the inequality to equality sign and solve
+x x2 4 3 0+ + = ⇒ x x x2 3 3 0+ + + =
+⇒ x x x( ) ( )+ + + =3 3 0 ⇒ ( )( )x x+ + =1 3 0 ⇒ x = − −1 3 , .
+Place the value of x on the number line to create
+intervals.
+T akex = − 4, T ake x = −2 , T ake x = 0
+⇒ ( ) ( )− + − + >4 4 4 3 02 ,
+( ) ( )− + − + <2 4 2 3 02 , 0 4 0 3 02 + + >( )
+So, the intervals which satisfy the given equation are
+(− ∞ −, 3 ] and [ − ∞1 , )
+i.e. x ≤ − 3 and x ≥ − 1
+EXAMPLE 23. The real values of x which satisfy
+x x2 4 3 0− + ≥ and x x2 3 4 0− − ≤ is
+a. ( , ) ( , )− ∪1 1 3 4 b. [ , ] [ , ]− ∩1 1 3 4
+c. [ , ] [ , ]− ∪1 1 3 4 d. ( , ) [ , ]− ∪1 1 3 4
+Sol. c. Given, x x2 4 3 0− + ≥
+⇒ x x2 4 3 0− + = ⇒ ( )( )x x− − =1 3 0 ⇒ x = 1 3 ,
+⇒ x ∈ −∞( , ] 1 or x ∈ ∞[ , )3 . ⇒ x ∈ − ∞( ] 1 ∪ ∞[ , )3 .
+Again, x x2 3 4 0− − ≤ ⇒ x x2 3 4 0− − =
+⇒ ( )( )x x+ − =1 4 0 ⇒ x = −1 4 ,
+⇒ x ∈ −[ , ]1 4
+∴ Solution set is
+x = ( , ] [ , ) [ , ] [ , ] [ , ]− ∞ ∪ ∞ ∩ − = − ∪1 3 1 4 1 1 3 4
++ – +
+– 3 – 1
++ – +
+1 3
+1. The quadratic equation has maximum
+(a) one root (b) two roots
+(c) four roots (d) three roots
+2. The values of x in the equation
+a b x a b x
+2 2 2 2 2 1 0− + + =( ) , a ≠ 0, b ≠ 0 is
+(a) 1 2/a (b) 1 2/b
+(c) 1 2/a , 1 2/b (d) None of these
+3. The value of ‘ a’ for which the equation
+ax x2 2 5 4 0− + = has equal roots is
+(a) 5/4 (b) 4/5
+(c) − 5 4 / (d) − 5 3 /
+4. If one root of 3 8 2 1
+2x x k= + + ( ) is seven times the
+other, then the value of k is
+(a) 5/3 (b) − 5 3 /
+(c) 2/3 (d) − 3 2 /
+5. The quadratic equation whose roots are 4 7
+2
++
+and 4 7
+2
+− is
+(a) 4 16 9 02x x+ + = (b) 4 16 9 02x x− − =
+(c) 4 16 9 02x x− + = (d) 4 16 9 02x x+ − =
+6. If α and β are the roots of the equation
+x x p2 8 0− + = and α β2 2 40+ = , then p is equal to
+(a) 12 (b) 10 (c) 9 (d) 11
+7. If α and β are the roots of the equation
+x x2 5 6 0− + = , then the value of α β2 2−
+(a) 5 (b) − 5 (c) ± 5 (d) ± 4
+8. If α β, are the roots of the equation
+ax bx c2 0+ + = , then an equation whose roots are
+1 / α and 1 / β is
+(a) b a cx x2 0+ + = (b) a b cx x2 0− + =
+(c) c a bx x2 0+ + = (d) c b ax x2 0+ + =
+PRACTICE EXERCISE
++ – +
+– 1 4
+
+
+
+
+9. If α β, are the roots of a quadratic equation such
+that α β + = 24 and α β − = 8, then the equation is
+(a) x x2 24 128 0− − = (b) x x2 24 128 0+ + =
+(c) x x2 24 128 0+ − = (d) None of these
+10. Which one of the following is the equation whose
+roots are respectively three times the roots of the
+equation ax bx c
+2 0+ + = ?
+(a) a b cx x2 0+ + = (b) a b cx x2 3 9 0+ + =
+(c) a b cx x2 3 9 0− + = (d) a b cx x2 3 0+ + =
+11. How many real values of x satisfy the equation
+x x2 3 1 3 2 0/ / + − = ?
+(a) only one value (b) two values
+(c) three values (d) No value
+12. If α β, are the roots of the quadratic equation
+2 4 1 0
+2x x− + = . Then, the value of
+1
+2
+1
+2α β β α+
++
++
+is equal to
+(a) 12
+17
+(b)
+17
+12
+(c)
+11
+17
+(d) 13
+17
+13. Solve the equation 2 2 52x x+ − + = and find the
+roots of the equation.
+(a) { , } 0 2 (b) { , }−2 0 (c) { , } 0 1 (d) { , }−1 0
+14. If α and β are roots of the equation x p
+2 0+ =
+where p is a prime, then which equation has the
+roots 1/α and 1/β?
+(a) 1 1 02x
+− =
+p
+(b) px2 1 0+ = (c) px2 1 0− = (d) 1 1 02x
++ =
+p
+15. The roots of the equation x px q2 0+ + = are 1
+and 2. The roots of the equation qx px2 1 0− + =
+must be
+(a)
+− 1
+2
+and 1 (b) 1
+2
+and 1
+(c) − 1
+2
+and − 1 (d) None of these
+16. Which one of the following is the quadratic
+equation whose roots are reciprocal to the roots
+of the quadratic equation 2 3 4 0
+2x x− − = ?
+(a) 3 2 4 02x x− − = (b) 4 3 2 02x x+ − =
+(c) 3 4 2 02x x− − = (d) 4 2 3 02x x− − =
+17. The value of x satisfying the equation
+x x+ = −4 2 is
+(a) 0, 5 (b) 0, 4
+(c) 5 (d) None of these
+18. If the roots of the quadratic equation
+px qx r
+2 0+ + = are reciprocal to each other, then
+(a) q r= (b) p r=
+(c) q divides r (d) p divides q
+19. Sum of roots is − 1 and sum of their reciprocals is
+1/6, then equation is
+(a) x x2 6 1 0− + = (b) x x2 6 0− + =
+(c) 6 1 02x x+ + = (d) x x2 6 0+ − =
+20. If sum of the roots of the equation
+ax bx c
+2 0+ + = is equal to the sum of their squares,
+then which one of the following is correct?
+(a) a2 2 2+ =b c (b) a b a b2 2+ = +
+(c) 2 2ac ab b= + (d) 2 0c b+ =
+21. If the roots of x lx m
+2 0− + = differ by 1, then
+(a) l m2 4 1= − (b) l m2 4 2= +
+(c) l m= +4 12 (d) l m2 4 1= +
+22. If α β, are the roots of the equation
+x a x a a2 2 2 41 1
+2
+1 0− + + + + =( ) ( ) , then α β2 2+ is
+equal to
+(a) a a4 2+ (b) a2
+(c) ( )a a2 4 2+ (d) None of these
+23. If the roots of
+1 1 1
+x p x q r+
++
++
+= are equal in
+magnitude and opposite in sign, then product of
+roots is
+(a)
+− +1
+2
+2 2( )p q (b) p q2 2
+2
++
+(c) p q+
+2
+(d) 1
+2
+2( )p q+
+24. If α β, are the roots of 3 2 1 02x x+ + = , then the
+equation whose roots are 1
+1
+−
++
+α
+α
+and
+1
+1
+−
++
+β
+β
+is
+(a) x x2 2 3 0+ + = (b) x x2 2 3 0− + =
+(c) x x2 2 3 0+ − = (d) x x2 2 3 0− − =
+25. If one root of px qx r
+2 0+ + = is double of the
+other root, then which one of the following is
+correct?
+(a) 2 92q pr= (b) 2 92q p = (c) 4 92q r = (d) 9 22q pr=
+26. If the roots of the equation x x
+2 1 0+ + = are in
+the ratio m n: , then
+(a) m
+n
+n
+m
++ + = 1 0 (b) m n+ + = 1 0
+(c) m
+n
+n
+m
++ + = 1 0 (d) m n+ + = 1 0
+27. What is one of the value of x in the equation
+x
+x
+x
+x1
+1 13
+6−
++ − = ?
+(a) 5
+13
+(b) 7
+13
+(c) 9
+13
+(d) 11
+3
+168 CDS Pathfinder
+
+
+
+
+28. What are the roots of the equation
+( )a b x a b x+ + = + +− − − −1 1 1 1 ?
+(a) a, b (b) − a, b (c) a, b− (d) − −a, b
+29. The number of roots of the quadratic equation
+8 6 1 02sec secφ φ− + = is
+(a) n (b) 2 (c) 0 (d) No solution
+30. The number of real roots of 3 92 7 72x x − + = is
+(a) 3 (b) 1 (c) 2 (d) 4
+31. If x = + 2 2 , then
+(a) x x2 4 2 0+ + = (b) x x2 2 2 0− − =
+(c) x x2 4 2 0− + = (d) x x2 4 2 0− − =
+32. For what value of k will the equation x bx
+ax c
+2 −
+−
+= −
++
+k
+k
+1
+1
+have roots reciprocal to each other?
+(a)
+1
+1
++
+−
+c
+c
+(b) c
+c
++
+−
+1
+1
+(c) a c− (d) b c
+c
++
+− 1
+33. If ‘ α ’ and ‘ β’ be the roots of ax bx b2 0− + = , the
+value of α
+β
+β
+α
++ is
+(a) a b/ (b) b a/ (c) a b/ (d) − a b/
+34. If the equations 2 7 3 02x x− + = and
+4 3 02x ax+ − = have a common root, then what
+is the value of a?
+(a) − 11 or 4 (b) − 11 or − 4 (c) 11 or − 4 (d) 11 or 4
+35. If the roots of x bx c2 0+ + = be α and β and those
+of x px q2 0+ + = be k α and k β , then
+(a) cb qp2 2= (b) qc b p2 2 2=
+(c) qb cp2 2= (d) None of these
+36. If − 4 is a root of the equation x px2 4 0+ − = and
+the equation x px q2 0+ + = has equal roots, then
+the values of p and q are, respectively
+(a) − 3 and 9
+4
+(b) 3 and
+9
+4
+(c)
+9
+4
+and 3 (d) 4 and 3
+37. If α β, are the roots of 2 6 3 0
+2x x− + = , then the
+value of α
+β
+β
+α α β
+αβ+
+ 
+ + + 
+ 
+ +3 1 1 2 is
+(a) 12 (b) 23 (c) 13 (d) − 13
+38. If the roots of the equation x ax b
+2 2 0+ + = , are
+real and distinct and they differ by atmost 2m,
+then b lies in the interval
+(a) ( , )a m a2 2 2− (b) [ , )a m a2 2 2−
+(c) ( , )a a
+m2 2 2 + (d) None of these
+39. The solution of the equation
+( ) ( ) ( ) ( )x x x x+ − − + =2 5 6 1 144 is
+(a) { , }7 3− (b) { , , }7 3 2− (c) { , , , }7 3 2 1− (d) { , }7 2
+40. The solution of the equation
+x x x x2 2 16 4 5 4− − − = − +( ) is
+(a) 4 5 13
+3
+, , −
+
+
+
+
+
+(b) { , } 4 5 (c) { } 4 (d)
+5 13
+3
+, −
+
+
+
+
+
+41. If sinθ and cosθ are the roots of the equation
+a b cx x
+2 0− + = , then which one of the following
+is correct?
+(a) a b ac2 2 2 0+ + = (b) a b ac2 2 2 0− + =
+(c) a c ab2 2 2 0+ + = (d) a b ac2 2 2 0− − =
+42. The equation ( ) ( )1 2 0
+2 2 2 2+ + + − =n nc c ax x will
+have equal roots, if
+(a) c a2 2 1= + (b) c a2 2 1= −
+(c) c n a2 2 2 1= + + (d) c n a2 2 2 1= +( )
+43. What is the condition that the equation
+a b cx x
+2 0+ + = , where a ≠ 0 has both the roots
+positive?
+(a) a, b and c are of same sign
+(b) a and b are of same sign
+(c) b and c have the same sign opposite to that of a
+(d) a and c have the same sign opposite to that of b
+44. The equation whose roots are twice the roots of
+the equation x x
+2 2 4 0− + = is
+(a) x x2 2 4 0− + = (b) x x2 2 16 0− + =
+(c) x x2 4 8 0− + = (d) x x2 4 16 0− + =
+45. If α and β are the roots of the equation
+x x2 0+ + =p q , then − − − −α β1 1, are the roots of
+which one of the following equations?
+(a) q px x2 1 0− + = (b) q p2 1 0+ + =x
+(c) x x2 0+ − =p q (d) x x2 0− + =p q
+46. If one root of the equation ax x
+2 3 0+ − = is − 1,
+then what is the other root?
+(a)
+1
+4
+(b)
+1
+2
+(c) 3
+4
+(d) 1
+47. If the equation ( ) ( )a b ac bd
+2 2 2 2+ − + x x
++ + =( )c d2 2 0 has equal roots, then which one of
+the following is correct?
+(a) ab cd= (b) ad bc=
+(c) a c b d2 2 2 2+ = + (d) ac bd=
+48. What is the solution of the equation
+x
+x
+x
+x+
+− + = −
+3
+3 3
+2
+?
+(a) 1 (b) 2 (c) 4 (d) None of these
+49. What are the roots of the equation
+4 3 2 32 0
+2x x− ⋅ + = + ?
+(a) 1, 2 (b) 3, 4 (c) 2, 3 (d) 1, 3
+169MATHEMATICS Quadratic Equations and Inequalities
+
+
+
+
+170 CDS Pathfinder
+50. If α and β are the roots of the equation
+x x2 1 0− − = , then what is the value of ( )α β4 4+ ?
+(a) 7 (b) 0
+(c) 2 (d) None of these
+51. When the roots of the quadratic equation
+a b cx x
+2 0+ + = are negative and reciprocals of each
+other, then which one of the following is correct?
+(a) b = 0 (b) c = 0 (c) a c= (d) a c= −
+52. If sum as well as product of roots of a quadratic
+equation is 9, then what is the equation?
+(a) x x2 9 18 0+ − = (b) x x2 18 9 0− + =
+(c) x x2 9 9 0+ + = (d) x x2 9 9 0− + =
+53. What are the roots of the equation
+log ( )
+10
+2 6 45 2x x− + = ?
+(a) 9 5, − (b) − 9 5 , (c) 11 5, − (d) − 11 5 ,
+54. The sum of the roots of the equation 1 1
+x x+
++
++a b
+= 1
+c
+is zero. What is the product of the roots of the
+equation?
+(a)
+− +( )a b
+2
+(b) ( )a b+
+2
+(c) − +( )a b2 2
+2
+(d) ( )a b2 2
+2
++
+55. For what value of k, will the roots of the equation
+kx x2 5 6 0− + = be in the ratio of 2 : 3?
+(a) 0 (b) 1 (c) − 1 (d) 2
+56. What is the ratio of sum of squares of roots to the
+product of the roots of the equation
+7 12 18 0
+2x x+ + = ?
+(a) 6 : 1 (b) 1 : 6 (c) − 6 1 : (d) − 6 7 :
+57. If the roots of the equation x x
+x
+( ) ( )
+( ) ( )
+− − +
+− −
+1 1
+1 1
+m
+m
+= x
+m
+are equal, then what is the value of m ?
+(a) 1 (b) 1 2 / (c) 0 (d) − 1 2 /
+58. If 3 27 3 12x x+ = −( ) , then what is the value of x?
+(a) 1 (b) 2 (c) 1, 2 (d) 0, 1
+59. What is the magnitude of difference of the roots of
+x x2 0− + =a b ?
+(a) a b2 4− (b) b a2 4−
+(c) 2 4 2a b− (d) b ab2 4−
+60. What can be said about the roots of the equation
+x x2 2 0− − = ?
+(a) both of them are integers
+(b) both of them are natural numbers
+(c) the latter of the two is negative
+(d) None of the above
+61. An equation equivalent to the quadratic
+equation x x
+2 6 5 0− + = is
+(a) x x2 5 6 0− + = (b) 5 6 1 02x x− + =
+(c) | |x − =3 2 (d) 6 5 1 02x x− + =
+62. If the sum of a number and its reciprocal is 10
+3
+,
+then the numbers are
+(a)
+3 1
+3
+, (b)
+3 1
+3
+, − (c)
+−3 1
+3
+, (d)
+− −3 1
+3
+,
+63. Divide 16 into two parts such that the twice of
+the square of the greater part exceeds, the
+square of the smaller part by 164. Then, the
+greater part is
+(a) 58 (b) 10 (c) 6 (d) 15
+64. The number of straight lines that can connect
+‘x’ points is given by the equation
+y x x= −( ) 1
+2
+.
+How many points does a figure have if only 15
+lines can be drawn connecting them?
+(a) 15 (b) 10 (c) 6 (d) 5
+65. The two successive natural numbers whose
+squares have sum 221 are
+(a) 10 and 11 (b) 11 and 12
+(c) − 10 and − 11 (d) None of these
+66. The two consecutive positive odd integers, the
+sum of whose squares is 130.
+(a) − 7 and − 9 (b) 7 and 9
+(c) 7 and 5 (d) 3 and − 5
+67. The solution set of inequation 2 1 7x + ≥ is
+(a) x ≥ 8 (b) x ≥ 3
+(c) x ≥ 6 (d) None of these
+68. The values of x satisfying inequation
+x − ≥1
+3
+4 is
+(a) x ≤ 13 (b) x ≥ 12 (c) x ≥ 13 (d) x = 13
+69. The values of x satisfying 3 2 5 4x x x+ ≤ − − ( ) is
+(a) x ≤ 2 (b) x ≥ 2
+(c) x = 2 (d) None of these
+70. The solution set of x for the inequations
+2 3 8x + ≥ and 3 1 12x + ≤ is
+(a) 5
+2
+11
+3
+< ≤x (b) 5
+2
+11
+3
+< <x
+(c ) 5
+2
+11
+3
+≤ ≤x (d) 5
+2
+11
+3
+≥ ≥x
+71. The values of x satisfying 1
+2
+3
+5
+4 1
+3
+6x x+
+ 
+ ≥ − ( )
+are
+(a) x ≥ 120 (b) x ≤ 120 (c) x ≤ 12 (d) x ≥ 12
+72. 4 1 0
+2x − ≤ , then the solution set is
+(a) − ≤ ≤1
+2
+1
+2
+x (b) − < <1
+2
+1
+2
+x
+(c) − ≥ ≥1
+2
+1
+2
+x (d) None of these
+
+
+
+
+171MATHEMATICS Quadratic Equations and Inequalities
+73. The shaded region, including the boundary in the
+given graph, is exactly represented by
+(a) 3 2 12 0 0x x+ ≤ < ≥y y , , (b) 3 2 12 0 0x x+ ≤ ≥ ≥y y , ,
+(c) 3 2 12 0 0x x+ < ≥ ≥y y , , (d) 3 2 12 0 0x x+ > ≥ ≥y y , ,
+74. When is the expression x x
+2 3 10+ − positive only?
+(a) x ≤ − 5 (b) x ≥ 2 (c) − 5< x < 2 (d) x < − 5 or x > 2
+75. The solution set for the quadratic inequation
+x x2 5 6 0− + ≥ is
+(a) [ , ] [ , ]− ∞ ∪ ∞2 3 (b) [ , ] [ , ]− ∞ ∪ ∞2 3
+(c) [ , ] [ , ]− ∞ ∪ ∞2 3 (d) [ , ] 2 3
+76. All real values of x for which x
+x
+x
+x
+−
++
+< −
+−
+2
+3 1
+3
+3 2
+are
+(a) −
+
+
+
+1
+3
+2
+3
+, (b)
+−
+
+
+
+1
+3
+2
+3
+, (c)
+−
+
+
+
+1
+3
+2
+3
+, (d) R
+77. If x y x+ ≤ >2 3 0 , and y > 0, then one of the
+solution is
+(a) x = − =1 2, y (b) x = =2 1, y
+(c) x = =1 1, y (d) x = =0 0, y
+78. The shaded region in the given figure is the
+solution set of the inequalities
+(a) x x x+ ≤ + ≥ ≥ ≥y y y2 3 3 0 0, , ,
+(b) x x x+ ≥ + ≥ ≥ ≥y y y2 3 3 0 0, , ,
+(c) x x x+ ≥ + ≤ ≥ ≥y y y2 3 3 0 0, , ,
+(d) x x x+ ≤ + ≤ ≥ ≥y y y2 3 3 0 0, , ,
+79. If a b m+ = 2
+2, b c m+ = 6 , a c+ = 2, where m is a
+real number and a b c≤ ≤ , then which one of the
+following is correct?
+(a) 0 1 2≤ ≤m / (b) − ≤ ≤1 0 m
+(c) 1 3 1/ ≤ ≤m (d) 1 2< ≤m
+80. If α and β are the roots of the equation
+( )x x
+2 3 2 0− + = , then which of the following
+equation has the roots (α + 1) and ( )β + 1 ?
+I. x x2 5 6 0+ + = II. x x2 5 6 0− − =
+Select the answer using the codes given below.
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+81. Consider the following statements
+I. Every quadratic equation has atleast one real
+root.
+II. A quadratic equation with integral coefficients
+has integral roots.
+III. If the coefficient of x2 and the constant term of
+a quadratic equation have opposite signs, then
+the quadratic equation has real roots.
+Which of the above statements is/are correct?
+(a) Only I and II (b) Only II and III
+(c) Only III (d) All of these
+82. Which of the following are quadratic equations?
+I. x
+x
+2
+2
+1 2+ = II. x x x+ =3 2
+III. 2 2 4 42 2x x x x− + = + − IV. x x x3 2 6 2 1 0+ + − =
+Select the correct answer using the codes given
+below.
+(a) I, III are quadratic (b) II, III and IV are quadratic
+(c) Only III is quadratic (d) None of these
+83. Consider the following statements
+I. x = 1 is a root of 3 2 1 02x x− − = .
+II. x = − 2 2 is a root of x x2 2 4 0+ − = .
+III. x x2 1 0+ + = ; x x= = −1 1, .
+IV. 9 3 2 02x x− − = ; x x= − =1
+3
+2
+3, .
+Which of the equation(s) given above is/are
+correct?
+(a) I and II (b) I, II and IV
+(c) III and IV (d) Only IV
+Directions (Q. Nos. 84-86) A ball is thrown
+upwards from a rooftop, 80 m above the ground.
+It will reach a maximum vertical height and
+then fall back to the ground. The height of the ball
+from the ground at time t is h which is given by,
+h t t= − + +16 64 80
+2 Now, answer the following
+questions based on the above information.
+84. What is the height reached by the ball after
+1 sec?
+(a) 150 m (b) 128 m
+(c) 64 m (d) None of these
+85. What is the maximum height reached by the
+ball?
+(a) 110 m (b) 132 m
+(c) 144 m (d) cannot be determined
+86. How long will it take before hitting the ground?
+(a) 5 sec (b) 6 sec
+(c) 3 sec (d) cannot say
+X ´ X
+Y
+Y ´
+O
+B
+(4, 0)
+A (0, 6)
+Y
+X
+x + y
+= 2
+x + y
+3 = 3
+O
+
+
+
+
+172 CDS Pathfinder
+PREVIOUS YEARS’ QUESTIONS
+87. If the roots of the equation x x2 2 2 3 0− + + − =a a a
+are real and less than 3, then which one of the
+following is correct? e 2012 I
+(a) a < 2 (b) 2 3< <a (c) 3 4< <a (d) a > 4
+88. If one of the roots of quadratic equation
+7 50 0
+2x x− + = k is 7, then what is the value of k?
+e 2012 I
+(a) 7 (b) 1 (c) 50/7 (d) 7/50
+89. Two students A and B solve an equation of the
+form x x2 0+ + =p q . A starts with a wrong value
+of p and obtains the roots as 2 and 6. B starts
+with a wrong value of q and gets the roots as
+2 and – 9. What are the correct roots of the
+equation? e 2012 II
+(a) 3 and − 4 (b) − 3 and − 4 (c) − 3 and 4 (d) 3 and 4
+90. If one of the roots of the equation x x
+2 0− + =b c is
+the square of the other, then which of the
+following option is correct? e 2013 I
+(a) b bc c c3 2 3= + + (b) c bc b b3 2 3= + +
+(c) 3 3 2bc c b b= + + (d) 3 3 3 2bc c b b= + +
+91. The difference of the roots of the equation
+2 11 5 0
+2x x− + = is e 2013 I
+(a) 4.5 (b) 4 (c) 3.5 (d) 3
+92. The sum of the squares of two numbers is 97 and
+the squares of their difference is 25. The product
+of the two numbers is e 2013 I
+(a) 45 (b) 36 (c) 54 (d) 63
+93. If
+x
+x
++ =1 2, then what is value of x
+x
+− 1 ?
+e 2013 I
+(a) 0 (b) 1 (c) 2 (d) −2
+94. There are some benches in a classroom having the
+number of rows 4 more than the number of
+columns. If each bench is seated with 5 students,
+there are two seats vacant in a class of 158
+students. The number of rows is e 2013 I
+(a) 4 (b) 8 (c) 6 (d) 10
+95. Which one of the following is factor of
+x
+x
+x
+x
+2
+2
+1 8 1 14+ + + 
+ 
+ + ?
+e 2013 II
+(a)
+x
+x
++ +1 1 (b) x
+x
++ +1 3
+(c) x
+x
++ +1 6 (d) x
+x
++ +1 7
+96. If α and β are the roots of the equation
+x x2 1 0− − = , then what is α β
+α β α β
+2 2
+2 2
++
+− −( ) ( )
+equal
+to? e 2013 II
+(a) 2
+5
+(b) 3
+5
+(c)
+4
+5
+(d) None of these
+97. If
+x2 6 6 6 6= + + + + ∞ /c76 , then what is one
+of the values of x equal to? e 2013 II
+(a) 6 (b) 5 (c) 4 (d) 3
+98. Consider the following statements in respect of
+the quadratic equation a b bx x
+2 0+ + = , where
+a ≠ 0.
+I. The product of the roots is equal to the sum of
+the roots.
+II. The roots of the equation are always unequal
+and real.
+Which of the above statements is/are correct?
+e 2014 I
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+99. If the roots of the equation A B Cx x
+2 0+ + = are
+−1 and 1, then which one of the following is
+correct? e 2014 I
+(a) A and C are both zero
+(b) A and B are both positive
+(c) A and C are both negative
+(d) A and C are of opposite sign
+100. If the roots of the equation ( )a bc2 2− x
++ − + − =2 0 2 2( ) ( )b ac c abx are equal, where
+b ≠ 0, then which one of the following is correct?
+e 2014 I
+(a) a b c abc+ + = (b) a b c2 2 2 0+ + =
+(c) a b c3 3 3 0+ + = (d) a b c abc3 3 3 3+ + =
+101. If m and n are the roots of the equation
+a b cx x2 + + = 0, then the equation whose roots
+are ( ) /m m2 1+ and ( ) /n n2 1+ is e 2014 I
+(a) ac ab bc b a cx x2 2 2 0+ + + + − =( ) ( )
+(b) ac ab bc b a cx x2 2 2 0+ − + + − =( ) ( )
+(c) ac ab bc b a cx x2 2 2 0+ − + − − =( ) ( )
+(d) ac ab bc b a cx x2 2 2 0+ + + − − =( ) ( )
+102. In solving a problem, one student makes a
+mistake in the coefficient of the first degree
+term and obtains −9 and −1 for the roots. Another
+student makes a mistake in the constant term
+of the equation and obtains 8 and 2 for the
+roots. The correct equation was e 2014 I
+(a) x x2 10 9 0+ + = (b) x x2 10 16 0− + =
+(c) x x2 10 9 0− + = (d) None of these
+103. If m and n m n( ) > are the roots of the equation
+7 2 3 5 7 23
+2 2( ) ( )x a a a x a+ + = + , where a > 0, then
+what is 3m n− equal to? e 2014 II
+(a) 12a (b) 14a (c) 15a (d) 18a
+104. If one of the roots of the equation px qx r2 0+ + =
+is three times the other, then which one of the
+following relations is correct? e 2014 II
+(a) 3 162q pr= (b) q pr2 24=
+(c) p q r= + (d) p q r+ + = 1
+
+
