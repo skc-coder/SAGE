@@ -103,23 +103,32 @@ content/
 
 ---
 
+3. **Subject-Level Central Question Database (`[subject]/question_db.md`)**:
+   - Resides strictly at the subject root (`content/[exam]/[subject]/question_db.md`).
+   - Tracks **ALL questions across the entire subject** using dynamic Obsidian Dataview blocks.
+   - Embeds a **complete suite of visual analytics charts**:
+     1. **Test Series Marks Trendline**: Score & marks progression across sequential mock test attempts (`xychart-beta`).
+     2. **Chapter-Wise & Topic-Wise Accuracy Bar Charts**: Accuracy percentages across chapters and topics (`xychart-beta`).
+     3. **Subtopic & Question Type Frequency/Difficulty Pie Charts**: Color-shaded per-topic subtopic difficulty breakdown (`pie`).
+     4. **Mistake Category Breakdown Pie Chart**: Breakdown of lost marks by mistake category (`pie`).
+
+---
+
 ## 2. Visual Analytics Graphs Across All Levels (Placed BELOW Other Content)
 
-Visual analytics graphs MUST be placed **at the bottom of overview/topic files** under `## Performance Overview` (below theory, variation links, and topic links):
+Visual analytics graphs MUST be placed **at the bottom of overview, database, and topic files** under `## Performance Overview` (below table queries, theory, variation links, and topic links):
 
-1. **Tier 1: Exam Level (`[exam]_overview.md`)**:
-   - Subject-wise accuracy bar chart (`xychart-beta`)
-   - Exam-wide mistake category pie chart (`pie`)
+1. **Subject-Level Question Database (`[subject]/question_db.md`)**:
+   - Comprehensive Analytics Suite: Test Series Marks Trendline + Chapter/Topic Bar Charts + Subtopic Difficulty Pie Charts + Mistake Pie Chart.
 
-2. **Tier 2: Subject & Chapter Level (`[subject]_overview.md`)**:
-   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`)
-   - Per-Topic Subtopic Question Frequency & Difficulty pie charts initialized with explicit `%%{init: {'themeVariables': ...}}%%` color shade palettes!
+2. **Tier 1: Exam Level (`[exam]_overview.md`)**:
+   - Subject-wise accuracy bar chart (`xychart-beta`) + Exam-wide mistake category pie chart (`pie`).
 
-3. **Tier 3: Topic Level Notes (`notes/[topic_slug].md`)**:
-   - Topic question accuracy bar chart & difficulty distribution pie chart placed at the bottom of the topic note under `## Performance Overview`.
+3. **Tier 2: Subject & Chapter Level (`[subject]_overview.md`)**:
+   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`) + Subtopic difficulty pie charts with explicit `%%{init: {'themeVariables': ...}}%%` color shade palettes.
 
-4. **Tier 4: Subtopic Level Headers**:
-   - Performance breakdown for questions under that specific subtopic specialization.
+4. **Tier 3: Topic Level Notes (`notes/[topic_slug].md`)**:
+   - Topic question accuracy bar chart & difficulty distribution pie chart.
 
 ---
 
