@@ -8,6 +8,7 @@
 - [[content/cds/math/notes/modular|Ch 3. Modular Arithmetic & Remainders]]
 - [[content/cds/math/notes/roots|Ch 5. Square Roots and Cube Roots]]
 - [[content/cds/math/notes/work|Ch 7. Time and Work]]
+- [[content/cds/math/notes/percentage|Ch 8. Percentage]]
 - [[content/cds/math/notes/simple_interest|Ch 9. Simple Interest]]
 - [[content/cds/math/notes/profit_loss|Ch 11. Profit and Loss]]
 - [[content/cds/math/notes/ratio_proportion|Ch 12. Ratio and Proportion]]
