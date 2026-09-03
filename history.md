@@ -2,12 +2,12 @@
 
 ## Log Entries
 
-### [2026-09-03T14:17:00+05:30] - Dataview Query Fix & Summary of HCF-LCM and Modular Arithmetic
-- **User Request**: Summarize key theorems, properties, and models of HCF-LCM and Modular Arithmetic separately, fix Dataview query in `question_db.md`, and push changes.
+### [2026-09-03T14:18:00+05:30] - HCF-LCM & Modular Cheatsheets Creation & Overview Linking
+- **User Request**: Save HCF-LCM and Modular Arithmetic key theorems/models in separate markdown files and link them on the math overview page beside their main chapter links.
 - **Implementation**:
-  - Updated [`question_db.md`](file:///home/skc/dev/SAGE/content/cds/math/question_db.md) Dataview block to use `TABLE WITHOUT ID` with `FLATTEN topic + " > " + subtopic AS "Topic & Subtopic"` and `GROUP BY "Topic & Subtopic"` so grouped items render clean links and metadata.
-  - Summarized all key theorems, properties, and models of HCF-LCM and Modular Arithmetic into structured reference blocks.
-  - Committed and pushed to remote branch `v5`.
+  - Created standalone notes [`hcf_lcm_cheatsheet.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/hcf_lcm_cheatsheet.md) and [`modular_cheatsheet.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/modular_cheatsheet.md).
+  - Linked both cheatsheets in [`math_overview.md`](file:///home/skc/dev/SAGE/content/cds/math/math_overview.md) directly alongside the main topic notes.
+  - Committed and pushed changes to remote `origin/v5`.
 
 - **User Feedback**: Standardize Dataview plugin queries for question log tables, strip all remaining bloated header titles, store test metadata in YAML frontmatter properties, and link directly to variation files without intermediate index links.
 - **Implementation**:
