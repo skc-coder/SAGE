@@ -77,6 +77,7 @@ where $c = 90 = 6 \times 15$ is the scalar multiplier reflecting the product of 
 - [[cds/math/notes/questions/q33|Q33: Simultaneous Dual Quadratic HCF Parameters]]
 - [[cds/math/notes/questions/q34|Q34: Polynomial Recovery from Sum & Difference]]
 - [[cds/math/notes/questions/q35|Q35: Polynomial Recovery from HCF and LCM]]
+- [[cds/math/notes/questions/q36|Q36: Variable Power Trap in Polynomial LCM (PYQ 2013 II)]]
 
 ---
 
