@@ -9,11 +9,11 @@ tags: [cds, elementary-mathematics, subject]
 
 ## Topics & Notes
 
-- [[cds/elementary-mathematics/notes/number_system|Number System]]
+- [[cds/elementary-mathematics/notes/numbers|Number System]]
 
 ## Variations
 
-- [[cds/elementary-mathematics/notes/variations/number_system_variations|Number System Variations]]
+- [[cds/elementary-mathematics/notes/variations/vars|Number System Variations]]
 
 ## Performance Overview
 

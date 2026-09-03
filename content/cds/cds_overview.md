@@ -8,7 +8,7 @@ tags: [cds, overview]
 
 ## Subjects
 
-- [[cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics]]
+- [[cds/elementary-mathematics/math_overview|Elementary Mathematics]]
 - [[cds/general-knowledge/general_knowledge_overview|General Knowledge]]
 - [[cds/english/english_overview|English]]
 

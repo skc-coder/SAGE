@@ -25,4 +25,4 @@ Key Theorems & Tricks:
 
 ## Navigation
 
-- [[cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics Overview]]
+- [[cds/elementary-mathematics/math_overview|Elementary Mathematics Overview]]
