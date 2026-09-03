@@ -4,6 +4,7 @@ subject: "Algorithms"
 topic: "Minimum Spanning Trees"
 subtopic: "Number of MSTs"
 question_type: "Formulaic Edge Conditions"
+mistake_category: "Calculation Error"
 tags: [gate-cs, algorithms, mst, graph-theory]
 date: 2026-09-03
 ---
@@ -24,7 +25,8 @@ When edge weights are determined by a formula $w(u, v) = f(u, v)$, determining t
 
 ### Question 1: GATE CS 2021 Set 1 Q34
 - **Source**: GATE CS 2021 Set 1 Q34
-- **Status**: ❌ Wrong (Miscalculated edge weight equal-weight cycle)
+- **Status**: ❌ Wrong
+- **Mistake Category**: Calculation Error (Miscalculated equal-weight edge sum on cycle)
 
 #### Derivation & Solution
 For a connected graph $G = (V, E)$ where vertices are indexed $1 \dots n$ and edge weight $w(i, j) = i + j$:
@@ -39,8 +41,8 @@ For a connected graph $G = (V, E)$ where vertices are indexed $1 \dots n$ and ed
 >
 > How many distinct MSTs can be formed?
 
-**Solution**:
-Edge $e_5$ (weight $2$) and $e_1$ (weight $3$) are strictly chosen first. The remaining vertices require connecting via edges of weight $5$, yielding $3$ valid MST combinations.
+> [!faq]- Click to view Solution
+> Edge $e_5$ (weight $2$) and $e_1$ (weight $3$) are strictly chosen first. The remaining vertices require connecting via edges of weight $5$, yielding $3$ valid MST combinations.
 
 ---
 
@@ -48,7 +50,7 @@ Edge $e_5$ (weight $2$) and $e_1$ (weight $3$) are strictly chosen first. The re
 
 > **Topic Variation 2.1 (General Equal-Weight Cycle Theorem)**: Let $G$ be a connected graph where $k$ edges share the same maximum weight $W$ on a cycle of length $k$, while all other $m-k$ edges have distinct weights strictly less than $W$. How many MSTs does $G$ possess?
 
-**Solution**:
-Since all $m-k$ smaller distinct edges are chosen unconditionally and form trees/forests, exactly $k-1$ edges of weight $W$ must be chosen from the cycle of $k$ edges to connect the components.
-
-$$ \text{Number of MSTs} = \binom{k}{k-1} = k $$
+> [!faq]- Click to view Solution
+> Since all $m-k$ smaller distinct edges are chosen unconditionally and form trees/forests, exactly $k-1$ edges of weight $W$ must be chosen from the cycle of $k$ edges to connect the components.
+>
+> $$ \text{Number of MSTs} = \binom{k}{k-1} = k $$
