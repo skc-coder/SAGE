@@ -2,6 +2,22 @@
 
 ## Log Entries
 
+### [2026-09-03T19:49:00+05:30] - Pathfinder Chapter 21: Height and Distance Study Notes & Question Categorization
+- **User Request**: Study Chapter 21 (Height and Distance).
+- **Implementation**:
+  - Extracted Chapter 21 text from `cds pathfinder.pdf` (`page 430` to `page 469`) using `scripts/chapter_study_helper.py`.
+  - Created main topic note [`heights.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/heights.md) with core definitions, formulas, and structural models.
+  - Created subtopic notes:
+    - [`angle_elevation_depression.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/angle_elevation_depression.md)
+    - [`two_point_observer_shift.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/two_point_observer_shift.md)
+    - [`complementary_angles_height.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/complementary_angles_height.md)
+    - [`flagstaff_antenna_tower.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/flagstaff_antenna_tower.md)
+    - [`elevated_observer_window.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/elevated_observer_window.md)
+  - Created 10 individual question notes ([`q1_heights.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/questions/q1_heights.md) to [`q10_heights.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/questions/q10_heights.md)) with step-by-step LaTeX solutions and frontmatter metadata.
+  - Created master variation note [`heights_variations.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/variations/heights_variations.md).
+  - Updated subject dashboard [`math_overview.md`](file:///home/skc/dev/SAGE/content/cds/math/math_overview.md) and verified site build.
+  - Committed changes to Git.
+
 ### [2026-09-03T19:17:00+05:30] - Pathfinder Chapter 16: Rational Expressions Study Notes & PYQ Analysis
 - **User Request**: Read Chapter 16 (Rational Expressions), create topic & subtopic notes, extract underlying theorems/properties/methods, categorize practice and PYQ questions, extract unique teaching questions, and formulate novel variations.
 - **Implementation**:
