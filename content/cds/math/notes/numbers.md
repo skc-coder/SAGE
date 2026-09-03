@@ -22,6 +22,7 @@ Key Theorems & Tricks:
 ## Subtopics
 
 - [[cds/math/notes/subtopics/ratios|Ratios and Proportions]]
+- [[cds/math/notes/subtopics/divisibility|Divisibility Rules & Proofs]]
 
 ## Navigation
 
