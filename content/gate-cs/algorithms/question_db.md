@@ -1,34 +1,25 @@
 # Question Database — Algorithms
 
-## Performance & Analytics Overview
+## Performance Overview
 
-### 1. Mistake Distribution Chart
+### Mistake Distribution
+
 ```mermaid
-pie title Mistake Category Breakdown
+pie title Mistake Categories
     "Calculation Error" : 1
 ```
 
-### 2. Topic Accuracy Heatmap
+### Topic Accuracy %
 ```mermaid
-gantt
+xychart-beta
     title Topic Accuracy %
-    dateFormat X
-    axisFormat %s%%
-    section Algorithms
-    Number of MSTs : crit, 0, 0
-    MST Uniqueness : active, 0, 100
+    x-axis [Number of MSTs, MST Uniqueness]
+    y-axis "Accuracy %" 0 --> 100
+    bar [0, 100]
 ```
 
 ---
 
-## Topic & Question Taxonomy Database
-
-| Topic | Subtopic | Question Type / Specialization | Logged Questions & Notes | Performance | Logged Mistake Types |
-| :--- | :--- | :--- | :--- | :---: | :--- |
-| **Minimum Spanning Trees** | Number of MSTs | Formulaic Edge Conditions ($w(e) = i+j$) | • [[content/gate-cs/algorithms/notes/questions/gate_2021_q34_counting_msts\|GATE '21 Q34 (❌)]] | 0 / 1 (0%) | 1x Calculation Error |
-| | Uniqueness | Distinct Edge Weights Theorem | • [[content/gate-cs/algorithms/notes/questions/gate_2018_q12_mst\|GATE '18 Q12 (✅)]] | 1 / 1 (100%) | None |
-
----
 
 ## Dynamic Obsidian Dataview Query
 

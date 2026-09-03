@@ -1,16 +1,14 @@
 # Algorithms
 
-## Subject Overview & Visual Analytics
+## Subject Performance Overview
 
-### Accuracy & Mastery Heatmap
+### Topic Accuracy %
 ```mermaid
-gantt
-    title Topic Accuracy % Heatmap
-    dateFormat X
-    axisFormat %s%%
-    section Graph Algorithms
-    Number of MSTs : crit, 0, 0
-    MST Uniqueness : active, 0, 100
+xychart-beta
+    title Topic Accuracy %
+    x-axis [Number of MSTs, MST Uniqueness]
+    y-axis "Accuracy %" 0 --> 100
+    bar [0, 100]
 ```
 
 ---

@@ -76,18 +76,14 @@ pie title Mistake Category Distribution
     "Time Pressure" : 10
 ```
 
-### 2. Topic Mastery Heatmap (Mermaid Bar Chart)
-Visualizes accuracy percentage across different topics in a subject to immediately spot weak areas:
+### 2. Topic Accuracy Bar Chart (Mermaid xychart-beta)
+Clean visual bar chart displaying accuracy percentage per topic:
 ```mermaid
-gantt
-    title Topic Accuracy % Heatmap
-    dateFormat X
-    axisFormat %s%%
-    section Algorithms
-    Minimum Spanning Trees : active, 0, 75
-    Shortest Paths (Dijkstra) : crit, 0, 40
-    Dynamic Programming : crit, 0, 30
-    Asymptotic Notation : 0, 95
+xychart-beta
+    title Topic Accuracy %
+    x-axis [Number of MSTs, MST Uniqueness, Shortest Paths, Dynamic Programming]
+    y-axis "Accuracy %" 0 --> 100
+    bar [0, 100, 40, 30]
 ```
 
 ### 3. Cumulative Score & Accuracy Trend Line (Test Sessions)
