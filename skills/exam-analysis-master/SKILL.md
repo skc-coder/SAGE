@@ -136,21 +136,33 @@ xychart-beta
 
 ---
 
+### Overview Page Section Order
+Overview pages (`gate_cs_overview.md`, `algorithms_overview.md`) MUST strictly follow this vertical section order:
+1. `# [Title]`
+2. `## Topics & Notes` / `## Subjects`
+3. `## Chapter Variations`
+4. `## Performance Overview` *(Subject/Chapter/Topic Accuracy Bar Charts & Mistake Pie Charts)*
+5. `## Navigation`
+
+---
+
 ## 6. Modular Note Architecture & Automatic Graph Embeds (`/wrap`)
 
 When user types `/wrap`, the AI automatically updates the vault AND embeds live visual analytics charts directly into the files:
 
 1. **Question Database ([`question_db.md`](file:///home/skc/dev/SAGE/content/gate-cs/algorithms/question_db.md))**:
    - Embeds the **Mistake Category Pie Chart** and **Topic Accuracy Heatmap** at the top of the database page.
-2. **Subject Index ([`index.md`](file:///home/skc/dev/SAGE/content/gate-cs/algorithms/index.md))**:
-   - Embeds the **Subject Mastery Heatmap** at the top of the index page.
-3. **Test Scorecards (`test_sessions/`)**:
+2. **Subject Overview ([`algorithms_overview.md`](file:///home/skc/dev/SAGE/content/gate-cs/algorithms/algorithms_overview.md))**:
+   - Embeds the **Chapter-Wise** and **Topic-Wise Accuracy Bar Charts** under `## Performance Overview` (placed after `## Chapter Variations` and above `## Navigation`).
+3. **Exam Overview ([`gate_cs_overview.md`](file:///home/skc/dev/SAGE/content/gate-cs/gate_cs_overview.md))**:
+   - Embeds the **Subject-Wise Accuracy Bar Chart** and **Mistake Breakdown Pie Chart** under `## Performance Overview` (placed after `## Subjects` and above `## Navigation`).
+4. **Test Scorecards (`test_sessions/`)**:
    - Embeds the **Test Score Trendline** and accuracy breakdown chart.
-4. **Question Notes (`notes/questions/[question_slug].md`)**:
+5. **Question Notes (`notes/questions/[question_slug].md`)**:
    - Original question statement in blockquote + collapsible derivation (`> [!faq]- View Solution & Derivation`) + Tier 1 variations + direct test PDF link.
-5. **Variation Notes (`notes/variations/[variation_slug].md`)**:
+6. **Variation Notes (`notes/variations/[variation_slug].md`)**:
    - Dedicated variation problems with collapsible solutions (`> [!faq]- View Solution`).
-6. **Topic Notes (`notes/[topic_slug].md`)**:
+7. **Topic Notes (`notes/[topic_slug].md`)**:
    - Core theory + index of links to Question Notes and Topic Variation Notes.
 
 ---
