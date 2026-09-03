@@ -153,6 +153,7 @@ All visual analytics graphs MUST be placed **at the bottom of overview files** u
 - **Chapter-Wise Accuracy Bar Chart**: `xychart-beta` title `"Chapter Accuracy"`.
 - **Topic-Wise Accuracy Bar Chart**: `xychart-beta` title `"Topic Accuracy"`.
 - **Per-Topic Subtopic Difficulty Pie Charts**: `pie` charts with explicit `%%{init: {'themeVariables': ...}}%%` color shade palettes per parent topic.
+  - **MANDATORY RULE**: All difficulty suffix tags in pie charts (e.g., `"Two-Point Angle (Medium)"`, `"Heights & Distances (Hard)"`) MUST strictly read directly from the user's manual `difficulty` YAML frontmatter properties set in the respective Topic/Subtopic note files!
 - **Subject Mistake Breakdown Pie Chart**: `pie` title `Mistake Breakdown`.
 
 ### 3. Subject-Level Question Database (`[subject]/question_db.md`)
