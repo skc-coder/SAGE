@@ -20,4 +20,14 @@
   - [ ] Created novel variation files (`content/cds/math/notes/variations/var12.md` to `var14.md`).
   - [ ] Updated `math_overview.md` and `question_db.md`.
 
+### [OPEN] Issue #7: Chapter 16: Rational Expressions & Linear Equations Notes, Variations & PYQ Analysis
+- **GitHub Issue**: [#7](https://github.com/skc-coder/SAGE/issues/7)
+- **Description**: Read Chapter 16 (Rational Expressions & Linear Equations), extract underlying concepts, properties, theorems, and methods. Categorize questions, identify unique teaching questions, create dedicated note files and novel variations.
+- **Acceptance Criteria**:
+  - [ ] Topic note `content/cds/math/notes/rational_expressions_linear_equations.md` with core theory, properties, and system of linear equations consistency criteria.
+  - [ ] Subtopic notes for simplification/partial fractions and linear system conditions.
+  - [ ] Extract and analyze unique teaching questions and novel variations.
+  - [ ] Update `math_overview.md` and verify site build (`npx quartz build`).
+
+
 

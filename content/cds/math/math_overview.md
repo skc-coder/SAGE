@@ -13,20 +13,21 @@ tags: [cds, elementary-mathematics, subject]
 - [[cds/math/notes/numbers|Number System]]
 - [[cds/math/notes/hcf_lcm|HCF and LCM]] ([[cds/math/notes/subtopics/hcf_lcm_cheatsheet|Key Theorems & Models Cheatsheet]])
 - [[cds/math/notes/polynomial_hcf_lcm|HCF and LCM of Polynomials]]
+- [[cds/math/notes/rational_expressions|Rational Expressions]] ([[cds/math/notes/subtopics/rational_simplification|Simplification]], [[cds/math/notes/subtopics/cyclic_rational_identities|Cyclic Identities]])
 - [[cds/math/notes/modular|Modular Arithmetic]] ([[cds/math/notes/subtopics/modular_cheatsheet|Key Theorems & Models Cheatsheet]])
 
 ## Variations
 
-- [[cds/math/notes/variations/var1|Topic Variations (14 Solved Cases)]]
+- [[cds/math/notes/variations/var1|Topic Variations (16 Solved Cases)]]
 
 ## Performance Overview
 
 ```mermaid
 xychart-beta
     title "Topic Accuracy"
-    x-axis ["Number System", "HCF and LCM", "Poly HCF/LCM", "Modular Arithmetic"]
+    x-axis ["Number System", "HCF and LCM", "Poly HCF/LCM", "Rational Exp", "Modular Arithmetic"]
     y-axis "Accuracy %" 0 --> 100
-    bar [100, 100, 100, 100]
+    bar [100, 100, 100, 100, 100]
 ```
 
 ```mermaid
