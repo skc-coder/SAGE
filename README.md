@@ -1,17 +1,39 @@
-# Quartz v5
+# SAGE — Smart Analysis & Generation for Exams
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+SAGE is an AI-powered system designed to analyze practice sessions, track question databases with fine-grained taxonomy, generate concept notes, ask novel variations, and render clean notes using **Obsidian** and **Quarto** / **Quartz**.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Setup & Installation
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+```bash
+git clone https://github.com/skc-coder/SAGE.git
+cd SAGE
+npm install
+```
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Running & Publishing the Site
 
-## Sponsors
+```bash
+# Start local Quartz / web development server
+npx quartz build --serve
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+# Or render with Quarto (if installed)
+quarto render content/
+```
+
+## Update & Run
+
+```bash
+git pull origin v5
+npx quartz build --serve
+```
+
+---
+
+## AI Skill Usage Guidelines
+
+The system uses the global AI skill `exam-analysis-master` (`~/.gemini/config/skills/exam-analysis-master/SKILL.md`).
+
+### Key Commands:
+- `/wrap`: Consolidates temporary session notes from `tmp/session_id/` into `notes/`, updating indices and `question_db.md` without rewriting text.
+- `/report [subject/topic]`: Displays user accuracy, mistake patterns, and weak areas.
+- `/analyze [subject/topic/exam]`: Displays exam focus areas, high-frequency question types, and preparation recommendations.
