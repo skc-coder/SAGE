@@ -1,26 +1,18 @@
-# Registered Exams & Target Subjects
-
-This master registry tracks the exams you are preparing for and their active subjects.
+# Exams Config
 
 ## Active Exams
 
-### 1. GATE CS (Computer Science & Information Technology)
-- **Status**: Active
+### GATE CS
+- [[content/gate-cs/index|GATE CS Dashboard]]
 - **Subjects**:
-  - `algorithms`: Data Structures & Algorithms
-  - `theory-of-computation`: Automata & Formal Languages
-  - `computer-networks`: Networking & Protocols
-  - `operating-systems`: Process Management, Memory & Storage
-  - `dbms`: Relational Databases & SQL
+  - `algorithms`: [[content/gate-cs/algorithms/index|Algorithms]]
+  - `theory-of-computation`: Theory of Computation
+  - `computer-networks`: Computer Networks
+  - `operating-systems`: Operating Systems
+  - `dbms`: DBMS
 
-### 2. CDS (Combined Defence Services)
-- **Status**: Active
+### CDS
 - **Subjects**:
-  - `elementary-mathematics`: Algebra, Trigonometry, Geometry, Mensuration
-  - `general-knowledge`: Physics, Chemistry, Indian Polity, History
-  - `english`: Comprehension, Vocabulary, Grammar
-
----
-
-> [!TIP]
-> You can add new exams or subjects at any time during practice sessions. The AI will automatically initialize the corresponding folder hierarchy under `content/[exam]/[subject]/`.
+  - `elementary-mathematics`: Elementary Mathematics
+  - `general-knowledge`: General Knowledge
+  - `english`: English

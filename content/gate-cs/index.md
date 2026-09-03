@@ -1,19 +1,19 @@
-# GATE CS — Exam Master Dashboard
+# GATE CS
 
-## Exam-Level Performance Overview
+## Performance
 
-### 1. Subject-Wise Accuracy % (Exam Level)
+### Subject Accuracy %
 ```mermaid
 xychart-beta
-    title "Subject-Wise Accuracy % (GATE CS)"
+    title "Subject Accuracy %"
     x-axis ["Algorithms", "TOC", "Networks", "Operating Systems", "DBMS"]
     y-axis "Accuracy %" 0 --> 100
     bar [50, 85, 40, 70, 90]
 ```
 
-### 2. Subject Mistake Breakdown
+### Mistake Categories
 ```mermaid
-pie title Exam Mistake Categories across Subjects
+pie title Mistake Categories
     "Calculation Error" : 12
     "Conceptual Gap" : 18
     "Overlooked Edge Case" : 8
@@ -22,14 +22,14 @@ pie title Exam Mistake Categories across Subjects
 
 ---
 
-## Active Subjects & Index Hubs
-- [[content/gate-cs/algorithms/index|Algorithms]] *(1/2 Accuracy | 50%)*
-- [[content/gate-cs/theory-of-computation/index|Theory of Computation]] *(No sessions logged yet)*
-- [[content/gate-cs/computer-networks/index|Computer Networks]] *(No sessions logged yet)*
-- [[content/gate-cs/operating-systems/index|Operating Systems]] *(No sessions logged yet)*
-- [[content/gate-cs/dbms/index|DBMS]] *(No sessions logged yet)*
+## Subjects
+- [[content/gate-cs/algorithms/index|Algorithms]]
+- [[content/gate-cs/theory-of-computation/index|Theory of Computation]]
+- [[content/gate-cs/computer-networks/index|Computer Networks]]
+- [[content/gate-cs/operating-systems/index|Operating Systems]]
+- [[content/gate-cs/dbms/index|DBMS]]
 
 ---
 
-## Exam Navigation
-- [[content/exams_config|Master Exams Registry]]
+## Navigation
+- [[content/exams_config|Exams Config]]

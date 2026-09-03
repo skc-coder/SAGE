@@ -29,16 +29,19 @@ content/
 
 ---
 
-## 2. Formatting Standards
-
-1. **Short & Crisp Titles**: Always use short 2-4 word titles:
-   - Topic Note: `# Counting MSTs`
-   - Question Note: `# GATE 2021 Q34`
-   - Variations Note: `# Counting MSTs Variations`
-2. **Clean Bullet Links (No Icons / No Code Ticks)**:
+### Formatting Standards (KISS Principle)
+1. **Crisp, Minimalist Titles (No Em-Dashes / No Fluff)**:
+   - STRICTLY FORBID em-dashes (`—`), buzzwords (`Master Dashboard`, `Executive Hub`, `Overview`), and bloated title headers.
+   - Apply KISS (Keep It Simple, Stupid):
+     - Exam Index: `# GATE CS`
+     - Subject Index: `# Algorithms`
+     - Topic Note: `# Counting MSTs`
+     - Question Note: `# GATE 2021 Q34`
+     - Variations Note: `# Counting MSTs Variations`
+2. **Clean Wikilinks (Descriptive Labels, No `/index` Raw Paths)**:
+   - Always display clean topic/subject names for wikilinks: `[[content/gate-cs/algorithms/index|Algorithms]]`.
+   - Never display raw `/index` or `/question_db` in link text.
    - Do NOT place `❌` or `✅` icons next to topics on index pages.
-   - Do NOT wrap status inside inline code ticks (`` `[Status: ❌]` ``).
-   - Use clean, direct wikilinks: `[[content/gate-cs/algorithms/notes/counting_msts_formulaic|Counting MSTs]]`.
 3. **Collapsible Solutions (`> [!faq]- View Solution`)**:
    - ALWAYS use native Obsidian Callout foldables for collapsible solutions/hints.
 4. **Centered Display Math**: Use `$$ ... $$` separated by blank lines for math formulas.
