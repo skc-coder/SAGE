@@ -78,6 +78,13 @@ content/
 
 ---
 
+### Crisp & Adult Mathematical Intuition Mandate (STRICT)
+
+- **NO CHILDLIKE ANALOGIES OR ELI5 SLOP**: Strictly forbid childish analogies (e.g., "sweets in boxes", "pizza slices", "friends sharing toys", "counting apples").
+- **PURE MATHEMATICAL & CONGRUENCE INTUITION ONLY**: Provide crisp, high-density mathematical intuition focused on structure, modulo congruence algebraic forms, divisibility properties, bounds, linear algebra, or prime factorizations!
+  - *Example (Good)*: $N + p \equiv 0 \pmod x \implies N + p \text{ is a common multiple of } x, y, z \implies N = \operatorname{LCM}(x,y,z) - p$.
+  - *Example (Bad)*: "Imagine you are packing sweets into boxes and missing 17 sweets..."
+
 ### Formatting & Title Standards (KISS Principle)
 
 1. **Crisp Minimalist Titles (STRICTLY NO Em-Dashes, Hyphens, or AI Fluff)**:
