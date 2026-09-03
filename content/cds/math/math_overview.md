@@ -12,13 +12,16 @@
 - [[content/cds/math/notes/set_theory|Ch 19. Set Theory]]
 - [[content/cds/math/notes/trigonometry|Ch 20. Measurements of Angles and Trigonometric Ratios]]
 - [[content/cds/math/notes/heights|Ch 21. Height and Distance]]
+- [[content/cds/math/notes/heights_distances|Ch 22. Heights and Distances]]
 - [[content/cds/math/notes/triangles|Ch 23. Triangles]]
 
 ## Variations
 
 - [[content/cds/math/notes/variations/vars|Set Theory & General Variations]]
 - [[content/cds/math/notes/variations/var19|Trigonometry Variations]]
-- [[content/cds/math/notes/variations/heights_variations|Heights & Distances Variations]]
+- [[content/cds/math/notes/variations/var20|Generalised Multi-Point Complementary Elevation]]
+- [[content/cds/math/notes/variations/var21|Elliptic Cloud Reflection in Spherical Lake]]
+- [[content/cds/math/notes/variations/var22|Moving Aircraft Angular Acceleration & Speed]]
 - [[content/cds/math/notes/variations/var17|Ch 23 Variations (Median, Thales, Apollonius)]]
 
 
@@ -27,16 +30,16 @@
 ```mermaid
 xychart-beta
     title "Chapter Accuracy"
-    x-axis ["Ch 1", "Ch 3", "Ch 15", "Ch 17", "Ch 18", "Ch 19", "Ch 20", "Ch 21"]
+    x-axis ["Ch 1", "Ch 3", "Ch 15", "Ch 16", "Ch 17", "Ch 18", "Ch 19", "Ch 20", "Ch 22"]
     y-axis "Accuracy %" 0 --> 100
-    bar [100, 100, 100, 100, 100, 100, 100, 100]
+    bar [100, 100, 100, 100, 100, 100, 100, 100, 100]
 ```
 
 ```mermaid
 pie title Heights & Distances Difficulty
-    "Elevation & Depression (Easy)" : 30
-    "Two-Point Shift (Medium)" : 45
-    "Flagstaff & Elevated (Hard)" : 25
+    "Elevation & Depression (Easy)" : 25
+    "Complementary Heights (Medium)" : 35
+    "3D Road & Spherical (Hard)" : 40
 ```
 
 ---
