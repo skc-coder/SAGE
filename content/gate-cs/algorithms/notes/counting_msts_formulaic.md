@@ -32,12 +32,16 @@ For a connected graph $G = (V, E)$ where vertices are indexed $1 \dots n$ and ed
 2. Contracting lower-weight edges first reveals that cycle edges with identical sum $i+j$ allow mutually exclusive selections.
 
 #### Tier 1: Direct Question Variations (GATE '21 Q34)
-> **Variation 1.1 (Edge Choice on Cycle)**: Suppose graph $G$ has vertices $\{1, 2, 3, 4\}$ with edges $e_1=(1,2), e_2=(2,3), e_3=(3,4), e_4=(4,1), e_5=(1,3)$ with weights $w(e_1)=3, w(e_2)=5, w(e_3)=5, w(e_4)=5, w(e_5)=2$. How many distinct MSTs can be formed?
+> **Variation 1.1 (Edge Choice on Cycle)**: Suppose graph $G$ has vertices $\{1, 2, 3, 4\}$ with edges $e_1=(1,2), e_2=(2,3), e_3=(3,4), e_4=(4,1), e_5=(1,3)$ with the following edge weights:
+> $$
+> w(e_1)=3, \quad w(e_2)=5, \quad w(e_3)=5, \quad w(e_4)=5, \quad w(e_5)=2
+> $$
+> How many distinct MSTs can be formed?
 
 <details>
 <summary>Click to view Solution</summary>
 
-Edge $e_5$ (weight 2) and $e_1$ (weight 3) are strictly chosen first. The remaining vertices require connecting via edges of weight 5, yielding 3 valid MST combinations.
+Edge $e_5$ (weight $2$) and $e_1$ (weight $3$) are strictly chosen first. The remaining vertices require connecting via edges of weight $5$, yielding $3$ valid MST combinations.
 </details>
 
 ---
