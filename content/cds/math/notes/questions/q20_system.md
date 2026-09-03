@@ -16,11 +16,9 @@ $$\frac{x^2}{a+x^2} + \frac{y^2}{b+y^2} + \frac{z^2}{c+z^2}$$
 ## Method & Solution
 
 1. Rewrite the system of equations:
-   $$\begin{cases}
-   by^2 + cz^2 = a \quad \implies \text{Add } ax^2 \text{ to both sides:} \quad ax^2 + by^2 + cz^2 = a + ax^2 = a(1+x^2) \\
-   ax^2 + cz^2 = b \quad \implies \text{Add } by^2 \text{ to both sides:} \quad ax^2 + by^2 + cz^2 = b(1+y^2) \\
-   ax^2 + by^2 = c \quad \implies \text{Add } cz^2 \text{ to both sides:} \quad ax^2 + by^2 + cz^2 = c(1+z^2)
-   \end{cases}$$
+   * $by^2 + cz^2 = a \implies \text{Add } ax^2 \text{ to both sides:} \quad ax^2 + by^2 + cz^2 = a + ax^2 = a(1+x^2)$
+   * $ax^2 + cz^2 = b \implies \text{Add } by^2 \text{ to both sides:} \quad ax^2 + by^2 + cz^2 = b(1+y^2)$
+   * $ax^2 + by^2 = c \implies \text{Add } cz^2 \text{ to both sides:} \quad ax^2 + by^2 + cz^2 = c(1+z^2)$
 
 2. Let $S = ax^2 + by^2 + cz^2$. Then:
    $$1+x^2 = \frac{S}{a} \implies \frac{x^2}{1+x^2} = 1 - \frac{1}{1+x^2} = 1 - \frac{a}{S} = \frac{S-a}{S}$$
