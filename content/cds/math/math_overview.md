@@ -7,6 +7,7 @@
 - [[content/cds/math/notes/hcf_lcm|Ch 3. HCF and LCM of Numbers]]
 - [[content/cds/math/notes/modular|Ch 3. Modular Arithmetic & Remainders]]
 - [[content/cds/math/notes/roots|Ch 5. Square Roots and Cube Roots]]
+- [[content/cds/math/notes/time_distance|Ch 6. Time and Distance]]
 - [[content/cds/math/notes/work|Ch 7. Time and Work]]
 - [[content/cds/math/notes/percentage|Ch 8. Percentage]]
 - [[content/cds/math/notes/simple_interest|Ch 9. Simple Interest]]
@@ -31,6 +32,7 @@
 
 - [[content/cds/math/notes/variations/vars|Set Theory & General Variations]]
 - [[content/cds/math/notes/variations/var29|Ch 2 Sequence and Series Variations]]
+- [[content/cds/math/notes/variations/var32|Ch 6 Variations (Transitive Race Deficit, Boat Navigation Invariant)]]
 - [[content/cds/math/notes/variations/var24|Ch 7 Variations (Dynamic Fatigue, Staggered Wages, Torricelli Leak)]]
 - [[content/cds/math/notes/variations/var30|Ch 9 Simple Interest Variations]]
 - [[content/cds/math/notes/variations/var25|Ch 14 Variations (Symmetric Reciprocal High Power Sums)]]
