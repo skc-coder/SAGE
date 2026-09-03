@@ -30,10 +30,11 @@ content/
 
 ### Formatting Standards (KISS Principle)
 1. **Crisp, Minimalist Titles (No Em-Dashes / No Fluff)**:
-   - STRICTLY FORBID em-dashes (`—`), buzzwords (`Master Dashboard`, `Executive Hub`, `Overview`), and bloated title headers.
-   - Apply KISS (Keep It Simple, Stupid):
-     - Exam Index: `# GATE CS`
-     - Subject Index: `# Algorithms`
+   - STRICTLY FORBID em-dashes (`—`), dashes (`-`), buzzwords (`Master Dashboard`, `Executive Hub`, `Overview`), and bloated header titles.
+   - Headers MUST BE concise, raw names without extra text or AI fluff:
+     - Exam Index: `# CDS` (NOT `# CDS Overview` or `# CDS — Overview`)
+     - Subject Index: `# Elementary Mathematics` (NOT `# Elementary Mathematics Overview`)
+     - Question Database: `# Question Database` (NOT `# Question Database - Elementary Mathematics` or `# Question DB — Algorithms`)
      - Topic Note: `# Counting MSTs`
      - Question Note: `# GATE 2021 Q34`
      - Variations Note: `# Counting MSTs Variations`
