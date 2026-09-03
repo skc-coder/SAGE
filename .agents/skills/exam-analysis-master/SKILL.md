@@ -15,10 +15,10 @@ This skill empowers the AI to act as an exam coach and knowledge curator for com
 content/
 ├── exams_config.md                 # Master Exams Registry
 └── [exam]/                         # e.g., gate-cs/ or cds/
-    ├── gate_cs_overview.md         # Exam Overview Dashboard
+    ├── gate_cs_overview.md         # Exam Overview Dashboard (Subject-Level Accuracy & Exam Mistake Pie)
     └── [subject]/                  # e.g., algorithms/ or elementary-mathematics/
-        ├── algorithms_overview.md  # Subject / Chapter Overview Dashboard
-        ├── question_db.md          # Central Question Taxonomy Database (Dynamic Dataview Queries)
+        ├── algorithms_overview.md  # Subject Overview Dashboard (ALL Visual Analytics Graphs)
+        ├── question_db.md          # Central Question Taxonomy Database (PURE Dataview Tables ONLY - NO CHARTS)
         ├── test_sessions/          # Full Test Scorecards (YAML Frontmatter Properties)
         ├── practice_sessions/      # Book/Screenshot Practice Session Logs
         └── notes/                  # Core Topic & Subtopic Notes (Theorems, Intuition, Theory)
@@ -32,7 +32,7 @@ content/
 
 1. **Question Notes (`notes/questions/[question_slug].md`)**:
    - Contains: Exact question statement + Step-by-step mathematical explanation & derivation + Root cause analysis + Tier 1 question variations.
-   - Frontmatter metadata: `exam`, `subject`, `topic`, `subtopic`, `difficulty`, `status`, `mistake_category`.
+   - Frontmatter metadata: `exam`, `subject`, `topic`, `subtopic`, `difficulty` (`Easy` | `Medium` | `Hard` - specified manually by user), `status`, `mistake_category`.
 
 2. **Topic Notes (`notes/[topic_slug].md`)**:
    - Contains: Core theory, fundamental theorems, intuition, geometric/algebraic proofs, and formulaic properties.
@@ -41,18 +41,23 @@ content/
 3. **Variation Notes (`notes/variations/`)**:
    - Contains novel Tier 2 (Topic Level) and Tier 3 (Chapter Level) variations with collapsible solutions (`> [!faq]- View Solution`).
 
+4. **Question Database (`[subject]/question_db.md`)**:
+   - Resides strictly at the subject root (`content/[exam]/[subject]/question_db.md`).
+   - Contains **PURE dynamic Dataview query tables ONLY**.
+   - **STRICT MANDATE: ZERO CHARTS in `question_db.md`** (all visual analytics charts are housed strictly in `[subject]_overview.md` and `[exam]_overview.md`).
+
 ---
 
 ### Strict Hierarchical Linking Rules
 
-1. **Subject & Chapter Overview Dashboards**:
+1. **Subject Overview Dashboards (`[subject]_overview.md`)**:
    - Links ONLY to **Topic Pages** (`[[content/cds/elementary-mathematics/notes/trigonometry_identities|Heights and Distances]]`).
    - STRICTLY NO direct links to regular practice questions on subject/chapter overview pages!
    - MAY link directly to **Subject-wide & Chapter-wide Variations** under `## Chapter Variations`.
 
-2. **Topic Pages**:
-   - Links down to **Subtopic Section Headers** (`### Specialized Questions: Two-Point Angle`).
-   - Links directly to **Topic-level Variations** (`## Topic Variations`).
+2. **Topic Pages (`notes/[topic_slug].md`)**:
+   - Links down to **Subtopic Section Headers** (`### Subtopic 1: Two-Point Angle`).
+   - Links directly to **Topic-level Variations** under `## Variations`.
 
 3. **Subtopic Section Headers (Inside Topic Pages)**:
    - This is the **ONLY place** where direct links to individual regular practice question notes (e.g., `[[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q13|CDS 2024 Q13]]`) are stored!
@@ -103,32 +108,37 @@ content/
 
 ---
 
-### Graph Placement Rules Across Files
+## 2. Visual Analytics Graph Distribution Standard
 
-1. **Exam Overview (`[exam]_overview.md`)**:
-   - Subject-wise accuracy bar chart (`xychart-beta`)
-   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`)
-   - Exam-wide mistake category pie chart (`pie`)
+All visual analytics graphs MUST be placed **at the bottom of overview files** under `## Performance Overview` (below tables, theory, variation links, and topic links).
 
-2. **Subject Overview (`[subject]_overview.md`)**:
-   - Chapter-wise & Topic-wise accuracy bar charts (`xychart-beta`)
-   - Per-topic Subtopic Question Frequency & Difficulty pie charts (`pie`)
+### 1. Exam Overview (`[exam]_overview.md`)
+- **Subject-Wise Accuracy Bar Chart**: `xychart-beta` comparing overall subject accuracy.
+- **Exam-Wide Mistake Breakdown Pie Chart**: `pie` title `Exam Mistakes`.
 
-3. **Subject-Level Question Database (`[subject]/question_db.md`)**:
-   - Dynamic Question Log Dataview table
-   - Test Series Marks Trendline (`xychart-beta`)
-   - Subject Mistake Category Breakdown (`pie`)
+### 2. Subject Overview (`[subject]_overview.md`) — THE CENTRAL GRAPH HUB
+- **Test Series Score Trendline**: `xychart-beta` title `"Score Trend"` showing mock test score progression.
+- **Chapter-Wise Accuracy Bar Chart**: `xychart-beta` title `"Chapter Accuracy"`.
+- **Topic-Wise Accuracy Bar Chart**: `xychart-beta` title `"Topic Accuracy"`.
+- **Per-Topic Subtopic Difficulty Pie Charts**: `pie` charts with explicit `%%{init: {'themeVariables': ...}}%%` color shade palettes per parent topic.
+- **Subject Mistake Breakdown Pie Chart**: `pie` title `Mistake Breakdown`.
+
+### 3. Subject-Level Question Database (`[subject]/question_db.md`)
+- **ZERO CHARTS**: Contains PURE Dataview tables ONLY!
 
 ---
 
 ### Mermaid Title Length & Overflow Rules (STRICT MANDATE)
 
-- **Concise Titles Only (Max 3-4 Words)**: NEVER write long pie chart titles like `pie title Triangles Subtopics Question Frequency & Difficulty` because Obsidian/Mermaid clips and overflows long SVG title text on the left margin!
-- **Allowed Concise Titles**:
+- **Concise Titles Only (Max 2-3 Words)**: NEVER write long pie/bar chart titles like `pie title Triangles Subtopics Question Frequency & Difficulty` because Obsidian/Mermaid clips and overflows long SVG title text on the left margin!
+- **Mandatory Short Titles**:
   - `pie title Triangles Difficulty`
   - `pie title Circles Difficulty`
+  - `pie title Trig & Algebra Difficulty`
   - `pie title Mistake Breakdown`
+  - `xychart-beta title "Chapter Accuracy"`
   - `xychart-beta title "Topic Accuracy"`
+  - `xychart-beta title "Score Trend"`
 
 ---
 

@@ -10,7 +10,16 @@
 
 ## Performance Overview
 
-### 1. Accuracy Breakdown
+### 1. Test Series Score Trendline
+```mermaid
+xychart-beta
+    title "Score Trend"
+    x-axis ["Mock 01", "Mock 02"]
+    y-axis "Accuracy %" 0 --> 100
+    bar [66.67, 66.67]
+```
+
+### 2. Chapter-Wise & Topic-Wise Accuracy
 ```mermaid
 xychart-beta
     title "Chapter Accuracy"
@@ -27,7 +36,7 @@ xychart-beta
     bar [100, 75, 75, 50, 50]
 ```
 
-### 2. Subtopic Difficulty Distribution
+### 3. Subtopic Difficulty Distribution
 
 #### Triangles Subtopics
 ```mermaid
@@ -57,6 +66,14 @@ pie title Trig & Algebra Difficulty
     "Max & Min Values (Hard)" : 1
     "Discriminants (Hard)" : 1
     "Remainder Theorem (Easy)" : 1
+```
+
+### 4. Subject Mistake Breakdown
+```mermaid
+pie title Mistake Breakdown
+    "Conceptual Gap" : 3
+    "Calculation Error" : 2
+    "Formula Misapplication" : 1
 ```
 
 ## Navigation
