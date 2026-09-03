@@ -1,3 +1,12 @@
+---
+exam: "CDS"
+subject: "Elementary Mathematics"
+topic: "Trigonometry"
+subtopic: "Heights and Distances"
+difficulty: "Medium"
+tags: [cds, elementary-mathematics, trigonometry, subtopic]
+---
+
 # Two-Point Angle of Elevation
 
 ## Theory & Formulas

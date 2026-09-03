@@ -1,3 +1,11 @@
+---
+exam: "CDS"
+subject: "Elementary Mathematics"
+topic: "Trigonometry"
+difficulty: "Hard"
+tags: [cds, elementary-mathematics, trigonometry, topic]
+---
+
 # Heights and Distances
 
 ## Theory, Intuition & Formulas

@@ -81,23 +81,49 @@ content/
      - Question Note: `# CDS 2024 Q13`
      - Test Session: `# 2026-09-03 CDS Mock 01`
 
-2. **Obsidian Frontmatter Properties (MANDATORY)**:
-   - All test scorecards and question notes MUST store metadata in frontmatter YAML properties:
-   ```yaml
-   ---
-   exam: "CDS"
-   subject: "Elementary Mathematics"
-   topic: "Trigonometry"
-   subtopic: "Heights and Distances"
-   difficulty: "Medium" # Manually entered by user (Easy / Medium / Hard)
-   date: 2026-09-03
-   source_file: "cds_2024_math_mock1.pdf"
-   question_number: "Q13"
-   status: "Wrong"
-   mistake_category: "Formula Misapplication"
-   tags: [cds, elementary-mathematics, trigonometry]
-   ---
-   ```
+2. **Obsidian Frontmatter & Difficulty Properties (MANDATORY across ALL taxonomy levels)**:
+   - Topic, Subtopic, and Question notes MUST store metadata strictly in YAML frontmatter properties.
+   - **User-Defined Difficulty Property (`difficulty`)**: Every note level includes a `difficulty: "Easy" | "Medium" | "Hard"` property manually entered/edited by the user to rate difficulty!
+
+   - **Topic Note Frontmatter Example**:
+     ```yaml
+     ---
+     exam: "CDS"
+     subject: "Elementary Mathematics"
+     topic: "Trigonometry"
+     difficulty: "Hard" # User manual rating for entire topic
+     tags: [cds, elementary-mathematics, trigonometry, topic]
+     ---
+     ```
+
+   - **Subtopic Note Frontmatter Example**:
+     ```yaml
+     ---
+     exam: "CDS"
+     subject: "Elementary Mathematics"
+     topic: "Trigonometry"
+     subtopic: "Heights and Distances"
+     difficulty: "Medium" # User manual rating for subtopic
+     tags: [cds, elementary-mathematics, subtopic]
+     ---
+     ```
+
+   - **Question Note Frontmatter Example**:
+     ```yaml
+     ---
+     exam: "CDS"
+     subject: "Elementary Mathematics"
+     topic: "Trigonometry"
+     subtopic: "Heights and Distances"
+     difficulty: "Medium" # User manual rating for question
+     date: 2026-09-03
+     source_file: "cds_2024_math_mock1.pdf"
+     question_number: "Q13"
+     status: "Wrong"
+     mistake_category: "Formula Misapplication"
+     tags: [cds, elementary-mathematics, trigonometry, question]
+     ---
+     ```
 
 3. **Dynamic Obsidian Dataview Queries for Tables (MANDATORY)**:
    - `question_db.md` MUST use Obsidian `dataview` blocks:
