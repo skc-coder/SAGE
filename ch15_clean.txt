@@ -1,0 +1,759 @@
+=== PAGE 338 ===
+EXAMPLE 2. The HCF of p( ) ( )x x x x= − −24 6 24 3 2 and
+q( ) ( )x x x x= + +20 2 36 5 4 is
+a. 4 2 1( )x + b. x x2 2 1( ) + c. 4 2x d. None of these
+Sol. d. Here, P( ) ( )x x x x= − −24 6 24 3 2 = ⋅ ⋅ ⋅ − −2 3 6 23 2 2 x x x( )
+= ⋅ ⋅ ⋅ − + −2 3 6 4 3 23 2 2 x x x x( ) = ⋅ ⋅ + ⋅ −2 3 2 1 3 23 2 x x x( ) ( )
+and q( ) ( )x x x x= + +20 2 36 5 4 = ⋅ ⋅ + +2 5 2 3 12 4 2 x x x( )
+= ⋅ ⋅ ⋅ + + +2 5 2 2 12 4 2 x x x x( ) = + +2 5 2 1 12 4. . ( )( )x x x
+HCF of numerical factor = =2 42 , Highest degree common
+factor = +x x2 2 1( )
+∴ Required HCF = +4 2 12x x( )
+HCF by Division Method
+To find the HCF of polynomials which cannot be
+factorised easily, we use successive division method.
+Step I Arrange the given polynomials in descending order
+of powers of its variables.
+Step II If any common factor is present in the terms of
+each polynomial, it should be taken out.
+Step III Divide the polynomial of highest degree by the
+polynomial of lowest degree.
+or If both the polynomials are of the same degree then
+any one of them can be taken as divisor or dividend.
+Step IV After the first division take the remainder as the
+new divisor and first divisor as new dividend.
+Step V Continue this process of dividing the last divisor
+by the last remainder until the remainder becomes
+zero.
+Step VI The product of common factors obtained from step
+II and last divisor is the HCF of given polynomials.
+Note
+G If the first term of a remainder is negative at any stage, the
+sign of all of its term must be changed.
+G If at any stage, the remainder contains common factor it
+should be taken out.
+EXAMPLE 3. The HCF of 22 78 166 5 2x x x− − and
+2 78 445 2x x x− − is
+a. ( )x x2 3 2− − b. 2 3 22x x x( ) − −
+c. 22 3 22x x x( ) − − d. None of these
+Sol. b. Let p x( ) ( )= − − = − −22 78 16 2 11 39 86 5 2 2 4 3x x x x x x
+q x( ) ( )= − − = − −2 78 44 2 39 225 2 4x x x x x x
+Let us divide ( )11 39 84 3x x− − by ( )x x4 39 22− −
+x x4 39 22− − ) 11 39 84 3x x− − (11
+11 242 4294x x− −
+– + +
+− + +39 429 2343x x
+−39 is taken out as common factor from remainder.
+x x3 11 6− − ) x x4 39 22− − (x
+x x x4 2 11 6− −
+– + +
+11 33 222x x− −
+Again 11 is taken out as common factor from remainder
+x x2 3 2− − ) x x3 11 6− − (x + 3
+x x x3 2 3 2− −
+– + +
+3 9 62x x− −
+3 9 62x x− −
+− + +
+×
+∴ HCF of 11 39 84 3x x− −
+and x x4 39 22− − is x x2 3 2− − .
+Also, HCF of 2 2x and 2x is 2x.
+∴ Required HCF = − −2 3 22x x x( )
+LCM of Polynomials
+A polynomial h x( ) is called the LCM of two or more
+polynomials, if it is a polynomial of smallest degree
+which is divided by each one of the given polynomials
+without leaving any remainder.
+EXAMPLE 4. The LCM of 12 2 3 2x y z and
+18 4 2 3x y z is
+a. x4 3 3y z
+b. 9 2 2 3x y z
+c. 36 3 3 4x y z
+d. 36 4 3 3x y z
+Sol. d. Here, 12 2 32 3 2 2 1 2 3 2x xy z y z= × × × ×
+18 2 34 2 3 1 2 4 2 3x xy z y z= × × × ×
+∴ Required LCM = × × × ×2 32 2 4 3 3 x y z
+= 36 4 3 3x y z
+LCM by Factorisation Method
+Following are the steps for calculating LCM through
+factorisation method
+Step I Resolve the given polynomials in the
+complete factored form
+Step II Find the LCM of the numerical factors
+(if any) of given polynomials
+Step III The required LCM is the product of LCM
+of numerical factors and each factor raised to
+the highest power.
+133MATHEMATICS HCF and LCM of Polynomials
+
+=== PAGE 339 ===
+EXAMPLE 5. The LCM of x x x3 2 2 2− − + and
+x x x3 2 4 4− − + is
+a. ( )( )x x2 2 1 4− − b. ( )( )x x2 2 2 4+ −
+c. ( )( )x x2 2 1 2+ + d. None of these
+Sol. a. Here, x x x x x x3 2 2 2 2 2 1 2− − + = − − − ( ) ( )
+⇒ ( )( )x x− −2 1 2 = − − +( )( )( )x x x2 1 1
+= − + −( )( )( )x x x1 1 2
+and x x x x x x3 2 2 4 4 1 4 1− − + = − − − ( ) ( )
+⇒ ( )( )x x− −1 4 2 = − − +( )( )( )x x x1 2 2
+∴ Required LCM = − + − +( )( )( )( )x x x x1 1 2 2
+= − −( )( )x x2 2 21 2
+[/c81( )( )a b a b a b− + = − 2 2 ]
+= − −( )( )x x2 2 1 4
+For any two polynomials p( )x and q( )x
+p q( ) ( )x x× = (Their HCF) × (Their LCM)
+i.e. Product of two polynomials
+= Product of their HCF and LCM
+EXAMPLE 6. The HCF of two polynomials is x + 3
+and their LCM is x x3 7 6− + . If one of the polynomials
+is x x2 2 3+ − . Then, the other is
+a. x x2 6− − b. x x2 6− +
+c. x x2 6+ + d. None of these
+Sol. d. Here, HCF = +x 3 and LCM = − +x x3 7 6
+Also, one polynomial = + −x x2 2 3
+As, LCM × HCF = Product of two polynomials
+Other polynomial LCM HCF
+One polynomial= ×
+= + × − +
++ −
+( ) ( )x x x
+x x
+3 7 6
+2 3
+3
+2
+= + − +
++ −
+( )( )
+( )( )
+x x x
+x x
+3 7 6
+3 1
+3
+= + − + −
++ −
+( )( )( )
+( )( )
+x x x x
+x x
+3 1 6
+3 1
+2
+= + −x x2 6
+So, other polynomial is x x2 6+ − .
+1. The LCM of ( )( )x x− −1 2 and x x x2 2 3( )( )− + is
+(a) ( )x − 1 (b) ( )( )( )x x x− − +1 2 3
+(c) x x x x2 1 2 3( )( )( )− − + (d) None of these
+2. The LCM of 2 2 2( ),a b− 3 3 3( ),a b− 4 4 4( )a b− is
+(a) 6 2 2( )( )( )a b a b a b− + + (b) 12 4 4 2 2( )( )a b a ab b− + +
+(c) a b3 3− (d) 12 4 4( )a b−
+3. The HCF of two expressions a band is 1. Their
+LCM is
+(a) ( )a b+ (b) a b− (c) ab (d)
+1
+ab
+4. The LCM of the polynomials
+( ) ( )( )x x x+ − +3 2 12 2 ; ( ) ( )( )x x x+ + +1 3 43 is
+(a) ( )( ) ( ) ( )x x x x− + + +2 1 3 4 3 2
+(b) ( )( ) ( )( )x x x x− + + +2 1 3 4 3
+(c) ( )( )( )x x x− + +2 3 4
+(d) ( ) ( )( ) ( )x x x x− + + +2 1 3 42 2
+5. HCF of 4 94 2 3y x y x− and 4 62 2 3y x yx+ is
+(a) y y2 2 3x x( ) + (b) y yx x( )3 2+
+(c) yx x2 3( ) + (d) None of these
+6. What is the HCF of ( )x x4 2 6− − and ( )x x4 2 4 3− + ?
+(a) x2 3− (b) x + 2 (c) x + 3 (d) x2 3+
+7. The HCF of the polynomial A Band where
+A x x x= + − +( ) ( )( )3 2 12 2
+and B x x x= + + +( ) ( )( )1 3 42 is given by
+(a) ( ) ( )x x+ +1 32 (b) ( )( )x x+ +1 3 2
+(c) ( )( )x x+ +1 3 (d) ( ) ( )x x+ +3 12 2
+8. The HCF of 22 1 2x x( ) + and 36 2 3 12 2x x x( ) + + is
+(a) 2 1x x( ) + (b) x x( ) + 1 (c) 2 1( )x + (d) 2 1 2( )x +
+9. The LCM of a b c bc2 2 2 2− − − ,
+b c a ac c a b ab2 2 2 2 2 2 2 2− − − − − − and is
+(a) ( )a b c+ +
+(b) ( ) ( )a b c a b c− − + +
+(c) ( ) ( )a b c c a b+ + − −
+(d) ( ) ( ) ( ) ( )a b c a b c b c a c a b+ + − − − − − −
+10. LCM of [( ) ( )]x x+ −3 2 2 and [( ) ( )]x x− −2 6 is
+(a) ( ) ( ) ( )x x x+ − −3 2 6 3 (b) ( ) ( ) ( )x x x+ − −3 2 6 2
+(c) ( ) ( ) ( )x x x+ − −3 2 6 (d) ( ) ( )x x+ −3 6
+134 CDS Pathfinder
+PRACTICE EXERCISE
+
+=== PAGE 340 ===
+11. If ( )z − 1 is the HCF of ( )z 2 1− and pz q z2 1− + ( ) ,
+then
+(a) 2 p q= (b) p q= 2 (c) 3 2p q= (d) 3 2p p=
+12. The HCF of two expressions is 3 4 4
+2x x+ − and
+their LCM is 3 4 7 4 44 3 2x x x x+ − − + . The
+expressions are
+(a) ( )( )x x x− + −1 3 4 42 and ( )3 4 42x x+ −
+(b) ( )( )x x x+ + −1 3 4 42 and ( )( )x x x+ + −2 3 4 42
+(c) ( )( )x x x+ + +2 3 4 42 and ( )x − 1
+(d) ( )( )x x x+ + −1 3 4 42 and ( )( )x x x− + −1 3 4 42
+13. The LCM and HCF of two polynomials p x( ) and
+q x( ) are 36
+2 3 3x x a x a( )( )+ − and x x a2( ) − ,
+respectively. If p x x x a( ) ( )( )= −4 2 2 2 , then q x( )
+(a) 4 3 3 3x x( ) − a (b) 12 3 2 2x x( ) − a
+(c) 9 3 3 3x x( ) − a (d) 36 3 3 3x x( ) − a
+14. The LCM of two polynomials p x( ) and q x( ) is
+x x3 7 6− + . If p x x x( ) = + −2 2 3 and
+q x x x( ) , = + −2 6 then the HCF is
+(a) ( )x + 3 (b) ( )x − 3
+(c) ( )( )x x+ −3 2 (d) ( )x − 1
+15. If ( )x k+ is the HCF of ( )x ax b2 + + and
+( )x px q2 + + , then the value of k is
+(a) b q
+a p
++
++
+
+
+
+ (b)
+b q
+a p
+−
+−
+
+
+
+ (c)
+a b
+p q
++
++
+
+
+
+ (d)
+a b
+p q
+−
+−
+
+
+
+
+16. What is the value of k for which the HCF of
+2 12
+2x kx+ − and x x k2 2 2+ − − is ( )x + 4 ?
+(a) 5 (b) 7 (c) 10 (d) − 4
+17. If the HCF of ( )x x2 12+ − and ( )2 92x kx− − is
+( )x k− , then what is the value of k?
+(a) − 3 (b) 3 (c) − 4 (d) 4
+18. If GCD of the polynomials ( )x x px3 2 2 6− + + and
+( )x x q2 5− + is ( )x − 3 . Then, the value of 5 6q p+ is
+(a) −1 (b) 1
+(c) 0 (d) None of these
+19. The sum and the difference of two expressions is
+5 42x x− − and x x2 9 10+ − respectively, then
+their LCM would be equal to
+(a) ( )x − 1 (b) ( )( )2 3 3 7x x+ +
+(c) ( )( )2 3 3 7x x− + (d) ( )( )( )x x x− − +1 2 3 3 7
+20. Find the values of a band so that the polynomials
+p x( ) and q x( ) have ( )( )x x+ +1 3 as their HCF
+p x x x x x a( ) ( )( )= + + + +
+2 2 3 2 2
+and q x x x x x b( ) ( )( )= + + + +2 2 7 12 7
+(a) −3 6 , (b) 3 6 ,−
+(c) 6 3 ,− (d) None of these
+21. If f( )x and g( )x are two polynomials with integral
+coefficients which vanish at x = 1 2 /, then what is
+the factor of HCF of f( )x and g( )x ?
+(a) x − 1 (b) x − 2 (c) 2 1x − (d) 2 1x +
+22. The HCF of two polynomials p( )x and q( )x is
+2 2x x( ) + and LCM is 24 2 2x x( ) + ( )x − 2 . If
+p( )x x x x= + +8 32 323 2 , then what is q ( )x equal to?
+(a) 4 163x x− (b) 6 243x x− (c) 12 243x x+ (d) 12 243x x−
+23. If ( )x − 2 is the HCF of ( )ax bx c2 + + and
+( )bx ax c2 + + , then value of c is
+(a) 2 ( )a b+ (b) ( )a b+ (c) − +3 ( )a b (d) − +( )a b
+24. We have three polynomials A p p= + +8 12 2 ,
+B p p= + −2 2 24 and C p p= + +2 15 54
+I. Their LCM is ( )p + 6 ( ) p − 4 (p + 2) ( )p + 9
+II. Their HCF is ( )( )p p+ −6 2
+Then, which of the following codes is/are correct
+(a) Only I (b) Only II
+(c) Neither I nor II (d) Both I and II
+25. Which of the following statements are true?
+I. HCF of x x2 6 9− + and x3 27− is ( )x − 3 .
+II. LCM of 10 2x yz , 15 20 2 2xyz xy z, is 120 2 2 2x y z .
+III. HCF of ( )6 7 32x x− − and ( )2 11 212x x+ − is
+( )2 3x − .
+Select the correct answer using the codes given below
+(a) I and III (b) I, II and III
+(c) II and III (d) None of these
+26. Consider the following statements :
+I. The HCF of x + y and x10 10− y is x + y.
+II. The HCF of x + y and x10 10+ y is x + y.
+III. The HCF of x − y and x10 10+ y is x − y.
+IV. The HCF of x − y and x10 10− y is x − y.
+Which of the statement(s) given above is/are
+correct?
+(a) I and II (b) II and III (c) I and IV (d) II and IV
+Directions (Q. Nos. 27-29) A student wrote five
+polynomials such as A pq np= − , B pq mq= − ,
+C q nq n= − +2 2 3 2 , D pq pn mq mn= − − + 2 2 ,
+E pq np mq mn= − − + . Now, he divide the
+polynomials into groups and calculate the HCF and
+LCM.
+27. Calculate the HCF of A, C and E
+(a) ( )q n− 2 (b) ( )p n− (c) ( )q n− (d) ( )( )q n q n− − 2
+28. Calculate the LCM of D and E
+(a) ( )( )p m q n− − 2 (b) ( )( )( )p m q n q n− − − 2
+(c) ( )( )( )q n q n m p− − − 2 (d) ( )( )q n p m− −
+29. The HCF of all five polynomials together is
+(a) ( )q n− (b) ( )q n− 2 (c) 1 (d) ( )p m−
+135MATHEMATICS HCF and LCM of Polynomials
+
+=== PAGE 341 ===
+PREVIOUS YEARS’ QUESTIONS
+30. What is the LCM of a b ab3 3 − , a b a b3 2 2 3+ and
+ab a b( ) + ? e 2012 I
+(a) a b a b2 2 2 2( ) − (b) ab a b( )2 2−
+(c) a b ab2 2 3 + (d) a b a b3 3 2 2( ) −
+31. What is the HCF of 36 3 5 24 3 2( )x x x+ − ,
+9 6 4 23 2( )x x x+ − and 54 27 4( ) x x− ? e 2012 I
+(a) 9 1x x( ) + (b) 9 3 1x x( ) − (c) 18 3 1x x( ) − (d) 18 1x x( ) +
+32. What is the HCF of the polynomials
+x x x3 2 8 5 6+ + +, and x x x3 2 2 4 8+ + + ? e 2013 II
+(a) x + 2 (b) x + 3 (c) ( )x + 2 2 (d) None of these
+33. The LCM of ( )x x x3 2 2− − and ( )x x3 2+ is e 2013 II
+(a) x x x3 2 2− − (b) x x2 + (c) x x x4 3 2 2− − (d) x − 2
+34. The HCF of ( )x4 4− y and ( )x6 6− y is e 2013 II
+(a) x 2 2− y (b) x − y (c) x 3 3− y (d) x4 4− y
+35. What is the LCM of x x x x x2 3 2 2 8 4 4+ − − + , and
+x x2 4+ ? e 2013 II
+(a) x x x( )( )+ −4 2 2 (b) x x x( )( )+ −4 2
+(c) x x x( )( )+ +4 2 2 (d) x x x( ) ( )+ −4 22
+36. What is the HCF of a b a b2 4 2 2 2+ and ( )ab a b7 2 94− ?
+e 2013 II
+(a) ab (b) a b2 3 (c) a b2 2 (d) a b3 2
+37. What is the HCF of 8 5 3( )x x x− + and 28 1 6( )x + ?
+(a) 4 1 4 2( )x x− + (b) 2 1 4 2( )x x− + e 2014 I
+(c) ( )x x4 2 1− + (d) None of these
+38. What is the highest common factor of
+2 2
+3 2x x x+ − − and 3 2 23 2x x x− + − ? e 2014 II
+(a) x − 1 (b) x + 1 (c) 2 1x + (d) 2 1x −
+39. The HCF and LCM of two polynomials are ( )x y+
+and ( )3 5 2 3 5 25 4 3 2 2 3 4 5x x y x y x y xy y+ + − − − ,
+respectively. If one of the polynomials is ( ),x y2 2−
+then the other polynomial is e 2015 I
+(a) 3 8 10 7 24 3 2 2 3 4x x x x− + + −y y y y
+(b) 3 8 10 7 24 3 2 2 3 4x x x x− − + +y y y y
+(c) 3 8 10 7 24 3 2 2 3 4x x x x+ + + +y y y y
+(d) 3 8 10 7 24 3 2 2 3 4x x x x+ − + +y y y y
+40. If ( )x + 1 is the HCF of Ax Bx C2 + + and
+Bx Ax C2 + + where A B≠ , then the value of C is
+e 2015 II
+(a) A (b) B (c) A B− (d) 0
+41. The sum and difference of two expressions are
+5 4
+2x x− − and x x2 9 10+ − respectively. The HCF
+of the two expressions will be e 2016 I
+(a) x + 1 (b) ( )x − 1 (c) ( )3 7x + (d) ( )2 3x −
+136 CDS Pathfinder
+ANSWERS
+1 c 2 b 3 c 4 a 5 b 6 a 7 a 8 a 9 d 10 b
+11 b 12 d 13 c 14 a 15 b 16 a 17 b 18 c 19 d 20 a
+21 c 22 b 23 c 24 a 25 a 26 c 27 c 28 b 29 c 30 a
+31 c 32 a 33 c 34 a 35 a 36 c 37 a 38 a 39 c 40 d
+41 b
+HINTS AND SOLUTIONS/CharA0 
+1. (c) LCM = product of the largest power
+of each factor
+= − − +x x x x2 1 2 3( )( )( )
+2.(b) Here, 2 2 2 2( ) ( ) ( )a b a b a b− = + −
+3 3 3 3 2 2( ) ( ) ( )a b a b a ab b− = − + +
+and 4 4 4 4( ) ( ) ( )a b a b a b− = + −
+( )a b2 2+
+LCM of numerical coefficients = 12
+and LCM of algebraic expressions
+= − + +( )( )( )a b a b a b 2 2
+( )a ab b2 2+ +
+= − + +( )( )a b a ab b4 4 2 2
+∴ LCM of polynomials
+= − + +12 4 4 2 2( )( )a b a ab b
+3. (c) LCM = Product of expressions
+HCF
+= × =a b ab
+1
+4. (a) Given, ( ) ( )( )x x x+ − +3 2 12 2
+and ( ) ( )( )x x x+ + +1 3 43
+LCM
+= − + + +( )( ) ( ) ( )x x x x2 1 3 4 3 2
+5. (b) 4 9 4 94 2 3 2 2 2y y y yx x x x− = − ( )
+= − +y y y2 2 3 2 3x x x( )( )
+4 6 2 2 32 2 3 2y y y yx x x x+ = + ( )
+∴ Required HCF = +x xy y( )2 3
+6. (a) Let p x x x( ) = − −4 2 6
+= − + −x x x4 2 23 2 6
+= − + −x x x2 2 2 3 2 3( ) ( )
+= + −( )( )x x2 2 2 3
+q x x x( ) = − +4 2 4 3
+= − − +x x x4 2 23 3
+= − − −x x x2 2 2 3 1 3( ) ( )
+= − −( )( )x x2 2 3 1
+HCF of p x( ) , q x x( ) = − 2 3
+7. (a) A = + − +( ) ( )( )x x x3 2 12 2 and
+B = + + +( ) ( )( )x x x1 3 42
+∴ HCF of polynomials
+= + +( )( )x x 3 1 2
+
+=== PAGE 342 ===
+8. (a) Here, HCF of 22 and 36 is 2.
+Now, x x x x x( ) ( ) ( )+ = + +1 1 12
+x x x x x x2 2 22 3 1 2 1 1( ) ( ) ( )+ + = + +
+Common factors of x x( ) + 1 2
+and x x x2 22 3 1( ) + + are x x( ) + 1 .
+Hence, required HCF = +2 1x x( )
+9. (d) a b c bc a b c bc2 2 2 2 2 2 2 2− − − = − + + ( )
+= − + = + + − −a b c a b c a b c2 2 ( ) ( ) ( )
+b c a ac2 2 2 2− − − = − + + b c a ac2 2 2 2( )
+= − +b c a2 2 ( )
+= − − + +( ) ( )b c a b c a
+= + + − −( ) ( )a b c b c a
+and c a b ab2 2 2 2− − −
+= − + +c a b ab2 2 2 2( ) = − +c a b2 2 ( )
+= − − + +( ) ( )c a b c a b
+= + + − −( ) ( )a b c c a b
+∴ Required LCM
+= + + − −( ) ( )a b c a b c
+( ) ( )b c a c a b− − − −
+10. (b) Given, [( ) ( ) ]x x+ −3 2 2
+and [( ) ( )]x x− −2 6
+∴ LCM = + − −( ) ( ) ( )x x x3 2 6 2
+11. (b) Since, ( )z − 1 is the HCF, so it will
+divide each one of the given polynomials.
+So, z = 1 will make each one zero.
+∴ p q( ) ( )1 1 1 02 − + = ⇒ p q= 2
+12. (d) Let p x( ) and q x( ) be two polynomials
+and p x a( ) ÷ HCF =
+and q x b( ) ÷ =HCF
+∴ p x q x( ) ( )× = × LCM HCF
+⇒ a b× × ×HCF HCF = ×LCM HCF
+⇒ a b HCF LCM× × =
+ab = LCM
+HCF
+= + − − +
++ −
+3 4 7 4 4
+3 4 4
+4 3 2
+2
+x x x x
+x x
+= + −( )( )x x 1 1
+Let a = +( )x 1 and b = −( )x 1 ,
+then the required expression are
+( ) ( )x x x+ + −1 3 4 42
+and ( ) ( )x x x− + −1 3 4 42 .
+13. (c) Here, LCM = + −36 3 3 3x x x( )( ) a a
+and HCF = −x x2( ) a
+p a( ) ( )x x x= −4 2 2 2
+But p q( ) ( )x x× = HCF × LCM
+q
+p
+( )
+( )
+x
+x
+= ×HCF LCM
+= − + −
+−
+x x x x x
+x x
+2 3 3 3
+2 2 2
+36
+4
+( ) ( )( )
+( )
+a a a
+a
+= −9 3 3 3x x( ) a
+14. (a) Given,
+p( ) ( )( )x x x x x= + − = + −2 2 3 3 1
+q( ) ( )( )x x x x x= + − = + −2 6 3 2
+and LCM
+= − + = − + −x x x x x3 2 7 6 1 6 ( )( )
+= − + −( )( )( )x x x1 3 2
+∴ HCF =
+×p q( ) ( )x x
+LCM
+= + − × + −
+− + −
+( )( ) ( )( )
+( )( )( )
+x x x x
+x x x
+3 1 3 2
+1 3 2
+= +( )x 3
+15. (b) Since, ( )x + k is the HCF, it will
+divide both the polynomials without
+leaving any remainder, thus x = − k will
+make both of them zero.
+∴ k pk q k ak b2 2− + = − +
+or − + = − +ak b pk q
+⇒ ak pk b q− = −
+∴
+k b q
+a p
+= −
+−
+16. (a) Since, ( )x + 4 is HCF, so it will
+divide both the expressions i.e. x = − 4
+will make each one zero.
+∴ 2 4 4 12 02( ) ( )− + − − =k
+⇒ 32 12 4− = k
+∴ 20 4= k ⇒ k = 5
+17. (b) Since, HCF of x x2 12+ − and
+2 92x x− −k is ( )x − k , then ( )x − k will
+be the factor of 2 92x x− −k .
+∴ 2 9 02 2k k − − =
+⇒ k 2 9 0− =
+⇒ k = ± 3
+and factor of x x2 12+ − are
+( )( )x x+ −4 3 .
+Hence, value of k is 3.
+18. (c) Here, ( )x − 3 is GCD, so is a factor of
+both of them.
+∴ Putting x = 3, in both makes each
+polynomial zero.
+3 2 3 3 6 03 2− + + =( ) ( ) p ⇒ p = − 5
+3 5 3 02 − + =( ) q ⇒ q = 6
+∴ 5 6 5 6 5 6q p+ = + − ( ) ( )( )
+= − =30 30 0
+19. (d) Let the expressions be p( )x and q( ),x
+then
+p q( ) ( )x x x x+ = − − 5 42 …(i)
+p q( ) ( )x x x x− = + − 2 9 10 …(ii)
+On adding Eqs. (i) and (ii), we have
+2 6 8 14 2p( )x x x= + −
+⇒ p( )x x x= + −3 4 72
+= + − −3 7 3 72x x x
+= + − +x x x( ) ( )3 7 1 3 7
+∴ p( ) ( )( )x x x= + −3 7 1
+Subtracting Eqs. (i) and (ii), we have
+2 4 10 6 2q( )x x x= − +
+⇒ q( )x x x= − +2 5 32
+= − − +2 3 2 32x x x
+= − − −x x x( ) ( )2 3 1 2 3
+= − −( )( )x x 1 2 3
+∴ LCM of p( )x and q( )x
+= − − +( )( )( )x x x1 2 3 3 7
+20. (a) p a( ) ( )( )( )x x x x x= + + + +2 1 2 2
+q b( ) ( )( )( )x x x x x= + + + +3 4 7 2
+As HCF is ( )( )x x+ +1 3 , then both
+( )x + 1 and ( )x + 3 must be factors of
+p( )x and q( )x .
+For p(x), ( )x + 1 is already a factor, so
+( )x + 3 must be a factor of x x2 2+ + a.
+So, ( ) ( )− + − + =3 2 3 02 a
+⇒ 9 6 0− + = a
+∴ a = − 3
+For q (x), ( )x + 3 is already factor.
+∴ ( )x + 1 must be a factor of
+x x2 7+ + b.
+∴ ( ) ( )− + − + =1 7 1 02 b
+∴ b = 6
+So, a = − 3 and b = 6 is solution.
+21. (c) Given, f ( )x and g( )x vanish at x = 1
+2
+So, ( )2 1x − is a factor of f ( )x and g( )x
+both.
+Hence, HCF of f ( )x and
+g( )x x= −2 1 .
+22. (b) Refer to question 13.
+23. (c) As ( )x − 2 is the HCF of
+( )ax bx c2 + + and ( )bx ax c2 + +
+So, it will divide both the expressions,
+∴ a b c( ) ( )2 2 02 + + =
+⇒ 4 2 0a b c+ + = …(i)
+and b a c( ) ( )2 2 02 + + =
+⇒ 4 2 0b a c+ + = …(ii)
+adding Eqs. (i) and (ii), we get
+⇒ 6 6 2 0a b c+ + =
+⇒ 2 6 6c a b= − −
+⇒ c a b= − +3 ( )
+24. (a) A p p= + +2 8 12 = + +( )( )p p 2 6
+B p p= + −2 2 24 = − +( )( )p p 4 6
+C p p= + +2 15 54 = + +( )( )p p 9 6
+I. LCM of A, B
+and C p p p p= + + − +( )( )( )( )2 6 4 9
+Thus, I is correct
+II. HCF of A, B and C p= +( ) 6
+Hence, II is incorrect.
+137MATHEMATICS HCF and LCM of Polynomials
+
+=== PAGE 343 ===
+25. (a) I. x x x x2 6 9 3 3− + = − − ( )( )
+and x x3 3 3 27 3− = − ( )
+= − + +( )( )x x x3 3 92
+∴ HCF = −x 3.
+Hence, it is true.
+II. LCM of 10 152x xyz yz,
+and 20 2 2xy z is 60 2 2 2x y z .
+Hence, it is false.
+III. 6 7 3 2 3 3 12x x x x− − = − + ( )( )
+and 2 11 212x x+ −
+= + −( )( )x x 7 2 3
+Hence, HCF = −( ),2 3x it is also
+true.
+Hence, the statement I and III are
+correct.
+26. (c) We know that, ( )x y+ and ( )x y− are
+the factors of ( )x y10 10− .
+Hence, statements I and IV are true.
+27. (c)W e have,A pq np p q n= − = − ( ) …(i)
+C q nq n= − +2 2 3 2
+= − − +q nq nq n2 2 2 2
+= − − −q q n n q n( ) ( ) 2 2
+= − −( )( )q n q n 2 …(ii)
+E pq np mq mn= − − +
+= − − −p q n m q n( ) ( )
+= − −( )( )p m q n …(iii)
+∴ HCF of A, C and E q n= −( )
+28. (b) We have, E = − −( )( )p m q n ... (i)
+D pq np mq mn= − − + 2 2
+= − − −p q n m q n( ) ( ) 2 2
+= − −( )( )p m q n 2 …(ii)
+∴ LCM of D and E
+= − − −( )( )( )p m q n q n 2
+29. (c) The factors of given polynomials are
+as follows
+A pq np p q n= − = − ( ) …(i)
+B pq mq q p m= − = − ( ) …(ii)
+C = − −( )( )q n q n 2 …(iii)
+D = − −( )( )p m q n 2 …(iv)
+E = − −( )( )p m q n …(v)
+There is no such factor which is
+common to all given five polynomials.
+Thus, HCF ( A, B, C , D, E) = 1
+30. (a) Here, a b ab ab a b3 3 2 2− = − ( )
+= − +ab a b a b( ) ( )
+a b a b a b a b3 2 2 3 2 2+ = + ( )
+∴ LCM [( ), ( ),a b ab a b a b3 3 3 2 2 3− +
+ab a b( )]+
+= + −a b a b a b2 2 ( ) ( )
+= −a b a b2 2 2 2( )
+31. (c) Let P (x) = + −36 3 5 24 3 2( )x x x
+= + −36 3 5 22 2x x x( )
+= + −36 2 3 12x ( ) ( )x x
+Q (x) = + −9 6 4 23 2( )x x x
+= + −18 3 2 12x x x( )
+= − +18 3 1 1x x x( )( )
+R (x) = − = −54 27 54 27 14 3( ) ( )x x x x
+= −54 3 1x x( )( ) 9 1 32x x + +
+HCF of [ , , ]36 18 54 18=
+∴ HCF of [ P (x ), Q (x ), R (x )]
+= −18 3 1x x( )
+32. (a) Let f ( )x x= +3 8 = +x3 3 2
+= + − +( ) ( )x x x2 2 4 2
+= + − −( ) ( ) ( )x x x2 2 2
+g( )x x x= + +2 5 6
+= + + +x x x2 3 2 6
+= + +( ) ( )x x 3 2
+and h( )x x x x= + + +3 2 2 4 8
+= + +( ) ( )x x 2 4 2
+∴ HCF of { ( ), ( ), ( )} ( )f g hx x x x = + 2
+33. (c) Let f (x) = − −x x x3 2 2
+= − −x x x( ) 2 2
+= + −x x x( ) ( ) 1 2
+and g (x ) = +x x3 2
+= + = ⋅ +x x x x x2 1 1( ) ( )
+∴ LCM of [ ( ), ( )]f gx x
+= + −x x x2 1 2( ) ( )
+= − −x x x2 2 2( )
+= − −x x x4 3 2 2
+34. (a) Let f ( )x = ( )x4 4− y
+= − +( ) ( )x x2 2 2 2y y
+= − + +( ) ( ) ( )x x xy y y 2 2
+and g y( ) ( )x x= − 6 6
+= + −( ) ( )x x3 3 3 3y y
+= + − + −( ) ( ) ( )x x x xy y y y2 2
+( )x x2 2+ + y y
+= − + − +( ) ( ) ( )x x x xy y y y 2 2
+( )x x2 2+ + y y
+∴ HCF of
+[ ( ), ( )] ( ) ( )f g y yx x x x = − +
+= −x2 2 y
+35. (a)
+x x2 2 8+ − = − + ( ) ( )x x 2 4
+x x x x3 2 2 4 4 4 4− + = − + [ ]x x
+= −x x( ) 2 2
+x x x x2 4 4+ = + ( )
+Now, LCM of ( )x x2 2 8+ − ,
+( )x x x3 2 4 4− + and ( )x x2 4+
+= − +x x x( ) ( ) 2 42
+36. (c) a b a b2 4 2 2 2+ = + a b b2 2 2 2( ) ...(i)
+and ( )ab a b7 2 9 4− = − a b a b7 7 2 9 4
+= −a b a b b2 2 5 5 7 4( ) ...(ii)
+From Eqs. (i) and (ii), HCF = a b2 2
+37. (a) Let p( ) ( )x x x x= − +8 5 3
+= × × − +4 2 1 4 2x x x( )
+and q( ) ( )x x= +28 1 6
+= × +7 4 1 2 3 3[( ) ( ) ]x
+= × × + − +4 7 1 1 2 4 2( )( )x x x
+∴ HCF of p( )x and q( )x
+= − +4 1 4 2( )x x
+38. (a) Let f ( )x x x x= + − −2 23 2
+= − + +( )( )x x x1 2 3 22
+and g( )x x x x= − + −3 2 23 2
+= − + +( )( )x x x1 3 2 2
+Hence, the highest factor of f ( )x and
+g( )x is ( )x − 1 .
+39. (c) Given, HCF = +( )x y and
+LCM = + +3 5 25 4 3 2x x x y y
+− − −3 5 22 3 4 5x xy y y
+= + + −x x xy y y3 2 2 33 5 2( )
+( )3 5 22 2x xy y+ +
+= + + −( )( )3 5 22 2 3 3x x x y y y
+We know that,
+Product of two polynomials
+= HCF × LCM
+∴ Required polynomial
+= + − + +
+− +
+( )( )( )
+( )( )
+x x x x
+x x
+y y y y
+y y
+3 3 2 2 3 5 2
+=
+− + +
++ +
+−
+( ) ( )
+( )
+( )
+x y x y xy
+x xy y
+x y
+2 2
+2 23 5 2
+= + + + +( )( )x x x x2 2 2 2 3 5 2y y y y
+= + + + +3 8 10 7 24 3 2 2 3 4x x x x y y y y
+40. (d) ( )x + 1 is the HCF of
+Ax Bx C2 + + and Bx Ax C2 + +
+∴ A B C( ) ( )− + − + =1 1 02
+⇒ A B C− + = 0
+⇒ C B A= −
+and B A C( ) ( )− + − + =1 1 02
+⇒ B A C− + = 0
+⇒ C A B= −
+∴ C = 0
+41. (b) Refer to question 19.
+138 CDS Pathfinder
+
