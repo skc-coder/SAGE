@@ -4,14 +4,13 @@ subject: "Algorithms"
 topic: "Minimum Spanning Trees"
 subtopic: "Number of MSTs"
 question_type: "Formulaic Edge Conditions"
-mistake_category: "Calculation Error"
-tags: [gate-cs, algorithms, mst, graph-theory]
+tags: [gate-cs, algorithms, mst, topic-hub]
 date: 2026-09-03
 ---
 
-# Counting Minimum Spanning Trees — Formulaic Edge Conditions
+# Counting Minimum Spanning Trees — Topic Executive Hub
 
-## 1. Theory & Intuition
+## 1. Executive Theory & Intuition
 
 ### Kruskal's & Cycle Property for MST Counting
 When edge weights are determined by a formula $w(u, v) = f(u, v)$, determining the number of distinct MSTs relies on inspecting **equal weight edge choices** during Kruskal's algorithm execution.
@@ -21,32 +20,13 @@ When edge weights are determined by a formula $w(u, v) = f(u, v)$, determining t
 
 ---
 
-## 2. Logged Questions & Derivations
+## 2. Index of Logged Questions & Variations
 
-### Question 1: GATE CS 2021 Set 1 Q34
-- **Source**: GATE CS 2021 Set 1 Q34
-- **Status**: ❌ Wrong
-- **Mistake Category**: Calculation Error (Miscalculated equal-weight edge sum on cycle)
-
-#### Derivation & Solution
-For a connected graph $G = (V, E)$ where vertices are indexed $1 \dots n$ and edge weight $w(i, j) = i + j$:
-1. Edge weights grow monotonically with vertex indices.
-2. Contracting lower-weight edges first reveals that cycle edges with identical sum $i+j$ allow mutually exclusive selections.
-
-#### Tier 1: Direct Question Variations (GATE '21 Q34)
-
-> **Variation 1.1 (Edge Choice on Cycle)**: Suppose graph $G$ has vertices $\{1, 2, 3, 4\}$ with edges $e_1=(1,2)$, $e_2=(2,3)$, $e_3=(3,4)$, $e_4=(4,1)$, $e_5=(1,3)$ with the following edge weights:
->
-> $$ w(e_1)=3, \quad w(e_2)=5, \quad w(e_3)=5, \quad w(e_4)=5, \quad w(e_5)=2 $$
->
-> How many distinct MSTs can be formed?
-
-> [!faq]- Click to view Solution
-> Edge $e_5$ (weight $2$) and $e_1$ (weight $3$) are strictly chosen first. The remaining vertices require connecting via edges of weight $5$, yielding $3$ valid MST combinations.
+- [[content/gate-cs/algorithms/notes/questions/gate_2021_q34_counting_msts|GATE 2021 Set 1 Q34 — Formulaic Edge Conditions ($w(i, j) = i+j$)]] `[Status: ❌ Wrong | Mistake: Calculation Error]`
 
 ---
 
-## 3. Tier 2: Topic Synthesis Variations (Counting MSTs Note Level)
+## 3. Tier 2: Topic Synthesis Variations
 
 > **Topic Variation 2.1 (General Equal-Weight Cycle Theorem)**: Let $G$ be a connected graph where $k$ edges share the same maximum weight $W$ on a cycle of length $k$, while all other $m-k$ edges have distinct weights strictly less than $W$. How many MSTs does $G$ possess?
 

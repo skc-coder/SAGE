@@ -10,8 +10,8 @@ This database tracks topics, subtopics, and specialized question patterns. Quest
 
 | Topic | Subtopic | Question Type / Specialization | Logged Questions & Notes | Performance | Logged Mistake Types |
 | :--- | :--- | :--- | :--- | :---: | :--- |
-| **Minimum Spanning Trees** | Number of MSTs | Formulaic Edge Conditions ($w(e) = i+j$) | • [[content/gate-cs/algorithms/notes/counting_msts_formulaic\|Counting MSTs Note]] (GATE '21 Q34 ❌) | 0 / 1 (0%) | 1x Calculation Error |
-| | Uniqueness | Distinct Edge Weights Theorem | • [[content/gate-cs/algorithms/notes/mst_uniqueness_theorem\|MST Uniqueness Note]] (GATE '18 Q12 ✅) | 1 / 1 (100%) | None |
+| **Minimum Spanning Trees** | Number of MSTs | Formulaic Edge Conditions ($w(e) = i+j$) | • [[content/gate-cs/algorithms/notes/questions/gate_2021_q34_counting_msts\|GATE '21 Q34 Note (❌)]] | 0 / 1 (0%) | 1x Calculation Error |
+| | Uniqueness | Distinct Edge Weights Theorem | • [[content/gate-cs/algorithms/notes/mst_uniqueness_theorem\|MST Uniqueness Hub (✅)]] | 1 / 1 (100%) | None |
 
 ---
 
