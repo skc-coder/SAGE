@@ -41,21 +41,21 @@ content/
      - Test Session: `# 2026-09-03 CDS Mock 01` (NOT `# Test Session: 2026-09-03 CDS Mock 01`)
 
 2. **Obsidian Frontmatter & Properties (MANDATORY)**:
-   - ALL test session scorecards and question notes MUST store metadata strictly in frontmatter YAML properties, NEVER as bullet points in the markdown body:
+   - ALL test session scorecards and question notes MUST store metadata strictly in frontmatter YAML properties, NEVER as bullet points in the markdown body.
+   - **Difficulty Property (`difficulty`)**: Manually specified by the user (`Easy`, `Medium`, `Hard`) per question/subtopic note:
    ```yaml
    ---
    exam: "CDS"
    subject: "Elementary Mathematics"
    topic: "Trigonometry"
    subtopic: "Heights and Distances"
-   difficulty: "Medium"
+   difficulty: "Medium" # Manually specified by user per question
    date: 2026-09-03
    source_file: "cds_2024_math_mock1.pdf"
    source_file_link: "[[content/cds/elementary-mathematics/test_sessions/2026-09-03_cds_mock_01|Mock Test 01]]"
-   total_questions: 3
-   correct: 2
-   wrong: 1
-   accuracy: 66.67
+   question_number: "Q13"
+   status: "Wrong"
+   mistake_category: "Formula Misapplication"
    tags: [cds, elementary-mathematics, trigonometry]
    ---
    ```
@@ -69,6 +69,7 @@ content/
    TABLE 
        rows.question_type AS "Question Types / Specializations",
        rows.file.link AS "Logged Question Notes",
+       rows.difficulty AS "Difficulty",
        rows.status AS "Status",
        rows.mistake_category AS "Mistake Category"
    FROM "content/cds/elementary-mathematics/notes/questions"
