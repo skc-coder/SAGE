@@ -13,21 +13,17 @@ date: 2026-09-03
 
 # GATE 2021 Set 1 Q34
 
-## 1. Question Context
-- **Source**: GATE CS 2021 Set 1 Q34
-- **Specialization**: Formulaic Edge Conditions ($w(i, j) = i + j$)
-- **Status**: ❌ Wrong *(Calculation Error: Miscalculated equal-weight edge sum on cycle)*
+> **Original Question**: Let $G = (V, E)$ be a connected graph with $n$ vertices indexed $1, 2, \dots, n$, where the edge weight of any edge $e = (i, j)$ is given by $w(i, j) = i + j$. How many distinct Minimum Spanning Trees does $G$ possess?
+
+> [!faq]- View Solution & Derivation
+> For a connected graph $G = (V, E)$ where edge weight $w(i, j) = i + j$:
+> 1. Edge weights grow monotonically with vertex index sums.
+> 2. Contracting lower-weight edges first reveals that cycle edges with identical sum $i+j$ allow mutually exclusive selections.
+> 3. Therefore, exactly $1$ MST exists when lower edges uniquely span all component cuts.
 
 ---
 
-## 2. Derivation & Solution
-For a connected graph $G = (V, E)$ where vertices are indexed $1 \dots n$ and edge weight $w(i, j) = i + j$:
-1. Edge weights grow monotonically with vertex indices.
-2. Contracting lower-weight edges first reveals that cycle edges with identical sum $i+j$ allow mutually exclusive selections.
-
----
-
-## 3. Tier 1: Direct Question Variations
+## Direct Question Variations
 
 > **Variation 1.1 (Edge Choice on Cycle)**: Suppose graph $G$ has vertices $\{1, 2, 3, 4\}$ with edges $e_1=(1,2)$, $e_2=(2,3)$, $e_3=(3,4)$, $e_4=(4,1)$, $e_5=(1,3)$ with the following edge weights:
 >
@@ -35,5 +31,5 @@ For a connected graph $G = (V, E)$ where vertices are indexed $1 \dots n$ and ed
 >
 > How many distinct MSTs can be formed?
 
-> [!faq]- Click to view Solution
+> [!faq]- View Solution
 > Edge $e_5$ (weight $2$) and $e_1$ (weight $3$) are strictly chosen first. The remaining vertices require connecting via edges of weight $5$, yielding $3$ valid MST combinations.
