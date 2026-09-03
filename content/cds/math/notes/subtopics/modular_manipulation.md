@@ -30,7 +30,27 @@ $$\mathbf{-1 \pmod m \equiv (m - 1) \pmod m}$$
 
 ---
 
-### 2. The Negative Remainder Conversion Rule
+### 2. The Number Line Intuition (Visualizing Negative Modulo)
+
+Think of modular arithmetic on a number line with steps of size **6**:
+
+$$\dots, -12, -6, \mathbf{0}, 6, 12, 18, \dots \quad (\text{Multiples of 6, Remainder } 0)$$
+
+Every integer lies relative to the **previous multiple of 6 going left to right**:
+
+| Dividend $A$ | Division Form ($B \cdot Q + R$) | Quotient $Q$ | Remainder $R \pmod 6$ |
+| :--- | :--- | :--- | :--- |
+| $+13$ | $6 \times 2 + 1$ | $2$ | $1$ |
+| $+7$ | $6 \times 1 + 1$ | $1$ | $1$ |
+| $+1$ | $6 \times 0 + 1$ | $0$ | $1$ |
+| **$-1$** | $6 \times (-1) + \mathbf{5}$ | $-1$ | **$5$** |
+| **$-2$** | $6 \times (-1) + \mathbf{4}$ | $-1$ | **$4$** |
+| **$-3$** | $6 \times (-1) + \mathbf{3}$ | $-1$ | **$3$** |
+| **$-5$** | $6 \times (-1) + \mathbf{1}$ | $-1$ | **$1$** |
+
+---
+
+### 3. The Negative Remainder Conversion Rule
 
 Whenever an intermediate calculation yields a negative remainder $-k \pmod m$, **add the modulus $m$** to convert it into a standard positive remainder:
 
@@ -43,7 +63,7 @@ $$\mathbf{-k \pmod m \equiv (-k + m) \pmod m}$$
 
 ---
 
-### 3. The Negative Remainder Exponent Shortcut ⚡
+### 4. The Negative Remainder Exponent Shortcut ⚡
 
 We temporarily use negative remainders in exponent problems because $(-1)^{\text{even}} = +1$ and $(-1)^{\text{odd}} = -1$.
 
@@ -60,7 +80,7 @@ Find $25^{99} \pmod{26}$.
 
 ---
 
-### 4. Cyclicity / Pattern Method for Powers
+### 5. Cyclicity / Pattern Method for Powers
 
 Every base $a$ modulo $m$ repeats its remainders in a periodic cycle.
 
@@ -72,7 +92,7 @@ Every base $a$ modulo $m$ repeats its remainders in a periodic cycle.
 
 ---
 
-### 5. Modular Inverse & Cancellation
+### 6. Modular Inverse & Cancellation
 
 To "divide" by $a$ modulo $m$, we multiply by the **Modular Multiplicative Inverse $a^{-1}$**:
 $$a \cdot a^{-1} \equiv 1 \pmod m$$
