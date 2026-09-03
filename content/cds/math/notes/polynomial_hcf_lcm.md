@@ -11,8 +11,11 @@ tags: [cds, elementary-mathematics, hcf-lcm-polynomials, topic]
 ## Theory, Intuition & Formulas
 
 ### 1. Fundamental Definition & Multiplicity
-- **HCF (Greatest Common Divisor)** of polynomials $P(x)$ and $Q(x)$: The monic polynomial $H(x)$ of highest degree that divides both $P(x)$ and $Q(x)$ without remainder.
-- **LCM (Least Common Multiple)** of polynomials $P(x)$ and $Q(x)$: The monic polynomial $L(x)$ of lowest degree that is divisible by both $P(x)$ and $Q(x)$ without remainder.
+- **Monic Polynomial**: A single-variable polynomial whose **highest-degree term (leading coefficient) has a multiplier of exactly $1$**.
+  - **Monic Examples**: $x^2 - 5x + 6$ (leading coefficient is $1$), $x^3 + 2x - 1$, $x - 4$.
+  - **Non-Monic Examples**: $3x^2 + 5x - 2$ (leading coefficient is $3$), $6x^2 - 6$ (leading coefficient is $6$).
+- **HCF (Greatest Common Divisor)** of polynomials $P(x)$ and $Q(x)$: The polynomial $H(x)$ of highest degree that divides both $P(x)$ and $Q(x)$ without remainder.
+- **LCM (Least Common Multiple)** of polynomials $P(x)$ and $Q(x)$: The polynomial $L(x)$ of lowest degree that is divisible by both $P(x)$ and $Q(x)$ without remainder.
 
 ### 2. Fundamental Polynomial Product Identity
 For any two polynomials $P(x)$ and $Q(x)$:
