@@ -9,31 +9,59 @@ tags: [cds, math, percentage, subtopic, price-consumption]
 
 # Asymmetric Comparison & Price-Consumption Balance
 
-## Theory & Proofs
+## Theory & Intuitive Proofs
 
-### 1. Proof of Asymmetric Comparison Formula
-Suppose quantity $A$ is $x\%$ more than quantity $B$.
-- Let $B = 100$.
-- Then $A = 100 + x$.
-- The absolute difference between $A$ and $B$ is $x$.
-- To express how much less $B$ is than $A$, we use $A$ as the reference denominator:
-  $$\text{Percentage Less} = \frac{A - B}{A} \times 100 = \left(\frac{x}{100 + x} \times 100\right)\%$$
+### 1. Intuitive Proof of Asymmetric Comparison (The "Ruler/Base" Model)
+A percentage is not an absolute quantity; it is always a **fraction of a specific base denominator**.
 
-Similarly, if $A$ is $x\%$ less than $B$:
-- $B = 100 \implies A = 100 - x$.
-- Reference base $A = 100 - x$.
-- Percentage more of $B$ over $A$:
-  $$\text{Percentage More} = \left(\frac{x}{100 - x} \times 100\right)\%$$
+When we say **"$A$ is $x\%$ more than $B$"**, we are taking **$B$ as our reference ruler ($100$)**:
+- $B = 100$
+- $A = 100 + x$
+- Absolute difference (gap): $\Delta = A - B = x$
 
-### 2. Proof of Price-Consumption Expenditure Neutrality
+When we flip the question to ask **"How much less is $B$ than $A$?"**, the absolute gap $\Delta = x$ remains identical, but our **reference ruler (denominator) switches from $B$ to $A$ ($100 + x$)**:
+$$\text{Percentage Less} = \frac{\text{Absolute Gap }\Delta}{\text{New Base } A} \times 100 = \left(\frac{x}{100 + x} \times 100\right)\%$$
+
+> [!TIP]
+> **Denominator Scaling Principle**: Since $A$ ($100+x$) is larger than $B$ ($100$), dividing the same gap $x$ by a **larger denominator** yields a **smaller percentage**!
+> 
+> *Example*: If $A$ is $25\%$ more than $B$:
+> - $B = 100$, $A = 125$. Gap $= 25$.
+> - $B$ is less than $A$ by $\frac{25}{125} \times 100 = 20\%$.
+
+---
+
+### 2. Dual Case: "$A$ is $x\%$ LESS than $B$"
+When **"$A$ is $x\%$ less than $B$"**:
+- $B = 100$
+- $A = 100 - x$
+- Absolute difference (gap): $\Delta = B - A = x$
+
+To find how much **more** $B$ is than $A$, the reference base switches to $A = 100 - x$:
+$$\text{Percentage More} = \frac{\text{Absolute Gap }\Delta}{\text{New Base } A} \times 100 = \left(\frac{x}{100 - x} \times 100\right)\%$$
+
+> [!TIP]
+> **Denominator Scaling Principle**: Since $A$ ($100-x$) is smaller than $B$ ($100$), dividing the same gap $x$ by a **smaller denominator** yields a **larger percentage**!
+> 
+> *Example*: If $A$ is $20\%$ less than $B$:
+> - $B = 100$, $A = 80$. Gap $= 20$.
+> - $B$ is more than $A$ by $\frac{20}{80} \times 100 = 25\%$.
+
+---
+
+### 3. Proof of Price-Consumption Expenditure Neutrality
 Expenditure is given by:
 $$\text{Expenditure } E = \text{Price } P \times \text{Consumption } C$$
+
 If price increases by $x\%$, new price $P' = P \left(1 + \frac{x}{100}\right) = P \cdot \frac{100+x}{100}$.
+
 To keep expenditure $E$ constant:
 $$P' \times C' = E = P \times C$$
 $$P \left(\frac{100+x}{100}\right) C' = P \cdot C \implies C' = C \left(\frac{100}{100+x}\right)$$
+
 The reduction in consumption is:
 $$\Delta C = C - C' = C \left(1 - \frac{100}{100+x}\right) = C \left(\frac{x}{100+x}\right)$$
+
 Expressing this reduction as a percentage of original consumption $C$:
 $$\text{Percentage Reduction} = \left(\frac{x}{100+x} \times 100\right)\%$$
 

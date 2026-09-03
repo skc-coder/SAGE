@@ -35,6 +35,9 @@ tags: [cds, math, percentage, topic]
   - $B$ is more than $A$ by:
     $$\left(\frac{x}{100 - x} \times 100\right)\%$$
 
+> [!NOTE]
+> **Intuition ("Base Switch Principle")**: The absolute difference $\Delta = |A - B| = x$ stays identical. But when asking "how much less/more is B than A?", the reference denominator changes from $B$ ($100$) to $A$ ($100 \pm x$). Dividing by a larger base ($100+x$) gives a smaller percentage; dividing by a smaller base ($100-x$) gives a larger percentage. See [[cds/math/notes/subtopics/asymmetric_percentage|Detailed Proof & Intuition]].
+
 ### 4. Commodity Price & Consumption Inverse Balancing
 - If the price of a commodity increases (or decreases) by $x\%$, then to maintain a constant expenditure budget, the consumption must decrease (or increase) by:
   $$\text{Consumption Change \%} = \left(\frac{x}{100 \pm x} \times 100\right)\%$$
