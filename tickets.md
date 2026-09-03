@@ -2,15 +2,13 @@
 
 ## Active Tickets
 
-### [OPEN] Issue #3: Design & Implement Exam Practice & Smart Analysis Skill (`exam-analysis-master`)
-- **GitHub Issue**: [#3](https://github.com/skc-coder/SAGE/issues/3)
-- **Description**: Create a modular, extensible, clean, small, to-the-point AI skill for Obsidian & Quarto export to track exam questions, perform topic/subtopic taxonomy breakdown, generate concept notes, ask novel variations, track user performance, and support `/wrap`, `/report`, and `/analyze` workflows.
+### [OPEN] Issue #4: Chapter 3: HCF and LCM Notes (Pathfinder CDS Math)
+- **GitHub Issue**: [#4](https://github.com/skc-coder/SAGE/issues/4)
+- **Description**: Create structured notes, subtopics, dual congruences, and variations for Pathfinder Chapter 3: HCF and LCM under SAGE taxonomy.
 - **Acceptance Criteria**:
-  - [ ] `SKILL.md` placed in `~/.gemini/config/skills/exam-analysis-master/SKILL.md`.
-  - [ ] Support modes for PDF test walk-throughs and haphazard text/screenshot questions.
-  - [ ] Fine-grained Question Taxonomy & Type tracking (e.g. Graph MST -> Adjacency Matrix vs Formulaic edge conditions).
-  - [ ] Intuitive theorem/concept explanation on wrong answers.
-  - [ ] Novel variation generator (testing underlying concepts).
-  - [ ] Zero-rewrite `/wrap` session consolidation into `notes/` and `question_db.md`.
-  - [ ] Analytics commands `/report [subject/topic]` and `/analyze [subject/topic/exam]`.
-  - [ ] Quarto rendering compatibility (`_quarto.yml` / Obsidian markdown syntax).
+  - [ ] Topic note `content/cds/math/notes/hcf_lcm.md` with complete theory, intuition, and formulas.
+  - [ ] Subtopic notes for HCF, LCM, Polynomial HCF/LCM, and Remainder Theorems (Constant Difference & Constant Remainder).
+  - [ ] Consolidated questions page `content/cds/math/notes/questions.md` updated/linked with Pathfinder HCF & LCM key patterns.
+  - [ ] Topic variations `content/cds/math/notes/variations/vars.md` added.
+  - [ ] `math_overview.md` updated with HCF & LCM topic link.
+

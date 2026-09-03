@@ -11,29 +11,31 @@ tags: [cds, elementary-mathematics, subject]
 
 - [[cds/math/notes/formulas|Master Formulas (AP, GP, HP & Summations)]]
 - [[cds/math/notes/numbers|Number System]]
+- [[cds/math/notes/hcf_lcm|HCF and LCM]]
 
 ## Variations
 
-- [[cds/math/notes/variations/vars|Number System Variations]]
+- [[cds/math/notes/variations/vars|Number System, HCF & LCM Variations]]
 
 ## Performance Overview
 
 ```mermaid
 xychart-beta
     title "Topic Accuracy"
-    x-axis ["Number System"]
+    x-axis ["Number System", "HCF and LCM"]
     y-axis "Accuracy %" 0 --> 100
-    bar [100]
+    bar [100, 100]
 ```
 
 ```mermaid
 pie title Elem Math Difficulty
     "Number System (Easy)" : 1
+    "HCF and LCM (Medium)" : 1
 ```
 
 ```mermaid
 pie title Mistake Breakdown
-    "None" : 1
+    "None" : 2
 ```
 
 ## Navigation

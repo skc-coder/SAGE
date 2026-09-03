@@ -1,12 +1,12 @@
 ---
 exam: "CDS"
 subject: "Math"
-topic: "Numbers"
+topic: "Numbers, HCF & LCM"
 difficulty: "Medium"
 tags: [cds, math, variations]
 ---
 
-# Number System Variations
+# Topic Variations
 
 ## Tier 1 & Tier 2 Variations
 
@@ -65,8 +65,7 @@ If $562k984$ is divisible by 13, find digit $k$.
 > $$\text{Diff} = 984 - (620 + k) + 5 = 369 - k$$
 > Test $369 - k \pmod{13}$:
 > $369 = 13 \times 28 + 5 \implies 369 \equiv 5 \pmod{13}$.
-> Thus $5 - k \equiv 0 \pmod{13} \implies k = 5$ or $369 - 7 = 362 = 13 \times 27 + 11$.
-> Checking $369 - 5 = 364 = 13 \times 28$ $\implies k=5$.
+> Thus $5 - k \equiv 0 \pmod{13} \implies k = 5$.
 
 ---
 
@@ -91,6 +90,55 @@ Find the sum of all 2-digit numbers leaving remainder 3 when divided by 5 and re
 > Common difference $d = \operatorname{LCM}(5, 4) = 20$.
 > AP terms < 100: $13, 33, 53, 73, 93$ ($n = 5$).
 > $$S_5 = \frac{5}{2}(13 + 93) = \frac{5}{2}(106) = 5 \times 53 = 265$$
+
+---
+
+### Variation 8: HCF via Successive Quotients
+In finding the HCF of two numbers by division method, the successive quotients from top to bottom are 1, 8, and 2. If the last divisor is 105, find the two numbers.
+
+> [!faq]- View Solution
+> Work backwards using Euclidean algorithm steps:
+> 1. Last divisor $d_3 = 105$, quotient $q_3 = 2 \implies \text{Dividend } r_1 = 105 \times 2 + 0 = 210$.
+> 2. Second divisor $d_2 = 210$, quotient $q_2 = 8 \implies \text{Dividend } B = 210 \times 8 + 105 = 1680 + 105 = 1785$.
+> 3. First divisor $d_1 = 1785$, quotient $q_1 = 1 \implies \text{Dividend } A = 1785 \times 1 + 210 = 1995$.
+> 
+> Thus, the two numbers are **1785 and 1995**.
+
+---
+
+### Variation 9: Co-prime Pairs Given Product and HCF
+The product of two numbers is 4107. If the HCF of these numbers is 37, find the greater number.
+
+> [!faq]- View Solution
+> Let numbers be $A = 37x$ and $B = 37y$ with $\operatorname{GCD}(x, y) = 1$.
+> $$37x \times 37y = 4107 \implies 1369 (x \cdot y) = 4107 \implies x \cdot y = 3$$
+> Co-prime pairs for $x \cdot y = 3$ are $(1, 3)$.
+> Greater number $B = 37 \times 3 = 111$.
+
+---
+
+### Variation 10: Largest 4-Digit Number with Constant Remainder
+Find the greatest 4-digit number which when divided by 12, 18, 21, and 28 leaves a remainder of 3 in each case.
+
+> [!faq]- View Solution
+> 1. $\operatorname{LCM}(12, 18, 21, 28) = 252$.
+> 2. Greatest 4-digit number = 9999.
+> 3. Divide 9999 by 252: $9999 = 252 \times 39 + 171 \implies \text{Remainder } 171$.
+> 4. Largest multiple of 252 under 10000 = $9999 - 171 = 9828$.
+> 5. Add constant remainder 3: $N = 9828 + 3 = 9831$.
+
+---
+
+### Variation 11: Smallest 4-Digit Number with Constant Difference
+Find the smallest 4-digit number which when divided by 6, 7, 8, and 9 leaves remainders 4, 5, 6, and 7 respectively.
+
+> [!faq]- View Solution
+> 1. Constant difference $p = (6-4) = (7-5) = (8-6) = (9-7) = 2$.
+> 2. $\operatorname{LCM}(6, 7, 8, 9) = 504$.
+> 3. Smallest 4-digit multiple of 504: $504 \times 2 = 1008$.
+> 4. Subtract constant difference 2: $N = 1008 - 2 = 1006$.
+
+---
 
 ## Navigation
 
