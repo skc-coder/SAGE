@@ -12,12 +12,15 @@
 - [[content/cds/math/notes/set_theory|Ch 19. Set Theory]]
 - [[content/cds/math/notes/trigonometry|Ch 20. Measurements of Angles and Trigonometric Ratios]]
 - [[content/cds/math/notes/heights|Ch 21. Height and Distance]]
+- [[content/cds/math/notes/triangles|Ch 23. Triangles]]
 
 ## Variations
 
 - [[content/cds/math/notes/variations/vars|Set Theory & General Variations]]
 - [[content/cds/math/notes/variations/var19|Trigonometry Variations]]
 - [[content/cds/math/notes/variations/heights_variations|Heights & Distances Variations]]
+- [[content/cds/math/notes/variations/var17|Ch 23 Variations (Median, Thales, Apollonius)]]
+
 
 ## Performance Overview
 
