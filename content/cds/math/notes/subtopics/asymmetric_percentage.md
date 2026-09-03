@@ -9,52 +9,20 @@ tags: [cds, math, percentage, subtopic, price-consumption]
 
 # Asymmetric Comparison & Price-Consumption Balance
 
-## ⚡ 1-Minute Unit & Base Rules
+## ⚡ The Single Base-Switch Rule
 
-### 🛑 Unit Check: Never Swap Formula
-$$\text{Expenditure } (E) = \text{Price } (P) \times \text{Consumption } (C)$$
-$$\left(\frac{\text{₹}}{\text{kg}}\right) \times (\text{kg}) = \text{₹}$$
+$$\text{Expenditure } E = \text{Price } P \left(\frac{\text{₹}}{\text{kg}}\right) \times \text{Consumption } C (\text{kg})$$
 
----
+Whether comparing $A$ vs $B$ or balancing Price vs Consumption, **it is always a Base-Switch onto the New Value**:
 
-## 🎯 Asymmetric Comparison: The "Base Switch" Model
+$$\begin{CD}
+100 @>\text{Change } +x>> 100+x \\
+@. @VV\text{Measure gap } x \text{ over NEW Base } (100+x)V \\
+@. \text{Required Cut } = \left(\frac{x}{100+x} \times 100\right)\%
+\end{CD}$$
 
-Percentage is relative to a base denominator:
-
-```text
-A is x% MORE than B:
-Base B (100) ──── +x ────> A (100 + x)
-                             │
-                             │ Shift Base to A
-                             ▼
-              Gap = x / (100 + x)  ===>  Percentage Less = [ x / (100 + x) ] × 100
-```
-
-```text
-A is x% LESS than B:
-Base B (100) ──── -x ────> A (100 - x)
-                             │
-                             │ Shift Base to A
-                             ▼
-              Gap = x / (100 - x)  ===>  Percentage More = [ x / (100 - x) ] × 100
-```
-
----
-
-## 🔄 Price-Consumption: It's Just Base Changing!
-
-Since $E = P \times C$ is constant:
-$$\text{Price Increase } (+x\%) \implies \text{New Price} = 100 + x$$
-
-To cancel out the price hike on expenditure, **Consumption must drop by the exact same gap $x$ relative to the NEW Price Base ($100 + x$)**:
-
-```text
-Old Price (100) ─── +x% ───> New Price Base (100 + x)
-                                    │
-                                    │ Reduce Consumption to balance E
-                                    ▼
-                Drop = x / (100 + x)  ===>  Consumption Cut % = [ x / (100 + x) ] × 100
-```
+- **$A$ is $x\%$ more than $B$** $\implies$ $B$ is $\left(\frac{x}{100+x} \times 100\right)\%$ less than $A$
+- **Price $P$ rises by $x\%$** $\implies$ Consumption $C$ drops by $\left(\frac{x}{100+x} \times 100\right)\%$
 
 ---
 
