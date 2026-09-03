@@ -11,7 +11,9 @@ tags: [cds, math, rational-expressions, algebra]
 ## 1. Foundational Definition & Properties
 
 A **Rational Expression** is an algebraic expression of the form:
+
 $$\frac{P(x)}{Q(x)}$$
+
 where $P(x)$ and $Q(x)$ are polynomials, and $Q(x) \neq 0$.
 
 > [!NOTE] Key Rules
@@ -24,13 +26,15 @@ where $P(x)$ and $Q(x)$ are polynomials, and $Q(x) \neq 0$.
 ## 2. Lowest Form Reduction (Canonical Simplification)
 
 A rational expression $\frac{P(x)}{Q(x)}$ is in its **lowest (irreducible) terms** if:
+
 $$\gcd(P(x), Q(x)) = 1$$
 
 ### Reduction Algorithm:
 1. Factorize both $P(x)$ and $Q(x)$ into irreducible linear and quadratic factors over $\mathbb{R}$.
 2. Determine $g(x) = \gcd(P(x), Q(x))$.
 3. Divide numerator and denominator by $g(x)$:
-   $$\frac{P(x)}{Q(x)} = \frac{\frac{P(x)}{g(x)}}{\frac{Q(x)}{g(x)}}$$
+
+$$\frac{P(x)}{Q(x)} = \frac{\frac{P(x)}{g(x)}}{\frac{Q(x)}{g(x)}}$$
 
 ---
 
@@ -38,9 +42,12 @@ $$\gcd(P(x), Q(x)) = 1$$
 
 ### A. Addition & Subtraction (Telescoping & Common Denominators)
 * **Like Denominators**:
-  $$\frac{P(x)}{Q(x)} \pm \frac{H(x)}{Q(x)} = \frac{P(x) \pm H(x)}{Q(x)}$$
+
+$$\frac{P(x)}{Q(x)} \pm \frac{H(x)}{Q(x)} = \frac{P(x) \pm H(x)}{Q(x)}$$
+
 * **Unlike Denominators**:
-  $$\frac{A(x)}{B(x)} + \frac{C(x)}{D(x)} = \frac{A(x) \cdot \frac{L(x)}{B(x)} + C(x) \cdot \frac{L(x)}{D(x)}}{L(x)}, \quad \text{where } L(x) = \text{lcm}(B(x), D(x))$$
+
+$$\frac{A(x)}{B(x)} + \frac{C(x)}{D(x)} = \frac{A(x) \cdot \frac{L(x)}{B(x)} + C(x) \cdot \frac{L(x)}{D(x)}}{L(x)}, \quad \text{where } L(x) = \text{lcm}(B(x), D(x))$$
 
 ### B. Multiplication & Division
 * **Product**: $\frac{P(x)}{Q(x)} \times \frac{G(x)}{H(x)} = \frac{P(x) \cdot G(x)}{Q(x) \cdot H(x)}$
@@ -59,17 +66,36 @@ If $x + y + z = 0$, then:
 
 ### Theorem 2: Symmetric Quadratic Cyclic Sum
 If $x + y + z = 0$, then:
+
 $$x^2 + y^2 - z^2 = (x+y)^2 - 2xy - z^2 = (-z)^2 - 2xy - z^2 = -2xy$$
+
 Hence:
+
 $$\frac{1}{x^2 + y^2 - z^2} + \frac{1}{y^2 + z^2 - x^2} + \frac{1}{z^2 + x^2 - y^2} = -\frac{1}{2xy} - \frac{1}{2yz} - \frac{1}{2zx} = -\frac{x+y+z}{2xyz} = 0$$
 
 ### Theorem 3: Cyclic Fraction Splitting
 For pairwise distinct parameters $a, b, c$:
+
 $$\frac{a}{(a-b)(a-c)} + \frac{b}{(b-c)(b-a)} + \frac{c}{(c-a)(c-b)} = 0$$
 
 ---
 
-## 5. Subtopic & Cheatsheet Links
+## 5. Subtopic Notes
 
 * [[cds/math/notes/subtopics/rational_simplification|Rational Simplification & Partial Fractions]]
 * [[cds/math/notes/subtopics/cyclic_rational_identities|Cyclic Rational Identities & Constant Shifts]]
+
+---
+
+## 6. Chapter Questions & PYQs
+
+* [[cds/math/notes/questions/q15_rational|Question 15 (Pathfinder Ch 16 - Underdetermined Shifted Rational Sum)]]
+* [[cds/math/notes/questions/q19_telescoping|Question 19 (CDS 2014 II - Binary Power Telescoping Series)]]
+* [[cds/math/notes/questions/q20_system|Question 20 (CDS 2016 I - Symmetric Rational System Elimination)]]
+
+---
+
+## 7. Novel Concept Variations
+
+* [[cds/math/notes/variations/var15|Variation 15: Double Shifted Rational Sum with Weighted Coefficients]]
+* [[cds/math/notes/variations/var16|Variation 16: Infinite Product-Sum Telescoping Series]]

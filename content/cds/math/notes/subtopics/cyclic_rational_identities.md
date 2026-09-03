@@ -29,6 +29,9 @@ Solving for single variables yields:
 
 $$\frac{x^2}{a + x^2} = \frac{a}{a+b+c} \quad \text{or} \quad \frac{x}{a+x} + \frac{y}{b+y} + \frac{z}{c+z} = 1$$
 
+> **Related Questions & Variations**:
+> * [[cds/math/notes/questions/q20_system|Question 20 (CDS 2016 I - Pathfinder Ch 16)]]
+
 ---
 
 ## 2. Cyclic Sum of Products (Condition $pq + qr + rp = 0$)
