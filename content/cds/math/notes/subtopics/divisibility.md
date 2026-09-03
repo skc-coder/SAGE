@@ -141,6 +141,7 @@ Test if $N = 45,983,724$ is divisible by 7, 11, or 13.
 ## Linked Practice Questions
 
 - [[cds/math/notes/questions/q12|Q12]]
+- [[cds/math/notes/questions/q30|Q30]]
 
 ## Variations
 
