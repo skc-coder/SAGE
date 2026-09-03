@@ -19,12 +19,13 @@ $$A = B \cdot Q + R \quad \text{where } \mathbf{0 \le R < B}$$
 > [!IMPORTANT]
 > The formal mathematical remainder $R$ MUST ALWAYS be non-negative ($0 \le R < B$).
 
-#### 🔍 Example: What is the remainder when $-1$ is divided by $6$? ($ -1 \pmod 6 $)
+#### 🔍 Example: What is the remainder when $-1$ is divided by $6$? ($-1 \pmod 6$)
 Express $-1 = 6 \cdot Q + R$:
 - If quotient $Q = 0 \implies -1 = 6(0) + (-1) \implies R = -1$ ❌ *(Invalid because $R < 0$)*
 - If quotient $Q = -1 \implies -1 = 6(-1) + R \implies -1 = -6 + R \implies \mathbf{R = 5}$ ✅ *(Valid because $0 \le 5 < 6$)*
 
 Thus, $-1 \pmod 6 \equiv \mathbf{5 \pmod 6}$.  
+
 In general:
 $$\mathbf{-1 \pmod m \equiv (m - 1) \pmod m}$$
 
@@ -39,14 +40,14 @@ $$\dots, -12, -6, \mathbf{0}, 6, 12, 18, \dots \quad (\text{Multiples of 6, Rema
 Every integer lies relative to the **previous multiple of 6 going left to right**:
 
 | Dividend $A$ | Division Form ($B \cdot Q + R$) | Quotient $Q$ | Remainder $R \pmod 6$ |
-| :--- | :--- | :--- | :--- |
-| $+13$ | $6 \times 2 + 1$ | $2$ | $1$ |
-| $+7$ | $6 \times 1 + 1$ | $1$ | $1$ |
-| $+1$ | $6 \times 0 + 1$ | $0$ | $1$ |
-| **$-1$** | $6 \times (-1) + \mathbf{5}$ | $-1$ | **$5$** |
-| **$-2$** | $6 \times (-1) + \mathbf{4}$ | $-1$ | **$4$** |
-| **$-3$** | $6 \times (-1) + \mathbf{3}$ | $-1$ | **$3$** |
-| **$-5$** | $6 \times (-1) + \mathbf{1}$ | $-1$ | **$1$** |
+| :----------- | :------------------------------ | :----------- | :-------------------- |
+| $+13$        | $6 \times 2 + 1$                | $2$          | $1$                   |
+| $+7$         | $6 \times 1 + 1$                | $1$          | $1$                   |
+| $+1$         | $6 \times 0 + 1$                | $0$          | $1$                   |
+| **$-1$**     | $6 \times (-1) + \mathbf{5}$    | $-1$         | **$5$**               |
+| **$-2$**     | $6 \times (-1) + \mathbf{4}$    | $-1$         | **$4$**               |
+| **$-3$**     | $6 \times (-1) + \mathbf{3}$    | $-1$         | **$3$**               |
+| **$-5$**     | $6 \times (-1) + \mathbf{1}$    | $-1$         | **$1$**               |
 
 ---
 
@@ -104,7 +105,7 @@ $$a \cdot a^{-1} \equiv 1 \pmod m$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions#question-11-modular-negative-remainder-power|Question 11: Modular Power Reduction using Negative Remainder]]
+- [[cds/math/notes/questions#question-11-modular-fast-power-reduction|Question 11: Modular Fast Power Reduction]]
 - [[cds/math/notes/questions#question-12-negative-remainder-power-trick|Question 12: Negative Remainder Power Trick]]
 
 ---

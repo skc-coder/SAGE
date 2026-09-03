@@ -50,8 +50,8 @@ $$\operatorname{HCF}(a, b, c) \le \operatorname{HCF}(|a-b|, |b-c|, |c-a|)$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions#question-1-hcf-of-large-differences|Question 1: HCF of Numbers Leaving Same Remainder]]
-- [[cds/math/notes/questions#question-2-coprime-pair-counting|Question 2: Co-Prime Pair Counting Given Sum & HCF]]
+- [[cds/math/notes/questions#question-5-hcf-of-large-differences|Question 5: HCF of Numbers Leaving Same Remainder]]
+- [[cds/math/notes/questions#question-6-co-prime-pair-counting-given-sum-hcf|Question 6: Co-Prime Pair Counting Given Sum & HCF]]
 
 ---
 
