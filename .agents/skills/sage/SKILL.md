@@ -236,8 +236,10 @@ All overview and topic files MUST strictly follow this vertical order:
 
 ---
 
-## 4. Analytics Commands
+## 4. Analytics & Study Commands
 
+- `/study chapter [x]` $\rightarrow$ Automated bookmark lookup & text extraction using `scripts/chapter_study_helper.py`, topic & subtopic note creation, key theorem/pattern categorization, and unique practice question session setup.
 - `/wrap` $\rightarrow$ Relocates questions, updates dataview queries, embeds visual charts, and updates frontmatter properties.
 - `/report [subject/topic]` $\rightarrow$ Renders accuracy ratio, Mistake Category Pie Chart, Topic Accuracy Heatmap, and actionable weak area advice.
 - `/analyze [subject/topic/exam]` $\rightarrow$ Renders exam weightage distribution, trap patterns, and high-yield focus topics with visual charts.
+
