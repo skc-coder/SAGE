@@ -4,8 +4,8 @@
 
 ### Graph Algorithms
 #### Minimum Spanning Trees (MST)
-- ❌ **[[content/gate-cs/algorithms/notes/counting_msts_formulaic|Counting MSTs]]** *(1 Question)*
-- ✅ **[[content/gate-cs/algorithms/notes/mst_uniqueness_theorem|MST Uniqueness]]** *(1 Question)*
+- [[content/gate-cs/algorithms/notes/counting_msts_formulaic|Counting MSTs]]
+- [[content/gate-cs/algorithms/notes/mst_uniqueness_theorem|MST Uniqueness]]
 
 #### Shortest Paths
 - *No notes yet.*
@@ -13,7 +13,9 @@
 ---
 
 ## Chapter Variations
-- 💡 **[[content/gate-cs/algorithms/notes/chapter_variations|Multi-Topic Variations]]** *(MST + Shortest Paths + DSU)*
+- [[content/gate-cs/algorithms/notes/variations/mst_shortest_path_equivalence|MST vs Shortest Path Tree Equivalence]]
+- [[content/gate-cs/algorithms/notes/variations/kruskal_dsu_complexity|Kruskal DSU Complexity]]
+- [[content/gate-cs/algorithms/notes/variations/counting_msts_variations|Counting MSTs Theorems]]
 
 ---
 

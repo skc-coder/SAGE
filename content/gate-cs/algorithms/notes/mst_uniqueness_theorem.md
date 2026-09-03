@@ -20,9 +20,3 @@ date: 2026-09-03
 - ✅ **[[content/gate-cs/algorithms/notes/questions/gate_2018_q12_mst|GATE 2018 Q12: Distinct Edge Weights Theorem]]**
 
 ---
-
-## 3. Topic Variations & Synthesis
-> **Variation 1 (Converse Property Test)**: Is it possible for a connected graph $G$ with *some duplicate edge weights* to still possess a unique MST? Provide a condition or counterexample.
-
-> [!faq]- View Solution
-> **Yes**. Distinct edge weights are a *sufficient* condition, but not a *necessary* condition for MST uniqueness. For example, if duplicate weight edges belong to disjoint cuts and never form cycles of equal-weight max edges, the MST remains unique.
