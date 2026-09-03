@@ -8,6 +8,7 @@
 - [[content/cds/math/notes/modular|Ch 3. Modular Arithmetic & Remainders]]
 - [[content/cds/math/notes/roots|Ch 5. Square Roots and Cube Roots]]
 - [[content/cds/math/notes/work|Ch 7. Time and Work]]
+- [[content/cds/math/notes/algebraic_operations|Ch 14. Algebraic Operations]]
 - [[content/cds/math/notes/polynomial_hcf_lcm|Ch 15. HCF and LCM of Polynomials]]
 - [[content/cds/math/notes/rational_expressions|Ch 16. Rational Expressions]]
 - [[content/cds/math/notes/linear_equations|Ch 17. Linear Equations]]
@@ -34,6 +35,7 @@
 - [[content/cds/math/notes/variations/var22|Moving Aircraft Angular Acceleration & Speed]]
 - [[content/cds/math/notes/variations/var17|Ch 23 Variations (Median, Thales, Apollonius)]]
 - [[content/cds/math/notes/variations/var23|Ch 24 Variations (Trapezium Diagonals, Midpoint Quads, n-gon Intersections)]]
+- [[content/cds/math/notes/variations/var24|Ch 25 Variations (Common Tangents, Annulus Chords, Ptolemy's Theorem)]]
 - [[content/cds/math/notes/variations/var27|Ch 27 Variations (Water Flow, Submersion, Cone Inscribed Sphere)]]
 - [[content/cds/math/notes/variations/var28|Ch 28 Variations (Ogives Intersection, Weighted Power Means, Subgroup Variance)]]
 
