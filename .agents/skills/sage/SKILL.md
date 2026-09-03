@@ -73,8 +73,10 @@ content/
 ### Strict Hierarchical Linking Rules
 
 1. **Subject Overview Dashboards (`[subject]_overview.md`)**:
-   - Links ONLY to **Topic Pages** (`[[content/cds/elementary-mathematics/notes/trigonometry_identities|Heights and Distances]]`).
+   - Links ONLY to **Topic Pages** (`[[content/cds/math/notes/trigonometry|Ch 20. Trigonometry]]`).
+   - **MANDATORY**: Always prefix the link display text with the explicit Chapter Number (e.g. `[[content/cds/math/notes/hcf_lcm|Ch 3. HCF and LCM of Numbers]]`).
    - STRICTLY NO direct links to regular practice questions or subtopics on subject overview pages!
+
 
 2. **Topic Pages (`notes/[topic_slug].md`)**:
    - Links ONLY down to **Subtopic Pages** under `## Subtopics` (e.g. `[[content/cds/elementary-mathematics/notes/subtopics/two_point_angle_elevation|Two-Point Angle of Elevation]]`).
