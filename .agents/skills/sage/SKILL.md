@@ -78,12 +78,12 @@ content/
 
 ---
 
-### Crisp & Adult Mathematical Intuition Mandate (STRICT)
+### Pragmatic Engineering Intuition Mandate (STRICT)
 
-- **NO CHILDLIKE ANALOGIES OR ELI5 SLOP**: Strictly forbid childish analogies (e.g., "sweets in boxes", "pizza slices", "friends sharing toys", "counting apples").
-- **PURE MATHEMATICAL & CONGRUENCE INTUITION ONLY**: Provide crisp, high-density mathematical intuition focused on structure, modulo congruence algebraic forms, divisibility properties, bounds, linear algebra, or prime factorizations!
-  - *Example (Good)*: $N + p \equiv 0 \pmod x \implies N + p \text{ is a common multiple of } x, y, z \implies N = \operatorname{LCM}(x,y,z) - p$.
-  - *Example (Bad)*: "Imagine you are packing sweets into boxes and missing 17 sweets..."
+- **BALANCE OVER EXTREMES (NO ELI5 SLOP & NO DENSE JARGON OVERKILL)**:
+  - **NO Childlike Analogies**: Avoid childish scenarios ("sweets in boxes", "pizza slices", "sharing toys").
+  - **NO Dense Mathematical Jargon Dumping**: Avoid unhelpful wall-of-symbols notation (e.g. dumping raw $\equiv \pmod x$ congruence proofs without explaining the underlying core mechanism in plain English).
+- **GOLDILOCKS EXPLANATION STYLE**: Explain **WHY** the mathematical step or formula works in direct, sharp, pragmatic English focusing on structural mechanisms (e.g. "Notice that in each case, the difference between divisor and remainder is 17. That means if we add 17, the number becomes exactly divisible by all three numbers...").
 
 ### Formatting & Title Standards (KISS Principle)
 
