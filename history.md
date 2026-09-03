@@ -2,6 +2,21 @@
 
 ## Log Entries
 
+### [2026-09-03T14:48:00+05:30] - Pathfinder Chapter 15: HCF and LCM of Polynomials Study Notes & Question Categorization
+- **User Request**: Read Chapter 15 (HCF and LCM of Polynomials), create topic & subtopic notes, categorize practice questions, identify unique practice questions, extract key theorems/patterns, and create dedicated SAGE notes.
+- **Implementation**:
+  - Created GitHub Issue [#6](https://github.com/skc-coder/SAGE/issues/6) and updated [`tickets.md`](file:///home/skc/dev/SAGE/tickets.md).
+  - Created main topic note [`polynomial_hcf_lcm.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/polynomial_hcf_lcm.md) with core theory, intuition, and formulas.
+  - Created subtopic notes:
+    - [`poly_factorization.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/poly_factorization.md) for factorization HCF/LCM and algebraic identities ($a^3 \pm b^3$, $a^4 - b^4$, Sophie Germain).
+    - [`poly_euclidean_division.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/poly_euclidean_division.md) for long division algorithm and scalar factor removal.
+    - [`poly_zero_root.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/subtopics/poly_zero_root.md) for factor theorem evaluation, root matching, linear HCF parameter formula $k = \frac{b-q}{a-p}$, and simultaneous parameter systems.
+  - Categorized all 41 practice/PYQ questions into 5 distinct problem archetypes.
+  - Created dedicated question notes: [`q29.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/questions/q29.md) to [`q35.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/questions/q35.md).
+  - Created novel variation notes: [`var12.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/variations/var12.md) to [`var14.md`](file:///home/skc/dev/SAGE/content/cds/math/notes/variations/var14.md).
+  - Updated [`math_overview.md`](file:///home/skc/dev/SAGE/content/cds/math/math_overview.md) and verified Quartz site build (`npx quartz build`).
+  - Committed and pushed changes to `origin/v5`.
+
 ### [2026-09-03T14:46:00+05:30] - Fix External Links to Internal Obsidian Wikilinks
 - **User Feedback**: Correct external `file:///...` links to native Obsidian wikilinks `[[path|Title]]` in `math_overview.md`.
 - **Implementation**:
