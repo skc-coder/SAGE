@@ -30,8 +30,10 @@ $$N = k \cdot \operatorname{LCM}(x, y, z) + R \quad \text{solve } k \text{ for }
 
 ---
 
-### Model 4: Bell Ringing / Circular Track Race Concurrency
+### Model 4: Bell Ringing & Circular Track Race Concurrency
 $$\text{Time Interval} = \operatorname{LCM}(t_1, t_2, t_3)$$
+- For a complete 4-Type Masterclass & Memory Trick, see the atomic note:
+  **[[cds/math/notes/subtopics/track_concurrency|Circular Track Concurrency & Race Masterclass]]**
 
 ---
 
@@ -41,6 +43,9 @@ $$\text{Time Interval} = \operatorname{LCM}(t_1, t_2, t_3)$$
 - [[cds/math/notes/questions/q8|Question 8: Bell Ringing Concurrency Interval]]
 - [[cds/math/notes/questions/q9|Question 9: Example 3 Constant Difference]]
 - [[cds/math/notes/questions/q10|Question 10: Example 4 LCM with Divisibility Condition]]
+- [[cds/math/notes/questions/q19|Question 19: Product Identity with Linear LCM-HCF Sum (CDS 2014 II)]]
+- [[cds/math/notes/questions/q22|Question 22: Circular Track Concurrency Meeting Time]]
+- [[cds/math/notes/questions/q26|Question 26: Sum of Digits of Least Multiple with Constant Difference (CDS 2015 II)]]
 
 ---
 

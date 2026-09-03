@@ -50,29 +50,24 @@ If $a \equiv b \pmod m$ and $c \equiv d \pmod m$, then:
 
 ### 3. Essential Theorems & Proofs
 
-#### Theorem 1: Fermat's Little Theorem (FLT)
+#### [[cds/math/notes/subtopics/flt|Theorem 1: Fermat's Little Theorem (FLT)]]
 If $p$ is a prime number and $a$ is any integer such that $\operatorname{GCD}(a, p) = 1$, then:
-$$\mathbf{a^{p-1} \equiv 1 \pmod p}$$
+$$\mathbf{a^{p-1} \equiv 1 \pmod p} \quad \text{and} \quad \mathbf{a^p \equiv a \pmod p}$$
 
-- **Practical Use**: Reduces massive powers modulo a prime!
-- *Example*: What is $2^{100} \pmod{101}$? Since 101 is prime and $\operatorname{GCD}(2, 101) = 1$, $2^{100} \equiv 1 \pmod{101}$.
-
----
-
-#### Theorem 2: Euler's Totient Theorem (Generalization of FLT)
-For ANY modulus $m$ (prime or composite) and integer $a$ co-prime to $m$ ($\operatorname{GCD}(a, m) = 1$):
+#### [[cds/math/notes/subtopics/euler|Theorem 2: Euler's Totient Theorem (Composite Modulus $m$)]]
+For ANY modulus $m$ (prime or composite) where $\operatorname{GCD}(a, m) = 1$:
 $$\mathbf{a^{\phi(m)} \equiv 1 \pmod m}$$
-where $\phi(m)$ is **Euler's Totient Function** (the count of integers up to $m$ that are co-prime to $m$).
-
-- **Formula for $\phi(m)$**: If $m = p_1^{e_1} p_2^{e_2} \cdots p_k^{e_k}$, then:
-  $$\phi(m) = m \left(1 - \frac{1}{p_1}\right) \left(1 - \frac{1}{p_2}\right) \cdots \left(1 - \frac{1}{p_k}\right)$$
+where $\phi(m) = m \left(1 - \frac{1}{p_1}\right) \left(1 - \frac{1}{p_2}\right) \cdots \left(1 - \frac{1}{p_k}\right)$.
 
 ---
 
-#### Theorem 3: Chinese Remainder Theorem (CRT)
-Used to solve systems of simultaneous linear congruences with pairwise co-prime moduli:
-$$\begin{cases} x \equiv a_1 \pmod{m_1} \\ x \equiv a_2 \pmod{m_2} \\ \vdots \\ x \equiv a_k \pmod{m_k} \end{cases}$$
-If $\operatorname{GCD}(m_i, m_j) = 1$ for all $i \neq j$, there exists a **unique solution modulo $M = m_1 \cdot m_2 \cdots m_k$**.
+#### [[cds/math/notes/subtopics/crt|Theorem 2: Chinese Remainder Theorem (CRT)]]
+Used to solve systems of simultaneous linear congruences with pairwise co-prime moduli $m_1, m_2, \dots, m_k$.
+
+---
+
+#### [[cds/math/notes/subtopics/wilson|Theorem 3: Wilson's Theorem]]
+For any prime $p$: $(p-1)! \equiv -1 \pmod p$.
 
 ---
 

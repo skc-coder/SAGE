@@ -30,15 +30,26 @@ content/
 
 ### Note Content Guidelines by Taxonomy Level
 
-### Consolidated Questions Page Mandate per Chapter (STRICT)
+### Dedicated Individual Question & Variation Files Mandate (STRICT)
 
-- **ONE CONSOLIDATED QUESTIONS PAGE PER CHAPTER**: Do NOT create separate `.md` files for individual practice questions (e.g. no individual `q12.md`, `q26.md`, etc.). All solved practice questions for a chapter/topic belong in **ONE single consolidated page** at `notes/questions.md`!
-- **CONSOLIDATED QUESTIONS FORMAT**:
-  - Main Heading: `# [TOPIC] Practice Questions` (e.g. `# Numbers Practice Questions`).
-  - Section per question: `### Question 1 (Q12: [SHORT TITLE])`, `### Question 2 (Q26: [SHORT TITLE])`, etc.
-  - Question statement & options directly under the heading.
-  - Solution inside collapsible block: `> [!faq]- View Solution`.
-- **SUBTOPIC LINKING**: Subtopic notes must link directly to the specific question heading anchor inside `notes/questions.md` (e.g. `[[cds/math/notes/questions#question-1-q12-continuous-equal-ratios|Question 1 (Q12)]]`).
+- **INDIVIDUAL QUESTION & VARIATION FILES**: Do NOT pool questions or variations into single monolithic files (`questions.md` or `vars.md`).
+- **FOLDER STRUCTURE**:
+  - Questions live in dedicated directory: `content/[exam]/[subject]/notes/questions/q1.md`, `q2.md`, `q3.md`, etc.
+  - Variations live in dedicated directory: `content/[exam]/[subject]/notes/variations/var1.md`, `var2.md`, `var3.md`, etc.
+- **MANDATORY YAML FRONTMATTER PROPERTIES**: Every individual question and variation file MUST include:
+  ```yaml
+  ---
+  exam: "CDS"
+  subject: "Math"
+  topic: "HCF and LCM"
+  subtopic: "LCM Models"
+  difficulty: "Medium"     # "Easy" | "Medium" | "Hard"
+  status: "Correct"        # "Correct" | "Wrong"
+  importance: "Important"  # "Normal" | "Important"
+  tags: [cds, math, question]
+  ---
+  ```
+- **DIRECT BACKLINKING**: Subtopic notes must link directly to the individual file (e.g. `[[cds/math/notes/questions/q11|Question 11: Modular Fast Power Reduction]]`).
 
 ### Short Filename Mandate across ALL Taxonomy Levels
 
@@ -77,6 +88,18 @@ content/
 
 
 ---
+
+### Atomic Theorem Notes & Hyperlink Graph Mandate (STRICT)
+
+- **ATOMIC THEOREM PAGES**: Major independent mathematical theorems, principles, and core techniques (e.g. Fermat's Little Theorem, Chinese Remainder Theorem, Euler's Totient Theorem, Euclidean Division Algorithm) MUST be extracted into their own dedicated subtopic/theorem notes in `notes/subtopics/[theorem_slug].md`.
+- **OBSIDIAN WIKI-LINK GRAPH MESH**: Main topic notes, subtopic notes, question notes, and variation notes MUST hyper-link to these atomic theorem pages using Obsidian wiki-links (e.g. `[[cds/math/notes/subtopics/flt|Fermat's Little Theorem]]` or `[[cds/math/notes/subtopics/crt|Chinese Remainder Theorem]]`).
+- **NO MONOLITHIC COPIED TEXT**: Instead of repeating 3-page theorem proofs inside multiple question files or main topic files, link directly to the atomic theorem note!
+
+### Zero-Omission Instant Note Persistence Rule (STRICT)
+
+- **ALWAYS WRITE/UPDATE VAULT NOTES INSTANTLY**: Every piece of theory, intuition, mathematical proof, theorem derivation, worked example, or concept explanation provided in chat MUST be immediately saved/appended into the corresponding vault note file (`content/[exam]/[subject]/notes/...`) BEFORE responding!
+- **NO CHAT-ONLY EXPLANATIONS**: Never provide an explanation in chat without persisting it in the Obsidian vault.
+- **NO WAITING FOR EXPLICIT USER PROMPTS**: Do not wait for the user to ask "did you save this?". Save every explanation automatically into the vault.
 
 ### Intuition & Mathematical Rigor Mandate (STRICT)
 

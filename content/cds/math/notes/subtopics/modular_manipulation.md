@@ -26,6 +26,9 @@ $a \cdot a^{-1} \equiv 1 \pmod m$. Exists if and only if $\operatorname{GCD}(a, 
 
 - [[cds/math/notes/questions/q11|Question 11: Modular Fast Power Reduction]]
 - [[cds/math/notes/questions/q12|Question 12: Negative Remainder Power Trick]]
+- [[cds/math/notes/questions/q13|Question 13: Large Exponent Modulo Prime (2^1000 mod 17)]]
+- [[cds/math/notes/questions/q14|Question 14: Sum of Powers Modulo Prime (1^12 + 2^12 + ... + 12^12 mod 13)]]
+- [[cds/math/notes/questions/q15|Question 15: Wilson's Theorem Companion (12! + 2 mod 13)]]
 
 ---
 
