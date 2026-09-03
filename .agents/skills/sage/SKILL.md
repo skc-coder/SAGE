@@ -30,14 +30,29 @@ content/
 
 ### Note Content Guidelines by Taxonomy Level
 
+### Ultra-Lean Question Notes Mandate (STRICT)
+
+- **QUESTION NOTES MUST CONTAIN ONLY**:
+  1. `# [Q_NUMBER]` (e.g. `# Q12`)
+  2. `## Question Statement`
+  3. `## Solution` (1-2 crisp solution methods / shortcuts)
+  4. **Correct Answer**
+  5. `## Navigation` (link back to parent subtopic ONLY)
+- **STRICTLY FORBIDDEN IN QUESTION NOTES**:
+  - ❌ NO "Root Cause & Concept Note" sections!
+  - ❌ NO subtopic theory or formula proofs!
+  - ❌ NO "Tier 1 Variations" sections! (Variations belong strictly in `notes/variations/vars.md`).
+  - ❌ NO redundant header fluff!
+
 ### Short Filename Mandate across ALL Taxonomy Levels
 
 - **STRICT MANDATE FOR ALL FILENAMES**: All files and directories across ALL levels (subjects, topics, subtopics, questions, variations) MUST use ultra-short, single-word or 1-2 word lowercase kebab-case names!
+  - Subject directory: `cds/math/` instead of `cds/elementary-mathematics/`
   - Subject overview: `math_overview.md` instead of `elementary_mathematics_overview.md`
   - Topic notes: `numbers.md` instead of `number_system.md`
   - Subtopic notes: `ratios.md` instead of `ratios_and_proportions.md`
   - Question notes: `q12.md` instead of `pathfinder_number_system_q12.md`
-  - Variation notes: `variations.md` instead of `number_system_variations.md`
+  - Variation notes: `vars.md` instead of `number_system_variations.md`
 - **RATIONALE**: Long folder and file names break breadcrumbs, overflow sidebars, and look ugly on Quartz/Quarto web publishing!
 
 
