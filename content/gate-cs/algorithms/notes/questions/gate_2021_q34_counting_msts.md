@@ -11,7 +11,7 @@ tags: [gate-cs, algorithms, mst, question-note]
 date: 2026-09-03
 ---
 
-# GATE 2021 Set 1 Q34 — Counting MSTs (Formulaic Edge Conditions)
+# GATE 2021 Set 1 Q34
 
 ## 1. Question Context
 - **Source**: GATE CS 2021 Set 1 Q34

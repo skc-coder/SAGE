@@ -8,7 +8,7 @@ tags: [gate-cs, algorithms, mst, variations-note]
 date: 2026-09-03
 ---
 
-# Topic Synthesis Variations — Minimum Spanning Trees (Counting MSTs)
+# Counting MSTs Variations
 
 ## 1. General Equal-Weight Cycle Theorem
 
