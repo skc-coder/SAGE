@@ -40,15 +40,9 @@ content/
    - Do NOT wrap status inside inline code ticks (`` `[Status: ❌]` ``).
    - Use clean, direct wikilinks: `[[content/gate-cs/algorithms/notes/counting_msts_formulaic|Counting MSTs]]`.
 3. **Collapsible Solutions (`> [!faq]- View Solution`)**:
-   - ALWAYS use native Obsidian Callout foldables for collapsible solutions/hints:
-     ```markdown
-     > [!faq]- View Solution
-     > Edge $e_5$ (weight $2$) and $e_1$ (weight $3$) are strictly chosen first.
-     >
-     > $$ w(e_1)=3, \quad w(e_2)=5 $$
-     ```
+   - ALWAYS use native Obsidian Callout foldables for collapsible solutions/hints.
 4. **Centered Display Math**: Use `$$ ... $$` separated by blank lines for math formulas.
-5. **Obsidian Frontmatter**: Every note tracks metadata in frontmatter (never repeat redundant context bullet lists in the body):
+5. **Obsidian Frontmatter**: Every note tracks metadata in frontmatter without body duplication:
    ```yaml
    ---
    exam: "GATE CS"
@@ -68,58 +62,85 @@ content/
 
 ---
 
-## 3. Two Modes of Session Logging & Ingest
+## 3. Visual Performance Graphs & Analytics Charts
+
+When rendering `/report` or `/analyze` commands (or updating `question_db.md` and test scorecards), the AI MUST generate and embed standard Dataview / Mermaid / Chart.js visual graphs:
+
+### 1. Mistake Type Breakdown Chart (Mermaid Pie Chart)
+Shows the exact distribution of why questions were lost (e.g., *Calculation Error* vs *Conceptual Gap* vs *Overlooked Edge Case*):
+```mermaid
+pie title Mistake Category Distribution
+    "Calculation Error" : 45
+    "Conceptual Gap" : 30
+    "Overlooked Edge Case" : 15
+    "Time Pressure" : 10
+```
+
+### 2. Topic Mastery Heatmap (Mermaid Bar Chart)
+Visualizes accuracy percentage across different topics in a subject to immediately spot weak areas:
+```mermaid
+gantt
+    title Topic Accuracy % Heatmap
+    dateFormat X
+    axisFormat %s%%
+    section Algorithms
+    Minimum Spanning Trees : active, 0, 75
+    Shortest Paths (Dijkstra) : crit, 0, 40
+    Dynamic Programming : crit, 0, 30
+    Asymptotic Notation : 0, 95
+```
+
+### 3. Cumulative Score & Accuracy Trend Line (Test Sessions)
+Tracks score progression across sequential mock tests in `test_sessions/`:
+```mermaid
+xychart-beta
+    title Test Score & Accuracy Progression
+    x-axis [Mock 01, Mock 02, Mock 03, Mock 04, Full Test 01]
+    y-axis "Accuracy %" 0 --> 100
+    line [52, 60, 58, 74, 82]
+    bar [52, 60, 58, 74, 82]
+```
+
+---
+
+## 4. Two Modes of Session Logging & Ingest
 
 ### Mode A: Full Test PDF Walkthrough (`test_sessions/`)
 - User provides a PDF of a test session given.
-- AI logs the summary scorecard in `test_sessions/[date]_[test_name].md`.
-- **Mandatory Link**: Must store the explicit link/path to the source PDF test file inside both frontmatter (`source_file_link`) and the summary scorecard.
-- Evaluates questions one by one, inferring exact question numbers ($Q1, Q2, \dots$).
+- AI logs summary scorecard + embedded Mermaid performance charts in `test_sessions/[date]_[test_name].md`.
+- **Mandatory Link**: Must store explicit link to source PDF test file in frontmatter and summary note.
 
 ### Mode B: Haphazard Practice Session (`practice_sessions/`)
-- User pastes text, screenshots, or questions from a book/custom source.
-- AI logs the practice session in `practice_sessions/[date]_[source_name].md`.
-- **Question Number Tracking**: Inferred automatically from screenshots/text (e.g. *CLRS Ex 23.2-1*, *Book Q14*). If ambiguous or missing, AI MUST explicitly ask the user for the question number/source.
-- Suggests the target exam and subject if not specified.
+- User pastes text, screenshots, or questions from a book/source.
+- AI logs session in `practice_sessions/[date]_[source_name].md`.
+- **Question Number Tracking**: Inferred automatically (e.g. *CLRS Ex 23.2-1*, *Book Q14*). If ambiguous, AI MUST explicitly ask the user.
 
 ---
 
-## 4. Interactive Practice Workflow
+## 5. Interactive Practice Workflow
 
-When user provides a question:
-
-1. **Ingest & Taxonomy Breakdown**: Extract Exam, Year, Question Number, Subject, Topic, Subtopic, and Specialization.
-2. **Evaluation & Explanation (If Wrong / Unsure)**:
-   - Provide root cause, intuition, mathematical theorems, and step-by-step derivation.
-   - Categorize mistake type (`Calculation Error`, `Conceptual Gap`, `Overlooked Edge Case`, `Misread Question`).
+1. **Ingest & Taxonomy Breakdown**: Extract Exam, Year, Question Number, Subject, Topic, Subtopic, Specialization.
+2. **Evaluation & Explanation**: Root cause, intuition, theorems, step-by-step derivation, and mistake category.
 3. **Generate Novel Variations (3 Tiers)**:
-   - **Tier 1 (Direct Question Variation)**: Placed inside `notes/questions/[question_slug].md`.
-   - **Tier 2 (Topic Variation)**: Placed inside `notes/variations/[topic_slug]_variations.md`.
-   - **Tier 3 (Chapter / Multi-Topic Variation)**: Placed inside `notes/variations/[variation_slug].md` and linked directly under `Chapter Variations` in `index.md`.
+   - **Tier 1 (Direct Question Variation)**: Placed in `notes/questions/[question_slug].md`.
+   - **Tier 2 (Topic Variation)**: Placed in `notes/variations/[topic_slug]_variations.md`.
+   - **Tier 3 (Chapter Variation)**: Placed in `notes/variations/[variation_slug].md` and linked directly under `Chapter Variations` in `index.md`.
 
 ---
 
-## 5. Modular Note Architecture & `/wrap` Pipeline
+## 6. Modular Note Architecture & `/wrap` Pipeline
 
 When user types `/wrap`:
-
-1. **Session Summary Migration**:
-   - For Test PDF: Save scorecard in `test_sessions/` with link to test PDF.
-   - For Haphazard Practice: Save session log in `practice_sessions/` with tracked question numbers and sources.
-2. **Question Notes (`notes/questions/[question_slug].md`)**:
-   - Holds original question statement in blockquote + collapsible derivation (`> [!faq]- View Solution & Derivation`) + Tier 1 variations + direct link to source test/practice file.
-3. **Variation Notes (`notes/variations/[variation_slug].md`)**:
-   - Holds dedicated variation problems with collapsible solutions (`> [!faq]- View Solution`).
-4. **Topic Notes (`notes/[topic_slug].md`)**:
-   - Holds core theory + index of links to Question Notes and Topic Variation Notes.
-5. **Master Index (`[exam]/[subject]/index.md`)**:
-   - Links directly to Topic Notes and **Directly to Chapter Variation Notes** (no intermediate indexer page).
-6. **Database (`[exam]/[subject]/question_db.md`)**:
-   - Topic-centric rows tracking subtopics, specializations, linked question notes, performance, and logged mistake categories.
+1. **Session Summary**: Save scorecard in `test_sessions/` or `practice_sessions/` with embedded Mermaid progress chart.
+2. **Question Notes**: Original question statement in blockquote + collapsible derivation (`> [!faq]- View Solution & Derivation`) + Tier 1 variations + direct test PDF link.
+3. **Variation Notes**: Dedicated variation problems with collapsible solutions (`> [!faq]- View Solution`).
+4. **Topic Notes**: Core theory + index of links to Question Notes and Topic Variation Notes.
+5. **Master Index (`[exam]/[subject]/index.md`)**: Direct links to Topic Notes and Chapter Variation Notes.
+6. **Database (`[exam]/[subject]/question_db.md`)**: Topic-centric rows tracking subtopics, specializations, linked question notes, performance, mistake categories, and dynamic Dataview queries.
 
 ---
 
-## 6. Analytics Commands
+## 7. Analytics Commands
 
-- `/report [subject/topic]` $\rightarrow$ Renders accuracy ratio, mistake category breakdown, and weak areas.
-- `/analyze [subject/topic/exam]` $\rightarrow$ Renders exam weightage, trap patterns, and high-yield focus topics.
+- `/report [subject/topic]` $\rightarrow$ Renders accuracy ratio, Mistake Category Pie Chart, Topic Accuracy Heatmap, and actionable weak area advice.
+- `/analyze [subject/topic/exam]` $\rightarrow$ Renders exam weightage distribution, trap patterns, and high-yield focus topics with visual charts.
