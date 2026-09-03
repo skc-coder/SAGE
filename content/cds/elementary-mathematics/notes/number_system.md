@@ -21,7 +21,7 @@ Key Theorems & Tricks:
 
 ## Subtopics
 
-- [[cds/elementary-mathematics/notes/subtopics/ratios_and_proportions|Ratios and Proportions]]
+- [[cds/elementary-mathematics/notes/subtopics/ratios|Ratios and Proportions]]
 
 ## Navigation
 

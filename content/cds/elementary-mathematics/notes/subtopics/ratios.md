@@ -49,7 +49,7 @@ $$\frac{la + mb + nc}{lx + my + nz} = \frac{a}{x} = \frac{b}{y} = \frac{c}{z}$$
 
 ## Linked Practice Questions
 
-- [[cds/elementary-mathematics/notes/questions/pathfinder_number_system_q12|Pathfinder Number System Q12]]
+- [[cds/elementary-mathematics/notes/questions/q12|Q12]]
 
 ## Navigation
 

@@ -31,7 +31,8 @@ content/
 ### Note Content Guidelines by Taxonomy Level
 
 1. **Question Notes (`notes/questions/[question_slug].md`)**:
-   - **STRICT MANDATE**: Keep question notes clean, minimal, and focused ONLY on the specific question solution! NEVER dump general subtopic theory, long proofs, or subtopic concept notes inside a question note! Subtopic theory belongs strictly in `notes/subtopics/[subtopic_slug].md`.
+   - **STRICT MANDATE FOR FILENAMES**: Use SHORT, CONCISE filenames for all files (e.g. `q12.md` instead of `pathfinder_number_system_q12.md`, `ratios.md` instead of `ratios_and_proportions.md`). This is critical because long page names look ugly and break breadcrumbs on the static web output!
+   - **STRICT MANDATE FOR CONTENT**: Keep question notes clean, minimal, and focused ONLY on the specific question solution! NEVER dump general subtopic theory, long proofs, or subtopic concept notes inside a question note! Subtopic theory belongs strictly in `notes/subtopics/[subtopic_slug].md`.
    - Contains: Exact question statement + Step-by-step mathematical explanation & derivation + Short root cause analysis + Tier 1 question variations.
    - Frontmatter metadata: `exam`, `subject`, `topic`, `subtopic`, `difficulty` (`Easy` | `Medium` | `Hard` - specified manually by user), `status`, `mistake_category`.
 
