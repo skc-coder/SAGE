@@ -14,6 +14,7 @@
 - [[content/cds/math/notes/heights|Ch 21. Height and Distance]]
 - [[content/cds/math/notes/heights_distances|Ch 22. Heights and Distances]]
 - [[content/cds/math/notes/triangles|Ch 23. Triangles]]
+- [[content/cds/math/notes/quadrilateral|Ch 24. Quadrilateral and Polygon]]
 
 ## Variations
 
@@ -23,6 +24,7 @@
 - [[content/cds/math/notes/variations/var21|Elliptic Cloud Reflection in Spherical Lake]]
 - [[content/cds/math/notes/variations/var22|Moving Aircraft Angular Acceleration & Speed]]
 - [[content/cds/math/notes/variations/var17|Ch 23 Variations (Median, Thales, Apollonius)]]
+- [[content/cds/math/notes/variations/var23|Ch 24 Variations (Trapezium Diagonals, Midpoint Quads, n-gon Intersections)]]
 
 
 ## Performance Overview
@@ -30,9 +32,9 @@
 ```mermaid
 xychart-beta
     title "Chapter Accuracy"
-    x-axis ["Ch 1", "Ch 3", "Ch 15", "Ch 16", "Ch 17", "Ch 18", "Ch 19", "Ch 20", "Ch 22"]
+    x-axis ["Ch 1", "Ch 3", "Ch 15", "Ch 16", "Ch 17", "Ch 18", "Ch 19", "Ch 20", "Ch 22", "Ch 23", "Ch 24"]
     y-axis "Accuracy %" 0 --> 100
-    bar [100, 100, 100, 100, 100, 100, 100, 100, 100]
+    bar [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100]
 ```
 
 ```mermaid
