@@ -103,6 +103,7 @@ pie title Exam Mistake Categories across Subjects
 ```
 
 ### Tier 2: Subject-Level Dashboard (`content/[exam]/[subject]/[subject]_overview.md`)
+1. **Chapter-Wise Accuracy Bar Chart**:
 ```mermaid
 xychart-beta
     title "Chapter-Wise Accuracy % (Elementary Mathematics)"
@@ -110,12 +111,21 @@ xychart-beta
     y-axis "Accuracy %" 0 --> 100
     bar [66, 0, 0, 0]
 ```
+2. **Topic-Wise Accuracy Bar Chart**:
 ```mermaid
 xychart-beta
     title "Topic-Wise Accuracy %"
     x-axis ["Heights & Distances", "Trigonometric Identities"]
     y-axis "Accuracy %" 0 --> 100
     bar [66, 0]
+```
+3. **Subtopic & Question Type Breakdown (Frequency & Status)**:
+   - Tracks exact subtopics and question types asked in tests, showing count frequency and outcome (Correct vs Wrong/Mistake).
+```mermaid
+pie title Subtopic & Question Type Performance Breakdown
+    "Heights & Distances > Two-point Angle (Wrong)" : 1
+    "Heights & Distances > Single Tower (Correct)" : 2
+    "Trigonometric Identities > Max/Min Value (Unattempted)" : 0
 ```
 
 ---

@@ -24,6 +24,14 @@ xychart-beta
     bar [66, 0]
 ```
 
+### Subtopic & Question Type Breakdown (Frequency & Status)
+
+```mermaid
+pie title Subtopic & Question Type Performance
+    "Heights & Distances > Two-point Angle (Wrong)" : 1
+    "Heights & Distances > Single Tower (Correct)" : 2
+```
+
 ## Navigation
 - [[content/cds/cds_overview|CDS]]
 - [[content/cds/elementary-mathematics/question_db|Question Database]]
