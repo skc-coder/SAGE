@@ -19,3 +19,7 @@ pie title Mistake Breakdown
 
 ## Navigation
 - [[content/cds/math/math_overview|Elementary Mathematics]]
+- [[content/cds/economy/economy_overview|Indian Economy]]
+
+- [[content/cds/geography/geography_overview|Geography]]
+
