@@ -48,7 +48,13 @@ If $a \equiv b \pmod m$ and $c \equiv d \pmod m$, then:
 
 ---
 
-### 3. Essential Theorems & Proofs
+
+### 3. Negative Remainder Conversion Rule
+$-k \pmod m \equiv (-k + m) \pmod m$.
+
+### 4. Modular Inverse & Cancellation
+$a \cdot a^{-1} \equiv 1 \pmod m$. Exists if and only if $\operatorname{GCD}(a, m) = 1$.
+### 5. Essential Theorems & Proofs
 
 #### [[cds/math/notes/subtopics/flt|Theorem 1: Fermat's Little Theorem (FLT)]]
 If $p$ is a prime number and $a$ is any integer such that $\operatorname{GCD}(a, p) = 1$, then:
@@ -69,11 +75,16 @@ Used to solve systems of simultaneous linear congruences with pairwise co-prime 
 #### [[cds/math/notes/subtopics/wilson|Theorem 3: Wilson's Theorem]]
 For any prime $p$: $(p-1)! \equiv -1 \pmod p$.
 
+
 ---
 
-## Subtopics & Core Techniques
+## Linked Practice Questions
 
-- [[cds/math/notes/subtopics/modular_manipulation|Modular Fast Power Reduction & Negative Remainders]]
+- [[cds/math/notes/questions/q11|Question 11: Modular Fast Power Reduction]]
+- [[cds/math/notes/questions/q12|Question 12: Negative Remainder Power Trick]]
+- [[cds/math/notes/questions/q13|Question 13: Large Exponent Modulo Prime (2^1000 mod 17)]]
+- [[cds/math/notes/questions/q14|Question 14: Sum of Powers Modulo Prime (1^12 + 2^12 + ... + 12^12 mod 13)]]
+- [[cds/math/notes/questions/q15|Question 15: Wilson's Theorem Companion (12! + 2 mod 13)]]
 
 ---
 

@@ -11,4 +11,4 @@ Welcome to SAGE! Select an exam or category below:
   - [[cds/math/math_overview|Elementary Mathematics]]
 
 ---
-*Powered by Quartz 5 & SAGE AI Framework*
+

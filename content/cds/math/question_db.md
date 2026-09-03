@@ -1,11 +1,14 @@
 # Question Database
 
 ```dataview
-TABLE 
-    rows.file.link AS "Question / Variation",
+
+TABLE WITHOUT ID
+    "Topic & Subtopic" AS "Topic & Subtopic",
+    rows.file.link AS "Questions / Variations",
     rows.status AS "Status",
     rows.importance AS "Importance",
     rows.difficulty AS "Difficulty"
 FROM "content/cds/math/notes/questions" OR "content/cds/math/notes/variations"
-GROUP BY topic + " > " + subtopic AS "Topic & Subtopic"
+FLATTEN topic + " > " + subtopic AS "Topic & Subtopic"
+GROUP BY "Topic & Subtopic"
 ```

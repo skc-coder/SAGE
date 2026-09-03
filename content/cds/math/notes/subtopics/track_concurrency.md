@@ -33,6 +33,17 @@ When solving circular track problems, ask yourself **ONE single question**:
 
 ---
 
+## 🔍 Core Difference: Why Are The Two Methods Different?
+
+| Feature | **Type 1: Meeting at STARTING POINT** | **Type 3: Meeting ANYWHERE on the Track** |
+| :--- | :--- | :--- |
+| **Meeting Location** | **Strictly locked to the 0m Start Line** | **Can happen at ANY random spot** (e.g. 142.5m mark) |
+| **Physical Condition** | Every runner MUST complete **whole integer laps** | Runners do **NOT** need to complete whole laps |
+| **Direction Impact** | **IRRELEVANT** (Same or Opposite gives same answer) | **CRITICAL** (Relative speed depends on direction) |
+| **Calculation Method** | Direct **$\operatorname{LCM}(t_1, t_2, t_3)$** of lap times | Pairwise Relative Times **$\operatorname{LCM}(t_{AB}, t_{BC})$** |
+
+---
+
 ## The 4 Exam Question Types
 
 ### TYPE 1: Meeting at the STARTING POINT (Most Common in CDS)
