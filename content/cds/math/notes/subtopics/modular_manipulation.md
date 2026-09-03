@@ -121,8 +121,8 @@ $$\mathbf{a \cdot a^{-1} \equiv 1 \pmod m}$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions#question-11-modular-fast-power-reduction|Question 11: Modular Fast Power Reduction]]
-- [[cds/math/notes/questions#question-12-negative-remainder-power-trick|Question 12: Negative Remainder Power Trick]]
+- [[cds/math/notes/questions#question-11-modular-fast-power-reduction|Question 11 (Modular Fast Power Reduction)]]
+- [[cds/math/notes/questions#question-12-negative-remainder-power-trick|Question 12 (Negative Remainder Power Trick)]]
 
 ---
 
