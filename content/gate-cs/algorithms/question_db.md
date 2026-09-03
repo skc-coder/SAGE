@@ -1,9 +1,8 @@
-# Question Database — Algorithms
+# Question Database
 
 ## Performance Overview
 
 ### Mistake Distribution
-
 ```mermaid
 pie title Mistake Categories
     "Calculation Error" : 1
@@ -12,8 +11,8 @@ pie title Mistake Categories
 ### Topic Accuracy %
 ```mermaid
 xychart-beta
-    title Topic Accuracy %
-    x-axis [Number of MSTs, MST Uniqueness]
+    title "Topic Accuracy %"
+    x-axis ["Number of MSTs", "MST Uniqueness"]
     y-axis "Accuracy %" 0 --> 100
     bar [0, 100]
 ```

@@ -62,40 +62,50 @@ content/
 
 ---
 
-## 3. Visual Performance Graphs & Analytics Charts
+## 3. 3-Tier Visual Performance Graphs & Analytics Architecture
 
-When rendering `/report` or `/analyze` commands (or updating `question_db.md` and test scorecards), the AI MUST generate and embed standard Dataview / Mermaid / Chart.js visual graphs:
+The system automatically embeds clean `xychart-beta` bar charts and `pie` charts across three hierarchical levels:
 
-### 1. Mistake Type Breakdown Chart (Mermaid Pie Chart)
-Shows the exact distribution of why questions were lost (e.g., *Calculation Error* vs *Conceptual Gap* vs *Overlooked Edge Case*):
-```mermaid
-pie title Mistake Category Distribution
-    "Calculation Error" : 45
-    "Conceptual Gap" : 30
-    "Overlooked Edge Case" : 15
-    "Time Pressure" : 10
-```
-
-### 2. Topic Accuracy Bar Chart (Mermaid xychart-beta)
-Clean visual bar chart displaying accuracy percentage per topic:
+### Tier 1: Exam-Level Dashboard (`content/[exam]/index.md`)
+Visualizes overall performance across all subjects within an exam:
+1. **Subject-Wise Accuracy Bar Chart**:
 ```mermaid
 xychart-beta
-    title Topic Accuracy %
-    x-axis [Number of MSTs, MST Uniqueness, Shortest Paths, Dynamic Programming]
+    title "Subject-Wise Accuracy % (GATE CS)"
+    x-axis ["Algorithms", "TOC", "Networks", "Operating Systems", "DBMS"]
     y-axis "Accuracy %" 0 --> 100
-    bar [0, 100, 40, 30]
+    bar [50, 85, 40, 70, 90]
+```
+2. **Exam-Wide Mistake Breakdown Pie Chart**:
+```mermaid
+pie title Exam Mistake Categories across Subjects
+    "Calculation Error" : 12
+    "Conceptual Gap" : 18
+    "Overlooked Edge Case" : 8
 ```
 
-### 3. Cumulative Score & Accuracy Trend Line (Test Sessions)
-Tracks score progression across sequential mock tests in `test_sessions/`:
+### Tier 2: Subject-Level Dashboard (`content/[exam]/[subject]/index.md`)
+Visualizes chapter and topic performance within a specific subject:
+1. **Chapter-Wise Accuracy Bar Chart**:
 ```mermaid
 xychart-beta
-    title Test Score & Accuracy Progression
-    x-axis [Mock 01, Mock 02, Mock 03, Mock 04, Full Test 01]
+    title "Chapter-Wise Accuracy % (Algorithms)"
+    x-axis ["Graph Algorithms", "Dynamic Programming", "Greedy Algorithms", "Sorting"]
     y-axis "Accuracy %" 0 --> 100
-    line [52, 60, 58, 74, 82]
-    bar [52, 60, 58, 74, 82]
+    bar [50, 0, 0, 0]
 ```
+2. **Topic-Wise Accuracy Bar Chart**:
+```mermaid
+xychart-beta
+    title "Topic-Wise Accuracy %"
+    x-axis ["Number of MSTs", "MST Uniqueness", "Shortest Paths"]
+    y-axis "Accuracy %" 0 --> 100
+    bar [0, 100, 40]
+```
+
+### Tier 3: Database & Session Level (`question_db.md` & `test_sessions/`)
+1. **Mistake Distribution Pie Chart**: Breakdown of lost marks by mistake category.
+2. **Test Score Trendline**: Score progression across sequential mock test attempts.
 
 ---
 

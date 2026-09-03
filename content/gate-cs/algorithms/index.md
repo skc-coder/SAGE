@@ -2,11 +2,20 @@
 
 ## Subject Performance Overview
 
-### Topic Accuracy %
+### 1. Chapter-Wise Accuracy %
 ```mermaid
 xychart-beta
-    title Topic Accuracy %
-    x-axis [Number of MSTs, MST Uniqueness]
+    title "Chapter-Wise Accuracy % (Algorithms)"
+    x-axis ["Graph Algorithms", "Dynamic Programming", "Greedy Algorithms", "Sorting & Searching"]
+    y-axis "Accuracy %" 0 --> 100
+    bar [50, 0, 0, 0]
+```
+
+### 2. Topic-Wise Accuracy %
+```mermaid
+xychart-beta
+    title "Topic-Wise Accuracy %"
+    x-axis ["Number of MSTs", "MST Uniqueness"]
     y-axis "Accuracy %" 0 --> 100
     bar [0, 100]
 ```
