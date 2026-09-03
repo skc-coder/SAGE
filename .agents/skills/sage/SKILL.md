@@ -78,12 +78,11 @@ content/
 
 ---
 
-### Pragmatic Engineering Intuition Mandate (STRICT)
+### Intuition & Mathematical Rigor Mandate (STRICT)
 
-- **BALANCE OVER EXTREMES (NO ELI5 SLOP & NO DENSE JARGON OVERKILL)**:
-  - **NO Childlike Analogies**: Avoid childish scenarios ("sweets in boxes", "pizza slices", "sharing toys").
-  - **NO Dense Mathematical Jargon Dumping**: Avoid unhelpful wall-of-symbols notation (e.g. dumping raw $\equiv \pmod x$ congruence proofs without explaining the underlying core mechanism in plain English).
-- **GOLDILOCKS EXPLANATION STYLE**: Explain **WHY** the mathematical step or formula works in direct, sharp, pragmatic English focusing on structural mechanisms (e.g. "Notice that in each case, the difference between divisor and remainder is 17. That means if we add 17, the number becomes exactly divisible by all three numbers...").
+- **JARGON WITH IMMEDIATE READABILITY**: You ARE encouraged to use formal mathematical terms and notations (e.g. congruences $a \equiv b \pmod m$, prime factorizations, quotients, linear combinations, modular inverses), BUT you MUST immediately translate every step into clear, intuitive, plain-English explanations.
+- **NO UNEXPLAINED SYMBOL DUMPING**: Never dump raw equations or modular arithmetic lines without explaining *why* the algebraic step was taken.
+- **NO CHILDISH ANALOGIES**: Strictly avoid kindergarten analogies ("sweets in boxes", "pizza slices", "friends sharing toys"). Keep explanations sharp, mature, and exam-focused.
 
 ### Formatting & Title Standards (KISS Principle)
 
