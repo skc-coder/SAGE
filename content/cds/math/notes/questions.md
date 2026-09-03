@@ -189,6 +189,62 @@ Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10, and
 
 ---
 
+### Question 9 (Example 3: Constant Difference 42, 72, 84)
+
+What is the least number which when divided by 42, 72 and 84 leaves the remainders 25, 55 and 67, respectively?
+
+(a) 521  
+(b) 512  
+(c) 504  
+(d) 487  
+
+> [!faq]- View Solution
+> 1. **Check constant difference $p$**:
+>    $$p = (42 - 25) = (72 - 55) = (84 - 67) = 17$$
+> 2. **Calculate $\operatorname{LCM}(42, 72, 84)$**:
+>    - $42 = 2 \times 3 \times 7$
+>    - $72 = 2^3 \times 3^2$
+>    - $84 = 2^2 \times 3 \times 7$
+>    - $\operatorname{LCM} = 2^3 \times 3^2 \times 7 = 8 \times 9 \times 7 = 504$
+> 3. **Apply Constant Difference Formula**:
+>    $$\text{Required Number} = \operatorname{LCM}(42, 72, 84) - p = 504 - 17 = 487$$
+> 
+> **Correct Answer:** **(d) 487**
+
+---
+
+### Question 10 (Example 4: LCM with Perfect Divisibility Condition)
+
+Find the least number which when divided by 5, 6, 7 and 8 leaves a remainder 3 but when divided by 9, leaves no remainder.
+
+(a) 1620  
+(b) 1683  
+(c) 1635  
+(d) 1672  
+
+> [!faq]- View Solution
+> 1. **Find $\operatorname{LCM}(5, 6, 7, 8)$**:
+>    - $5 = 5$
+>    - $6 = 2 \times 3$
+>    - $7 = 7$
+>    - $8 = 2^3$
+>    - $\operatorname{LCM} = 2^3 \times 3 \times 5 \times 7 = 8 \times 105 = 840$
+> 2. **Formulate General Number $N$**:
+>    $$N = 840k + 3 \quad (k \in \mathbb{Z}^+)$$
+> 3. **Apply Modulo 9 Condition ($N \equiv 0 \pmod 9$)**:
+>    - Reduce $840 \pmod 9$: $840 = 9 \times 93 + 3 \implies 840 \equiv 3 \pmod 9$.
+>    - Thus, $N = (93 \times 9 + 3)k + 3 \equiv 3k + 3 \pmod 9$.
+> 4. **Find minimal integer $k$**:
+>    $$3k + 3 \equiv 0 \pmod 9 \implies 3(k + 1) \equiv 0 \pmod 9$$
+>    Smallest positive integer value is $k = 2$ ($3(2+1) = 9 \equiv 0 \pmod 9$).
+> 5. **Calculate $N$ for $k = 2$**:
+>    $$N = 840(2) + 3 = 1680 + 3 = 1683$$
+> 
+> **Correct Answer:** **(b) 1683**
+
+---
+
 ## Navigation
 
 - [[cds/math/math_overview|Elementary Mathematics Overview]]
+

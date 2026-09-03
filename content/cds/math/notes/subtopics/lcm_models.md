@@ -36,7 +36,20 @@ When a required number $N$ is divided by $x, y, z$:
 
 ---
 
-### Model 3: Bell Ringing / Circular Track Race Concurrency
+### Model 3: Divisibility Condition on Remainder Model ($N \pmod M \equiv 0$)
+- **Problem Formulation**: Find the least number $N$ which when divided by $x, y, z$ leaves remainder $R$, but $N$ is **exactly divisible by $M$**.
+- **Formula & Method**:
+  1. Express $N$ in parameterized general form:
+     $$N = k \cdot \operatorname{LCM}(x, y, z) + R$$
+  2. Reduce the coefficient of $k$ modulo $M$:
+     $$N = k \cdot [q \cdot M + r_{\text{LCM}}] + R \equiv k \cdot r_{\text{LCM}} + R \pmod M$$
+  3. Find the smallest positive integer $k \in \{1, 2, 3, \dots\}$ such that:
+     $$(k \cdot r_{\text{LCM}} + R) \equiv 0 \pmod M$$
+  4. Substitute that minimal $k$ back into $N = k \cdot \operatorname{LCM}(x, y, z) + R$.
+
+---
+
+### Model 4: Bell Ringing / Circular Track Race Concurrency
 - **Problem Formulation**: Bells ring at intervals $t_1, t_2, t_3$ seconds. If they toll together now, when will they toll together next?
 - **Formula**:
   $$\text{Time Interval} = \operatorname{LCM}(t_1, t_2, t_3)$$
@@ -47,8 +60,10 @@ When a required number $N$ is divided by $x, y, z$:
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions#question-3-lcm-constant-difference|Question 3: Least Number Leaving Variable Remainders (Constant Diff)]]
-- [[cds/math/notes/questions#question-4-lcm-constant-remainder|Question 4: Bell Ringing Concurrency Interval]]
+- [[cds/math/notes/questions#question-7-lcm-constant-difference|Question 7: Least Number Leaving Variable Remainders (Constant Diff)]]
+- [[cds/math/notes/questions#question-8-bell-ringing-concurrency-interval|Question 8: Bell Ringing Concurrency Interval]]
+- [[cds/math/notes/questions#question-9-example-3-constant-difference-42-72-84|Question 9 (Example 3): Pathfinder Constant Difference (42, 72, 84)]]
+- [[cds/math/notes/questions#question-10-example-4-lcm-with-perfect-divisibility-condition|Question 10 (Example 4): Pathfinder LCM with Divisibility Condition]]
 
 ---
 
