@@ -18,7 +18,8 @@ content/
     └── [subject]/                  # e.g., algorithms/
         ├── index.md                # Subject master index (Topics -> Questions & Direct Variations)
         ├── question_db.md          # Central Question & Taxonomy Database (Dataview compatible)
-        ├── test_sessions/          # Log of test sessions
+        ├── test_sessions/          # Log & Scorecards of Full Test PDF Sessions (includes link to source test file)
+        ├── practice_sessions/      # Log of Haphazard Practice Sessions (screenshots, text, books, question numbers)
         ├── notes/                  # Core Topic Notes (Theory + Links)
         │   ├── questions/          # Modular Question Notes (Question + Derivation + Tier 1 Variations)
         │   └── variations/         # Modular Variation Notes (Tier 2 Topic & Tier 3 Chapter Variations)
@@ -56,6 +57,8 @@ content/
    subtopic: "Number of MSTs"
    question_type: "Formulaic Edge Conditions"
    source: "GATE CS 2021 Set 1 Q34"
+   source_file_link: "[[content/gate-cs/algorithms/test_sessions/2026-09-03_mock_03|Mock Test 03 PDF]]"
+   question_number: "Q34"
    status: "Wrong"
    mistake_category: "Calculation Error"
    tags: [gate-cs, algorithms, mst]
@@ -65,9 +68,25 @@ content/
 
 ---
 
-## 3. Interactive Practice Workflow
+## 3. Two Modes of Session Logging & Ingest
 
-When user provides a question (via PDF walkthrough, text, or screenshot):
+### Mode A: Full Test PDF Walkthrough (`test_sessions/`)
+- User provides a PDF of a test session given.
+- AI logs the summary scorecard in `test_sessions/[date]_[test_name].md`.
+- **Mandatory Link**: Must store the explicit link/path to the source PDF test file inside both frontmatter (`source_file_link`) and the summary scorecard.
+- Evaluates questions one by one, inferring exact question numbers ($Q1, Q2, \dots$).
+
+### Mode B: Haphazard Practice Session (`practice_sessions/`)
+- User pastes text, screenshots, or questions from a book/custom source.
+- AI logs the practice session in `practice_sessions/[date]_[source_name].md`.
+- **Question Number Tracking**: Inferred automatically from screenshots/text (e.g. *CLRS Ex 23.2-1*, *Book Q14*). If ambiguous or missing, AI MUST explicitly ask the user for the question number/source.
+- Suggests the target exam and subject if not specified.
+
+---
+
+## 4. Interactive Practice Workflow
+
+When user provides a question:
 
 1. **Ingest & Taxonomy Breakdown**: Extract Exam, Year, Question Number, Subject, Topic, Subtopic, and Specialization.
 2. **Evaluation & Explanation (If Wrong / Unsure)**:
@@ -80,24 +99,27 @@ When user provides a question (via PDF walkthrough, text, or screenshot):
 
 ---
 
-## 4. Modular Note Architecture & `/wrap` Pipeline
+## 5. Modular Note Architecture & `/wrap` Pipeline
 
 When user types `/wrap`:
 
-1. **Question Notes (`notes/questions/[question_slug].md`)**:
-   - Holds original question statement in blockquote + collapsible derivation (`> [!faq]- View Solution & Derivation`) + Tier 1 variations.
-2. **Variation Notes (`notes/variations/[variation_slug].md`)**:
+1. **Session Summary Migration**:
+   - For Test PDF: Save scorecard in `test_sessions/` with link to test PDF.
+   - For Haphazard Practice: Save session log in `practice_sessions/` with tracked question numbers and sources.
+2. **Question Notes (`notes/questions/[question_slug].md`)**:
+   - Holds original question statement in blockquote + collapsible derivation (`> [!faq]- View Solution & Derivation`) + Tier 1 variations + direct link to source test/practice file.
+3. **Variation Notes (`notes/variations/[variation_slug].md`)**:
    - Holds dedicated variation problems with collapsible solutions (`> [!faq]- View Solution`).
-3. **Topic Notes (`notes/[topic_slug].md`)**:
+4. **Topic Notes (`notes/[topic_slug].md`)**:
    - Holds core theory + index of links to Question Notes and Topic Variation Notes.
-4. **Master Index (`[exam]/[subject]/index.md`)**:
+5. **Master Index (`[exam]/[subject]/index.md`)**:
    - Links directly to Topic Notes and **Directly to Chapter Variation Notes** (no intermediate indexer page).
-5. **Database (`[exam]/[subject]/question_db.md`)**:
+6. **Database (`[exam]/[subject]/question_db.md`)**:
    - Topic-centric rows tracking subtopics, specializations, linked question notes, performance, and logged mistake categories.
 
 ---
 
-## 5. Analytics Commands
+## 6. Analytics Commands
 
 - `/report [subject/topic]` $\rightarrow$ Renders accuracy ratio, mistake category breakdown, and weak areas.
 - `/analyze [subject/topic/exam]` $\rightarrow$ Renders exam weightage, trap patterns, and high-yield focus topics.
