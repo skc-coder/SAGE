@@ -16,8 +16,35 @@ tags: [cds, elementary-mathematics, hcf-lcm-polynomials, topic]
 
 ### 2. Fundamental Polynomial Product Identity
 For any two polynomials $P(x)$ and $Q(x)$:
-$$P(x) \cdot Q(x) = \text{c} \cdot \operatorname{HCF}(P(x), Q(x)) \times \operatorname{LCM}(P(x), Q(x))$$
-*(where $c$ is a numerical scalar multiplier reflecting leading coefficients).*
+$$P(x) \cdot Q(x) = c \cdot \operatorname{HCF}(P(x), Q(x)) \times \operatorname{LCM}(P(x), Q(x))$$
+*(where $c$ is a numerical scalar multiplier).*
+
+#### Illustrative Example of Scalar $c$:
+Consider two polynomials with non-monic leading coefficients:
+- $P(x) = 6x^2 - 6 = 6(x - 1)(x + 1)$
+- $Q(x) = 15x - 15 = 15(x - 1)$
+
+**Step 1: Compute HCF & LCM**:
+- Numeric HCF: $\operatorname{gcd}(6, 15) = 3$.
+- Algebraic HCF: $(x - 1)$.
+- $\operatorname{HCF}(P(x), Q(x)) = 3(x - 1)$.
+
+- Numeric LCM: $\operatorname{lcm}(6, 15) = 30$.
+- Algebraic LCM: $(x - 1)(x + 1)$.
+- $\operatorname{LCM}(P(x), Q(x)) = 30(x - 1)(x + 1)$.
+
+**Step 2: Compare LHS Product vs RHS Product**:
+- **LHS Product**:
+  $$P(x) \cdot Q(x) = (6x^2 - 6)(15x - 15) = 90(x - 1)^2(x + 1)$$
+- **RHS HCF $\times$ LCM Product**:
+  $$\operatorname{HCF} \times \operatorname{LCM} = [3(x - 1)] \times [30(x - 1)(x + 1)] = 90(x - 1)^2(x + 1)$$
+
+Here, the numeric leading multiplier is $c = 1$ because the numeric HCF ($3$) and LCM ($30$) already multiply to $3 \times 30 = 90 = 6 \times 15$.
+
+**What if monic HCF & LCM are defined without numeric multipliers?**
+If monic $\operatorname{HCF} = (x - 1)$ and monic $\operatorname{LCM} = (x - 1)(x + 1)$:
+$$P(x) \cdot Q(x) = 90 \cdot \operatorname{HCF}_{\text{monic}} \times \operatorname{LCM}_{\text{monic}}$$
+where $c = 90 = 6 \times 15$ is the scalar multiplier reflecting the product of leading coefficients!
 
 ---
 
