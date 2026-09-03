@@ -13,11 +13,10 @@ date: 2026-09-03
 
 # GATE 2021 Set 1 Q34 — Counting MSTs (Formulaic Edge Conditions)
 
-## 1. Original Question & Context
+## 1. Question Context
 - **Source**: GATE CS 2021 Set 1 Q34
-- **Topic Specialization**: Formulaic Edge Conditions ($w(i, j) = i + j$)
-- **Status**: ❌ Wrong
-- **Mistake Category**: Calculation Error (Miscalculated equal-weight edge sum on cycle)
+- **Specialization**: Formulaic Edge Conditions ($w(i, j) = i + j$)
+- **Status**: ❌ Wrong *(Calculation Error: Miscalculated equal-weight edge sum on cycle)*
 
 ---
 

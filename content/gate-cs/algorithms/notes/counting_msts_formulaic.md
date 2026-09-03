@@ -22,7 +22,7 @@ When edge weights are determined by a formula $w(u, v) = f(u, v)$, determining t
 
 ## 2. Index of Logged Questions & Variations
 
-- [[content/gate-cs/algorithms/notes/questions/gate_2021_q34_counting_msts|GATE 2021 Set 1 Q34 — Formulaic Edge Conditions ($w(i, j) = i+j$)]] `[Status: ❌ Wrong | Mistake: Calculation Error]`
+- ❌ **[[content/gate-cs/algorithms/notes/questions/gate_2021_q34_counting_msts|GATE 2021 Set 1 Q34: Formulaic Edge Conditions ($w(i, j) = i+j$)]]** *(Calculation Error)*
 
 ---
 
@@ -30,7 +30,7 @@ When edge weights are determined by a formula $w(u, v) = f(u, v)$, determining t
 
 > **Topic Variation 2.1 (General Equal-Weight Cycle Theorem)**: Let $G$ be a connected graph where $k$ edges share the same maximum weight $W$ on a cycle of length $k$, while all other $m-k$ edges have distinct weights strictly less than $W$. How many MSTs does $G$ possess?
 
-> [!faq]- Click to view Solution
+> [!faq]- View Solution
 > Since all $m-k$ smaller distinct edges are chosen unconditionally and form trees/forests, exactly $k-1$ edges of weight $W$ must be chosen from the cycle of $k$ edges to connect the components.
 >
 > $$ \text{Number of MSTs} = \binom{k}{k-1} = k $$
