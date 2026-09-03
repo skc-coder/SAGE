@@ -31,17 +31,22 @@ content/
 ### Note Content Guidelines by Taxonomy Level
 
 1. **Question Notes (`notes/questions/[question_slug].md`)**:
-   - Contains: Exact question statement + Step-by-step mathematical explanation & derivation + Root cause analysis + Tier 1 question variations.
+   - **STRICT MANDATE**: Keep question notes clean, minimal, and focused ONLY on the specific question solution! NEVER dump general subtopic theory, long proofs, or subtopic concept notes inside a question note! Subtopic theory belongs strictly in `notes/subtopics/[subtopic_slug].md`.
+   - Contains: Exact question statement + Step-by-step mathematical explanation & derivation + Short root cause analysis + Tier 1 question variations.
    - Frontmatter metadata: `exam`, `subject`, `topic`, `subtopic`, `difficulty` (`Easy` | `Medium` | `Hard` - specified manually by user), `status`, `mistake_category`.
 
 2. **Topic Notes (`notes/[topic_slug].md`)**:
    - Contains: Topic-level core theory, fundamental theorems, and intuition.
-   - `## Subtopics`: Contains **ONLY wikilinks to dedicated Subtopic Pages** (e.g. `[[content/cds/elementary-mathematics/notes/subtopics/two_point_angle_elevation|Two-Point Angle of Elevation]]`).
+   - `## Subtopics`: Contains **ONLY wikilinks to dedicated Subtopic Pages** (e.g. `[[cds/elementary-mathematics/notes/subtopics/two_point_angle_elevation|Two-Point Angle of Elevation]]`).
    - **STRICT MANDATE: NO subtopic content or question links live directly inside topic notes!**
 
 3. **Subtopic Notes (`notes/subtopics/[subtopic_slug].md`)**:
-   - Contains: Specialized subtopic theory, formulaic properties, and proofs.
-   - `## Linked Practice Questions`: The **ONLY place** where direct links to individual regular practice question notes (e.g., `[[content/cds/elementary-mathematics/notes/questions/cds_2024_math_q13|CDS 2024 Q13]]`) are stored!
+   - Contains: Specialized subtopic theory, formulaic properties, and proofs (e.g., proofs of theorems like Addendo property live HERE, NOT in question notes!).
+   - `## Linked Practice Questions`: The **ONLY place** where direct links to individual regular practice question notes (e.g., `[[cds/elementary-mathematics/notes/questions/cds_2024_math_q13|CDS 2024 Q13]]`) are stored!
+
+4. **Relative Wikilink Format (STRICT MANDATE)**:
+   - Always use relative Obsidian wikilinks **WITHOUT** the leading `content/` prefix (e.g., `[[cds/elementary-mathematics/elementary_mathematics_overview|Elementary Mathematics]]` instead of `[[content/cds/...]]`), so Obsidian internal links resolve seamlessly across all platforms.
+
 
 4. **Variation Notes (`notes/variations/`)**:
    - Contains novel Tier 2 (Topic Level) and Tier 3 (Chapter Level) variations with collapsible solutions (`> [!faq]- View Solution`).
