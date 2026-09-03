@@ -105,6 +105,10 @@ content/
 
 - **JARGON WITH IMMEDIATE READABILITY**: You ARE encouraged to use formal mathematical terms and notations (e.g. congruences $a \equiv b \pmod m$, prime factorizations, quotients, linear combinations, modular inverses), BUT you MUST immediately translate every step into clear, intuitive, plain-English explanations.
 - **NO UNEXPLAINED SYMBOL DUMPING**: Never dump raw equations or modular arithmetic lines without explaining *why* the algebraic step was taken.
+- **NO LONG HORIZONTAL INLINE EQUATION RUN-ONS (STRICT READABILITY RULE)**:
+  - NEVER dump long multi-step equations, stream-of-consciousness algebra, or inline derivations wrapped in inline math `$ ... $` across multiple lines. Long inline math equations cause hideous horizontal overflow, word wrapping glitches, and unreadable text blobs in Obsidian and Quartz!
+  - Use display math `$$ ... $$` on dedicated lines for every major algebraic step, equation transformation, or factor expansion.
+  - Break long derivations into a clean vertical bulleted list or line-by-line display math blocks with explanatory text between steps.
 - **NO CHILDISH ANALOGIES**: Strictly avoid kindergarten analogies ("sweets in boxes", "pizza slices", "friends sharing toys"). Keep explanations sharp, mature, and exam-focused.
 
 ### Formatting & Title Standards (KISS Principle)
