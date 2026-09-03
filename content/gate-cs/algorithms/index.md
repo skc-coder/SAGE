@@ -18,6 +18,11 @@ This index tracks all topics, subtopics, and questions discussed during practice
 
 ---
 
+## Master Chapter Variations (Multi-Topic Cross-Cutting)
+- [[content/gate-cs/algorithms/notes/chapter_variations|Multi-Topic Cross-Cutting Variations (MST + Shortest Paths + DSU)]]
+
+---
+
 ## Quick Navigation
 - [[content/gate-cs/algorithms/question_db|Central Question Database]]
 - [[content/exams_config|All Exams & Subjects]]

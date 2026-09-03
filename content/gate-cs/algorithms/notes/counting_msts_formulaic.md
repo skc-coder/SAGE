@@ -26,21 +26,29 @@ When edge weights are determined by a formula $w(u, v) = f(u, v)$, determining t
 - **Source**: GATE CS 2021 Set 1 Q34
 - **Status**: ❌ Wrong (Miscalculated edge weight equal-weight cycle)
 
-#### Derivation & Fix
+#### Derivation & Solution
 For a connected graph $G = (V, E)$ where vertices are indexed $1 \dots n$ and edge weight $w(i, j) = i + j$:
 1. Edge weights grow monotonically with vertex indices.
 2. Contracting lower-weight edges first reveals that cycle edges with identical sum $i+j$ allow mutually exclusive selections.
 
----
-
-## 3. Novel Concept Variations
-
-### Variation 1.1 (Underlying Cycle-Weight Choice)
-> **Problem**: Let $G$ be a connected graph with $n$ vertices. Suppose all edges have distinct weights except for a single cycle $C = (v_1, v_2, v_3)$ where $w(v_1, v_2) = w(v_2, v_3) = w(v_3, v_1) = W$, and $W$ is strictly greater than all other edge weights in $G$. How many MSTs does $G$ have?
+#### Tier 1: Direct Question Variations (GATE '21 Q34)
+> **Variation 1.1 (Edge Choice on Cycle)**: Suppose graph $G$ has vertices $\{1, 2, 3, 4\}$ with edges $e_1=(1,2), e_2=(2,3), e_3=(3,4), e_4=(4,1), e_5=(1,3)$ with weights $w(e_1)=3, w(e_2)=5, w(e_3)=5, w(e_4)=5, w(e_5)=2$. How many distinct MSTs can be formed?
 
 <details>
-<summary>Click to view Solution & Intuition</summary>
+<summary>Click to view Solution</summary>
 
-Any MST must span all $n$ vertices. The distinct lower-weight edges form a set of components. To connect the cycle vertices without forming a cycle of weight $W$, we must pick exactly **2 out of the 3** edges of weight $W$.
-Thus, there are $\binom{3}{2} = 3$ distinct MSTs.
+Edge $e_5$ (weight 2) and $e_1$ (weight 3) are strictly chosen first. The remaining vertices require connecting via edges of weight 5, yielding 3 valid MST combinations.
+</details>
+
+---
+
+## 3. Tier 2: Topic Synthesis Variations (Counting MSTs Note Level)
+
+> **Topic Variation 2.1 (General Equal-Weight Cycle Theorem)**: Let $G$ be a connected graph where $k$ edges share the same maximum weight $W$ on a cycle of length $k$, while all other $m-k$ edges have distinct weights strictly less than $W$. How many MSTs does $G$ possess?
+
+<details>
+<summary>Click to view Solution</summary>
+
+Since all $m-k$ smaller distinct edges are chosen unconditionally and form trees/forests, exactly $k-1$ edges of weight $W$ must be chosen from the cycle of $k$ edges to connect the components.
+Number of MSTs = $\binom{k}{k-1} = k$.
 </details>
