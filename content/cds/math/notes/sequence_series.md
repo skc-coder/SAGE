@@ -107,6 +107,26 @@ $$\sum n^2 = 1^2 + 2^2 + 3^2 + \dots + n^2 = \frac{n(n+1)(2n+1)}{6}$$
 > 4. Dividing by 3 gives:
 >    $$\sum n^2 = \frac{n(n+1)(2n+1)}{6}$$
 
+#### E. Sum of Products of 2 Consecutive Integers
+$$1 \cdot 2 + 2 \cdot 3 + 3 \cdot 4 + \dots + n(n+1) = \frac{n(n+1)(n+2)}{3}$$
+
+> [!NOTE] Intuition (Combinatorics / Choosing 3 items out of $n+2$)
+> Think of choosing 3 numbers out of the set $\{1, 2, 3, \dots, n+2\}$.
+> The number of ways to choose 3 numbers is $\binom{n+2}{3} = \frac{(n+2)(n+1)n}{3 \cdot 2 \cdot 1} = \frac{n(n+1)(n+2)}{6}$.
+>
+> Now count the choices by fixing the **middle number** $k$:
+> - If the middle number is $k$ (where $k$ ranges from $2$ to $n+1$):
+>   - The smallest number can be chosen in $(k-1)$ ways (from $1, \dots, k-1$).
+>   - The largest number can be chosen in $(n+2 - k)$ ways (from $k+1, \dots, n+2$).
+>
+> Summing these choices for all $k$ gives the identity directly:
+> $$\sum_{k=1}^n k(k+1) = \frac{n(n+1)(n+2)}{3}$$
+>
+> **The General Extension Rule**:
+> - Sum of single terms $\sum k = \frac{n(n+1)}{2}$ (2 factors in numerator, divide by 2)
+> - Sum of 2 consecutive terms $\sum k(k+1) = \frac{n(n+1)(n+2)}{3}$ (3 factors in numerator, divide by 3)
+> - Sum of 3 consecutive terms $\sum k(k+1)(k+2) = \frac{n(n+1)(n+2)(n+3)}{4}$ (4 factors in numerator, divide by 4)
+
 ---
 
 ### 6. Derived Speed Results (From First Principles)
