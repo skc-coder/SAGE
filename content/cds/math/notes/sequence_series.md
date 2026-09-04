@@ -87,16 +87,25 @@ $$\sum n^3 = 1^3 + 2^3 + 3^3 + \dots + n^3 = \left[ \frac{n(n+1)}{2} \right]^2 =
 
 ---
 
-#### D. Sum of Squares of First $n$ Natural Numbers (The 3-Pyramid Trick)
+#### D. Sum of Squares of First $n$ Natural Numbers (The 2D Triangular Grid Trick)
 $$\sum n^2 = 1^2 + 2^2 + 3^2 + \dots + n^2 = \frac{n(n+1)(2n+1)}{6}$$
 
-> [!NOTE] Visual Intuition (3 Pyramids forming a Rectangle)
-> Represent $1^2 + 2^2 + \dots + n^2$ as a 3D pyramid made of unit blocks.
-> Take **3 identical copies** of this pyramid.
-> Rotate and fit all 3 pyramids together:
-> 1. They form a rectangular block with base $n \times (n+1)$ and height $\left(n + \frac{1}{2}\right) = \frac{2n+1}{2}$.
-> 2. Total volume of 3 pyramids $= n \times (n+1) \times \frac{2n+1}{2} = \frac{n(n+1)(2n+1)}{2}$.
-> 3. Volume of 1 pyramid $\sum n^2 = \frac{n(n+1)(2n+1)}{6}$.
+> [!NOTE] Visual Intuition (2D Flat Number Triangle Rotations)
+> Expand $k^2$ as $k$ copies of the number $k$ arranged in a flat triangle:
+> ```text
+>       1
+>     2   2
+>   3   3   3
+> 4   4   4   4
+> ```
+> Sum of all numbers in this triangle $= S = 1^2 + 2^2 + 3^2 + \dots + n^2$.
+>
+> **The Rotation Trick**: Take **3 identical copies** of this flat number triangle rotated at $0^\circ$, $120^\circ$, and $240^\circ$:
+> 1. Total spots in a triangle of height $n$ is $\sum n = \frac{n(n+1)}{2}$.
+> 2. When adding the 3 rotated triangles position-by-position, **every single spot adds up to exactly $(2n+1)$**! (e.g. For $n=4$, top corner $= 1 + 4 + 4 = 9 = 2(4)+1$).
+> 3. Total sum of 3 triangles: $3S = \frac{n(n+1)}{2} \times (2n+1)$.
+> 4. Dividing by 3 gives:
+>    $$\sum n^2 = \frac{n(n+1)(2n+1)}{6}$$
 
 ---
 
