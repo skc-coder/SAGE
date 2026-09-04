@@ -10,20 +10,7 @@ tags: [cds, math, percentage, topic]
 
 ## Theory, Intuition & Formulas
 
-### 1. Fundamental Definition & Representation
-- **Per Cent (Literally "per hundred")**: A fraction whose denominator is strictly $100$. The numerator is called the *rate per cent*, denoted by $\%$.
-- **Converting Percentage to Fraction**:
-  - Divide the rate percentage $a\%$ by $100$ and reduce to lowest terms:
-    $$a\% = \frac{a}{100}$$
-- **Converting Fraction to Percentage**:
-  - Multiply the fraction $\frac{a}{b}$ by $100\%$:
-    $$\frac{a}{b} = \left(\frac{a}{b} \times 100\right)\%$$
-
-### 2. Relative Percentage & Value Change
-- **Expressing One Quantity as Percentage of Another**:
-  - To find what percentage quantity $A$ is of reference quantity $B$:
-    $$\text{Percentage} = \left(\frac{A}{B} \times 100\right)\%$$
-- **Percentage Increase or Decrease**:
+### **Percentage Increase or Decrease**
   - When a quantity changes from initial value $V_i$ to final value $V_f$:
     $$\text{Percentage Change} = \left(\frac{|V_f - V_i|}{V_i} \times 100\right)\%$$
 

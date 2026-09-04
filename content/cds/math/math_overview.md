@@ -31,7 +31,7 @@
 ## Variations
 
 - [[cds/math/notes/variations/vars|Set Theory & General Variations]]
-- [[cds/math/notes/variations/var29|Ch 2 Sequence and Series Variations]]
+- [[cds/math/notes/variations/vars|Ch 2 Sequence and Series Variations]]
 - [[cds/math/notes/variations/var32|Ch 6 Variations (Transitive Race Deficit, Boat Navigation Invariant)]]
 - [[cds/math/notes/variations/var24|Ch 7 Variations (Dynamic Fatigue, Staggered Wages, Torricelli Leak)]]
 - [[cds/math/notes/variations/var30|Ch 9 Simple Interest Variations]]

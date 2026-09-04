@@ -70,7 +70,7 @@ For any two positive real numbers $a$ and $b$:
 
 ## Variations
 
-- [[cds/math/notes/variations/var29|Ch 2 Sequence and Series Variations]]
+- [[cds/math/notes/variations/vars|Ch 2 Sequence and Series Variations]]
 
 ---
 
