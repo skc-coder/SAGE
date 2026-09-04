@@ -6,6 +6,7 @@
 - [[cds/math/notes/sequence_series|Ch 2. Sequence and Series]]
 - [[cds/math/notes/hcf_lcm|Ch 3. HCF and LCM of Numbers]]
 - [[cds/math/notes/modular|Ch 3. Modular Arithmetic & Remainders]]
+- [[cds/math/notes/decimals|Ch 4. Decimal Fractions]]
 - [[cds/math/notes/roots|Ch 5. Square Roots and Cube Roots]]
 - [[cds/math/notes/time_distance|Ch 6. Time and Distance]]
 - [[cds/math/notes/work|Ch 7. Time and Work]]
