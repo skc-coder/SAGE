@@ -49,25 +49,61 @@ A sequence $a_1, a_2, \dots, a_n$ is in HP if their reciprocals $\frac{1}{a_1}, 
   If $a, H, b$ are positive numbers in HP, then $H$ is the Harmonic Mean:
   $$H = \frac{2ab}{a + b}$$
 
-### 5. Special Series Sums & Memory Hacks
-1. **Sum of First $n$ Natural Numbers**:
-   $$\sum n = 1 + 2 + 3 + \dots + n = \frac{n(n+1)}{2}$$
-2. **Sum of Squares of First $n$ Natural Numbers**:
-   $$\sum n^2 = 1^2 + 2^2 + 3^2 + \dots + n^2 = \frac{n(n+1)(2n+1)}{6}$$
-   > [!TIP] Memory Hook for $\sum n^2$
-   > - First two factors: $n(n+1)$ (same as natural sum numerator)
-   > - Third factor: Sum of first two factors $\rightarrow n + (n+1) = \mathbf{2n+1}$
-   > - Denominator: **6** (degree is 3, $1 \times 2 \times 3 = 6$)
-3. **Sum of Cubes of First $n$ Natural Numbers**:
-   $$\sum n^3 = 1^3 + 2^3 + 3^3 + \dots + n^3 = \left[ \frac{n(n+1)}{2} \right]^2 = (\sum n)^2$$
-   > [!TIP] Memory Hook for $\sum n^3$
-   > Simply **square** the sum of natural numbers: $\sum n^3 = (\sum n)^2$.
+### 5. Special Series Sums & Visual Geometric Intuitions
 
-### 6. Derived Speed Results & Key Properties
-- **Sum of first $n$ ODD Natural Numbers**: $1 + 3 + 5 + \dots + (2n-1) = \mathbf{n^2}$
-- **Sum of first $n$ EVEN Natural Numbers**: $2 + 4 + 6 + \dots + 2n = \mathbf{n(n+1)}$
-- **Sum of Squares of EVEN Numbers**: $2^2 + 4^2 + 6^2 + \dots + (2n)^2 = \mathbf{\frac{2n(n+1)(2n+1)}{3}}$
-- **Sum of Squares of ODD Numbers**: $1^2 + 3^2 + 5^2 + \dots + (2n-1)^2 = \mathbf{\frac{n(2n-1)(2n+1)}{3}}$
+#### A. Sum of First $n$ Natural Numbers
+$$\sum n = 1 + 2 + 3 + \dots + n = \frac{n(n+1)}{2}$$
+
+> [!NOTE] Visual Intuition (Staircase / Triangle)
+> Arrange dots in a staircase: 1 dot in row 1, 2 dots in row 2, ..., $n$ dots in row $n$.
+> Duplicate this staircase, rotate it upside down, and fit it together with the first staircase.
+> It forms a rectangle of dimensions $n \times (n+1)$.
+> Since we used two identical staircases, one staircase has area $= \frac{n(n+1)}{2}$.
+
+---
+
+#### B. Sum of First $n$ ODD Natural Numbers
+$$1 + 3 + 5 + \dots + (2n-1) = n^2$$
+
+> [!NOTE] Visual Intuition (L-Shaped Layers / Gnonom)
+> Start with 1 dot ($1^2$). Wrap a 3-dot L-shape around it $\rightarrow 2 \times 2 = 2^2$.
+> Wrap a 5-dot L-shape around that $\rightarrow 3 \times 3 = 3^2$.
+> Each layer of odd numbers $(2n-1)$ completes a perfect $n \times n$ square!
+
+---
+
+#### C. Sum of Cubes of First $n$ Natural Numbers
+$$\sum n^3 = 1^3 + 2^3 + 3^3 + \dots + n^3 = \left[ \frac{n(n+1)}{2} \right]^2 = (\sum n)^2$$
+
+> [!NOTE] Visual Intuition (Nicomachus's Theorem)
+> Every cube $k^3$ is the sum of $k$ consecutive odd numbers:
+> - $1^3 = 1$
+> - $2^3 = 3 + 5 = 8$
+> - $3^3 = 7 + 9 + 11 = 27$
+> - $4^3 = 13 + 15 + 17 + 19 = 64$
+>
+> Summing $1^3 + 2^3 + \dots + n^3$ gives the unbroken sum of all consecutive odd numbers up to $N = 1 + 2 + \dots + n = \sum n$ terms.
+> From B above, the sum of the first $N$ odd numbers is $N^2 = (\sum n)^2$!
+
+---
+
+#### D. Sum of Squares of First $n$ Natural Numbers (The 3-Pyramid Trick)
+$$\sum n^2 = 1^2 + 2^2 + 3^2 + \dots + n^2 = \frac{n(n+1)(2n+1)}{6}$$
+
+> [!NOTE] Visual Intuition (3 Pyramids forming a Rectangle)
+> Represent $1^2 + 2^2 + \dots + n^2$ as a 3D pyramid made of unit blocks.
+> Take **3 identical copies** of this pyramid.
+> Rotate and fit all 3 pyramids together:
+> 1. They form a rectangular block with base $n \times (n+1)$ and height $\left(n + \frac{1}{2}\right) = \frac{2n+1}{2}$.
+> 2. Total volume of 3 pyramids $= n \times (n+1) \times \frac{2n+1}{2} = \frac{n(n+1)(2n+1)}{2}$.
+> 3. Volume of 1 pyramid $\sum n^2 = \frac{n(n+1)(2n+1)}{6}$.
+
+---
+
+### 6. Derived Speed Results (From First Principles)
+- **Sum of EVEN Numbers**: $2(1 + 2 + \dots + n) = 2 \times \frac{n(n+1)}{2} = \mathbf{n(n+1)}$
+- **Sum of Squares of EVEN Numbers**: $4(1^2 + 2^2 + \dots + n^2) = 4 \times \frac{n(n+1)(2n+1)}{6} = \mathbf{\frac{2n(n+1)(2n+1)}{3}}$
+- **Sum of Squares of ODD Numbers**: $\sum_{k=1}^{2n} k^2 - \text{Evens}^2 = \mathbf{\frac{n(2n-1)(2n+1)}{3}}$
 - **Product of Consecutive Integers**: $1 \cdot 2 + 2 \cdot 3 + \dots + n(n+1) = \mathbf{\frac{n(n+1)(n+2)}{3}}$
 - **Alternate Signs Squares ($n$ is even)**: $1^2 - 2^2 + 3^2 - 4^2 + \dots - n^2 = \mathbf{-\frac{n(n+1)}{2}}$
 
