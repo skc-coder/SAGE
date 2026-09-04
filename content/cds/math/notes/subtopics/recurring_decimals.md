@@ -64,6 +64,12 @@ $$x = \frac{(\text{Full Number}) - (\text{Non-repeating Part})}{99\dots900\dots0
 
 ---
 
+### 3. Base-$b$ Representation & Terminating Condition
+For a detailed mathematical proof of why base 10 terminates only for denominators $q = 2^a \cdot 5^b$, and how this affects Binary/Hexadecimal computer floating-point systems (IEEE 754), see:
+- [[cds/math/notes/subtopics/base_representation|Base-b Positional Representation & Radix Expansion]]
+
+---
+
 ## Linked Practice Questions
 
 - [[cds/math/notes/questions/q_dec1|Q1: Converting Pure Recurring Decimal 0.232323...]]
