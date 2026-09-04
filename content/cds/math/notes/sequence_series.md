@@ -49,7 +49,29 @@ A sequence $a_1, a_2, \dots, a_n$ is in HP if their reciprocals $\frac{1}{a_1}, 
   If $a, H, b$ are positive numbers in HP, then $H$ is the Harmonic Mean:
   $$H = \frac{2ab}{a + b}$$
 
-### 5. Inequalities & Fundamental Relation Between Means
+### 5. Special Series Sums & Memory Hacks
+1. **Sum of First $n$ Natural Numbers**:
+   $$\sum n = 1 + 2 + 3 + \dots + n = \frac{n(n+1)}{2}$$
+2. **Sum of Squares of First $n$ Natural Numbers**:
+   $$\sum n^2 = 1^2 + 2^2 + 3^2 + \dots + n^2 = \frac{n(n+1)(2n+1)}{6}$$
+   > [!TIP] Memory Hook for $\sum n^2$
+   > - First two factors: $n(n+1)$ (same as natural sum numerator)
+   > - Third factor: Sum of first two factors $\rightarrow n + (n+1) = \mathbf{2n+1}$
+   > - Denominator: **6** (degree is 3, $1 \times 2 \times 3 = 6$)
+3. **Sum of Cubes of First $n$ Natural Numbers**:
+   $$\sum n^3 = 1^3 + 2^3 + 3^3 + \dots + n^3 = \left[ \frac{n(n+1)}{2} \right]^2 = (\sum n)^2$$
+   > [!TIP] Memory Hook for $\sum n^3$
+   > Simply **square** the sum of natural numbers: $\sum n^3 = (\sum n)^2$.
+
+### 6. Derived Speed Results & Key Properties
+- **Sum of first $n$ ODD Natural Numbers**: $1 + 3 + 5 + \dots + (2n-1) = \mathbf{n^2}$
+- **Sum of first $n$ EVEN Natural Numbers**: $2 + 4 + 6 + \dots + 2n = \mathbf{n(n+1)}$
+- **Sum of Squares of EVEN Numbers**: $2^2 + 4^2 + 6^2 + \dots + (2n)^2 = \mathbf{\frac{2n(n+1)(2n+1)}{3}}$
+- **Sum of Squares of ODD Numbers**: $1^2 + 3^2 + 5^2 + \dots + (2n-1)^2 = \mathbf{\frac{n(2n-1)(2n+1)}{3}}$
+- **Product of Consecutive Integers**: $1 \cdot 2 + 2 \cdot 3 + \dots + n(n+1) = \mathbf{\frac{n(n+1)(n+2)}{3}}$
+- **Alternate Signs Squares ($n$ is even)**: $1^2 - 2^2 + 3^2 - 4^2 + \dots - n^2 = \mathbf{-\frac{n(n+1)}{2}}$
+
+### 7. Inequalities & Fundamental Relation Between Means
 For any two positive real numbers $a$ and $b$:
 1. **Fundamental Inequality**:
    $$A \ge G \ge H$$
