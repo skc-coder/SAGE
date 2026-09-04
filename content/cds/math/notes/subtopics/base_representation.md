@@ -33,7 +33,12 @@ Since $q$ divides $N \cdot q$, $q$ must divide $p \cdot b^k$.
 Because $\gcd(p, q) = 1$, by Euclid's Lemma, $q$ must divide $b^k$:
 $$q \mid b^k$$
 
-By the Fundamental Theorem of Arithmetic, if $q$ divides $b^k$, any prime factor $r$ of $q$ must also divide $b^k$, which implies $r$ must divide $b$.
+By the Fundamental Theorem of Arithmetic, if $q \mid b^k$:
+1. Every prime factor $r$ that divides $q$ must also divide $b^k$ (transitivity of divisibility).
+2. The prime factors of $b^k = (b \cdot b \cdot \dots \cdot b)$ are **identical** to the prime factors of $b$ (raising a number to power $k$ repeats existing prime factors; it never introduces new prime factors).
+3. Therefore, if $r \mid b^k$, then $r$ MUST be one of the prime factors of $b$ ($r \mid b$).
+
+Hence, $\operatorname{prime\_factors}(q) \subseteq \operatorname{prime\_factors}(b)$.
 
 ---
 
