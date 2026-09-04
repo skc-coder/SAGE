@@ -38,7 +38,9 @@ $$S_n = \frac{n}{2} [2a + (n-1)d]$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q110|CDS Sequence & Series Q1: Sum of 11 terms of AP]]
+- [[cds/math/notes/questions/q110|Q110: Sum of 11 terms of AP]]
+- [[cds/math/notes/questions/q113|Q113: Ratio of m-th terms from ratio of sums of two APs]]
+- [[cds/math/notes/questions/q114|Q114: Sum of inserted Arithmetic Means]]
 
 ---
 

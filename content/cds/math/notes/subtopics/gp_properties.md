@@ -33,7 +33,9 @@ $$S_\infty = \frac{a}{1 - r}$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q111|CDS Sequence & Series Q2: 4th, 10th, 16th terms of GP]]
+- [[cds/math/notes/questions/q111|Q111: 4th, 10th, 16th terms of GP]]
+- [[cds/math/notes/questions/q115|Q115: Product of terms of GP with known middle term]]
+- [[cds/math/notes/questions/q116|Q116: Total distance covered by a rebounding ball (Infinite GP)]]
 
 ---
 
