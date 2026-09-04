@@ -1,0 +1,713 @@
+=== PDF Page 251 ===
+38. (b) After first bounce, height of ball
+= 
+ 
+ ×2
+3
+36
+1
+and after third bounce, height of ball
+= 
+ 
+ ×2
+3
+36
+3
+= × 8
+27
+36 = × =8 4
+3
+32
+3
+m = 10 2
+3
+m
+Hence, the required height at third
+bounce is
+10 2
+3
+m.
+39. (c) Product of four consecutive numbers
+plus one is always a square.
+Illustration 1 Let four consecutive
+numbers be 3, 4, 5 and 6.
+∴ ( ) ( )3 4 5 6 1 361 19 2× × × + = =
+Illustration 2 Let four consecutive
+numbers be 9, 10, 11 and 12.
+∴ ( ) ( )9 10 11 12 1 11881 109 2× × × + = =
+40. (b) The difference of two consecutive
+cubes is never divisible by 2.
+Illustration 1 Let the two consecutive
+numbers be 4 and 5.
+∴ ( ) ( )5 4 125 64 613 3− = − =
+Illustration 2 Let the two consecutive
+numbers be 9 and 10.
+∴ ( ) ( )10 9 1000 7293 3− = − = 271
+41. (b) ( . )
+.
+[ . ( . ) ]0 75
+1 0 75
+0 75 0 75 1
+3
+2
+−
++ + +
+= + +( . )
+.
+[ . ( . ) ]0 75
+0 25
+1 75 0 75
+3
+2
+= × + +3 0 75 1 75 0 752 2( . ) . ( . )
+= × + = =4 0 75 1 75 4 22( . ) .
+Hence, the required square root is 2.
+42. (d) 5 10
+5 5 2 20 32 50
++
+− − +
+= +
+− − +
+5 10
+5 5 4 5 4 2 5 2
+= +
++
+× −
+−
+( )
+( )
+( )
+( )
+5 10
+5 2
+5 2
+5 2
+[by rationalisation]
+= − + −
+−
+5 5 5 2 50 20
+5 22 2
+[/c81 ( )( )a b a b a b− + = − 2 2 ]
+= − + −
+−
+5 5 5 2 5 2 2 5
+5 2
+= =3 5
+3
+5
+43. (a) We have, x = 91
+216
+⇒ 1 1 91
+216
+125
+216
+5
+6
+3
+− = − = = 
+ 
+x
+⇒
+( )1 5
+6
+1
+3− =x ⇒ 1
+1
+6
+51
+3( ) −
+=
+x
+⇒ 3 1
+1
+3 6
+5
+9
+51
+3
+−
+−
+= − =
+( ) x
+44. (b) We have, 2, 61 4 /, 41 3 /
+The LCM of 2, 4, 3 are 12.
+( ) ; ( ) ; ( )2 6 46 3 4
+1
+12
+1
+12
+1
+12
+( ) ; ( ) ; ( )64 216 256
+1
+12
+1
+12
+1
+12
+2 6 4
+1
+4
+1
+3< < or
+2 6 44 3> >
+45. (b) We have, x = + 3 2
+/c81 1 1
+3 2
+3 2
+3 2x
+=
++
+× −
+−
+= −
+−
+= −3 2
+3 2
+3 2
+∴
+x
+x
++ =1 2 3
+On cubing both sides, we get
+x
+x x
+3
+3
+1 3 1 24 3+ + + 
+ 
+ =x
+/c81
+x
+x
+x
+x
+3
+3
+1 1+ + + = − + 
+ 
+24 3 2 1x
+x
+= − ×24 3 2 2 3
+= −24 3 4 3 = 20 3
+46. (a) Given, x = + −2 21 3 1 3/ /
+∴ 2 6 5 2 2 23 1 3 1 3 3x x− − = + −( ) / /
+− + − −6 2 2 51 3 1 3( ) / /
+= + + + − −2 2 2 3 2 21 1 3 1 3[ ( )] / /
+− + − −6 2 2 51 3 1 3( ) / /
+= + × + + −4 2 1
+2
+6 2 21 3 1 3( ) / /
+− + − −6 2 2 51 3 1 3( ) / /
+= + − =4 1 5 0
+47. (b) We have, 4 2 128x y =
+⇒ 2 2 22 7x y = ( )
+⇒ 2 22 7x + =y ( )
+⇒ 2 7x + =y
+⇒ y = −7 2 x …(i)
+Now, 3 3 93 2x x⋅ = y y
+⇒ 3 33 2x+2y x= y
+⇒ 3 2 2x x+ = y y …(ii)
+⇒ 3 2 7 2 2 7 2x x x x+ − = −( ) ( )
+[from Eq. (i)]
+⇒ 3 14 4 14 4 2x x x x+ − = −
+⇒ 4 15 14 02x x− + =
+⇒ 4 8 7 14 02x x x− − + =
+⇒ 4 2 7 2 0x x x( ) ( )− − − =
+⇒ ( ) ( )4 7 2 0x x− − =
+⇒ x = 7
+4
+or x = 2
+∴
+y = 7
+2
+or y = 3
+∴
+x y+ = 21
+4
+or x y+ = 5
+48. (a) Refer to question 32.
+46 CDS Pathfinder
+
+=== PDF Page 252 ===
+Distance
+The length of the path travelled by any object or a person betw een two places is known as distance.
+The unit of distance is m or km.
+Time
+The duration in hours, minutes or seconds spent to cover a cer tain distance is called time.
+Speed
+The distance travelled by any object or a person per unit time is known as speed of that object or a
+person. The unit of speed is m/s or km/h.
+So, speed
+= distance
+time
+EXAMPLE 1. There are 20 poles with a constant distance between each pole . A car takes 24 s to
+reach the 12th pole. How much time will it take to reach the las t pole?
+a. 25.25 s b. 17.45 s c. 35.75 s d. 41.45 s
+Sol. d. Suppose distance between each pole is 1m.
+∴ T otal distance = 19 m
+It takes 24 s to cover 11 m.
+∴ T o cover 19 m, it will take 24
+11 19 4145× = . .
+Conversion of Unit
+(i) To convert speed of an object from km/h to m/s, multiply it by 5
+18
+.
+e.g. 36 km/h = ×36 5
+18
+m/s = 10 m/s
+47MATHEMATICS Area and Perimeter of□Plane Figures
+06
+TIME AND□DISTANCE
+Regularly (4-7) questions have been asked from this chapter . Generally the type of questions vary from
+simple to quite complex. But if you know the basics, then this section becomes easy to score area.
+
+=== PDF Page 253 ===
+48 CDS Pathfinder
+(ii) To convert speed of an object from m/s to km/h,
+multiply it by 18
+5
+.
+e.g. 5 m/s = ×5 18
+5
+km/h = 18 km/h
+Average Speed
+The average speed of an object is defined as total
+distance travelled divided by total time taken.
+i.e. Average speed
+= Total distance
+Total time
+EXAMPLE 2. A man completes 30 km of a journey
+at 6 km/h and the remaining 40 km of the journey in
+5 h. Then, his average speed for the whole journey is
+a. 5 km/h b. 7 km/h
+c. 7.5 km/h d. None of these
+Sol. b. Average speed = = =Total distance travelled
+Total time taken
+70
+10 7 km/h
+Relative Speed
+The speed of an object with respect to other is called
+relative speed. Suppose two bodies are moving with
+speeds of x km/h and y km/h respectively, then their
+relative speed will be
+(i) ( )x y+ km/h, if both the bodies are moving in
+opposite directions.
+(ii) ( )x y− km/h, if both the bodies are moving in same
+direction.
+EXAMPLE 3. Two persons 27 km apart setting out at
+the same time are together in 9 h, if they walk in the
+same direction but in 3 h, if they walk in opposite
+directions. Then, their rates of walking (speeds) are
+a. 2 km/h and 4 km/h b. 3 km/h and 5 km/h
+c. 4 km/h and 8 km/h d. None of these
+Sol. d. Let the first person be walking faster with speed
+x km/h and second walking with speed y km/h.
+Case I Both walking in same directions.
+∴ Distance travelled by first person in 9 h = 9x km
+and distance travelled by second person in 9 h = 9 y km
+As both are 27 km apart
+∴ 9 9 27x − =y ⇒ x − =y 3 ...(i)
+Case II Both walking in opposite directions.
+∴ Distance travelled by first person in 3 h = 3x
+and distance travelled by second person in 3 h = 3y
+So, by condition, 3 3 27x + =y ⇒ x + =y 9 ...(ii)
+On adding Eqs. (i) and (ii), we get
+⇒ 2 12x = ⇒ x = 6 km/h
+Put the value of x in Eq. (ii), we get
+6 9 3+ = ⇒ =y y km/h
+So, their speeds are 6 km/h and 3 km/h.
+Important Rules and Formulae
+Rule 1 If A travels with speed x km/h for t1 h and with
+speed y km/h for t 2 h, then average speed = +
++
+x t yt
+t t
+1 2
+1 2
+EXAMPLE 4. A man walks at the rate of 5 km/h for
+6 h and at 4 km/h for 12 h. Find out the average
+speed (in km/h) of the man.
+a. 2 1
+3
+b. 5 1
+3
+c. 7 1
+3
+d. None of these
+Sol. d. Here, x = 5 km/h, y = 4 km/h, t1 6= h and t 2 12= h
+∴ Average speed = +
++
+xt yt
+t t
+1 2
+1 2
+= × + ×
++
+5 6 4 12
+6 12 = +30 48
+18
+= 78
+18
+= 4 1
+3 km/h
+Rule 2 If a man/vehicle covers two equal distances with
+the speed of x km/h and y km/h respectively, then the
+average speed of the man/vehicle for complete journey
+will be
+2x
+x
+y
+y+
+.
+EXAMPLE 5. A man covers half of his journey at
+6 km/h and the remaining half at 3 km/h. Then, his
+average speed is
+a. 1 km/h b. 2 km/h c. 3 km/h d. 4 km/h
+Sol. d. Here, x = 6 km/h and y = 3 km/h
+∴ Average speed = +
+2x
+x
+y
+y = × ×
++ =2 6 3
+6 3
+36
+9 = 4 km/h
+Rule 3 If a man changes his speed to x
+y
+
+ 
+ of his usual
+speed and gets late by t min, then the usual time taken by
+him
+= ×
+−
+t
+y
+x
+x( )
+.
+Note If a person changes his speed to x
+y
+
+ 
+ of his usual and
+reaches early by t min, then usual time taken by him
+= ×
+−
+t
+y
+x
+x( )
+.
+EXAMPLE 6. If a man travels with a speed of 2 5 /
+times of his original speed and he reached his office
+15 min late to fixed time, then the time taken with his
+original speed, is
+a. 10 min b. 15 min c. 20 min d. 25 min
+Sol. a. Here, x = 2 , y = 5 and t = 15 min
+∴ Required time = ×
+−
+x
+x
+t
+y = ×
+−
+2 15
+5 2
+= ×2 15
+3 = × =2 5 10 min
+
+=== PDF Page 254 ===
+Rule 4 When a man travels from A to B with a speed
+x km/h and reaches t1h later after the fixed time and when
+he travels with a speed y km/h from A to B, he reaches his
+destination t 2h before the fixed time, then distance
+between A and B y t t
+y
+= +
+−
+x
+x
+( )1 2 km.
+EXAMPLE 7. Walking at 3 km/h, Rajeev reaches his
+school 5 min late, if he walks at 4 km/h, he will be
+5 min early. The distance of Rajeev’s school from his
+house is
+a. 11
+2 km
+b. 2 km c. 2 1
+2 km
+d. 5 km
+Sol. b. Here, x = 3 km/h, y = 4 km/h, t1
+5
+60= h and t 2
+5
+60= h
+∴ Required distance = +
+−
+x
+x
+y t t
+y
+( )1 2 =
+× +
+ 
+
+−
+3 4 5
+60
+5
+60
+4 3
+= × ×3 4 10
+60 = 2 km
+Rule 5 A person travels from A to B with a speed
+x km/h and reaches t1 h late. Later he increases his speed
+by y km/h to cover the same distance and he still gets late
+by t 2 h, then the distance between A and B
+= − +( )( )t t y
+y
+1 2 x x.
+EXAMPLE 8. A boy walking at a speed of 20 km/h
+reaches his school 30 min late. Next time he
+increased his speed by 5 km/h but still he is late by
+10 min. What is the distance of the school from his
+home?
+a. 100
+3 km b. 50
+3 km c. 100
+7 km d. 2
+5 km
+Sol. a. Given, x = 20 km/h, y = 5 km/h, t1 30= min = 1
+2 h
+and t 2 10= min
+= 1
+6 h
+∴ Required distance = − +( ) ( )t t y y1 2 x x
+= −
+ 
+ + ×1
+2
+1
+6 20 5 20
+5( )
+= 100
+3 km
+Problem Based on Trains
+Problems based on trains are same as the problems
+related to speed, Time and Distance. The only difference
+is that the length of the moving object (train) is taken
+into consideration in these types of problems.
+Rule 6 (i) Time taken by a train x m long in passing a
+single post or pole or standing man = Time
+taken by the train to cover x m.
+(ii) Time taken by a train x m long in passing
+an object of length y m = Time taken by the
+train to cover ( )x y+ m.
+EXAMPLE 9. A 100 m long train is moving at a speed
+of 60 km/h. In what time will it cross a signal pole?
+a. 6 s b. 12 s c. 15 s d. None of these
+Sol. a. Here, speed of train = 60 km/h = × =60 5
+18
+50
+3 m/s
+and distance covered by train in passing a pole
+= Length of the train
+/c81 Length of train = 100 m
+∴ Time taken to pass the pole = =Distance travelled by train
+Speed of train s 6
+Rule 7 Time taken by a train of length l1 metre moving
+at a speed of s 1 m/s to cross another train of length l 2
+moving at a speed of s 2 m/s in same/opposite direction is
+l l
+s s
+1 2
+1 2
++
+±
+Use ‘+’ for opposite direction.
+Use ‘–’ for same direction.
+EXAMPLE 10. Two trains of lengths 110 m and
+130 m travel on parallel track. If they move in the
+same direction, the first one which is faster takes one
+minute to pass the other one completely. If they move
+in opposite directions then they pass each other in 3s,
+then the speed of the trains is
+a. 41 m/s and 39 m/s b. 32 m/s and 43 m/s
+c. 42 m/s and 38 m/s d. None of these
+Sol. c. Let v1 be the velocity of faster train and v2 be the
+velocity of slower train.
+Case I If they move in the same direction, then
+110 130 60
+1 2
++
+− =v v s ⇒ v v1 2 4− = …(i)
+Case II If they move in opposite directions,
+110 130 3
+1 2
++
++ =v v ⇒ v v1 2 80+ = …(ii)
+On adding Eqs. (i) and (ii), we get 2 841v = ⇒ v1 42= m/s
+Now, putting the value of v1 in Eq. (ii), we get
+42 80 2+ =v , v2 38= m/s = × ×3 4 10
+60 = 2 km
+Rule 8 If two trains start at the same time from points
+A and B towards each other and after crossing each other,
+they take t1 and t 2 time in reaching points B and A
+respectively, then ratio of their speed = t
+t
+2
+1
+or S
+S
+t
+t
+1
+2
+2
+1
+=
+49MATHEMATICS Time and Distance
+
+=== PDF Page 255 ===
+50 CDS Pathfinder
+EXAMPLE 11. Two trains, one from Howrah to Patna
+and the other from Patna to Howrah, start
+simultaneously. After they meet, the trains reach their
+destinations after 9 h and 16 h, respectively. What is
+the ratio of their speeds?
+a. 4:3 b. 3:1
+c. 4:5 d. 3:2
+Sol. a. Let us name the trains as A and B. Then, A’s speed :
+B’s speed = = =t t2 1 16 9 4 3: : : .
+Problems Based on Boat and Stream
+Boats and streams is an application of speed, time and
+distance. Some of the important terms are explained
+below
+• Still water If the speed of water is zero, then water is
+considered to be still water.
+• Stream water If the water of a river is moving at a
+certain speed, then it is called stream water.
+• Downstream motion In water, the direction along the
+stream is called downstream.
+• Upstream motion In water, the direction against the
+stream is called upstream.
+Some rules and problems related to boat and stream are
+given below
+Rule 9 If the speed of a boat in still water be x
+km/h and speed of stream be y km/h, then
+(i) Speed of boat downstream = +( )x y km/h
+(ii) Speed of boat upstream = −( )x y km/h
+EXAMPLE 12. A sailor goes 8 km downstream in
+40 min and returns back in 1 h. Then, the speed of
+the sailor in still water and the speed of the current is
+a. 5 km/h and 3 km/h b. 10 km/h and 2 km/h
+c. 7 km/h and 10 km/h d. None of these
+Sol. b. Let the speed of the sailor in still water = x km/h
+and speed of the current (stream) = y km/h
+Then, speed of the sailor downstream = +( )x y km/h
+and speed of the sailor upstream = −( )x y km/h
+∴ Time to travel 8 km downstream = 40 min = 40
+60 h = 2
+3 h
+⇒
+8 2
+3x + =y ⇒ x + =y 24
+2 /c81distance
+speed time=
+
+
+
+⇒ x + =y 12 …(i)
+and time to return = 1h ⇒
+8 1x − =y
+⇒ x − =y 8 …(ii)
+On adding Eqs. (i) and (ii), we get x = 10 and y = 2
+Hence, speed of sailor in still water = 10 km/h
+Speed of current (stream) = 2 km/h
+Rule 10 Let the speed of boat in downstream = u km/h
+and speed of boat in upstream = v km/h, then
+(i) Speed of boat in still water = +1
+2
+( )u v km/h
+(ii) Speed of stream (current) = −1
+2
+( )u v km/h
+EXAMPLE 13. The speed of boat upstream and
+speed of boat downstream are 7 km/h and 13 km/h,
+respectively. Then, the speed of stream and speed of
+boat in still water is
+a. 10 km/h and 3 km/h b. 15 km/h and 9 km/h
+c. 20 km/h and 6 km/h d. 40 km/h and 12 km/h
+Sol. a. Let the speed of boat in downstream and upstream
+be u km/h and v km/h, respectively.
+Given, v = 7 km/h and u = 13 km/h
+Speed of boat in still water = +1
+2 7 13( )
+= 1
+2 20 ( )= 10 km/h
+Speed of the stream
+= −1
+2 13 7( )
+= 1
+2 6 ( )= 3 km/h
+RACES
+A contest of speed in running, driving, riding, sailing or
+rowing over a specified distance is called a race.
+Suppose A and B are two contestants in a race. If A
+beats B by x m and length of the track is dm.
+Then, Distance travelled by B when A finishes the race
+= −d x and
+Speed of
+Speed of
+A
+B
+d
+d x
+=
+−
+Note (i) A gives B a start of x m means when A starts at starting
+point, B starts x m ahead from starting point.
+(ii) A gives B a start of t s means A starts t s after B starts
+from the same point.
+EXAMPLE 14. In a 200 m race, A can beat B by 50m
+and B can beat C by 8m. In the same race, A can beat
+C by what distance?
+a. 60 m b. 72 m c. 56 m d. 66 m
+Sol. c. A can beat B by 50 m.
+∴ speed of
+speed of
+A
+B = − =200
+200 50
+200
+150
+Also, B can beat C by 8m,
+∴
+speed of
+speed of
+B
+C = − =200
+200 8
+200
+192
+Now,
+speed of
+speed of
+speed of
+speed of
+speed ofA
+C
+B
+C= × speed of
+A
+B
+= × =200
+150
+200
+192
+200
+144
+So, A beats C by (200 − 144) = 56 m

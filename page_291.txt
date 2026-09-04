@@ -1,0 +1,133 @@
+x = value of each instalment
+Total amount paid in instalments, A P R
+n
+= + 
+ 
+1
+100
+n = number of instalments
+EXAMPLE 9. Sapna borrowed some money on
+compound interest and returned it in 3 yr in equal
+annual instalments. If rate of interest is 15 % per
+annum and annual instalment is ` 486680, then the
+sum borrowedes.
+a. 111300 b. 122400
+c. 1111200 d. 154320
+Sol. c. Given that, rate of interest, R = 15% pa
+Annual instalment, x = ` 486680
+T otal number of instalments, n = 3
+∴ P R R R
+=
++
+ 
+
++
++
+ 
+
++
++
+ 
+
+
+
+
+
+
+x x x
+1 100 1 100 1 100
+2 3
+
+
+
+
+
+
+
+⇒
+P R R R= + + + + +
+
+
+
+
+
+x 100
+100
+100
+100
+100
+100
+2
+2
+3
+3( )
+( )
+( )
+( )
+( )
+= 486680
+100
+100 15
+100
+100 15
+100
+100 15
+2 3
++
+
+
+
+
+
+ + +
+
+
+
+
+
+ + +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= × + 
+ 
+ + 
+ 
+
+
+
+486680 20
+23
+20
+23
+20
+23
+2 3
+= × + + 
+ 
+486680 20
+23 1 20
+23
+400
+529
+= 1111200
+∴ Principal borrowed = ` 1111200
+SOME IMPORTANT RESULTS
+1. Simple interest and compound interest are equal for first
+year period on the same sum and at the same rate.
+2. If A Band are the amounts of a certain sum for two
+consecutive years, then simple interest for 1 yr = −B A
+3. If certain sum at compound interest becomes x times in
+n1yr and y times in n 2yr, then x y n n1 1 1 2/ / =
+86 CDS Pathfinder

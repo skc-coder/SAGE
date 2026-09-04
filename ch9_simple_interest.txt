@@ -1,0 +1,1665 @@
+
+--- PDF PAGE 282 ---
+INTEREST
+When money is borrowed by a person, then customarily the mone y lender used to charge some extra
+money in lieu of the money lent by him. This extra money earned by the money lender is called
+interest.
+Some terms related to interest are given below
+Principal (P) The money which is borrowed from a money lender, is called Pr incipal.
+Amount (A) The sum of the principal and the interest is called Amount i. e. Amount ( A) = Principal( )P +
+Interest ( )I .
+Rate (R) It is the rate at which the interest is charged on Principal.
+Time (T) The time period, for which the money is lent or deposited or b orrowed, is called Time.
+SIMPLE INTEREST
+If the interest is calculated on the original Principal for a ny length of time, then it is called simple
+interest.
+Simple Interest ( ) SI= × ×Principal Rate Time
+100
+or SI = × ×P R T
+100
+Amount ( )A = Principal ( )P + Interest ( )I and P A
+RT
+= ×
++
+100
+100
+Where, A → Amount
+R→ Rate of simple Interest
+T → Time
+EXAMPLE 1. The sum required to earn a monthly interest of `400 at 10% per annum at simple
+interest is
+a. ` 2000 b. ` 12000 c. ` 24000 d. ` 48000
+09
+SIMPLE INTEREST
+Regularly (1-2) questions have been asked from this chapter . Generally direct formula based
+questions are asked from this chapter and hence making it easy to score area.
+--- PDF PAGE 283 ---
+Sol. d. Given, SI = ` 400, R = 10% and T = 1 month = 1
+12 yr
+SI = × ×P R T
+100 or P R T= ×
+×
+100 SI = × ×
+× =100 400 12
+10 1 ` 48000
+EXAMPLE 2. In what time will the simple interest on
+` 400 at 10% per annum be the same as the simple
+interest on ` 1000 for 4 yr at 4% per annum?
+a. 2 yr b. 3 yr c. 4 yr d. 6 yr
+Sol. c. Here, P = `1000, T = 4 yr, and R = 4%
+∴ Simple interest = × ×P R T
+100 = × ×1000 4 4
+100 = ` 160
+Now, simple interest = ` 160, P = ` 400, R = 10%,
+then, T P R= ×
+× = ×
+× =100 100 160
+400 10 4SI yr
+EXAMPLE 3. A sum at simple interest of 4% per
+annum amounts to ` 3120 in 5 yr. Find the sum.
+a. ` 2500 b. ` 1300 c. ` 4000 d. ` 2600
+Sol. d. Here, T = 5 yr, R = 4%, A = ` 3120
+We know that, P A
+RT= ×
++ = ×
++ × = ×100
+100
+100 3120
+100 4 5
+100 3120
+120
+= ` 2600
+Important Rules and Formulae
+Rule 1 If a sum of money becomes n times in ‘T ’ yr at
+simple interest, then rate of interest will be,
+R n
+T
+= −
+ 
+100 1( ) %
+EXAMPLE 4. At what rate per cent per annum will a
+sum of money double in 8 yr?
+a. 12% b. 12 1
+2 %
+c. 13% d. 15%
+Sol. b. Here, n = 2 and T = 8 yr
+∴ Rate = − = × −100 1 100 2 1
+8
+( ) ( )n
+T = =100
+8 12 1
+2 %
+Rule 2 If a certain Principal Amounts to ` A1 in t1 yr
+and to ` A 2 in t 2 yr, then the sum ( )P is given by
+` A t A t
+t t
+2 1 1 2
+1 2
+−
+−
+
+ 
+ and the rate per cent ( )R per annum is
+given by
+100 2 1
+1 2 2 1
+( ) %A A
+A t A t
+−
+−
+
+
+
+ .
+EXAMPLE 5. A certain sum amounts to ` 1586 in
+2 yr and ` 1729 in 3 yr. Find the rate and the sum.
+a. 8%, ` 1200
+b. 9%, ` 1300
+c. 10%, ` 1000
+d. 11%, ` 1300
+Sol. d. Here, A t1 1 1586 2= =` , yr, A2 1729= and t 2 3= yr
+∴ Required principle = −
+−
+A t A t
+t t
+2 1 1 2
+1 2
+= × − ×
+−
+1729 2 1586 3
+2 3
+= ` 1300
+and required rate R A A
+A t A t= − ×
+−
+
+
+
+
+( ) %2 1
+1 2 2 1
+100
+= − ×
+× − ×
+( )1729 1586 100
+1586 3 1729 2 = × =143 100
+1300 11%
+Rule 3 At the same rate of simple interest, if a sum of
+money becomes n1 times of itself in t1 yr and n2 times in
+t 2 years, then t n
+n
+t y2
+2
+1
+1
+1
+1
+= −
+−
+( )
+( )
+r.
+EXAMPLE 6. A sum of money becomes 3 times in 5 yr
+at simple interest. In how many years, will the same sum
+become 6 times at the same rate of simple interest?
+a. 10 yr
+b. 12 yr
+c. 12.5 yr
+d. 10.5 yr
+Sol. c. Here, n1 3= , t y1 5= r and n2 6= , t 2 = ?
+∴ Required time ( ) ( )
+( )t n
+n t2
+2
+1
+1
+1
+1= −
+−
+( )
+( ) .6 1
+3 1 5 25
+2 12 5−
+− × = = yr
+78 CDS Pathfinder
+1. Find the amount on a sum of ` 400 for 3 yr at
+simple interest at 5% per annum.
+(a) ` 460 (b) ` 415 (c) ` 435 (d) ` 412
+2. Find what sum of money will amount to ` 900 in
+4 yr at 5% per annum on simple interest?
+(a) ` 750 (b) ` 650
+(c) ` 500 (d) ` 550
+3. If a certain sum is doubled in 8 yr on simple
+interest, in how many years will it be four times?
+(a) 24 yr (b) 16 yr (c) 32 yr (d) 12 yr
+4. A sum of money at simple interest amount to
+` 1260 in 2 yr and `1350 in 5 yr, then the rate
+per cent per annum is
+(a) 30% (b) 10% (c) 2.5% (d) 5%
+PRACTICE EXERCISE
+--- PDF PAGE 284 ---
+5. The difference of 13% per annum and 12% of a
+sum in 1 yr is ` 110. Then, the sum is
+(a) ` 12000 (b) ` 13000 (c) ` 11000 (d) ` 16000
+6. The simple interest on a sum of money at 10% per
+annum for 6 yr is half the sum. Then, the sum is
+(a) ` 5000 (b) not possible (c) ` 4000 (d) ` 6000
+7. The sum which amounts to ` 840 in 5 yr at the
+rate of 8% per annum simple interest is
+(a) `
+100 8 5 100
+840
+× × + (b) ` 100 840
+100 5 8
++
++ ×
+(c) ` 100 840
+100 5 8
+×
++ ×
+(d) ` 840 5 8
+100
+× ×
+8. A certain sum at simple interest amounts to
+` 1040 in 3 yr and to ` 1360 in 7 yr. Then, the sum is
+(a) ` 750 (b) ` 800 (c) ` 900 (d) ` 1000
+9. A sum becomes 6 fold at 5% per annum. At what
+rate, the sum becomes 12 fold?
+(a) 10% (b) 12% (c) 9% (d) 11%
+10. A man borrowed ` 40000 at 8% simple interest
+per year. At the end of second year he paid back
+certain amount and at the end of fifth year he
+paid back ` 35960 and cleared the debt. What is
+the amount did he pay back after the second year?
+(a) ` 16200 (b) ` 17400
+(c) ` 18600 (d) None of these
+11. A sum of ` 1550 was lent partly at 5% and partly
+at 8% simple interest. The total interest received
+after 3 yr was ` 300. The ratio of money lent at
+5% to 8% is
+(a) 11 : 12 (b) 16 : 15 (c) 12 : 21 (d) 11 : 13
+12. Rahim buys a house and pays ` 8000 cash
+and ` 9600 at 5 yr credit at 4% per annum simple
+interest. Then, the cash price of the house
+(a) ` 10000 (b) ` 9600 (c) ` 17000 (d) ` 16000
+13. At what rate per cent per annum simple interest,
+will a sum of money triple itself in 25 yr?
+(a) 8% (b) 9% (c) 10% (d) 12%
+14. A man invested ` 1000 on a simple interest at a
+certain rate and ` 1500 at 2% higher rate. The
+total interest in 3 yr is ` 390. What is the rate of
+interest for ` 1000?
+(a) 4% (b) 5% (c) 6% (d) 8%
+15. In what time the simple interest on a sum of
+money be 3 8 / of the principal with rate of
+interest 3 1 8( / )% ?
+(a) 9 yr (b) 6 yr (c) 12 yr (d) 15 yr
+16. If the rate of simple interest is 12% per annum
+the amount that would fetch interest of ` 6000
+per annum is
+(a) ` 7200 (b) ` 72000 (c) ` 50000 (d) ` 48543.69
+17. A lends a sum of money for 10 yr at 5% simple
+interest, B lends double that amount for 5 yr at
+the same rate of interest. Which of the following
+statement is true in this regard?
+(a) A will get twice the amount of interest that B would get
+(b) B will get twice the amount of interest that A would get.
+(c) A and B will get the same amount as interest.
+(d) B will get four times the amount of interest that A
+would get
+18. Out of a sum of ` 625 a part was lent at 5% and
+the other at 10% simple interest. If the interest
+on the first part after 2 yr is equal to the
+interest on the second part after 4 yr, then the
+second sum (in `) is
+(a) ` 125 (b) ` 200 (c) ` 250 (d) ` 300
+19. A man invests an amount of ` 15860 in the
+names of his three sons A B, and C in such a way
+that they get the same interest after 2, 3 and 4
+yr, respectively. If the rate of simple interest is
+5%, then the ratio of the amounts invested
+among A B, and C will be
+(a) 10 15 20: : (b)
+1
+10
+1
+15
+1
+20
+: :
+(c) 110 115 120: : (d) 1
+110
+1
+115
+1
+120
+: :
+20. A sum was put at simple interest at a certain
+rate for 2 yr. Had it been put at 3% higher rate,
+it would have fetched ` 72 more. The sum is
+(a) ` 1200 (b) ` 1600 (c) ` 1900 (d) ` 1400
+21. Harsha makes a fixed deposit of ` 20000 in Bank
+of India for a period of 3 yr. If the rate of
+interest be 13% SI per annum charged half
+yearly, what amount will he get after 42 months?
+(a) ` 27800 (b) ` 28100 (c) ` 29100 (d) ` 30000
+22. A sum of money lent on simple interest triples
+itself in 15 yr and 6 months. In how many year
+still it be doubled?
+(a) 6 yr and 3 months (b) 7 yr and 9 months
+(c) 8 yr and 3 months (d) 9 yr and 6 months
+23. Mr Pawan invests an amount of ` 24200 at the
+rate of 4% per annum for 6 yr to obtain a simple
+interest, later he invests the principal amount as
+well as the amount obtained as simple interest
+for another 4 yr at the same rate of interest.
+What amount of simple interest will be obtained
+at the end of the last 4 yr?
+(a) ` 4800 (b) ` 4850.32 (c) ` 4801.28 (d) ` 4700
+24. A person invested some amount at the rate of
+12% simple interest and the remaining at 10%.
+He received yearly an interest of ` 130. Had he
+interchanged the amounts invested, he would
+have received an interest of ` 134. How much
+money did he invest at different rates?
+(a) ` 500 at the rate of 10%, ` 800 at the rate of 12%
+(b) ` 700 at the rate of 10%, ` 600 at the rate of 12%
+(c) ` 800 at the rate of 10%, ` 400 at the rate of 12%
+(d) ` 700 at the rate of 10%, ` 500 at the rate of 12%
+79MATHEMATICS Simple Interest
+--- PDF PAGE 285 ---
+Directions (Q. Nos. 25-27) If SI for a certain sum P1
+for time T1 and rate of interest R1 is I1 and SI for
+another sum P2 for time T2 and rate of interest R2 is
+I2, then difference of SI = − = −I I P R T PR T
+2 1
+2 2 2 1 1 1
+100
+.
+25. Simple interest for the sum of ` 1500 is ` 50 in
+4 yr and ` 80 in 8 yr, the rate of SI is
+(a) 0.6% (b) 5% (c) 0.05% (d) 0.5%
+26. Simple interest for the sum of ` 1230 for 2 yr is
+` 10 more than the simple interest for ` 1130 for
+the same duration. Find the rate of interest.
+(a) 5% (b) 6% (c) 8% (d) 2%
+27. If the annual payment oa ` A will discharge a
+debt of ` 1092 due in 2 yr at 12% simple interest,
+then
+I. A will be ` 515 (approx.).
+II. A will be ` 530 (approx.), if interest rate is 6%.
+(a) Only I (b) Both I and II
+(c) Only II (d) Neither I nor II
+PREVIOUS YEARS’ QUESTIONS
+28. The principal on which a simple interest of ` 55
+will be obtained after 9 months at the rate of
+3 2 3( / )% per annum is e 2013 I
+(a) ` 1000 (b) ` 1500
+(c) ` 2000 (d) ` 2500
+29. In how much time would the simple interest on a
+principal amount be 0.125 times the principal
+amount at 10% per annum? e 2015 I
+(a)
+11
+4
+yr (b)
+13
+4
+yr (c)
+2 1
+4
+yr (d)
+2 3
+4
+yr
+30. If a sum of money at a certain rate of simple
+interest per year doubles in 5 yr and at a
+different rate of simple interest per year becomes
+three times in 12 yr, then the difference in
+the two rates of simple interest per year is
+e 2016 I
+(a) 2% (b) 3% (c)
+3 1
+3
+% (d)
+4 1
+3
+%
+80 CDS Pathfinder
+ANSWERS
+1 2 a 3 a 4 c 5 c 6 b 7 c 8 b 9 d 10 b
+11 b 12 d 13 a 14 a 15 c 16 c 17 c 18 a 19 b 20 a
+21 c 22 b 23 c 24 d 25 d 26 a 27 b 28 c 29 a 30 c
+HINTS AND SOLUTIONS
+1. (a) Given, P = ` 400, R = 5%
+and T yr= 3
+Simple interest = × ×P R T
+100
+SI = × × =400 3 5
+100
+` 60
+∴ Amount = + = + =P SI 400 60 ` 460
+2. (a) Let the sum of money be ` x.
+/c81 Amount = Sum + SI
+∴ Amount = + × ×x x 5 4
+100
+/c81SI = × ×
+
+
+
+P R T
+100
+But amount = ` 900
+∴
+900 20
+100
+= +x x
+⇒ 900 6
+5
+= x ⇒ x = ×900 5
+6
+= ` 750
+Shortcut Method
+Here, A R= =` 900 5, % and T = 4yr
+/c81 Sum
+= ×
++
+= ×
++ ×
+=100
+100
+100 900
+100 5 4
+750A
+RT
+`
+3. (a) Let the sum be ` x, so amount
+= ` 2x
+∴ SI = ` x
+Let R be rate of interest.
+∴ R
+P T
+= ×
+×
+= ×
+×
+=100 100
+8
+12 5SI x
+x
+. %
+Now, the needed amount = ` 4x
+∴ SI = ` ( )4x x− = ` 3x
+∴ T
+P R
+= ×
+×
+= ×
+×
+=100 100 3
+12 5
+24SI x
+x .
+yr
+Shortcut Method
+Here, n1 2= , n2 4= and t1 8= yr
+∴ Required time
+=
+−
+−
+×
+( )
+( )
+n
+n
+t2
+1
+1
+1
+1
+[Rule 3]
+= −
+−
+× = × =( )
+( )
+4 1
+2 1
+8 3
+1
+8 24 yr
+4. (c) Simple interest in 3 yr
+= ` ( )1350 1260− = ` 90
+∴ Simple interest for 2 yr
+= × =2
+3
+90 ` 60
+/c81 Principal = ` ( )1260 60− = ` 1200
+∴ Rate,
+R
+P T
+= ×
+×
+= ×
+×
+= =100 100 60
+1200 2
+60
+24
+5
+2
+SI
+R = 2 5 . %
+Shortcut Method
+Here, A1 1260= ` , t1 2= yr,
+A2 1350= ` and t2 5= yr
+∴ Required rate
+=
+−
+−
+
+
+
+
+
+
+
+
+×
+( )A A
+A t A t
+2 1
+1 2 2 1
+100% [Rule 2]
+= −
+× − ×
+×( ) %1350 1260
+1260 5 1350 2
+100 = 2 5 . %
+--- PDF PAGE 286 ---
+5. (c) Let the sum be ` x.
+Then, x x× × − × × =13 1
+100
+12 1
+100
+110
+⇒ x
+100
+110=
+⇒ x = × =110 100 ` 11000
+Shortcut Method
+Here, P = ` 110 , r r1 2 13 12= = %, %
+and t t1 2 1= = yr
+∴ Short trick
+= ×
+−
+110 100
+13 12
+= ` 11000
+6. (b) Let the sum (principal) be ` x.
+∴ Simple interest = `
+x
+2
+and T = 6 yr, R = 10% per annum
+∴ SI
+= × ×P R T
+100
+⇒ x x
+2
+10 6
+100
+= × × ⇒
+1
+2
+6
+10
+=
+Which is not true, so it is not a possible
+case.
+7. (c) Let the sum be ` 100.
+Then, amount = (Sum + SI)
+= + × ×
+ 
+100 100 8 5
+100
+= + ×( )100 8 5
+So, when the amount is ( ),100 8 5+ ×
+then sum = 100
+When the amount is ` 840, then sum
+= `
+100 840
+100 8 5
+×
++ ×
+
+ 
+
+8. (b) Simple interest for 4 yr
+= ` ( )1360 1040− = ` 320
+Simple interest for 3 yr
+= `
+320
+4
+3×
+ 
+ = ` 240
+∴ Sum or principle
+= ` ( )1040 240− = ` 800
+Shortcut Method
+Here, A t1 1 1040 3= =` , yr ,
+A2 1360= ` and t2 7= yr
+∴ Required principle (sum)
+=
+−
+−
+
+
+
+
+
+
+
+`
+A t A t
+t t
+2 1 1 2
+1 2
+[Rule 2]
+= × − ×
+−
+=1360 3 1040 7
+3 7
+800`
+9. (d) SI at 5% = − =6 5P P P
+∴ 5 5
+100
+P P T= × × ⇒ T = 100 yr
+Now, for new rate ( )R ,
+11 100
+100
+P P R= × ×
+∴ R = 11%
+Shortcut Method
+As, R1 5= %, n1 6= , n2 12= .
+According to the formula,
+R
+n
+n
+R2
+2
+1
+1
+1
+1
+=
+−
+−
+× = −
+−
+×12 1
+6 1
+5 [Rule 3]
+= × =11
+5
+5 11%
+10. (b) Total borrowed money = ` 40000
+and rate of interest = 8%
+The interest for 2 yr = × ×40000 8 2
+100
+= ` 6400
+Let he paid ` x at the end of second
+year.
+∴ Interest will be calculated on
+` ( )40000 6400− +x
+Interest for 3 yr = − × ×( )46400 3 8
+100
+x
+= ` 6
+25
+46400( ) − x
+∴ 6
+25
+46400 46400( ) − +x − =x 35960
+⇒ x = × =21576 25
+31
+` 17400
+11. (b) Let sum lent at rate 5% be ` x.
+Then, sum lent at rate 8%
+= ` ( )1550 − x
+∴ Simple interest at rate 5% = × ×x 5 3
+100
+Simple interest at rate 8%
+= − × ×( )1550 8 3
+100
+x
+∴ x x× + − × =15
+100
+1550 24
+100
+300( )
+⇒ 15
+100
+37200
+100
+24
+100
+300x x+ − =
+⇒ x = ` 800
+Amount lent at rate 8%
+= ` ( )1550 800− = ` 750
+∴ Required ratio = 800
+750
+= =16
+15
+16 15 :
+12. (d) Let the amount remaining to pay be
+` x.
+∴ Price of house = ` ( )x + 8000
+⇒
+9600 4 5
+100
+− × × =x x
+⇒ 9600
+5
+− =x x
+⇒ 9600 6
+5
+= x ⇒ 9600 5
+6
+× = x
+⇒ x = ` 8000
+∴ Cash price of the house
+= ` ( )8000 8000+ = ` 16000
+13. (a) Let the principal be ` P
+As, amount = 3P and T = 25 yr
+∴ SI = − =3 2P P P
+/c81 Rate 100 SI
+principal
+= ×
+× T
+= ×
+×
+=100 2
+25
+8P
+P
+%
+14. (a) Let a man invest ` 1000 at a R%.
+Now, rate is increased by 2%.
+∴ New rate = +( )%R 2
+By given condition,
+1000 3
+100
+1500 2 3
+100
+× × + × + ×R R ( ) = 390
+⇒ 30 45 90 390R R+ + =
+⇒ 75 300R = ⇒ R = 4%
+15. (c) Here, rate of interest = 3 1
+8
+% = 25
+8
+%
+Let principal be ` x.
+and simple interest = ` 3
+8
+x
+∴
+3
+8
+25
+8
+100
+x
+x
+=
+× × T
+⇒
+300
+25
+= T ⇒ T = 12 yr
+16. (c) Given, rate of interest = 12% per
+annum
+Simple interest = ` 6000 per annum
+Let principal is ` P.
+∴ 6000 1 12
+100
+= × ×P
+/c81 P = ×6000 100
+12
+= ` 50000
+Hence, the required Principal amount is
+` 50000.
+17. (c) For A Let the amount be ` x.
+Rate of interest = 5% and Time = 10 yr
+∴ Simple interest
+= × × =x x 5 10
+100 2
+For B The amount be ` 2x.
+Rate of interest = 5% and Time = 5 yr
+SI = × × =2 5 5
+100 2
+x x
+So, A and B both will get the same
+amount as interest.
+18. (a) Let the first part and the second part
+be ` x and ` ( ),625 − x respectively.
+/c81The simple interest on both part in
+same.
+So,
+x x× × = − × ×5 2
+100
+625 10 4
+100
+( )
+⇒ 10 625 40x x= −( )
+⇒ x x= −( )625 4
+∴ x = ` 500
+∴ Second part
+= ` ( )625 500− = ` 125
+81MATHEMATICS Simple Interest
+--- PDF PAGE 287 ---
+19. (b) Let the amount of A = ` a,
+time = 2 yr and rate = 5%
+∴ Simple Interest of
+A a a= × × =2 5
+100
+10
+100
+Let the amount of B = ` b, rate = 5%
+and time = 3 yr.
+∴ Simple interest of
+B b b= × × =3 5
+100
+15
+100
+Let the amount of C = ` c, time = 4 yr
+and rate = 5%
+∴ Simple interest of C c= × ×4 5
+100
+= 20
+100
+c
+But a b c× = × = ×10
+100
+15
+100
+20
+100
+⇒ 10 15 20a b c k= = =
+So, a k b k c k= = =
+10 15 20
+, ,
+∴ a b c: : : : = 1
+10
+1
+15
+1
+20
+20. (a) Let the sum be ` x and the original
+rate r%, then
+Simple interest = × ×x r 2
+100
+Now, rate is increased by 3%.
+∴ New rate = +( )%r 3
+/c81 Simple interest = × + ×x ( )r 3 2
+100
+∴ x x× + × − × × =( )r r 3 2
+100
+2
+100
+72
+⇒ ( )x x xr r+ − =3 2
+100
+2
+100
+72
+⇒ 2 6 2
+100
+72x x xr r+ − =
+∴ x = ` 1200
+21. (c) As rate of interest is charged half
+yearly,
+So, rate = 13
+2
+% half yearly
+time 42
+12
+2×
+ 
+ half yearly = 7 half yearly
+SI
+= × ×
+×
+20000 13 7
+100 2
+= ` 9100
+∴ Amount ( )A = +20000 9100
+= ` 29100
+22. (b) Let initial amount be ` P, then
+A P= ` 3 and
+T = 15 yr and 6 months = 31
+2
+yr
+/c81 SI A P P P P= − = − = 3 2 `
+⇒ P R P× × =31
+2 100
+2
+⇒ R = × ×2 2 100
+31
+%
+= 400
+31
+%
+Let amount doubled be t1 yr.
+Now, SI = − =2P P P `
+∴ t1 = ×
+×
+SI
+P R
+100
+⇒ t P
+P1
+100 31
+400
+= × ×
+×
+= =31
+4
+7 yr and 9 months
+23. (c) Case I SI = × ×P R T
+100
+R = × ×24200 4 6
+100
+= ` 5808
+∴ Amount = Principal + SI
+SI = +24200 5808 = 30008
+Case II SI = × ×30008 4 4
+100
+= ` 4801.28
+24. (d) Let the person invest amount x and y
+into two different rates of interest.
+∴ x × × + × × =12 1
+100
+10 1
+100
+130y
+/c81SI PRT
+100
+=
+
+
+
+⇒ 12 10 13000x + = y …(i)
+and
+y × × + × × =12 1
+100
+10 1
+100
+134x
+⇒ 12 10 13400y + = x …(ii)
+On solving Eqs. (i) and (ii), we get
+x = ` 500 and y = ` 700
+25. (d) Here, I1 50= , I 2 80= , T1 4= yr,
+T2 8= yr, and P = ` 1500
+According to formula,
+I I
+P R T T
+2 1
+2 1
+100
+− =
+× × − ( )
+⇒ 80 50 1500 8 4
+100
+− = × × −R ( )
+⇒ 30 15 4= × × R
+⇒ 2 1R =
+⇒ R = 1
+2
+= 0.5%
+26. (a) Here, I I1 2− = ` 10, P1 = ` 1230,
+P2 = ` 1130 and T = 2 yr
+According to formula,
+I I
+T R P P
+2 1
+2 1
+100
+− =
+× × − ( )
+− = × −10 2 1130 1230
+100
+R ( )
+− = −10 200
+100
+R
+∴ R = 5%
+27. (b) Case I Annual payment
+=
++ −
+100
+100 1
+2
+P
+T RT T( )
+= ×
+× +
+−
+1092 100
+100 2
+24 2 1
+2
+( )
+= ×1092 100
+212
+= ` 515.09 ≈ ` 515
+Case II Annual payment
+= ×
+× + −
+1092 100
+100 2 12 2 1
+2
+( )
+= ×1092 100
+206
+= ` 530.09 ≈ ` 530
+28. (c) Let P be the principal amount.
+SI = ` 55, time, t = 9 months = 9
+12
+yr
+and rate, r = =3 2
+3
+11
+3
+% %
+/c81 SI = × ×P R T
+100
+⇒ P
+R T
+= ×
+×
+SI 100 = ×
+×
+× ×55 100
+11 9
+3 12
+= × × =5 100 4 2000 `
+∴ Principal ( )P = ` 2000
+29. (a) Let the principal be ` x and the time
+be t yr.
+Rate = 10%
+/c81Simple interest = × ×P R T
+100
+According to the question,
+0.125 Principal× = Simple interest
+∴ 0.125 P = × ×P T 10
+100
+⇒ 125
+1000
+10
+100
+P P T= × ×
+⇒ 125
+100
+= T
+⇒
+T = =5
+4
+1 1
+4
+yr
+30. (c) Let principal = ` P, then amount of
+money = ` 2P
+∴ SI = − =2P P P `
+Now, P P r= × × 5
+100
+⇒ r = 20%
+Amount of money after 12 yr = `3P
+∴ SI = − =3 2P P P
+Now, 2 12
+100
+P P R= × × ⇒ R = 50
+3
+%
+∴ Difference between two interest rates
+= −
+ 
+20 50
+3
+%
+= 10
+3
+% = 3 1
+3
+%
+82 CDS Pathfinder
+--- PDF PAGE 288 ---
+COMPOUND INTEREST
+When the interest is calculated on the amount of previous yea r, then it is known as compound interest.
+It will make a deposit or loan grow at a faster rate than simple interest.
+Important Rules and Formulae
+Consider P = Principal (amount borrowed) , A = Amount (Principal + Interest)
+R = Rate of interest per annum and n = Number of years
+Rule 1 When interest is compounded annually, then
+(i) Amount = + 
+ 
+P R
+n
+1
+100
+(ii) CI = A – P
+= + 
+ 
+ −
+
+
+
+
+
+
+
+
+P R
+n
+1
+100
+1
+EXAMPLE 1. The amount and the compound interest on ` 24000 compounded annually for 2 yr at
+the rate of 10% per annum is
+a. ` 39040 and ` 4040 b. ` 29040 and ` 5040 c. ` 19040 and ` 3040 d. None of these
+Sol. b. Here, P = ` 24000, R = 10% per annum and n = 2 yr
+/c81A P R n
+= + 
+ 
+1 100
+= + 
+ 
+ = 
+ 
+24000 1 10
+100 24000 110
+100
+2 2
+= × × =24000 110
+100
+110
+100 ` 29040
+/c81 Compound interest = Amount − Principal = ` 29040 24000− ` = ` 5040
+So, amount = ` 29040 and compound interest = ` 5040
+Rule 2 When interest is compounded half-yearly (every 6 months), t hen
+(i) Amount = +
+×
+
+ 
+P r
+n
+1
+100 2
+2
+(ii) CI
+= +
+×
+
+ 
+ −
+
+
+
+
+
+
+
+
+1
+100 2
+1
+2
+R
+n
+83
+10
+COMPOUND□INTEREST
+Usually (1-2) questions have been asked from this chapter . Questions from this chapter are based on
+the direct application of compound interest formula.
+--- PDF PAGE 289 ---
+EXAMPLE 2. The compound interest on ` 24000
+compounded semi-annually for 1 1
+2 yr at the rate of
+10% per annum is
+a. ` 3783 b. ` 2783 c. ` 2763 d. ` 3763
+Sol. a. Given, P = ` 24000
+Rate of interest = 10% per annum
+and time = 1 1
+2 yr
+= 3
+2 yr
+Since, the interest is compounded half-yearly.
+Then, rate
+( ) %R = 10
+2 half-yearly
+and time ( )n = × =2 3
+2 3 half-yearly
+∴
+A = + 
+ 
+24000 1 5
+100
+3
+/c81A P R n
+= +
+ 
+
+
+
+1 100
+= + 
+ 
+ = 
+ 
+24000 1 1
+20 24000 21
+20
+3 3
+[Rule 1]
+= × × ×24000 21
+20
+21
+20
+21
+20 = ` 27783
+Now, compound interest = −A P
+= ` 27783 − ` 24000 = ` 3783
+Rule 3 When interest is compounded quarterly
+(every 3 months), then
+(i) Amount = +
+×
+
+ 
+P R
+n
+1
+100 4
+4
+(ii) CI
+= +
+×
+
+ 
+ −
+
+
+
+
+
+
+
+
+P R
+n
+1
+100 4
+1
+4
+EXAMPLE 3. The amount and the compound
+interest on ` 100000 compounded quarterly for 9
+months at the rate of 4% per annum is
+a. ` 106060 and ` 6060.10 b. ` 103030 and ` 3030.10
+c. ` 103030.10 and ` 3030.10 d. ` 106060.10 and ` 6060.10
+Sol. c. Given, P = ` 100000, rate of interest = 4% per annum
+and time = 9 months
+Since, the interest is compounded quarterly.
+Then, rate
+( ) %R = =4
+4 1 quarterly
+and time ( )n = 9 months
+= × =9
+12 4 3 quarter yearly
+/c81Amount, A P R n
+= + 
+ 
+1 100
+∴
+A = + 
+ 
+100000 1 1
+100
+3
+= 
+ 
+100000 101
+100
+3
+= × × ×100000 101
+100
+101
+100
+101
+100 = ` 103030.10
+∴ Compound interest = −A P = ` 103030 10 .− ` 100000
+= ` 3030.10
+Rule 4 When interest is compounded annually but time
+is given in fraction (say, t a
+b
+yr), then
+Amount
+= + 
+ 
+ × +
+ 
+P R a/b Rt
+1
+100
+1
+100
+( )
+EXAMPLE 4. The amount and compound interest on
+` 5000 compounded annually for 2 yr 6 months at the
+rate of 10% per annum is
+a. ` 6252.5 and ` 1342.5 b. ` 6000 and ` 1300
+c. ` 6250 and ` 1340 d. ` 6352.5 and ` 1352.5
+Sol. d. Here, time = 2 yr and 6 months
+∴ t = 2 yr and a
+b = 1
+2 yr
+/c81 Amount
+= +
+ 
+ ×
++
+
+
+
+
+
+
+
+
+
+P R
+a
+b Rt
+1 100
+1
+100
+∴
+A = + 
+ 
+ +
+⋅
+
+
+
+
+
+
+
+
+
+5000 1 10
+100 1
+1
+2 10
+100
+2
+= 
+ 
+ 
+ 
+5000 110
+100
+105
+100
+2
+= × × ×5000 11
+10
+11
+10
+21
+20 = ` 6352.50
+∴ Compound interest = −A P
+CI = − =6352 50 5000 1352 50. . `
+Rule 5 When rate of interest for n n1 2, and n3 yr are
+R R1 2, and R3 respectively, then
+Amount = + 
+ 
+ +
+ 
+ +
+ 
+P R R R
+n n n
+1
+100
+1
+100
+1
+100
+1 2 3
+1 2 3
+EXAMPLE 5. The compound interest on ` 5000 for
+4 yr if the rate of interest is 10% per annum for the
+first two years and 15% for the next two years is
+a. ` 3000 b. ` 3001 c. ` 3002 d. None of these
+Sol. b. Here, R1 10= %, n n n= + =1 2 4 yr
+n 1 2= yr, R2 15= % , n2 2= yr
+and principal = ` 5000
+/c81 Amount = 
+ 
+ + 
+ 
+P R R n n
+1 + 1 2
+100 1 100
+1 2
+∴ A = 5000 1 10
+100 1 15
+100
+2 2
++
+ 
+ +
+ 
+
+= × 
+ 
+ 
+ 
+5000 110
+100
+115
+100
+2 2
+= × × × ×5000 11
+10
+11
+10
+23
+20
+23
+20 = ` 8001.125
+∴ Compound interest
+= − = − −A P ` `8001125 5000. ~ ` 3001
+84 CDS Pathfinder
+--- PDF PAGE 290 ---
+85MATHEMATICS Compound Interest
+Rule 6 The difference D between simple and compound
+interest accrued on ` P at the rate of interest of R% is
+given by
+(i) For 2 yr, D PR=
+2
+2100( )
+(ii) For 3 yr, D PR r= +2
+3
+300
+100
+( )
+( )
+EXAMPLE 6. The difference between the compound
+interest and the simple interest on a certain sum at
+12% per annum for 2 yr is ` 90. Then, sum is
+a. ` 6250 b. ` 6350 c. ` 6520 d. ` 6950
+Sol. a. Let the sum be ` 100.
+Case I Then, simple interest on ` 100 for 2 yr
+= 100 12 2
+100
+× ×
+ 
+ = ` 24
+Case II Amount when ` 100 is borrowed for 2 yr
+=
+100 1 12
+100
+2
+× +
+ 
+
+A P R n
+= +
+ 
+
+
+
+1 100 ,Rule 1 (i)
+=
+100 28
+25
+28
+25× × = ` 3136
+25
+
+ 
+
+∴ Compound interest for 2yr =
+3136
+25 100−
+ 
+= `
+636
+25
+
+ 
+
+Difference between CI and SI =
+636
+25 24−
+ 
+ = `
+36
+25
+If the difference between CI and SI is ` 36
+25 , then the
+sum = ` 100
+If the difference between CI and SI is ` 1,
+then the sum = ` 100 25
+36
+×
+ 
+
+If the difference between CI and SI is ` 90, then the sum
+=
+100 25
+36 90× ×
+ 
+ = ` 6250
+Here, the sum is ` 6250.
+Shortcut Method
+Let the required sum be ` P.
+Here, difference = ` 90 and R = 12%
+∴ Difference between CI and SI
+90 100
+12
+100
+2
+2
+2
+2= =PR P
+( )
+( )( )
+( ) ⇒ 90 144
+100 100= ×
+×
+P
+∴ P = ` 6250
+Required sum = ` 6250
+Rule 7 If a certain sum at compound interest becomes
+A1, in n yr and A 2 in ( )n+ 1 yr, then
+(i) Rate of compound interest = − ×(A A
+A
+2 1
+1
+100) %
+(ii) Sum = 
+
+
+A A
+A
+n
+1
+1
+2
+EXAMPLE 7. A sum of money on compound interest
+amount to ` 9680 in 2 yr and to ` 10648 in 3 yr. What
+is the rate of interest per annum?
+a. 5% b. 10% c. 15% d. 20%
+Sol. b. Given, A1 10648= ` and A2 9680= `
+∴ Rate of compound interest = − ×( ) %A A
+A
+2 1
+1
+100
+= − ×10648 9680
+9680 100% = 10%
+DEPRECIATION
+The value of certain things like the machine, vehicle etc.,
+decreases over a period of time. The decrement in the
+value things is called depreciation. The depreciation per
+unit time is called the rate of depreciation.
+Rule 8 If the present value of a article is P and it
+depreciate at the rate of R% per annum. Then,
+(i) Value of article after n yr = × − 
+ 
+P R
+n
+1
+100
+(ii) Value of article n yr ago =
+−
+ 
+
+P
+R
+n
+1
+100
+EXAMPLE 8. Given that carbon − 14 14( )C decays at a
+constant rate in such a way that it reduces to 50% in
+5568 yr. Then, the age of an old wooden piece in
+which the carbon is only 12.5% of the original is
+a. 16000 yr b. 16244 yr c. 16702 yr d. None of these
+Sol. d. Let the rate of decay be R% and the age of the
+wooden piece be n yr.
+Then, 50
+100 1 100
+5568
+
+ 
+ = −
+ 
+R ⇒
+1 100 0 5 1 5568−
+ 
+ =R ( . ) / …(i)
+⇒
+12 5
+100 1 100
+. = −
+ 
+R n
+⇒
+( . )0 125 1 100= −
+ 
+R n
+⇒
+( . ) /0 125 1 100
+1 n R= −
+ 
+ ⇒
+( . ) /0 5 1 100
+3 n R= −
+ 
+ …(ii)
+From Eqs. (i) and (ii),
+( . ) ( . )/0 5 0 53
+1
+5568n =
+On comparing both sides, we get
+3 1
+5568n = ⇒ n = ×3 5568 = 16704 yr
+INSTALMENTS
+When a borrower pays the sum in parts, then we say
+that he/she is paying in instalments.
+∴
+P x
+R
+x
+R
+=
++
+ 
+
++
++
+ 
+1
+100 1
+100
+2
++…+
++
+ 
+
+x
+R
+n
+1
+100

@@ -27,6 +27,7 @@ Square roots and cube roots form the foundational tools for numerical evaluation
 ## Subtopics & Specialized Questions
 
 - [[cds/math/notes/subtopics/roots_methods|Prime Factorization & Division Method]]
+- [[cds/math/notes/subtopics/long_division_method|Long Division Method Proof & Intuition]]
 
 ---
 

@@ -1,0 +1,258 @@
+EXAMPLE 2. The compound interest on ` 24000
+compounded semi-annually for 1 1
+2 yr at the rate of
+10% per annum is
+a. ` 3783 b. ` 2783 c. ` 2763 d. ` 3763
+Sol. a. Given, P = ` 24000
+Rate of interest = 10% per annum
+and time = 1 1
+2 yr
+= 3
+2 yr
+Since, the interest is compounded half-yearly.
+Then, rate
+( ) %R = 10
+2 half-yearly
+and time ( )n = × =2 3
+2 3 half-yearly
+∴
+A = + 
+ 
+24000 1 5
+100
+3
+/c81A P R n
+= +
+ 
+
+
+
+1 100
+= + 
+ 
+ = 
+ 
+24000 1 1
+20 24000 21
+20
+3 3
+[Rule 1]
+= × × ×24000 21
+20
+21
+20
+21
+20 = ` 27783
+Now, compound interest = −A P
+= ` 27783 − ` 24000 = ` 3783
+Rule 3 When interest is compounded quarterly
+(every 3 months), then
+(i) Amount = +
+×
+
+ 
+P R
+n
+1
+100 4
+4
+(ii) CI
+= +
+×
+
+ 
+ −
+
+
+
+
+
+
+
+
+P R
+n
+1
+100 4
+1
+4
+EXAMPLE 3. The amount and the compound
+interest on ` 100000 compounded quarterly for 9
+months at the rate of 4% per annum is
+a. ` 106060 and ` 6060.10 b. ` 103030 and ` 3030.10
+c. ` 103030.10 and ` 3030.10 d. ` 106060.10 and ` 6060.10
+Sol. c. Given, P = ` 100000, rate of interest = 4% per annum
+and time = 9 months
+Since, the interest is compounded quarterly.
+Then, rate
+( ) %R = =4
+4 1 quarterly
+and time ( )n = 9 months
+= × =9
+12 4 3 quarter yearly
+/c81Amount, A P R n
+= + 
+ 
+1 100
+∴
+A = + 
+ 
+100000 1 1
+100
+3
+= 
+ 
+100000 101
+100
+3
+= × × ×100000 101
+100
+101
+100
+101
+100 = ` 103030.10
+∴ Compound interest = −A P = ` 103030 10 .− ` 100000
+= ` 3030.10
+Rule 4 When interest is compounded annually but time
+is given in fraction (say, t a
+b
+yr), then
+Amount
+= + 
+ 
+ × +
+ 
+P R a/b Rt
+1
+100
+1
+100
+( )
+EXAMPLE 4. The amount and compound interest on
+` 5000 compounded annually for 2 yr 6 months at the
+rate of 10% per annum is
+a. ` 6252.5 and ` 1342.5 b. ` 6000 and ` 1300
+c. ` 6250 and ` 1340 d. ` 6352.5 and ` 1352.5
+Sol. d. Here, time = 2 yr and 6 months
+∴ t = 2 yr and a
+b = 1
+2 yr
+/c81 Amount
+= +
+ 
+ ×
++
+
+
+
+
+
+
+
+
+
+P R
+a
+b Rt
+1 100
+1
+100
+∴
+A = + 
+ 
+ +
+⋅
+
+
+
+
+
+
+
+
+
+5000 1 10
+100 1
+1
+2 10
+100
+2
+= 
+ 
+ 
+ 
+5000 110
+100
+105
+100
+2
+= × × ×5000 11
+10
+11
+10
+21
+20 = ` 6352.50
+∴ Compound interest = −A P
+CI = − =6352 50 5000 1352 50. . `
+Rule 5 When rate of interest for n n1 2, and n3 yr are
+R R1 2, and R3 respectively, then
+Amount = + 
+ 
+ +
+ 
+ +
+ 
+P R R R
+n n n
+1
+100
+1
+100
+1
+100
+1 2 3
+1 2 3
+EXAMPLE 5. The compound interest on ` 5000 for
+4 yr if the rate of interest is 10% per annum for the
+first two years and 15% for the next two years is
+a. ` 3000 b. ` 3001 c. ` 3002 d. None of these
+Sol. b. Here, R1 10= %, n n n= + =1 2 4 yr
+n 1 2= yr, R2 15= % , n2 2= yr
+and principal = ` 5000
+/c81 Amount = 
+ 
+ + 
+ 
+P R R n n
+1 + 1 2
+100 1 100
+1 2
+∴ A = 5000 1 10
+100 1 15
+100
+2 2
++
+ 
+ +
+ 
+
+= × 
+ 
+ 
+ 
+5000 110
+100
+115
+100
+2 2
+= × × × ×5000 11
+10
+11
+10
+23
+20
+23
+20 = ` 8001.125
+∴ Compound interest
+= − = − −A P ` `8001125 5000. ~ ` 3001
+84 CDS Pathfinder

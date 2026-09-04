@@ -1,0 +1,77 @@
+21. A sum of money doubles itself at compound
+interest in 15 yr. It will becomes 8 times in
+(a) 30 yr (b) 40 yr
+(c) 60 yr (d) 45 yr
+22. A man borrows ` 4000 at 8% per annum on
+compound interest. At the end of every year he
+pays ` 1500 as part payment of loan and
+interest. How much does he still owe to the bank
+after three such annual payments?
+(a) ` 1799 (b) ` 2000
+(c) ` 169.25 (d) None of these
+23. A sum of ` 10000 deposited at compound interest
+becomes double after 5 yr. After 20 yr, the
+amount will be
+(a) ` 160000 (b) ` 40000
+(c) ` 50000 (d) ` 60000
+24. Vinod and Karan each invested ` 15000 for 3 yr
+at the same rate of interest but Vinod's
+investment is compounded annually while
+Karan’s investment is charged on simple
+interest.
+I. Vinod receive more interest than karan.
+II. Data is insufficient to calculate the interest.
+Which one is correct?
+(a) Only I (b) Only II
+(c) Neither I nor II (d) Both I and II
+25. An amount is invested in a bank at compound
+rate of interest. The total amount, including
+interest, after first and third year is ` 1200 and
+` 1587, respectively.
+I. The principal amount will be ` 1403.
+II. The rate of interest is 16%
+Which statement(s) is/are correct?
+(a) Both I and II (b) Only I
+(c) Only II (d) Neither I nor II
+26. From the given statements, identify which of the
+following or both are correct and then select the
+appropriate option.
+I. The Present worth of ` 169 due in 2 yr at 4% Pa
+compound interest is 156.25.
+II. If the simple interest on a certain sum for 2 yr is
+` 120 and compound interest is ` 129, then the
+rate of interest must be 15%.
+Which statement(s) is/are correct?
+(a) Only II (b) Only I
+(c) Neither I nor II (d) Both I and II
+PREVIOUS YEARS’ QUESTIONS
+27. What is the compound interest on ` 1600 at 25%
+per annum of 2 yr compound annually? e 2012 II
+(a) ` 700 (b) ` 750 (c) ` 800 (d) ` 900
+28. The difference between compound interest and
+simple interest for 2 yr at the rate of 10% over
+principal amount of ` X is ` 10. What is the
+value of X? e 2014 II
+(a) ` 100 (b) ` 1000 (c) ` 500 (d) ` 5000
+29. The difference between compound interest and
+simple interest at the same rate of interest R per
+cent per annum on an amount of ` 15000 for
+2 yr is ` 96. What is the value of R? e 2015 I
+(a) 8% (b) 10 %
+(c) 12% (d) Cannot be determined
+30. There is 60% increase in an amount in 6 yr at
+simple interest. What will be the compound
+interest on ` 12000 after 3 yr at the same rate of
+interest? e 2015 I
+(a) ` 2160 (b) ` 3120 (c) ` 3972 (d) ` 6240
+31. A sum of ` 10000, is deposited for 1 yr at the
+rate of interest 10% compounded half yearly.
+What will be the interest at the end of one year?
+e 2015 II
+(a) ` 1000 (b) ` 1025 (c) ` 1050 (d) ` 1100
+88 CDS Pathfinder
+ANSWERS
+1 a 2 a 3 a 4 b 5 b 6 c 7 c 8 d 9 c 10 b
+11 a 12 a 13 d 14 c 15 a 16 a 17 a 18 b 19 a 20 a
+21 d 22 c 23 a 24 b 25 d 26 d 27 d 28 b 29 a 30 c
+31 b

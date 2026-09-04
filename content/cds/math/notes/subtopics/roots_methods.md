@@ -16,7 +16,8 @@ The square root of a non-negative real number $x$, denoted $\sqrt{x}$, is the un
 ### Properties of Perfect Squares
 
 - **Ending Digits**: A natural number ending in $2, 3, 7$, or $8$ is **never** a perfect square.
-- **Parity**: The square of an even integer is even ($ (2k)^2 = 4k^2 $), and the square of an odd integer is odd ($ (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2+2k)+1 $).
+- **Parity**: The square of an even integer is even ($(2k)^2 = 4k^2$), and the square of an odd integer is odd ($(2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2+2k)+1$).
+	- So perfect squares can be odd or even
 - **Consecutive Differences**: The difference of squares of two consecutive natural numbers equals their sum:
   $$(n+1)^2 - n^2 = (n+1+n)(n+1-n) = 2n + 1$$
 - **Four Consecutive Product Theorem**: The product of four consecutive integers plus $1$ is always a perfect square:
@@ -29,7 +30,7 @@ The square root of a non-negative real number $x$, denoted $\sqrt{x}$, is the un
 
 1. **Prime Factorization Method**: Express the number as a product of prime powers:
    $$n = p_1^{2a_1} p_2^{2a_2} \dots p_k^{2a_k} \implies \sqrt{n} = p_1^{a_1} p_2^{a_2} \dots p_k^{a_k}$$
-2. **Long Division Method**: Group digits into periods of two from right to left (for integer part) and left to right (for decimal part), finding maximal quotient digits iteratively.
+2. **[[cds/math/notes/subtopics/long_division_method|Long Division Method]]**: Group digits into periods of two from right to left (for integer part) and left to right (for decimal part), finding maximal quotient digits iteratively. See dedicated atomic proof & intuition note: [[cds/math/notes/subtopics/long_division_method|Long Division Method Detailed Proof & Intuition]].
 
 ---
 

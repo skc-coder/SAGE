@@ -1,0 +1,1373 @@
+
+--- PDF PAGE 274 (Math p. 69) ---
+PER CENT
+Per cent is a fraction whose denominator is 100 and numerator of the fraction is called the rate per
+cent. Per cent is denoted by the symbol ‘%’.
+Important Rules and Formulae
+Rule 1 For expressing a% as a fraction, we can write a a% ,=
+100
+i.e. divide ‘ a’ by 100 and reduce it to
+the lowest form, e.g. 25 25
+100
+1
+4
+% = =
+Rule 2 For expressing a fraction a
+b
+as a per cent, we can write
+a
+b
+a
+b
+= ×
+ 
+100 %
+e.g.
+2
+3
+2
+3
+100= × %
+= 200
+3
+%
+Rule 3 To find how much per cent one quantity is of another quantity, we can write
+Required percentage = The quantity to be expressed in per cent
+2 quantind ty (in respect of which the per cent has to be obt ained)
+100%×
+EXAMPLE 1. 20g is what per cent of 1000g?
+a. 2% b. 5% c. 7% d. 9%
+Sol. a. Required percentage = × =20
+1000 100 2% %
+Rule 4 Percentage increase or decrease in a quantity when it increa ses or decreases by some value.
+Percentage = ×Increase or decrease in the value
+Initial value
+100 %
+69
+08
+PERCENTAGE
+Generally (2-3) questions have been asked from this chapter . Generally questions which are asked from this
+chapter are tricky but you can easily solve them by using the short-tricks formulae in very less time.
+--- PDF PAGE 275 (Math p. 70) ---
+70 CDS Pathfinder
+EXAMPLE 2. A person’s salary has increased from
+` 7200 to ` 8100. What is the percentage increase in
+his salary? e 2013 II
+a. 25% b. 18% c. 16 2
+3 %
+d. 12 1
+2 %
+Sol. d. Percentage increase in salary = − ×8100 7200
+7200 100%
+= × = =900
+7200 100 12 5 12 1
+2% . % %
+Rule 5 If A is x% more than ‘ B’, then
+B would be x
+x( )100
+100
++
+×
+
+
+ % less than ‘ A’.
+Rule 6 If A is x% less than ‘ B’, then B would be
+x
+x( )
+%
+100
+100
+−
+×
+
+
+ more than A.
+EXAMPLE 3. Raj get 10% less marks than Rohit in
+an examination. What percentage of marks does
+Rohit gets more than Raj?
+a. 11 1
+6 % b. 11 1
+9 % c. 12 1
+9 % d. None of these
+Sol. b. Given, x = 10%
+∴ Rohit more percentage than Raj = − ×10
+100 10 100
+= ×10 100
+90 = 11 1
+9 %
+Rule 7 If the price of a commodity is increased
+(or decreased) by x%, then the decrease (or increase) in
+consumption, so as not to increase or (decrease) the
+expenditure is
+x
+x100
+100
+±
+×
+
+
+ %.
+EXAMPLE 4. If the price of the cooking gas rises
+by 15%, by what per cent should a family reduce its
+consumption so as not to exceed the budget on
+cooking gas?
+a. 12 1
+23 % b. 13 1
+23 % c. 14 1
+23 % d. None of these
+Sol. b. Let initial price of cooking gas be ` 100.
+Price after increase = ` 115
+On ` 115 he should reduce ` 15 on ` 100, he should
+reduce
+= ×15
+115 100 = 13 1
+23 %
+Shortcut Method
+Here, x = 15%
+∴ Reduction in consumption
+= + ×
+ 
+x
+x100 100 %
+= ×15
+115 100% = 13 1
+23%
+Rule 8 If the value of an object is first changed
+(increased or decreased) by x% and then changed (increased
+or decreased) by y% , then
+Net effect = ± ± + ± ±
+ 
+x xy y( )( ) %
+100
+Here, + sign is used in case of increment and − sign is used
+in case of decrement.
+EXAMPLE 5 The price of an article is first increased by
+20% and later on the price were decreased by 25% due
+to reduction in sales. Find the net percentage change in
+final price of article.
+a. 20% b. 10% c. 30% d. 15%
+Sol. b. Here, a = 20 % , b = 25 %
+So, required percentage = × =10
+100 100 10%
+Required change = ± + ± + ± ±
+
+
+( ) ( ) ( ) ( ) %a b a b
+100
+= − + × −
+
+
+20 25 20 25
+100
+( ) % positive sign for increase
+negative sign for decrease
+
+
+
+
+= − −[ ]%5 5
+= −10 %
+∴ Net percentage change is a decrease of 10 % because
+final result is negative.
+Rule 9 If the population of a town is P and it increases
+(or decreases) at the rate of R% per annum, then
+(i) Population after n yr = ± 
+ 
+P R
+n
+1
+100
+(ii) Population, n yr ago
+=
+±
+ 
+
+P
+R
+n
+1
+100
+EXAMPLE 6 The population of a town is 352800. If it
+increases at the rate of 5% per annum, then what will
+be its population 2 yr hence, also find the population
+2 yr ago.
+a. 315000 b. 316500 c. 200045 d. 320000
+Sol d. Given that, p = 352800, R = 5% and n = 2
+According to the formula,
+Population after 2 yr
+= + 
+ 
+ = × + 
+ 
+P R n
+1 100 352800 1 5
+100
+2
+= × +
+ 
+ = × × 
+ 
+ =352800 100 5
+100 352800 21
+20
+21
+20 388
+2
+962
+Population 2 yr ago
+=
++
+ 
+
+=
++
+ 
+
+P
+R n
+1 100
+352800
+1 5
+100
+2
+= × × =352800 20
+21
+20
+21 320000
+--- PDF PAGE 276 (Math p. 71) ---
+Rule 10 If the present population of a city is P and there
+is a increment or decrement of R1 %, R2 % and R3 % in
+first, second and third year respectively, then
+Population of city after 3 yr
+= ± 
+ 
+ ±
+ 
+ ±
+ 
+P R R R1
+100
+1
+100
+1
+100
+1 2 3
+Note Use ‘+’ sign for increases and ‘–’ sign for decreases.
+EXAMPLE 7 Population of a city in 2004 was
+1000000. If in 2005 there is an increment of 15%, in
+2006 there is a decrement of 35% and in 2007 there is
+an increment of 45%, then find the population of city
+at the end of year 2007.
+a. 1083875 b. 1083000 c. 1089000 d. 1135000
+Sol a. Given that, P = 1000000 , R1 15= %, R2 35= %
+(decrease) and R3 45= %
+Population of city at the end of year 2007.
+= + 
+ 
+ −
+ 
+ +
+ 
+P R R R1 100 1 100 1 100
+1 2 3
+= + 
+ 
+ −
+ 
+1000000 1 5
+100 1 35
+100
+1 45
+100+
+ 
+
+= × × ×1000000 115
+100
+65
+100
+145
+100
+= 1083875
+71
+1. If 90% of A = 30% of B and B x= % of A, the value
+of x is
+(a) 700 (b) 600 (c) 300 (d) 1100
+2. When 40% of a number is added to 42, the result
+is the number itself. The number is
+(a) 70 (b) 90 (c) 82 (d) 72
+3. If x% of y is 13x, then the value of y is
+(a) 880 (b) 1300 (c) 1200 (d) 700
+4. What is the number when 20% of number is 30%
+of 40?
+(a) 90 (b) 80 (c) 60 (d) 50
+5. What is the number when increased by 20%
+becomes 300?
+(a) 250 (b) 200 (c) 180 (d) 280
+6. If 50% of ( ) %x y− = 40 of ( ),x y+ then what
+percent of x is y?
+(a)
+10 1
+9
+% (b)
+111
+9
+% (c)
+13 1
+9
+% (d)
+211
+9
+%
+7. Two candidates fought an election one get 65% of
+the votes and won by 300 votes. The total
+number of votes polled in the election is
+(a) 700 (b) 950 (c) 1000 (d) 900
+8. A man spends ` 3500 and saves
+12 1
+2
+% of his
+income. His monthly income (in `) is
+(a) 4000 (b) 3800 (c) 4200 (d) 4500
+9. In an examination 52% of the candidates failed
+in English, 42% in Mathematics and 17% in
+both. The number of those who passed in both
+the subjects is
+(a) 23% (b) 40% (c) 53% (d) 33%
+10. To pass an examination, a candidate needs 40%
+marks. All questions carry equal marks. A
+candidate just passed by getting 10 answers
+correct by attempting 15 of the total questions.
+How many questions are there in the
+examination?
+(a) 25 (b) 30
+(c) 40 (d) 45
+11. If salary of X is 20% more than salary of Y, then by
+how much percentage is salary of Y less than X ?
+(a) 25 (b) 20
+(c)
+50
+3
+(d) 65
+4
+12. Water contains 14 2
+7
+% of hydrogen and the rest is
+oxygen. In 350 g of water, oxygen will be
+(a) 300 g (b) 250 g
+(c) 200 g (d) None of these
+13. The income of ‘ A’ is 20% higher than that of ‘B’.
+The income of ‘B’ is 25% less than of C. What per
+cent less is A ’s income from ‘C’s income?
+(a) 7% (b) 8%
+(c) 10% (d) 12.5%
+14. 38 L of milk was poured into a tub and the tub
+was found to be 5% empty. To completely fill the
+tub, what amount of additional milk must be
+poured?
+(a) 1 L (b) 2 L (c) 3 L (d) 4 L
+15. 10% of the inhabitants of a certain city left that
+city. Later on 10% of the remaining inhabitants
+of that city again left the city. What is the
+remaining percentage of population of that city?
+(a) 80% (b) 80.4% (c) 80.4% (d) 81%
+PRACTICE EXERCISE
+--- PDF PAGE 277 (Math p. 72) ---
+16. If after 24% of wastage the net output of a
+coal-mine is 68400 quintals. Then, the total
+output of the coal-mine in quintals is
+(a) 70000 (b) 90000 (c) 80000 (d) 89000
+17. A rise of 25% in the price of grapes compels a
+person to buy 1.5 kg of grapes less for ` 240.
+Then,the original price of grapes per kg is
+(a) ` 40 (b) ` 32 (c) ` 30 (d) ` 28
+18. The price of an item is increased by 20% and
+then decreased by 20% the final price as
+compared to original price is
+(a) 4% less (b) 4% more (c) 20% less (d) 20% more
+19. Sohan saves 14% of his salary while George
+saves 22%. If both gets the same salary and
+George saves ` 1540. Then, the salary of each of
+them is
+(a) ` 9500 (b) ` 17000 (c) ` 7000 (d) ` 7500
+20. A’s salary is half that of B. If A got a 50% rise in
+his salary and B got a 25% rise in his salary,
+then the percentage increase in combined
+salaries of both is
+(a) 13% (b)
+33 1
+3
+% (c) 33% (d) 45%
+21. A man donated 4% of his salary to a charity and
+deposited 10% of the rest in the bank. If now he
+has ` 10800, then his income was
+(a) ` 13500 (b) ` 14500
+(c) ` 40000 (d) ` 12500
+22. Rohit saves 30% of his salary. When his
+expenses increased by 30%, he is able to save
+` 1215 per month. His monthly salary is
+(a) ` 13500 (b) ` 14500
+(c) ` 30000 (d) ` 12500
+23. A man spends 75% of his income. If his income is
+increased by 20% and he increased his expenditure
+by 10%. His savings percentage is increased by
+(a) 25% (b) 50% (c) 75% (d) 10%
+24. The price of wheat has increased by 60%. In
+order to restore to the original price, the new
+price must be reduced by
+(a) 37.5% (b) 33% (c) 34% (d) 40%
+25. If the numerator of a fraction increased by 20%
+and its denominator be diminished by 10%. The
+value of the fraction is
+16
+27
+, then the fraction is
+(a) 4/9 (b) 3/2 (c) 3/8 (d) 9/4
+26. 1 L of water is evaporated from 6 L of a solution
+having 4% of sugar. The percentage of sugar in
+the remaining solution is
+(a) 4% (b) 5% (c)
+4 4
+5
+% (d)
+4
+5
+%
+27. Two numbers are less than a third number by
+30% and 40%, respectively. How much per cent
+is the second number less than the first?
+(a) 35% (b) 36% (c) 14% (d)
+14 2
+7
+%
+28. A sample of 5 L of glycerine is formed to be
+adulterated to the extent of 20%. Find how
+glycerine should be added to bring down
+percentage of impurity to 5%?
+(a) 10 L (b) 25 L (c) 15 L (d) 20 L
+29. The daily wages of a worker increase by 20% but
+the number of hours worked by him also dropped
+by 20%. If originally he was getting ` 200 per
+week, his wages per week now is
+(a) ` 160 (b) ` 192 (c) ` 210 (d) ` 198
+30. 140 L of a liquid contains 90% of acid and the
+rest water. How much water must be added to
+make the water 12.5% of the resulting mixture?
+(a) 4 L (b) 10 L (c) 12 L (d) 3 L
+31. A person spends 30% of monthly salary on rent,
+25% on food, 20% on children’s education and
+12% on electricity and the balance of ` 1040 on
+the remaining items. What is the monthly salary
+of the person?
+(a) ` 8000 (b) ` 9000 (c) ` 9600 (d) ` 10600
+32. In an office, 40% of the staff is female and rest is
+male. 60% of the male and 40% of female voted for
+Ramesh. The percentage of votes Ramesh got was
+(a) 24% (b) 42% (c) 50% (d) 52%
+33. In a class- X of 30 students, 24 passed in first
+class; in another class- Y of 35 students, 28
+passed in first class. In which class was the
+percentage of students passed first class more?
+(a) Class- X (b) Class- Y
+(c) Both X and Y (d) None of these
+Directions (Q. Nos. 34-36) The population of the
+town is 126800. It increases by 15% in the 1st year
+due to increase crime in the city.
+34. What is the population of the town at the end of
+2nd year if the population decreases by 20% in
+the second year?
+(a) 174984 (b) 135996 (c) 116656 (d) 145820
+35. What is the population of the town, if the population
+decrease by 15% at the end of 2nd year?
+(a) 123749 (b) 123479
+(c) 123947 (d) None of these
+36. What is the population of the town, if the
+population increases by 20% at the end of 2nd
+year?
+(a) 194784 (b) 174984 (c) 179484 (d) 178494
+72 CDS Pathfinder
+--- PDF PAGE 278 (Math p. 73) ---
+PREVIOUS YEARS’ QUESTIONS
+37. A man losses 20% of his money. After spending
+25% of the remainder, he has ` 480 left. What is
+the amount of money he originally had? e 2012 I
+(a) ` 600 (b) ` 720 (c) ` 800 (d) 840
+38. The price of an article is ` 25. After two
+successive cuts by the same percentage, the price
+becomes ` 20.25. If each time the cut was x%,
+then e 2012 II
+(a) x = 9 (b) x = 10 (c) x = 11 (d) x = 115 .
+39. What is 5% of 50% of 500? e 2012 II
+(a) 12.5 (b) 25 (c) 1.25 (d) 6.25
+40. X Y, and Z had taken a dinner together. The cost
+of the meal of Z was 20% more than that of Y
+and the cost of the meal of X was 5/6 as much as
+the cost of the meal of Z. If Y paid ` 100, then
+what was the total amount that all the three of
+them had paid? e 2013 II
+(a) ` 285 (b) ` 300
+(c) ` 355 (d) None of these
+41. A water pipe is cut into two pieces. The longer
+piece is 70% of the length of the pipe. By how
+much percentage is the longer piece longer than
+the shorter piece? e 2013 II
+(a) 140% (b)
+400
+3
+%
+(c) 40% (d) None of these
+42. If m% of m n+ % of n = 2% of ( )m n× , then what
+percentage of m is n? e 2014 II
+(a) 50% (b) 75%
+(c) 100% (d) Cannot be determined
+43. The price of a commodity increased by 5% from
+2010 to 2011, 8% from 2011 to 2012 and 77% from
+2012 to 2013. What is the average price increase
+(approximate) from 2010 to 2013? e 2014 II
+(a) 26% (b) 32% (c) 24% (d) 30%
+44. A person could save 10% of his income. But 2 yr
+later, when his income increased by 20%, he
+could save the same amount only as before. By
+how much percentage has his expenditure
+increased? e 2015 I
+(a)
+22 2
+9
+% (b) 23 1
+3
+%
+(c)
+242
+9
+% (d) 252
+9
+%
+45. 20% of a number when added to 20 becomes the
+number itself, then the number is e 2015 II
+(a) 20 (b) 25 (c) 50 (d) 80
+46. A’s salary was increased by 40% and then
+decreased by 20%. On the whole A’s salary is
+increased by e 2015 II
+(a) 60% (b) 40% (c) 20% (d) 12%
+47. In an election 10% of the voters on the voter list
+did not cast their vote and 60 voters cast their
+ballot papers blank. There were only two
+candidates. The winner was supported by 47% of
+total voters in the voter list and he got 308 votes
+more than his rival. The number of voters on the
+voter list is e 2015 II
+(a) 3600 (b) 6200 (c) 6028 (d) 6400
+48. The salary of a person is increased by 10% of his
+original salary. But he received the same amount
+even after increment. What is the percentage of
+his salary he did not receive? e 2016 I
+(a) 11% (b) 10% (c)
+100
+11
+% (d) 90
+11
+%
+49. The expenditure of a household for a certain
+month is ` 20000, out of which ` 8000 is spent
+on education, ` 5900 on food, ` 2800 on
+shopping and the rest on personal care. What
+percentage of expenditure is spent on personal
+care? e 2016 I
+(a) 12% (b) 16.5% (c) 18% (d) 21.8%
+73MATHEMATICS Percentage
+ANSWERS
+1 c 2 a 3 b 4 c 5 a 6 b 7 c 8 a 9 a 10 a
+11 c 12 a 13 c 14 b 15 d 16 b 17 b 18 a 19 c 20 b
+21 d 22 a 23 b 24 a 25 a 26 c 27 d 28 c 29 b 30 a
+31 a 32 d 33 c 34 c 35 c 36 b 37 c 38 b 39 a 40 d
+41 b 42 c 43 d 44 a 45 b 46 d 47 b 48 c 49 b
+--- PDF PAGE 279 (Math p. 74) ---
+HINTS AND SOLUTIONS/CharA0 
+1. (c) Given, 90% of A = 30% of B
+90
+100
+30
+100
+A B= [Rule 1]
+⇒ A
+B
+= 3
+9
+⇒ B A= 3
+Now, B = x % of A, 3
+100
+A A= x [Rule 1]
+∴ x = 300
+Hence, the value of x is 300.
+2. (a) Let the number be x,
+then, 42 40+ % of x x=
+⇒ x x= +42 40
+100
+[Rule 1]
+⇒ 3
+5
+42x =
+∴
+x = × =42 5
+3
+70
+Hence, the required number is 70.
+3. (b) Given, x% of y = 13x
+⇒ x x
+100
+13y = [Rule 1]
+∴ y = × =13 100 1300
+4. (c) Let the number be x.
+By given condition, 20% of x
+= 30% of 40
+⇒ 20
+100
+30 40
+100
+x = × ⇒ 20 30 40x = ×
+∴ x = 60
+Hence, the required number is 60.
+5. (a) Let the number be x.
+∴ x x+ =20
+100
+300
+⇒ x =
+×
+=
+300 100
+120
+250
+6. (b) Given, 50% of ( ) % ( )x x− = +y y 40 of
+50
+100
+40
+100
+× − = × +( ) ( )x x y y
+⇒ 5 5 4 4x x− = +y y [Rule 1]
+⇒ x = 9 y … (i)
+Let r y% of x = ⇒ r y
+100
+× =x
+⇒ r y y
+100
+9× = [from Eq. (i)]
+∴ r = =100
+9
+11 1
+9
+%
+7. (c) Let total number of votes polled be x.
+∴ 65% of x − 35% of x = 300
+65
+100
+35
+100
+300x x− =
+⇒ 30
+100
+300x = ⇒ x = ×300 100
+30
+∴ x = 1000 votes
+Hence, the total number of votes is 1000.
+8. (a) Let monthly income be ` x.
+⇒ 87 1
+2
+% of x = ` 3500
+⇒ 175
+2 100
+3500
+×
+=x `
+∴ x = × × =3500 2 100
+175
+4000`
+9. (a) Number of candidates who passed in
+both the subject = − + −100 ( )%x y z
+= − + −100 52 42 17( ) %
+= 23%
+10. (a) Let the total number of questions in
+examination be x.
+By given condition, 40% of x = 10
+⇒ x × =40
+100
+10 ⇒ x = =1000
+40
+25
+11. (c) Let the salary of y be ` x .
+∴ Salary of x x x= =` `120
+100
+6
+5
+Difference of their salaries
+= − 
+ 
+` 6
+5
+x x
+= ` x
+5
+∴ Required percentage
+= × =x
+x
+/
+/
+%5
+6 5
+100 50
+3
+%
+[Rule 3]
+Shortcut Method
+Here, x = 20%
+∴ Required percentage
+=
++
+×
+ 
+x
+x100
+100 % [Rule 5]
+=
++
+×
+ 
+20
+100 20
+100 %
+= =2000
+120
+50
+3
+% %
+12. (a) Percentage of oxygen in water
+= −100 14 2
+7
+= −100 100
+7
+= 85 5
+7
+%
+Percentage of oxygen in 350 g of water
+= 85 5
+7
+% of 350 = ×600
+7
+350
+100
+= 300 g
+13. (c) Let the income of C be ` x.
+∴ Income of B = − × = −x x x x25 25
+100
+%
+= − =x x x
+4
+3
+4
+and, the income of
+A = + ×3
+4
+3
+4
+20x x %
+= + ×3
+4
+3
+4
+1
+5
+x x = 9
+10
+x
+Now, difference between C’ s salary and
+A s’ salary
+= − =x x x9
+10 10
+∴ The required percentage
+=
+×
+×x
+x10
+100% = 10%
+14. (b) Amount of milk in tub = 38 L
+/c81 Tub found to be 5% empty
+∴ Total quantity of milk in per cent
+= 95%
+Now, completely fill the tub, total
+amount of additional milk
+= × =38 5
+95
+2 L
+15. (d) Remaining percentage
+= −
+ 
+ −
+ 
+1 10
+100
+1 10
+100
+= × =90
+100
+90
+100
+81%
+16. (b) Let total output be x quintal.
+∴ Useful output = − =100 24 76%
+⇒ 76
+100
+68400x =
+⇒ x = ×68400 100
+76
+∴ x = 90000 quintal
+17. (b) Let original price of grapes be ` x.
+∴ Increased price = +x x 25
+100
+= ` 125
+100
+x …(i)
+Increased price of 1.5 kg of grapes
+= × =25
+100
+240 ` 60
+∴ Increased price of 1 kg = 60
+1.5
+= ` 40 …(ii)
+So, from Eqs. (i) and (ii), we have
+125
+100
+x = ` 40
+∴
+x = × =40 100
+125
+` 32
+18. (a) The price of item first increased by
+20% and then decreased by 20%.
+∴ Net effect = − + × −
+ 
+20 20 20 20
+100
+( )
+= − = −400
+100
+4% [Rule 8]
+74 CDS Pathfinder
+--- PDF PAGE 280 (Math p. 75) ---
+19. (c) Let salary of each of them be ` x.
+George saves 22% of x and his saving
+amount is ` 1540.
+⇒ 22
+100
+1540x =
+⇒ x = ×1540 100
+22
+= ` 7000
+20. (b) Let A ’s salary = x. Then,
+B’s salary = 2x
+New salary of A = 150% of x x= 3
+2
+Total salary of B = 125% of 2 5
+2
+x x=
+Total combined salary
+= +
+ 
+ =3
+2
+5
+2
+4x x x
+∴ Required increment in salary
+= − = ×4 3
+3 3
+100x x
+x
+x
+x
+= 100
+3
+=33 1
+3
+%
+[Rule 4]
+21. (d) Let total income be ` x.
+Income deposited = 10% of x x−
+
+
+
+4
+100
+= − 
+ 
+ =10
+100
+4
+100
+96
+1000
+x x x
+Remaining income = ` 10800
+∴
+4
+100
+96
+1000
+10800x x x+ + =
+⇒ 10800 136
+1000
+= −x x
+⇒ 10800 864
+1000
+= x ⇒ x = ×10800 1000
+864
+∴ x = ` 12500
+22. (a) Let the salary of Rohit be ` 100, then
+saving = ` 30
+Expenses = ` 70
+New expenses = +( )%100 30 of ` 70
+= ` 91
+New saving = ` ( )100 91− = ` 9
+He saves ` 9, his salary = ` 100
+If he saves ` 1215.
+Then, his salary = ` 100
+9
+1215×
+ 
+
+= ` 13500
+23. (b) Let income of man be ` 100.
+Then, his expenditure = ` 75
+and savings = ` 25
+New income = ` ( )100 20+ = ` 120
+New expenditure = ` ( )75 + 7.5
+= ` 82.50
+New saving = ` ( . )120 82 5− = ` 37.50
+Saving difference = − =37.50 25.0 12.5
+∴ Percentage increase saving
+= × =12.5
+25
+100 50%
+24. (a) New price reduced by
+=
++
+
+ 
+ ×x
+x100
+100% [Rule 7]
+=
++
+
+ 
+ × =60
+100 60
+100 37 5% . %
+25. (a) Let fraction be
+x
+y
+.
+New fraction = =120
+90
+4
+3
+%
+%
+of
+of
+x x
+y y
+According to question,
+[by given condition]
+4
+3
+16
+27
+x
+y
+= ⇒
+x
+y
+= × =16
+27
+3
+4
+4
+9
+26. (c) Amount of sugar in 6 L of solution
+= × =4
+100
+6 0 24 . L
+After evaporation, sugar in 5 L = 0 24 .L
+∴ Percentage of sugar
+= ×
+
+
+
+
+
+
+
+ =
+0 24
+5
+100 4 4
+5
+.
+%
+27. (d) Let the third number be z.
+∴ First number
+x = − × =( )100 30
+100
+7
+10
+z z
+Second number
+y z z= − × =( )100 40
+100
+6
+10
+Difference between first and second
+number
+= −( )x y
+= − =7
+10
+6
+10 10
+z z z
+Hence, the required percent [Rule 4]
+= ×
+z
+z
+10
+7
+10
+100% = =100
+7
+14 2
+7
+% %
+28. (c) Glycerine in the given sample = 80%
+of 5 L
+= × =80
+100
+5 4 L
+Let x L of glycerine be added, then
+4
+5
+100 95+
++
+× =x
+x( )
+⇒ 80 20 95 19+ = +x x
+∴ x = 15 L
+29. (b) Increased wages of the worker
+= +200 20% of 200 = ` 240
+Also, let he worked for x h.
+∴ Reduced working hours
+= −x x 20
+100
+= 0 80 .x
+Required wages = × =240 0 8
+x
+x. ` 192
+30. (a) Water in the mixture = 10% of 140 L
+= × =10
+100
+140 14 L
+Let x L of water added in the mixture,
+then 14
+140
+100 12 5+
++
+
+ 
+ × =x
+x
+.
+⇒ 1400 100 1750 12 5+ = + x x .
+⇒ 87 5 350. x =
+⇒
+x = =350
+87 5
+4
+.
+L
+31. (a) Let the monthly salary of the person
+be ` x.
+By given condition,
+( )100 30 25 20 12
+100
+1040− − − − × =x
+⇒ 13
+100
+1040x = ` ⇒ x = ×1040 100
+13
+⇒ x = ` 8000
+Hence, the monthly salary of the person
+is ` 8000.
+32. (d) Let total number of staff be 100.
+Female staff = 40
+Male staff = − =( )100 40 60
+Votes casted by females
+= × =40
+100
+40 16
+Votes casted by males = × =60
+100
+60 36
+Votes casted by both males and females
+= + =16 36 52
+∴ Percentage votes obtained = 52%.
+33. (c) For class- X, let the student passed in
+first class = a%.
+Then, by condition given in question,
+a% of 30 24= ⇒ a × =30
+100
+24
+∴ a = 80%
+Now, for class- Y let the student passed
+in first class = b%.
+According to the question,
+b% of 35 28=
+⇒ b
+100
+35 28× =
+∴ b = 80%
+Hence, both classes have equal
+percentage of students getting first class.
+34. (c) Given, R1 15= % and R2 20= % .
+∴ Required population
+= + 
+
+ 
+
+ −
+
+ 
+
+P
+R R
+1
+100
+1
+100
+1 2 [Rule 10]
+= + 
+ 
+ −
+ 
+126800 1 15
+100
+1 20
+100
+75MATHEMATICS Percentage
+--- PDF PAGE 281 (Math p. 76) ---
+= + 
+ 
+ −
+ 
+126800 1 3
+20
+1 1
+5
+= 
+ 
+ 
+ 
+126800 23
+20
+4
+5
+= 116656
+35. (c) Given, R1 15= %, R2 15= %
+∴ Population
+= + 
+
+ 
+
+ −
+
+ 
+
+P
+R R
+1
+100
+1
+100
+1 2
+= + 
+ 
+ −
+ 
+126800 1 15
+100
+1 15
+100
+= × ×126800 115
+100
+85
+100
+= 123947
+36. (b) Given, R1 15= % and R2 20= %
+∴ Required population
+= + 
+ 
+ +
+ 
+P 1 15
+100
+1 20
+100
+= 
+ 
+ 
+ 
+126800 23
+20
+6
+5
+= 174984
+37. (c) Refer to question 21.
+38. (b) Refer to question 34.
+39. (a) 5% of 50% of 500
+= × ×5
+100
+50
+100
+500 = 12.5 [Rule 1]
+40. (d) Given, the cost of meal of Y = ` 100
+Now, according to the question,
+Cost of the meal of Z = 20% more than
+that of Y
+= + ×
+ 
+100 20
+100
+100
+= + =( )100 20 120 `
+and, the cost of the meal of
+X = 5
+6
+as
+much as the cost of the meal of
+Z = × =5
+6
+120 100`
+∴ Total amount that all the three of
+them has paid
+= + + =100 100 120 320 `
+41. (b)
+∴ Increase in percentage of longer piece
+compared to shorter piece
+= − ×70 30
+30
+100% [Rule 4]
+= × =40
+30
+100 400
+3
+% %
+42. (c) Refer to question 6.
+43. (d) Average price increase
+= + +
+ 
+5 8 77
+3
+%
+= =90
+3
+30% %
+44. (a) Refer to question 23.
+45. (b) Refer to question 2.
+46. (d) Refer to question 18.
+47. (b) Let the number of voters on the voter
+list be x.
+Total cast vote = 90% of x − 60
+Winner was supported by 47% of total
+voter. i.e. 47% of x.
+Hence, rival got vote = (90% of x − 60)
+− 47% of x.
+= 43% of x − 60
+It is given that difference between their
+vote is 308.
+Then, 47% of x − 43% of x + =60 308
+⇒ 4% of x = −308 60
+⇒
+4
+100
+248x =
+∴ x = × =248 100
+4
+6200
+48. (c) Let the original salary be x.
+Then, increased salary
+= 
+ 
+ =110
+100
+11
+10
+x x`
+/c81He received the same salary even after
+increment.
+Amount of salary he did not receive
+= −11
+10
+x x = ` x
+10
+∴ Amount of salary in percentage
+=
+
+ 
+
+
+ 
+
+×
+x
+10
+11
+10
+100x %
+= ×x
+x11
+100% = 100
+11
+%
+49. (b) Refer to question 31.
+76 CDS Pathfinder
+70% 30%
+(Pipe)
+--- PDF PAGE 282 (Math p. 77) ---
+INTEREST
+When money is borrowed by a person, then customarily the mone y lender used to charge some extra
+money in lieu of the money lent by him. This extra money earned by the money lender is called
+interest.
+Some terms related to interest are given below
+Principal (P) The money which is borrowed from a money lender, is called Pr incipal.
+Amount (A) The sum of the principal and the interest is called Amount i. e. Amount ( A) = Principal( )P +
+Interest ( )I .
+Rate (R) It is the rate at which the interest is charged on Principal.
+Time (T) The time period, for which the money is lent or deposited or b orrowed, is called Time.
+SIMPLE INTEREST
+If the interest is calculated on the original Principal for a ny length of time, then it is called simple
+interest.
+Simple Interest ( ) SI= × ×Principal Rate Time
+100
+or SI = × ×P R T
+100
+Amount ( )A = Principal ( )P + Interest ( )I and P A
+RT
+= ×
++
+100
+100
+Where, A → Amount
+R→ Rate of simple Interest
+T → Time
+EXAMPLE 1. The sum required to earn a monthly interest of `400 at 10% per annum at simple
+interest is
+a. ` 2000 b. ` 12000 c. ` 24000 d. ` 48000
+09
+SIMPLE INTEREST
+Regularly (1-2) questions have been asked from this chapter . Generally direct formula based
+questions are asked from this chapter and hence making it easy to score area.

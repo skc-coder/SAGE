@@ -1,0 +1,358 @@
+HINTS AND SOLUTIONS/CharA0 
+1. (a) Given, P = ` 24000, R = 5% per
+annum and n = 3 yr
+∴ A P R
+n
+= − 
+ 
+1
+100
+[Rule 8 (i)]
+= − 
+ 
+24000 1 5
+100
+3
+= × 
+ 
+24000 95
+100
+3
+= ` 20577
+2. (a) Given, principal amount = ` P
+Rate of interest,
+R r
+k
+= % per annum and
+Time, T nk=
+/c81 A P R
+T
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+A P r
+k
+nk
+= +
+
+
+
+
+
+
+
+1
+100
+3. (a) Let the principal be = ` x.
+Given, n = 2 yr, R = 5% , A = ` 4410
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+4410 1 5
+100
+2
+= + 
+ 
+x
+⇒
+4410 21
+20
+2
+= 
+ 
+x
+⇒
+x = × =4410 400
+441
+` 4000
+4. (b) Given, P , R= ` 7500 16 = % and
+n = 2 yr
+/c81A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+= + 
+ 
+7500 1 16
+100
+2
+= 
+ 
+7500 116
+100
+2
+= × ×7500 29
+25
+29
+25
+= ×12 841 = ` 10092
+5. (b) Refer to example 2.
+6. (c) Let the principal be ` x.
+∴ Rate = ` R, Amount = ` 2x
+and Time = n yr
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+x x 1
+100
+2+
+ 
+ =R
+n
+⇒
+1
+100
+2+
+ 
+ =R
+n
+…(i)
+Let it becomes four fold in N yr.
+Then,
+x x 1
+100
+4+
+ 
+ =R
+N
+⇒
+1
+100
+4+
+ 
+ =R
+N
+⇒
+2 1
+100
+2 = +
+ 
+R
+N
+⇒
+1
+100
+1
+100
+2
++
+ 
+ = +
+ 
+R R
+n N
+[from Eq. (i)]
+∴ N n= 2 yr
+7. (c) Let the principal amount be ` P.
+By given condition, SI
+= 1
+2
+CI
+⇒ P × × =8 3
+100
+1
+2
+4000 1 10
+100
+4000
+2
++
+ 
+ −
+
+
+
+
+
+[Rule 1 (ii)]
+⇒
+24
+100
+1
+2
+4000 121
+100
+4000P = × −
+
+
+
+= −1
+2
+4840 4000[ ]
+⇒ 24
+100
+420P =
+∴ P = ×420 100
+24
+= ` 1750
+8. (d) Let the sum of money be ` P .
+∴ Amount = ` 2P
+⇒ A P R
+n
+= 
+ 
+1 +
+100
+[Rule 1. (i)]
+⇒
+2 1 20
+100
+P P
+n
+= + 
+ 
+
+⇒
+2 6
+5
+P
+P
+n
+= 
+ 
+
+⇒
+2 6
+5
+= 
+ 
+
+n
+On putting n = 4, we get
+6
+5
+1296
+625
+2
+4
+
+ 
+ = = (approx)
+∴ Least number of years = 4
+9. (c) Given, P R= =` 1250 8, % per
+annum and n = 2 yr
+/c81 Simple interest
+= × ×P R T
+100
+∴ Simple interest = × ×1250 8 2
+100
+= ` 200
+/c81 Compound interest
+= + 
+ 
+ −
+
+
+P R
+n
+1
+100
+1 [Rule 1. (ii)]
+/c81 CI
+= + 
+ 
+ −1250 1 8
+100
+1250
+2
+= × 
+ 
+ −1250 108
+100
+1250
+2
+= −1458 1250 = ` 208
+∴ Difference in SI and CI
+= −208 200 = ` 8
+Shortcut Method
+Here, p = ` 1250 and R = 8%
+∴ Required difference
+= PR2
+2100( )
+[Rule 6. (i)]
+= ×
+×
+=1250 64
+100 100
+8`
+10. (b) Given, CI = ` 832, SI = ` 800,
+n = 2 yr
+CI = + 
+ 
+ −
+
+
+
+
+
+P R
+n
+1
+100
+1
+[Rule 1. (ii)]
+∴
+832 1
+100
+1
+2
+= + 
+ 
+ −
+
+
+
+
+
+P R …(i)
+Also,
+SI = × ×P R T
+100
+⇒ 800 2
+100
+= × ×P R
+⇒ P
+R
+= 40000
+From Eq. (i),
+832 40000
+10000
+2
+100
+2
+= + 
+
+ 
+
+R
+R R
+⇒
+832 40000
+100 100
+2= + 
+ 
+R
+⇒ 832 4 800= +R
+∴
+R = =32
+4
+8%
+89MATHEMATICS Compound Interest

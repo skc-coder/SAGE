@@ -1,0 +1,4626 @@
+--- PDF PAGE 785 ---
+580 CDS Pathfinder
+SCALAR AND VECTOR
+QUANTITIES
+• Physical quantities which have magnitude only and
+no direction are called scalar quantities.
+e.g. mass, speed, volume, work, time, power, energy,
+etc.
+• Physical quantities which have magnitude and
+direction both and which obey triangle law are called
+vector quantities.
+e.g. displacement, velocity, acceleration, force,
+momentum, torque, etc.
+MECHANICS
+Mechanics deals with the study of motion of particles,
+rigid and deformable bodies and general system of
+particles.
+Motion
+A body is said to be in motion when its position
+changes continuously with respect to a stationary body
+taken as a reference point.
+Distance and Displacement
+• The distance covered by a body is the actual length
+of the path travelled by the body between the initial
+position and final position.
+– It is always positive.
+– It is a scalar quantity which has magnitude only.
+Its unit is metre.
+• The displacement of a particle is the change in
+position of the particle in a particular direction and is
+given by a vector drawn from its initial position to its
+final position.
+– Displacement may be positive, negative or zero.
+– It is a vector quantity and its unit is also metre.
+– The magnitude of displacement may or may not be
+equal to the path length travelled by an object.
+– Displacement ≤ Distance
+– In Fig. (a) a particle starts from A and reach B
+through points C, D and E, then AB is the
+displacement and ( )AC CD DE EB+ + + is the
+distance travelled.
+– Also, in Fig. (b), a particle starts from A and reach
+to C through point B, then AC is displacement
+and distance covered is ( )AB BC+ .
+Speed
+The path length or the distance covered by an object divided
+by the time taken by the object to cover that distance is calle d
+the speed of that object. Its unit is m/s or km/h.
+Speed Distance travelled
+Time taken
+=
+• An object is said to be moving with a uniform speed , if it
+covers equal distances in equal intervals of time.
+• An object is said to be moving with a variable speed , if it
+covers equal distances in unequal intervals of time or
+unequal distances in equal intervals of time.
+Average Speed
+• If a motion is the ratio of the total distance travelled by the
+object to the total time taken.
+i.e. average speed,
+v s s s
+t t tav = + + +
++ + +
+1 2 3
+1 2 3
+...
+...
+• If the body covers equal distances with different speeds,
+then
+v v v
+v vav =
++
+2 1 2
+1 2
+When the speed of an object is constantly changing, then the
+speed at a particular moment or instant of time is called the
+instantaneous speed of that object.
+Velocity
+The rate of change in position or displacement of a body with
+time is called the velocity of that body. It is a vector quanti ty.
+Velocity
+= Displacement in particular direction
+Time taken
+• A body is said to be moving with uniform velocity , if
+equal displacements of the body take place in same
+direction in equal intervals of time.
+• If a body moves in such a way that its speed or the
+direction or both changes with time, the body is said to
+have variable velocity .
+Average Velocity
+• If a body is defined as the net displacement divided by the
+time taken for displacement.
+v x x
+t tav = −
+−
+2 1
+2 1
+As net displacement = −x x2 1 and time taken = −t t2 1
+• Average velocity could be zero, positive or negative but
+average speed is always positive for moving body. When a
+particle returns to the starting point, its average velocit y is
+zero but average speed is not zero.
+Relative Velocity
+• When two bodies are moving in the straight line, the speed
+(or velocity) of one with respect to another is known as its
+relative speed (or velocity).
+• When two bodies are moving in the same direction, then
+relative velocity = −v v
+1 2 . When the two bodies are moving
+in opposite directions, then relative velocity = +v v1 2 .
+A B
+C
+A
+B
+C D
+E
+(a) (b)
+
+--- PDF PAGE 786 ---
+Acceleration
+• It is the rate of change of velocity with respect to time. Its S I
+unit is m/s 2 and CGS is cm/s 2. It is a vector quantity.
+• An object is said to be moving with uniform acceleration , if its
+velocity changes by equal amounts in equal intervals of time .
+• An object is said to be moving with a variable acceleration , if
+its velocity changes by unequal amounts in equal intervals o f
+time.
+• If the velocity of an object increases without change in
+direction, it is said to be moving with positive acceleratio n.
+• If the velocity of an object decreases without change in
+direction, the object is said to be moving with negative
+acceleration or deceleration or retardation.
+• Acceleration of an object is zero, if it is at rest or moving wi th
+uniform velocity.
+Graphical Representation of Motion
+1. Position–Time Graphs
+(i) When distance covered by a moving
+object goes on increasing with time,
+the object is said to have positive
+acceleration (i.e. velocity increases
+with time).
+(ii) When distance covered by a moving
+object goes on decreasing with time,
+the object is said to have negative acceleration (i.e.
+velocity decreases with time).
+(iii) When the moving object covers equal distance in equal
+time, the object is said to have zero acceleration i.e.
+uniform velocity.
+(iv) When the position of object does not change with time,
+the object is at rest (i.e. velocity is zero).
+2. Velocity-Time Graphs
+(i) In case of zero acceleration, the velocity of
+the object does not change with time.
+(ii) If the object is moving with uniform
+positive acceleration having zero initial
+velocity, then the velocity - time graph is a
+straight line starting from origin.
+(iii) In case of negative and constant
+acceleration, the velocity of the object
+decreases linearly with time.
+(iv ) When the acceleration of the object is
+increasing, line bending towards velocity
+axis represent the increasing acceleration in
+the body.
+(v) When the acceleration of the object is
+decreasing, line bending towards time axis
+represents the decreasing acceleration in the
+body.
+581GENERAL SCIENCE Physics
+Time
+Position
+Time
+Position
+Time
+Velocity
+Time
+Velocity
+Time
+Position
+Time
+Velocity
+Time
+Velocity
+Time
+Position
+Time
+Velocity
+
+--- PDF PAGE 787 ---
+582 CDS Pathfinder
+Equations of Motion
+For a moving object, the relations among its velocity,
+displacement, time and acceleration can be represented by
+equations. These equations are called equations of motion.
+• For motion a straight line with constant acceleration a
+(i) v u at= + (ii) s ut at= + 1
+2
+2
+(iii) v u as2 2 2= +
+• Equation of motion under gravity, (downward
+direction)
+(i) v u gt= + (ii)
+h ut gt= + 1
+2
+2
+(iii) v u gh2 2 2= +
+Where, u = initial velocity
+v = final velocity
+g = gravitational acceleration
+If an object is thrown vertically upward away from the
+earth, then we shall substitute − g in place of g in the
+above equations. The value of g is 9.8 m /s
+2.
+➨Note If a body starts from rest and moves with uniform
+acceleration, then distance covered by the body in t sec is
+proportional to t s t2 2( . . )i e ∝ .
+Projectile Motion
+When a body moves under an acceleration whose
+direction is different from the direction of the initial
+velocity, then both the magnitude and direction of its
+velocity changes with time. Hence, the body moves on a
+curved path in a plane. This type of motion is called
+projectile motion.
+• A bullet fired from a rifle and a body dropped from the
+window of a moving train shows the projectile motion.
+• Flight time of projectile, T u
+g
+= 2 sin θ
+• Height of projectile, h u
+g
+=
+2 2
+2
+sin θ
+• Range of projectile, R u
+g
+=
+2 2sin θ.
+• We drop down a ball from a roof and at the same time
+throw another ball in a horizontal direction, then both
+the balls would strike the earth simultaneously at
+different places.
+• The horizontal range is the same when the body is
+projected at θ and ( )90 ° − θ .
+• The horizontal range of a projectile is maximum when
+angle of projection is 45°.
+• When two balls of different masses are projected
+horizontally they will reach ground at same time.
+FORCE
+Force is a push or pull which produces or tends to produce
+a change in uniform motion of body; stops or tends to stop
+a body which is in motion. Its unit is Newton.
+• It is a vector quantity and the straight line along which a
+force is directed is called the line of action of the force.
+• The rotational effect of a force on a body about an axis
+of rotation is described in terms of moment of force.
+• CGS unit of force is dyne i.e. 1 dyne = −10 5N.
+Force is of two types
+(i) Component of Force Forces acting at same angle from
+the coordinate axes can be resolved into mutually
+perpendicular forces called components. The
+component of a force parallel to the X-axis is called
+x-component, parallel to the y-component and so on.
+Here,
+• x-component of force F is Fcosθ.
+• y-component of force F is F sinθ.
+(ii) Contact and Non-contact Force The forces which act
+on bodies when they are in physical contact are called
+contact forces . e.g. muscular force, frictional force, etc.
+A force which can be exerted by an object on another
+object even from a distance (without physical contact
+with each other) is called a non-contact force . e.g.
+magnetic force, electrostatic force and gravitational
+force.
+NEWTON’S LAWS OF MOTION
+Newton has given three laws of motion as below:
+First Law
+It states that every body continues in its state of rest or in
+uniform motion in a straight line, unless it is compelled by
+an external force to change that state.
+First law is also called law of Galileo or law of inertia.
+• The property of bodies by virtue of which they oppose
+only change in their present state is called inertia.
+• Mass is a measure of the inertia of a body.
+O X
+Y
+R
+u cos θ
+v cos θ
+u v
+h
+θ
+u
+sin
+θ vsin
+θ
+θ
+F cos θ
+F
+sin
+θ F
+
+--- PDF PAGE 788 ---
+Here some practical examples are as follows in which first
+law is used.
+• Athlete runs some distance, before taking a long jump.
+• A ball thrown upward in a train moving with uniform
+velocity returns to the hand of thrower.
+• The mud from the wheels of a moving vehicle flies-off
+tangentially.
+• When we shake the branch of a mango tree, the mangoes
+fall down.
+• A man jumping from a moving train may fall down.
+• If a cloth placed under a book is given a sudden pull, it
+comes out without disturbing the book.
+• When a horse suddenly starts moving, the rider falls
+backward.
+• When a running horse suddenly stops, the rider falls
+forwards.
+• We hit a carpet with a stick to remove the dust.
+Second Law
+The rate of change of momentum of a body is directly
+proportional to the applied force and takes place in the
+direction in which the force acts. According to second law
+F dp
+dt
+∝ or F k dp
+dt
+=
+where, k is constant of proportionality
+F k d
+dt
+= (mv) = kma
+for simplicity let k = 1.
+⇒ F ma=
+1 newton = 105 dyne
+• Newton’s second law gives the magnitude of force.
+• Newton’s first law is contained in the second law.
+Here some practical examples are as follows in which second
+law is used.
+• China wires are wrapped in straw or paper before
+packing.
+• A person falling on pucca floor (or frozen ice) is likely to
+receive more injuries than one falling on kuccha floor
+(loose earth).
+• While catching a ball, a cricket player lowers his hands to
+save himself from getting hurt.
+• Bogies of the trains are provided with buffers to avoid
+severe jerks during shunting of trains.
+Third Law
+According to this law, to every action there is an equal and
+opposite reaction. ‘Action and reaction always act on the
+different bodies.’ Here some practical examples are as
+follows in which third law is used
+• In order to walk, we press the ground in backward
+direction with our feet. As a result, the ground pushes us
+in forward direction.
+• It is difficult to drive a nail into a wooden block
+without holding the block.
+• A jet plane moves on the principle of Newton’s third
+law of motion. As exhaust gases come out from the
+nozzle at a greater speed, the reaction of the same
+moves the plane forwards.
+Validity of Newton’s Laws of Motion
+Newton’s laws are valid in classical physics only under
+certain conditions
+• In general, the distances which one work must be
+much greater than the size of atoms and molecules.
+Else, quantum mechanics must be used in place of
+classical mechanics.
+• In general, the speeds which one work with must be
+much less than the speed of light. Else, relativistic
+mechanics must be used in place of classical mechanics.
+• Also, this is valid with respect to inertial frame of
+reference only.
+Linear Momentum
+• The linear momentum of a body is defined as, the
+product of its mass and its velocity i.e.
+Momentum = Mass × Velocity, p m v= ×
+• It’s direction is the same as the direction of velocity of
+the body. It is a vector quantity. It’s SI unit is kg-m/s.
+• Concept of momentum was introduced by Newton.
+• A heavier body has a larger linear momentum than a
+lighter body moving with the same velocity. i.e. In the
+absence of external forces, the total momentum of the
+system is conserved.
+i.e. m v m v
+1 1 2 2= [For single body]
+and m u m u m v m v1 1 2 2 1 1 2 2+ = + [For two bodies]
+Applications of Conservation of
+Momentum
+When a bullet is fired from a gun, the gun recoils or
+gives a sharp pull in backward direction. While firing a
+bullet, the gun must be held tight to the shoulder.
+• When a man jump from a boat to the shore, the boat
+slightly moves away from the shore.
+• Rocket works on the principle of conservation of
+momentum.
+• If someone left on a frictionless floor desires to get out
+of it, he can do so by blowing air out of his mouth.
+Impulse
+• An impulse is a large force acting on a body for a
+short time to produce a finite change in momentum.
+• Impulse = ×Force Time interval i.e. I F t= × ∆
+It’s SI unit is N-s or kg-m/s
+583GENERAL SCIENCE Physics
+
+--- PDF PAGE 789 ---
+584 CDS Pathfinder
+Examples of momentum and impulse are as follows:
+• In catching a ball, a player by drawing his hands
+backward increases the time of contact.
+• An athlete is advised to come to stop slowly after
+finishing a fast race.
+• The layer of bricks is broken by player.
+• Vehicles like cars, buses, and scooters, are provided with
+shockers.
+• Bogies of the trains are provided with buffers, because
+buffers increase the time duration of jerks during
+shunting. This reduces the force with which bogies push
+or pull each other and severe jerks are avoided.
+FRICTION
+The opposing force which comes into play when a body
+moves or tries to move the surface of another body is
+known as friction.
+• The maximum value of the force of friction which comes
+into play before a body just begins to slide over the
+surface of another body is called limiting friction .
+• The force of friction that comes into play between the
+surfaces of two bodies before the body actually starts
+moving is called static friction .
+• The force of friction that opposes relative motion
+between two surfaces in contact is called kinetic or
+sliding friction .
+• The frictional force developed, when a body rolls over a
+surface, is known as the rolling friction .
+• Static friction is a self adjusting force and it adjusts
+itself, so that it became equal to the applied force.
+Advantages of Friction
+• Due to friction, we are able to move on the surface of
+the earth.
+• The fibres of thread are held together due to force of
+friction.
+• The brakes applied in automobiles work only due to
+friction.
+• Sledges are used in Arctic region as friction is very low
+on the surface of ice.
+Disadvantages of Friction
+• A lot of energy is wasted in the form of heat due to
+friction that causes wear and tear of the moving parts.
+• Due to friction, speed of automobiles cannot be
+increased beyond a certain limit.
+Laws of Friction
+Friction acts in a direction opposite to the direction of
+motion of the objects. It depends upon the nature of the
+two surfaces in contact.
+• Friction is independent of the area of contact of the two
+surfaces. Rolling friction is less than sliding friction.
+• Force of friction ( )F is directly proportional to the
+normal reaction ( )R .
+i.e. F R∝
+F R= µ
+where, µ = coefficient of friction.
+Also, µ α= tan , where α is the angle of friction.
+Angle of repose = Angle of friction i.e. θ α =
+Methods for Reducing Friction
+• By using lubricants e.g. grease, oil, etc.
+• By using ball or roller bearings, which changes sliding
+into rolling.
+• By using soap solution.
+• By using powder.
+• Friction due to air is considerably reduced by streamling
+the shape of the body moving at high speed in air. e.g.
+aircraft, jet-planes, fast cars are streamlined.
+• The tyres are provided with treads which increases the
+friction between the tyres and the road.
+➨Note Pulling is easier than pushing
+While pushing, there is one component of force that acting
+downward on the object adds to the weight of the body hence
+there is more friction opposing the effort. Whereas on pulli ng, the
+vertical component of force is against the weight of the body and
+hence there is less overall friction. So, it is easy to pull th an push.
+CIRCULAR MOTION
+When an object moves along a circular path, then its motion
+is called circular motion as motion of top, etc. In circular
+motion force is always at right angles to the displacement
+therefore no work is done by the force on the particle.
+• When an object moves along a circular path with
+uniform speed, its motion is called uniform circular
+motion.
+• Circular motion is accelerated even, if the speed of the
+body is constant. The motion of a satellite is accelerated
+motion.
+Angular Velocity
+Angular velocity is the rate at which angle swept by the
+radius at the centre changes with time. Its unit is rad/s.• Angular velocity, ω θ=
+t
+⇒ s v t= × and ω θ=
+t
+,
+O
+θ A, t=1
+s
+B, t=1
+r
+
+--- PDF PAGE 790 ---
+θ = s
+r
+So, v r= × ω
+as v = linear speed,
+ω = angular velocity,
+r = radius of the circular path.
+Thus, linear velocity = Angular velocity
+× Radius of circular path.
+The angular velocity of revolution of a planet around the
+sun in an elliptical orbit increases. When the planet came
+closer to sun and vice-versa.
+Angular Acceleration
+• The rate of change of angular velocity is defined as
+angular acceleration.
+• Angular acceleration, α ω=
+t
+. Its unit is rad/ s 2 or
+revolution/sec 2 .
+• Relation between angular acceleration and linear
+acceleration, a r= × α
+Centripetal Acceleration
+The acceleration is directed towards the centre and is given
+by
+a v
+r
+=
+2
+, where v is the speed and r is the radius. This is
+called centripetal acceleration.
+Centripetal Force
+A body performing circular motion is acted upon by a
+force which is always directed towards the centre of the
+circle. This is called centripetal force . Work done by
+centripetal force is always zero.
+• If a body of mass m is moving on a circular path of
+radius R with uniform velocity v, then the required
+centripetal force, F mv
+R
+m R= =
+2
+2ω
+• Any of the forces found in nature such as frictional
+force, gravitational force, electrical force, magnetic fo rce
+may act as a centripetal force.
+• Cyclist bends his body towards the centre on a turn
+while turning to obtain the required centripetal force.
+• Generally, in rain the scooter slips off the turning of a
+road because the friction between tyre and road is
+reduced. Due to this necessary centripetal force is not
+provided.
+• Vehicles can move on circular path safely, if friction
+force ≥ required centripetal force.
+• Roads are banked at turns to provide the required
+centripetal force for taking a turn.
+• Work done by centripetal force is always zero.
+Centrifugal Force
+There are certain situations in which we feel that a body is
+acted upon by a force, but actually there is no force on the
+body. Such an apparent force is called a pseudo force.
+• Centrifugal force is such a pseudo force. It is equal and
+opposite to centripetal force. When a person stand on a
+rotating platform, then he feels the centrifugal force.
+• Cream separator and centrifugal drier work on the
+principle of centrifugal force.
+➨Note Centrifugal is a device to separate the particles of differe nt
+masses present in liquid.
+WORK
+Work is said to be done, if a force acting on a body is able
+to actually move it through some distance in the direction
+of the force.
+• Work = ×Force Distance ,
+i.e. W = ⋅F s
+• If the force F is making an angle θ with the direction of
+displacement of the body, then the work done is
+W Fs= cosθ
+• It’s SI unit is joule (J).
+• CGS unit of work is erg i.e. 1 J = 10 7 ergs
+Types of Work
+Work can be of following types
+1. Positive Work Done Positive work means that force
+is parallel to displacement.
+Examples
+• When a body falls freely under gravitational pull.
+• When a horse pulls a cart on a level road.
+2. Negative Work Done Negative work means that force
+is opposite to displacement.
+Examples
+• When a body is made to slide over a rough surface
+or when a positive charge is moved towards
+another positive charge.
+3. Zero Work Done If the force is perpendicular to the
+displacement and if either the force or the displacement
+is zero, work done will be zero.
+Examples
+• When a coolie travels on a platform with a load on
+his head.
+• When a body is moved along a circular path. When
+a person does not move from his position but he
+may be holding any amount of heavy load.
+• If the force is perpendicular to the displacement
+and if either the force or the displacement is zero,
+work done is zero.
+585GENERAL SCIENCE Physics
+
+--- PDF PAGE 791 ---
+586 CDS Pathfinder
+Conservative and
+Non-conservative Forces
+• A force is said to be conservative, if the work done by
+the force in moving a body depends only upon the
+initial and final positions of the body and is independent
+of the path followed between the initial and final
+position, e.g. gravitational force, electrostatic force a nd
+magnetic force, etc.
+• A force is said to be non-conservative, if the work done
+by the force or against the force, in moving a body from
+one position to another, depends upon the path followed
+between the two positions. e.g. friction force, etc.
+ENERGY
+The energy of an object is its capacity for doing work. It is
+a scalar quantity and its unit is joule (J).
+• Energy can exist in different forms such as mechanical
+energy, heat energy, sound energy, light energy, chemical
+energy, etc.
+• Mechanical energy is of two types i.e. kinetic energy and
+potential energy.
+1. Kinetic Energy
+The energy possessed by a body by virtue of its motion is
+called its kinetic energy.
+• If a body of mass m is moving with velocity v, then
+kinetic energy = =1
+2 2
+2
+2
+mv p
+m
+• When momentum is doubled kinetic energy becomes
+four times.
+• If a body is moving in horizontal circle then its kinetic
+energy is same at all points, but if it is moving in
+vertical circle, then the kinetic energy is different at
+different points.
+Applications of kinetic energy are given below
+(i) Kinetic energy of air is used to run wind mills.
+(ii ) Kinetic energy of running water is used to run the
+water mills.
+(iii ) A bullet fired from a gun can pierce a target due to
+its kinetic energy.
+2. Potential Energy
+It is the energy possessed by a body by virtue of its
+position.
+• Suppose a body is raised to a height h above the surface
+of the earth, then potential energy
+of body = mgh
+• Also, here potential energy = work done = mgh
+• When the body is projected upwards, then its kinetic
+energy goes on changing to potential energy and
+vice-versa.
+Applications of potential energy are given below
+(i) The potential energy of the wound spring of a clock
+is used to drive the hands of the clock.
+(ii) Due to potential energy of the stretched bow, the
+arrow goes forward with a large velocity on releasing
+the bow.
+(iii) The potential energy of water in dams is used to run
+turbines in order to produce electrical energy using
+the generators.
+Principle of Conservation
+of Energy
+According to the law of conservation of energy it can
+neither be created nor be destroyed but can only be
+transformed from one form to another.
+• The total amount of energy in the universe remains
+constant. e.g. when an object falls, its potential energy
+decreases but at the same time kinetic energy increases
+by an equal amount.
+Transformation of Energy
+• In a heat engine, heat energy changes into mechanical
+energy. In the sun, mass changes into radiant energy.
+• In an electrical heater, the electric energy is converted
+into heat energy.
+• In an electric bulb, the electric energy is converted into
+light energy in burning coal, oil, etc. The chemical
+energy changes to heat energy.
+• When we rub our hands, heat is generated. Here,
+mechanical energy of muscles is converted into heat energy.
+• In an electromagnet the electric energy is converted into
+magnetic energy.
+Einstein’s Mass-Energy Equivalence
+In 1905, Einstein proved the relation between mass and
+energy. E mc=
+2, where c is the velocity of light.
+E mc= 2 leads to verification of the two laws, law of
+conservation of mass and law of conservation of energy.
+POWER
+The time rate of doing work is called power.
+If W is work done in time t then power, P
+= W
+t
+.
+For a constant force F, the
+Power ( )P F v= ⋅ ⇒ P Fv= cosθ
+where v = velocity of object
+θ = angle between F and v
+• Power is a scalar quantity with SI unit watt (W) or joule/s.
+• Some other units of power are 1 watt hour = 3600 J
+1 kilowatt hour = ×3 6 10 6. J
+1 HP (Horse Power) = 746 W
+
+--- PDF PAGE 792 ---
+ROTATIONAL MOTION AND GRAVITATION
+ROTATIONAL MOTION
+When a body rotates about a fixed axis, it is said to
+perform a rotational motion and the axis is called the
+axis of rotation . In rotational motion every particle of
+the body moves in a circle and the centres of all these
+circles lie at the axis of rotation.
+• The rotating blades of an electric fan and the motion
+of a top are examples of rotational motion.
+• Rigid body is the body in which there is no
+displacement among the particles of the body on
+applying an external force.
+Centre of Mass [CM]
+A point within the body or outside the body at which the
+whole mass of the body is assumed to be concentrated.
+• The centre of mass of sphere, cylinder and ring is at
+its geometric centre.
+• The centre of mass may lie outside the body where
+there is no material as in case of ring, hollow sphere,
+hollow cylinder, etc.
+Moment of Inertia
+Moment of inertia of a body with respect to axis of
+rotation is the product of the mass ( )m and the square
+of distance from the axis of rotation ( )R .
+i.e. moment of inertia I mR=
+2
+• The SI unit of moment of inertia is kg-m 2.
+• Moment of inertia of a ring about an axis passing
+through its centre and perpendicular to its plane is
+I MR=
+2.
+• Moment of inertia of a diameter about its diameter is
+I MR= 1
+2
+2.
+• The moment of inertia depends not only on the mass
+and size of the body but also upon the manner in
+which the mass is distributed around the axis of
+rotation.
+Practical applications of moment of inertia are given
+below
+• The moment of inertia plays important role in our
+daily life.
+• In cycle, rikshaw, bullockcart, etc., the moment of
+inertia of the wheels is increased by concentrating
+most of the mass at the rim of the wheel and
+connecting the rim to the axle of the wheel through
+spokes.
+• It is due to the large moment of inertia of the wheels
+that when we stop cycling, the wheels of the cycle
+continue rotating for some time.
+Radius of Gyration
+Radius of gyration is defined as the distance from axis of
+rotation at which, if total mass of the body were supposed to
+be concentrated, the moment of inertia would be same.
+I MK=
+2
+where, M = total mass of the body, K = radius of gyration
+Torque or Moment of Force
+The turning effect of a body is known as the moment of the
+force or torque.
+• Moment of force or torque, τ = ⋅F d , here d is the
+perpendicular distance from the axis of rotation.
+• It is a vector quantity having SI unit N-m.
+• A body of lesser weight can produce the same turning
+effect as the body of higher weight by adjusting their
+distance from the axis of rotation.
+• Torque is equal to the product of moment of inertia and
+angular acceleration. i.e. τ = ×I α .
+Practical applications of torque are given below
+• The handle or the knob is fitted near the free edge of the
+door. So that, a heavy revolving door is opened or closed
+easily, when the force is applied at the edge of the door.
+• A wrench with a long arm is used to unscrew a nut fitted
+tightly into a bolt and the handle of a screw driver is made
+wide.
+ANGULAR MOMENTUM
+• The angular momentum ( )J of a body about an axis is equal
+to the product of the moment of inertia ( )I of the body and
+its angular velocity ( )ω about that axis. i.e. J I= ω .
+• If no external torque is acting upon a body rotating about
+an axis, then the angular momentum of the body remains
+constant. It is called conservation of angular momentum.
+Examples related to conservation of angular momentum are
+given below
+• When a diver jumps into water from a height, he does not
+keep his body straight but pulls in his arms and legs
+towards the centre of his body. On doing so, the moment
+of inertia of his body decreases. But, since the angular
+momentum remains constant, his angular velocity increases .
+• A man with his arms outstretched and holding heavy
+dumb-bells in each hand, is standing at the centre of a
+rotating table. When the man pulls-in his arms, the speed of
+rotation of the table increases.
+• The reason is that on pulling-in the arms, the distance of
+the dumb bells from the axis of rotation decreases and so
+the moment of inertia of the man decreases. Therefore by
+conservation of angular momentum, the angular velocity
+increases.
+• The angular velocity of revolution of planet around the sun
+in elliptical orbit increases, when the planet comes closer to
+the sun.
+587GENERAL SCIENCE Physics
+
+--- PDF PAGE 793 ---
+588 CDS Pathfinder
+• If a cat is dropped from a height, they almost always tend
+to land on their feet because they use the conservation of
+angular momentum to change their orientation.
+• When a cat is in the air, no net external torque acts on it
+about its centre of mass, so the angular momentum about
+the cat’s centre of mass cannot change.
+• Stretching out its legs increases its rotational inertia an d
+thus slows the cats angular speed. The conservation of
+angular momentum allows the cat to rotate its body and
+slow its rate of rotation enough, so that it lands on its
+feet easily.
+ROLLING MOTION
+The rolling motion can be regarded as the combination of
+pure rotation and pure translation.
+• The kinetic energy of a body rolling without slipping is
+the sum of kinetic energies of translational and rotational
+motion.
+i.e. total KE of a rolling body
+= Rotational KE + Translational KE
+= +1
+2
+1
+2
+2I mvω 2
+cm
+• If a ring, a disc and a sphere, all of the same radius and
+mass roll down an inclined plane from the same height,
+the sphere will reach the bottom first and ring at last.
+GRAVITATION
+The phenomena of action of attractive forces between two
+bodies by virtue of their masses is known as gravitation.
+Newton’s Law of Gravitation
+The force of gravitational attraction between two bodies is
+directly proportional to the product of their masses ( )m m
+1 2⋅
+and inversely proportional to the square of the distance ( r)
+between them i.e. F G m m
+r
+= 1 2
+2
+where, m1 is the mass of first body, m2 is the mass of second
+body and r is the distance between them.
+• The value of G is 6 67 10 11. × − N-m 2/kg 2.
+• It is always attractive in nature, unlike electric and
+magnetic force which can be attractive or repulsive both.
+• It acts along the line joining the centres of two interacting
+forces.
+• The gravitational force between two masses is independent
+of the presence of any other object medium present
+between two masses.
+• The predictions of solar and lunar eclipses on the basis of
+the Newton’s law of gravitation come out in perfect
+agreement with actual observation.
+• Tides are formed in oceans due to gravitational attraction
+between moon and ocean water.
+Acceleration due to Gravity
+It is the force by which the earth attracts a body towards
+its centre.
+• The acceleration due to gravity is the rate of change of
+velocity of a body due to the gravitational force acting
+towards the earth. It is represented by
+g GM
+R
+e
+e
+= 2
+where, M e is the mass of the earth and Re is the radius
+of the earth.
+• The value of g at the surface of the earth is 9 8 .m/s 2 .
+• Earth is surrounded by an atmosphere of gases due to
+gravity. The value of g on the moon is 1/6th of that of
+the earth.
+Variation in the Value of (g)
+• When we go above the surface of the earth, the
+acceleration due to gravity goes on decreasing.
+• When we go below the surface of the earth, the
+acceleration due to gravity goes on decreasing and
+becomes zero at the centre of the earth.
+• Decreasing the rotational motion of the earth, the value
+of g increases. When we go from the equator towards
+the poles, the value of g goes on increasing.
+• If earth stops its rotation about its own axis, then at
+the equator, the value of g increases and consequently
+the weight of body lying there increases.
+• The value of g is maximum on surface of the earth.
+MASS AND WEIGHT
+The mass of a body is the quantity of matter contained in
+it. It is a scalar quantity and its SI unit is kg. Mass does
+not change from place to place and remains constant.
+The weight of the body is the force with which it is
+attracted towards the centre of the earth.
+• Weight of the body w mg=
+• Weight of a body is not constant, it changes from place
+to place. At the pole, the weight of a body will be
+maximum whereas at the equator it is minimum.
+• Mass is measured by an ordinary equal arm balance,
+while weight is measured by a spring balance.
+Weight of a Body at Moon
+As mass and radius of moon is lesser than the earth, so
+the force of gravity at the moon is also less than the
+earth. Its value at the moon’s surface is g/6.
+Centre of Gravity
+The centre of gravity of a body is that point, at which
+the whole weight of the body appears to act.
+• It can be inside the material of the body or outside it.
+• For regularly shaped body, the centre of gravity lies at
+its geometrical centre.
+
+--- PDF PAGE 794 ---
+Weight of a Body in Lift
+Some conditions are given below
+• If lift is stationary or moving with uniform speed
+(either upward or downward), the apparent weight of a
+body is equal to its true weight.
+• If lift is going up with acceleration, the apparent
+weight of a body is more than the true weight.
+• If lift is going down with acceleration, the apparent
+weight of a body is less than the true weight.
+• If the rod of the lift is broken, it falls freely. In this
+situation, the weight of a body in the lift becomes
+zero. This is the situation of weightlessness.
+• While going down, if the acceleration of lift is more
+than acceleration due to gravity, then the body in the
+lift raise towards the ceiling of the lift.
+SATELLITE
+The heavenly body which revolves around the sun is called
+planet e.g. the earth, while the heavenly body which
+revolves round the planets is called Satellite. Moon is a
+natural satellite of the earth.
+• Orbital speed of a satellite is independent of its mass
+and depends upon the radius of orbit.
+i.e.
+v gR0 =
+• The orbital speed of a satellite revolving near the
+surface of the earth is 7.9 km/s.
+• Time period of revolution of satellite revolving near the
+surface of the earth is 1 hr 24 min (84 min).
+• Period of revolution of a satellite depends upon the
+height of satellite from the surface of the earth.
+• Every body inside the satellite is in a state of
+weightlessness.
+• Period of revolution of a satellite is independent of its
+mass.
+• If a satellite revolves in equatorial plane in the direction
+of the earth’s rotation i.e. from West to East with a
+period of revolution equal to time period of rotation of
+the earth on its own axis i.e. 24 h, then the satellite will
+appear stationary relative to the earth. Such a satellite is
+called geo-stationary satellite . Such a satellite revolves
+around the earth at a height of 3600 km.
+• INSAT 2B and INSAT 2C are geo-stationary satellites
+of India. It is used to reflect TV signals and telecast TV
+programs from part of the work to another.
+• Polar satellite revolves around the earth in polar orbit
+at a height of 800 km. Time period of the satellites is
+84 min. These are used for weather forecasting and
+mapping, etc.
+➨Note The earth rotates on its axis from West to East. This rotation
+makes the sun and the stars appear to be moving across the sky
+from East to West.
+Energy of a Satellite
+A satellite revolving around the earth has potential energy as
+well as kinetic energy. It has potential energy because it
+remains in the gravitational field of earth and kinetic ener gy
+because it is in motion.
+Total energy of the satellite,
+E = Kinetic energy + Potential energy
+E GM m
+R
+GM m
+R
+e
+e
+e
+e
+= + − 
+
+
+2
+E GM m
+R
+e
+e
+= −
+2
+where, m is the mass of satellite.
+ESCAPE VELOCITY
+Escape velocity is that minimum velocity with which a body
+should be projected from the surface of the earth, so as it
+goes out of gravitational field of earth and never returns to
+the earth. Escape velocity at the surface is 11.2 km/s.
+Escape velocity is given by
+v GM
+Re = 2
+e
+v gRe e= 2 /c81 g GM
+Re
+=
+
+
+
+
+
+2
+• The value of the escape velocity of a body does not
+depend on its mass. Its value on the moon surface is
+2.38 km/s. So, there is no atmosphere around the moon.
+• Escape velocity is 2 times the orbital velocity.
+• Satellites are launched with the escape velocity as needed.
+KEPLER’S LAWS
+Kepler’s law of planetary motion are three scientific laws
+describing motion of planets around the sun.
+• All planets move around the sun in elliptical orbits having
+the sun at one focus of the orbit.
+• The areal speed of a planet around the sun is constant.
+• The square of the period of revolution of any planet
+around the sun ( )T is directly proportional to the cube of
+its mean distance from the sun ( a) i.e.
+T a
+2 3∝ .
+Black Hole
+A black hole is a region of spacetime exhibiting such strong
+gravitational effects that nothing not even particles and
+electromagnetic radiation such as light can escape from
+inside it. Event horizon is the boundary marking the limits
+of a black hole. Thus, nothing that enters a black hole can
+get out or can be observed from outside the event horizon.
+589GENERAL SCIENCE Physics
+
+--- PDF PAGE 795 ---
+590 CDS Pathfinder
+PROPERTIES OF MATTER
+ELASTICITY
+Elasticity is the property of material of a body by virtue of
+which the body acquires its original shape and size after
+the removal of deforming force.
+• Steel and ivory are more elastic than rubber and water is
+more elastic than air.
+• The internal restoring force acting per unit area of
+cross-section of a deformed body is called stress. Its unit
+is N/m
+2 or Pascal.
+• The fractional change in configuration i.e. length, volume
+and shape is called strain.
+• The ratio of stress to strain is a constant for the material
+and is called modulus of elasticity.
+i.e.
+E = Stress
+Strain
+It is also called Hooke’s law .
+• The maximum deforming force up to which a body
+retains its property of elasticity is called the limit of
+elasticity.
+• Putty, paraffin wax are nearly perfectly
+plastic bodies.
+• Iron, copper, silver, aluminium, etc., are examples of
+ductile materials. Glass, dry clay, etc., are examples of
+brittle materials.
+• Rubber is one example of elastomers.
+PRESSURE
+Pressure is defined as, force acting normally on unit area of
+the surface.
+Pressure
+= Force
+Area
+• Its unit is N/m 2 also called Pascal. It is a scalar quantity.
+• The pressure exerted by liquid at depth h below the
+surface of liquid is given as,
+p hdg= , where d is density of liquid.
+• It is measured by manometer.
+• Pressure at a point in a static liquid has same value in all
+directions.
+• Pressure at a point in a liquid is proportional to the
+density of the liquid and depth of the point from the
+free surface.
+• Boiling point of all substances increases with the increase
+in pressure.
+Atmospheric Pressure
+The pressure exerted by the atmosphere is called
+atmospheric pressure.
+• Atmospheric pressure = 1.01 bar
+= ×1.01 10 5 N/m 2
+= 760 torr
+• Atmospheric pressure is measured by barometer.
+• Atmospheric pressure decreases with altitude (height
+from the earth’s surface). This is why
+– It is difficult to cook on the mountain.
+– The fountain pen of a passenger leaks in aeroplane at
+height.
+• The slow rise in the barometric reading is the indication
+of clear weather.
+• Sudden fall in barometric reading is the indication of
+storm.
+• Slow fall in barometric reading is the indication of rain.
+➨Note Building and dams are laid on a larger area of ground so that,
+the height of the building or dam produces less pressure on gr ound.
+PASCAL’S LAW
+Pascal’s law states that ‘Pressure in a fluid in equilibrium is
+the same everywhere, if the effect of gravity can be
+neglected.’
+• Hydraulic lift, hydraulic press, hydraulic brakes work
+on the basis of Pascal’s law.
+• Hydraulic lift is used to lift heavy loads.
+ARCHIMEDES’ PRINCIPLE
+When a solid body is immersed wholly or partially in a
+liquid (in general, in a fluid), then there is some apparent
+loss in its weight. This loss in weight is equal to the
+weight of the liquid displaced by the body.
+Applications of Archimedes’ principle are given below
+• Archimedes’ principle is used in determining the relative
+density of a substance.
+• Archimedes’ principle is used in designing ships and
+submarines.
+• The hydrometers used for determining the density of
+liquids are based on Archimedes’ principle.
+• The lactometers used for determining the purity of milk
+are based on Archimedes’ principle.
+
+--- PDF PAGE 796 ---
+DENSITY
+Density is defined as mass per unit volume.
+• Density, ρ = =Mass
+Volume
+M
+V
+. Its SI unit is kg/m 3.
+• Relative density of substance is defined as the ratio of the
+density of that substance to the density of water at 4°C
+i.e.
+Relative density
+=
+°
+Density of material
+Density of water at 4 C
+• Relative density has no unit. It is a scalar quantity.
+• The density of water is maximum at temperature 4°C.
+• Relative density of liquid or fluid is measured by
+hydrometer.
+• The density of sea water is more than that of normal
+water. This explains why it is easier to swim in sea water.
+• If ice floating in water in a vessel melts, the level of water
+in the vessel does not change.
+• Ice floats on water surface as its density (0.92 g /cm )3 is
+lesser than the density of water (1 g/ cm 3).
+• Iron will sink in mercury because density of mercury is
+more than the iron.
+BUOYANT FORCE
+When a body is immersed partially or wholly in a liquid, a
+force acts on the body by the liquid in the upward direction.
+This force is called buoyant force or force of buoyancy of
+upthrust.
+• It is equal to the weight of liquid displaced by the body
+and acts at the centre of gravity of displaced liquid.
+• The buoyant force exerted by a liquid depends on the
+volume of the solid object immersed in the liquid.
+• The buoyant force exerted by a liquid depends on the
+density of the liquid in which the object is immersed.
+Law of Floatation
+When body floats in neutral equilibrium, the weight of the
+body is equal to the weight of displaced liquid.
+• The centre of gravity of the body and centre of gravity of
+the displaced liquid should be in one vertical line.
+• Three cases are possible when the body is immersed in the
+fluid.
+(i ) If the weight of the body is greater than the
+upward force or upthrust by the fluid acting
+upwards, then the body sinks.
+(ii ) If the weight of the body is equal to the upthrust
+or the weight of the body is just balanced by
+upthrust, then the body floats fully immersed.
+(iii ) If the weight of the body is less than the upward
+force, then the body floats partially immersed. The
+centre of gravity of a body is that point at which
+the whole weight of the body appears to act.
+Fluid Dynamics
+(i) Streamline Flow or Steady Flow In this flow
+velocity at every point in the fluid will remains
+constant.
+(ii) Turbulent Flow In this flow, the fluid does not
+maintain constancy of the velocity.
+(iii) Critical Velocity The velocity above which flow
+will become turbulent.
+PRINCIPLE OF CONTINUITY
+It states that, when an incompressible and non-viscous
+liquid flows in streamlined motion through a tube of
+non-uniform cross-section, the product of the
+area-section and the velocity of flow is same at every
+point in the tube. For a tube of flow, between two
+points having area of cross-section A
+1 and A2 and
+velocities V1 and V2.
+Then,
+AV = Constant
+A V A V1 1 2 2=
+According to the equation of continuity, the speed of
+fluid flow becomes faster in the narrower pipe.
+BERNOULLI’S THEOREM
+When an incompressible and non-viscous liquid (or gas)
+flows in streamlined motion from one place to another,
+then at every point of its path the total energy per unit
+volume (Pressure energy + Kinetic energy + Potential
+energy) is constant.
+P v gh+ + =1
+2
+2ρ ρ constant
+where, ρ is density of fluid. This is the principal of
+conservation of energy for the non-viscous fluids i.e.
+there is no viscous force acting between the layers of the
+fluid.
+Venturimeter, Pitot tube, Bunsen’s burner, atomizor,
+filter pump and magnus effect are based upon the
+Bernoulli’s theorem.
+➨Note Bernoulli’s theorem is applicable only to streamline flow
+of a fluid. It is not valid for non-steady or turbulent flow.
+SURFACE TENSION
+Surface tension of a liquid is measured by the normal
+force acting per unit length on either side of an
+imaginary line drawn on the free surface of liquid and
+tangential to the free surface.
+• If a force F acts on an imaginary line of length l, then
+surface tension T F
+l
+= . Its SI unit is Newton/metre.
+• Force of attraction applied between molecules of same
+substance is called cohesive force , while attractive
+force between molecules of different substances is
+called adhesive force .
+591GENERAL SCIENCE Physics
+
+--- PDF PAGE 797 ---
+592 CDS Pathfinder
+• The surface tension of a liquid decreases with increase in
+temperature and becomes zero at the critical temperature.
+• On mixing soap, the surface tension of water decreases.
+Some Phenomena Based
+on Surface Tension
+• Warm soup is tasty because at high temperature its surface
+tension is low and consequently the soup spreads on all parts of
+the tongue.
+• Medicines used for washing wounds, as dettol have a surface
+tension lower than water. So, they reach the fine cavities fo rmed
+in the wound.
+• The surface tension of the tooth-paste scum is also less that it
+spreads quickly on the full areas of teeth and clean them.
+• Insects and mosquitoes swim on the surface of water in ponds
+and lakes due to surface tension.
+• Hair of a shaving brush cling together due to surface tension ,
+when the brush is taken out from the water.
+• The ends of a glass tube become rounded on heating. Small
+drops of mercury are spherical while large ones are flat.
+Formation of lead shots, liquid-drop model of nucleus.
+Floatation of needle on water. Dancing of camphor on water
+and helping. Detergent in cleaning the clothes all are due to
+surface tension.
+ANGLE OF CONTACT
+The angle inside the liquid between the tangent to the solid
+surface and the tangent to the liquid surface at the point of c ontact
+is called the angle of contact for that pair of solid and liqui d.
+• The angle of contact for pure water and clean glass is zero. Fo r
+ordinary water and glass it is about 8°.
+• The angle of contact for water and silver is 90°.
+• The liquids which wet the solid have acute angle of contact.
+Meniscus of these liquids will be concave.
+• The liquids which do not wet the solid have obtuse angle of
+contact as for mercury and glass the angle of contact is 135°.
+Meniscus of these liquids will be convex.
+CAPILLARITY
+If a capillary tube is dipped in a liquid, liquid ascends or de scends
+in the capillary tube. This phenomenon is called capillarit y.
+• The oil in the wick of a lamp rises due to capillary action of
+threads in the wick.
+• To prevent loss of water due to capillary action, the soil is
+loosened and split into pieces by the farmers.
+• The root hairs of plants draws water from the soil through
+capillary action.
+• Writing nib is split in the middle, so that a fine
+capillary is formed in it. When it is dipped in
+ink, the ink rises in the capillary.
+➨Note The liquids which wet glass for which the angle of
+contact is accute, rise up in capillary tube, while those
+which do not wet glass, for which the angle of contact is
+obtuse are depressed down in the capillary.
+VISCOSITY
+It is the property of the liquid by virtue of which,
+it opposes the relative motion between its adjacent
+layers.
+• Viscosity is the property of liquids and gases
+both.
+• With rise in temperature, viscosity of liquids
+decreases and that for gases increases.
+• Viscosity of liquid increases with increase in
+pressure.
+• Viscosity of a fluid is measured by its coefficient
+of viscosity. It’s SI unit is (N - s / m )
+2− .
+STOKES’ LAW
+When a small spherical body of radius r is moving
+slowly with a constant velocity v through a
+perfectly homogeneous medium (liquid or gas) of
+infinite extension and coefficient of viscosity η,
+then the retarding viscous force acting an the body
+is F r v= 6π η
+• This law is used in Millikan’s method for
+determining the electronic charge and for finding
+out the radii of small aid-drops by measuring their
+terminal velocity in air.
+TERMINAL VELOCITY
+When a body falls in viscous medium, its velocity
+first increases and finally becomes constant. This
+constant velocity is called terminal velocity. The
+terminal velocity of the sphere is directly
+proportional to the square of the radius of the
+sphere.
+• The cloud particles fall down very slowly
+because of the viscosity of air and hence appear
+floating in the sky.
+• Thin liquids like water, alcohol, etc are less
+viscous than thick liquids coal for blood, honey,
+glycerine, etc.
+• Honey is less viscous than glycerine.
+
+--- PDF PAGE 798 ---
+HEAT AND THERMODYNAMICS
+TEMPERATURE
+The measurement of hotness or coldness of a body is
+called its temperature. When two bodies are placed in
+contact, heat always flows from a body at higher
+temperature to the body at lower temperature.
+THERMOMETER
+An instrument used to measure the temperature of a
+body is called a thermometer. Mercury is generally
+used as, thermometric substance, because it is sensitive
+to slightest change in temperature which is notable
+when it is used in a thermometer. Mercury has a
+freezing point of − ⋅ °38 83 C and boiling point at
+356 7⋅ °C, this gives a very big range to measure
+temperatures for many general purposes. Also, it does
+not stick to (wet) the capillary wall of the thermometers
+and it is easy to obtain in its elemental form.
+Temperature Scales
+Some temperature scales are as follows
+1. Celsius Scale (C) The melting point of the ice at
+standard atmospheric pressure is regarded as 0°C
+and the boiling point of water as 100°C. This
+scale was designed by Anders Celsius in the year
+1710.
+The degree celsius (°C) can refer to a specific
+temperature on the celsius scale as well as a unit
+to indicate a temperature interval.
+2. Fahrenheit Scale (F) The melting point of ice is
+regarded as 32°F and the boiling point of water as
+212°F. This scale was designed by Gabriel
+Fahrenheit in the year 1717.
+3. Reaumer Scale (R) The melting point of ice is
+regarded as 0°R and the boiling point of water as
+80°R. This scale was introduced by RA Reaumer
+in year 1730.
+• Scales of temperature measurement,
+C F R−
+−
+= −
+−
+= −
+−
+0
+100 0
+32
+212 32
+0
+80 0
+= −
+−
+K 273
+100 0
+⇒ C F R
+5
+32
+9 4
+= − = = −K 273
+5
+• The normal temperature of a human body is 37 °C or
+98.4 F.
+• − °40 is the temperature at which Celsius and
+Fahrenheit thermometers read same.
+• The range of a laboratory thermometer is generally
+from − °10 C to 110 ° C. A laboratory thermometer
+cannot be used to measure the human body
+temperature.
+Total Radiation Pyrometer
+Radiation pyrometer measures the temperature of a body by
+measuring the radiation emitted by the body. It cannot measu re
+temperature below 800°C because at low temperature, emission
+of radiation is very small and cannot be detected. Sun's
+temperature is measured by it.
+➨Note Bolometer and thermopile are also used to measure the amount of
+heat radiated by a body.
+HEAT
+It is a form of energy which produces the sensation of warmth
+in our body.
+• It is due to the kinetic energy of the molecules constituting
+the object or body. Its units are calorie, kilocalorie or jou le.
+• Calorie is the amount of heat required to raise the
+temperature of 1 g of water through 1°C (from 10°C to
+11°C). It is represented by cal, 1 cal = 4 18 .J.
+• Air is a non-conductor of heat and silver is the best
+conductor of heat.
+• Ebonite rubber, glass and air are bad conductors of heat.
+Specific Heat
+• Specific heat is the amount of heat required to raise the
+temperature of a unit mass of the substance by 1°C.
+• If Q heat changes the temperature of m by ∆ T , then specific
+heat
+C Q
+m T
+=
+∆
+The SI unit of specific heat is J/kg-K.
+• Specific heat of gold = 130 J/kg-K
+• Specific heat of water = 4180 J/kg-K
+• The specific heat of water is maximum.
+• Mercury has low specific heat.
+Thermal Capacity
+It is the amount of heat required to raise the temperature of a
+body through 1K. Its units are J/K or cal/°C or kcal/°C.
+Thermal capacity = mC
+where, m is the mass of the body and C is the specific heat.
+Water Equivalent
+It is the mass of water, which absorbs or emits the same
+amount of heat as is done by the given body for the same rise
+or fall in temperature.
+• The water equivalent of a body is denoted by W. Its SI unit
+is kg and CGS unit is g.
+• Water equivalent, W = mC
+where, m is mass of the body and C is the specific heat.
+593GENERAL SCIENCE Physics
+
+--- PDF PAGE 799 ---
+594 CDS Pathfinder
+Principle of Calorimetry
+The heat lost by the hot body must be equal to the heat
+gained by the cold body. This is known as principle of
+calorimetry or principle of mixtures, i.e.
+Heat gained = Heat lost
+• Work and heat are two equivalent forms of energy.
+• Calorimeter is a cylindrical vessel made of copper.
+THERMAL EXPANSION
+The phenomenon of change in dimensions of an object due
+to heat supplied is known as thermal expansion.
+• A solid can undergo three types of expansions:
+– Linear expansion (expansion in length)
+– Superficial expansion (expansion in area)
+– Cubical expansion (expansion in volume)
+• Relation between the coefficients of linear, superficial
+and cubical expansion : α β γ = 1 2 3: : : :
+Practical Applications of Thermal
+Expansion
+• When hot tea is poured into a glass tumbler made of
+soft glass, it cracks because of thermal expansion of
+glass.
+• Telegraph wires are given enough gap to allow the wires
+for contraction in winter.
+• An ordinary pendulum clock runs faster in winter but
+slower in summer, because in summer the length of
+pendulum increases, while in winter it decreases.
+• A metallic ball before heating can pass easily through the
+ring, but after heating the ball does not pass through the
+ring because of the thermal expansion of ball.
+• A gap is provided between the iron rails of the railway
+track, so that rails can easily expand during summer and
+do not bend. In the construction of bridges, ends of
+steel gerders are not fixed but placed on rollers to allow
+free expansion and contraction in summer and winter
+respectively to avoid any damage to the bridge.
+• A tightly fitted cork can be removed from a glass bottle
+without breaking it on heating its mouth carefully. The
+glass wall expand and the cork will come out easily.
+Expansion of Liquids
+• Liquids do not have their definite length and surface
+area. It always need a container. When they are heated,
+they expand and at the same time the container also
+expands.
+• The expansion of a liquid, when the expansion of its
+container has not been taken into account is called
+apparent-expansion .
+• The expansion of a liquid, when the expansion of its
+container is taken into account, is called real expansion .
+Anamalous Expansion of Water
+Almost every liquid expands with the increase in
+temperature. But when temperature of water is increased
+from 0°C to 4°C its volume decreases. If the temperature is
+increased above 4°C its volume starts increasing, clearly
+density of water is maximum at 4°C.
+Interconversion of States of Matter
+The temperature at which solid starts to liquify is known
+as melting point of that solid.
+• The process in which a solid changes into a liquid on
+heating is called melting solid. Change of state takes
+place i.e. ice changes into water.
+• The process in which a liquid changes into a solid is
+called fusion. The temperature at which liquid starts to
+freeze is known as freezing point of the liquid.
+• The process in which a liquid changes into a vapour on
+heating is called vaporisation. The temperature at which
+the liquid starts to evaporate is called the boiling point
+where change of state takes place i.e. water changes into
+water vapour or steam.
+• The process of change of state directly from solid to
+vapour (or gas) is known as sublimation.
+LATENT HEAT
+It is the amount of heat absorbed by a unit mass of the
+substance to change its state without change in temperature .
+• SI unit of latent heat is joule per kilogram.
+• Latent heat of fusion is 80 cal/g and vaporisation is
+540 cal/g.
+• Ice at 0°C is more effective in cooling a substance than
+water at 0°C.
+• If Q is quantity of heat absorbed (or given out), then
+Q mL=
+where, m = mass of the substance
+L = latent heat of substance.
+• Steam contains more heat, in the form of latent heat,
+then boiling water.
+• The burns caused by steam are much more severe than
+those caused by boiling water though both of them are
+at the same temperature of 100°C.
+EVAPORATION
+It is the slow process of conversion of a liquid into its
+vapour even below its boiling temperature.
+• Cooking is caused by evaporation due to expansion.
+• Factors affecting the evaporation of a liquid are
+– the area of the liquid surface
+– the nature of the liquid
+– temperature of the liquid
+– dryness of air
+– the movement of the air
+– temperature of air or surrounding
+
+--- PDF PAGE 800 ---
+RELATIVE HUMIDITY
+The ratio of amount of water vapour ( )m actually present
+in a certain volume of air at a given temperature to the
+amount of water vapour ( )M required to saturate it, is
+called relative humidity, R
+H.
+R m
+MH = × 100%.
+• The amount of water vapour in air is called as
+humidity.
+• The amount of water vapour in the air varies as it
+depends on the rate of evaporation.
+• The amount of water vapour present in 1 m 3 air is
+called its absolute humidity.
+• Relative humidity is measured by hygrometer.
+• Relative humidity increases with the increases of
+temperature.
+THERMODYNAMICS
+Thermodynamics is a branch of physics which deals with
+exchange of heat energy between bodies and conversion
+of the heat energy into mechanical energy and
+vice-versa.
+First Law of Thermodynamics The amount of heat
+given to a system is used up in two ways, first to
+increase the internal energy and second to do the
+external work. i.e.
+dQ dU dW= + .
+Second Law of Thermodynamics The second law of
+thermodynamics is the outcome of human experience
+under which heat energy can be converted into
+mechanical energy. This law is based upon the two
+statements given below.
+(i) It is impossible to construct a device which operates
+in a cycle that will take heat from a body and
+convert it completely into the work.
+(Kelvin-Planck’s Statements)
+(ii) It is impossible to construct a self acting device
+which operates in a cycle that will transfer heat
+from a cold body to a hot body without
+expenditure of work (Clausius Statement).
+Nature of Internal Energy
+• According to the kinetic modal of matter, every
+substance is composed of molecules which are in
+constant motion inside the substance. Hence,
+molecules posses kinetic energy.
+• Molecules also exert force on one another which is
+called intermolecular force, hence they posses potential
+energy also. The kinetic energy and potential energy
+of molecules is the internal energy of the substance.
+• The internal energy of an ideal gas is only the kinetic
+energy of its molecules which depends only upon the
+temperature of the gas.
+Difference between Petrol Engine and Diesel Engine
+Petrol engine Diesel engine
+It works with a spark plug. It works with an oil plug.
+Efficiency is smaller (47%). Efficiency is larger ( 55 %).
+It is associated with the risk of
+explosion, because petrol vapour and
+air is compressed. So, low
+compression ratio is kept.
+No risk of explosion, because only
+air is compressed. Hence,
+compression ratio is kept large.
+Petrol vapour and air is created with
+spark plug.
+Spray of diesel is obtained through
+the jet.
+Transmission of Heat
+Transfer of heat from one place to other place is called
+transmission of heat.
+There are three processes by which transmission of heat take s
+place.
+(a) Conduction (b) Convection (c) Radiation
+• In solids, transmission of heat takes place by conduction
+process.
+• In liquids and gases heat takes place by convection
+process.
+• Heat from the sun reaches on the earth by radiation.
+• Mercury though a liquid is heated by conduction and not
+by convection.
+• In rooms, ventilators are provided to escape the hot air by
+the process of convection.
+• Air is poor conductor of heat.
+• On a cold night two thin blankets gives more hotness than
+a single thick blanket because the layer of air between the
+two blankets works as better insulator of heat.
+• Cooking utensils are made up of aluminium, brass and
+steel, because these substances have low specific heat and
+high conductivity.
+KIRCHHOFF’S LAW
+Kirchhoff’s law signifies that good absorbers are good
+emitters. If a shining metal ball with some black spot on its
+surface is heated to a high temperature and seen in dark, the
+shining ball becomes dull but the black spots shines
+brilliantly because black spot absorbs radiation during he ating
+and emit in dark.
+• White and light colours are bad absorbers and good
+reflectors of heat.
+• In deserts, day temperature is very high and night
+temperature is extremely low because the specific heat of
+sand is very low. Therefore, it absorbs the heat readily and
+its temperature raises by a large degree during day. At
+night sand radiates the heat equally readily making the
+temperature loss.
+Perfectly Black Body A perfectly black body is one which
+absorbs completely all the radiations falling on its surfac e,
+whatever be the wavelength.
+595GENERAL SCIENCE Physics
+
+--- PDF PAGE 801 ---
+596 CDS Pathfinder
+Perfectly black body is a perfect absorber hence,
+according to Kirchhoff’s law, it will also be a perfect
+radiator. It is not essential that a perfectly black body
+should appear black. Sun emits radiation of all
+wavelength, so it may be called a black body, even
+though it looks white.
+Stefan’s Law The radiant energy emitted by unit area of
+perfectly black body per unit time is directly
+proportional to the fourth power of its absolute
+temperature.
+E T E T∝ ⇒ =
+4 4 σ
+where, σ is Stefan's constant.
+➨Note Wein's displacement law can be used to compute the
+temperature of the sun or of the stars.
+Newton’s Law of Cooling The rate of loss of heat by a
+body is directly proportional to the difference in
+temperature between the body and the surrounding.
+If the door of refrigerator is kept open, it will not cool the
+room, it will increases the temperature of the room, because
+heat rejected by the refrigerator to the room, will be more
+than the heat taken by the refrigerator from the room.
+OSCILLATIONS AND WAVES
+PERIODIC MOTION
+When a body repeats its motion continuously on a definite
+path in a definite interval of time, then its motion is called
+periodic motion and the interval of time is called time
+period. Motion of hands of a clock, motion of earth around
+the sun and motion of the needle of a sewing machine are
+examples of periodic motion.
+Oscillatory Motion
+If a body in periodic motion moves along the same path
+to and fro about a definite point (mean position or
+equilibrium position), then the motion of the body is a
+vibratory motion or oscillatory motion. Oscillatory motio n
+is also called as harmonic motion.
+• The motion of the pendulum of a wall clock, the motion
+of the bob of a simple pendulum, the motion of a loaded
+spring, the motion of liquid contained in a U-tube , the
+motion of the prongs of tuning fork and the motion of a
+bar magnet suspended in the earth’s magnetic field are
+examples of oscillatory motion.
+• All oscillatory motions are periodic motions, but all
+periodic motions are not oscillatory.
+SIMPLE HARMONIC MOTION
+(SHM)
+If a particle repeats its motion about a fixed point after a
+regular time interval in such a way that at any moment the
+acceleration of the particle is directly proportional to it s
+displacement from the fixed point at that moment and is
+always directed towards the fixed point, then the motion
+of the particle is called simple harmonic motion.
+• Vibrations of the prongs of a tuning fork, oscillations of
+a body. Suspended by a spring. Oscillations of a body
+partly immersed in a liquid and oscillations of a simple
+pendulum are examples of simple harmonic motion.
+• When a particle executing SHM passes through the mean
+position, then
+– no force acts on the particle.
+– velocity is maximum.
+– acceleration is zero.
+– kinetic energy is maximum.
+– potential energy is zero.
+• When a particle executing SHM is at the extreme end,
+then
+– velocity of particle is zero.
+– acceleration of the particle is maximum.
+– kinetic energy of particle is zero.
+– potential energy is maximum.
+– restoring force acting on particle is maximum.
+• In case of spring block system, time period of oscillation
+is given by
+T m
+k
+= 2π , where m is the mass of the block.
+• In case of spring block system, the restoring force
+F kx= −
+where, x is displacement of the block from mean
+position and k is spring constant.
+RESTORING FORCE
+When oscillating particle is displaced from its equilibriu m
+position, then a periodic force acts upon it which is always
+directed towards the equilibrium position. This force is
+called restoring force.
+Simple Pendulum
+A simple pendulum consists of a small metal ball
+suspended by a long thread from a rigid support, such that
+the bob is free to swing back and forth.
+• The distance of the pendulum from its mean position is
+called its displacement.
+• The maximum displacement of the pendulum on either
+side of its mean position is called the amplitude of
+oscillations.
+• Time period is the time taken by the pendulum to
+complete one full oscillation.
+
+--- PDF PAGE 802 ---
+• Frequency is the number of full oscillations completed by
+pendulum in one second.
+• Second pendulum is one whose time period is 2s.
+• Time period of simple pendulum T L
+g
+= 2π , where L is length
+of thread and g is the acceleration due to gravity.
+• The time period of a simple pendulum of infinite length is 84. 6
+min. A pendulum clock goes slow in summer and fast in winter.
+• If a simple pendulum is suspended in a lift descending down
+with acceleration, then time period of pendulum will increa se. If
+lift is ascending, then time period of pendulum will decreas e.
+• If a lift falling freely under gravity, then the time period o f the
+pendulum will be infinite.
+• At moon, the time period of simple pendulum increases becaus e
+acceleration due to gravity at moon is lesser.
+➨Note Every body inside a satellite remains in a state of weightles sness, that
+is the effective value of g remains zero. Hence, a pendulum inside a satellite
+will not oscillate. Therefore, the pendulum clock cannot wo rk inside space
+satellites.
+Oscillation of Liquid Column in a U-tube
+If a liquid is taken in a U-tube, it maintains equal level in bo th the
+columns of the tube. When air is blown-in on side B, the liquid
+may go down upto point D. The displacement of the liquid is
+given by BD x= .
+In the second column, the
+liquid goes upto E and the
+displacement is CE. As the
+applied force is withdrawn,
+the liquid level in the second
+column comes down because
+of gravity from E to C. But
+due to inertia, it overshoots the mark C and goes to F CF x( ) = ,
+whereas the liquid in the other column also goes up by the same
+distance.
+Thus, the liquid starts oscillating in both the columns. Thi s
+motion of the liquid in the U-tube is SHM with time period,
+T h
+g
+= 2π where, h is the height of liquid in each column.
+WAVES
+A wave is a disturbance which propagates energy
+from one place to the other without the transport
+of matter.
+These are of two types
+Mechanical Waves
+The waves which require material medium (solid,
+liquid or gas) for their propagation are called
+mechanical waves or elastic waves. These are of two
+types
+(i) Longitudinal Waves If the particles of the
+medium vibrate in the direction of propagation
+of wave, the wave is called longitudinal waves.
+Waves on springs or sound waves in air are
+examples of longitudinal waves.
+(ii) Transverse Waves If the particles of the
+medium vibrates perpendicular to the direction
+of propagation of wave, the wave is called
+transverse waves.
+Waves on strings under tension, waves on the
+surface of water are examples of transverse
+waves.
+Electromagnetic Waves
+The waves which do not require any medium for
+their propagation i.e. which can propagate even
+through the vacuum are called electromagnetic
+waves. They propagate as transverse wave.
+• Electromagnetic waves of wavelength range 10 3−
+m to 10 2− m are called microwaves.
+• Microwaves are absorbed by water molecules and
+living tissue internal heating will damage or kill
+cells.
+• Microwaves are used in communications,
+satellites, telephony, heating water and food.
+➨Note Cathode rays, canal rays, α -rays, β-rays are not
+electromagnetic waves. Light and heat are examples of
+electromagnetic waves.
+597GENERAL SCIENCE Physics
+Spectrum of Electromagnetic Waves
+Electromagnetic Waves Discoverer Wavelength range
+(in metre)
+Frequency
+range Uses
+γ-rays Henry Becqueral 10
+14− to 10 10− 1020 to 1018 Medical tracers, killing cancerous cells,
+steralisation, imaging defects in metal.
+X-rays W Roenetgen 10
+10− to 10 8− 1018 to 1016 Imaging defects in bones, hidden devices.
+Ultraviolet rays Ritter 10 8− to 10 7− 1016 to 1014 Making vitamin D, making ions.
+Visible radiation Newton 3 9 10 7. × − to 7 8 10 7. × − 1014 to 1012 Photography
+Infrared rays Hershel 7 8 10 7. × − to 7 8 10 3. × − 1012 to 1010 TV remote control
+Short radio waves
+or Hertz hertzian waves
+Heinrich 10
+3− to 1 1010 to 108 Communication, radio, TV.
+Long radio waves Marcony 1 to 104 108 to 106 Communication, radio, TV.
+B C
+h
+B C
+E
+Fx
+x
+D
+
+--- PDF PAGE 803 ---
+598 CDS Pathfinder
+Important□Terms□Related□to□Waves
+• Amplitude (A) Maximum displacement of a vibrating
+particle of medium from its mean position is called
+amplitude.
+• Wavelength (λ ) Wavelength is the distance between any
+two nearest particle of the medium, vibrating in the
+same phase.
+• Frequency ( f ) Frequency of vibration of a particle is
+defined as the number of vibrations completed by
+particle in one second.
+Frequency
+= 1
+Time period
+• Velocity of wave ( v) = Frequency ( f ) × Wavelength ( )λ
+Waves□in□Different□Frequency□Range
+According to their frequency range, longitudinal
+mechanical waves are divided into the following categories :
+• The longitudinal mechanical waves which lie in the range
+20 Hz to 20000 Hz are called audible or sound waves .
+Human ears are sensitive to the waves in this frequency
+range.
+• The longitudinal mechanical waves having frequencies
+less than 20 Hz are called infrasonic. These are
+produced by earthquakes, volcanic eruption, ocean waves
+and elephants and whales.
+• The longitudinal mechanical waves having frequencies
+greater than 20000 Hz are called ultrasonic waves .
+• Human ear cannot detect the ultrasonic waves. But
+certain creatures like dog, cat, bat, mosquito can detect
+these waves. Bat also produces ultrasonic waves.
+• Ultrasonic waves are used for sending signals, measuring
+the depth of sea, cleaning clothes and machinery parts of
+clocks removing lamp shoot from chimney of factories
+and in ultrasonography.
+• The use of ultrasonic waves to investigate the action of
+the heart is called echocardiography.
+Sound Waves
+Sound wave is the form of energy which make us hear and
+having frequency and high wavelength. These can not
+travel in vacuum. It is of two types i.e. longitudinal wave
+and mechanical wave.
+• The rebouncing back of sound when it strikes a hard
+surface is called reflection of sound . The reflection of
+sound is utilised in working of devices such as
+megaphone, bulbhorn, stethoscope and sound board.
+• The repetition of sound caused by the reflection of
+sound waves is called an echo. In addition to curtains,
+carpets and sofa-sets in our rooms also reduce the
+formation of echoes by absorbing sound waves.
+• The persistence of sound in a big hall due to repeated
+reflections from walls, ceiling and floor of the hall is
+reverberation.
+• To hear echo, the minimum distance between the observer
+and reflection should be 17. Persistance of ear is 1/10 s.
+• At the moon, the echo is not heared due to absence of
+atmosphere.
+SONAR
+It stands for sound navigation and ranging. It is used to
+measure the depth of a sea and to locate the submarines
+and shipwrecks. The transmitter of a sonar produces pulses
+of ultrasonic sound waves of frequency of about 50000 Hz.
+The reflected sound waves are received by the receiver.
+Speed of Sound
+The distance travelled by sound wave in one second is
+known as speed of sound wave. i.e.
+Speed of sound, v Frequency Wavelength= ×
+• Speed of sound basically depends upon elasticity and
+density of medium. The speed of sound in a medium is
+given by
+v E
+d
+= , where E is modulus of elasticity of
+the medium and d = density.
+• For gases, v p
+d
+= γ
+where, p is pressure and γ is ratio of specific heats.
+• Speed of sound is maximum in solids and minimum in
+gases. Speed of sound in air is 332 m/s, 1483 m/s in
+water and 5130 m/s in iron.
+• When sound enters from one medium to another
+medium, its speed and wavelength changes but frequency
+remains unchanged.
+• Speed of sound remains unchanged by the increase or
+decrease of pressure.
+• The speed of sound increases with the increase of
+temperature of the medium. The speed of sound in air
+increases by 0.61 m/s, when the temperature is
+increased by 1°C.
+• The speed of sound is more in humid air than in dry air
+because the density of humid air is less than the density
+of dry air.
+• The speed of sound in air is very slower as compared to
+the speed of light in air. Therefore, in rainy season, the
+flash of lightning is seen first and the sound of thunder
+is heard a little later.
+➨Note The astronauts who land on moon, talk to one another
+through wireless sets using radio waves.
+Characteristics of Sound Waves
+There are following characteristics of sound waves.
+Intensity
+Intensity of sound at any point in space is defined as
+amount of energy passing normally per unit area held
+around that point per unit time. SI unit of intensity is
+W / m
+2.
+
+--- PDF PAGE 804 ---
+• Intensity of sound at a point is inversely
+proportional to the square of the distance of point
+from the source and directly proportional to the
+square of amplitude of vibration, square of
+frequency and density of the medium.
+• The loudness depends on intensity as well as on
+sensitivity of ear.
+• The loudness of sound is measured in decibel (dB).
+• Sound level, β = 
+
+
+10
+10
+0
+log I
+I
+where, I0 = the minimum intensity that can be heard
+called threshold of hearing 10 12− W/m 2 at 1 kHz.
+Standard value of noise pollution
+Areas Day time (dB) Night time (dB)
+Industrial area 75 70
+Commercial area 65 55
+Residential area 55 45
+Silence 50 40
+➨Note Likewise intensity of sound wave, intensity of an
+earthquake defines the energy released by it which is indica ted
+by the local effects and potential for damage produced on the
+earth’s surface. It can be measured by a seismograph.
+Pitch
+It is that characteristic of sound, which distinguishes a
+sharp sound from a grave sound.
+• Pitch depends upon frequency of sound waves.
+• The pitch of female voice is higher than the pitch of
+male voice.
+• The pitch of sound produced by roaring of lion is
+lower whereas the pitch of sound produced by
+mosquito whisper is high.
+Quality (or Timbre)
+It is that characteristic of sound which enables us to
+distinguish between sounds produced by two sources
+having the same intensity and pitch.
+SHOCK WAVES
+A body moving with supersonic speed in air leaves
+behind it a conical region of disturbance which spreads
+continuously. Such a disturbance is called shock
+waves.
+• These waves carry huge energy and may even make
+cracks in window panes or even damage a building.
+• The speed of supersonic wave is measured in mach
+number. One mach number is the ratio of velocity
+of source to the velocity of sound.
+• Mach number = Velocity of source
+Velocity of sound
+– If mach number > 1, body is called supersonic.
+– If mach number > 5, body is called hypersonic.
+– If mach number < 1, body is said to be moving with
+subsonic speed.
+Resonance
+• If however, the frequency of the external force is equal to
+the natural frequency of the body, then the amplitude of the
+forced oscillations of the body becomes quite large. This
+phenomenon is called resonance.
+• A group of soldiers on a bridge are advised not to walk in
+steps because their movement causes the bridge to vibrate. I f
+they walk in step, the frequency of vibration may match the
+natural frequency of the bridge structure and thus causing
+resonance. This resonance of frequency can cause the bridge
+to collapse.
+Some Definitions Regarding Waves
+Interference When two waves of same frequency, same
+wavelength, same velocity moves in the same direction. Thei r
+superimposition results in the interference. In interfere nce,
+energy is neither created nor destroyed but is redistribute d.
+Beat When two sound waves of slightly different frequencies,
+travelling in a medium along the same direction, superimpos e
+on each other, the intensity of the resultant sound at a
+particular position rises and falls regularly with time. Th is
+phenomenon of regular variation in intensity of sound with
+time at a particular position is called beats.
+Progressive Waves The disturbance produced in the medium
+travels onward, it being handed over from one particle to the
+next. Each particle executes the same type of vibration as th e
+preceding one, though not at the same time.
+Stationary Waves When combination of two waves moving in
+opposite directions, each having the same amplitude and
+frequency.
+DOPPLER’S EFFECT
+If there is a relative motion between source of sound and
+observer, the apparent frequency of sound heard by the
+observer is different from the actual frequency of sound
+emitted by the source. This phenomenon is called Doppler’s
+effect.
+When the distance between the source and observer decreases ,
+the apparent frequency increases and vice-versa.
+Uses of Doppler’s Effect
+(i ) By police to check over speeding of vehicles.
+(ii ) At airport to guide the aircraft.
+(iii ) To study heart beats and blood flow in different parts on
+the body.
+(iv) It is used to determine the velocities of which stars and
+galaxies are moving toward or away from the earth.
+599GENERAL SCIENCE Physics
+
+--- PDF PAGE 805 ---
+600 CDS Pathfinder
+OPTICS
+LIGHT
+It is the radiation which makes our eyes able to see the
+object. Its speed is 3 10
+8× m/s in vacuum.
+• Light is the form of energy. It is a transverse wave and it
+takes 8 min 19 s to reach on the earth from the sun.
+• The light reflected from the moon takes 1.28 s to reach
+the earth.
+• It represents the phenomenon of reflection, refraction,
+interference, diffraction, scattering and polarisation.
+Reflection of Light
+Reflection is the phenomenon of change in the path of light
+without any change in its medium. In reflection, the
+frequency, speed and wavelength do not change, but a
+phase change may occur depending on the nature of
+reflecting surface.
+Laws of Reflection
+• The angle of reflection ( )∠ r is always equal to the angle
+of incidence ( )∠ i i.e. ∠ = ∠i r .
+• The incident ray, the reflected ray and the normal at the
+point of incidence all lie in the same plane.
+MIRROR
+It is a polished surface (one side) like glass, which reflect s
+almost all the light that is incident on it.
+There are two types of mirror
+Plane Mirror
+If the reflecting surface of a mirror is plane, then the
+mirror is called a plane mirror .
+• Size of image is always equal to the size of object.
+• The minimum size of the mirror required to see the full
+image of an observer is half the height of the observer.
+• If the plane mirror is rotated in the plane of incidence by
+an angle θ, then the reflected ray rotates by an angle 2θ.
+• If the object is displaced by a distance x towards or
+away from the mirror, then its image will be displaced
+by a distance x towards or away from the mirror.
+• Focal length of plane mirror is infinity i.e. power of the
+plane mirror is zero.
+• Linear magnification produced by plane mirror is 1.
+• When two plane mirrors are kept facing each other at an
+angle θ and an object is placed between them, then
+(i) Number of images,
+n = ° −360 1
+θ
+If 360 °
+θ
+, is even or object lies symmetrically.
+(ii) Number of images, n = °
+ 
+360
+θ
+. If
+360 °
+ 
+θ
+is odd
+or the object lies symmetrically.
+Uses of the Plane Mirror
+(i) Plane mirrors are used as looking glass.
+(ii) Plane mirrors are used in constructing periscope
+which is used in submarines.
+(iii) Plane mirror are used to make kaleidoscope.
+Spherical Mirrors
+Spherical mirrors can be regarded as a part of a hollow
+reflecting spheres of glass. These are of two types
+(i) Concave mirror ( ii ) Convex mirror
+Concave mirror The spherical mirror whose reflecting
+surface is inwardly leaned, called concave mirror. It is als o
+called converging mirror.
+Convex mirror The spherical mirror whose reflecting
+surface is outwardly leaned, called convex mirror. It is als o
+called diverging mirror.
+Real Image
+• Real images can be formed on a screen by the actual
+intersection of reflected (or refracted) light rays.
+• The image formed on a cinema screen is a real image.
+• A concave mirror forms real image, when an object is
+placed beyond its focus.
+Mirror Point of incidence
+Reflected ray
+B
+ri
+A
+Incident ray
+Normal
+N
+P
+Reflection of Light
+A
+Principal axis
+Centre of
+curvature
+C F B P
+PoleFocus
+f
+Concave mirror
+Pole (P)
+FocusF C
+Principal
+axis
+Centre of
+curvature
+Convex mirror
+
+--- PDF PAGE 806 ---
+601GENERAL SCIENCE Physics
+Virtual Image
+• Virtual images cannot be formed on the screen by the
+apparent intersection of reflected (or refracted) light
+rays.
+• The image of our face when we look into a plane
+mirror is a virtual image. A concave mirror forms a
+virtual image, when an object is placed between focus
+and pole of the mirror.
+Position of
+object
+Position of
+image
+Size of image Nature of
+image
+At infinity At F Highly diminished Real and
+inverted
+Between infinity
+and C
+Between F and C Diminished -do-
+At C At C Same size -do-
+Between F and C Between infinity
+and C
+Enlarged -do-
+At F At infinity Highly enlarged -do-
+Between F and P Behind the pole Enlarged Virtual and
+erect
+Position of
+object
+Position of
+image
+Size of
+image
+Nature of
+image
+At infinity At F Highly diminished Erect and
+virtual
+Between infinity
+and pole
+Between F
+and P
+Diminished in size Erect and
+virtual
+Image Formation by
+Concave Mirror
+The following are the positions and nature of the images
+formed in a concave mirror for different positions of the
+object
+(i) When the object is at infinity Image is
+formed at F.
+(ii) When the rays are parallel to the principal
+axis The image is formed at F.
+(iii) When the object is between infinity and C
+The image formed is real, inverted and smaller in
+size and is formed between F and C.
+(iv) When the object is at C The image formed is
+inverted, real, equal in size and is formed at C
+itself.
+(v) When the object is between F and C The
+image is formed beyond C and is inverted, real and
+larger than the object.
+(vi) When the object is at focus The image is
+formed at infinity. The image is real, inverted and
+infinitely large in size.
+(vii) When the object is between F and P The images
+formed behind the pole. The image is virtual, erect
+and large.
+From infinity
+C F
+Concave mirror
+P
+From
+infinity
+C
+F
+Concave mirror
+Image
+PB
+A
+C F
+Concave mirror
+P
+A′
+B′
+Image
+B
+Object
+D
+E
+A
+F
+Concave mirror
+PB
+CB'
+A′
+A
+Object
+Image
+D
+E
+Concave mirror
+P
+DA
+B
+C F
+Object
+A′
+B′
+Concave mirror
+P
+D
+E
+B
+A
+C
+F
+Object
+At infinity
+P
+P
+A′
+B′
+B
+A
+FC
+Object Image
+
+--- PDF PAGE 807 ---
+602 CDS Pathfinder
+Image Formation by Convex Mirror
+(i) When the object is at infinity The image is formed
+at focus.
+(ii) When the object is between infinity and pole
+The image is formed between pole and focus.
+MIRROR FORMULA
+• If v is the image distance, u is the object distance and f
+is the focal length of a mirror, then 1 1 1 2
+v u f R
++ = =
+• The linear magnification ( m) produced by a mirror is
+equal to the ratio of the image distance to the object
+distance with negative sign,
+m v
+u
+f
+f u
+f v
+f
+= − =
+−
+= −
+• If the magnification has positive sign, then the image is
+virtual and erect.
+• If the magnification has negative sign, then the image is
+real and inverted.
+Uses of Spherical Mirrors
+Concave Mirrors
+• These are used as reflectors in automobiles (car, buses,
+etc.), head light, search light, hand torches and table
+lamps.
+• These are used as shaving mirrors.
+• These are used by doctors for focussing intense light to
+examine inside of eye, ears, etc.
+• Large concave mirrors are used in the application of
+solar energy, to focus the sun’s rays for heating solar
+furnaces etc.
+Convex Mirrors
+• These are used as rear-view mirrors in automobiles as
+they give large view of the traffic.
+• Big convex mirrors are used as shop security mirrors.
+• These are used wherever we want to see erect images.
+➨Note We cannot use a concave mirror as a rear-view mirror in
+motor vehicles.
+REFRACTION OF LIGHT
+When a ray of light passes from one medium to other, it
+bends from its path. This phenomenon of bending of light
+is called as refraction of light.
+• When light passes from rarer medium to a denser
+medium, it bends towards the normal at the point of
+incidence.
+• When light passes from a denser medium to a rarer
+medium, it bends away from the normal.
+• When a ray of light enters from one medium to other
+medium its frequency and phase do not change but
+wavelength and velocity change.
+Laws of Refraction
+• The incident ray, the refracted ray and the normal at the
+point of incidence all lie in the same plane.
+• The ratio of the sine of the angle of incidence to the
+sine of the angle of refraction is a constant for a given
+medium.
+sin
+sin
+i
+r
+= µ [Snell’s law]
+where, µ is refractive index of the second medium with
+respect to first.
+/c81
+µ µ
+µ
+= = 2
+1
+c /v
+c / v
+2
+1
+∴ µ = v
+v
+1
+2
+or 1µ2 = v
+v
+1
+2
+where, v1 is speed of light in first medium and v2 is speed
+of light in second medium.
+Some Illustrations of Refraction
+• Twinkling of stars.
+• Oval shape of sun in the morning and evening.
+• Bending of a linear object when it is partially dipped in
+a liquid inclined to the surface of the liquid.
+• A fish in a pond when viewed from air appears to be at
+a smaller depth than actual depth.
+• A coin at the base of a vessel filled with water appears
+raised.
+TOT AL INTERNAL REFLECTION
+In case of propagation of light from denser to rarer
+medium through a plane boundary. Critical angle is the
+angle of incidence for which angle of refraction is 90°.
+• If light is propagating from denser medium towards the
+rarer medium and angle of incidence is more than critical
+angle, then the light incident on the boundary is
+reflected back in the denser medium, obeying the law of
+reflection. This phenomenon is called total internal
+reflection.
+Image
+B′B
+Object at
+infinity
+A′
+F
+Convex mirror
+Image
+B′
+A
+B
+Object
+E
+P
+M
+A′
+F C
+Convex mirror
+
+--- PDF PAGE 808 ---
+• Conditions of Total Internal Reflection
+– Light must be propagating from denser to rarer
+medium.
+– Angle of incidence must exceeds the critical angle.
+• Sparkling of diamond, mirage and looming, shinning
+of air bubble in water and optical fibre are the
+examples of total internal reflection.
+➨Note Optical fibre is used for the transmitting and receiving the
+electrical signals after converting it into the light signa l.
+SPHERICAL LENSES
+A lens is a piece of transparent glass bounded by two
+spherical surfaces.
+There are two types of lenses
+(i) Convex lens (converging lens) A lens which is
+thicker at the centre and thinner at its ends.
+(ii ) Concave lens (diverging lens) A lens which is
+thinner at the centre and thicker at its ends.
+• The centre point of a lens is known as its optical
+centre.
+• The line joining the centres of the surfaces of the lens
+is called the principal axis of the lens.
+• The distance of the first focus from the optical centre
+of the lens is called the first focal length of the lens.
+• The distance of the second focus from the optical
+centre of the lens is called the second focal length or
+the principal focal length.
+Position of
+object Position of image Size of image Nature of
+image
+At infinity At F2 Highly
+diminished
+Real and
+inverted
+Beyond 2
+1F Between F2 and 2 2F Diminished -do-
+At 2 1F At 2 2F Same size -do-
+Between 2 1F
+and F1
+Beyond 2 F2 Enlarged -do-
+At F1 At infinity Highly enlarged -do-
+Between F1
+and lens
+Behind the object,
+on the same side of
+the object
+Enlarged Virtual and
+erect
+Position of
+object
+Position of
+image Size of image Nature of
+image
+At infinity At F2 Diminished Erect and
+virtual
+Between infinity
+and lens
+Between F
+2 and
+lens
+Diminished Erect and
+virtual
+Image Formation by a Convex Lens
+(i) Object at infinity The image formed is at second focus,
+real, inverted and highly diminished.
+(ii) Object beyond 2F1 The image formed is between F2
+and 2 2F on the right side of the lens, real, inverted and
+diminished.
+(iii) Object at 2 1F The image formed is at 2 2F , real, inverted
+and of same size as that of the object.
+(iv) Object between F1 and 2 1F The image formed is beyond
+2 2F , real, inverted and magnified.
+603GENERAL SCIENCE Physics
+Principal
+axis Optical
+centre
+F1F2
+Second
+focus
+First
+focusConcave
+lens
+(b)
+Optical
+centre
+Principal
+axis
+F2 Second
+focus
+First focus
+F1
+Convex lens
+(a)
+C
+A′
+Image
+F B2 ′
+Parallel rays from top
+point of distant object
+D
+Convex lens
+B
+A
+A
+F1
+Object
+at infinity
+C
+A′
+Image
+F2
+D
+Convex lens
+B
+Object
+F12F1
+B′ 2F2
+A
+O
+A′
+Image
+F2
+D
+Convex lens
+F12
+Object
+F1
+2F2
+A
+B′
+B
+O
+F2
+D
+Convex lens
+F1
+Object
+A
+2F1
+2F2 B′
+A′
+Image
+f
+2f
+B
+
+--- PDF PAGE 809 ---
+604 CDS Pathfinder
+(v) Object at F1 The image formed is real, inverted,
+and highly enlarged at infinity.
+(vi) Object between F1 and O The image formed is
+behind the object, virtual, erect and enlarged.
+Image Formation by a Concave Lens
+(i) Object at infinity The image formed is at F2,
+erect, virtual and diminished.
+(ii) Object anywhere between infinity and lens The
+image formed is between F2 and lens, erect, virtual
+and diminished.
+LENS FORMULA
+• If v is the image distance, u is the object distance and f
+is the focal length of a lens, then
+1 1 1
+f u
+= −
+v
+Magnification, m v
+u
+=
+= I
+O
+= Size of image
+Size of object
+• If the magnification m has a positive value, the image
+is virtual and erect. And if the magnification m has a
+negative value the image will be real and inverted.
+• If m is the total magnification of two lenses in contact
+having magnification m1 and m2, then
+m m m= × 1 2
+• Power ( P) of a lens is the reciprocal of focal length of lens
+i.e. P
+f
+= 1
+SI unit of power is dioptre (D).
+• If two or more lenses are combined, then
+– there is an increase in the magnification of image.
+– the final image is erect.
+– the spherical aberration is reduced.
+• If P is power of two lenses in contact having powers P1
+and P2, then
+P P P= +1 2 or 1 1 1
+1 2F f f
+= +
+• If two lenses of equal focal length but of opposite nature
+are in contact, then combination will behaves as a plane
+glass plate and f = ∞
+➨Note When lens is dipped in a liquid of higher refractive index the
+focal length increases and convex lens behaves as concave le ns and
+vice-versa.
+An air bubble trapped in water or glass appears as convex but b ehaves
+as concave lens.
+Properties of Light
+Dispersion of Light
+Sir Isaac Newton observed that when a narrow beam of light
+is incident on a prism, the emergent beam is not only
+deviated but at the same time splits up into a coloured band
+of seven colours. This phenomenon is called dispersion
+of light.
+• The seven colours of band are Violet, Indigo, Blue,
+Green, Yellow, Orange and Red (can be memorised as
+VIBGYOR).
+• The colour of an object is determined by the colour of the
+light reflected by it.
+• Violet colour deviates through maximum angle and red
+colour deviates through the minimum angle.
+• Rainbow is formed due to the dispersion of light suffering
+refractions and total internal reflection in the droplets
+present in the atmosphere.
+Primary Colours
+Red, green and blue are called primary colours or basic
+colours.
+Mixing of Colours
+Red + Green + Blue = White
+Red + Blue = Magenta
+Blue + Green = Peacock blue (or Cyan)
+Red + Green = Yellow
+A′
+OB′
+Object
+X
+Y
+F2
+DA
+B
+Object
+F1
+Convex lens
+O
+Concave lens
+F2
+ImageObject at
+infinity
+Concave lens
+F2
+A′ C
+OB′
+Image
+B
+Image
+A
+O
+Convex lens
+F1
+Object
+A
+B
+f
+D
+F2
+X
+Y
+
+--- PDF PAGE 810 ---
+• Magenta, Cyan and Yellow, etc., are called secondary
+colours.
+• A rose appears red, when day light falls on it because it
+absorbs all the constituent colour of white light except
+red which it reflects to us.
+• If all the colours of white light are reflected back from
+the object, then it appears white.
+• If all the colours of white light are absorbed by the
+object, then it appears black.
+• The natural colours of transparent objects are due to
+their selective transmission of light.
+Scattering of Light
+• When sunlight passes through the earth’s atmosphere,
+much of the light is absorbed by the fine dust particles
+and air molecules in the atmosphere which give out the
+absorbed light in some other direction. This is
+scattering of light.
+• The scattering of light by particle in its path is called
+Tyndall effect.
+• The blue coloured light present in white sunlight is
+scattered much more easily by air molecules causes the
+blue colour of the sky.
+• The sun and the surrounding sky appear red at sunrise
+and at sunset because at that time most of blue colour
+present in sunlight has been scattered out and away
+from our line of sight, leaving behind mainly red colour
+in the direct sunlight beam that reaches our eyes.
+• Dangers signals are of red colour because red colour of
+light scatter least and therefore signals can be see from
+far.
+• If the earth had no atmosphere, there would have been
+no scattering of sunlight at all. In that case, no light
+from the sky would have entered our eyes and the sky
+would have looked dark and black to us.
+Interference of Light
+When two waves of exactly same frequency travels in a
+medium, in the same direction simultaneously, then due to
+their superposition at same points, intensity of light is
+maximum while at some other points intensity is
+minimum. This phenomenon is called interference of light.
+• Thin layer of oil on water surface and soap bubbles
+show various colours in white light due to interference
+of waves reflected from the two surfaces of the film.
+• Polarisation is the only phenomenon which proves that
+light is a transverse wave.
+Diffraction of Light
+If an opaque obstacle is kept between a source of light
+and a screen, a sufficiently distinct shadow is obtained on
+the screen. This shows that light which travels the
+obstacle is small. There is a departure from straight line
+propagation and so the light bends round the corners of
+obstacle and enters in the geometrical shadow. This
+bending of the light is called diffraction.
+HUMAN EYE
+Human eye is an optical instrument which forms real image
+of the objects.
+• The ability of an eye to focus the distant objects as well
+as the nearby objects on the retina by changing the focal
+length of its lens is called accommodation.
+• Least distance of distinct vision is 25 cm.
+• Far point of normal eye is at infinity.
+Defect of Human Eye
+The ability to see is called vision. The defects of vision are
+known as defects of eye. There are following defects of
+human eye
+• Myopia A person suffering from myopia can see the
+near objects clearly while far objects are not clear;
+concave lens is used to remove it. The defect of eye called
+myopia is caused
+(i) due to high converging power of eye lens or
+(ii) due to eye ball being too long.
+• Hypermetropia A person suffering from
+hypermetropia can see the distant objects clearly but not
+the near objects. Convex lens is used to remove it.
+The defect of eye called hypermetropia is caused
+(i) due to low converging power of eye lens or
+(ii) due to eye ball being too short.
+• Presbyopia In the old age, the power of accomodation
+of the eye is so much lost that a person can neither see
+the near objects distinctly nor the distant objects. To
+correct this defect bifocal lens is used.
+• Astigmatism In this defect, a person cannot distantly
+see the horizontal and vertical lines, simultaneously at a
+normal distance. To correct this defect, cylindrical lens i s
+used.
+• Cataract In this defect, an opaque, white membrane is
+developed on cornea due to which a person losses power
+of vision partially or completely. This defect can be
+removed by removing this membrane through surgery.
+➨Note Colour blindness is a genetic disorder which occurs by
+inheritance. John Dalton was colour blind.
+Optical Magnifying Instruments
+Microscope
+A microscope is an instrument used to see objects that are
+too small for the naked eye.
+• A simple microscope consists of a convex lens of small
+focal length.
+• It is used to see the details of very small objects.
+• The magnifying power of a simple microscope is given by
+M D
+f
+D= +
+
+
+1 , is least distance of distinct vision.
+• For compound microscope m m mo e= × , where mo is
+magnification of objective lens and me is magnification of
+eye-piece.
+605GENERAL SCIENCE Physics
+
+--- PDF PAGE 811 ---
+606 CDS Pathfinder
+Telescope
+• Telescope is an optical instrument which is used for observi ng
+distinct images of heavenly bodies like stars, planets, etc .,
+when the final image is formed at infinity.
+• There are two types of telescopes
+– Astronomical telescope (invented by Kepler in 1611)
+– Galilean telescope (invented by Galileo in 1609)
+• In an astronomical telescope, the objective lens is a convex lens
+of large focal length but eye-piece is a convex lens of short
+focal length.
+• In Galilean telescope, the objective lens is a convex lens of
+large focal length but the eye-piece is a concave lens of shor t
+focal length.
+• Magnifying power of telescope, m f
+f
+o
+e
+= where fo
+is focal length of objective of the telescope and
+where f
+e is focal length of eye-piece of the
+telescope.
+• Length of telescope tube in astronomical telescope
+is
+L f f
+o e= +
+In Galilean telescope the length of telescope,
+L f f o e= + .
+➨Note Periscope consists of two plane mirrors inclined at an
+angle of 45°. The principle of working of periscope is based
+upon reflection and refraction.
+ELECTRIC CURRENT
+ELECTRIC CHARGE
+Charge is the basic property associated with matter due to
+which it produces and experience electrical and magnetic
+effects. The SI unit of electric charge is Coulomb.
+• Positively charged particles called protons and negativel y
+charged particles called electrons. A proton possesses a
+positive charge of 1 6 10
+19. × − C, whereas, an electron
+possesses a negative charge of 1 6 10 19. × − C.
+• Similar charges repel each other and opposite charges
+attract each other.
+Conservation of Charges
+When two or more charged bodies come in contact, then
+total charge on all the bodies are conserved.
+• Conductors are those substances which allow passage of
+electrical charges to flow through them and have very
+low electrical resistance e.g. copper, aluminium, gold,
+silver, etc.
+• Human body and earth act like a conductor. Silver is the
+best conductor.
+• Charges are always distributed on the surface of the
+conductor.
+• Resistors offer high resistance to the flow of current
+through them e.g. eureka, nichrome, etc.
+• Insulators have infinite resistance and do not allow the
+passage of current. e.g. rubber, glass, ebonite, etc.
+➨Note The presence of free electrons in a substance makes it a
+conductor.
+Coulomb’s Law
+• The force of attraction or the force of repulsion acting
+between the two point charges is proportional to the
+product of the magnitudes of the two charges and
+inversely proportional to the square of the distance
+between them i.e.
+F q q
+r
+= 1
+4 0
+1 2
+2πε
+Electric Field
+The region around an electric charge in which its effect can
+be experienced is called the electric field.
+Electric field intensity
+(E F
+q
+) =
+0
+Electric Potential
+The electric potential at a point in an electric field is the
+work done in bringing a unit positive charge from infinity
+to that point.
+• Electric potential = Work done
+Charge
+. Its SI unit is volt (V).
+• Potential difference ( )V VA B− between two points A and
+B is the work done in bringing a unit charge from point
+B to point A.
+• Potential difference is a scalar quantity and is measured
+by means of voltmeter (a high resistance device).
+• The electric potential inside a spherical surface is same at
+each point and is equal to the potential on the surface.
+• Electrical potential on earth is considered to be zero.
+• A voltmeter connected in parallel with conductor to
+measure the potential difference across its ends.
+• Voltage is the other name for potential difference.
+Electric Current
+• The rate of flow of electric charges through any
+cross-section of conductor is called electric current.
+• The direction of positive charges is same as direction of
+conventional current.
+• Current Charge
+Time
+= ⇒ I Q
+t
+=
+• The SI unit of electric current is ampere.
+• Current is measured by an instrument called ammeter.
+• An ammeter is connected in series with the conductor to
+measure the current passing through it.
+
+--- PDF PAGE 812 ---
+• There are two types of electric current ( i ) Alternating
+current (AC) and ( ii) Direct current (DC).
+• Alternating current is used in houses and factories and its
+frequency is 50 Hz.
+• Ordinary DC ammeter and DC voltmeter cannot
+measure alternating current/voltages. They record zero
+reading, when used in AC circuits, because average value
+of alternating current/voltage over a full cycle is zero.
+Galvanometer
+It is a device used to detect and measure electric current in
+a circuit. It can measure current up to 10
+6− A.
+A galvanometer can be converted into a voltmeter by
+connecting a very high resistance in its series.
+➨Note Conventionally the direction of electric current is opposi te to
+that of electrons. Since, electrons flow from negative term inal of a
+cell to its positive terminal, electric current flows from p ositive
+terminal to negative terminal.
+Capacitor
+A capacitor or condenser is a device over which a large
+amount of charge can be stored.
+• Capacitance of capacitor (C) Charge
+Potential
+= ( )
+( )
+Q
+V
+• Its unit is coulomb/volt or farad.
+• A capacitor is used in several electrical devices having an
+electric motor and in several electronic circuits.
+OHM’S LAW
+If the physical circumstances of the conductor. (length,
+temperature, etc) remains constant then the current flowin g
+through the conductor is directly proportional to the
+potential difference across its ends.
+i.e. I V∝
+or V IR= , where R is resistance.
+Resistance
+The resistance of a conductor is directly proportional to it s
+length and inversely proportional to its cross-sectional a rea.
+If l and A are respectively length and cross-sectional area of
+a conductor and R is its resistance, then
+R l
+A
+∝ ⇒ R l
+A
+= ρ
+Unit of resistance is ohm ( )Ω .
+where, ρ is a constant of material of conductor is called
+specific resistance or resistivity. Its SI unit is ohm-metr e.
+• On increasing the temperature of the metal, its resistance
+increases.
+• Those materials whose electrical conductivity lies in
+between that of insulators and conductors are called
+semiconductors. On increasing the temperature of
+semiconductor, its resistance decreases.
+• The reciprocal of resistance of a conductor is called the
+electrical conductance of the conductor.
+Conductance 1
+Resistance
+=
+• Unit of conductance is mho or siemen.
+• The specific resistance of the material depends only on
+the material of conductor and its temperature.
+• Resistivity increases with temperature.
+• Resistivity of a conductor change with impurity.
+• Resistivity of an alloy is greater than the resistivity of
+its constituents and remains unchanged with
+temperature.
+• If a wire is stretched or doubled on itself, its resistance
+will change, but its specific resistance will remains
+unaffected.
+• The reciprocal of resistivity of a conductor is called its
+conductivity. Its SI unit is mho m
+1− or siemen/metre
+( ) 1Sm − .
+Combination of Resistances
+There are two combinations given below:
+(i) Series combination R R R R= + +
+1 2 3 and here
+current flows through each conductor is same.
+The total resistance in the series combination is more
+than the greatest resistance in the circuit.
+(ii ) Parallel combination 1 1 1 1
+1 2 3R R R R
+= + + and here
+potential across each conductor is same.
+The total resistance in parallel combination is less
+than the least resistance of the circuit.
+ELECTRIC POWER
+Electrical power is the electrical work done per unit time.
+P
+= W
+t
+or P = ×V I
+or P = I R2 [ ]/c81V IR=
+or P = V
+R
+2
+Its SI unit is watt (W).
+607GENERAL SCIENCE Physics
+R1 R2
+E –+
+R3
+R3
+R2
+R1
+V
+E
++ –
+
+--- PDF PAGE 813 ---
+608 CDS Pathfinder
+• 1 kilowatt hour =3600000 J = ×3.6 10 6 J
+1 Horse power (HP) = 746 W
+1 Horse power (HP) = 550 foot-pound/second
+Unit = × ×volt ampere hour
+1000
+Unit = ×watt hour
+1000
+Heating Effect of Electric Current
+Heat is produced, when electric current is passed through
+a conductor. This effect is called heating effect of electri c
+current.
+Heat produced = =I Rt VIt
+2 = V t
+R
+2
+joule
+➨Note The filament of an electric bulb gets very hot and therefore
+easily oxidised. Thus, bulbs are sealed with inactive nitro gen and
+argon gases to prevent oxidation of the filament and increas e its
+life.
+In electric bulb, tungsten is used for the construction of fi lament
+because it has high melting point.
+IMPORTANT POINTS BASED
+ON HEATING EFFECT
+● In home appliances like electric iron, electric heater
+and heating rod, the heating element used is of a
+nichrome (an alloy of Ni and Ci) wire. Nichrome has
+high melting point and high resistivity. To avoid the
+risk of electric shock, the metal body of electrical
+appliances is earthed.
+● An electric fuse is generally prepared from tin-lead alloy
+(63% tin + 37% lead). It should have high resistance and
+low melting point. It is connected in the series.
+● Tubelight contains a long tube of glass which is linked
+internally with a fluorescent substance. It is filled with a n
+inert gas like argon along with some mercury.
+Magnetic Effect of Current
+When electricity passes through insulated copper wire, it
+develops a magnetic field around it. Larger the amount of
+electricity, stronger the magnetic field. And when we
+place compass needle in the radius of the magnetic field it
+diverts from its North-South position.
+MAGNETS
+Magnet is a piece of iron or other materials that can
+attract iron containing objects and the property of
+attracting the magnetic substance by a magnet is called
+magnetism.
+• The magnets which do not lose their magnetism with
+normal treatment are called permanent magnets.
+• The materials which retain their magnetism for a long
+time are called hard magnetic materials.
+• In bar, rod and horse-shoe magnets, North or South
+poles are either indicated by the letter N or S.
+• When poles of two magnets are brought close together,
+they exert force on each other. This force is called
+intersection between the poles.
+• If we cut a magnet in two parts, then each separate part
+will behave as a magnet.
+• Permanent magnets are usually made of alloys such as
+carbon steel, chromium steel, cobalt steel, tungsten steel
+and alnico (alloy of aluminium, nickel, cobalt and iron).
+• Such permanent magnets are used in microphones,
+loudspeakers, electric clocks, ammeters, voltmeters,
+speedometer and many other devices.
+➨Note The Magnetic Resonance Imaging (MRI) technique which is use d
+to scan inner human body parts in hospitals also uses magnets for its
+working.
+Magnetic Field
+The space in the surrounding of a magnet or a current
+carrying conductor in which its magnetic effect can be
+experience is called magnetic field.
+• Magnetic lines of force are imaginary lines in the magnetic
+field, which shows the direction of magnetic field
+continuously.
+• The magnetic field lines originate from the North pole of
+a magnet and end at its South pole.
+• The magnetic field lines do not intersect one another.
+Magnetic Materials
+According to behaviour of magnetic substances, they are
+classified into three classes
+• Those substances when placed in an external magnetic
+field, acquire a very low magnetism in direction opposite
+to the field are called diamagnetic substances . e.g. copper,
+silver, bismuth, zinc, diamond, salt, water, mercury, etc.
+• The permeability of diamagnetic substance is less than
+one.
+• Those substances when placed in an external field, acquire
+a feeble magnetism in the direction of field are called
+paramagnetic substances . e.g. aluminium, sodium,
+potassium, oxygen, etc.
+• The permeability of paramagnetic substance is slightly
+greater than one.
+• Those substances, when placed in a magnetic field, acquire a
+strong magnetism in the direction of field are called
+ferromagnetic substances . These substances when brought
+near the end of a strong magnet get radially attracted
+towards it. e.g. iron, nickel, cobalt, magnetite, etc.
+• The permeability of ferromagnetic substance is much
+greater than one.
+Electromagnet
+An electromagnet is a solenoid coil that attains magnetism d ue
+to flow of current. It works on the principle of magnetic effe ct
+of current. It is used in electric bells, electric motors,
+telephone, diaphragms, loudspeakers etc.
+
+--- PDF PAGE 814 ---
+Magnetic Flux
+The magnetic flux linked with a surface is equal to the
+total number of magnetic lines of force passing through
+that surface normally. Its unit is weber.
+ELECTROMAGNETIC
+INDUCTION
+When a change occurs in the magnetic flux linked with the
+coil, an emf is induced in the coil. The phenomenon is
+called electromagnetic induction.
+• The phenomenon of production of induced emf in a
+circuit due to change in magnetic flux in its
+neighbouring circuit is called mutual induction.
+• When the electric current flowing through a circuit
+changes, the magnetic field linked with circuit also
+change. As a result an induced emf is set up in the
+circuit. This phenomenon is called self-induction.
+• Microphone converts sound energy into electrical energy
+and works on the principle of electromagnetic induction.
+Electric Generator
+It is a device which converts mechanical energy into
+electrical energy. An electric generator is based on the
+principle of electromagnetic induction. It is used to
+produce electric current by varying magnetic field through
+a coil.
+• A generator can produced both alternating current and
+direct current.
+• AC generator consists of slip rings, armature, magnet
+and brushes while DC generator consists of magnet
+commutator, armature and brushes.
+➨Note Electric motor is a rotating device which converts electric al
+energy into mechanical energy.
+Transformer
+Transformer is a device which converts low voltage AC
+into high voltage AC and high voltage AC into low
+voltage AC. It is based on mutual induction.
+• Core of a transformer is made up of soft iron.
+• Step-up transformer converts a low voltage of high
+current into a high voltage of low current.
+• Step-down transformer converts a high voltage of low
+current into a low voltage of high current.
+• The main energy losses in a transformer are given below:
+(a) Iron loss (b) Flux loss
+(c) Hysteresis loss (d) Humming loss
+• Transformer is used in voltage regulators, refrigerators,
+computer, air conditioner.
+• Step-down transformer is used for welding purpose.
+• Audio transformer allowed telephone circuits to carry on
+a two-way conservation over a single pair of wires.
+• Radio frequency transformers are used in radio
+communication.
+➨Note A mobile phone charger is one of the best example of step
+down transformer as it extracts the power from the home suppl y
+(AC 220V) and convert it to DC of required voltage.
+609GENERAL SCIENCE Physics
+MODERN PHYSICS
+CATHODE RA YS
+If the gas pressure in a discharge tube is 10
+2− to 10 3− mm
+of Hg and a potential difference of 10 4 V is applied
+between the electrode, then a beam of electrons emerges
+from the cathode which is called cathode rays.
+• Cathode rays are invisible and travel in a straight line.
+• These rays are deflected by electric and magnetic fields.
+• These rays can ionise gases.
+• They can produce chemical change and thus affect a
+photographic plate.
+• When they strike a target of heavy metal such as
+tungsten, they produce X-rays.
+X-RA YS
+When cathode rays strike on a heavy metal of high melting
+points, then a very small fraction of its energy converts
+into a new type of waves, called X-rays.
+• X-rays are electromagnetic waves and these produce
+photoelectric effect.
+• X-rays were discovered by scientist Roentgen.
+• These produce illumination on falling the fluorescent
+substances and travel in a straight line with the speed of
+light.
+• X-rays penetrate through different depth into different
+substances.
+• Soft X-rays have greater wavelength and lower
+frequency and hard X-rays have lower wavelength and
+higher frequency.
+• X-rays ionise gases through which they pass.
+• X-rays are not deflected by electric and magnetic fields.
+• They show all the important properties of light rays like,
+reflection, refraction, interference, diffraction and
+polarisation, etc.
+• X-rays are used in surgery, radiotherapy, engineering
+department and searching.
+➨Note Barium and Iodine are some chemicals used as contrast
+mediums for X-ray based imaging method. i.e. they absorbs X-ray
+to highlight the targeted body part.
+
+--- PDF PAGE 815 ---
+610 CDS Pathfinder
+POSITIVE OR
+CANAL RA YS
+These rays are positively charged particles and are called
+positive rays or canal rays. These rays were discovered by
+Goldstein.
+• These rays can affect the photographic plates.
+• These rays are capable of producing physical and
+chemical changes.
+• These rays are deflected by electric and magnetic fields.
+These rays can produce fluorescence and
+phosphorescence.
+Fluorescence
+Some substances absorb the light of higher frequency or
+shorter wavelength and emits a light having lower frequency
+or higher wavelength in the presence of light source. This
+phenomenon of emission of light is called fluorescence.
+Such substances are called fluorescence substances.
+• Fluoresphor, petrol, uranium oxide and barium platino
+cyanide are examples of fluorescence substance.
+• Barium platino cyanide is used in search of X-rays.
+Compact Fluorescent Lamp (CFL)
+Compact fluorescent lamp converts electrical energy into
+radiant energy.
+• It has two components
+– A glass tube filled with argon and mercury vapour and
+coated with layer of fluorescent materials.
+– An electronic ballast circuit.
+• The ballast circuit (small circuit board with rectifiers, a
+filter capacitor and usually two switching transistors)
+takes a 220V input from external power source and sends
+a current into the fluorescent tube as output.
+• When power supply is given to the CFL, filament
+attached with the cathode heats up and emits electrons in
+the tube. This ionises the argon and mercury vapour
+particles, causing it, ultraviolet light emission.
+Phosphorescence
+Some substances after being kept in sunlight for sometime
+emit light even after the light source is removed. This
+phenomenon is called phosphorescence. Zinc sulphide,
+calcium sulphide and barium sulphide are examples of
+phosphorescence.
+PHOTOELECTRIC EFFECT
+When the ultraviolet rays (or the visible light of low
+wavelength or any other kind of electromagnetic radiation)
+are made incident on a metal, the electrons are emitted from
+it. This phenomenon is called the photoelectric emission or
+photoelectric effect.
+Photoelectric cell is based on photoelectric effect. It is a
+device by which light energy is converted into the
+electrical energy.
+Applications of photoelectric effect are given below
+(i) In reproduction of sound in cinema, television and
+photo telegraphy.
+(ii) In automatic switches for street lights.
+(iii) In photoelectric sorters.
+(iv) To control the temperature in furnace and in
+chemical process.
+(v) In industries for locating minor flows or holes in
+metallic sheets.
+SEMICONDUCTOR
+Semiconductors are those materials whose electrical
+conductivity at room temperature lies in between that of
+insulator and conductor. A semiconductor in an extremely
+pure form is known as intrinsic semiconductor.
+• If a measured and small amount of chemical impurity is
+added to intrinsic semiconductor, it is called extrinsic
+semiconductor or doped semiconductor.
+• External semiconductors are of two types
+(i) n-type semiconductor
+(ii) p-type semiconductor
+• An extrinsic semiconductor in which electrons are
+majority charge carrier is called n-type semiconductor .
+• An extrinsic semiconductor in which holes are the
+majority charge carrier is called p-type semiconductor .
+Special Purpose Diodes
+An arrangement consisting a p-type semiconductor
+brought into a close contact with n-type semiconductor is
+called a p-n junction or p-n junction diode.
+• A device which converts alternating current (AC) or
+voltage into direct current (DC) or voltage is known as
+rectifier. DC can be converted into AC with the help
+of an inverter.
+• LED’s are specially designed diode made up of GaAsP,
+GaP and are used in electronic gadgets as indicator
+light. It is used as a rectifier which converts an
+alternating current into direct current.
+• LED’s light up very quickly. A typical red indicator
+LED will achieve full brightness in microseconds.
+• LED or semiconductor laser is used to convert
+electrical energy into optical energy.
+• Zener diode is a highly doped p-n junction diode which
+is not damaged by high reverse current. It can be used
+as voltage regulator.
+• Photo diode is a special p-n junction diode fabricated
+with a transparent window to allow light to fall on the
+diode. It is used in reverse biasing.
+➨Note Diode valve acts as a rectifier and triode valve can be used as
+amplifier oscillator and detector.
+
+--- PDF PAGE 816 ---
+Solar Cell
+Solar cell is a p-n junction device which converts solar
+energy into electrical energy. It is consist of a silicon or
+gallium arsenide p-n junction.
+Uses of Solar Cell
+(i) Solar cells are used as solar cooker.
+(ii) Solar cells are used in wrist watches, calculators and
+light meters.
+(iii) Solar cells are also used in artificial satellite to
+provide power inside the satellite.
+(iv) Solar cells are used for charging storage batteries.
+Integrated Circuits
+An IC can be defined generally as an arrangement of
+multifunction semiconductor devices. It consists of a sing le
+crystal chip of silicon, nearly 1.5 mm
+2 in cross-section.
+TV remote control is an electronic device containing an IC
+and few other components. If a key on a remote control is
+pressed, it emits infrared signals which are received by the
+electronic circuit of the TV receiver, etc.
+LASER
+The word LASER is the short form of Light
+Amplification by Stimulated Emission of Radiation. It is
+an optical device, which produces an intensive beam
+highly coherent, monochromatic light.
+Applications of laser rays are described below
+(i) Laser rays are used in treatment of detached retina,
+treatment of skin cancer and surgery of brain.
+(ii) Laser beams are used in signals and radio
+communications.
+(iii) The property of high intensity is used to cut hard
+metals.
+(iv) The weather informations are collected with the help
+of radar, an instrument based on the properties of
+laser.
+(v) The laser rays are parallel and do not spread. This
+property of laser rays is used in the measurement of
+long distance.
+COMMUNICATION
+The term communication refers to the transmitting
+receiving and processing of information by electronic
+means. A basic communication system consists of an
+information source, a transmitter, a link and a receiver.
+• Electromagnetic waves which are used in radio,
+television and other communication system are
+radiowaves and micro waves.
+• In ground wave propagation , the radio wave travel
+through atmosphere following the surface of the earth
+from transmitting antenna to receiving antenna. The
+ground wave propagation is useful for low range
+frequencies upto 1500 kHz. The ground wave
+propagation is generally used for local broadcasting.
+• In space wave propagation , the radio wave from the
+transmitting antenna reach the receiving antenna either
+directly or after reflection from the ground or from
+troposphere. The space wave propagation utilises the
+electromagnetic waves of very high frequency band
+(between 30 MHz to 300 MHz), ultra high frequency
+band (between 300 MHz to 3000 MHz) and microwaves
+having frequencies range 100 GHz to 300 GHz.
+• In sky wave propagation the radio waves from the
+transmitting antenna reach the receiving antenna after
+entering in ionosphere. The sky wave frequency lies
+between 2 MHz to 30 MHz.
+• A communication satellite is a space craft, provided with
+microwave receiver and transmitter.
+– It is placed in an orbit around the earth.
+– The frequencies used in satellite communication lies in
+UHF/ microwave regions.
+– These waves can cross the ionosphere and reach the
+satellite.
+• The satellite communication is used effectively in mobile
+communication, metrology and weather forecasting.
+• Remote sensing is the technique to obtain information
+about an object by observing it from a distance and
+without coming to actual contact with it. It is used in
+development of weather forecasting system.
+• Parallel wire line is used to connect an antenna with TV
+receiver. Parallel wire lines are never used for
+transmission of microwaves.
+• Twisted pair wires are used to connect telephone system.
+• Coaxial cables are used for long distance high frequency
+transmission. e.g. TV channel transmission.
+➨Note Maser is a device working on the same principle as a laser.
+Maser means ’Microwave Amplification by Stimulated Emissi on of
+Radiation, It is used to produce very high magnetic field and in radio
+astronomy and communications.
+Optical Communication
+It is a better communication system for large number of
+channels and higher bandwidth transmission. Now-a-days
+optical fibres of very small diameters ( )≈
+−10 5 m are used in
+optical communication. Advantages of optical
+communication over the conventional two wires or coaxial
+cable systems are
+(i) In optical fibres energy losses are less.
+(ii) Secret information like banking, defence, etc., is more
+secure because optical signal is confined to the inside
+of fibre and cannot be tampered easily.
+(iii)It can be used at high frequencies ( )≈ 10
+14 Hz .
+Phenomenon of total internal reflection is the principle be hind
+optical fibres. Light can be transmitted along it with almos t no
+loss because of total internal reflection. Important appli cations
+of optical fibres are in telecommunications and medicine.
+611GENERAL SCIENCE Physics
+
+--- PDF PAGE 817 ---
+612 CDS Pathfinder
+PRACTICE EXERCISE
+Measurement, Motion, Work,
+Energy and Power
+1. A train travels a distance with a
+speed of 30 km/h and returns with
+a speed of 50 km/h. The average
+speed of the train is
+(a) 36 km/h (b) 37.5 km/h
+(c) 38 km/h (d) 40 km/h
+2.
+Average velocity of an object is
+equal to the mean of its initial and
+final velocities, if the acceleration is
+(a) uniform (b) variable
+(c) Both a and b (d) None of these
+3.
+A water tank filled upto 2
+3 of its
+height is moving with a uniform
+speed. On sudden application of the
+brake, the water in the tank would
+(a) move backward (b) move forward
+(c) be unaffected (d) rise upwards
+4.
+When the distance, an object
+travels is directly proportional to
+the length of time, it is said to
+travel with
+(a) zero velocity (b) uniform velocity
+(c) constant velocity
+(d) constant acceleration
+5.
+If the displacement of an object is
+proportional to square of time,
+then the object moves with
+(a) uniform velocity
+(b) uniform acceleration
+(c) increasing acceleration
+(d) decreasing acceleration
+6.
+A passenger in a moving train
+tosses a five rupee coin. If the coin
+falls behind him, the train must
+be moving with a uniform
+(a) acceleration
+(b) deceleration
+(c) speed
+(d) velocity
+7.
+The velocity-time graph for an
+object is shown below. Which one
+of the following statements helds
+true for this object?
+(a) The object is moving with uniform
+speed
+(b) The object is in non-uniform
+accelerated
+(c) The object is at rest
+(d) The object is in non-uniform
+decelerated.
+8. Which of the following figure
+represents uniform motion of a
+moving object correctly?
+9. A body falls from rest. The
+velocity acquired by falling a
+distance 2 h is
+(a) 2 gh (b) gh
+(c) 2 gh (d) None of these
+10. The velocity-time graph for an
+object is shown. Which one of the
+following statements holds true
+for this object?
+(a) The object has uniform velocity
+(b) The object has uniform acceleration
+(c) The object has non-uniform
+acceleration
+(d) None of the above
+11.
+A boy throws four stones of same
+shape, size and weight with equal
+speed at different initial angles
+with the horizontal line. If the
+angles are 15°, 30°, 45° and 60°,
+at which angle the stone will
+cover the maximum distance
+horizontally?
+(a) 15° (b) 30° (c) 45° (d) 60°
+12. Which one of the following is a
+vector quantity?
+(a) Force (b) Area
+(c) Volume (d) Density
+13.
+External forces acting on an object
+(a) are always balanced
+(b) are always unbalanced
+(c) may or may not be balanced
+(d) None of the above
+14.
+When horse starts running all of a
+sudden, the rider on the horse
+falls back because
+(a) he is afraid
+(b) he is taken a back
+(c) due to inertia of motion, the lower
+part of his body comes in motion
+(d) due to inertia of rest, the upper
+part of his body remains at rest
+15. A scooter driven over an oily road
+generally slips because on the oily
+road
+(a) inertia of the scooter tyres increases
+(b) inertia of the scooter tyres decreases
+(c) friction between tyres and road
+increases
+(d) friction between tyres and road
+decreases
+16.
+Newton’s second law of motion
+connects
+(a) momentum and acceleration
+(b) change of momentum and velocity
+(c) rate of change of momentum and
+external force
+(d) rate of change of force and
+momentum
+17.
+When a ball drops onto the floor it
+bounces. Why does it bounce?
+(a) Newton’s third law implies that for
+every action (drop) there is a
+reaction (bounce)
+(b) The floor exerts a force on the ball
+during the impact
+(c) The floor is perfectly rigid
+(d) The floor heats up on impact
+18.
+If an object having mass of 1 kg is
+subjected to a force of 1 N, it
+moves with
+(a) a speed of 1 m/s
+(b) a speed of 1 km/s
+(c) an acceleration of 10 m/s
+2
+(d) an acceleration of 1 m/s 2
+19. Momentum has the same unit as
+that of
+(a) couple
+(b) torque
+(c) impulse
+(d) moment of momentum
+Time
+Velocity
+(a)
+Distance
+Time
+(b)
+© (d)
+Distance
+Distance Distance
+Time
+Time Time
+Time
+Velocity
+
+--- PDF PAGE 818 ---
+20. Rocket works on the principle of
+conservation of
+(a) mass (b) energy
+(c) momentum (d) None of these
+21.
+Two balls of different masses have
+the same kinetic energy. The ball
+having greater momentum will be
+(a) lighter one
+(b) heavier one
+(c) both having equal masses
+(d) cannot say
+22.
+A goalkeeper in a game of football
+pulls his hands backwards after
+holding the ball shot at the goal.
+This enables the goalkeeper to
+(a) exert larger force on the ball
+(b) reduce the force exerted by the
+ball on hands
+(c) increase the rate of change of
+momentum
+(d) decrease the rate of change of
+momentum
+23. A cricket player moves his hands
+along the direction of the moving
+ball while catching it in order to
+(a) kill the googly of the ball
+(b) conserve energy
+(c) conserve mass
+(d) reduce the force of impulse
+24.
+Consider the following statements
+1. The impulse given to a body is
+equal to the change in the
+momentum of the body.
+2. The unit of the impulse is the
+same as that of the momentum.
+3. The product of the force and
+velocity is called the impulse.
+4. Impulse is a vector quantity.
+Which of the following statements
+is/are correct?
+(a) 1, 2 and 4 (b) Only 4
+(c) Only 3 (d) 1, 2 and 3
+25.
+It is easier to roll a barrel along
+the road than to pull it because
+(a) rolling involves only one point of
+contact between the barrel and the
+earth
+(b) rolling friction is considerably less
+than the sliding friction
+(c) the full weight of the barrel does
+not become effective while rolling
+(d) None of the above
+26.
+It is difficult to walk on ice than
+on road because
+(a) ice is harder than road
+(b) road is harder than ice
+(c) ice does not offer any reaction,
+when we push it, with our foot
+(d) ice has a lesser friction than road
+27.
+Frictional force
+1. is self-adjusting force.
+2. is a non-conservative force.
+3. is a necessary evil.
+Codes
+(a) 1 and 2 (b) 1 and 3
+(c) Only 1 (d) All of these
+28.
+Consider the following statements
+1. Friction force is conservative
+force.
+2. Magnetic force and electrostatic
+force are non-conservative force.
+Which of the following sentences
+is/are correct?
+(a) Only 1 (b) Only 2
+(c) 1 and 2 (d) None of these
+29.
+The chance of a vehicle to overturn
+while negotiating a circular path
+depends on
+(a) speed of the vehicle only
+(b) radius of the circular path only
+(c) speed and height of the vehicle
+and radius of the circular path
+(d) height of the vehicle only
+30. Fat can be separated from milk in
+a cream separation because of
+(a) cohesive force
+(b) gravitational force
+(c) centrifugal force
+(d) centripetal force
+31.
+Consider the following statements
+1. If a body is rotating in a
+circular path, then after one
+rotation its distance will be
+zero.
+2. distance and displacement are
+equal in straight line.
+3. The speedometer of the car
+shows its instantaneous speed.
+Which of the following statements
+is/are correct?
+(a) Only 1 (b) Only 2
+(c) 2 and 3 (d) 1 and 3
+32.
+Match the following columns.
+Column I Column II
+A. We hit a carpet with a
+stick to remove the dust
+1. Law of
+motion II
+B. China wires are wrapped
+in straw or paper
+2. Law of
+motion I
+C. A jet plane moves 3. Law of
+motion III
+D. Bogies of the train are
+provided with buffers
+4. Impulse
+Codes
+A B C D A B C D
+(a) 3 4 1 2 (b) 2 1 3 4
+(c) 1 2 3 4 (d) 3 4 2 1
+33.
+Match the following columns.
+Column I
+(Situation)
+Column II
+(Centripetal force)
+A. Revolution of the
+earth around the
+sun
+1. Tension in the
+string
+B. Vehicle taking a turn
+on level road
+2. Friction force
+exerted by the
+road on the tyres
+C. A vechicle on a
+speed braker
+3. Weight of the
+body
+D. A particle tied to a
+string and whirled in
+a horizonal circle
+4. Gravitation force
+exerted by the
+sun
+Codes
+A B C D A B C D
+(a) 4 2 3 1 (b) 2 3 4 1
+(c) 4 3 2 1 (d) 1 2 3 4
+34.
+When work is done on the body
+(a) it gains energy
+(b) it loses energy
+(c) its energy remains constant
+(d) None of the above
+35.
+Statement I When the force
+retards the motion of a body, the
+work done is zero.
+Statement II Work done depends
+on angle between force and
+displacement.
+Codes
+(a) Both the statements are correct
+and statement II is the correct
+explanation of statement I
+(b) Both the statements are correct,
+but statement II is not the correct
+explanation of statement I
+(c) Statement I is correct, but
+statement II is incorrect
+(d) Statement I is incorrect, but
+statement II is correct
+36.
+An object of mass 2 kg is lifted
+vertically through a distance of
+1.5 m. The work done in process is
+(a) 29.4 J (b) 19.4 J
+(c) 17.4 J (d) 20.4 J
+37.
+The work done on an object does
+not depends upon the
+(a) displacement (b) force applied
+(c) final velocity (d) initial velocity
+38.
+Consider the following statements
+1. When a body falls freely under
+gravity the work done by
+gravity is positive.
+2. If a force of 1 dyne produces a
+displacement of 1 cm in the
+direction of the force, the work
+done is called 1 erg.
+3. Work is scalar quantity.
+4. Work done is always positive.
+613GENERAL SCIENCE Physics
+
+--- PDF PAGE 819 ---
+614 CDS Pathfinder
+Which of the following statements
+is/are correct?
+(a) 1, 2 and 4 (b) 2 and 3
+(c) Only 4 (d) 1, 2 and 3
+39.
+If the velocity of a particle is
+reduced to half of its initial value,
+then the kinetic energy of the
+particle will
+(a) get doubled
+(b) become four times
+(c) reduce to half of its original value
+(d) reduce to one-fourth of its original
+value
+40.
+A horse and a dog are running
+with the same speed. Then, the
+ratio of their kinetic energies, if
+the weight of the horse is ten
+times that of dog, is
+(a) 10 : 1 (b) 100 : 1
+(c) 1 : 9 (d) 9.8 : 98
+41.
+If acceleration due to gravity is
+10 m/s 2, then the potential energy
+of a body of mass 1 kg kept at a
+height of 5 m, is
+(a)□50□J (b)□100□J (c)□500□J (d)□50 KJ
+42. When a body falls freely
+(a) its PE is converted into KE
+(b) its KE is converted into PE
+(c) its mechanical energy is converted
+into heat energy
+(d) None of the above
+43.
+Consider the following statements
+1. When a body falls its potential
+energy decrease but at the
+same time kinetic energy
+increases by an equal amount.
+2. The total amount of energy in
+the universe remains constant.
+Which of the following statements
+is/are correct?
+(a) 1 and 2 (b) Only 1
+(c) Only 2 (d) None of these
+44.
+If acceleration due to gravity is
+9.8 m /s 2. A bag of wheat weighs,
+200 kg. The height to which it
+should be raised, so that its
+potential energy may be 9800 J, is
+(a)□5□m (b)□4□m (c)□3□m (d)□10□m
+45. Two bodies of equal mass move
+with the velocity of 2v and 3v,
+respectively. Then, the ratio of
+their kinetic energies is
+(a) 4 9 : (b) 2 3 : (c) 1 2 : (d) 8 11 :
+46. Power of the moving body is
+stored in the form of
+(a) work and time
+(b) force and distance
+(c) force and velocity
+(d) distance and acceleration
+47.
+Statement I Pulling a lawn roller
+is easier than pushing it.
+Statement II Pushing increases
+the apparent weight and hence
+the force of friction.
+e 2012 II
+(a) Both the statements are correct
+and statement II is the correct
+explanation of statement I
+(b) Both the statements are correct,
+but statement II is not the correct
+explanation of statement I
+(c) Statement I is correct, but
+statement II is incorrect
+(d) Statement I is incorrect, but
+statement II is correct
+48.
+A bus travels at a speed of
+50 km/h to go from its origin of its
+destination at a distance of 300 km
+and travels at a speed of 60 km/h
+to return to the origin. What is
+the average speed of the bus?
+e 2012 II
+(a) 54.55 km/h (b) 55 km/h
+(c) 55.55 km/h (d) 54 km/h
+49.
+Magnetic, electrostatic and
+gravitational forces came under
+the category of
+e 2013 II
+(a) non-contact forces
+(b) contact forces
+(c) frictional forces
+(d) non-frictional forces
+50.
+You are asked to jog in a circular
+track of radius 35 m. Right one
+complete round on the circular
+track, your displacement and
+distance covered by you
+respectively
+e 2014 I
+(a) zero and 220 m (b) 220 m and zero
+(c) zero and 110 m (d) 110 m and 220 m
+51.
+In cricket match, while catching a
+fast moving ball, a fielder in the
+ground gradually pulls his hands
+backwards with the moving ball to
+reduce the velocity to zero. The
+act represents
+e 2014 I
+(a) Newton’s first law of motion
+(b) Newton’s second law of motion
+(c) Newton’s third law of motion
+(d) Law of conservation of energy
+52.
+The distance-time graph for an
+object is shown below. Which one
+of the following statements holds
+true for this object?
+e 2014 II
+(a) The object is moving with uniform
+speed
+(b) The object is at rest
+(c) The object is having non-linear motion
+(d) The object is moving with
+non-uniform speed
+53.
+An electron and a proton are
+circulating with same speed in
+circular paths of equal radius.
+Which one among the following
+will happen, if the mass of a
+proton is about 2,000 times that of
+an electron?
+e 2015 I
+(a) The centripetal force required by
+the electron is about 2,000 times
+more than that required by the
+proton
+(b) The centripetal force required by
+the proton is about 2,000 times
+more than that required by the
+electron
+(c) No centripetal force is required for
+any charged particle
+(d) Equal centripetal force acts on
+both the particles as they rotate in
+the same circular path
+54.
+An object is raised to a height of
+3 m from the ground. It is then
+allowed to fall on to a table 1 m
+high from ground level. In this
+context, which one among the
+following statements is correct?
+e 2015 I
+(a) Its potential energy decreases by
+two-thirds its original value of total
+energy
+(b) Its potential energy decreases by
+one-third its original value of total
+energy
+(c) Its kinetic energy increases by
+two-third, while potential energy
+increases by one-third
+(d) Its kinetic energy increases by
+one-third, while potential energy
+decreases by one-third
+55.
+Statement I When a gun is
+fired it recoils i.e. it pushes back,
+with much less velocity than the
+velocity of the bullet.
+Statement II Velocity of the
+recoiling gun is less because the
+gun is much heavier than the
+bullet.
+e 2015 I
+(a) Both the statements are correct
+and statement II is the correct
+explanation of statement I
+(b) Both the statements are correct,
+but statement II is not the correct
+explanation of statement I
+(c) Statement I is correct but
+statement II is incorrect
+(d) Statement I is incorrect but
+statement II is correct
+Previous Years’ Questions
+Time
+Distance
+
+--- PDF PAGE 820 ---
+56. A body is falling freely under the
+action of gravity alone in vacuum.
+Which one of the following
+remains constant during the fall?
+(a) Potential energy e 2015 II
+(b) Kinetic energy
+(c) Total linear momentum
+(d) Total mechanical energy
+57.
+Newton’s laws of motion do not
+hold good for objects
+e 2015 II
+(a) at rest
+(b) moving slowly
+(c) moving with high velocity
+(d) moving with velocity comparable to
+velocity of light
+58.
+A brick is thrown vertically from
+an aircraft flying 2 km above the
+Earth. The brick will fall with a
+(a) constant speed e 2015 II
+(b) constant velocity
+(c) constant acceleration
+(d) constant speed for sometime, then
+with constant acceleration as it
+nears the Earth
+59.
+The rate of change of momentum
+of a body is equal to the resultant
+e 2016 I
+(a) energy (b) power
+(c) force (d) impulse
+60.
+The SI unit of mechanical energy
+is
+e 2016 I
+(a) Joule (b) Watt
+(c) Newton-second (d) Joule-second
+Rotational Motion
+and Gravitation
+61. The centre of mass of a system
+(a) is always at its geometric centre
+(b) is always anywhere inside it
+(c) is always outside it
+(d) may be inside or outside it
+62.
+Assertion (A) To unscrew a
+rusted nut, we need a wrench
+with longer arm.
+Reason (R) Wrench with longer
+arm reduces the torque of the
+arm.
+(a) Both A and R are correct and R is
+the correct explanation of the A
+(b) Both A and R are correct but R is
+not the correct explanation of the A
+(c) A is correct but R is incorrect
+(d) A is incorrect but R is correct
+63. Consider the following
+statements
+1. Torque is equal to the product
+of moment of inertia and
+angular acceleration.
+2. Torque is a vector quantity.
+3. The rate of change of angular
+acceleration is equal to the
+torque.
+4. The turning effect of a body
+is known as torque.
+Which of the following
+statements is/are correct?
+(a) 1 and 2 (b) Only 4
+(c) 3 and 4 (d) 1, 2 and 4
+64.
+Consider the following
+quantities.
+I. Angular momentum
+II. Kinetic energy
+Which of the quantities given
+above will remain constant for a
+satellite in orbit?
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+65.
+A boy suddenly comes and sits on
+a circular rotating table. What
+will remain conserved?
+(a) Angular momentum
+(b) Potential energy
+(c) Linear momentum
+(d) Kinetic energy
+66.
+A man is sitting on a revolving
+stool with his arm outstretched.
+When he suddenly pulls his arms
+inside, then
+(a) his angular velocity decreases
+(b) his moment of inertia decreases
+(c) his angular velocity remains
+constant
+(d) his angular momentum increases
+67. The cat can survive fall from a
+height much more than human
+or any other animal. It is because
+the cat
+(a) can immediately adjust itself to
+land on all four paws and bend the
+legs to absorb the impact of falling
+(b) has elastic bones
+(c) has thick and elastic skin
+(d) also gets injury equally with other
+animals, but has tremendous
+endurance, resistance and speedy
+recovery
+68.
+An athlete diving off high
+springboard can perform a variety
+of exercise in tube air before
+entering the water body, which
+one of the following parameters
+will remain constant during the
+fall?
+(a) The athlete’s linear momentum
+(b) The athlete’s angular momentum
+(c) The athlete’s kinetic engine
+(d) The athlete’s moment of inertia
+69.
+A sphere of mass 40 kg is attracted
+by a second sphere of mass 60 kg
+with a force equal to 4 10 5× − N. If
+G is 6 10 11× − N-m 2/
+k 2, what is the distance between
+them?
+(a)□7□cm (b)□6□cm (c)□10□cm (d)□12□cm
+70. If suddenly the gravitational force
+of attraction between the earth and
+a satellite revolving around it
+becomes zero, then the satellite
+will
+(a) continue to move in this orbit with
+same velocity
+(b) move tangentially to the original
+orbit in the same velocity
+(c) became stationary in its orbit
+(d) move towards the earth
+71. The force of gravitation between
+two bodies does not depend on
+(a) their separation
+(b) the product of their masses
+(c) the sum of their masses
+(d) the gravitational constant
+72.
+If the distance between two objects
+is doubled, the force of attraction
+between them will
+(a) become 1
+4
+times (b) become 2 times
+(c) become
+1
+8
+times (d) remains same
+73.
+Consider the following statements
+1. Gravitational force is always
+attractive in nature.
+2. Gravitational force is a central
+force.
+3. Tides are formed in oceans due
+to gravitational attraction
+between moon and ocean water.
+Which of the following statements
+is/are correct?
+(a) 1 and 2 (b) 2 and 3
+(c) 1 and 3 (d) All of these
+74.
+The acceleration due to gravity
+(a) has the same value everywhere in
+space
+(b) has the same value everywhere on
+the earth
+(c) varies with the latitude on the earth
+(d) is greater on the moon due to its
+smaller diameter
+75. Two objects of different masses
+falling freely near the surface of
+the moon would
+(a) have same velocities at any instant
+(b) have different accelerations
+(c) experience forces of same
+magnitude
+(d) undergo a change in their media
+615GENERAL SCIENCE Physics
+
+--- PDF PAGE 821 ---
+616 CDS Pathfinder
+76. An apple falls from a tree because
+of gravitational attraction
+between the earth and apple. If F1
+is the magnitude of force exerted
+by the earth on the apple and F2 is
+the magnitude of force exerted by
+apple on the earth, then
+(a) F1 is very much greater than F2
+(b) F2 is very much greater than F1
+(c) F1 is only a little greater than F2
+(d) F1 and F2 are equal
+77. When an object is thrown up, the
+force of gravity
+(a) is opposite to the direction of
+motion
+(b) is in the same direction as the
+direction of motion
+(c) decreases as it rises up
+(d) increases as it rises up
+78. Assertion (A) Moon’s gravity is
+equivalent to one-eighth of the
+earth’s gravity.
+Reason (R) Due to less gravity,
+moon is unable to retain its
+atmosphere.
+(a) Both A and R are correct and R is
+the correct explanation of A
+(b) Both A and R are correct, but R is
+not the correct explanation of A
+(c) A is correct, but R is incorrect
+(d) A is incorrect, but R is correct
+79. A body has a mass of 6 kg on the
+earth, when measured on the
+moon, its mass would be
+(a) nearly 1 kg (b) less than 1 kg
+(c) less than 6 kg (d) 6 kg
+80.
+Match the following columns.
+Column I Column II
+A. g is maximum 1. At the moon
+B. g is minimum 2. At pole
+C. g is zero 3. At the equator
+D. g is 1/6 of
+original value
+4. At centre of the
+earth
+Codes
+A B C D A B C D
+(a) 1 2 3 4 (b) 2 3 4 1
+(c) 4 3 2 1 (d) 4 2 3 1
+81.
+Consider the following statements
+1. Mass of a body is not constant
+it changes from place to place.
+2. Mass is measured by an
+ordinary equal arm balance.
+3. At the equator, the mass of a
+body is maximum.
+Which of the following statements
+is/are correct?
+(a) 1 and 2 (b) Only 2
+(c) 1 and 3 (d) All of these
+82.
+A line drawn from the sun to a
+planet, moving around it, sweeps
+over a fixed area in a given
+interval of time. This is according
+to
+(a) Kepler’s law (b) Ohm’s law
+(c) Lenz’s law (d) Newton’s law
+83.
+The earth revolves around the sun
+in an elliptical orbit, its speed
+(a) is greatest when it is farthest from
+the sun
+(b) is greatest when it is closest of the
+sun
+(c) remains the same at all points on
+the orbit
+(d) goes on decreasing continuously
+84. The square of time period of
+revolution of a planet round the
+sun is
+(a) directly proportional to its average
+distance from the sun
+(b) directly proportional to the square of
+its average distance from the sun
+(c) directly proportional to the cube of
+its average distance from the sun
+(d) inversely proportional to its average
+distance from the sun
+85. Consider the following statements
+1. Time period of geo-stationary
+satellite is 24 h.
+2. Geo- stationary satellite
+revolves in equatorial plane in
+the direction of the earth’s
+rotation i.e. from West to East
+3. Geo-stationary satellite revolves
+around the earth at 800 km.
+4. INSAT 2B is a polar satellite.
+Which of the following statements
+is/are correct?
+(a) 1 and 2 (b) 2 and 3
+(c) 3 and 4 (d) 2, 3 and 4
+86.
+Two satellites are revolving in the
+same circular orbit, their
+1. masses are same
+2. velocities are same
+Codes
+(a) 1 and 2
+(b) Only 2
+(c) Only 1
+(d) None of the above
+87.
+A communication relay satellite is
+able to telecast programmes
+continuously from one part of the
+world to another, because
+(a) its period of revolution is greater
+than the period of rotation of the
+earth on its axis
+(b) its period of revolution is equal to
+the period of rotation of the earth
+on its axis
+(c) its period of revolution is less than
+the period of rotation of the earth
+on its axis
+(d) its mass is less than the mass of
+the earth
+88.
+A missile is launched with a
+velocity less than the escape
+velocity. The sum of its kinetic
+and potential energy is
+(a) positive (b) negative
+(c) zero
+(d) may be positive or negative
+depending upon its initial velocity
+89. The escape velocity of a projectile
+from the surface of the earth is
+approximately
+(a) 11.3 km/s (b) 11.2 km/s
+(c) 11.5 km/s (d) 11.4 km/s
+90.
+The velocity with which a
+projectile must be fired so that it
+escapes the earth’s gravitation
+does not depend on
+(a) mass of the earth
+(b) mass of the projectile
+(c) radius of the projectile’s orbit
+(d) gravitational constant
+91.
+The escape velocity of a body on
+the surface of the earth is 11.2
+km/s. If the earth’s mass increases
+to twice its present value and the
+radius of the earth become half
+the escape velocity would become
+(a) 5.6 km/s
+(b) 11.2 km/s (remain unchanged)
+(c) 22.4 km/s (d) 44.8 km/s
+92.
+The escape velocity at the moon
+1. is 2.38 km/s
+2. is less than the average velocity
+of the gas molecules at the
+temperature of the moon
+Codes
+(a) Only 1 (b) Only 2
+(c) 1 and 2
+(d) None of the above
+93.
+Match the following columns.
+Column I
+(Quantity)
+Column II
+(Definition)
+A. Mass 1. Attractive force only
+B. Gravitational
+force
+2. The attractive force
+exerted by the earth
+C. Escape
+velocity
+3. It is a quantity of
+matter
+D. Weight 4. Body must be
+projected up
+Codes
+A B C D A B C D
+(a) 2 1 3 4 (b) 3 1 4 2
+(c) 1 2 3 4 (d) 2 1 3 4
+
+--- PDF PAGE 822 ---
+94. Satellite having the same orbital
+period as the period of rotation of
+the earth about its own axis is
+known as
+(a) polar satellite
+(b) stationary satellite
+(c) geostationary satellite
+(d) INSAT
+95.
+A typical black hole is always
+specified by
+(a) a (curvature) singularity
+(b) a horizon
+(c) either a (curvature) singularity or a
+horizon
+(d) a charge
+96.
+The motion of the wheel of a cycle
+is
+(a) rectilinear
+(b) translatory and rotatory
+(c) rotatory
+(d) translatory
+97.
+In respect of the difference of the
+gravitational force from electric
+and magnetic forces, which one of
+the following statements is true?
+e 2015 I
+(a) Gravitational force is stronger than
+the other two
+(b) Gravitational force is attractive only,
+whereas the electric and the
+magnetic forces are attractive as
+well as repulsive
+(c) Gravitational force has a very short
+range
+(d) Gravitational force is a long range
+force, while the other two are short
+range forces
+98.
+A brick is thrown vertically from
+an aircraft flying 2 km above the
+earth. The brick will fall with a
+(a) constant speed e 2015 II
+(b) constant velocity
+(c) constant acceleration
+(d) constant speed for sometime, then
+with constant acceleration as it
+nears the Earth
+99.
+Which one of the following
+statements is not correct?
+e 2015 II
+(a) Weight of a body is different on
+different planets
+(b) Mass of a body on the earth, on
+the moon and in empty space is
+the same
+(c) Weightlessness of a body occurs
+when the gravitational forces acting
+on it is counter-balanced
+(d) Weight and mass of a body are
+equal at sea level on the surface
+of the earth
+Properties of Matter
+100. What is the value of stress in a
+wire of steel having radius of
+2 mm if 10 KN of force is applied
+on it?
+(a) 7 96 10 8. × N/m 2
+(b) 8 00 10 7. × N/m 2
+(c) 10 10 7× N/m 2
+(d) 10 10 8× N/m 2
+101. Why the spring is made up of
+steel in comparison of copper?
+(a) Copper is more costly than steel
+(b) Copper is more elastic than steel
+(c) Steel is more elastic than copper
+(d) None of the above
+102.
+Match the following columns.
+Column I
+(Property)
+Column II
+(Example)
+A. Elastic 1. Iron
+B. Plastic 2. Steel
+C. Ductile 3. Quartz
+D. Perfectly elastic 4. Paraffin wax
+Codes
+A B C D A B C D
+(a) 2 4 1 3 (b) 1 2 3 4
+(c) 4 3 2 1 (d) 3 4 2 1
+103.
+Consider the following statements
+1. The internal restoring force
+acting per unit area of
+cross-section of the deformed
+body is called stress.
+2. The ratio of stress to strain is
+a constant for a material and
+is called modulus of elasticity
+3. Air is more elastic than water.
+Which of the following statements
+is/are correct?
+(a) 1 and 3 (b) 2 and 3
+(c) 1 and 2 (d) Only 3
+104.
+A 50 kg girl wearing high heal
+shoes balances on a single heal.
+The heal is circular with a
+diameter 1.0 cm. The pressure
+exerted by the heal on the
+horizontal floor is (g 9.8 N) kg=
+(a) 6.2 10 N / m6 2×
+(b) 2.6 10 N / m5 2×
+(c) 6.2 10 N / m8 2×
+(d) 2.6 10 N / m6 2×
+105. The pressure exerted on the
+ground by a man is greatest
+(a) when he lies down on the ground
+(b) when he stands on the toes of one
+foot
+(c) when he stands with both foot flat
+on the ground
+(d) All of the above yield the same
+pressure
+106. Consider the following statements
+1. Pressure is measured by
+barometer.
+2. Atmospheric pressure is
+measured by manometer.
+3. Atmospheric pressure decrease
+with altitude.
+4. Atmospheric pressure is
+700 torr.
+Which of the following statements
+is/are correct?
+(a) 1 and 2 (b) 2 and 3
+(c) Only 3 (d) 1 and 4
+107.
+The relative density of silver is
+10.8. If the density of water be
+1 0 10 3. × kg/m3 the density of
+silver will be
+(a) 10 8 10 3. × kg/m 3 (b) 9 10 2× kg/m 3
+(c) 8 10 3× kg/m 3 (d) 5 10 2× kg/m 3
+108. The apparent weight of a steel
+sphere immersed in various
+liquids is measured using a spring
+balance. The greatest reading is
+obtained for the liquid
+(a) having the smaller density
+(b) having the largest density
+(c) in which the sphere was
+submerged deepest
+(d) having the greatest volume
+109. Hydraulic brakes in automatic
+vehicles are based on
+(a) Archimedes’ principle
+(b) Toricellis equation
+(c) Pascal’s law
+(d) Bernoulli’s equation
+110.
+If a ship moves from fresh water
+into sea water, it will
+(a) sink completely
+(b) sink a little bit
+(c) rise a little higher
+(d) remain unaffected
+111.
+Archimedes’ principle is used
+1. determining the relative
+density of a substance.
+2. in designing ships and
+submarines
+3. measuring a terminal velocity
+in air.
+Which of the following statements
+is/are correct?
+(a) 1 and 3 (b) 2 and 3
+(c) 1 and 2 (d) Only 2
+112.
+A needle made of steel floats in
+water, if it is placed horizontally
+because of
+(a) capillary action
+(b) interference
+(c) viscosity
+(d) surface tension
+617GENERAL SCIENCE Physics
+Previous Years’ Questions
+

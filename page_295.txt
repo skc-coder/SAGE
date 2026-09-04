@@ -1,0 +1,468 @@
+11. (a) Given, principal ( P) = ` 100
+Amount (A) received after 2 yr = ` 121
+Let rate of interest = R% per annum
+/c81A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+121 100 1
+100
+2
+= + 
+ 
+R
+⇒
+121
+100
+100
+100
+2
+= +
+ 
+R
+⇒
+11
+10
+100
+100
+2 2
+
+ 
+ = +
+ 
+R
+⇒
+11
+10
+100
+100
+= + R
+⇒ 100 11 100
+10
++ = ×R
+⇒ 100 110+ =R
+∴ R = − =110 100 10
+∴ Rate of interest = 10%
+12. (a) Refer to example 3.
+13. (d) Given, P = ` 5000,
+R R R1 2 3 8 10 12= = =%, %, %
+and n n n1 2 3 1= = = yr
+/c81 Amount
+= + 
+
+ 
+
+ +
+
+ 
+
+ +
+
+ 
+
+P
+R R R
+n n n
+1
+100
+1
+100
+1
+100
+1 2 3
+1 2 3
+[Rule 5]
+= × + 
+ 
+ +
+ 
+ +
+ 
+5000 1 8
+100
+1 10
+100
+1 12
+100
+
+
+=
+5000 27
+25
+11
+10
+28
+25
+× × ×
+ 
+ = ` 6652.80
+∴ Compound interest = 6652 80 5000. −
+= ` 1652.80
+14. (c) Given, P = ` x , R = 20% per annum,
+n = 3 yr
+and A = ` y
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+y = + 
+ 
+x 1 20
+100
+3
+⇒
+y = 
+ 
+x 6
+5
+3
+⇒
+y
+x
+= 216
+125
+⇒ y : :x = 216 125
+15. (a) Given, principal ( )P = ` 2000
+Time = 1 yr
+Rate of interest = 8% per annum
+Since, the interest is compounded
+semi-annually.
+Then, rate
+( ) %R = =8
+2
+4 half-yearly
+and time ( )n = × =1 2 2 half-yearly
+/c81 CI = + 
+ 
+ −
+
+
+P R
+n
+1
+100
+1
+[Rule 1. (ii)]
+CI
+= + 
+ 
+ −2000 1 4
+100
+2000
+2
+= × 
+ 
+ −2000 26
+25
+2000
+2
+= −2163 20 2000. = ` 163.20
+16. (a) Given, principal ( P) = ` 16000
+Amount received at the end of period
+(A) = ` 18522
+Let time = t yr
+∴ n t= 2
+Rate = 10% per annum i.e 5% half-yearly
+/c81
+A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+∴
+18522 16000 1 5
+100
+= + 
+ 
+
+n
+⇒
+18522
+16000
+21
+20
+
+ 
+ = 
+ 
+
+n
+⇒
+9261
+8000
+21
+20
+
+ 
+ = 
+ 
+
+n
+⇒
+21
+20
+21
+20
+3
+
+ 
+ = 
+ 
+
+n
+⇒ n = 3
+/c81 n t= 2 ⇒ 2 3t =
+∴
+t = 3
+2
+yr = 1 1
+2
+yr
+17. (a) Let sum/ principal be ` x and the rate
+be R% per annum.
+∴ Amount, A = 25
+16
+x and n = 2 yr
+/c81 A = P
+1
+100
++
+ 
+R
+n
+[Rule 1. (i)]
+∴
+25
+16
+1
+100
+2
+x x= + 
+ 
+R
+⇒
+25
+16
+1
+100
+2
+= +
+ 
+R
+⇒
+5
+4
+1
+100
+2 2
+
+ 
+ = +
+ 
+R
+⇒
+5
+4
+1
+100
+= +
+ 
+R ⇒
+R
+100
+1
+4
+=
+∴ R = 25%
+18. (b) Here, P = ` 3200,
+A = ` 3362
+[since, amount is payable quarterly]
+∴ R = 10% per annum = 10
+4
+% quarterly
+and let time = t
+⇒ n t= 4
+/c81 A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+⇒
+3362 3200 1 10
+4 100
+= +
+×
+
+
+
+
+
+
+
+
+n
+⇒
+3362
+3200
+410
+400
+= 
+ 
+
+n
+⇒
+41
+40
+41
+40
+2
+
+ 
+ = 
+ 
+
+n
+⇒ n = 2 ⇒ 4 2t = yr [as n t= 4 ]
+∴
+t = 1
+2
+yr
+19. (a) Given, A , A1 2 9680 10648= =` `
+and n = 2 yr
+∴ Rate of compound interest
+=
+−
+×
+A A
+A
+2 1
+1
+100% [Rule 7 (i)]
+= − × =10648 9680
+9680
+100 10% %
+∴ Sum =
+
+
+
+
+
+
+
+A
+A
+A
+n
+1
+1
+2
+[Rule 7 (ii)]
+= 
+ 
+9680 9680
+10648
+2
+= 
+ 
+9680 110
+121
+2
+= 
+ 
+9680 10
+11
+2
+= × =9680 100
+121
+8000`
+20. (a) Let the value of machine 3 yr ago be
+` x.
+and given, P = ` 10935, R = 10% and
+n = 3 yr
+/c81 x P R
+n
+= − 
+ 
+1
+100
+[Rule 8 (i)]
+∴
+x 1 10
+100
+10935
+3
+−
+ 
+ =
+⇒
+x 90
+100
+10935
+3
+
+ 
+ =
+∴
+x = × × ×
+× ×
+=10935 10 10 10
+9 9 9
+` 15000
+21. (d) Let the sum be ` x and rate be R %
+per annum.
+∴ Amount, A = ` 2x
+and time, n = 15 yr
+/c81 A P R
+n
+= + 
+ 
+1
+100
+[Rule 1. (i)]
+Then,
+x x 1
+100
+2
+15
++
+ 
+ =R
+⇒
+1
+100
+2
+15
++
+ 
+ =R …(i)
+Suppose the sum becomes eight times in
+‘n’ yr, then
+x x 1
+100
+8+
+ 
+ =R
+n
+[by given condition]
+⇒
+1
+100
+8 2 3+
+ 
+ = =R
+n
+…(ii)
+90 CDS Pathfinder

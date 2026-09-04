@@ -1,0 +1,2977 @@
+--- PDF Page 251 ---
+38. (b) After first bounce, height of ball
+= 
+ 
+ ×2
+3
+36
+1
+and after third bounce, height of ball
+= 
+ 
+ ×2
+3
+36
+3
+= × 8
+27
+36 = × =8 4
+3
+32
+3
+m = 10 2
+3
+m
+Hence, the required height at third
+bounce is
+10 2
+3
+m.
+39. (c) Product of four consecutive numbers
+plus one is always a square.
+Illustration 1 Let four consecutive
+numbers be 3, 4, 5 and 6.
+∴ ( ) ( )3 4 5 6 1 361 19 2× × × + = =
+Illustration 2 Let four consecutive
+numbers be 9, 10, 11 and 12.
+∴ ( ) ( )9 10 11 12 1 11881 109 2× × × + = =
+40. (b) The difference of two consecutive
+cubes is never divisible by 2.
+Illustration 1 Let the two consecutive
+numbers be 4 and 5.
+∴ ( ) ( )5 4 125 64 613 3− = − =
+Illustration 2 Let the two consecutive
+numbers be 9 and 10.
+∴ ( ) ( )10 9 1000 7293 3− = − = 271
+41. (b) ( . )
+.
+[ . ( . ) ]0 75
+1 0 75
+0 75 0 75 1
+3
+2
+−
++ + +
+= + +( . )
+.
+[ . ( . ) ]0 75
+0 25
+1 75 0 75
+3
+2
+= × + +3 0 75 1 75 0 752 2( . ) . ( . )
+= × + = =4 0 75 1 75 4 22( . ) .
+Hence, the required square root is 2.
+42. (d) 5 10
+5 5 2 20 32 50
++
+− − +
+= +
+− − +
+5 10
+5 5 4 5 4 2 5 2
+= +
++
+× −
+−
+( )
+( )
+( )
+( )
+5 10
+5 2
+5 2
+5 2
+[by rationalisation]
+= − + −
+−
+5 5 5 2 50 20
+5 22 2
+[/c81 ( )( )a b a b a b− + = − 2 2 ]
+= − + −
+−
+5 5 5 2 5 2 2 5
+5 2
+= =3 5
+3
+5
+43. (a) We have, x = 91
+216
+⇒ 1 1 91
+216
+125
+216
+5
+6
+3
+− = − = = 
+ 
+x
+⇒
+( )1 5
+6
+1
+3− =x ⇒ 1
+1
+6
+51
+3( ) −
+=
+x
+⇒ 3 1
+1
+3 6
+5
+9
+51
+3
+−
+−
+= − =
+( ) x
+44. (b) We have, 2, 61 4 /, 41 3 /
+The LCM of 2, 4, 3 are 12.
+( ) ; ( ) ; ( )2 6 46 3 4
+1
+12
+1
+12
+1
+12
+( ) ; ( ) ; ( )64 216 256
+1
+12
+1
+12
+1
+12
+2 6 4
+1
+4
+1
+3< < or
+2 6 44 3> >
+45. (b) We have, x = + 3 2
+/c81 1 1
+3 2
+3 2
+3 2x
+=
++
+× −
+−
+= −
+−
+= −3 2
+3 2
+3 2
+∴
+x
+x
++ =1 2 3
+On cubing both sides, we get
+x
+x x
+3
+3
+1 3 1 24 3+ + + 
+ 
+ =x
+/c81
+x
+x
+x
+x
+3
+3
+1 1+ + + = − + 
+ 
+24 3 2 1x
+x
+= − ×24 3 2 2 3
+= −24 3 4 3 = 20 3
+46. (a) Given, x = + −2 21 3 1 3/ /
+∴ 2 6 5 2 2 23 1 3 1 3 3x x− − = + −( ) / /
+− + − −6 2 2 51 3 1 3( ) / /
+= + + + − −2 2 2 3 2 21 1 3 1 3[ ( )] / /
+− + − −6 2 2 51 3 1 3( ) / /
+= + × + + −4 2 1
+2
+6 2 21 3 1 3( ) / /
+− + − −6 2 2 51 3 1 3( ) / /
+= + − =4 1 5 0
+47. (b) We have, 4 2 128x y =
+⇒ 2 2 22 7x y = ( )
+⇒ 2 22 7x + =y ( )
+⇒ 2 7x + =y
+⇒ y = −7 2 x …(i)
+Now, 3 3 93 2x x⋅ = y y
+⇒ 3 33 2x+2y x= y
+⇒ 3 2 2x x+ = y y …(ii)
+⇒ 3 2 7 2 2 7 2x x x x+ − = −( ) ( )
+[from Eq. (i)]
+⇒ 3 14 4 14 4 2x x x x+ − = −
+⇒ 4 15 14 02x x− + =
+⇒ 4 8 7 14 02x x x− − + =
+⇒ 4 2 7 2 0x x x( ) ( )− − − =
+⇒ ( ) ( )4 7 2 0x x− − =
+⇒ x = 7
+4
+or x = 2
+∴
+y = 7
+2
+or y = 3
+∴
+x y+ = 21
+4
+or x y+ = 5
+48. (a) Refer to question 32.
+46 CDS Pathfinder
+
+--- PDF Page 252 ---
+Distance
+The length of the path travelled by any object or a person betw een two places is known as distance.
+The unit of distance is m or km.
+Time
+The duration in hours, minutes or seconds spent to cover a cer tain distance is called time.
+Speed
+The distance travelled by any object or a person per unit time is known as speed of that object or a
+person. The unit of speed is m/s or km/h.
+So, speed
+= distance
+time
+EXAMPLE 1. There are 20 poles with a constant distance between each pole . A car takes 24 s to
+reach the 12th pole. How much time will it take to reach the las t pole?
+a. 25.25 s b. 17.45 s c. 35.75 s d. 41.45 s
+Sol. d. Suppose distance between each pole is 1m.
+∴ T otal distance = 19 m
+It takes 24 s to cover 11 m.
+∴ T o cover 19 m, it will take 24
+11 19 4145× = . .
+Conversion of Unit
+(i) To convert speed of an object from km/h to m/s, multiply it by 5
+18
+.
+e.g. 36 km/h = ×36 5
+18
+m/s = 10 m/s
+47MATHEMATICS Area and Perimeter of□Plane Figures
+06
+TIME AND□DISTANCE
+Regularly (4-7) questions have been asked from this chapter . Generally the type of questions vary from
+simple to quite complex. But if you know the basics, then this section becomes easy to score area.
+
+--- PDF Page 253 ---
+48 CDS Pathfinder
+(ii) To convert speed of an object from m/s to km/h,
+multiply it by 18
+5
+.
+e.g. 5 m/s = ×5 18
+5
+km/h = 18 km/h
+Average Speed
+The average speed of an object is defined as total
+distance travelled divided by total time taken.
+i.e. Average speed
+= Total distance
+Total time
+EXAMPLE 2. A man completes 30 km of a journey
+at 6 km/h and the remaining 40 km of the journey in
+5 h. Then, his average speed for the whole journey is
+a. 5 km/h b. 7 km/h
+c. 7.5 km/h d. None of these
+Sol. b. Average speed = = =Total distance travelled
+Total time taken
+70
+10 7 km/h
+Relative Speed
+The speed of an object with respect to other is called
+relative speed. Suppose two bodies are moving with
+speeds of x km/h and y km/h respectively, then their
+relative speed will be
+(i) ( )x y+ km/h, if both the bodies are moving in
+opposite directions.
+(ii) ( )x y− km/h, if both the bodies are moving in same
+direction.
+EXAMPLE 3. Two persons 27 km apart setting out at
+the same time are together in 9 h, if they walk in the
+same direction but in 3 h, if they walk in opposite
+directions. Then, their rates of walking (speeds) are
+a. 2 km/h and 4 km/h b. 3 km/h and 5 km/h
+c. 4 km/h and 8 km/h d. None of these
+Sol. d. Let the first person be walking faster with speed
+x km/h and second walking with speed y km/h.
+Case I Both walking in same directions.
+∴ Distance travelled by first person in 9 h = 9x km
+and distance travelled by second person in 9 h = 9 y km
+As both are 27 km apart
+∴ 9 9 27x − =y ⇒ x − =y 3 ...(i)
+Case II Both walking in opposite directions.
+∴ Distance travelled by first person in 3 h = 3x
+and distance travelled by second person in 3 h = 3y
+So, by condition, 3 3 27x + =y ⇒ x + =y 9 ...(ii)
+On adding Eqs. (i) and (ii), we get
+⇒ 2 12x = ⇒ x = 6 km/h
+Put the value of x in Eq. (ii), we get
+6 9 3+ = ⇒ =y y km/h
+So, their speeds are 6 km/h and 3 km/h.
+Important Rules and Formulae
+Rule 1 If A travels with speed x km/h for t1 h and with
+speed y km/h for t 2 h, then average speed = +
++
+x t yt
+t t
+1 2
+1 2
+EXAMPLE 4. A man walks at the rate of 5 km/h for
+6 h and at 4 km/h for 12 h. Find out the average
+speed (in km/h) of the man.
+a. 2 1
+3
+b. 5 1
+3
+c. 7 1
+3
+d. None of these
+Sol. d. Here, x = 5 km/h, y = 4 km/h, t1 6= h and t 2 12= h
+∴ Average speed = +
++
+xt yt
+t t
+1 2
+1 2
+= × + ×
++
+5 6 4 12
+6 12 = +30 48
+18
+= 78
+18
+= 4 1
+3 km/h
+Rule 2 If a man/vehicle covers two equal distances with
+the speed of x km/h and y km/h respectively, then the
+average speed of the man/vehicle for complete journey
+will be
+2x
+x
+y
+y+
+.
+EXAMPLE 5. A man covers half of his journey at
+6 km/h and the remaining half at 3 km/h. Then, his
+average speed is
+a. 1 km/h b. 2 km/h c. 3 km/h d. 4 km/h
+Sol. d. Here, x = 6 km/h and y = 3 km/h
+∴ Average speed = +
+2x
+x
+y
+y = × ×
++ =2 6 3
+6 3
+36
+9 = 4 km/h
+Rule 3 If a man changes his speed to x
+y
+
+ 
+ of his usual
+speed and gets late by t min, then the usual time taken by
+him
+= ×
+−
+t
+y
+x
+x( )
+.
+Note If a person changes his speed to x
+y
+
+ 
+ of his usual and
+reaches early by t min, then usual time taken by him
+= ×
+−
+t
+y
+x
+x( )
+.
+EXAMPLE 6. If a man travels with a speed of 2 5 /
+times of his original speed and he reached his office
+15 min late to fixed time, then the time taken with his
+original speed, is
+a. 10 min b. 15 min c. 20 min d. 25 min
+Sol. a. Here, x = 2 , y = 5 and t = 15 min
+∴ Required time = ×
+−
+x
+x
+t
+y = ×
+−
+2 15
+5 2
+= ×2 15
+3 = × =2 5 10 min
+
+--- PDF Page 254 ---
+Rule 4 When a man travels from A to B with a speed
+x km/h and reaches t1h later after the fixed time and when
+he travels with a speed y km/h from A to B, he reaches his
+destination t 2h before the fixed time, then distance
+between A and B y t t
+y
+= +
+−
+x
+x
+( )1 2 km.
+EXAMPLE 7. Walking at 3 km/h, Rajeev reaches his
+school 5 min late, if he walks at 4 km/h, he will be
+5 min early. The distance of Rajeev’s school from his
+house is
+a. 11
+2 km
+b. 2 km c. 2 1
+2 km
+d. 5 km
+Sol. b. Here, x = 3 km/h, y = 4 km/h, t1
+5
+60= h and t 2
+5
+60= h
+∴ Required distance = +
+−
+x
+x
+y t t
+y
+( )1 2 =
+× +
+ 
+
+−
+3 4 5
+60
+5
+60
+4 3
+= × ×3 4 10
+60 = 2 km
+Rule 5 A person travels from A to B with a speed
+x km/h and reaches t1 h late. Later he increases his speed
+by y km/h to cover the same distance and he still gets late
+by t 2 h, then the distance between A and B
+= − +( )( )t t y
+y
+1 2 x x.
+EXAMPLE 8. A boy walking at a speed of 20 km/h
+reaches his school 30 min late. Next time he
+increased his speed by 5 km/h but still he is late by
+10 min. What is the distance of the school from his
+home?
+a. 100
+3 km b. 50
+3 km c. 100
+7 km d. 2
+5 km
+Sol. a. Given, x = 20 km/h, y = 5 km/h, t1 30= min = 1
+2 h
+and t 2 10= min
+= 1
+6 h
+∴ Required distance = − +( ) ( )t t y y1 2 x x
+= −
+ 
+ + ×1
+2
+1
+6 20 5 20
+5( )
+= 100
+3 km
+Problem Based on Trains
+Problems based on trains are same as the problems
+related to speed, Time and Distance. The only difference
+is that the length of the moving object (train) is taken
+into consideration in these types of problems.
+Rule 6 (i) Time taken by a train x m long in passing a
+single post or pole or standing man = Time
+taken by the train to cover x m.
+(ii) Time taken by a train x m long in passing
+an object of length y m = Time taken by the
+train to cover ( )x y+ m.
+EXAMPLE 9. A 100 m long train is moving at a speed
+of 60 km/h. In what time will it cross a signal pole?
+a. 6 s b. 12 s c. 15 s d. None of these
+Sol. a. Here, speed of train = 60 km/h = × =60 5
+18
+50
+3 m/s
+and distance covered by train in passing a pole
+= Length of the train
+/c81 Length of train = 100 m
+∴ Time taken to pass the pole = =Distance travelled by train
+Speed of train s 6
+Rule 7 Time taken by a train of length l1 metre moving
+at a speed of s 1 m/s to cross another train of length l 2
+moving at a speed of s 2 m/s in same/opposite direction is
+l l
+s s
+1 2
+1 2
++
+±
+Use ‘+’ for opposite direction.
+Use ‘–’ for same direction.
+EXAMPLE 10. Two trains of lengths 110 m and
+130 m travel on parallel track. If they move in the
+same direction, the first one which is faster takes one
+minute to pass the other one completely. If they move
+in opposite directions then they pass each other in 3s,
+then the speed of the trains is
+a. 41 m/s and 39 m/s b. 32 m/s and 43 m/s
+c. 42 m/s and 38 m/s d. None of these
+Sol. c. Let v1 be the velocity of faster train and v2 be the
+velocity of slower train.
+Case I If they move in the same direction, then
+110 130 60
+1 2
++
+− =v v s ⇒ v v1 2 4− = …(i)
+Case II If they move in opposite directions,
+110 130 3
+1 2
++
++ =v v ⇒ v v1 2 80+ = …(ii)
+On adding Eqs. (i) and (ii), we get 2 841v = ⇒ v1 42= m/s
+Now, putting the value of v1 in Eq. (ii), we get
+42 80 2+ =v , v2 38= m/s = × ×3 4 10
+60 = 2 km
+Rule 8 If two trains start at the same time from points
+A and B towards each other and after crossing each other,
+they take t1 and t 2 time in reaching points B and A
+respectively, then ratio of their speed = t
+t
+2
+1
+or S
+S
+t
+t
+1
+2
+2
+1
+=
+49MATHEMATICS Time and Distance
+
+--- PDF Page 255 ---
+50 CDS Pathfinder
+EXAMPLE 11. Two trains, one from Howrah to Patna
+and the other from Patna to Howrah, start
+simultaneously. After they meet, the trains reach their
+destinations after 9 h and 16 h, respectively. What is
+the ratio of their speeds?
+a. 4:3 b. 3:1
+c. 4:5 d. 3:2
+Sol. a. Let us name the trains as A and B. Then, A’s speed :
+B’s speed = = =t t2 1 16 9 4 3: : : .
+Problems Based on Boat and Stream
+Boats and streams is an application of speed, time and
+distance. Some of the important terms are explained
+below
+• Still water If the speed of water is zero, then water is
+considered to be still water.
+• Stream water If the water of a river is moving at a
+certain speed, then it is called stream water.
+• Downstream motion In water, the direction along the
+stream is called downstream.
+• Upstream motion In water, the direction against the
+stream is called upstream.
+Some rules and problems related to boat and stream are
+given below
+Rule 9 If the speed of a boat in still water be x
+km/h and speed of stream be y km/h, then
+(i) Speed of boat downstream = +( )x y km/h
+(ii) Speed of boat upstream = −( )x y km/h
+EXAMPLE 12. A sailor goes 8 km downstream in
+40 min and returns back in 1 h. Then, the speed of
+the sailor in still water and the speed of the current is
+a. 5 km/h and 3 km/h b. 10 km/h and 2 km/h
+c. 7 km/h and 10 km/h d. None of these
+Sol. b. Let the speed of the sailor in still water = x km/h
+and speed of the current (stream) = y km/h
+Then, speed of the sailor downstream = +( )x y km/h
+and speed of the sailor upstream = −( )x y km/h
+∴ Time to travel 8 km downstream = 40 min = 40
+60 h = 2
+3 h
+⇒
+8 2
+3x + =y ⇒ x + =y 24
+2 /c81distance
+speed time=
+
+
+
+⇒ x + =y 12 …(i)
+and time to return = 1h ⇒
+8 1x − =y
+⇒ x − =y 8 …(ii)
+On adding Eqs. (i) and (ii), we get x = 10 and y = 2
+Hence, speed of sailor in still water = 10 km/h
+Speed of current (stream) = 2 km/h
+Rule 10 Let the speed of boat in downstream = u km/h
+and speed of boat in upstream = v km/h, then
+(i) Speed of boat in still water = +1
+2
+( )u v km/h
+(ii) Speed of stream (current) = −1
+2
+( )u v km/h
+EXAMPLE 13. The speed of boat upstream and
+speed of boat downstream are 7 km/h and 13 km/h,
+respectively. Then, the speed of stream and speed of
+boat in still water is
+a. 10 km/h and 3 km/h b. 15 km/h and 9 km/h
+c. 20 km/h and 6 km/h d. 40 km/h and 12 km/h
+Sol. a. Let the speed of boat in downstream and upstream
+be u km/h and v km/h, respectively.
+Given, v = 7 km/h and u = 13 km/h
+Speed of boat in still water = +1
+2 7 13( )
+= 1
+2 20 ( )= 10 km/h
+Speed of the stream
+= −1
+2 13 7( )
+= 1
+2 6 ( )= 3 km/h
+RACES
+A contest of speed in running, driving, riding, sailing or
+rowing over a specified distance is called a race.
+Suppose A and B are two contestants in a race. If A
+beats B by x m and length of the track is dm.
+Then, Distance travelled by B when A finishes the race
+= −d x and
+Speed of
+Speed of
+A
+B
+d
+d x
+=
+−
+Note (i) A gives B a start of x m means when A starts at starting
+point, B starts x m ahead from starting point.
+(ii) A gives B a start of t s means A starts t s after B starts
+from the same point.
+EXAMPLE 14. In a 200 m race, A can beat B by 50m
+and B can beat C by 8m. In the same race, A can beat
+C by what distance?
+a. 60 m b. 72 m c. 56 m d. 66 m
+Sol. c. A can beat B by 50 m.
+∴ speed of
+speed of
+A
+B = − =200
+200 50
+200
+150
+Also, B can beat C by 8m,
+∴
+speed of
+speed of
+B
+C = − =200
+200 8
+200
+192
+Now,
+speed of
+speed of
+speed of
+speed of
+speed ofA
+C
+B
+C= × speed of
+A
+B
+= × =200
+150
+200
+192
+200
+144
+So, A beats C by (200 − 144) = 56 m
+
+--- PDF Page 256 ---
+1. A car completes a journey in 6 h with a speed of
+50 km/h. At what speed must it travel to
+complete the journey in 5 h?
+(a) 60 km/h (b) 55 km/h (c) 45 km/h (d) 61 km/h
+2. Kiran covers a certain distance at 80 km/h and
+returns back to the same point at 20 km/h. Then,
+the average speed during the whole journey is
+(a) 35 km/h (b) 32 km/h (c) 30 km/h (d) 28 km/h
+3. Normally Sarita takes 3 h to travel between two
+stations with a constant speed. One day her
+speed was reduced by 12 km/h and she took
+45 min more to complete the journey. Then, the
+distance between the two stations is
+(a) 60 km (b) 120 km (c) 180 km (d) 95 km
+4. Rani goes to school at 10 km/h and reaches the
+school 6 min late. Next day, she covers this
+distance at 12 km/h and reaches the school
+9 min earlier than the scheduled time. What is
+the distance of her school from her house?
+(a) 16 km (b) 12 km (c) 10 km (d) 15 km
+5. A man travels first 50 km at 25 km/h next 40 km
+at 20 km/h and then 90 km at 15 km/h. His
+average speed (in m/s) for the whole journey is
+(a) 18 (b) 5 (c) 10 (d) 36
+6. A boy is running at a speed of p km/h to cover a
+distance of 1 km. But due to the slippery ground,
+his speed is reduced by q km/h ( )p q> . If he
+takes r h to cover the distance, then
+(a)
+1
+r
+pq
+p q
+=
++
+(b) 1
+r
+p q= + (c) r p q= − (d) 1
+r
+p q= −
+7. A train passes telegraph post in 40 s moving at a
+rate of 36 km/h. Then, the length of the train is
+(a) 400 m (b) 500 m (c) 450 m (d) 395 m
+8. A person can run around a circular path of
+radius 21 m in 44 s. In what time will the same
+person run a distance of 3 km?
+(a) 18 min 40 s (b) 16 min 30 s
+(c) 18 min 30 s (d) 16 min 40 s
+9. A car is ahead of a scooter by 30 km. Car goes at
+the rate of 50 km/h and the scooter goes at the
+rate of 60 km/h. The scooter overtakes the car
+after
+(a) 3 h (b) 3.5 h (c) 4 h (d)
+3 1
+4
+h
+10. Two towns A Band are 250 km apart. A bus
+starts from A to B at 6 : 00 am at a speed of
+40 km/h. At the same time another bus starts
+from B to A at a speed of 60 km/h. The time of
+their meeting is
+(a) 8 : 30 am (b) 8 : 00 am (c) 9 : 00 am (d) 9 : 15 am
+11. A train T
+1 leaves a place P at 5:00 am and
+reaches another place Q at 9 : 00 am another
+train T2 leaves the place Q at 7 : 00 am and
+reaches the place P at 10 : 30 am. The time at
+which the two trains cross each other is
+(a) 8 : 26 am (b) 7 : 56 am (c) 8 : 15 am (d) 8 : 00 am
+12. A certain distance is covered at a certain speed.
+If half of the distance is covered in double time,
+then the ratio of the two speeds is
+(a) 4 : 1 (b) 1 : 4 (c) 2 : 1 (d) 1 : 2
+13. Two trains start running at the same time from
+two stations which are 210 km apart and going
+in opposite directions cross each other at a
+distance of 100 km from one of the station. The
+ratio of their speed is
+(a) 11 : 9 (b) 10 : 11 (c) 11 : 10 (d) 9 : 11
+14. A police car is ordered to chase a speeding car
+that is 5 km ahead. The thief car is travelling at
+an average speed of 80 km/h and the police car
+pursues it at an average speed of 100 km/h. How
+long does it take for the police car to overtake
+the other car?
+(a) 17 min (b) 19 min (c) 13 min (d) 15 min
+15. Points A Band are 70 km apart on a highway. A
+car starts from A and another car starts from B
+at the same time. If they travel in the same
+direction they meet in 7 h, but they travel
+towards each other they meet in 1 h. What are
+the speeds of the cars?
+(a) 30 km/h, 40 km/h (b) 36 km/h, 40 km/h
+(c) 19 km/h, 20 km/h (d) 40 km/h, 50 km/h
+16. Assume that the distance that a car runs on 1 L
+of petrol varies inversely as the square of the
+speed at which it is driven. It gives a run of
+25 km/L at a speed of 30 km/h. At what speed
+should it be driven to get a run of 36 km/L?
+(a) 12.5 km/h (b) 25 km/h (c) 30 km/h (d) 40 km/h
+17. A man standing on a railway platform observes
+that a train going in one direction takes 4 s to
+pass him. Another train of same length going in
+the opposite direction takes 5 s to pass him. The
+time taken (in seconds) by the two trains to cross
+each other will be
+(a)
+32
+9
+(b) 33
+7
+(c) 40
+9
+(d) 49
+9
+51MATHEMATICS Time and Distance
+PRACTICE EXERCISE
+
+--- PDF Page 257 ---
+18. A bullock cart has to cover a distance of 80 km
+in 10 h. If it covers half of the journey in 3/5th
+time, what should be its speed to cover the
+remaining distance in the time left?
+(a) 5 km/h (b) 10 km/h (c) 15 km/h (d) 18 km/h
+19. By walking at
+3
+4
+of his usual speed, a man reaches
+his office 25 min later than usual. His usual time is
+(a) 60 min (b) 70 min (c) 75 min (d) 80 min
+20. A train covers a distance in 50 min, if it runs at
+a speed of 48 km/h on an average. The speed at
+which the train must run to reduce the time of
+journey to 40 min, will be
+(a) 10 km/h (b) 20 km/h (c) 40 km/h (d) 60 km/h
+21. Two trains travel in the same direction at
+50 km/h and 32 km/h, respectively. A man in the
+slower train observes that 15 s elapse before the
+faster train completely passes him. What is the
+length of the faster train?
+(a) 75 m (b) 125 m (c) 150 m (d)
+625
+3
+m
+22. A father and his son start at a point A with
+speeds of 12 km/h and 18 km/h, respectively and
+reach another point B. If his son starts 60 min
+after his father at A and reaches B, 60 min
+before his father, what is the distance between A
+and B ?
+(a) 90 km (b) 72 km (c) 36 km (d) None of these
+23. Two trains of lengths 100 m and 150 m are
+travelling in opposite directions at speeds of
+75 km /h and 50 km/h, respectively. What is the
+time taken by them to cross each other?
+(a) 7.4 s (b) 7.2 s (c) 7 s (d) 6.8 s
+24. A man can walk uphill at the rate of 2.5 km/h
+and downhill at the rate of 3.25 km/h. If the
+total time required to walk a certain distance up
+the hill and return to the starting position is 4 h
+36 min, what is the distance he walked up the hill?
+(a) 3.5 km (b) 4.5 km (c) 5.5 km (d) 6.5 km
+25. A boat goes 30 km upstream and 44 km
+downstream in 10 h. In 13 h it can go 40 km
+upstream and 55 km downstream. The speed of
+the boat in still water is
+(a) 9 km/h (b) 8 km/h (c) 4 km/h (d) 3 km/h
+26. A motorboat takes 2 h to travel a distance of
+9 km down the current and it takes 6 h to travel
+the same distance against the current. What is
+the speed of the boat in still water (in km/h)?
+(a) 3 (b) 2 (c) 1.5 (d) 10
+27. Ram travels from P to Q at 10 km/h and return at
+15 km/h. Shyam travels from P to Q and return
+at 12.5 km/h. If he takes 12 min less than Ram,
+then what is the distance between P and Q?
+(a) 60 km (b) 45 km (c) 36 km (d) 30 km
+28. A person x started 5 min earlier at 60 km/h from
+a place P, then another person y followed him at
+48 km/h, started his journey at 3:05 pm. Which
+of the following is/are correct.
+I. At 3 : 15 pm, x and y are 7 km apart.
+II. At 3 : 25 pm, y will overtake x
+(a) Only I (b) Only II
+(c) Both I and II (d) Neither I nor II
+29. A boy walking at a speed of 20 km/h reaches his
+school 30 min late. Next time he increases his
+speed by 4 km/h but still he is late by 10 min.
+Which of the following statement is/are correct?
+I. The distance of the school from his home is
+50 km/h.
+II. If he increases his speed by 10 km/h but still
+late by 10 min, then distance of the school will
+be 20 km.
+(a) Both I and II are correct (b) Only I is correct
+(c) Only II is correct (d) Neither I nor II are correct.
+Directions (Q. Nos.30-31) Ramesh and Prateek start
+running at same time in opposite directions from
+two points and after passing each other they
+complete their journeys in ‘ x’ and ‘ y’ h, respectively.
+Then,□Speed□of□Ramesh□:□Speed□of□Prateek
+= y x:
+30. Find the ratio of the speeds of Ramesh and
+Prateek, if Ramesh and Prateek completed their
+journeys in 16 h and 25 h after passing each other.
+(a) 5 : 4 (b) 5 : 3 (c) 4 : 5 (d) 3 : 5
+31. What if two persons completed their journey
+with speeds in the ratio 7 : 9, then how much
+time they should have taken to complete their
+journey after they meet each other.
+(a) 81 : 49 (b)
+7 9 : (c) 49 : 81 (d) 14 : 18
+PREVIOUS YEARS’ QUESTIONS
+32. A train 280 m long is moving at a speed of
+60 km/h. What is the time taken by the train to
+cross a platform 220 m long? e 2012 I
+(a) 45 s (b) 40 s (c) 35 s (d) 30 s
+33. A car travels along the four sides of a square at
+speeds
+v v v v, 2 , 3 and 4 , respectively. If u is the
+average speed of the car in its travel around the
+square, then which one of the following is
+correct? e 2012 I
+(a) u .
+v= 2 25 (b) u v= 3
+(c) v u v< < 2 (d) 3 4v < u < v
+34. A car is travelling at a constant rate of 45 km/h.
+The distance travelled by car from 10 : 40 am to
+1 : 00 pm is e 2012 II
+(a) 165 km (b) 150 km (c) 120 km (d) 105 km
+52 CDS Pathfinder
+
+--- PDF Page 258 ---
+35. A person travels a certain distance at 3 km/h
+and reaches 15 min late. If he travels at 4 km/h,
+he reaches 15 min earlier. The distance he has to
+travel is e 2013 I
+(a) 4.5 km (b) 6 km (c) 7.2 km (d) 12 km
+36. If a body covers a distance at the rate of x km/h
+and another equal distance at the rate of y km/h,
+then the average speed (in km/h) is e 2013 I
+(a)
+x + y
+2
+(b) x y (c) 2x
+x
+y
+y+
+(d) x
+x
++ y
+y
+37. A sailor sails a distance of 48 km along the flow
+of a river in 8 h. If it takes 12 h to return the
+same distance, then the speed of the flow of the
+river is e 2013 I
+(a) 0.5 km/h (b) 1 km/h (c) 1.5 km/h (d) 2 km/h
+38. A train running at the speed of 72 km/h goes
+past a pole in 15 s. What is the length of the
+train? e 2013 II
+(a) 150 m (b) 200 m (c) 300 m (d) 350 m
+39. Two cars A and B start simultaneously from a
+certain place at the speed of 30 km/h and
+45 km/h, respectively. The car B reaches the
+destination 2 h earlier than A. What is the
+distance between the starting point and
+destination? e 2013 II
+(a) 90 km (b) 180 km (c) 270 km (d) 360 km
+40. A man cycles with a speed of 10 km/h and
+reaches his office at 1 : 00 pm. However, when
+he cycles with a speed of 15 km/h, he reaches his
+office at 11 : 00 am. At what speed should he
+cycle, so that he reaches his office at 12 noon?
+e 2013 II
+(a) 12.5 km/h (b) 12 km/h (c) 13 km/h (d) 13.5 km/h
+41. A train takes 9 s to cross a pole. If the speed of the
+train is 48 km/h, the length of the train is e 2014 I
+(a) 150 m (b) 120 m (c) 90 m (d) 80 m
+42. A train takes 10 s to cross a pole and 20 s to
+cross a platform of length 200 m. What is the
+length of the train? e 2014 II
+(a) 50 m (b) 100 m (c) 150 m (d) 200 m
+43. A train travels at a speed of 40 km/h and
+another train at a speed of 20 m/s. What is the
+ratio of speed of the first train to that of the
+second train? e 2014 II
+(a) 2 : 1 (b) 5 : 9 (c) 5 : 3 (d) 9 : 5
+44. The distance between two points ( A and B ) is
+110 km. X starts running from point A at a
+speed of 60 km/h and Y starts running from
+point B at a speed of 40 km/h at the same time.
+They meet at a point C, somewhere on the line
+AB. What is the ratio of AC to BC ? e 2014 II
+(a) 3 : 2 (b) 2 : 3 (c) 3 : 4 (d) 4 : 3
+45. A man rides one-third of the distance from A to
+B at the rate of x km/h and the remainder at the
+rate of 2y km/h. If he had travelled at a uniform
+rate of 6z km/h, then he could have ridden from
+A to B and back again in the same time. Which
+one of the following is correct? e 2014 II
+(a) z y= +x (b) 3z y= +x
+(c)
+1 1 1
+z y
+= +
+x
+(d) 1
+2
+1 1
+z y
+= +
+x
+46. In a flight of 600 km, an aircraft was slowed
+down due to bad weather. Its average speed for
+the trip was reduced by 200 km/h and the time
+of flight increased by 30 min. The duration of the
+flight is e 2015 I
+(a) 1 h (b) 2 h (c) 3 h (d) 4 h
+47. With a uniform speed, a car covers a distance in
+8 h. Had the speed been increased by 4 km/h,
+the same distance could have been covered in 7 h
+and 30 min. What is the distance covered?
+e 2015 I
+(a) 420 km (b) 480 km (c) 520 km (d) 640 km
+48. A car travels the first one-third of a certain
+distance with a speed of 10 km/h, the next
+one-third distance with a speed of 20 km/h and
+the last one-third distance with a speed of
+60 km/h. The average speed of the car for the
+whole journey is e 2015 I
+(a) 18 km/h (b) 24 km/h (c) 30 km/h (d) 36 km/h
+49. A man rows 32 km downstream and 14 km
+upstream, and he takes 6 h to cover each distance.
+What is the speed of the current? e 2015 I
+(a) 0.5 km/h (b) 1 km/h (c) 1.5 km/h (d) 2 km/h
+50. A runs
+1 2
+3
+times as fast as B. If A gives B a start
+of 80 m, how far must the winning post from the
+starting point be so that A and B might reach it
+at the same time? e 2015 I
+(a) 200 m (b) 300 m (c) 270 m (d) 160 m
+51. A thief is noticed by a policeman from a distance
+of 200 m. The thief starts running and the
+policeman chases him. The thief and the
+policeman run at the speed of 10 km/h and
+11 km/h, respectively. What is the distance
+between them after 6 min? e 2015 I
+(a) 100 m (b) 120 m (c) 150 m (d) 160 m
+52. Two persons A and B start simultaneously from
+two places c km apart and walk in the same
+direction. If A travels at the rate of p km/h and B
+travels at the rate of q km/h, then A has
+travelled before he overtakes B a distance of
+e 2015 I
+(a)
+qc
+p q+
+km (b) pc
+p q−
+km (c) qc
+p q−
+km (d) pc
+p q+
+km
+53MATHEMATICS Time and Distance
+
+--- PDF Page 259 ---
+53. By increasing the speed of his car by 15 km/h, a
+person covers 300 km distance by taking an hour
+less than before. The original speed of the car
+was e 2015 II
+(a) 45 km/h (b) 50 km/h (c) 60 km/h (d) 75 km/h
+54. Two trains, one is of 121 m in length at the
+speed of 40 km/h and the other is of 99 m in
+length at the speed of 32 km/h are running in
+opposite directions. In how much time will they
+be completely clear from each other from the
+moment they meet ? e 2015 II
+(a) 10 s (b) 11 s (c) 16 s (d) 21 s
+55. The speeds of three buses are in the ratio
+2 : 3 : 4. The time taken by these buses to travel
+the same distance will be in the ratio. e 2015 II
+(a) 2 : 3 : 4 (b) 4 : 3 : 2
+(c) 4 : 3 : 6 (d) 6 : 4 : 3
+56. Two trains are moving in the same direction
+at 1.5 km/min and 60 km/h, respectively. A man
+in the faster train observes that it takes 27 s to
+cross the slower train. The length of the slower
+train is e 2015 II
+(a) 225 m (b) 230 m (c) 240 m (d) 250 m
+57. In a race of 100 m, A beats B by 4 m and A beats
+C by 2 m. By how many metres (approximately)
+would C beat B in another 100 m race assuming
+C and B run with their respective speeds as in
+the earlier race? e 2015 II
+(a) 2 (b) 2.04 (c) 2.08 (d) 3.2
+58. Three athletes run a 4 km race. Their speeds are in
+the ratio 16 : 15 : 11. When the winner wins the
+race, then the distance between the athlete in the
+second position to the athlete in the third
+position is e 2015 II
+(a) 1000 m (b) 800 m (c) 750 m (d) 600 m
+59. A motorboat, whose speed is 15 km/h in still
+water goes 30 km downstream and comes back in
+a total of 4h and 30 min. The speed of the
+stream is e 2015 II
+(a) 4 km/h (b) 5 km/h
+(c) 6 km/h (d) 10 km/h
+60. A bike consumes 20 mL of petrol per kilometre,
+if it is driven at a speed in the range of
+25-50 km/h and consumes 40 mL of petrol per
+kilometre at any other speed. How much
+petrol is consumed by the bike in travelling a
+distance of 50 km, if the bike is driven at a
+speed of 40 km/h for the first 10 km, at a speed
+of 60 km/h for the next 30 km and at a speed of
+30 km/h for the last 10 km? e 2015 II
+(a) 1 L (b) 1.2 L (c) 1.4 L (d) 1.6 L
+61. A passenger train takes 1 h less for a journey of
+120 km, if its speed is increased by 10 km/h
+from its usual speed. What is its usual speed?
+e 2016 I
+(a) 50 km/h (b) 40 km/h (c) 35 km/h (d) 30 km/h
+62. A man walking at 5 km/h noticed that a 225 m
+long train coming in the opposite direction crossed
+him in 9 s. The speed of the train is e 2016 I
+(a) 75 km/h (b) 80 km/h (c) 85 km/h (d) 90 km/h
+63. A cyclist moves non-stop from A to B, a distance
+of 14 km, at a certain average speed. If his
+average speed reduces by 1 km/h, then he takes
+20 min more to cover the same distance. The
+original average speed of the cyclist is e 2016 I
+(a) 5 km/h (b) 6 km/h
+(c) 7 km/h (d) None of these
+64. In a race of 1000 m, A beats B by 100 m or 10 s.
+If they start a race of 1000 m simultaneously
+from the same point and if B gets injured after
+running 50 m less than half the race length and
+due to which his speed gets halved, then by how
+much time will A beat B ? e 2016 I
+(a) 65 s (b) 60 s (c) 50 s (d) 45 s
+65. In a race A, B and C take part. A beats B by
+30 m, B beats C by 20 m and A beats C by 48 m.
+Which of the following is/are correct?
+I. The length of the race is 300 m.
+II. The speeds of A, B and C are in the ratio
+50 : 45 : 42.
+Select the correct answer using codes given below.
+(a) Only I (b) Only II e 2016 I
+(c) Both I and II (d) Neither I nor II
+54 CDS Pathfinder
+ANSWERS
+1 a 2 b 3 c 4 d 5 b 6 d 7 a 8 d 9 a 10 a
+11 b 12 a 13 c 14 d 15 a 16 b 17 c 18 b 19 c 20 d
+21 a 22 b 23 b 24 d 25 b 26 a 27 d 28 a 29 c 30 a
+31 a 32 d 33 c 34 d 35 b 36 c 37 b 38 c 39 b 40 b
+41 b 42 d 43 b 44 a 45 c 46 a 47 b 48 a 49 c 50 a
+51 a 52 b 53 c 54 b 55 d 56 a 57 b 58 a 59 b 60 d
+
+--- PDF Page 260 ---
+HINTS AND SOLUTIONS/CharA0 
+1. (a) Let speed be v km/h.
+We know that,
+Distance = Speed × Time
+6 50 5× = × v
+⇒
+v = ×6 50
+5
+= 60 km/h
+2. (b) Average speed =
++
+2xy
+x y
+[Rule 2]
+= × ×
++
+2 80 20
+80 20
+= 32 km/h
+3. (c) Let Sarita’s speed be u and distance is
+constant.
+Then, u u× = −3 12 15
+4
+( )
+/c813 45 min 15
+4
+h h+ =
+
+
+
+⇒
+u =
+×
+=
+45 4
+3
+60 km/h
+∴ Distance = Speed × Time
+= × =60 3 180 km
+4. (d) Here, x = 10, y = 12, t1
+6
+60
+= h and
+t2
+9
+60
+= h
+∴ Required distance =
++
+−
+xy t t
+y x
+( )1 2
+[Rule 4]
+=
+× ×
+×
+10 12 15
+60 2
+= 15 km
+5. (b) Total distance covered
+= + + =50 40 90 180 km
+Total time taken
+= + +
+ 
+ =50
+25
+40
+20
+90
+15
+10 h
+∴ Average speed for the whole journey
+= Total distance travelled
+Total time taken
+= =180
+10
+18 km/h
+∴ 18 km/h = ×18 5
+18
+m/s = 5 m/s
+6. (d) Actual speed of boy = −( )p q km/h
+Time taken to cover 1 km =
+−
+1
+p q
+∴ 1
+p q
+r
+−
+= ⇒ 1
+r
+p q= −
+7. (a) Length of train = Distance covered
+in 40 s at the rate of 36 km/h.
+[Rule 6 (i)]
+∴ Length of train
+= × × =40 36 5
+18
+400 m
+8. (d) Distance travelled in 44 s = 2πr
+= × ×2 22
+7
+21 = 132 m
+∴ Speed = =132
+44
+3 m/s
+/c81speed distance
+time
+=
+
+
+
+Time taken to travel 3 km
+= 3000
+3
+= 1000 s = 1000
+60
+min = 16 min 40 s
+9. (a) Distance between car and scooter
+= 30 km
+Relative speed
+y = − =60 50 10 km/h
+So, the time taken by scooter to overtake
+the car
+= =30
+10
+3 h
+10. (a) Let the buses meet x h after 6:00 am.
+Then, the distance covered by the two
+buses is 250 km.
+∴ 40 60 250x x+ =
+⇒
+x = =250
+100
+2 5 .h = 2h and 30 min
+So, they will meet at 8 : 30 am.
+11. (b) Let the distance between P Qand be
+x km and let the two trains meet y h
+after 7 am.
+Then, T1 covers x km in 4h and T2 covers
+x km in
+3 1
+2
+h.
+∴ Speed of train T1 4
+= x km/h
+and speed of train T 2
+2
+7
+= x km/h
+According to the question,
+x x x( )y y+ + =2
+4
+2
+7
+⇒ ( )y y+ + =2
+4
+2
+7
+1
+⇒ 7 2 8
+28
+1( )y y+ + =
+⇒ 7 14 8 28y y+ + =
+∴ y = 14
+15
+h
+= ×14
+15
+60 min = 56 min
+So, trains will meet at 7 : 56 am.
+12. (a) Let x km distance be covered in y h.
+Then, speed of object in first case
+= x
+y
+km/h
+As, half of this distance is covered in
+double time.
+Then, speed of object in second case
+= ÷x
+2
+2 y
+= × =x x
+2
+1
+2 4y y
+km/h
+∴ Ratio of first and second speeds
+= x x
+y y
+:
+4
+= =1 1
+4
+4 1: :
+13. (c) Let the speed of two trains be x km/h
+and y km/h, respectively. Then, the time
+taken by first train to cover
+110 km = Time taken by second train to
+cover 100 km .
+Thus,
+110 100
+x
+=
+y
+⇒ x
+y
+= 110
+100
+∴ x : :y = 11 10
+14. (d) Distance travelled by thief car in one
+hour = 80 km
+Distance travelled in one hour by police
+car = 100 km
+So, police travels extra 20 km in 1 h.
+So, to overtake thief, police car has to
+travel 5 km extra.
+∴ Time
+= =5
+20
+1
+4
+h = 60
+4
+min = 15 min
+15. (a) Let the speed of car A = x km/h
+Let the speed of car B y= km/h
+Total distance covered by b other the
+cars in 1h = 70 km
+x y( ) ( )1 1 70+ =
+x y+ = 70 …(i)
+[in opposite direction]
+Distance covered by both the cars in
+7 h = 70 km
+But in same direction
+7 7 70x y− = ⇒ x y− = 10 ...(ii)
+added Eq. (i) and (ii), we get
+2 80x = , x = 40 km/h, y = 30 km/h
+16. (b) Let the speed of car be v and distance
+covered by car in one litre be A.
+∴ A
+v
+∝ 1
+2 ⇒ A K
+v
+= 2
+Then, A = 25 km/h and v = 30 km/h
+So, 25
+30 2= K
+( )
+⇒ K = ×900 25
+⇒ K = 22500 ⇒ A
+v
+= 22500
+2
+55MATHEMATICS Time and Distance
+
+--- PDF Page 261 ---
+When A = 36 km/L
+v 2 22500
+36
+= ⇒ v = = 22500
+36
+150
+6
+Hence, the speed of a car is 25 km/h.
+17. (c) Let the length of each train be I m.
+⇒ Speed of first train = 
+ 
+I
+4
+m/s
+and speed of second train
+= 
+ 
+I
+5
+m/s
+As, both trains are moving in opposite
+direction.
+Time taken to cross each other
+= +
++
+I I
+I I
+4 5
+[Rule 7]
+=
+
+
+
+
+
+
+
+
+
+
+=
+×
+
+
+
+
+
+
+ =2
+9
+20
+20 2
+9
+40
+9
+I
+I s s
+18. (b) Given, total distance to cover in 10 h
+= 80 km
+If it covers 40 km in
+3
+5
+th of time i.e.
+40 km in 6 h.
+∴ Remaining time = − =10 6 4 h
+Remaining distance = 40 km
+∴ Required speed = ÷( )40 4 km/h
+= =40
+4
+10 km/h
+19. (c) Here, x = 3 m/s, y = 4 m/s
+and t = 25 min
+∴ Required time = ×
+−
+x t
+y x
+[Rule 3]
+= ×
+−
+=3 25
+4 3
+75 min
+20. (d) Distance travelled in 1h = 48 km
+∴ Distance travelled in 50 min
+= × =48
+60
+50 40 km
+Time to be reduced
+= 40
+60
+h
+∴ Required speed
+= =
+×
+=40
+40 60
+40 60
+40
+60
+/
+km/h
+21. (a) Let the length of faster train be x km.
+/c81 Trains travel in the same direction.
+∴ Relative speed = −(50 32) = 18 km/h
+Elapsed time = 15 s = 15
+3600
+h
+Now, time = distance
+speed
+⇒ 15
+3600 18
+= x ⇒ x 3600 18 15× = ×
+∴ x 18 15
+3600
+= × = 0.075km 75 m=
+22. (b) Let distance between A and
+B be kmx .
+By given condition,
+x x
+12 18
+2− = ⇒ 6 2 18 12x = × ×
+∴ x = × × =2 18 12
+6
+72 km
+Hence, the required distance is 72 km.
+23. (b) Relative speed when trains are in
+opposite direction
+2
+= +V V1
+= + =75 50 125 km/h
+= ×125 5
+18
+m/s
+and total distance covered
+= +( )100 150 = 250 m
+∴ Time taken to cross each other
+= Total covered distance
+Relative speed
+= ×
+×
+= .250 18
+125 5
+7 2 s
+24. (d) Let he walked up the hill at a
+distance of x km.
+By given condition,
+x x
+2 5 3 25
+4 36
+60.
++ =
+.
+⇒ x
+.
+1
+2 5
+1
+3 25
+276
+60
++
+ 
+ =
+.
+⇒
+x 2
+5
+4
+13
+276
+60
++
+ 
+ =
+∴
+x .= × =276
+60
+65
+46
+6 5 km
+25. (b) Let speed of boat in still water
+= x km/h
+and speed of boat in current water
+= y km/h
+∴ Downstream speed = +( )x y km/h
+Upstream speed = −( )x y km/h
+[Rule 9]
+According to the question,
+30 44 10
+x x−
++
++
+=
+y y
+…(i)
+and 40 55 13
+x x−
++
++
+=
+y y
+…(ii)
+Let 1
+x −
+=
+y
+u and 1
+x +
+=
+y
+v …(iii)
+Then, 30 44 10u v+ =
+40 55 13u v+ =
+On solving the above equations, we get
+u = 1
+5
+, v = 1
+11
+From Eq. (iii), we get
+x − =y 5 and x + =y 11
+On solving the above equations, we get
+x = =8 3, y
+Thus, the speed of boat in still water
+= 8 km/h
+26. (a) Let the speed of motorboat be
+x km/h and the speed of water bey km/h.
+Now, speed of boat downstream
+= +( )x y km/h [Rule 9]
+and speed of boat upstream
+= −( )x y km/h
+By given condition,
+9 2
+x +
+=
+y
+⇒ 2 2 9x + = y …(i)
+and 9 6
+x −
+=
+y
+⇒ 6 6 9x − = y
+⇒ 2 2 3x − = y …(ii)
+On solving Eqs. (i) and (ii), we get
+x = 3 km/h and y .= 1 5 km/h
+∴ Speed of boat = 3 km/h
+27. (d) Let the distance between P and
+Q d= km. Total time taken by Ram
+= + =d d d
+10 15
+25
+150
+Total time taken by Shyam = =2
+12 5
+4
+25
+d d
+.According to question,
+25
+150
+4
+25
+12
+60
+d d− =
+⇒
+d 25 24
+150
+1
+5
+−
+
+
+ =
+⇒
+d
+150
+1
+5
+= ⇒ d = 30 km
+28. (a) Distance travelled by x in 15 min
+= × =60 15
+60
+15 km
+Distance travelled by y in 10 min
+= × =48 10
+60
+8 km
+Difference = −( )15 8 km = 7 km
+Hence, at 3:15 pm they are 7 km apart.
+So, statement I is true. As speed of x is
+greater than y. So, y will never overtakex.
+Thus, statement II is false.
+29. (c) I. Here, x = 20 km/h, y = 4 km/h,
+t1 30= min, t2 10= min
+According to formula,
+∴ Required distance
+= − +( ) ( )t t x y x
+y1 2 [Rule 5]
+= − + 
+ 
+( ) ( )30 10
+60
+20 4 20
+4
+= × ×20
+60
+24 20
+4
+= × =5 8 40 km
+So, I is incorrect.
+56 CDS Pathfinder
+
+--- PDF Page 262 ---
+II. Here, x = 20 km/h, y = 10 km/h
+t1 30= min, t2 10= min
+According to formula,
+∴ Required distance
+=
+−
+
+
+
+
+
+
+ + 
+ 
+
+30 10
+60
+20 10 20
+10
+( )
+[Rule 5]
+= × ×20
+60
+30 20
+10
+= 20 km
+So, II is correct.
+30. (a) x = =16 25, y
+According to formula,
+∴
+Ramesh’ s Speed
+Prateek’ s Speed
+= = =y
+x
+25
+16
+5
+4
+or 5:4
+31. (a) Here, we know the relation
+Speed of Ramesh
+Speed of Prateek
+= y
+x
+⇒ 7
+9
+= y
+x
+On squaring both sides,
+49
+81
+= y
+x
+= 81 49 :
+32. (d) To cover a distance by train
+= +280 220 = 500 m
+Speed of train = 60 km/h
+= ×60 5
+18
+m/s
+= 50
+3
+m/s
+∴ Time taken by train
+= total distance
+speed
+= =500
+50 3
+30
+/
+s
+33. (c) Let side of a square be x.
+/c81 Average speed ( )u = total distance
+total time
+=
++ + +
+( )x + x + x + x
+x x x x
+v v v v2 3 4
+=
++ + +
+ 
+
+4
+1
+2
+1
+3
+1
+4
+x
+x 1
+v v v v
+= ×
++ + +
+4
+1 1
+2
+1
+3
+1
+4
+v = =48
+25
+1 92v v.
+which lies in the interval v u v.< < 2
+34. (d) Given, speed of a car = 45 km/h
+Time taken by the car
+= 140 min = 140
+60
+h
+So, required distance travelled by car
+= speed × time
+= × =45 140
+60
+105 km
+35. (b) Given, x = 3 km/h, y = 4 km/h,
+t1 15= min = 15
+60
+h
+and t2 15= min
+= 15
+60
+h
+∴ Required distance
+=
++
+−
+x
+x
+y t t
+y
+( )1 2
+[Rule 4]
+=
+× + 
+ 
+
+−
+3 4 15
+60
+15
+60
+4 3
+= × = × =12 30
+60
+12 1
+2
+6 km
+36. (c) If a body covers a distance at the rate
+of x km/h and another equal distance at
+the rate of y km/h, then =
++
+2xy
+x y
+[Rule 2]
+37. (b) Let speed of the flow of water
+be v km/h and rate of sailing of sailer be
+u km/h.
+Speed of sailor downstream
+= +( )u v km/h [Rule 9]
+Speed of sailor upstream = −( )u v km/h
+Condition I u v+ = 48
+8
+⇒ u v+ = 6 ...(i)
+Condition II u v− = 48
+12
+⇒ u v− = 4 ...(ii)
+On subtracting Eqs. (ii) from (i), we get
+v = 1 km/h
+38. (c) Speed of train = 72 km/h
+= ×72 5
+18
+= 20 m/s
+Length of train = distance covered
+x = ×20 15
+x = 300 m
+Length of the train is 300 m.
+39. (b) Let the distance between two points
+be x km
+Time taken by A − Time taken by B = 2
+⇒ x x
+30 45
+2− =
+⇒ x 3 2
+90
+2−
+
+
+ =
+⇒ x = × =90 2 180 km
+40. (b) Let t h be the time taken by the man
+to reach his office at speed of 15 km/h.
+Then, time taken to reach office at the
+speed of 10 km/h = +( )t 2 h
+Now, s t s t1 1 2 2× = ×
+⇒ 10 2 15× + = ×( )t t
+⇒ 10 20 15t t+ = ⇒ 5 20t =
+∴ t = 4 h
+Now, distance covered to reach office
+= ×s t1 1
+= × +10 4 2( ) = ×10 6 = 60 km
+Now, speed required to reach office at 12
+noon in 5 h.
+∴ Speed
+= 60
+5
+= 12 km/h
+41. (b) Speed of train = 48 km/h
+= ×
+ 
+48 5
+18
+m/s
+Let the length of train be x m
+x = × ×48 5
+18
+9
+x = 120 m
+Length of the train is 120 m.
+42. (d) Let the speed of a train be x m/s and
+length be y m.
+Condition I When t = 10 s
+time distance
+speed
+=
+⇒ 10 = y
+x
+∴ y = 10x ...(i)
+Condition II When t = 20 s
+and total distance = +y 200 m
+∴ Time Total distance
+Speed
+=
+20 200= +y
+x
+⇒ 20 200x = y +
+20
+10
+200× = +y y
+⇒ 2 200y y− = ⇒ y = 200
+Hence, the length of train is 200 m.
+43. (b) Given, speed of a train = 40 km/h
+= ×40 5
+18
+m/s
+Speed of another train = 20 m/s
+∴ Required ratio
+= Speed of first train
+Speed of second train
+=
+×40 5
+18
+20
+= ×
+×
+40 5
+20 18
+= ×2 5
+18
+= =10
+18
+5
+9
+or 5 9 :
+57MATHEMATICS Time and Distance
+D C
+A B
+3 v
+4v 2 v
+v
+x
+x
+x x
+
+--- PDF Page 263 ---
+44. (a) Given, distance between two points
+(A and B) = 110 km
+Their relative speed
+= + =60 40 100 km/h
+Time after which they meet
+= Total distance
+Relative speed
+= 110
+100
+= .1 10 h
+Distance covered by A in 1.1 h
+= = ×AC . 60 1 1 = 66 km
+Remaining distance
+= = − =BC 110 66 44 km
+∴ Required ratio = AC BC:
+= 66 44 : = 3 2 :
+45. (c) Let the total distance be d.
+Time taken to cover
+1
+3
+rd distance,
+t
+d d
+1
+1
+3
+3
+= =
+x x
+/c81time distance
+speed
+=
+
+
+
+
+
+Remaining distance
+= − =d d d1
+3
+2
+3
+Time taken to cover 2
+3
+rd distance,
+t
+d
+y
+d
+y2
+2
+3
+2
+2
+6
+= =
+= d
+y3
+Time taken to cover distance from A to
+B and B to A,
+∴ t d
+z
+d
+z
+= =2
+6 3
+According to the question,
+t t t1 2 + = ⇒
+d d
+y
+d
+z3 3 3x
++ =
+⇒ 1
+3
+1
+3
+1
+3x
++ =
+y z
+∴ 1 1 1
+x
++ =
+y z
+46. (a) Let the original speed of an aircraft
+be x km/h and its reduced speed
+= −( )x 200 km/h.
+Condition I
+Time taken by aircraft to cover 600 km
+= 600
+x
+h.
+Condition II Time taken by aircraft to
+cover
+600 km =
+−
+600
+200( )x
+h
+According to the question,
+600
+200
+600 1
+2x x−
+− = /c8130 1
+2
+m n hi =
+
+
+
+On dividing both sides by 600, we get
+1
+200
+1 1
+600 2x x−
+− =
+×
+⇒
+x
+x
+− −
+−
+=
+( )
+( )
+x
+x
+200
+200
+1
+1200
+⇒ x x2 200 240000 0− − =
+⇒ ( )( )x x− + =600 400 0
+⇒ x = 600 km h /
+or x ≠ − 400 km/h
+∴ Required time = =600
+600
+1 h.
+47. (b) Let the distance between A and B be
+x km and speed be V km/h.
+Case I Given, distance = x km, speed
+= V km/h and time = 8 h.
+∴
+Speed = Distance
+Time
+⇒ V = x
+8
+… (i)
+Case II If speed = +( )V 4 km/h
+and time = 7 1
+2
+h = 15
+2
+h
+then, V + =4
+15 2
+x
+/
+⇒ V + =4 2
+15
+x
+⇒ x x
+8
+4 2
+15
++ = [from Eq .(i)]
+⇒ 2
+15 8
+4x x− = ⇒ x
+120
+4=
+⇒ x = 480 km
+48. (a)
+Let total distance of AB be x km.
+For distance AC, t1
+3
+10 30
+= =x x/ h
+For distance CD, t2
+3
+20 60
+= =x x/ . h
+For distance BD, t3
+3
+60 180
+= =x x/ . h
+∴ Total time taken
+= + + = + +t t t1 2 3 30 60 180
+x x x
+= =10
+180 18
+x x
+∴ Average speed = Total distance
+Total time taken
+= =x
+x
+18
+18 km h /
+49. (c) Let speed of a boat in still water be
+x km/h and speed of the stream be y km/h.
+Then, speed of the boat downstream
+= +( ) /x y km h [Rule 9]
+and speed of the boat upstream
+= −( ) /x y km h
+According to the question,
+32 6
+x +
+=
+y
+/c81speed = distance
+time
+
+
+
+
+and
+14 6
+x −
+=
+y
+⇒ 6 6 32x + = y … (i)
+and 6 6 14x − = y … (ii)
+On subtracting Eq. (ii) from Eq. (i), we
+get
+12 18y =
+y = =18
+12
+1 5 .km/h
+50. (a) Let the speed of B be x m/s.
+∴ Speed of
+A = 1 2
+3
+x = 5
+3
+x m/s
+Ratio of speed of rates of A and B
+= 5
+3
+x x: = 5 3 :
+/c81 2 m are gained in a race of 5 m.
+∴ 1 m are gained in a race of 5
+2
+m.
+So, 80 m are gained in a race of
+5
+2
+80× m = 200 m
+51. (a) Given, speed of thief = 10 km/h
+= ×10 1000
+60
+m/min = 500
+3
+m/min
+and speed of policeman = 11 km/h
+= ×11 1000
+60
+m/min = 550
+3
+m/min
+Now, distance travelled by thief in 6 min
+= ×500
+3
+6 = 1000 m
+and distance travelled by policeman in
+6 min
+= ×550
+3
+6 = 1100 m
+∴ Difference = − =( )1100 1000 100 m
+Hence, the distance between them after
+6 min is 100 m.
+52. (b) Let A and B will meet after t h at
+point E.
+Distance travelled by A pt= h
+and distance travelled by B qt= h
+According to the question,
+pt qt c= + ⇒ pt qt c− =
+⇒ t p q c( ) − = ⇒
+t c
+p q
+=
+−
+…(i)
+/c81 Distance travelled by A pt=
+=
+−
+pc
+p q
+[from Eq. (i)]
+58 CDS Pathfinder
+A B
+x km
+A t1 t2 t3C D B
+x/3 km
+x km
+x/3 km x/3 km
+A B E
+C
+110 km BA
+
+--- PDF Page 264 ---
+53. (c) Let the original speed of car be
+x km/h.
+Time taken to cover 300 km = 300
+x
+h
+If the speed of car is increased by
+15 km/h.
+Then,
+300
+15
+300 1
+x x+
+= −
+⇒ 1 300 300
+15
+= −
++x x
+= + −
++
+
+
+
+
+
+
+
+
+300 15
+15
+x x
+x x( )
+⇒
+1 4500
+152=
++x x
+⇒ x x2 15 4500 0+ − =
+⇒ ( )( )x x+ − =75 60 0
+∴ x = 60 km/h
+54. (b) Total length of trains
+= + =121 99 220 m
+Relative speed of trains = +( )40 32
+km/h
+= 72 km/h
+= ×72 5
+18
+m/s = 20 m/s
+∴ Time = distance
+speed
+= =220
+20
+11 s
+55. (d) Let the distance be x.
+Now, ratio of time taken to travel the
+distance by each bus is
+x x x
+2 3 4
+: : ⇒
+12
+2
+12
+3
+12
+4
+: :
+= 6 4 3: :
+56. (a) Speed of faster train is 1.5 km/min.
+i.e. 90 km/h or 25 m/s
+and speed of slower train = 60 km/h
+= 50
+3
+m/s
+Since, these trains are moving in same
+direction.
+So, relative speed of train
+= −
+ 
+25 50
+3
+m/s
+= 25
+3
+m/s
+Time taken by crossing slower from
+= 27 s
+∴ Distance = speed × time
+= ×25
+3
+27 = 225 m
+57. (b) When A covers 100 m, then B covers
+96 m and C covers 98 m.
+i.e. when C covers 98 m, then B covers
+96 m.
+∴ when C covers 100 m, then B covers
+100 96
+98
+×
+m, i.e. 97.96
+So,C beats B by approximately 2.04 m.
+58. (a) Ratio of speeds are 16 : 15 : 11.
+Let speed of winner athletic be16x km/h.
+Similarly, speed of athletic in second
+and third position be 15x and 11x,
+respectively.
+T otal distance travelled by winner is 4 km.
+∴ Time
+= 4
+16x
+h
+Distance travelled by second athletic in
+4
+16x
+h = × =4
+16
+15 15
+4x
+x km
+Similarly, distance travelled by third
+athletic in
+4
+16x
+h = × 4
+16
+11
+x
+x = 11
+4
+km
+∴ Difference between their distances
+= −
+ 
+15
+4
+11
+4
+km
+= =1 km 1000 m
+59. (b) Refer to example 12.
+60. (d) Petrol consumed by the bike
+= × + ×( ) ( )10 20 30 40
++ ×( )10 20 mL
+= + +( )200 1200 200 mL
+= 1600 mL = 1 6 .L
+61. (d) Refer to question 53.
+62. (c) Let the speed of the train = x km/h
+Then, relative speed of train
+= +( )x 5 km/h
+and length of the train
+= 225 m = 0 225 .km [given]
+Time taken by train to cross the man
+= 0 225
+5
+.
+x +
+h
+According to the question,
+0 225
+5
+9
+3600
+.
+x +
+=
+⇒ x + =5 90
+⇒ x = 85 km/h
+Hence, the speed of the train is 85 km/h.
+63. (c) Refer to question 46.
+64. (a) Since, either A beats B by 100 m or
+10 s. It means that B runs 100 m in 10 s.
+∴ Speed of B = =100
+10
+10 m s/
+/c81B gets injured at a distance of 450 m
+and his speed gets halved.
+So, time taken by B to cover 1000 m
+= +450
+10
+550
+5
+= 155
+/c81Ratio of speed of A and B is equal to
+ratio of distance covered by A and B.
+A B: : : = =1000 900 10 9
+Now, speed of A = ×10
+9
+10 = 100
+9
+m/s
+Time taken by A to cover
+1000 1000
+100
+9m = × = 90 s
+Hence, A beat B by length of time
+= − =( )155 90 65 s
+65. (c) I. Let the length of race be x m.
+Then, distance covered by A = x m.
+Distance covered by B when A
+reaches the destination = −x 30
+Distance covered by C when A
+reaches the destination = −x 48
+Ratio of speed of B to A = −x
+x
+30
+Ratio of speed of C to A = −x
+x
+48
+and distance covered by C when B
+reaches the destination = −x 20
+Ratio of speed B to C =
+−
+x
+x 20
+x
+x
+x
+x
+− = −
+−
+30 48
+20
+B
+A
+C
+A
+B
+C
+= ×
+
+
+
+⇒ x x x2 2 50 600 48− + = −x
+∴ x = 300 m
+II. The speeds of A,B and C are in the
+ratio
+300 : 270 : 252 = 50 : 45 : 42
+59MATHEMATICS Time and Distance
+B A
+900 m 100 m
+1000 m
+
+--- PDF Page 265 ---
+In this chapter, we will study the relationship among the qua ntity of work given, wages given,
+stipulated time, number of persons etc., and after it, we wil l be able to calculate the work in stipulated
+time by arranging some persons according to the work but befo re that lets discuss some basic rules.
+IMPORTANT RULES AND FORMULAE
+Rule 1 If a person can do a piece of work in ‘ n’ days, then he will do 1
+n
+of the work in one day and if a
+person can do
+1
+n
+th of work in one day, then he will complete the work in n days.
+e.g. If Raj can do a piece of work in 20 days, then he will do 1/20 th of the work in one day.
+Note In the problems related to time and work it is always consider ed that a man/woman works at uniform rate.
+Rule 2 A and B can do a piece of work in x days and y days, respectively. Then, time taken by( )A B+ to
+complete the work is equal to reciprocal of ( )A B+ ’s one day’s work, i.e. xy
+x y+
+.
+Rule 3 If A and B can complete a work in x days and A alone can finish that work in y days, then
+number of days required to complete the work by B xy
+y x
+=
+−
+days
+Rule 4 If A and B can do a piece of work in x days. B and C can do same work in y days, C and A can
+do same work in z days. Then, they will complete the same work in 2x
+x x
+yz
+y yz z+ +
+days by working
+together.
+60 CDS Pathfinder
+07
+TIME AND□WORK
+Usually (2-4) questions have been asked from this chapter . Generally questions are asked on Man-
+hours formulae, total wages paid for a work, number of days to complete a certain work and pipes
+and cisterns.
+
+--- PDF Page 266 ---
+EXAMPLE 1. Raj can do a piece of work in 20 days
+and Rohan can do it in 12 days. How long will they
+take if both work together?
+a. 5 1
+2 days
+b. 7 1
+2 days
+c. 3 1
+2 days
+d. 9 1
+2 days
+Sol. b. Raj’s one day’s work = 1
+20
+Rohan’s one day’s work = 1
+12
+∴ (Raj + Rohan)’s one day’s work = +1
+20
+1
+12 = + =3 5
+60
+8
+60
+∴ Number of day’s taken by Raj and Rohan together to
+complete the work
+= 60
+8 days or 7 1
+2 days
+Here, x = 20 days and y = 12 days
+∴ Required time
+= +
+x
+x
+y
+y [Rule 2]
+= ×
++
+20 12
+20 12 = ×20 12
+32 = 15
+2 = 7 1
+2 days
+EXAMPLE 2. A and B together can do a piece of
+work in 12 days and A alone can do it 18 days. In how
+many days can B alone do it?
+a. 14 days b. 24 days c. 36 days d. 28 days
+Sol. c. Here, x = 12 and y = 18
+∴ Time taken by B y
+y= − = ×
+− =x
+x
+12 18
+18 12 36 days [Rule 3]
+EXAMPLE 3. A Band can do a piece of work in
+3 days. B Cand in 9 days and A Cand in 12 days. Find
+the time in which A, B and C can finish the work,
+working together.
+a. 3 days b. 3 1
+4 days
+c. 3 15
+19 days d. None of these
+Sol. c. Here, x = 3, y = 9 and z = 12
+According to rule,
+Required time taken by, A B, and C
+= + +
+2x
+x x
+yz
+y yz z [Rule 4]
+= × × ×
+× + × + ×
+2 3 9 12
+3 9 9 12 3 12 = × = =6 12
+19
+72
+19 3 15
+19 days
+Rule 5 If two groups, M1 persons of the first group can
+do ‘W1’, work in ‘ D1’ days working T1 h in a day earning
+a sum of ` R1 and M 2 persons of the second group can do
+W2 work in D2 days working T2 h in a day earning a sum
+of ` R2. If each person of both group has the same
+efficiency of work, then
+M D T
+W R
+M D T
+W R
+1 1 1
+1 1
+2 2 2
+2 2
+=
+EXAMPLE 4. 15 men complete a work in 16 days. If
+24 men are employed, then the time required to
+complete that work will be
+e 2014 I
+a. 7 days b. 8 days c. 10 days d. 12 days
+Sol. c. Let the work done be 1.
+Here, M1 15= , D1 16= , W W1 2 1= = , M2 24= and D2 = ?
+Now, according to the formula,
+M D W M D W1 1 2 2 2 1= ⇒ 15 16 1 24 1 2× × = × × D
+⇒ D2
+15 16
+24= × ⇒ = =240
+24 10 days
+Therefore, 10 days are required to complete the work.
+Rule 6 If ‘ m’ men or ‘ n’ women can do a piece of
+work in ‘ a’ days, then x men and y women can do the
+same work in 1
+x
+m a
+y
+n a×
++
+×
+days.
+EXAMPLE 5. If 3 men or 4 women can reap a field
+in 43 days. How long will 7 men and 5 women take to
+reap it?
+a. 3 days b. 7 days c. 12 days d. 15 days
+Sol. c. Here, m = 3, n = 4, a = 43, x = 7 and y = 5
+∴ Required days =
+× + ×
+=
+× + ×
+1 1
+7
+3 43
+5
+4 43
+x y
+m a n a
+[Rule 6]
+=
++
+ 
+
+1
+1
+43
+7
+3
+5
+4
+=
+×
+=1
+1
+43
+43
+12
+12days
+Rule 7 If A can do a work in x days and B can do y% fast
+than A, then B will complete the work in 100
+100
+x
+y( ) +
+days.
+EXAMPLE 6. x can do a work in 16 days. In how
+many days will the work be completed by y, if the
+efficiency of y is 60% more than that of x? e 2013 II
+a. 10 days b. 12 days c. 25 days d. 30 days
+Sol. a. Here, x = 16 days and y = 60% faster
+∴ Required days = + = ×
++
+100
+100
+100 16
+100 60
+x
+y = =1600
+160 10 days
+[Rule 7]
+Rule 8 If A, B and C can do a piece of work in x y, and
+z days, respectively and they received ` k as wages by
+working together, then
+share of A yz
+xy yz zx
+k=
++ +
+×`
+share of B =
++ +
+×` xz
+xy yz zx
+k
+and share of C xy
+xy yz zx
+k=
++ +
+×`
+61
+
+--- PDF Page 267 ---
+62 CDS Pathfinder
+Note If A and B can do a piece of work in x days and y days,
+respectively and they received ` k as wages by working
+together, then share of A yk
+y
+=
++
+`
+x
+and share of B k
+y
+=
++
+` x
+x
+.
+Wages are directly proportional to the work done and
+indirectly proportional to the time taken by the individual .
+EXAMPLE 7. X completes a job in 2 days and Y
+completes it in 3 days and Z takes 4 days to complete
+it. If they work together and get ` 3900 for the job,
+then how much amount does Y get?
+a. ` 1800 b. ` 1200 c. ` 900 d. ` 800
+Sol. b. Here, a = 2 days, b = 3 days and c = 4 days and
+k = ` 3900
+Now, amount of y ac
+ab bc ca k= + + × [Rule 8]
+= ×
+× + × + × ×2 4
+2 3 3 4 4 2 3900
+= + + ×8
+6 12 8 3900 = × =8 3900
+26 1200`
+SOME OTHER FORMULAS
+1. If A and B can do a piece of work in x and y days,
+respectively. A and B started working together but A left
+the work t days before completing the work, then time
+taken to complete the work will be ( )
+( )
+x
+x
++
++
+t y
+y
+days.
+2. A and B do a piece of work in ‘ a’ and ‘ b’ days,
+respectively. Both begin together but after some days,
+A leaves the work and the remaining work is
+completed by B in x days. Then, the time after which A
+left is given by T b x a
+a b
+= −
++
+( )
+3. If A and B can do a piece of work in x and y days,
+respectively. They start working together and after t
+days B leaves the work, then time taken to finish the
+whole work will be x
+y
+y t× −( ) days.
+EXAMPLE 8. Akshu can do a piece of work in 10
+days and Harshal can do same work in 12 days. They
+started working together but Akshu left the work 2
+days before completion of work, then time taken to
+complete the work?
+a. 6 6
+11 days b. 5 3
+10 days c. 4 3
+2 days
+d. 7 2
+5 days
+Sol. a. 6 6
+11 days = × +
++ = × =12 10 2
+10 12
+12 12
+22 6 6
+11
+( ) days
+EXAMPLE 9. A can do a piece of work in 10 days
+and B can do same work in 15 days. They started
+working together but after 2 days, A left work. The
+remaining work was completed by B alone, then time
+taken to complete the work?
+a. 8 3
+11 days b. 8 2
+3 days
+c. 5 3
+4 days d. 2 5
+3 days
+Sol. b. 8 2
+3 days
+= − = =10
+15 15 2 26
+3 8 2
+3( ) days
+PIPES AND CISTERNS
+Problems on pipes and cisterns are based on the basic
+concept of time and work. Pipes are connected to a tank or
+cistern and are used t4o fill or empty the tank or cistern.
+Important Rules and Formulae
+Rule 9 If there are two pipes A Band takes ‘ a’ and ‘ b’ h
+respectively to fill a tanker, then the two pipes together
+fill
+1 1
+a b
++
+ 
+ part of the tank in 1h and time taken to fill
+the tank will be
+ab
+a b+
+
+ 
+ h. If a pipe fills a tank in ‘ a’ h, then
+in 1 h only
+1
+a
+of the tank is filled.
+EXAMPLE 10. Pipe A can fill a tank in 45 h and pipe
+B can fill it in 36 h. If both the pipes are opened in the
+empty tank. In how many hours will it be full?
+a. 10 h b. 15 h c. 20 h d. 28 h
+Sol. c. Here, a = 45 h and b = 36 h.
+∴ Required time = +
+ab
+a b = ×
++
+45 36
+45 36 = =1620
+81 20 h
+Rule10 (i) If a pipe can fill a tank in ‘ a’ h and another
+can fill the tank in ‘ b’ h but a third pipe
+empties the filled tank in ‘ ’c h, then in one
+hour 1 1 1
+a b c
++ −
+ 
+ part of the tank will be
+filled (when all the three pipes are open) and
+time taken to fill the tank will be
+abc
+bc ac ab+ −
+h.
+(ii) If a pipe can fill a tank in a1 h and another
+pipe can empty the filled tank in a2 h, then
+in one hour 1 1
+1 2a a
+−
+
+ 
+
+ part of the tank will be
+filled. (when both pipes are open) and time
+taken to fill the tank will be
+a a
+a a
+1 2
+2 1−
+
+
+ 
+
+ h.
+EXAMPLE 11. Two pipes ‘ A’ and ‘ B’ can fill a tank in
+36 min and 45 min, respectively. A waste pipe ‘ C’ can
+empty the tank in 30 min. In how much time the tank
+is full if all three pipes are opened?
+a. 60 min b. 90 min c. 115 min d. None of these
+Sol. a. Here, a b= =36 45, and c = 30.
+So, time taken to fill the tank will be
+= + −
+abc
+ac bc ab [Rule 8]
+= × ×
+× + × − ×
+36 45 30
+36 30 45 30 36 45 = 60 min
