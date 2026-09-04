@@ -45,6 +45,7 @@ The square root of a non-negative real number $x$, denoted $\sqrt{x}$, is the un
 
 - [[cds/math/notes/questions/q5_1|Q1: Decimal Root Simplification Ratio]]
 - [[cds/math/notes/questions/q5_2|Q2: Smallest 4-Digit Perfect Square]]
+- [[cds/math/notes/questions/q5_3|Q3: NDA 2016 I Q48 - Nested Radical C&D]]
 
 ## Variations
 
