@@ -11,12 +11,12 @@ tags: [cds, math, triangles, centroid, incenter, circumcenter, orthocenter, subt
 
 ## 1. Summary of 4 Core Triangle Centers
 
-| Center Name | Intersection of | Position (Acute/Right/Obtuse) | Key Properties & Ratios |
-| :--- | :--- | :--- | :--- |
-| **Centroid ($G$)** | Medians | Always inside | Divides medians in ratio $2:1$. Divides triangle into 6 equal areas. |
-| **Incenter ($I$)** | Internal Angle Bisectors | Always inside | Equidistant from all 3 sides ($r$). $\angle BIC = 90^\circ + \frac{\angle A}{2}$. |
-| **Circumcenter ($O$)** | Perpendicular Side Bisectors | Inside / Midpoint of Hypotenuse / Outside | Equidistant from all 3 vertices ($R$). $\angle BOC = 2\angle A$. |
-| **Orthocenter ($H$)** | Altitudes | Inside / Vertex of Right Angle / Outside | $\angle BHC = 180^\circ - \angle A$. |
+| Center Name            | Intersection of              | Position (Acute/Right/Obtuse)             | Key Properties & Ratios                                                           |
+| :--------------------- | :--------------------------- | :---------------------------------------- | :-------------------------------------------------------------------------------- |
+| **Centroid ($G$)**     | Medians                      | Always inside                             | Divides medians in ratio $2:1$. Divides triangle into 6 equal areas.              |
+| **Incenter ($I$)**     | Internal Angle Bisectors     | Always inside                             | Equidistant from all 3 sides ($r$). $\angle BIC = 90^\circ + \frac{\angle A}{2}$. |
+| **Circumcenter ($O$)** | Perpendicular Side Bisectors | Inside / Midpoint of Hypotenuse / Outside | Equidistant from all 3 vertices ($R$). $\angle BOC = 2\angle A$.                  |
+| **Orthocenter ($H$)**  | Altitudes                    | Inside / Vertex of Right Angle / Outside  | $\angle BHC = 180^\circ - \angle A$.                                              |
 
 ---
 
