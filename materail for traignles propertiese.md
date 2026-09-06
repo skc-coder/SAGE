@@ -1,3 +1,4 @@
+[[questions ]]
 The [Basic Proportionality Theorem](https://www.khanacademy.org/math/ncert-class-10/xd6a17b08edbd2443:triangles-ncert-new/xd6a17b08edbd2443:basic-proportionality-theorem-thales-theorem-and-its-converse/v/basic-proportionality-theorem), also known as Thales' Theorem, states that ==if a line is drawn parallel to one side of a triangle to intersect the other two sides, it divides those two sides in the same ratio==.
 
 Statement
