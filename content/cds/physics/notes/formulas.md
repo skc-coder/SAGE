@@ -151,8 +151,10 @@ For projection angle $\theta$ with initial speed $u$:
 - **Archimedes' Principle & Buoyancy**:
   $$F_B = \text{Weight of displaced liquid} = \rho_{\text{fluid}} V_{\text{submerged}} g$$
   - Floating condition: $\text{Weight of object} = \text{Buoyant force}$.
-- **Density & Specific Gravity**:
-  $$\text{Density } \rho = \frac{\text{Mass}}{\text{Volume}}, \quad \text{Relative Density} = \frac{\rho_{\text{substance}}}{\rho_{\text{water at } 4^\circ\text{C}}}$$
+- **Density, Specific Gravity & Liquid Mixtures**:
+  $$\text{Density } d = \frac{\text{Mass}}{\text{Volume}}, \quad \text{Relative Density} = \frac{d_{\text{substance}}}{d_{\text{water at } 4^\circ\text{C}}}$$
+  - **Equal Volume Mixture ($V_1 = V_2$)**: $D = \frac{d_1 + d_2}{2}$ (Arithmetic Mean)
+  - **Equal Mass Mixture ($m_1 = m_2$)**: $D = \frac{2 d_1 d_2}{d_1 + d_2}$ (Harmonic Mean)
 
 ### Hydrodynamics & Surface Dynamics
 
