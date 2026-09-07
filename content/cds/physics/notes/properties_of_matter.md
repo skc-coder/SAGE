@@ -60,7 +60,7 @@ $$F_B = \rho_{\text{fluid}} V_{\text{submerged}} g$$
 - [[cds/physics/notes/subtopics/density_liquid_mixtures|Density & Liquid Mixtures (Equal Volume vs Equal Mass)]]
 
 ---
-
+![[Pasted image 20260906080620.png]]![[Pasted image 20260906080623.png]]
 ## Navigation
 
 - [[cds/physics/physics_overview|Physics Overview]]

@@ -19,6 +19,7 @@ Physics in the CDS (Combined Defence Services) exam covers core concepts from cl
 - [[cds/physics/notes/properties_of_matter|Ch 03. Properties of Matter & Fluid Mechanics]]
 - [[cds/physics/notes/heat_thermodynamics|Ch 04. Heat & Thermodynamics]]
 - [[cds/physics/notes/waves_oscillations|Ch 05. Oscillations, SHM & Waves]]
+- [[light]]
 - [[cds/physics/notes/optics|Ch 06. Optics & Optical Instruments]]
 - [[cds/physics/notes/electricity_magnetism|Ch 07. Electricity & Magnetism]]
 - [[cds/physics/notes/modern_physics|Ch 08. Modern Physics & Communication Systems]]

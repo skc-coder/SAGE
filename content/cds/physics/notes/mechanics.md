@@ -57,7 +57,8 @@ Comprehensive theoretical framework and formula derivations for Kinematics, Dyna
   - Upward ($a = -g$): $v = u - g t, \quad h = u t - \frac{1}{2} g t^2, \quad v^2 = u^2 - 2 g h$
 
 ---
-
+![[Pasted image 20260906081900.png]]![[Pasted image 20260906081925.png]]
+![[Pasted image 20260906081900.png]]![[Pasted image 20260906085716.png]]![[Pasted image 20260906090806.png]]![[Pasted image 20260906091118.png]]![[Pasted image 20260906091719.png]]![[Pasted image 20260906101555.png]]
 ## 3. Subtopics & Specialized Proofs
 
 - [[cds/physics/notes/subtopics/projectile_motion|Projectile Motion Derivations & Range]]
