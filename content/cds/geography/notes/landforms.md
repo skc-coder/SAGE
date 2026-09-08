@@ -8,15 +8,15 @@ tags: [cds, geography, physical-geography, landforms, topic]
 
 # Geomorphic Processes and Landforms
 
-## Theory, Intuition & Core Concepts
-
-Fluvial landforms (V-shaped valleys, Waterfalls, Meanders, Oxbow lakes, Deltas), Aeolian landforms (Mushroom rocks, Yardangs, Zeugen, Barchan dunes), Glacial landforms (Cirques, Aretes, Fjords, Moraines), Karst topography (Sinkholes, Stalactites, Stalagmites), and Coastal landforms.
+Exhaustive, page-by-page, line-by-line master notes covering all handwritten slides, diagram annotations, formulas, definitions, and PYQs for **Geomorphic Processes and Landforms** from the 251-page Physical Geography Master Class.
 
 ---
 
-## Detailed Notes & Extracted Transcripts
+## Page-by-Page Line-by-Line Complete Transcripts & Notes
 
-#### Page 104
+### Page 104
+
+**Embedded Text / PYQs:**
 Landforms
 Small to medium tracts or
 parcels of the earth's surface
@@ -73,7 +73,18 @@ Large amount of load.
 Velocity very low.
 Delta & Estuary.
 
-#### Page 105
+**Handwritten Slide Notes & Diagram Annotations:**
+Surpywion Load Fit paxticlyy
+CSilt, clay ) tHeos flow
+
+SatiaHey Lead Med.Steed pavticly
+Suoau YH Short bounces
+
+---
+
+### Page 105
+
+**Embedded Text / PYQs:**
 Fluvial
 (Erosional
 Landforms
@@ -112,7 +123,14 @@ Forms in hard rocks.
 Small seasonal
 waterfalls.
 
-#### Page 106
+**Handwritten Slide Notes & Diagram Annotations:**
+— xumning wate
+
+---
+
+### Page 106
+
+**Embedded Text / PYQs:**
 Fluvial
 (Erosional
 Landforms
@@ -146,7 +164,17 @@ leading to kettle like depression or
 widening of holes in mountains
 (upper course).
 
-#### Page 107
+**Handwritten Slide Notes & Diagram Annotations:**
+| 1 Columnar Basalt”
+|
+
+—s
+
+---
+
+### Page 107
+
+**Embedded Text / PYQs:**
 Fluvial
 (Erosional
 Landforms
@@ -190,7 +218,16 @@ Terraces result due to -  Receding water
 peak, climatic change (hydrological
 cycle), Tectonic uplift, Sea level change.
 
-#### Page 108
+**Handwritten Slide Notes & Diagram Annotations:**
+tills join to form gullies;
+Gullies join to form streams;
+Streams join to form rivers.
+
+---
+
+### Page 108
+
+**Embedded Text / PYQs:**
 Fluvial
 (Depositional
 Landforms)
@@ -232,7 +269,32 @@ Lake after deposition.
 So formed by erosion and
 deposition.
 
-#### Page 109
+**Handwritten Slide Notes & Diagram Annotations:**
+Cutoff /Abandone
+meander or Ox - bow lake|
+
+e ]
+
+[Erosion makes, INewstraigher
+= liver course
+
+key
+
+©06 Areas of deposition
+
+AAA, Areas of erosion
+=r.
+
+se
+
+e .
+ms =
+
+---
+
+### Page 109
+
+**Embedded Text / PYQs:**
 Fluvial
 (Depositional
 Landforms)
@@ -278,7 +340,16 @@ Inactive floodplain contain -
 flood deposits & channel
 deposits.
 
-#### Page 110
+**Handwritten Slide Notes & Diagram Annotations:**
+point har deposit
+
+Point Bar Model
+
+---
+
+### Page 110
+
+**Embedded Text / PYQs:**
 Fluvial
 (Depositional
 Landforms)
@@ -323,7 +394,11 @@ Monadnocks.
 End product of an erosional
 cycle.
 
-#### Page 111
+---
+
+### Page 111
+
+**Embedded Text / PYQs:**
 Aeolian/Arid
 (Erosional
 Landforms)
@@ -348,7 +423,14 @@ rocks that projects abruptly
 from a relatively flat relief
 called peneplain.
 
-#### Page 112
+**Handwritten Slide Notes & Diagram Annotations:**
+Segui; YYyfy C4, “fd ZZ
+
+---
+
+### Page 112
+
+**Embedded Text / PYQs:**
 Deimoselles
 Plains of rocks found in deserts
 with rock pillar, inselberg etc.
@@ -377,7 +459,11 @@ Aeolian/Arid
 (Erosional
 Landforms)
 
-#### Page 113
+---
+
+### Page 113
+
+**Embedded Text / PYQs:**
 Zeugen
 When hollow depression turns
 into hole is called wind window.
@@ -409,7 +495,14 @@ Aeolian/Arid
 (Erosional
 Landforms)
 
-#### Page 114
+**Handwritten Slide Notes & Diagram Annotations:**
+——
+
+---
+
+### Page 114
+
+**Embedded Text / PYQs:**
 Ripples
 Types of Sand Dunes
 Sand dunes
@@ -458,7 +551,11 @@ elongated feature at right angles
 to wind dirxn.
 Very long and low in height.
 
-#### Page 115
+---
+
+### Page 115
+
+**Embedded Text / PYQs:**
 Loess
 Bolsons
 Wadi, Mesa, Butte
@@ -487,7 +584,48 @@ Aeolian/Arid
 (Depositional
 Landforms)
 
-#### Page 116
+**Handwritten Slide Notes & Diagram Annotations:**
+Mesa Wadi
+
+Aportion of the plateau isolated A dry gully or riverbed eroded
+
+from the main plateau by occasional flash floods
+
+Plateau
+
+Alarge fiat area with steep
+cliffs and narrow valleys
+
+Butte
+An isolated tower, a
+remnant of the plateau
+
+Pediment
+A shallow slope at the
+foot of a steep slope
+or cliff
+
+meets the lower ground—a bajada
+
+Inselberg is formed where these fans coalesce
+
+An island mountain
+OF nesietant rok rising from oieen a Neate ‘occasional lake
+the softer more easily eroded
+rocks of the plain Oasis
+
+Barchan or ‘Site of a surface aquifer
+
+crescent dune (water bearing rock)
+
+ii _ Formed where a wadi or canyon
+ow
+
+---
+
+### Page 116
+
+**Embedded Text / PYQs:**
 Cirques
 Aretes
 Nunatak / Glacial
@@ -543,7 +681,11 @@ Alps Highest peak -
 Matterhorn & Himalayas -
 Everest (horns).
 
-#### Page 117
+---
+
+### Page 117
+
+**Embedded Text / PYQs:**
 Glacial Trough
 / Valleys
 Depositional.
@@ -597,7 +739,35 @@ Glacial
 (Erosional
 Landforms)
 
-#### Page 118
+**Handwritten Slide Notes & Diagram Annotations:**
+River Waterfall
+
+twain
+shaped Valley
+
+‘Hanging Valley
+Moraine
+
+Lateral Moraine
+
+Moraine
+in teansit
+
+Supraglacial
+
+Moraine
+Terminal
+
+Moraine. ‘Medial Moraine
+
+Bed Load
+— we":
+
+---
+
+### Page 118
+
+**Embedded Text / PYQs:**
 Fjords
 Bowl shaped depressions formed
 when a large block of glacial ice
@@ -630,7 +800,14 @@ Glacial
 (Erosional
 Landforms)
 
-#### Page 119
+**Handwritten Slide Notes & Diagram Annotations:**
+Eskers
+
+---
+
+### Page 119
+
+**Embedded Text / PYQs:**
 Wave Cut
 Seacave - formed due to heavy
 erosion.
@@ -664,7 +841,20 @@ Coastal/Marine
 (Erosional
 Landforms)
 
-#### Page 120
+**Handwritten Slide Notes & Diagram Annotations:**
+Formation of a wave cut platform
+2. The crack grows 4. The cave breaks 6. This leaves
+into a cave by through the headland _a tall rock stack
+hydraulic action forming a natural arch
+
+and abrasion
+a
+
+---
+
+### Page 120
+
+**Embedded Text / PYQs:**
 Chasm
 Temporary marine deposits
 on seashore.
@@ -695,7 +885,31 @@ Coastal/Marine
 (Depositional
 Landforms)
 
-#### Page 121
+**Handwritten Slide Notes & Diagram Annotations:**
+wave-out
+
+Platform Headland Beach
+
+chi,” Caltapeed ot
+
+Ccosetal dunes
+salt Marsh
+
+‘Wave-cut natch
+Beach backed
+by dunes
+
+Pe aE
+4
+Wave-cut platform
+
+Wave-built terrace
+
+---
+
+### Page 121
+
+**Embedded Text / PYQs:**
 Barriers Bars
 When barrier bars and spits
 forms at the mouth of a bay and
@@ -737,7 +951,24 @@ Coastal/Marine
 (Depositional
 Landforms)
 
-#### Page 122
+**Handwritten Slide Notes & Diagram Annotations:**
+|
+
+-uspate
+a Tombolo
+
+oreland
+Islaxd
+
+iI!
+
+(id
+
+---
+
+### Page 122
+
+**Embedded Text / PYQs:**
 Sinkhole
 Karst Window
 Uvala, Polje, Dolina
@@ -794,7 +1025,14 @@ Valley (Polje) - If streams
 hide in these valleys, it is
 called blind valley.
 
-#### Page 123
+**Handwritten Slide Notes & Diagram Annotations:**
+|
+
+---
+
+### Page 123
+
+**Embedded Text / PYQs:**
 Caves
 Cenote
 Cave; Stalactite, Stalagmite,
@@ -831,7 +1069,14 @@ Groundwater
 (Erosional
 Landforms)
 
-#### Page 124
+**Handwritten Slide Notes & Diagram Annotations:**
+¥
+
+---
+
+### Page 124
+
+**Embedded Text / PYQs:**
 Patterned Ground Distinct patterns of stones or soil on the
 surface, often circular, polygonal, or striped,
 formed by frost heaving and ice segregation.
@@ -865,27 +1110,1053 @@ freeze-thaw weathering.
 Permanently frozen ground below the surface,
 a key feature in periglacial environments.
 
-#### Page 130
+---
+
+### Page 125
+
+**Handwritten Slide Notes & Diagram Annotations:**
+83. Which of the following statements
+regarding river meanders’ is/are
+
+correct?
+
+1. It is a U-shaped bend in a river.
+
+2. An extremely tight meander is
+called a gooseneck; it is likely to
+become a cutoff, or oxbow lake,
+after a flood.
+
+3. Tectonic uplift can cause a river to
+
+continue downcutting along its
+meandering course, producing
+incised or entrenched meanders.
+
+Select the correct answer using the
+code given below.
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+71.
+
+Which of the following statements regarding
+Barchan is/are correct ?
+
+if
+
+It is a crescent shaped mound of sand,
+which is deposited by the wind
+blowing constantly from one direction in
+a desert.
+
+The windward side has a convex steep
+slope with maximum height at the
+centre.
+
+Two ends of Barchan are called horns
+and point opposite to the direction the
+wind blows.
+
+Select the answer using the code given below :
+
+(a)
+(b)
+(c)
+(d)
+
+1 only
+
+1 and 2 only
+2 and 3 only
+1,2 and3
+13. Statement I :
+Incised meanders are formed in the
+mature stage of a river.
+Statement II :
+
+Incised meanders are characterized by
+rejuvenation and upliftment of land.
+
+---
+
+### Page 126
+
+**Handwritten Slide Notes & Diagram Annotations:**
+14. Statement I :
+Portions of glacial troughs may exhibit
+remarkably flat floors.
+Statement II :
+
+The flat floor in a glacial trough is
+produced by uniform glacial erosion.
+98. Which one of the following is NOT a
+coastal depositional feature ?
+
+(a) Tombolo
+
+(b) Sand bar
+
+(c) Stack
+
+(a) Spit
+99. Which of the following is/are coastal
+erosional feature(s) ?
+
+1. Notch
+2. Sea Arch
+3. Cliff
+4. Hook
+
+Select the correct answer using the code
+given below :
+
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 2 and 3 only
+
+(d) 1 only
+
+---
+
+### Page 127
+
+**Handwritten Slide Notes & Diagram Annotations:**
+Which one of the following features is the
+result of erosion and deposition work of a
+
+river ?
+
+(a) Pothole
+
+(b) Oxbow lake
+(c) Levee
+
+(d) Rapid
+Fine-grained bed of ephemeral lake in a
+desert is also known as
+
+(a) Playa
+(b) Oasis
+(c) Drumlin
+
+(d) Natural levee
+56.
+
+A peripediment in a desert or semi-desert
+
+region is also known as :
+(a) Inselberg
+(b) Zeugen
+
+(c) Bajada
+
+(d) Playa
+
+---
+
+### Page 128
+
+**Handwritten Slide Notes & Diagram Annotations:**
+89.
+
+‘Pingos’ are associated with which one of the
+following process ?
+
+(a) Glacial
+(b) Peri-glacial
+(c) Aeolian
+(d) Fluvial
+12. Statement I :
+
+By far the most common topographic
+
+form in a Karst terrain is the sinkhole.
+Statement II :
+
+Topographically, a sinkhole is a
+
+depression that varies in depth from
+
+less than a meter to few hundred
+meters.
+Which one of the following landforms is/are
+formed by wind erosion ?
+
+(a)
+(b)
+(c)
+(d)
+
+Cirque
+
+Stack
+
+Zeugen
+
+Stack and Zeugen both
+
+---
+
+### Page 129
+
+**Handwritten Slide Notes & Diagram Annotations:**
+129. A deep valley characterized by steep step-like
+
+Slope is known as
+
+(a)
+(b)
+(c)
+(d)
+
+U-shaped valley.
+Blind valley.
+Gorge.
+
+Canyon.
+119. Basket-of-eggs topography is related to
+
+(a) Drumlins.
+(b) Eskers.
+(c) Cirques.
+
+(d) Moraines.
+A the
+; illars are
+128. Stalactite, stalagmite and P
+
+f
+depositional landforms ©
+(a) running water.
+
+(b) wind.
+
+(ce) glacier.
+(d) underground water.
+
+---
+
+### Page 130
+
+**Embedded Text / PYQs:**
 CAPF 2018
 CAPF 2019
 
-#### Page 131
+**Handwritten Slide Notes & Diagram Annotations:**
+65. Which one of the following is not a fluvial
+landform?
+
+(a)
+(b)
+(c)
+(a)
+
+Cirque
+Gorge
+Braids
+
+Canyon
+16. Springs are common in which of the
+following areas?
+
+Re
+
+2
+3.
+4
+
+Well jointed rocks
+Arid areas with underlying rocks
+
+Karst topography
+Tilted strata
+
+Select the correct answer using the code
+given below.
+
+(a) 1 and 3 only
+
+(b) 1, 3 and 4
+
+fc) 2 and 4
+
+(da) 3 and 4 only
+97. The gently sloping accumulation of
+coarse alluvium deposits by a braided
+stream is known as
+
+(a) sand bar
+(b) alluvial fan
+(c) bajada
+
+(d) diaras
+> Sed) Porn.
+SS Iwwrtowy
+
+---
+
+### Page 131
+
+**Embedded Text / PYQs:**
 CAPF 2019
 CAPF 2020
 CAPF 2020
 
-#### Page 132
+**Handwritten Slide Notes & Diagram Annotations:**
+112. Match List I with List II and select the
+correct answer using the code given
+
+below the Lists :
+
+List I
+(Landform)
+
+A. Loess _
+B. Tombolo
+C. Point bars
+D. Moraines
+
+Code :
+
+(a) 1
+
+(yonkers
+(3203
+@ 2 4
+
+List II
+(Agent)
+
+1. Wind deposited
+2. Glacier deposited
+3. River deposited
+
+4.Sea deposited
+cD
+3
+4 2
+Bee
+aie
+42. A long narrow stretch of sand and/or
+shingle with one end attached to the
+mainland is called
+(a) Sand spit
+(b) Sand bar
+(c) Sand dune
+
+(d). Tombolo
+68. Which one of the following karst
+landforms is the largest in size ?
+
+(a) Polje
+(b) Uvala
+(c) Swallow Hole
+
+(d) Sink Hole
+\
+
+Polje > Uvalas Stute hole>
+
+Swellow hole
+
+---
+
+### Page 132
+
+**Embedded Text / PYQs:**
 CAPF 2021
 CAPF 2021
 CAPF 2021
 
-#### Page 133
+**Handwritten Slide Notes & Diagram Annotations:**
+39. In the course of a river, in time, which
+one of the following features is formed
+when the old meander is closed off by
+deposition?
+
+(a) Pothole
+
+(b) Levee
+
+(c) Oxbow lake
+(d) Flood plain
+83. Caves, arches, stacks and stumps are
+the landscape features of which one of
+the following?
+
+(a) River
+(b) Wave
+(c) Limestone
+
+(ad) Wind
+103. The heaviest rocks, which are rolled
+along the river bed in river transport,
+come under which type of load?
+
+(a) Solution load
+(b) Suspension load
+(c) Saltation load
+(d) Traction load
+\
+
+---
+
+### Page 133
+
+**Embedded Text / PYQs:**
 CAPF 2023
 CAPF 2023
 CAPF 2025
 
-#### Page 134
+**Handwritten Slide Notes & Diagram Annotations:**
+Which one among the following statements
+about ‘Drumlin’ is correct ?
+
+(a)
+
+(b)
+(c)
+(d)
+
+It is a streamlined hill moulded in
+glacial drift on the till plains.
+
+It is a city located in central Europe.
+It is a river.
+
+It is a narrow road in Tibet.
+Consider the following statements about
+Barchans :
+
+1. These landforms are found in Thar
+desert in India.
+
+2. The windward side has concave slope
+with maximum height at the centre.
+
+3. Two ends of the barchan are called
+horns.
+
+Which of the statements given above is/are
+correct ?
+
+(a) land 2 only
+(b) 2and8 only
+(c) land 3 only
+(d) 3only
+75. Which one of the following is the main
+method by which potholes are created
+in bedrocks by the flowing stream?
+
+(a) Abrasion
+(b) Attrition
+(c) Corrosion
+
+(ad) Solifluction
+wind
+cones
+
+---
+
+### Page 134
+
+**Embedded Text / PYQs:**
 CDS 2 2025
+
+**Handwritten Slide Notes & Diagram Annotations:**
+92.
+
+Which of the following statements with
+reference to Glacial trough is/are correct ?
+
+1. Alpine glaciers strip valleys of their soil,
+regolith and sediment to form glacial
+troughs.
+
+2. When the sea level is below the floor of a
+glacial trough, the seawater enters as
+the ice front recedes, creating a fiord.
+
+Select the answer using the code given below :
+(a) lonly
+
+(b) 2only
+
+(c) Both 1and2
+
+(d) Neither 1 nor 2
+
+---
+
+### Page 135
+
+**Handwritten Slide Notes & Diagram Annotations:**
+upke !zokm — oKm sw
+47 \P Ly Act ap blamlect
+
+N2> O2>Ax > 02> a ax? "@ (Mov hot [weit cold)
+
+Ne> He 7Chq > ky . oe Re — Stability 4itwtability
+
+Alt. F> WV.
+
+Gis t
+am’. am .: eames, ack or
+— at ; aaa hygroscopic s
+kyoto pro (98) Atmosphsrr | Sea salty , pws soil, nucier
+
+Panis agree (201s) ) Smoke soot, ash ct -
+
+OV
+ssadiiation <— (etme |» doy 1c srt
+v
+(O-sokm (lower Straytosplwe) Thich
+L
+O2+O0 — O2 saua hole
+L i
+
+Pollutant Mm lowe alu, (poisons)
+L
+
+ODS —+ Halow+ propusln of TH + CFCs t
+pre HFCs by ve{pd. + AC
+
+=> Montreal Protocol (19€3), Kigali Agreemyd (2019)
+HEC
+
+---
+
+### Page 136
+
+**Handwritten Slide Notes & Diagram Annotations:**
+poreemnng
+* maa Convention —> Cows? 4 migratoy Speetoy
+
+Thaxrmosphiocd
+Menosphase
+
+Peeposphar#
+
+---
+
+### Page 137
+
+**Handwritten Slide Notes & Diagram Annotations:**
+The wos -
+
+kaxman oe A ————
+4 —_ ee Moo
+line joo km / 62 miley ‘
+
+Howospttu> “Teo, Stra. Mero -
+Heterosp we > Thermo, Exo.
+
+v
+sep. layots N2,0,, He,H
+Clow to ue)
+
+“Fono sphuw
+
+L
+cleat ; axHetes
+a“ cally charged pas!
+Refeb odin Wava.
+
+km
+be ao?
+Separate layin —> He 4 H2 a
+Tr + Ht vad rou
+outermost woo”
+f, wan 40°
+
+Fes
+> Tonosphibe — Autoras high late
+
+cue glut?
+
+oe C grax bust
+
+Upto 29k Hes TLa7 lO
+> f wm  Meseox I hooky ©
+
+‘5 USPOLLAD —9:'O°E
+on inal ao getjue
+
+up sokm > Thout Chotter
+
+ham Tro.)
+L L
+
+poles Bkm Equator > l8km 3 avg> 13 km
+
+v
+
+cowvectonas Currumts + WV + duat past.
+Hts Te %
+o
+Pe L for oeey es AM wrottex phomomena
+L G.s*C > tkw
+
+---
+
+### Page 138
+
+**Handwritten Slide Notes & Diagram Annotations:**
+——
+Lovaas” CY sum
+a
+so) wo"
+<ryed
+
+axcah Int
+Crs ws Heyroxed > visibles ~
+L ov e Rotation
+GH
+& OD 0
+uv
+
+» Angle ef Sun ray
++ Lengle of doy
+e “Team paremeyy o atm .
+
+© Suvspots Cartas qiving ott leas
+oocalin: fear trom tropics. hae)
+
+oMeom dis bie Sun + Gawh
+
+no cape
+cacth heat soy
+
+Adiabtc oe Compress 4 Up. <—
+
+& aiv L
+
+Homes .
+Mabartescod Md I-2m h above SU « Lakludsuad variate uv + LAS TL yan > South 2 oe
+wn. * Alfluda Hh > TL Noxth3 Not parade)
+nani 7 Iter jain, og e > DE. from Sea > Moduxcaling: move towards Viol over oct
+
+/ im Jun> Civide ww» » OCeonte Currey — H 4 lo
+
+& Soushwerd over Conbaut
+
+SOG
+
+---
+
+### Page 139
+
+**Handwritten Slide Notes & Diagram Annotations:**
+AdvecHon
+
+Radgation ConducHoy Cowvection
+v v ob L
+sap sgesifcs oye, beak by conection) ald la.
+solav radalon ~ CU At L
+Si. saee= + hovizontas
+gece Uppur ats
+Gay . haat
+by lotoex aly bromagen
+by cis
+L
+Sta byekee
+lomd by cere
+400%b > Aavort TTT tet ais
+Hi , a > al!
+uot albi'do > sree ——— intion” hic -
+3s Marte +
+qpite Common, Gloxt Aer: <— Ct of = Ss — doy voduated 4
+‘ en ty esol FF SUT POLE reduce Stability
+=>"
+pox of NLR > TE CRON * i Pacamal domar fog- |
+» Long winter nights lout foro hours —s Sum
++ Clear Sg 3 [Bix eaaga] Hilla (ont
+
+» SHI 4 calm, stable atv
+
+---
+
+### Page 140
+
+**Handwritten Slide Notes & Diagram Annotations:**
+Equa) TewpY ——s = TRoHuam
+Salinity —> Tsohabine
+Reringaly —> Teokyehs
+Sunghine —> Toho
+SnowJall — Tsou
+Clouclinws —» Fsowsbhy
+Preasuce —» Fsobar
+Heigt —y Tokgpse
+Eat gat = —> Hompscrsmo
+
+Times — Asechrow
+Depth > Tsobedly
+
+---
+
+### Page 141
+
+**Handwritten Slide Notes & Diagram Annotations:**
+32. In which of the following, heat loss is
+primarily not due to convection?
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+Boiling water
+Land and sea breeze
+
+Circulation of air around blast
+furnace
+
+Heating of glass surface of a bulb
+due to current in filament
+125. The normal lapse rate of temperature of
+Earth’s atmosphere drops to 0°C at the
+
+(a) upper part of ionosphere.
+
+(b) upper boundary of the tropopause.
+(c) lower part of mesosphere.
+
+(d) upper boundary of stratopause.
+24. Which of the following causes adiabatic
+temperature changes in atmosphere?
+
+(a) Deflection and advection
+(b) Latent heat of condensation
+
+(c) Expansion and compression of
+the air
+
+(d) Partial absorption of solar radiation
+by the atmosphere
+\
+
+>
+pod
+—
+
+---
+
+### Page 142
+
+**Handwritten Slide Notes & Diagram Annotations:**
+41. Consider the following constituent gases
+of the atmosphere :
+
+1.
+
+2
+3.
+4
+
+Argon
+Neon
+Helium
+
+Carbon dioxide
+
+Which one of the following is the correct
+ascending sequence of the above gases
+in terms of the volume percentage?
+
+(a) 1-3-2-4
+
+(b)
+
+1-4-2-3
+
+(c) 4-2-3-1
+
+(d) 2-4-1-3
+76. Which one of the following statements
+about temperature is correct?
+
+fa) Temperature decreases with height
+in the stratosphere.
+
+fb) Temperature is constant at different
+heights in the stratosphere.
+
+(c] Temperature increases with height
+in the troposphere at an average
+rate of 65 °C. per kilometre.
+
+(d) Temperature decreases with height
+in the troposphere at an average
+rate of 64°C per kilometre,
+129. A deep valley characterized by steep step-like
+
+Slope is known as
+
+(a)
+(b)
+(c)
+(d)
+
+U-shaped valley.
+Blind valley.
+Gorge.
+
+Canyon.
+
+---
+
+### Page 143
+
+**Handwritten Slide Notes & Diagram Annotations:**
+58. Isohalines are lines joining equal :
+(a) temperature.
+(b) pressure.
+(c) rainfall.
+(d) _ salinity.
+63.
+
+The Earth’s atmosphere is mainly heated by
+which one of the following ?
+
+(a)
+(b)
+(c)
+(d)
+
+Short wave solar radiation
+Reflected solar radiation
+Long wave terrestrial radiation
+
+Scattered solar radiation
+88. Which one of the following land surfaces has
+the highest albedo ?
+
+(a) Asnow covered mountain
+(b) Apbarren rocky piedmont surface
+(c) Asandy desert
+
+(d) A mangrove forest
+
+---
+
+### Page 144
+
+**Handwritten Slide Notes & Diagram Annotations:**
+64,
+
+Which one of the following is the correct
+
+sequence of layers as we move from the
+Earth’s surface upwards ?
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Troposphere, Stratosphere,
+Thermosphere, Mesosphere
+
+Troposphere, Stratosphere, Mesosphere,
+Thermosphere
+
+Thermosphere, Mesosphere,
+Stratosphere, Troposphere
+
+Stratosphere, Mesosphere, Troposphere,
+Thermosphere
+Ozone layer, which absorbs the ultra-violet
+radiation, is found in which one of the
+following layers of the atmosphere ?
+
+(a) Ionosphere
+(b) Troposphere
+(c) Mesosphere
+
+(d) Stratosphere
+36. Which one of the following statements
+with regard to ozone is not correct?
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+Ozone is found mostly at 15-55 km
+in the atmosphere.
+
+Ozone is produced by gaseous
+chemical reactions.
+
+16th November is celebrated as
+the International Day for the
+Preservation of the Ozone Layer.
+
+Ozone is a form of oxygen in which
+three oxygen atoms are bounded
+together.
+=
+
+---
+
+### Page 145
+
+**Handwritten Slide Notes & Diagram Annotations:**
+70.
+
+Which of the following statements regarding
+
+‘aurora’ is/are correct ?
+
+1. The solar wind upon reaching the
+Earth’s atmosphere is directed towards
+two magnetic poles and a colourful
+display of lights is seen in the night sky.
+
+2. The particles interact with the different
+gases of the atmosphere and each gas
+glows with a particular colour.
+
+3. In April 2023, aurora was captured in
+the night sky in India by the Indian
+Astronomical Observatory at Hanle,
+Ladakh.
+
+Select the answer using the code given below :
+(a) lonly
+
+(b) 2and3 only
+
+(c) land3only
+
+(d) 1,2and3
+110. Which of the following statements regarding
+air temperature is/are correct ?
+
+1. Air temperature is measured at a
+standard height of 1-2 m (4-0 feet) above
+the ground surface.
+
+2. The average rate of temperature
+decrease with height is termed as the
+environmental temperature lapse rate.
+
+Select the answer using the code given below :
+(a) lonly
+
+(b) 2only
+
+(c) Both 1and2
+
+(d) Neither 1 nor 2
+82. Which of the following statements
+regarding insolation is/are correct?
+
+1. Insolation is predominantly short-
+wave radiation, with wavelengths
+in the range of 0:39 micrometre
+to 0:76 micrometre.
+
+2. Insolation is evenly distributed
+across the Earth because of the
+Earth’s curved surface.
+
+Select the correct answer using the
+code given below.
+
+(a) 1 only
+
+(b) 2 only
+
+(c) Both 1 and 2
+
+(d) Neither 1 nor 2
+\
+
+\
+
+---
+
+### Page 146
+
+**Handwritten Slide Notes & Diagram Annotations:**
+81. In which one of the following layers
+of the atmosphere all weather pheno-
+menon occur ?
+
+(a) Mesosphere
+(b) Troposphere
+(c) Thermosphere
+(d) Stratosphere
+97.
+
+Which of the following pairs of Isolines and its
+properties are correctly matched ?
+
+1.
+
+2.
+3.
+4.
+
+Isonif : Snowfall
+Isohel : Sunshine
+Isohaline : Salinity
+Isohypse : Cloudiness
+
+Select the correct answer using the code given
+below :
+
+(a)
+(b)
+(c)
+
+(d)
+
+1,2and3
+2,3 and 4
+1 and 3 only
+
+1,2and4
+46.
+
+Which of the following statements about
+inversion of temperature is/are correct ?
+
+i Temperature increases with increasing
+altitude.
+
+2. ~- A long winter night with clear skies is
+an ideal situation.
+
+3. It is a short term phenomenon and is
+common all over the globe except at the
+poles.
+
+Select the correct answer using the code given
+below : i
+
+(a) land 2 only
+(b) 2and3 only
+(c) lonly
+
+(d) 1,2and3
+\
 
 ---
 

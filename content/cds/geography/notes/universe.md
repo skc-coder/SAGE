@@ -3,232 +3,729 @@ exam: "CDS"
 subject: "Physical Geography"
 topic: "Universe and Solar System"
 difficulty: "Hard"
-tags: [cds, geography, physical-geography, universe, solar-system, topic]
+tags: [cds, geography, physical-geography, universe, topic]
 ---
 
 # Universe and Solar System
 
-Exhaustive, point-by-point master notes transcribing every single detail, definition, formula, diagram annotation, scientist name, year, and PYQ from Pages 1 to 16 of the Physical Geography PDF.
+Exhaustive, page-by-page, line-by-line master notes covering all handwritten slides, diagram annotations, formulas, definitions, and PYQs for **Universe and Solar System** from the 251-page Physical Geography Master Class.
 
 ---
 
-## 1. Introduction to Physical Geography (Page 3 Notes)
+## Page-by-Page Line-by-Line Complete Transcripts & Notes
 
-### Core Branches & Spheres of Earth
-1. **Lithosphere**: Landforms, drainage systems, and relief features.
-2. **Hydrosphere**: Oceans, seas, lakes, rivers, and water bodies.
-3. **Atmosphere**: Temperature, atmospheric pressure, humidity, and global wind patterns.
-4. **Biosphere**: Living organisms (human beings, macro-organisms) and ecological food chains.
+### Page 1
 
-### Historical Foundations
-- **Eratosthenes (276 BC)**:
-  - Known as the **Father of Geography**. Coined the word *Geography* ($\text{Geo} = \text{Earth}, \text{Graphy} = \text{Description}$).
-  - Measured Earth's circumference using solar ray angle differences between **Alexandria** and **Syene** (Aswan).
+**Handwritten Slide Notes & Diagram Annotations:**
+PHYSICAL GEOGRAPH
 
----
+_— IMnONECLASS
+es i + ‘7 Years PYQs
 
-## 2. Origin of the Universe & Modern Cosmological Models (Pages 3-4 Notes)
-
-### Timeline of Cosmological Theories
-1. **Georges Lemaître (1927)**:
-   - Proposed the **Big Bang Theory** (Expanding Universe Hypothesis).
-   - Universe originated from a single primeval atom / singular point.
-2. **George Gamow**:
-   - Developed the hot Big Bang theory model and predicted Cosmic Microwave Background Radiation (CMBR).
-3. **Edwin Hubble (1929)**:
-   - Discovered observational evidence that galaxies are receding from Earth at speeds proportional to their distance ($v = H_0 \cdot d$).
-
-### Big Bang Initial Conditions & Chronology ($13.7 - 13.8 \text{ Billion Years Ago}$)
-- **Singularity State ($t = 0$)**:
-  - Temperature ($T$): Infinite ($\to \infty$).
-  - Density ($D$): Infinite ($\to \infty$).
-  - Volume ($V$): Infinitesimal / Negligible ($\to 0$).
-- **Explosion & Expansion Timeline**:
-  - All matter was concentrated in a single tiny ball / singular atom.
-  - Explosion occurred $13.7 \text{ billion years ago}$.
-  - Rapid initial exponential expansion $\to$ gradual slowdown $\to$ continuing expansion today.
-- **Observational Evidence for Big Bang**:
-  1. **CMBR (Cosmic Microwave Background Radiation)**: Detected by **WMAP** (Wilkinson Microwave Anisotropy Probe) and COBE.
-  2. **Large Hadron Collider (LHC)**: Particle physics experiments conducted by **CERN** (European Organization for Nuclear Research) in Geneva.
+—
+oe Baste Majo
+Lv
+chapter
+state
 
 ---
 
-## 3. Early Hypotheses on Solar System Formation (Page 4 Notes)
+### Page 2
 
-### 1. Nebular Hypothesis
-- **Immanuel Kant (1755)**: First proposed that planets formed from a rotating cloud of gas (nebula).
-- **Pierre-Simon Laplace (1796)**: Revised Nebular Hypothesis. Stated that a slowly rotating nebular cloud cooled, contracted, and shed rings of material that coalesced into planets.
+**Embedded Text / PYQs:**
+AFCATAFCAT
 
-### 2. Planetesimal Hypothesis
-- **Chamberlin & Moulton (1900)**:
-  - A wandering companion star approached the Sun.
-  - Gravitational pull detached a **cigar-shaped extension of material** from the solar surface.
-  - As the passing star moved away, the separated material evolved into small solid bodies called **planetesimals** that accreted into planets.
-- **Jeans & Jeffreys (1919 / 1929)**: Supported the binary interaction / tidal concept.
-- **Sir Harold Jeffreys**: Modified the tidal theory to account for collision dynamics.
+**Handwritten Slide Notes & Diagram Annotations:**
+WOLFPACK | WRITTEN BATCH
 
-### 3. Gas & Dust Accretion Hypotheses (1950)
-- **Otto Schmidt (Russia) & Carl Weizsäcker (Germany)**:
-  - Revised Nebular Hypothesis.
-  - Proposed the Sun was enveloped by a solar nebula consisting of Hydrogen, Helium, and cosmic dust.
-  - Friction and collision of particles formed disk-shaped clouds and planetesimals through accretion.
+“ ADMISSION OPENING 8 a=
+FEBURARY AT SHARP 6 PM u
 
----
+~
 
-## 4. Galaxies, Light Year & Star Formation (Pages 5-6 Notes)
+AFCAT 12026 - An
 
-### 1. Galaxies
-- **Definition**: Massive gravitational collection of stars, cosmic dust, and interstellar gases.
-- **Milky Way Galaxy (Akash Ganga)**:
-  - Our home galaxy.
-  - Diameter / Extent: $\approx 80,000 \text{ to } 150,000 \text{ light years}$.
-- **Nearest Galaxy**: **Andromeda Galaxy**.
+x { f'
+GK - 18+/25 Direct Question from batch+YT Vie Std wy
+Maths - 20/20 Direct Question from batch+YT 2 2025
 
-### 2. Light Year ($1 \text{ LY}$) Definition & Formulas
-- **Definition**: Distance travelled by light in 1 vacuum year. It is a unit of **DISTANCE**, NOT time!
-- **Speed of Light ($c$)**: $300,000 \text{ km/sec} = 3 \times 10^8 \text{ m/s}$.
-- **Sun to Earth Light Travel Time**: $8.31 \text{ minutes}$ ($\approx 500 \text{ seconds}$).
-- **Value of 1 Light Year**:
-  $$1 \text{ Light Year} = 9.461 \times 10^{12} \text{ km} = 9.461 \times 10^{15} \text{ m}$$
+cOurneS Pat OSes .
 
-### 3. Star Formation Process
-1. **Nebula**: Accumulation of Hydrogen gas and dust into a giant cloud.
-2. **Gravitational Collapse**: Localized lumps of gas develop dense core clumps.
-3. **Protostar & Fusion Ignition**:
-   - Core contracts into a dense gaseous body.
-   - Core temperature reaches $\approx 10^7 \text{ K}$, triggering Nuclear Fusion ($4 \times {}^1\text{H} \to {}^4\text{He} + \text{Energy}$).
-   - Star birth occurred roughly $5 \text{ to } 6 \text{ billion years ago}$.
+(© 7897637099
+7 The Journey Extraordinary PT Ue CUCREN CUNERE
+@ www.journeyextraordinary.com YOU CAN DOWNLOAD OUR APP
+Ml
+Cs)
+>|
 
----
+The Wolfpack (AFCAT 2
+2026)
 
-## 5. Stellar Evolution & Chandrasekhar Limit (Page 6 Notes)
+WolfPack
 
-### Competing Forces in Stars
-- Hydrostatic equilibrium is maintained by two competing forces:
-  1. **Inward Gravitational Collapse**
-  2. **Outward Nuclear Fusion Radiation Pressure**
+(AFCAT 2 2026 BATCH) |
+Starting this 2"
 
-### Stellar Death & Chandrasekhar Limit ($M_{Ch}$)
-Formulated by Indian-American astrophysicist **Subrahmanyan Chandrasekhar (1930)**:
-$$\text{Chandrasekhar Limit } (M_{Ch}) = 1.44 \, M_{\odot} \quad (1.44 \times \text{Mass of Sun})$$
+28
+—E
+PRICE
+22,500
+Choose Currency:
+INR v
+( Buy Now }
+4 .
 
-1. **If Star Core Mass $M \le 1.44 M_{\odot}$**:
-   - Outer layers expand into a Red Giant $\to$ Planetary Nebula.
-   - Core collapses into a **White Dwarf** (Glowing dead star matter) $\to$ cools to **Black Dwarf**.
-2. **If Star Core Mass $M > 1.44 M_{\odot}$**:
-   - Star undergoes a violent **Supernova Explosion**.
-   - Remnant core mass $1.44 M_{\odot} < M < 3 M_{\odot} \to$ **Neutron Star** / **Pulsar**.
-   - Remnant core mass $M > 3 M_{\odot} \to$ **Black Hole** (gravitational collapse to infinite density point).
+Overview
+
+Description
+{esion
+
+Rigi
+am)
 
 ---
 
-## 6. Planetary Architecture & Solar System Data (Pages 7-9 Notes)
+### Page 3
 
-### 1. Planets Comparison Table
+**Handwritten Slide Notes & Diagram Annotations:**
+Chnonge, Lemaitre
 
-| Planet | Orbital Rev. | Rotation | Moons | Key Characteristics & Atmospheric Composition |
-| :--- | :--- | :--- | :--- | :--- |
-| **Mercury** | $88 \text{ days}$ | Fast | $0$ | Closest to Sun, smallest, no atmosphere, extreme temp range. |
-| **Venus** | $224.7 \text{ days}$ | $243 \text{ days}$ (Slowest) | $0$ | **Hottest planet** ($\approx 465^\circ\text{C}$), $96.5\% \text{ CO}_2$, $H_2SO_4$ clouds, **Retrograde Rotation (East to West)**. Earth's twin. |
-| **Earth** | $365.25 \text{ days}$ | $23\text{h } 56\text{m}$ | $1$ | Goldilocks zone, Blue planet, Geoid shape. $1 \text{ AU} \approx 149.6 \text{ million km}$. |
-| **Mars** | $687 \text{ days}$ | $24.6 \text{ hours}$ | $2$ | Red planet ($Fe_2O_3$ dust), Moons: **Phobos** & **Deimos**. Olympus Mons volcano. |
-| **Jupiter** | $12 \text{ years}$ | $9.8 \text{ hours}$ (Fastest) | $95+$ | Largest planet, **Great Red Spot** storm. Moons: **Ganymede** (largest moon), Europa, Callisto, Io. |
-| **Saturn** | $29.5 \text{ years}$ | $10.7 \text{ hours}$ | $145+$ | **Least dense planet** ($0.69 \text{ g/cm}^3 < \text{Water}$ — would float!), Bright rings of ice/dust. Moon: **Titan**. |
-| **Uranus** | $84 \text{ years}$ | $17 \text{ hours}$ | $27$ | Green planet ($CH_4$ gas), highly tilted axis ($98^\circ$ - "Sideways planet"), Retrograde rotation. |
-| **Neptune** | $165 \text{ years}$ | $16 \text{ hours}$ | $14$ | Coldest planet, dark blue ($CH_4$), Faint rings. Moon: **Triton**. |
+— — Exatectheune, (2% 8C)
+7 (F ) rede (nemrge
+osp Gamov
+_ (human buvgas , omrersny Cxpan, CiMiverns
+waco oXgauswn h
+nee g a
+cane) uookes
+wird)
+T-=m -O — all matics
+D= (pinged [sing ulax
+Exotosm ( ve meghig is
+L 3)
+cmmiumnee
+meonwued Na :
+chen L Cucplosieon > ia cxpauaion
+fun omgle) detached by CMAP Cnitad > ‘apid)
+i ss WU Sto, down
 
-### 2. Planetary Sizes & Densities Order
-- **Size (Largest to Smallest)**:
-  $$\text{Jupiter} > \text{Saturn} > \text{Uranus} > \text{Neptune} > \text{Earth} > \text{Venus} > \text{Mars} > \text{Mercury}$$
-- **Density (Highest to Lowest)**:
-  $$\text{Earth } (5.52 \text{ g/cm}^3) > \text{Mercury} > \text{Venus} > \text{Mars} > \text{Neptune} > \text{Jupiter} > \text{Uranus} > \text{Saturn } (0.69 \text{ g/cm}^3)$$
+even today => ceepand
 
----
+Large aren Coll iclor
 
-## 7. Planetary Definition, IAU 2006 & Dwarf Planets (Page 9 Notes)
-
-### IAU 2006 Criteria for a Planet (Prague Resolution)
-To be classified as a planet, a celestial body MUST satisfy 3 conditions:
-1. Must be in orbit around the Sun.
-2. Must have sufficient mass for self-gravity to achieve **hydrostatic equilibrium** (nearly round/spherical shape).
-3. Must have **cleared the neighbourhood** around its orbit.
-
-> [!WARNING] **Why Pluto was Demoted to Dwarf Planet (24 Aug 2006)**:
-> Pluto failed Condition #3 because its orbit overlaps with Neptune and lies inside the crowded Kuiper Belt!
-
-### Official Recognized Dwarf Planets
-- **Pluto**, **Eris**, **Haumea**, **Makemake**, **Ceres** (located in the Asteroid Belt).
+CERN C Buxopeam)
 
 ---
 
-## 8. Earth & Moon Origin Mechanics (Page 9 Notes)
+### Page 4
 
-### 1. Earth Dimensions & Motion
-- **Equatorial Diameter**: $12,756 \text{ km}$.
-- **Polar Diameter**: $12,714 \text{ km}$.
-- **Polar Compression Difference**: $42 \text{ km}$ ($12,756 - 12,714 = 42 \text{ km}$).
-- **Orbital Revolution Speed**: $29.8 \text{ km/sec}$.
+**Handwritten Slide Notes & Diagram Annotations:**
+Ns
 
-### 2. Moon Mechanics & Origin Theories
-- **Distance**: $384,400 \text{ km}$ from Earth.
-- **Tidal Locking**: Moon's rotation period ($27.3 \text{ days}$) equals its revolution period around Earth ($27.3 \text{ days}$). Therefore, **only one side ($59\%$) of the Moon is ever visible from Earth**.
-- **Giant Impact Theory (Theia / Big Splat)**:
-  - Formed $\approx 4.44 \text{ billion years ago}$.
-  - A Mars-sized protoplanet (**Theia**) collided with early Earth. The ejected debris accreted into the Moon, leaving the Pacific Ocean basin as the impact scar.
-- **George Darwin (1838)**: Proposed early *Dumb-bell Theory* suggesting Earth and Moon were once a single rotating dumbbell shape that split apart.
+Fe ae
+H Nebulay H ows) = Revise
+Manis | Teer sy? (Laplace > 96)
+
+planets :
+[1900 | Chamberlain 4 Moulton Wondwaug Stax approached Me Sun ands
+Pe t
+‘on O * 6. cigax-shaped cackmnion of mateta) —» evolve around
+" ea wor Sepavated {0m Yas solax system . a
+axgumen} 3 Support
+.# aux ? coltisio”
+Six Havold TOK uate *
+“4 ppule ndorwed a
+(Rur-) yon Co ) x d
+5 oto Schmidt fia .
+s — nu xeisd. 5 § OSU) Qcentio4
+Cax\ Wwei2zarcax ‘ie wee”
+ptomal»
+
+CGrer-)
 
 ---
 
-## 9. Comprehensive Chapter PYQ Bank (Pages 10-15 Transcribed)
+### Page 5
 
-### Q1. Origin of Universe Hypothesis (NDA 1 2019)
-- **Question**: Which one of the following hypothesis/theory explains the origin of the universe?
-  - (a) Nebular hypothesis
-  - (b) Binary theory
-  - (c) **Big Bang theory** [Correct]
-  - (d) Planetesimal hypothesis
+**Handwritten Slide Notes & Diagram Annotations:**
+_ anes
+eer’ _—{—- collection ef Staxs, duat A Qane O} 1S)
+49 )5233,000 kw 5
+* ie a 1 A
 
-### Q2. Inner Planets Definition (CAPF 2019)
-- **Question**: Which one of the following represents the inner planets?
-  - (a) Planets between the Sun and Earth
-  - (b) **Planets between the Sun and the Belt of Asteroids** [Correct]
-  - (c) Planets near Earth
-  - (d) Planets around Sun
+ardor
+pads our galaxy Milley w
+Qaone Ky WHS Aya» BO00o- (5000 tt tem |S0¢
 
-### Q3. Star Size Competing Forces (NDA 2020)
-- **Question**: Which two competing effects determine the size of a star?
-  - (a) Nuclear fusion and electrostatic effects
-  - (b) Nuclear fusion and magnetic effects
-  - (c) **Nuclear fusion and gravitational effects** [Correct]
-  - (d) Gravitational and electromagnetic effects
+w
+— scala 4 dt
+< ifatiowod :
+ee / ii = 2.46 x10! kw
+accumu, % hydrogen gor > cloud (Nebula) v oe
+= yA
+Gaee > nebwyo%
+Localised clumps o% gr” : ~
+dowrex gartour bodies @): ( i cove Coondsmned )
+4
+Stax ro mse > small scoundiad
+(x-¢ bu yes.) aad v4 onl
+Cobuni » cywol!)
 
-### Q4. Light Year Unit (NDA I 2019 / 2021)
-- **Question**: Light year is a unit of measurement of:
-  - (a) **Very large distance** [Correct]
-  - (b) Time interval in years
-  - (c) Amount of light received on Earth
-  - (d) Mass of atoms
+plan eter mab)
+colltsrow 4 Ocevelos
+Loxqe plas Ley.
 
-### Q5. Heliocentric Astronomer (NDA I 2023)
-- **Question**: Which astronomer proved that the Earth and other planets revolve around the Sun?
-  - (a) **Nicolaus Copernicus** [Correct]
-  - (b) Johannes Kepler
-  - (c) Galileo Galilei
-  - (d) Isaac Newton
+---
 
-### Q6. Venus Atmosphere Clouds (CDS II 2022)
-- **Question**: The atmosphere of Planet Venus is made up of thick and yellowish clouds of:
-  - (a) Chlorine
-  - (b) **Sulphuric acid ($H_2SO_4$)** [Correct]
-  - (c) Nitric acid
-  - (d) Bromine
+### Page 6
 
-### Q7. Sun-Earth Lagrange Distance (CAPF 2024)
-- **Question**: In the Sun-Earth system, the distance between Lagrange points $L_2$ and $L_3$ is about?
-  - (a) $15 \text{ lakh km}$
-  - (b) $30 \text{ lakh km}$
-  - (c) $16 \text{ crore km}$
-  - (d) **$32 \text{ crore km}$ ($2 \text{ AU}$)** [Correct]
+**Handwritten Slide Notes & Diagram Annotations:**
+otk - 2S ceca le Ly
+ae on 2 one yao ye? a 2. SS 8 self lamivows
+
+Br
+x os / 4
+vod? ee s = S- 6 bw yes wucleay
+7 OL, mn, tid dussion
+poe ability nw S> GREED
+#! e GINS x
+; ae <apidy © . Countdla how
+wees 5O a.
+ot tex = © i :
+Pe Orie) — Bray Vartable a
+\ Os ain Stars Stax stable)
+exc plod pase eg silat
+Lumen . Comat
+POMAMOKOD CMON Live t wi 1.44 Hwy Mou» Cf Sun , isi
+cia) — ae a tes "ame visible mater = 4.97,
+ct iy WeOruced for Dork walker = 26.3%
+
+trod umdaryouy Supernova Ceplosion
+
+id : L ,
+X h- is lakh ii ins Beaty
+Lr
+
+Moree reo * Stay which callapsd ly
++ la
+ey = ets lakh kw ¢
+
+cay
+= km wT
+
+---
+
+### Page 7
+
+**Handwritten Slide Notes & Diagram Annotations:**
+(224 wr)
+Ror 4 cosmic gto%
+
+5m yw
+*
+65> 94.9%
+
+008 © Ha tHe
+¥
+Gore temp™ > js000p 00 ©
+
+pind
+
+particles
+v
+
+puro Boreas
+
+poles.
+
+So lov : . peru
+jonosphut > & 4P
+contack fo wath chore
+Ceolowsdazy uh
+
+Covona > Cr owosphere >
+
+v
+Minerals photospheve > CowvecHve 20V9
+> Radioache 2s > Cove
+
+No satetlite (smolleat) < peimos
+Rev = 88d (F) t.
+Diu. T Cmax) Sate > Phobos ‘
+No am. Atm = Naty !
+Small at ldo
+Neaveant a . :
+is \ Gaxth ( Mavs )
+
+Each Thin |
+Brightat stav ;
+(after SUN 4 moon) (
+Highest abbrde ‘
+Cearvth— Snow ,Cloudy)
+!
+No Satdlite '
+Clouda» H2804
+Atm CDi Holtent
+Myg] vag stax
+
+Rotake oppo > E 4o W
+
+Rotation > 23}? D Glowet)
+
+Sate:s 274 (waz) Tian :
+Rings Qf Aust 4 ice (Thiton, Newerd)
+Sales (¢
+aa, Appears yeblousish caailiee
+(Catupiter Least demas Contain blewis
+aR t Calchant
+wees atm> _t.
+at radio Nepluns)
+it ~
+ae ( Soden Uranus > lorgys
+L “e) = Clowes)
+¢ Disc. with Telescope pout
+etal t Grveen plavct xing
+Dark xed Spo
+Ceomet ?) Rota, > Ero ;
+Atm = HetH Tilted axkso8
+Clouds > CH¢ + NH Cling planet)
+Rotation » glum 56 wiv (F) Fait Ringe
+Sate 27
+feataiflece Cmivonda , Ait, eke)
+Faint xing
+
+(Europa, Callisto, Lo, ca moda)
+Biggest
+
+---
+
+### Page 8
+
+**Handwritten Slide Notes & Diagram Annotations:**
+nod vwel ar
+a patted Qo cle, he Aske oid pelt Gravity t veld Ee
+Gravity) i: pw eola* windr | Not m™ clese t ”
+an ' salt S
+L a OMG pO 7 iN Viet idg > wal am ie Gf gar Cd Surface)
+comuot Sw colid wor awifee \ gor & Solav wot" t
+wold pie a condos < jax QM
+(ero Textil) GUTaESI
+
+|
+
+By sie up > Sat.> Ova >Nep.>& >V >
+
+| Mavs > Mexcerry
+
+> Mere V > Mavs > N>J sus
+
+Desi ty +
+
+---
+
+### Page 9
+
+**Handwritten Slide Notes & Diagram Annotations:**
+Rev 4 Berd Slow 4F min
+
+*Rot > 23 luy. 56 win
+Ost - Gtk s moon
+
+*EqUsr dia = 12956 kon oft sil
+ie + Polour dita = 12 F14Gkw,
+
+orbital Speed =) 29 .%k/g
+
+Brightont Slay oulside Slat Systm 5 Snip Coleg stax)
+
++ |» tau > 24 Aug 2006
+b
+4, Orbit Sum
+2. Han, Sufi. mor > hydrostatic eppel-
+Cal. yound shape)
+
+3. Cleared nuighbouv hood
+
+= Rev.
+> Oey
+Gav) @xx -—- Tidally lecked AY) C2 a.a dap
+aa webu orbit we ouly See On2z sida
+z
+1Av2 M20m dis. bie 3 natu. sak. C38),
+
+SUN 4 Eaxth Z <— giant impos
+
+; as aig erat)
+
+at D Worf plawgb> Pluk Exis, _ © W238, Geog ree ;
+Houvana, Nithe mkt, Ceres. Co o> Suwa bel shaps é 6 OF as buys.
+beats CIO, Pacifie ocea”
+
+---
+
+### Page 10
+
+**Embedded Text / PYQs:**
+Ques) Which one of the following
+hypothesis/theory explains the
+origin of the universe?
+a) Nebular hypothesis [NDA 1 2019]
+b) Binary theory
+c) Big bang theory
+d) Planetesimal hypothesis
+What is a constellation? CDS 2019
+a) a particular pattern of
+equidistant stars from the earth in
+the sky
+b) a particular pattern of stars that
+may not be equidistant from the
+earth and sky
+c) a particular pattern of planets of
+our solar system in the sky
+d) a particular pattern of stars,
+planets and satellites in the sky due
+to their position in the space
+In Sun Earth system, the distance
+between Lagrange points L2 and L3
+is about? CAPF 2024
+a) 15 lakh km
+b) 30 lakh km
+c) 16 crore km
+d) 32 crore km
+
+**Handwritten Slide Notes & Diagram Annotations:**
+—
+
+: v
+
+hrovenly ob). blo Mars 4 qup -
+(Medeor) eam ot. enten cont
+Qos. = bus
+
+\\
+\\
+
+\
+
+> OMAN +> 4000 wn Yrs Ago
+
+— Life + 3800 wm qvs Ago
+tos
+pheasi
+wo - Booo M* |S-
+
+---
+
+### Page 11
+
+**Embedded Text / PYQs:**
+Ques : Which one of the
+following represents the inner
+planets ? CAPF 2019
+a) Planets between the sun and
+the Earth
+b) Planets between the sun and
+the belt of asteroids
+c) Planets near the Earth
+d) Planets around the sun.
+Light year is a unit of
+measurement of: NDA I 2019
+a) very large distance
+b) time interval in years
+c) amount of light received on
+earth in a year
+d) mass of atoms
+Which two competing effects
+determine the size of a star?
+a) Nuclear fusion and
+electrostatic effects
+b) Nuclear fusion and magnetic
+effects
+c) Nuclear fusion and gravitational
+effects
+d) Gravitational and
+electromagnetic effects
+
+**Handwritten Slide Notes & Diagram Annotations:**
+| \
+
+\
+
+---
+
+### Page 12
+
+**Embedded Text / PYQs:**
+Which one of the following
+astronomers proved that the
+Earth and other planets revolve
+around the Sun? NDA I 2023
+a) Copernicus
+b) Kepler
+c) Galileo
+d) Newton
+Consider: About Light year - NDA I
+2021
+1. Light year is a unit for
+measurement of very large
+distances.
+2. Light year is a unit for
+measurement of very large time
+intervals.
+3. Light year is a unit for
+measurement of intensity of light.
+Codes -
+a) 1, 2 and 3
+b) 2 and 3
+c) 1 and 2
+d) 1 only
+The atmosphere of Planet Venus is
+made up of thick and yellowish
+clouds of: CDS II 2022
+a) Chlorine
+b) Sulphuric acid
+c) Nitric acid
+d) Bromine
+
+**Handwritten Slide Notes & Diagram Annotations:**
+\
+
+— — acd aim
+
+Earth cemtne
+2
++ Greocentric > Ptolemy
+*Helfocemtic — Copemicu Cire)
+Sun comive
++ Hooked Ciges) + Solow sys. port o Galaxy
+
++ Ediwiu Hubble Univer > many galareo
+-
+
+Cis2r Oniverne wep. bu not galacs
+
+\
+
+me
+sl
+
+---
+
+### Page 13
+
+**Handwritten Slide Notes & Diagram Annotations:**
+51.
+
+Which one from among the following planets
+
+is largest in size ?
+
+(a)
+(b)
+(c)
+(d)
+
+Earth
+Venus
+Mars
+
+Mercury
+120. Which one of the following planets has the
+
+highest density ?
+(a) Mercury
+(b) Venus
+
+(c) Jupiter
+
+(d)
+
+Earth
+63. The four planets closest to the Sun are
+called
+
+(a)
+(b)
+(c)
+(a)
+
+terrestrial planets
+giant planets
+dwarf planets
+
+gas planets
+
+---
+
+### Page 14
+
+**Handwritten Slide Notes & Diagram Annotations:**
+106. Which one of the following hypothesis/theory
+explains the origin of the universe ?
+
+(a) Nebular hypothesis
+
+(b) Binary theory
+
+(c) Big Bang theory
+
+(d)  Planetesimal hypothesis
+58. Which of the following planets of our
+solar system has least mass?
+
+(a) Neptune
+
+(b) Jupiter
+
+(c) Mars
+
+(d) Mercury
+116. ‘Black hole’ is a
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+huge black star which has zero
+acceleration due to gravity on its
+surface
+
+star which has moderate accelera-
+tion due to gravity on its surface
+
+star which has collapsed into itself
+and has large acceleration due to
+gravity on ils surface
+
+star which has collapsed into itself
+and has zero acceleration due to
+gravity on its surface
+
+---
+
+### Page 15
+
+**Handwritten Slide Notes & Diagram Annotations:**
+Eratosthenes, a Greek philosopher measured
+the Earth’s circumference based on the angle
+of Sun rays at two different points. Which
+cities were they ?
+
+(a)
+(b)
+(c)
+(d)
+
+Alexandria and Syene
+Syene and Troy
+Alexandria and Troy
+Alexandria and Thebes
+79.
+
+Consider the following statements about some
+planets in the solar system :
+
+1
+
+2.
+
+Mercury has no atmosphere.
+Venus has two moons.
+There is no land on Jupiter.
+
+Rings of Saturn are composed of lumps
+of ice and dust.
+
+Which of the statements given above are
+
+correct ?
+
+(a) land 2 only
+(b) 3nd 4 only
+(c) 1,2and3
+
+(d)
+
+1,3 and4
+88. Which of the following groups of planets
+is termed as ‘gas planets’ as they are
+composed primarily of lighter ices,
+liquids and gases?
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+Mars, Jupiter, Neptune, Uranus
+
+Jupiter, Uranus, Neptune, Saturn
+
+Saturn, Mars, Jupiter, Neptune
+
+Neptune, Saturn, Mars, Uranus
+v ok
+
+---
+
+### Page 16
+
+**Handwritten Slide Notes & Diagram Annotations:**
+60. Which one of the following is the correct
+sequence of arrangement of the given planets
+in descending order of their density (in
+gm/cm®) ?
+
+(a) Earth > Jupiter > Venus > Saturn
+(b) Jupiter > Earth > Saturn > Venus
+(c) Earth > Venus > Jupiter > Saturn
+(d) Earth > Venus > Saturn > Jupiter
+112. Which one among the following planets has
+the largest number of known satellites ?
+
+(a) Mars
+(b) Neptune
+(c) Jupiter
+
+(d) Saturn
+108. In a group discussion on shape and size
+of the Earth, three students stated the
+following points :
+
+ds
+
+Student 1 : The shape of the Earth
+is basically an oblate spheroid.
+
+Student 2 : The polar diameter of
+the Earth is more than the
+equatorial diameter.
+
+Student3 : Bulge along the
+equatorial region is due _ to
+revolution of the Earth.
+
+Who among the above students is/are
+correct?
+
+(a)
+(b)
+(c)
+(a)
+
+Student 1 only
+Student 1 and Student 2 only
+Student 2 and Student 3 only
+
+Student 1, Student 2 and
+Student 3
+rR
 
 ---
 

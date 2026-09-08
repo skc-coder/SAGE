@@ -8,15 +8,15 @@ tags: [cds, geography, physical-geography, clouds-rainfall, topic]
 
 # Condensation, Clouds and World Rainfall
 
-## Theory, Intuition & Core Concepts
-
-Humidity types (Absolute, Specific, Relative), Dew point & condensation (Fog, Mist, Dew, Frost), Cloud classification (Cirrus, Cumulus, Stratus, Nimbus), Rainfall types (Convectional, Orographic, Cyclonic), and Hailstones.
+Exhaustive, page-by-page, line-by-line master notes covering all handwritten slides, diagram annotations, formulas, definitions, and PYQs for **Condensation, Clouds and World Rainfall** from the 251-page Physical Geography Master Class.
 
 ---
 
-## Detailed Notes & Extracted Transcripts
+## Page-by-Page Line-by-Line Complete Transcripts & Notes
 
-#### Page 185
+### Page 185
+
+**Embedded Text / PYQs:**
 Types of
 Condensation
 Dew
@@ -51,7 +51,11 @@ place within itself on fine dust particles.
 ground.
 ◇ Visibility becomes zero.
 
-#### Page 186
+---
+
+### Page 186
+
+**Embedded Text / PYQs:**
 Types of
 Condensation
 FOG
@@ -86,7 +90,27 @@ Smog - a layer of warm air that traps cooler
 air and pollutants close to the surface,
 preventing them from dispersing.
 
-#### Page 187
+**Handwritten Slide Notes & Diagram Annotations:**
+No Inversion Inversion
+
+Warm Air |
+a
+a
+a
+a
+a
+a
+
+Cold Air Cold Air
+Warm Air
+
+Smog
+
+---
+
+### Page 187
+
+**Embedded Text / PYQs:**
 Condensation
 - Clouds
 ◇ Mass of minute water droplets or tiny crystals of ice.
@@ -99,7 +123,21 @@ density, and transparency or opaqueness :- 1. Cirrus
 4. Nimbus
 (they are in height order from up to down)
 
-#### Page 188
+**Handwritten Slide Notes & Diagram Annotations:**
+2a
+
+Cirrostratus ©
+cond” _
+
+Al ||
+
+pont
+
+---
+
+### Page 188
+
+**Embedded Text / PYQs:**
 ◇ Formed at high altitudes (
 8000-12000 m).
 ◇ Thin and detached clouds.
@@ -133,7 +171,19 @@ ground. Formed by convectional
 current.
 ◇ Shapeless masses.
 
-#### Page 189
+**Handwritten Slide Notes & Diagram Annotations:**
+Hy
+
+My
+[|
+
+|
+
+---
+
+### Page 189
+
+**Embedded Text / PYQs:**
 Other Clouds
 Combination of Clouds
 forming more Clouds
@@ -167,7 +217,32 @@ to fall as rain.
 Cannot occur in cirrocumulus
 clouds - made of ice crystals.
 
-#### Page 190
+**Handwritten Slide Notes & Diagram Annotations:**
+High
+
+Mid
+
+Low
+
+CETTE
+
+cc
+
+Cs
+
+recent
+stratocumilus
+
+cUimulonimbus
+nimbostratus
+
+stratus cumulus
+
+---
+
+### Page 190
+
+**Embedded Text / PYQs:**
 Rainfall
 ◇ In form of water called
 rainfall.
@@ -216,7 +291,525 @@ water droplets in air are
 collected and freeze on falling
 snowflakes.
 
-#### Page 200
+---
+
+### Page 191
+
+**Handwritten Slide Notes & Diagram Annotations:**
+Speer 9
+conde >), secu
+
+pre E
+
+cone
+
+_5 Sudden downpo7 .
+oH xcunfals 3 Lighbodug & Uwnadtn > Short Aut abtoy
+dax L
+Unpreoichabls
+
+Oo —2d5 Mw
+loo 8 =_
+
+< *
+wi gh
+
+---
+
+### Page 192
+
+**Handwritten Slide Notes & Diagram Annotations:**
+THE EL NINO PHENOMENON
+
+NORMAL
+YEAR
+
+Equatorial
+
+winds gather —
+warm water pool : een e =
+toward the west. : America
+pre Cold water
+along South
+‘American
+coast.
+
+ELNINO a tere
+YEAR
+
+Easterly winds ——
+
+weaken. Warm
+
+water to move
+eastward,
+« DistoxHow of cop. atm,
+
+EL Nino coun
+
+cixcula How
+
+© Teeeguavitiv in
+
+Cvapsvaotion
+
+Reduction in Omourt
+oO plomktow,
+L
+
+fin W
+
+L
+Aprrarauce 4 warm
+water ok Peru
+» Preanuce chung,
+Roip old - Soultuxn oselllator
+
+dumboldd & aS 0 we
+ENSd
+
+a
+lll Trods windraa weak CALs world
+
+Wocatiun
+ae) ;
+Cool LP. ateaca
+f cwt) co) wert Whur La NiNa
+drought L
+
+NWOTOR
+Treads whads > Leong
+L
+
+Move «Qn tn Aw-
+
+---
+
+### Page 193
+
+**Handwritten Slide Notes & Diagram Annotations:**
+132. Which one of the following clouds is a
+rain-bearing cloud ?
+(a) Cumulus cloud
+(b) Stratus cloud
+(c) Nimbus cloud
+
+(d) Cirrus cloud
+71. “Inversion of Rainfall” is associated
+with
+
+(a) Orographic rainfall
+(b) Convectional rainfall
+(c) Cyclonic rainfall (Tropical)
+
+(d) Cyclonic rainfall (Temperate)
+93. Atmospheric conditions are well-governed
+by humidity. Which one among the
+following may best define humidity?
+
+(a)
+
+(b)
+(c)
+
+(a)
+
+Form of suspended water droplets
+caused by condensation
+
+Deposition of atmospheric moisture
+
+Almost microscopically small drops
+of water condensed from and
+suspended in air
+
+The moisture content of the
+atmosphere at a particular time
+and place
+
+---
+
+### Page 194
+
+**Handwritten Slide Notes & Diagram Annotations:**
+25. Which one of the following is applicable
+to collision-coalescence. process of
+precipitation?
+
+(a) Clouds which do not extend beyond
+the freezing level
+
+(b) Clouds which extend beyond the
+freezing level
+
+(c) All types of clouds
+
+(ad) Cirrocumulus cloud
+35.
+
+99 D>
+
+Match List-I with List-II and select the
+correct answer using the code given
+below the Lists :
+
+List-I
+(Cloud)
+
+Cirrus
+Stratus
+Nimbus
+
+Cumulus
+
+Code :
+
+(a)
+
+(b)
+
+n> WP
+
+(c)
+
+Nn >
+
+(a)
+
+ap
+
+f0 Fo +o
+
+oO
+
+- 2 SB
+
+List-II
+(Characteristic)
+
+Rain-giving
+
+Feathery appearance
+Vertically growing
+Horizontally spreading
+
+c D
+4 2
+c D
+4 3
+c D
+1 3
+e D
+1 2
+100. Which one of the following types of
+eloud is characterized by continuous
+precipitation?
+
+ja) Cirrocumulus
+
+{b) Cumulus
+
+fc) Nimbostratus
+
+jd) Cumulonimbus
+
+---
+
+### Page 195
+
+**Handwritten Slide Notes & Diagram Annotations:**
+103. Consider the following characteristics of
+a cloud type :
+
+1. They are born through convection.
+
+2. Only cloud type that can produce
+hail, thunder and lightning.
+
+3. They are large cauliflower-shaped
+towers, often ‘anvil tops’.
+
+Identify the type of cloud on the basis
+of the given characteristics.
+
+(a) Stratocumulus
+(b) Cumulonimbus
+(c) Cirrocumulus
+
+(d) Nimbostratus
+96. Piecing together the puzzle of geologic
+time to create and analyze historical
+maps of the Earth is known as
+
+(a) paleoclimatology
+(b) paleogeomorphology
+(c) paleolithology
+
+(a) paleogeography
+111. “Match List I with List II and select the correct
+answer using the code given below the Lists :
+
+List I List II
+(Cloud Form) (Characteristic)
+Cirrus 1. Storm clouds
+B. Cumulus 2. High fog “Low
+‘ Ceiling”
+Cc. Nimbostratus 3. Fair-weather
+clouds
+D. Stratus 4, Entirely of ice
+particles
+Code:
+A B Cc D
+(a) 2 iz 4
+(b) 2 3 us 4
+te) 3 | 2
+(d) 4 E 3 2
+— _—
+
+---
+
+### Page 196
+
+**Handwritten Slide Notes & Diagram Annotations:**
+86.
+
+Which one of following is the most important
+factor for the formulation of smog ?
+
+(a)
+(b)
+(c)
+(d)
+
+Long winter nights
+Formation of an ‘inversion lid’
+Presence of many air pollutant resources
+
+Rapid fall in temperature with
+increasing height above the sea level
+133. Snow, sleet and hail are the forms of
+
+(a) precipitation
+
+(b) condensation
+
+(c) transpiration
+
+(d) evaporation
+131. Which one of the following is not a form of
+
+condensation ?
+
+(a)
+(b)
+(c)
+(d)
+
+Dew
+Fog
+Frost
+Sleet
+&
+
+---
+
+### Page 197
+
+**Handwritten Slide Notes & Diagram Annotations:**
+46. Identify the type of cloud on the basis of
+the given characteristics :
+
+ie
+
+2.
+
+High, thin, puffy white clouds of
+ice crystals that look like ripples
+They appear between 20000 feet
+and 40000 feet above the Earth’s
+surface
+
+One of its types is called
+a ‘mackerel sky’ because the
+clouds resemble large fish scales,
+especially when they are coloured
+pink at sunset
+
+Select the correct answer.
+
+(a)
+(b)
+(c)
+(a)
+
+Altostratus
+Cirrostratus
+Altocumulus
+Cirrocumulus
+84. How can one determine the relative
+humidity on a particular day at a given
+place?
+
+(a) If temperature is given
+
+(b) If absolute humidity is given
+
+(c) If both temperature and absolute
+humidity are. given
+
+(ad) If percentage of absolute humidity
+is given
+78. Which one of the following is the usual
+unit of measurement for Air Pressure
+used in India ?
+
+(a) Centimeter
+(b) Millibar
+(c) Milligram
+(d) Milliliter
+“a
+
+— <= —
+
+---
+
+### Page 198
+
+**Handwritten Slide Notes & Diagram Annotations:**
+24,
+
+Consider the following statements on ‘Fog’ :
+
+a Fog is simply a cloud that forms close to
+the ground.
+
+2. Radiation fog is associated with
+radiation cooling of the land at night.
+
+3.  Advection fog forms when moisture is
+blown over a cold surface and is chilled
+by contact.
+
+Which of the statements given above are
+correct ?
+
+(a) land 2 only
+(b) 2and3 only
+(c) land 3 only
+(d) 1,2and3
+Which of the following is the correct order of
+clouds in ascending order (lowest to highest) of
+height from surface ?
+
+1. Cirrocumulus
+2. Nimbostratus
+3. Cirrus
+
+4, Altostratus
+
+Select the correct answer using the code given
+below :
+
+(a) 1,2,4,3
+(b) 2,4,3,1
+(ce) 82.4.4
+
+(da) 2,4,1,3
+63.
+
+Consider the following statements about
+
+clouds :
+
+1. Two major forms of clouds are stratiform
+and cumuliform.
+
+2. According to the altitude, clouds are
+classified as high clouds, middle ‘clouds
+and low clouds.
+
+3. Stratus, nimbostratus and
+stratocumulus are types of high clouds.
+
+4. Clouds having nimbo attached to their
+
+name produce precipitation.
+
+Which of the statements given above are
+
+correct ?
+
+(a) land 2 only
+(b) 1,2and4
+(c) 2and4only
+
+(d)
+
+1,3 and 4
+
+---
+
+### Page 199
+
+**Handwritten Slide Notes & Diagram Annotations:**
+4,
+
+Cumulonimbus clouds develop from which
+“among the following clouds ?
+
+(a) Cumulus congestus clouds
+Re” Canina and Nimbostratus clouds
+(c) Cumulus and Altostratus clouds
+
+(d) Cirrocumulus clouds
+73. Which of the following statements regarding
+clouds is/are correct ?
+
+1. Clouds are classified on the basis of
+altitude and their form.
+
+2. According to altitude they are classified as
+High, Middle and Low clouds.
+
+3. Stratus, Nimbostratus and Stratocumulus
+are high clouds.
+
+Select the answer using the code given below : |
+(a) lonly
+
+(b) land 2 only
+
+(c) 2and 3 only
+
+(da) 1,2and3
+111., Which of the following statements regarding
+humidity is/are correct ?
+
+1. It is a ratio between the actual amount
+of water vapour present in the
+atmosphere and the maximum amount
+it can hold at a given temperature.
+
+2. When the relative humidity is high,
+more water evaporates from the skin.
+
+3. Higher the air temperature lower the
+relative humidity of the air.
+
+Select the answer using the code given below :
+(a) lonly
+
+(b) 2and 3 only
+
+(c) land 3 only
+
+(d) 1,2and3
+
+---
+
+### Page 200
+
+**Embedded Text / PYQs:**
 Which one of the following statement with
 reference to hailstones is NOT correct?
 CAPF 2024
@@ -243,7 +836,35 @@ planktons, which reduces the
 number of fish in the sea
 CAPF 2022
 
-#### Page 201
+**Handwritten Slide Notes & Diagram Annotations:**
+105. Which of the following statements is/are
+correct?
+
+1. The jet streams are high altitude
+easterly winds.
+
+2. El Nifio is a warm ocean current.
+
+3. El Nifo appears along the Peru
+coast.
+
+Select the correct answer using the code
+given below.
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1,2 and 3
+—_ — — -
+
+---
+
+### Page 201
+
+**Embedded Text / PYQs:**
 Which of the following statements
 regarding the World Climate Types and
 their relation with Inter Tropical
@@ -295,7 +916,11 @@ d) the moisture content of the
 atmosphere at a particular time
 and place.
 
-#### Page 202
+---
+
+### Page 202
+
+**Embedded Text / PYQs:**
 Consider the following
 characteristics of a type of wind:
 CAPF 2024
@@ -321,13 +946,111 @@ d) If percentage of absolute humidity is
 given
 CAPF 2024
 
-#### Page 203
+**Handwritten Slide Notes & Diagram Annotations:**
+37. Which one of the following statement
+with reference to hailstones is NOT
+correct ?
+(a)
+
+(b)
+
+@)
+
+Their formation usually occurs
+during the monsoon season
+
+They are associated with dense
+cumulonimbus clouds
+
+Rain that forms in the warmer,
+upper layer solidifies into tiny ice
+pellets or hailstones in the lower,
+subfreezing layer
+
+Hailstones have multiple, con-
+centric layers of ice
+
+---
+
+### Page 203
+
+**Embedded Text / PYQs:**
 CDS 1 2025
 NDA 1 2025
 NDA 1 2025
 
-#### Page 204
+**Handwritten Slide Notes & Diagram Annotations:**
+Identify the cloud onthe basis of the following
+characteristics relating to it :
+
+L They look like cotton wool.
+II. They exist in patches and have flat base.
+
+III. They are generally formed at a height of
+4 to 7 km.
+
+Select the answer using the code given below :
+(a) Cirrus
+
+(b) Cumulus
+
+(c) Nimbus
+
+(d) Stratus
+92. Which of the following statements
+with reference to Sleet is/are correct ?
+
+1. Sleet is frozen raindrops and
+refrozen melted snow-water
+
+2. It occurs when a layer of air with
+the temperature below freezing
+point overlies a warm layer near
+the ground surface
+
+Select the answer using the code given
+below :
+
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+
+(d) Neither 1 nor 2
+105. Condensation of water vapour into
+water is influenced by which of the
+following factor/ factors ?
+
+1. Volume of air
+
+2. Humidity
+
+3. Temperature
+Select the answer using the code given
+below :
+
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+---
+
+### Page 204
+
+**Embedded Text / PYQs:**
 NDA 2 2025
+
+**Handwritten Slide Notes & Diagram Annotations:**
+105. Which one of the following is con-
+sidered to be the purest source of
+water ?
+
+(a) River water
+(b) Sea water
+(c) Well water
+
+(d) Rain water
 
 ---
 
