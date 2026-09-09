@@ -53,14 +53,14 @@ Exhaustive, high-density explanatory master notes covering every single concept,
 ### A. Formation of Stars & Galaxies
 1. **Galaxy**: A vast system containing billions of stars, dust clouds, and interstellar gas held together by gravity.
    - **Milky Way Galaxy (Akash Ganga)**: Spiral galaxy, diameter ~80,000 to 100,000 light-years. The Solar System is situated ~27,000 light-years from the Galactic Centre.
-   - **Light Year ($ly$)**: Distance light travels in 1 Julian year. $1	ext{ ly} = 9.46 	imes 10^{12}	ext{ km} = 9.46 	imes 10^{15}	ext{ m}$.
-   - **Astronomical Unit ($AU$)**: Average distance from Earth to Sun. $1	ext{ AU} pprox 149.6 	ext{ million km} pprox 1.496 	imes 10^{8}	ext{ km}$.
-   - **Parsec ($pc$)**: Parallactic second. $1	ext{ pc} pprox 3.26	ext{ ly} pprox 3.08 	imes 10^{13}	ext{ km}$.
+   - **Light Year ($ly$)**: Distance light travels in 1 Julian year. $1\text{ ly} = 9.46 \times 10^{12}\text{ km} = 9.46 \times 10^{15}\text{ m}$.
+   - **Astronomical Unit ($AU$)**: Average distance from Earth to Sun. $1\text{ AU} \approx 149.6 \text{ million km} \approx 1.496 \times 10^{8}\text{ km}$.
+   - **Parsec ($pc$)**: Parallactic second. $1\text{ pc} \approx 3.26\text{ ly} \approx 3.08 \times 10^{13}\text{ km}$.
 
 2. **Stellar Life Cycle**:
-   - **Protostar / Nebula**: Accumulation of Hydrogen gas cloud gravitational collapse $ightarrow$ Core heating initiates Nuclear Fusion ($4	ext{H} ightarrow 	ext{He} + 	ext{Energy}$).
+   - **Protostar / Nebula**: Accumulation of Hydrogen gas cloud gravitational collapse $\rightarrow$ Core heating initiates Nuclear Fusion ($4\text{H} \rightarrow \text{He} + \text{Energy}$).
    - **Main Sequence Star**: Fusion pressure balances gravitational collapse (Sun is currently in Main Sequence, age ~4.6 billion years, remaining ~5 billion years).
-   - **Red Giant Phase**: Hydrogen in core exhausts $ightarrow$ core contracts, outer envelope expands and cools.
+   - **Red Giant Phase**: Hydrogen in core exhausts $\rightarrow$ core contracts, outer envelope expands and cools.
 
 ### B. End States & The Chandrasekhar Limit
 - **Chandrasekhar Limit ($1.44 M_{\odot}$)**: Formulated by Nobel Laureate Subrahmanyan Chandrasekhar. Maximum mass of a stable white dwarf star.
@@ -85,7 +85,7 @@ Exhaustive, high-density explanatory master notes covering every single concept,
 ## 3. Structure & Atmospheric Zones of the Sun
 
 ### A. Internal Structure
-1. **Core**: Inner region (0 to $0.25 R_{\odot}$). Temperature ~15,000,000 °C ($1.5 	imes 10^7	ext{ K}$). Extreme density ($150	ext{ g/cm}^3$). High-pressure nuclear fusion of H into He.
+1. **Core**: Inner region (0 to $0.25 R_{\odot}$). Temperature ~15,000,000 °C ($1.5 \times 10^7\text{ K}$). Extreme density ($150\text{ g/cm}^3$). High-pressure nuclear fusion of H into He.
 2. **Radiative Zone**: Energy transfers outwards via photon radiation/scattering ($0.25$ to $0.7 R_{\odot}$).
 3. **Convective Zone**: Hot plasma rises and cool plasma sinks in convection cells ($0.7$ to $1.0 R_{\odot}$).
 
@@ -110,7 +110,7 @@ Exhaustive, high-density explanatory master notes covering every single concept,
 | **Members** | Mercury, Venus, Earth, Mars | Jupiter, Saturn, Uranus, Neptune |
 | **Location** | Orbit inside Asteroid Belt | Orbit outside Asteroid Belt |
 | **Composition** | Metallic core, silicate rock shell | Hydrogen, Helium, Ammonia, Methane ices |
-| **Density** | High density ($\ge 3.9 	ext{ g/cm}^3$, Earth = $5.51 	ext{ g/cm}^3$) | Low density ($\le 1.63 	ext{ g/cm}^3$, Saturn = $0.69 	ext{ g/cm}^3$) |
+| **Density** | High density ($\ge 3.9 \text{ g/cm}^3$, Earth = $5.51 \text{ g/cm}^3$) | Low density ($\le 1.63 \text{ g/cm}^3$, Saturn = $0.69 \text{ g/cm}^3$) |
 | **Atmosphere** | Thin, secondary atmosphere (lost primordial H/He) | Thick primordial atmosphere retained due to high gravity & cold temp |
 | **Satellites** | Few to none (Mercury/Venus=0, Earth=1, Mars=2) | Extensive ring systems & dozens of moons (Saturn=146+, Jupiter=95+) |
 
@@ -124,16 +124,16 @@ Exhaustive, high-density explanatory master notes covering every single concept,
 
 2. **Venus ("Earth's Twin")**:
    - **Retrograde Rotation**: Rotates Clockwise (East to West) on its axis, unlike most planets.
-   - **Runaway Greenhouse Effect**: 96.5% $	ext{CO}_2$ atmosphere with dense clouds of sulfuric acid. Hottest planet (~465°C continuous).
+   - **Runaway Greenhouse Effect**: 96.5% $\text{CO}_2$ atmosphere with dense clouds of sulfuric acid. Hottest planet (~465°C continuous).
    - **Rotation vs Revolution**: Rotation period (243 Earth days) is longer than its orbital period (225 Earth days).
    - Brightest natural object in night sky after Moon ("Morning Star" / "Evening Star").
 
 3. **Earth**:
-   - Density: $5.517 	ext{ g/cm}^3$ (highest in Solar System).
-   - Shape: **Oblate Spheroid (Geoid)** — Equatorial diameter ($12,756 	ext{ km}$) > Polar diameter ($12,714 	ext{ km}$) by ~42 km due to centrifugal force of **axial rotation**.
+   - Density: $5.517 \text{ g/cm}^3$ (highest in Solar System).
+   - Shape: **Oblate Spheroid (Geoid)** — Equatorial diameter ($12,756 \text{ km}$) > Polar diameter ($12,714 \text{ km}$) by ~42 km due to centrifugal force of **axial rotation**.
 
 4. **Mars ("Red Planet")**:
-   - Reddish color due to **Iron Oxide ($	ext{Fe}_2	ext{O}_3$)** on surface.
+   - Reddish color due to **Iron Oxide ($\text{Fe}_2\text{O}_3$)** on surface.
    - Satellites: **Phobos** and **Deimos**.
    - Landmarks: **Olympus Mons** (largest shield volcano in Solar System), **Valles Marineris** (giant canyon system).
 
@@ -143,7 +143,7 @@ Exhaustive, high-density explanatory master notes covering every single concept,
    - Moons: **Ganymede** (largest natural satellite in Solar System, larger than Mercury), Callisto, Io (volcanically active), Europa (subsurface ocean).
 
 6. **Saturn**:
-   - **Lowest Density**: $0.687 	ext{ g/cm}^3$ (less dense than water; would float in an ocean).
+   - **Lowest Density**: $0.687 \text{ g/cm}^3$ (less dense than water; would float in an ocean).
    - Spectacular planetary ring system made of ice and rock dust.
    - Moons: **Titan** (has dense nitrogen atmosphere and liquid methane/ethane lakes), Enceladus (ice geysers). Largest moon count in solar system (146+ confirmed).
 
@@ -154,7 +154,7 @@ Exhaustive, high-density explanatory master notes covering every single concept,
 
 8. **Neptune**:
    - Furthest planet from Sun. Coldest planetary core temperatures.
-   - Deep blue color due to atmospheric methane. Extremely high-speed planetary winds ($> 2,000 	ext{ km/h}$).
+   - Deep blue color due to atmospheric methane. Extremely high-speed planetary winds ($> 2,000 \text{ km/h}$).
    - Moon: **Triton** (retrograde orbit around Neptune).
 
 ---
@@ -170,7 +170,7 @@ Exhaustive, high-density explanatory master notes covering every single concept,
 
 ### B. Planetary Density & Satellite Rankings (PYQ Focus)
 1. **Planetary Density Sequence (Descending Order)**:
-   $$	ext{Earth } (5.52 	ext{ g/cm}^3) > 	ext{Mercury } (5.43) > 	ext{Venus } (5.24) > 	ext{Mars } (3.93) > 	ext{Neptune } (1.64) > 	ext{Jupiter } (1.33) > 	ext{Uranus } (1.27) > 	ext{Saturn } (0.69)$$
+   $$\text{Earth } (5.52 \text{ g/cm}^3) > \text{Mercury } (5.43) > \text{Venus } (5.24) > \text{Mars } (3.93) > \text{Neptune } (1.64) > \text{Jupiter } (1.33) > \text{Uranus } (1.27) > \text{Saturn } (0.69)$$
 2. **Moons Count**: Saturn (146+) > Jupiter (95) > Uranus (28) > Neptune (16) > Mars (2) > Earth (1) > Mercury = Venus (0).
 
 ---
@@ -214,14 +214,14 @@ Exhaustive, high-density explanatory master notes covering every single concept,
 ---
 
 ### Question 4 (CDS 2021)
-**Ques**: Which one of the following is the correct sequence of arrangement of the given planets in descending order of their density (in $	ext{gm/cm}^3$)?
+**Ques**: Which one of the following is the correct sequence of arrangement of the given planets in descending order of their density (in $\text{gm/cm}^3$)?
 - (a) Earth > Jupiter > Venus > Saturn
 - (b) Jupiter > Earth > Saturn > Venus
 - (c) Earth > Venus > Jupiter > Saturn
 - (d) Earth > Venus > Saturn > Jupiter
 
 **Correct Answer**: **(c) Earth > Venus > Jupiter > Saturn**
-- **Explanation**: Earth ($5.52	ext{ g/cm}^3$) > Venus ($5.24	ext{ g/cm}^3$) > Jupiter ($1.33	ext{ g/cm}^3$) > Saturn ($0.69	ext{ g/cm}^3$).
+- **Explanation**: Earth ($5.52\text{ g/cm}^3$) > Venus ($5.24\text{ g/cm}^3$) > Jupiter ($1.33\text{ g/cm}^3$) > Saturn ($0.69\text{ g/cm}^3$).
 
 ---
 
@@ -240,7 +240,7 @@ Who among the above students is/are correct?
 **Correct Answer**: **(a) Student 1 only**
 - **Explanation**:
   - Statement 1 is correct: Earth is an oblate spheroid (geoid).
-  - Statement 2 is incorrect: Equatorial diameter ($12,756	ext{ km}$) is GREATER than polar diameter ($12,714	ext{ km}$).
+  - Statement 2 is incorrect: Equatorial diameter ($12,756\text{ km}$) is GREATER than polar diameter ($12,714\text{ km}$).
   - Statement 3 is incorrect: Equatorial bulge is caused by the centrifugal force of Earth's **AXIAL ROTATION**, NOT its orbital revolution around the Sun.
 
 ---
