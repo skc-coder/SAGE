@@ -61,16 +61,18 @@ Lewis Acid (e- acceptor, empty orbital)  +  Lewis Base (e- donor, lone pair)
 Indicators change color depending on whether they are in an acidic or basic medium.
 
 ### A. Natural & Synthetic Indicators Table
+ ACID = RCBY, blue for hydrangea
+ BASE = PBGY, Pink for hydrogena and phenotloene
 
-| Indicator | Type | Natural Origin / Source | Color in Acid | Color in Neutral | Color in Base |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Litmus** | Natural | Lichen (*Thallophyta* plant division) | **Red** | Purple | **Blue** |
-| **Red Cabbage Leaf Extract** | Natural | Red Cabbage | **Red** | Purple | **Green / Yellow** |
-| **Turmeric (Haldi)** | Natural | Turmeric root | **Yellow** | Yellow | **Reddish-Brown** |
-| **Hydrangea Petals** | Natural | Flower petals | **Blue** | Blue | **Pink** |
-| **Petunia / Geranium** | Natural | Flower petals | Change color | Original | Change color |
-| **Methyl Orange** | Synthetic | Chemical | **Red** | Orange | **Yellow** |
-| **Phenolphthalein** | Synthetic | Chemical | **Colorless** | Colorless | **Pink** |
+| Indicator                    | Type      | Natural Origin / Source               | Color in Acid | Color in Neutral | Color in Base      |
+| :--------------------------- | :-------- | :------------------------------------ | :------------ | :--------------- | :----------------- |
+| **Litmus**                   | Natural   | Lichen (*Thallophyta* plant division) | **Red**       | Purple           | **Blue**           |
+| **Red Cabbage Leaf Extract** | Natural   | Red Cabbage                           | **Red**       | Purple           | **Green / Yellow** |
+| **Turmeric (Haldi)**         | Natural   | Turmeric root                         | **Yellow**    | Yellow           | **Reddish-Brown**  |
+| **Hydrangea Petals**         | Natural   | Flower petals                         | **Blue**      | Blue             | **Pink**           |
+| **Petunia / Geranium**       | Natural   | Flower petals                         | Change color  | Original         | Change color       |
+| **Methyl Orange**            | Synthetic | Chemical                              | **Red**       | Orange           | **Yellow**         |
+| **Phenolphthalein**          | Synthetic | Chemical                              | **Colorless** | Colorless        | **Pink**           |
 
 * **Turmeric Reaction on Clothes:** A turmeric stain on a white shirt stays yellow. When washed with soap (which is basic), it turns **reddish-brown**. When washed thoroughly with plenty of water, it turns back to **yellow**.
 
@@ -133,48 +135,80 @@ $$\text{pH} = -\log_{10} [\text{H}^+] = \log_{10} \frac{1}{[\text{H}^+]}$$
 
 ### A. Standard pH Reference Values
 
-| Liquid / Substance | Approximate pH Value | Nature |
-| :--- | :--- | :--- |
-| **Gastric Juice (HCI in Stomach)** | $1.2$ | Strongly Acidic |
-| **Lemon Juice** | $2.2 - 2.4$ | Acidic |
-| **Vinegar (5-8% Acetic Acid)** | $2.4 - 3.4$ | Acidic |
-| **Acid Rain Threshold** | $< 5.6$ | Acidic |
-| **Human Saliva (Before Meal)** | $7.4$ | Slightly Alkaline |
-| **Human Saliva (After Meal)** | $5.8$ | Acidic |
-| **Pure Water ($25^\circ\text{C}$)** | $7.0$ | Neutral |
-| **Human Blood** | $7.35 - 7.45$ | Slightly Alkaline |
-| **Tap Water** | $6.5 - 8.5$ | Desirable range |
-| **Milk of Magnesia ($Mg(OH)_2$)** | $10.0$ | Mild Base / Antacid |
-| **Sodium Hydroxide ($1\text{M NaOH}$)** | $14.0$ | Strongly Basic |
+| Liquid / Substance                      | Approximate pH Value | Nature              |
+| :-------------------------------------- | :------------------- | :------------------ |
+| **Gastric Juice (HCI in Stomach)**      | $1.2$                | Strongly Acidic     |
+| **Lemon Juice**                         | $2.2 - 2.4$          | Acidic              |
+| **Vinegar (5-8% Acetic Acid)**          | $2.4 - 3.4$          | Acidic              |
+| **Acid Rain Threshold**                 | $< 5.6$              | Acidic              |
+| **Human Saliva (Before Meal)**          | $7.4$                | Slightly Alkaline   |
+| **Human Saliva (After Meal)**           | $5.8$                | Acidic              |
+| **Pure Water ($25^\circ\text{C}$)**     | $7.0$                | Neutral             |
+| **Human Blood**                         | $7.35 - 7.45$        | Slightly Alkaline   |
+| **Tap Water**                           | $6.5 - 8.5$          | Desirable range     |
+| **Milk of Magnesia ($Mg(OH)_2$)**       | $10.0$               | Mild Base / Antacid |
+| **Sodium Hydroxide ($1\text{M NaOH}$)** | $14.0$               | Strongly Basic      |
 
-### B. Natural Acids Matrix
+### B. Natural & Common Acids Matrix (Nature & Uses)
 
-| Source | Natural Acid Present | Chemical Formula / Notes |
-| :--- | :--- | :--- |
-| **Vinegar** | Acetic Acid / Ethanoic Acid | $\text{CH}_3\text{COOH}$ ($5-8\%$ in water) |
-| **Sour Milk / Curd** | Lactic Acid | $\text{C}_3\text{H}_6\text{O}_3$ |
-| **Lemon / Orange** | Citric Acid & Ascorbic Acid (Vit C) | $\text{C}_6\text{H}_8\text{O}_7$ |
-| **Tamarind / Unripe Grapes**| Tartaric Acid | $\text{C}_4\text{H}_6\text{O}_6$ |
-| **Tomato** | Oxalic Acid | $\text{H}_2\text{C}_2\text{O}_4$ |
-| **Ant Sting / Nettle Hair** | Methanoic Acid / Formic Acid | $\text{HCOOH}$ (Causes burning pain) |
-| **Apple** | Malic Acid | $\text{C}_4\text{H}_6\text{O}_5$ |
+| Source / Common Name | Natural / Commercial Acid | Chemical Formula | Memory Trick & Key Uses |
+| :--- | :--- | :--- | :--- |
+| **Vinegar** | **Acetic Acid / Ethanoic Acid** | $\text{CH}_3\text{COOH}$ | $5-8\%$ solution in water. Used as food preservative & condiment. |
+| **Ant Sting & Nettle Leaf** | **Formic Acid / Methanoic Acid** | $\text{HCOOH}$ | *Formica* = Ant in Latin. Injected by ants/nettle hair causing burning pain. Neutralized by baking soda or **Dock leaf**. |
+| **Citrus Fruits (Lemon, Orange)** | **Citric Acid** | $\text{C}_6\text{H}_8\text{O}_7$ | Gives sharp sour taste; natural antioxidant. |
+| **Vitamin C (Amla, Citrus)** | **Ascorbic Acid** | $\text{C}_6\text{H}_8\text{O}_6$ | **CRITICAL EXAM HOOK:** Vitamin C is **ASCORBIC ACID**, NOT Tartaric or Citric acid! Deficit causes Scurvy. |
+| **Tamarind & Unripe Grapes** | **Tartaric Acid** | $\text{C}_4\text{H}_6\text{O}_6$ | Added to Baking Soda ($\text{NaHCO}_3$) to make **Baking Powder** (neutralizes bitter $\text{Na}_2\text{CO}_3$). |
+| **Tomato** | **Oxalic Acid** | $\text{H}_2\text{C}_2\text{O}_4$ | Used as rust stain remover. Excess forms Calcium Oxalate **kidney stones**. |
+| **Sour Milk / Curd** | **Lactic Acid** | $\text{C}_3\text{H}_6\text{O}_3$ | Formed by *Lactobacillus* bacteria fermenting lactose. |
+| **Eye Wash & Antiseptic** | **Boric Acid** | $\text{H}_3\text{BO}_3$ | Very mild antiseptic; used as eyewash, dusting powder, and carrom board lubricant. |
+| **Gastric Juice in Stomach** | **Hydrochloric Acid** | $\text{HCl}$ | $\text{pH} \approx 1.2$. Kills bacteria & activates pepsin for protein digestion. |
 
-### C. Everyday Applications of pH
+### C. Common Bases & Their Uses
 
-1. **Human Body pH Range:** Works within a narrow range of **$7.0 - 7.8$**.
-2. **Acid Rain:** Rainwater with $\text{pH} < 5.6$. Caused by atmospheric pollutants ($SO_2, NO_2, CO_2$) dissolving in rain to form $\text{H}_2\text{SO}_4$ and $\text{HNO}_3$. When it flows into rivers, it lowers water pH, killing aquatic life.
-3. **Venus Atmosphere:** Atmosphere of Venus is composed of thick white and yellowish clouds of **Concentrated Sulphuric Acid ($\text{H}_2\text{SO}_4$)** and $95-97\% \text{CO}_2$.
-4. **Tooth Decay:** Starts when mouth $\text{pH} < 5.5$. Tooth enamel is made of **Calcium Phosphate / Hydroxyapatite** ($\text{Ca}_5(\text{PO}_4)_3\text{OH}$), the hardest substance in the human body. Bacteria degrade sugar to produce acid. Toothpaste (which is basic) neutralizes excess acid to prevent decay.
-5. **Soil pH Treatment:**
+| Base Name | Chemical Formula | Common Name | Key Exam Uses |
+| :--- | :--- | :--- | :--- |
+| **Sodium Hydroxide** | $\text{NaOH}$ | **Caustic Soda** | Hard soaps, paper pulp, petroleum refining, Chlor-Alkali process. |
+| **Potassium Hydroxide** | $\text{KOH}$ | **Caustic Potash** | **Soft soaps** (shaving creams, liquid soaps), absorbing $\text{CO}_2$ gas in lab experiments. |
+| **Calcium Hydroxide** | $\text{Ca(OH)}_2$ | **Slaked Lime / Lime Water** | White-washing, neutralizing acidic soil, making Bleaching Powder ($\text{CaOCl}_2$). |
+| **Magnesium Hydroxide** | $\text{Mg(OH)}_2$ | **Milk of Magnesia** | $\text{pH} \approx 10$. Mild base used as **Antacid** to treat acidity/indigestion. |
+| **Ammonium Hydroxide** | $\text{NH}_4\text{OH}$ | Liquor Ammonia | Window cleaners, grease stain remover, manufacturing fertilizers. |
+| **Aniline** | $\text{C}_6\text{H}_5\text{NH}_2$ | Aminobenzene | **Weak Organic Base** (lone pair on Nitrogen). Used in azo dye manufacturing and rubber processing. |
+
+### D. Everyday Applications & Memory Tricks for pH
+
+1. **How to Remember pH Order Questions:**
+   * **Rule:** Strong Acids ($0-2$) < Weak Acids ($3-6$) < Neutral ($7$) < Mild Bases ($7.4-10$) < Strong Bases ($11-14$).
+   * **Exam Solving Trick (SSC / CDS / NDA):**
+     * Lemon Juice ($\text{pH} \approx 2.2$) $\rightarrow$ Strongly Acidic (Lowest pH)
+     * Coffee ($\text{pH} \approx 5.0$) $\rightarrow$ Weakly Acidic
+     * Blood ($\text{pH} \approx 7.4$) $\rightarrow$ Slightly Alkaline / Basic
+     * Milk of Magnesia ($\text{pH} \approx 10.0$) $\rightarrow$ Basic Antacid (Highest pH)
+     * **Correct Ascending Order:** $\mathbf{\text{Lemon Juice} < \text{Coffee} < \text{Blood} < \text{Milk of Magnesia}}$.
+2. **Human Body pH Range:** Works within a narrow range of **$7.0 - 7.8$**.
+3. **Acid Rain:** Rainwater with $\text{pH} < 5.6$. Caused by atmospheric pollutants ($SO_2, NO_2, CO_2$) dissolving in rain to form $\text{H}_2\text{SO}_4$ and $\text{HNO}_3$. When it flows into rivers, it lowers water pH, killing aquatic life.
+4. **Venus Atmosphere:** Atmosphere of Venus is composed of thick white and yellowish clouds of **Concentrated Sulphuric Acid ($\text{H}_2\text{SO}_4$)** and $95-97\% \text{CO}_2$.
+5. **Tooth Decay:** Starts when mouth $\text{pH} < 5.5$. Tooth enamel is made of **Calcium Phosphate / Hydroxyapatite** ($\text{Ca}_5(\text{PO}_4)_3\text{OH}$), the hardest substance in the human body. Bacteria degrade sugar to produce acid. Toothpaste (which is basic) neutralizes excess acid to prevent decay.
+6. **Soil pH Treatment:**
    * Acidic Soil ($\text{pH} < 6$): Treated by adding **Quicklime ($\text{CaO}$)**, **Slaked Lime ($\text{Ca(OH)}_2$)**, or **Chalk ($\text{CaCO}_3$)**.
    * Basic Soil ($\text{pH} > 8.3$): Treated by adding organic matter/manure which releases acids.
-6. **Self-Defense by Plants & Animals:**
+7. **Self-Defense by Plants & Animals:**
    * Ant stings / Nettle leaves inject **Methanoic Acid ($\text{HCOOH}$)**.
    * Remedy: Rubbing mild basic baking soda or applying **Dock plant leaf** (nature's remedy growing near nettles).
 
 ---
 
-## 7. Strong vs Weak Acids and Bases
+## 7. Demystifying Sodium Carbonates & Soda Terms
+
+> [!IMPORTANT]
+> **What the heck is "Soda Ash" vs "Washing Soda" vs "Baking Soda"?**
+> * **Soda Ash:** Anhydrous Sodium Carbonate ($\text{Na}_2\text{CO}_3$) — *Pure carbonate powder without any water of crystallization*.
+> * **Washing Soda:** Hydrated Sodium Carbonate ($\text{Na}_2\text{CO}_3 \cdot 10\text{H}_2\text{O}$) — *Soda Ash recrystallized with 10 water molecules*.
+> * **Baking Soda:** Sodium Bicarbonate / Sodium Hydrogen Carbonate ($\text{NaHCO}_3$) — *The acidic salt containing Hydrogen*.
+> * **Caustic Soda:** Sodium Hydroxide ($\text{NaOH}$) — *The strong alkali base*.
+
+---
+
+## 8. Strong vs Weak Acids and Bases
 
 ### A. Acids
 
@@ -185,8 +219,8 @@ $$\begin{array}{l|l}
 \text{Hydrobromic Acid (HBr)} & \text{Carbonic Acid (H}_2\text{CO}_3) \\
 \text{Hydroiodic Acid (HI)} & \text{Hydrofluoric Acid (HF)} \\
 \text{Nitric Acid (HNO}_3) & \text{Phosphoric Acid (H}_3\text{PO}_4) \\
-\text{Sulphuric Acid (H}_2\text{SO}_4) & \text{Formic Acid (HCOOH)} \\
-\text{Perchloric Acid (HClO}_4) & \text{Hydrocyanic Acid (HCN)}
+\text{Sulphuric Acid (H}_2\text{SO}_4) & \text{Formic Acid / Methanoic Acid (HCOOH)} \\
+\text{Perchloric Acid (HClO}_4) & \text{Boric Acid (H}_3\text{BO}_3)
 \end{array}$$
 
 ### B. Bases
@@ -197,75 +231,78 @@ $$\begin{array}{l|l}
 \text{Sodium Hydroxide (NaOH)} & \text{Ammonia (NH}_3) \\
 \text{Potassium Hydroxide (KOH)} & \text{Ammonium Hydroxide (NH}_4\text{OH)} \\
 \text{Lithium Hydroxide (LiOH)} & \text{Magnesium Hydroxide (Mg(OH)}_2) \\
-\text{Barium Hydroxide (Ba(OH)}_2) & \text{Aluminium Hydroxide (Al(OH)}_3) \\
+\text{Barium Hydroxide (Ba(OH)}_2) & \text{Aniline (C}_6\text{H}_5\text{NH}_2) \\
 \text{Calcium Hydroxide (Ca(OH)}_2) & \text{Copper Hydroxide (Cu(OH)}_2)
 \end{array}$$
 
 ---
 
-## 8. Important Chemical Salts & Industrial Preparation
+## 9. Important Chemical Salts & Industrial Preparation
 
 ### 1. Chlor-Alkali Process (Manufacture of $\text{NaOH}$)
 Electrolysis of concentrated aqueous sodium chloride solution (**Brine**).
 $$2\text{NaCl(aq)} + 2\text{H}_2\text{O(l)} \xrightarrow{\text{Electricity}} 2\text{NaOH(aq)} + \text{Cl}_2\text{(g)} + \text{H}_2\text{(g)}$$
-* **Products at Electrodes:**
-  * **Anode (+):** Chlorine gas ($\text{Cl}_2$) $\rightarrow$ Used in PVC, disinfectants, CFCs, bleaching.
-  * **Cathode (-):** Hydrogen gas ($\text{H}_2$) $\rightarrow$ Used in fuels, margarine, ammonia for fertilizers.
-  * **Near Cathode:** Sodium Hydroxide ($\text{NaOH}$) solution $\rightarrow$ Used in soap, paper, degreasing metals.
 
 ### 2. Bleaching Powder ($\text{CaOCl}_2$)
 * **Chemical Name:** Calcium Oxychloride.
 * **Preparation:** Action of chlorine gas on dry slaked lime ($\text{Ca(OH)}_2$).
   $$\text{Ca(OH)}_2 + \text{Cl}_2 \rightarrow \text{CaOCl}_2 + \text{H}_2\text{O}$$
-* **Uses:**
-  1. Bleaching cotton/linen in textile industry and wood pulp in paper factories.
-  2. Disinfecting drinking water (kills germs).
-  3. Strong oxidizing agent in chemical industries.
 
 ### 3. Baking Soda ($\text{NaHCO}_3$)
 * **Chemical Name:** Sodium Hydrogen Carbonate / Sodium Bicarbonate.
 * **Preparation (Solvay Process):**
   $$\text{NaCl} + \text{H}_2\text{O} + \text{CO}_2 + \text{NH}_3 \rightarrow \text{NH}_4\text{Cl} + \text{NaHCO}_3$$
-* **Properties:** Mild non-corrosive basic salt. On heating during cooking:
-  $$2\text{NaHCO}_3 \xrightarrow{\Delta} \text{Na}_2\text{CO}_3 + \text{H}_2\text{O} + \text{CO}_2\uparrow$$
-* **Uses:**
-  1. **Baking Powder:** Mixture of Baking Soda ($\text{NaHCO}_3$) + Mild edible acid (like **Tartaric Acid**). $\text{CO}_2$ produced makes bread/cake soft and spongy.
-  2. **Antacid:** Neutralizes excess stomach acid.
-  3. **Soda-Acid Fire Extinguisher:** Contains $\text{NaHCO}_3$ solution and $\text{H}_2\text{SO}_4$. Reaction releases massive $\text{CO}_2$ gas to extinguish fire.
 
-### 4. Washing Soda ($\text{Na}_2\text{CO}_3 \cdot 10\text{H}_2\text{O}$)
-* **Chemical Name:** Sodium Carbonate Decahydrate.
-* **Preparation:** Recrystallization of sodium carbonate.
-  $$\text{Na}_2\text{CO}_3 + 10\text{H}_2\text{O} \rightarrow \text{Na}_2\text{CO}_3 \cdot 10\text{H}_2\text{O}$$
+### 4. Washing Soda ($\text{Na}_2\text{CO}_3 \cdot 10\text{H}_2\text{O}$) vs Soda Ash ($\text{Na}_2\text{CO}_3$)
+* **Soda Ash:** Thermal decomposition of Baking soda produces anhydrous $\text{Na}_2\text{CO}_3$ (Soda Ash):
+  $$2\text{NaHCO}_3 \xrightarrow{\Delta} \underbrace{\text{Na}_2\text{CO}_3}_{\text{Soda Ash}} + \text{H}_2\text{O} + \text{CO}_2\uparrow$$
+* **Washing Soda:** Recrystallization of Soda Ash in water:
+  $$\text{Na}_2\text{CO}_3 + 10\text{H}_2\text{O} \rightarrow \underbrace{\text{Na}_2\text{CO}_3 \cdot 10\text{H}_2\text{O}}_{\text{Washing Soda}}$$
 * **Uses:** Glass, soap, paper industries; manufacturing Borax ($\text{Na}_2\text{B}_4\text{O}_7 \cdot 10\text{H}_2\text{O}$); removing **permanent hardness of water**.
 
-### 5. Plaster of Paris ($\text{CaSO}_4 \cdot \frac{1}{2}\text{H}_2\text{O}$)
-* **Chemical Name:** Calcium Sulphate Hemihydrate.
-* **Preparation:** Heating Gypsum ($\text{CaSO}_4 \cdot 2\text{H}_2\text{O}$) at **$373\text{ K}$ ($100^\circ\text{C}$)**.
-  $$\text{CaSO}_4 \cdot 2\text{H}_2\text{O} \xrightarrow{373\text{ K}} \text{CaSO}_4 \cdot \frac{1}{2}\text{H}_2\text{O} + 1\frac{1}{2}\text{H}_2\text{O}$$
-* **Setting Action:** On mixing with water, POP turns back into hard solid Gypsum:
-  $$\text{CaSO}_4 \cdot \frac{1}{2}\text{H}_2\text{O} + 1\frac{1}{2}\text{H}_2\text{O} \rightarrow \text{CaSO}_4 \cdot 2\text{H}_2\text{O}$$
-* **Uses:** Plastering fractured bones, making toys, statues, smooth surface decorations.
+### 5. Borax ($\text{Na}_2\text{B}_4\text{O}_7 \cdot 10\text{H}_2\text{O}$)
+* Prepared by boiling Soda Ash ($\text{Na}_2\text{CO}_3$) with Colemanite mineral. Used in borosilicate glass, flame retardants, and Borax bead qualitative test.
 
-### 6. Water of Crystallization & Hydrated Salts
+### 6. Plaster of Paris ($\text{CaSO}_4 \cdot \frac{1}{2}\text{H}_2\text{O}$)
+* **Chemical Name:** Calcium Sulphate Hemihydrate. Heating Gypsum at $373\text{ K}$.
+
+### 7. Water of Crystallization & Hydrated Salts Matrix
 
 | Hydrated Compound | Chemical Name | Formula | Water Molecules |
 | :--- | :--- | :--- | :--- |
-| **Ferrous Sulphate (Green Vitriol)** | Iron(II) Sulphate Heptahydrate | $\text{FeSO}_4 \cdot 7\text{H}_2\text{O}$ | $7$ |
-| **Copper Sulphate (Blue Vitriol)** | Copper(II) Sulphate Pentahydrate | $\text{CuSO}_4 \cdot 5\text{H}_2\text{O}$ | $5$ |
-| **Washing Soda** | Sodium Carbonate Decahydrate | $\text{Na}_2\text{CO}_3 \cdot 10\text{H}_2\text{O}$ | $10$ |
-| **Gypsum** | Calcium Sulphate Dihydrate | $\text{CaSO}_4 \cdot 2\text{H}_2\text{O}$ | $2$ |
-| **White Vitriol** | Zinc Sulphate Heptahydrate | $\text{ZnSO}_4 \cdot 7\text{H}_2\text{O}$ | $7$ |
-| **Epsom Salt** | Magnesium Sulphate Heptahydrate | $\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$ | $7$ |
+| **Copper Sulphate (Blue Vitriol)** | Copper(II) Sulphate Pentahydrate | $\text{CuSO}_4 \cdot 5\text{H}_2\text{O}$ | **5 Molecules** |
+| **Ferrous Sulphate (Green Vitriol)** | Iron(II) Sulphate Heptahydrate | $\text{FeSO}_4 \cdot 7\text{H}_2\text{O}$ | **7 Molecules** |
+| **Washing Soda** | Sodium Carbonate Decahydrate | $\text{Na}_2\text{CO}_3 \cdot 10\text{H}_2\text{O}$ | **10 Molecules** |
+| **Borax** | Sodium Tetraborate Decahydrate | $\text{Na}_2\text{B}_4\text{O}_7 \cdot 10\text{H}_2\text{O}$ | **10 Molecules** |
+| **Gypsum** | Calcium Sulphate Dihydrate | $\text{CaSO}_4 \cdot 2\text{H}_2\text{O}$ | **2 Molecules** |
+| **Plaster of Paris** | Calcium Sulphate Hemihydrate | $\text{CaSO}_4 \cdot \frac{1}{2}\text{H}_2\text{O}$ | **1/2 Molecule** |
+| **White Vitriol** | Zinc Sulphate Heptahydrate | $\text{ZnSO}_4 \cdot 7\text{H}_2\text{O}$ | **7 Molecules** |
+| **Epsom Salt** | Magnesium Sulphate Heptahydrate | $\text{MgSO}_4 \cdot 7\text{H}_2\text{O}$ | **7 Molecules** |
 
 ---
 
-## 9. Solved PYQs (NDA / CDS / CAPF)
+## 10. Solved PYQs & Concept Drills
 
-### Q1 (NDA 2 2021)
-**Question:** What is the number of water molecules present in a Ferrous Sulphate crystal?
-*(a) 1 | (b) 3 | (c) 5 | (d) 7*
-* **Answer:** **(d) 7**. Green vitriol is $\text{FeSO}_4 \cdot 7\text{H}_2\text{O}$.
+### Q1 (SSC 2026 / CDS AIR 1 Concept Drill)
+**Question:** Which one of the following is the correct order of pH for the given substances?
+*(a) Coffee < Lemon juice < Milk of magnesia < Blood*
+*(b) Milk of magnesia < Blood < Coffee < Lemon juice*
+*(c) Lemon juice < Blood < Coffee < Milk of magnesia*
+*(d) Lemon juice < Coffee < Blood < Milk of magnesia*
+* **Answer:** **(d) Lemon juice < Coffee < Blood < Milk of magnesia**.
+  * **Explanation:** Lemon juice ($\text{pH} \approx 2.2$) < Coffee ($\text{pH} \approx 5.0$) < Blood ($\text{pH} \approx 7.4$) < Milk of magnesia ($\text{pH} \approx 10.0$).
+
+### Q2 (PYQ - Copper Sulphate Water of Crystallization)
+**Question:** The number of water molecules associated with copper sulphate molecule to form crystals is:
+*(a) 2 | (b) 4 | (c) 5 | (d) 6*
+* **Answer:** **(c) 5**. Blue vitriol is $\text{CuSO}_4 \cdot 5\text{H}_2\text{O}$.
+
+### Q3 (PYQ - Nitrogen Oxide Dimerization)
+**Question:** Which one of the following nitrogen oxides may dimerize?
+*(a) $\text{NO}$ | (b) $\text{NO}_2$ | (c) $\text{N}_2\text{O}$ | (d) $\text{N}_2\text{O}_5$*
+* **Answer:** **(b) $\text{NO}_2$**.
+  * **Reason:** Nitrogen Dioxide ($\text{NO}_2$) is an **odd-electron molecule** (contains an unpaired electron). To achieve stability, two $\text{NO}_2$ molecules readily pair up and **dimerize into Dinitrogen Tetroxide ($\text{N}_2\text{O}_4$)**:
+    $$2\text{NO}_2\text{(g) [Brown gas]} \rightleftharpoons \text{N}_2\text{O}_4\text{(g) [Colorless gas]}$$
 
 ### Q2 (NDA 1 2024)
 **Question:** Human body works in the pH range of:

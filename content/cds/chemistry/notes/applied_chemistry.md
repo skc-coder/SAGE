@@ -16,12 +16,18 @@ Exhaustive chapter notes covering Hardness of Water (Temporary vs Permanent Remo
 
 Hard water does not produce lather easily with soap and forms scum. Caused by dissolved Bicarbonates, Chlorides, and Sulphates of Calcium ($\text{Ca}^{2+}$) and Magnesium ($\text{Mg}^{2+}$).
 
-| Type of Hardness | Causing Salts | Treatment / Removal Method |
-| :--- | :--- | :--- |
-| **Temporary Hardness** | Calcium Bicarbonate $\text{Ca(HCO}_3)_2$<br>Magnesium Bicarbonate $\text{Mg(HCO}_3)_2$ | 1. **Boiling:** Converts soluble bicarbonates to insoluble carbonates ($\text{Ca(HCO}_3)_2 \xrightarrow{\Delta} \text{CaCO}_3\downarrow + \text{H}_2\text{O} + \text{CO}_2\uparrow$).<br>2. **Clark's Method:** Adding calculated amount of Slaked Lime $\text{Ca(OH)}_2$. |
-| **Permanent Hardness** | Calcium Chloride $\text{CaCl}_2$, $\text{CaSO}_4$<br>Magnesium Chloride $\text{MgCl}_2$, $\text{MgSO}_4$ | 1. **Washing Soda Method:** Treatment with $\text{Na}_2\text{CO}_3$ ($\text{CaCl}_2 + \text{Na}_2\text{CO}_3 \rightarrow \text{CaCO}_3\downarrow + 2\text{NaCl}$).<br>2. **Calgon Process:** Using Sodium Hexametaphosphate ($\text{Na}_6\text{P}_6\text{O}_{18}$).<br>3. **Ion-Exchange Resin Method:** Cation and Anion exchange resins (yields pure demineralized water). |
+| Type of Hardness | Causing Salts | Treatment / Removal Method | Memory Hook / Exam Shortcut |
+| :--- | :--- | :--- | :--- |
+| **Temporary Hardness** | Calcium Bicarbonate $\text{Ca(HCO}_3)_2$<br>Magnesium Bicarbonate $\text{Mg(HCO}_3)_2$ | 1. **Boiling:** Converts soluble bicarbonates to insoluble carbonates ($\text{Ca(HCO}_3)_2 \xrightarrow{\Delta} \text{CaCO}_3\downarrow + \text{H}_2\text{O} + \text{CO}_2\uparrow$).<br>2. **Clark's Method:** Adding calculated amount of Slaked Lime $\text{Ca(OH)}_2$. | **"Temp = Bicarbonate = Boiling"**<br>Easily removed just by boiling or adding lime. |
+| **Permanent Hardness** | Calcium Chloride $\text{CaCl}_2$, $\text{CaSO}_4$<br>Magnesium Chloride $\text{MgCl}_2$, $\text{MgSO}_4$ | 1. **Washing Soda Method:** Treatment with $\text{Na}_2\text{CO}_3$ ($\text{CaCl}_2 + \text{Na}_2\text{CO}_3 \rightarrow \text{CaCO}_3\downarrow + 2\text{NaCl}$).<br>2. **Calgon Process:** Using Sodium Hexametaphosphate ($\text{Na}_6\text{P}_6\text{O}_{18}$).<br>3. **Ion-Exchange Resin Method:** Cation and Anion exchange resins (yields pure demineralized water). | **"Perm = Chloride & Sulphate"**<br>Boiling FAILS! Requires chemicals (Washing Soda, Calgon, or Resins). |
+
+> [!TIP]
+> **Hard Water vs Soft Water Quick Summary:**
+> * **Soft Water:** Lathers easily with soap; free from $\text{Ca}^{2+} / \text{Mg}^{2+}$ ions. (e.g., Rainwater, distilled water).
+> * **Hard Water:** Does NOT lather easily; forms sticky **scum** ($\text{Ca-soap}$ ppt). Soap is wasted! Synthetic detergents work in both hard and soft water.
 
 * **Heavy Water ($\text{D}_2\text{O}$):** Deuterium Oxide. Used as a **Moderator** in nuclear reactors to slow down fast neutrons. (Discovered by Harold Urey).
+
 
 ---
 

@@ -140,22 +140,46 @@ A soap molecule is a **Sodium or Potassium salt of long-chain carboxylic acids**
 
 ---
 
-## 7. Solved PYQs (NDA / CDS / CAPF)
+## 7. Qualitative Analysis: Lassaigne's Test for Organic Elements
 
-### Q1 (NDA 2 2021)
+Lassaigne's Test (Sodium Fusion Test) is used to detect extra elements (**Nitrogen, Sulphur, and Halogens: Chlorine, Bromine, Iodine**) in an organic compound.
+
+* **Principle:** The organic compound is fused with metallic Sodium ($\text{Na}$) to convert covalently bonded heteroatoms into water-soluble ionic sodium salts:
+  $$\text{Na} + \text{C} + \text{N} \xrightarrow{\Delta} \underbrace{\text{NaCN}}_{\text{Sodium Cyanide (for N)}}$$
+  $$2\text{Na} + \text{S} \xrightarrow{\Delta} \underbrace{\text{Na}_2\text{S}}_{\text{Sodium Sulphide (for S)}}$$
+  $$\text{Na} + \text{X} \xrightarrow{\Delta} \underbrace{\text{NaX}}_{\text{Sodium Halide (X = Cl, Br, I)}}$$
+* **Detection:**
+  * **Nitrogen:** Sodium fusion extract boiled with $\text{FeSO}_4$ and $\text{FeCl}_3$ forms Prussian Blue color ($\text{Fe}_4[\text{Fe(CN)}_6]_3$).
+  * **Sulphur:** Gives violet color with Sodium Nitroprusside $\text{Na}_2[\text{Fe(CN)}_5\text{NO}]$.
+  * **Halogens:** Precipitate with Silver Nitrate ($\text{AgNO}_3$).
+* **CRITICAL EXAM HOOK - What CANNOT be detected by Lassaigne's Test?**
+  * **Fluorine ($\text{F}$):** Sodium Fluoride ($\text{NaF}$) is extremely stable and insoluble/does not yield characteristic test precipitate.
+  * **Carbon & Hydrogen ($\text{C, H}$):** Detected by heating with Copper(II) Oxide ($\text{CuO}$), NOT by Lassaigne's test.
+
+---
+
+## 8. Solved PYQs (NDA / CDS / CAPF)
+
+### Q1 (Lassaigne's Test Element Detection)
+**Question:** Which one of the following elements CANNOT be detected by "Lassaigne's test"?
+*(a) Fluorine ($\text{F}$) / Carbon ($\text{C}$) | (b) Chlorine ($\text{Cl}$) | (c) Iodine ($\text{I}$) | (d) Sulphur ($\text{S}$)*
+* **Answer:** **Fluorine ($\text{F}$)** (or $\text{C/H}$ directly). Halogens ($\text{Cl, Br, I}$), Nitrogen ($\text{N}$), and Sulphur ($\text{S}$) ARE detected by Lassaigne's test.
+
+### Q2 (NDA 2 2021)
 **Question:** What is the total number of covalent bonds in methanol ($\text{CH}_3\text{OH}$)?
 *(a) 3 | (b) 4 | (c) 5 | (d) 6*
 * **Answer:** **(c) 5**. (3 $\text{C-H}$ bonds, 1 $\text{C-O}$ bond, 1 $\text{O-H}$ bond $= 5$ covalent bonds).
 
-### Q2 (NDA II 2019)
+### Q3 (NDA II 2019)
 **Question:** A sample of soft soap contains:
 *(a) Caesium | (b) Potassium | (c) Calcium | (d) Magnesium*
 * **Answer:** **(b) Potassium**. Soft soaps use $\text{KOH}$.
 
-### Q3 (CAPF 2022)
+### Q4 (CAPF 2022)
 **Question:** Hydrogenation of alkenes is carried out in the presence of which catalyst?
 *(a) Nickel ($\text{Ni}$) or Palladium ($\text{Pd}$) | (b) Iron ($\text{Fe}$) | (c) Platinum ($\text{Pt}$) only | (d) Zinc ($\text{Zn}$)*
 * **Answer:** **(a) Nickel ($\text{Ni}$) or Palladium ($\text{Pd}$)**.
+
 
 ---
 
