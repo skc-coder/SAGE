@@ -1,4 +1,13 @@
-# Comprehensive Chemistry Notes: Atomic Structure, Laws, and Concepts
+---
+exam: "CDS"
+subject: "Chemistry"
+topic: "Atoms, Molecules & Atomic Structure"
+difficulty: "Medium"
+tags: [cds, chemistry, atoms, molecules, atomic-structure, valency, dalton, berzelius]
+---
+
+# Atoms, Molecules & Atomic Structure
+
 
 ## 1. Atom Timeline and Early Concepts
 
@@ -415,3 +424,14 @@ Polyatomic ions use the **-ate** suffix. These consist of a central nonmetal bon
 * **Question:** Which anion has a valency of -3?
 * **Options:** Nitride ($\text{N}^{3-}$), Nitrate ($\text{NO}_3^{-}$), Sulphide ($\text{S}^{2-}$), Sulphate ($\text{SO}_4^{2-}$).
 * **Answer:** Nitride ($\text{N}^{3-}$), because Nitrogen is in Group 15 and gains 3 electrons.
+
+---
+
+## Navigation
+
+- [[cds/chemistry/chemistry_overview|Chemistry Overview]]
+- [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter]]
+- [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
+- [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
+- [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
+- [[cds/chemistry/notes/common_names|Ch 05. Common Names & Formulas in Chemistry]]

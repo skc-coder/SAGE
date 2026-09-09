@@ -1,4 +1,13 @@
-# Complete Chemistry Study Notes
+---
+exam: "CDS"
+subject: "Chemistry"
+topic: "Classification of Matter & Physical States"
+difficulty: "Medium"
+tags: [cds, chemistry, matter, states-of-matter, plasma, bec, separation-methods, colloids]
+---
+
+# Classification of Matter & Physical States
+
 
 ## 1. Thermal & Physical Phenomena
 
@@ -281,3 +290,14 @@ Ammonium chloride
       
     
 - **Sulphur in water** is a heterogeneous mixture because sulphur is insoluble in water.
+
+---
+
+## Navigation
+
+- [[cds/chemistry/chemistry_overview|Chemistry Overview]]
+- [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter]]
+- [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
+- [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
+- [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
+- [[cds/chemistry/notes/common_names|Ch 05. Common Names & Formulas in Chemistry]]

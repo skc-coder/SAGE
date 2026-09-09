@@ -1,4 +1,13 @@
+---
+exam: "CDS"
+subject: "Chemistry"
+topic: "Chemical Reactions & Equations"
+difficulty: "Medium"
+tags: [cds, chemistry, chemical-reactions, redox, combination, decomposition, displacement, oxidation]
+---
+
 # Chemical Reactions and Equations
+
 
 ## 1. Basics of Chemical Reactions
 * **Chemical Change Characteristics:** Defined by a change in state, change in colour, evolution of a gas, or change in temperature.
@@ -83,6 +92,18 @@ Exchange of ions between reactants.
   * **Silver Tarnishing:** $\text{Ag} + \text{S} \rightarrow \text{Ag}_2\text{S}$ (black)
   * **Copper Corrosion:** $\text{Cu} + \text{H}_2\text{O} + \text{CO}_2 \rightarrow \text{CuCO}_3 \cdot \text{Cu(OH)}_2$ (green basic copper carbonate)
 * **Rancidity:** Oxidation of oils and fats resulting in foul smells and bad tastes. Prevented in chip packets by flushing with nitrogen ($\text{N}_2$) gas.
+* **Rancidity Prevention:** Flush food packages with Nitrogen gas ($N_2$), or add antioxidants (like BHA / BHT).
+
+---
+
+## Navigation
+
+- [[cds/chemistry/chemistry_overview|Chemistry Overview]]
+- [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter]]
+- [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
+- [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
+- [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
+- [[cds/chemistry/notes/common_names|Ch 05. Common Names & Formulas in Chemistry]]
 
 ---
 

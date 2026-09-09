@@ -1,4 +1,13 @@
-### Industrial Manufacturing Processes
+---
+exam: "CDS"
+subject: "Chemistry"
+topic: "Common Names, Chemical Formulas & Industrial Processes"
+difficulty: "Easy"
+tags: [cds, chemistry, common-names, chemical-formulas, industrial-processes, vitriols, ores]
+---
+
+# Common Names, Chemical Formulas & Industrial Processes
+
 
 These processes are frequently tested to check your knowledge of industrial chemistry, specific products, and their required catalysts.
 
@@ -30,8 +39,21 @@ Familiarity with trivial names, chemical names, and formulas is critical. These 
 | Plaster of Paris | Calcium Sulphate Hemihydrate    | $CaSO_4 \cdot \frac{1}{2}H_2O$ |
 | Gypsum           | Calcium Sulphate Dihydrate      | $CaSO_4 \cdot 2H_2O$           |
 | Epsom Salt       | Magnesium Sulphate Heptahydrate | $MgSO_4 \cdot 7H_2O$           |
+| **White Vitriol** | Zinc Sulphate Heptahydrate      | $\text{ZnSO}_4 \cdot 7\text{H}_2\text{O}$ |
+| **Oil of Vitriol** | Concentrated Sulphuric Acid   | $\text{H}_2\text{SO}_4$                  |
 | Blue Vitriol     | Copper Sulphate Pentahydrate    | $CuSO_4 \cdot 5H_2O$           |
 | Dry Ice          | Solid Carbon Dioxide            | $CO_2$                         |
+
+---
+
+## Navigation
+
+- [[cds/chemistry/chemistry_overview|Chemistry Overview]]
+- [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter]]
+- [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
+- [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
+- [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
+- [[cds/chemistry/notes/common_names|Ch 05. Common Names & Formulas in Chemistry]]
 
   
 

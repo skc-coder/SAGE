@@ -49,7 +49,18 @@ Welcome to the **Combined Defence Services (CDS)** Master Study Vault. Below is 
 
 ---
 
-## 3. History
+## 3. Chemistry
+- **Subject Overview**: [[cds/chemistry/chemistry_overview|Chemistry Subject Overview]]
+- **Chapter Notes**:
+  - [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter & Physical States]]
+  - [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
+  - [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
+  - [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases, Salts & Indicators]]
+  - [[cds/chemistry/notes/common_names|Ch 05. Common Names & Chemical Formulas]]
+
+---
+
+## 4. History
 - **Master Cheat Sheet**: [[cds/history_cheatsheet|Ultimate Comprehensive History Cheat Sheet]]
 - **Chapter Breakdown**:
   - [[cds/history_cheatsheet#part-1-ancient-india-pre-history-to-1200-ad|Ch 01. Ancient India (Pre-History to ~1200 AD)]]
