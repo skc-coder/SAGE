@@ -3,96 +3,169 @@ exam: "CDS"
 subject: "Chemistry"
 topic: "Chemical Reactions & Equations"
 difficulty: "Medium"
-tags: [cds, chemistry, chemical-reactions, redox, combination, decomposition, displacement, oxidation]
+tags: [cds, chemistry, chemical-reactions, redox, combination, decomposition, displacement, oxidation, catalysts]
 ---
 
-# Chemical Reactions and Equations
+# Chemical Reactions & Equations
 
+Exhaustive chapter notes covering characteristics of chemical reactions, balancing equations, types of chemical reactions (Combination, Decomposition, Displacement, Double Displacement), Exothermic vs Endothermic processes, Redox theory (Oxidation states, Oxidizing/Reducing agents), Catalysts, Corrosion, and Rancidity.
 
-## 1. Basics of Chemical Reactions
-* **Chemical Change Characteristics:** Defined by a change in state, change in colour, evolution of a gas, or change in temperature.
-* **State Symbols:** 
-  * `(g)` = gaseous or vapour
-  * `(l)` = liquid
-  * `(aq)` = aqueous (dissolved in water)
-  * `(s)` = solid
-* **Catalysts:** Substances that alter or increase the rate of a reaction without taking part in it.
-  * **Positive Catalyst:** Increases rate (e.g., $Ni$ in the reaction of $CO + H_2 \xrightarrow{340\text{ atm}} CH_3OH$).
-  * **Negative Catalyst:** Decreases rate.
+---
+
+## 1. Basics of Chemical Reactions & Equations
+
+* **Characteristics of a Chemical Reaction:**
+  1. Change in state (e.g., liquid to gas).
+  2. Change in color (e.g., copper sulphate turning pale green with iron).
+  3. Evolution of a gas (e.g., $\text{H}_2\uparrow, \text{CO}_2\uparrow, \text{NO}_2\uparrow$).
+  4. Change in temperature (Exothermic / Endothermic).
+  5. Formation of a precipitate ($\downarrow$).
+
+* **State Symbols in Equations:**
+  * `(s)` = solid | `(l)` = liquid | `(g)` = gas / vapor | `(aq)` = aqueous solution (dissolved in water)
+  * `^` / `\uparrow` = gas evolved | `\downarrow` = precipitate formed | `\Delta` = heat supplied
+
+* **Catalysts:** Substances that alter the rate of a chemical reaction without undergoing any permanent chemical change themselves.
+  * **Positive Catalyst:** Increases reaction rate by lowering activation energy (e.g., Nickel $\text{Ni}$ in hydrogenation of oils; $\text{V}_2\text{O}_5$ in Contact Process; $\text{MnO}_2$ in decomposition of $\text{KClO}_3$).
+  * **Negative Catalyst / Inhibitor:** Decreases reaction rate (e.g., Glycerol / Acetanilide retards decomposition of $\text{H}_2\text{O}_2$).
 
 ---
 
 ## 2. Types of Chemical Reactions
 
+```
+                       TYPES OF CHEMICAL REACTIONS
+                                    |
+     +------------+------------+----+------------+------------+
+     |            |            |                 |            |
+Combination  Decomposition Displacement  Double Disp.     Redox
+ (A+B -> C)   (A -> B+C)   (A+BC->AC+B)  (AB+CD->AD+CB) (Oxid/Red)
+```
+
 ### A. Combination Reaction ($A + B \rightarrow C$)
 Two or more reactants combine to form a single product.
-* **Burning of Magnesium Ribbon:**
-  * **Equation:** $2\text{Mg} + \text{O}_2 \rightarrow 2\text{MgO}$
-  * **Visuals:** Burns with a brilliant white dazzling flame, leaving a white powder ($\text{MgO}$).
-  * **Preparation:** The ribbon must be rubbed with sandpaper before burning to strip off the dull protective layer of magnesium oxide.
-  * **Classification:** Exothermic, combination, and oxidation.
-  * **Fun Fact / Usage:** Magnesium flares are used in emergency marine signals and early flash photography due to extreme brightness.
-* **Quick Lime to Slaked Lime:**
-  * **Equation:** $\text{CaO} + \text{H}_2\text{O} \rightarrow \text{Ca(OH)}_2$
-  * **Details:** Exothermic reaction. Quick lime ($\text{CaO}$) reacts with water to form slaked lime / lime water ($\text{Ca(OH)}_2$).
-* **White-Washing Walls:**
-  * **Equation:** $\text{Ca(OH)}_2 + \text{CO}_2 \rightarrow \text{CaC}O_3 + \text{H}_2\text{O}$
-  * **Details:** Slaked lime reacts with carbon dioxide over 2–3 days to form a thin shiny layer of calcium carbonate ($\text{CaC}O_3$, also known as marble, chalk, or limestone).
 
-### B. Decomposition Reaction ($A \rightarrow B + C + \dots$)
-A single reactant breaks down into two or more products (generally endothermic).
+1. **Burning of Magnesium Ribbon:**
+   $$2\text{Mg(s)} + \text{O}_2\text{(g)} \rightarrow 2\text{MgO(s)}$$
+   * **Observations:** Burns with a **dazzling white flame** forming a white powder ($\text{MgO}$).
+   * **Precaution:** Clean ribbon with sandpaper to remove protective layer of basic magnesium carbonate.
+2. **Slaking of Lime (Highly Exothermic):**
+   $$\underbrace{\text{CaO(s)}}_{\text{Quicklime}} + \text{H}_2\text{O(l)} \rightarrow \underbrace{\text{Ca(OH)}_2\text{(aq)}}_{\text{Slaked Lime}} + \text{Heat}$$
+   * **White-washing Walls:** $\text{Ca(OH)}_2$ applied on walls reacts slowly with atmospheric $\text{CO}_2$ over 2-3 days to form a shiny layer of **Calcium Carbonate ($\text{CaCO}_3$)**:
+     $$\text{Ca(OH)}_2\text{(aq)} + \text{CO}_2\text{(g)} \rightarrow \text{CaCO}_3\text{(s)} + \text{H}_2\text{O(l)}$$
 
-* **Thermal Decomposition (using heat):**
-  * **Calcium Carbonate:** $\text{CaC}O_3 \xrightarrow{\Delta} \text{CaO} + \text{CO}_2$
-  * **Lead Nitrate:** $2\text{Pb(NO}_3)_2(s) \xrightarrow{\Delta} 2\text{PbO}(s) + 4\text{NO}_2(g) + \text{O}_2(g)$
-    * *Visuals:* White powder turns into yellow lead monoxide ($\text{PbO}$) and thick choking brown fumes of nitrogen dioxide ($\text{NO}_2$).
-  * **Green Vitriol:** $\text{FeSO}_4 \cdot 7\text{H}_2\text{O} \xrightarrow{\Delta} \text{FeSO}_4 + 7\text{H}_2\text{O}$ (turns white), further decomposes into reddish-brown ferric oxide ($\text{Fe}_2\text{O}_3$), $\text{SO}_2$, and $\text{SO}_3$.
-  * **Cinnabar (Mercury Ore):** $\text{HgO}(s) \xrightarrow{\Delta} \text{Hg}(l) + \text{O}_2(g)$
+### B. Decomposition Reaction ($A \rightarrow B + C$)
+A single compound breaks down into two or more simpler substances. Requires energy in the form of Heat (*Thermal*), Light (*Photolytic*), or Electricity (*Electrolytic*).
 
-* **Electrolytic Decomposition (using electricity):**
-  * **Water:** $2\text{H}_2\text{O} \xrightarrow{\text{electricity}} 2\text{H}_2 + \text{O}_2$
+1. **Thermal Decomposition of Ferrous Sulphate:**
+   $$2\text{FeSO}_4 \cdot 7\text{H}_2\text{O} \xrightarrow{\Delta} \underbrace{\text{Fe}_2\text{O}_3\text{(s)}}_{\text{Ferric Oxide (Red-Brown)}} + \underbrace{\text{SO}_2\text{(g)} + \text{SO}_3\text{(g)}}_{\text{Pungent suffocating smell of burning sulphur}}$$
+   * Green ferrous sulphate crystals lose water of crystallization and turn white, then decompose to reddish-brown $\text{Fe}_2\text{O}_3$.
+2. **Thermal Decomposition of Lead Nitrate:**
+   $$2\text{Pb(NO}_3)_2\text{(s)} \xrightarrow{\Delta} 2\text{PbO(s)} + \underbrace{4\text{NO}_2\text{(g)}}_{\text{Brown Fumes}} + \text{O}_2\text{(g)}$$
+   * **Crucial Exam Point:** Emission of **brown fumes** indicates **Nitrogen Dioxide ($\text{NO}_2$) gas**! $\text{PbO}$ residue is yellow.
+3. **Photolytic Decomposition of Silver Halides (Black & White Photography):**
+   $$2\text{AgCl(s)} \xrightarrow{\text{Sunlight}} 2\text{Ag(s)} + \text{Cl}_2\text{(g)} \quad (\text{White } \text{AgCl} \rightarrow \text{Grey Silver})$$
+   $$2\text{AgBr(s)} \xrightarrow{\text{Sunlight}} 2\text{Ag(s)} + \text{Br}_2\text{(g)} \quad (\text{Used in Black & White Photography})$$
 
-* **Photolytic Decomposition (using sunlight):**
-  * **Silver Chloride:** $2\text{AgCl} \xrightarrow{\text{sunlight}} 2\text{Ag} + \text{Cl}_2$ (changes from white to grey).
-  * **Silver Bromide:** $2\text{AgBr} \xrightarrow{\text{sunlight}} 2\text{Ag} + \text{Br}_2$.
-  * *Usage:* Both used in black-and-white photography.
+### C. Displacement Reaction ($A + BC \rightarrow AC + B$)
+A more reactive element displaces a less reactive element from its salt solution.
 
-### C. Displacement Reaction ($AB + C \rightarrow A + BC$)
-A more reactive element displaces a less reactive element.
-* **Reactivity Series (Descending):** $K > Na > Ca > Mg > Al > Zn > Fe > Sn > Pb > H > Cu > Hg > Ag > Au$
-* **Iron and Copper Sulfate:** $\text{Fe} + \text{CuSO}_4 \rightarrow \text{FeSO}_4 + \text{Cu}$
-  * *Visuals:* Blue copper sulfate solution turns light green, and a reddish-brown layer of copper coats the iron.
+$$\text{Fe(s)} + \underbrace{\text{CuSO}_4\text{(aq)}}_{\text{Blue Solution}} \rightarrow \underbrace{\text{FeSO}_4\text{(aq)}}_{\text{Pale Green Solution}} + \underbrace{\text{Cu(s)}}_{\text{Reddish-brown deposit on iron nail}}$$
+$$\text{Zn(s)} + \text{CuSO}_4\text{(aq)} \rightarrow \text{ZnSO}_4\text{(aq)} + \text{Cu(s)} \quad (\text{Blue solution becomes colorless})$$
 
-### D. Double Displacement Reaction
-Exchange of ions between reactants.
-* **Lead Iodide Precipitation:** $\text{Pb(NO}_3)_2(aq) + 2\text{KI}(aq) \rightarrow \text{PbI}_2(s)\downarrow + 2\text{KNO}_3(aq)$
-  * *Visuals:* Clear solutions instantly form a bright yellow precipitate ($\text{PbI}_2$).
-* **Sodium Sulfate and Barium Chloride:** $\text{Na}_2\text{SO}_4 + \text{BaCl}_2 \rightarrow \text{BaSO}_4\downarrow + 2\text{NaCl}$ (white insoluble precipitate).
-* **Endothermic Salt Mixture:** $\text{Ba(OH)}_2 + \text{NH}_4\text{Cl} \rightarrow \text{BaCl}_2 + \text{NH}_3 + \text{H}_2\text{O}$ (absorbs heat, container bottoms feel cool).
+### D. Double Displacement / Precipitation Reaction ($AB + CD \rightarrow AD + CB$)
+Exchange of ions between reactants to form an insoluble precipitate.
+
+$$\underbrace{\text{Na}_2\text{SO}_4\text{(aq)}}_{\text{Sodium Sulphate}} + \underbrace{\text{BaCl}_2\text{(aq)}}_{\text{Barium Chloride}} \rightarrow \underbrace{\text{BaSO}_4\downarrow}_{\text{White ppt of Barium Sulphate}} + 2\text{NaCl(aq)}$$
+$$\text{Pb(NO}_3)_2\text{(aq)} + 2\text{KI(aq)} \rightarrow \underbrace{\text{PbI}_2\downarrow}_{\text{Yellow ppt of Lead Iodide}} + 2\text{KNO}_3\text{(aq)}$$
 
 ---
 
-## 3. Oxidation, Reduction, and Redox Reactions
+## 3. Exothermic vs Endothermic Processes
 
-* **Oxidation:** Addition of oxygen / removal of hydrogen; involves electron loss.
-* **Reduction:** Removal of oxygen / addition of hydrogen; involves electron gain.
-* **Redox Reaction:** Simultaneous oxidation and reduction.
-* **Zinc and Sulfuric Acid:** $\text{Zn} + \text{H}_2\text{SO}_4 \rightarrow \text{ZnSO}_4 + \text{H}_2(g)$
-  * *Test:* Hydrogen gas produces a distinct **pop sound** when a burning matchstick is brought near.
-  * ZnSO4 is called white vitriol
-* **Thermite Reaction:** $\text{Fe}_2\text{O}_3(s) + 2\text{Al}(s) \xrightarrow{\text{exo.}} 2\text{Fe}(l) + \text{Al}_2\text{O}_3$
-  * *Usage:* Exothermic redox reaction used for joining railway tracks ($\text{Fe}_2\text{O}_3$ acts as oxidizing agent, $\text{Al}$ as reducing agent).
+| Parameter | Exothermic Reaction | Endothermic Reaction |
+| :--- | :--- | :--- |
+| **Heat Flow** | Heat is **released** to surroundings ($\Delta H = -\text{ve}$) | Heat is **absorbed** from surroundings ($\Delta H = +\text{ve}$) |
+| **Temperature** | Surrounding temperature **increases** | Surrounding temperature **decreases** |
+| **Examples** | • Respiration ($\text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2 \rightarrow 6\text{CO}_2 + 6\text{H}_2\text{O} + \text{Energy}$)<br>• Burning of natural gas ($\text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O}$)<br>• Decomposition of vegetable matter into compost<br>• Slaking of lime ($\text{CaO} + \text{H}_2\text{O}$) | • Photosynthesis ($6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{Sunlight}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2$)<br>• Electrolysis of water<br>• Thermal decomposition of $\text{CaCO}_3$ or $\text{Pb(NO}_3)_2$<br>• Dissolving Ammonium Chloride ($\text{NH}_4\text{Cl}$) in water |
 
 ---
 
-## 4. Effects of Oxidation in Everyday Life
+## 4. Redox Reactions & Oxidation Numbers
 
-* **Corrosion:** Elements react with moisture, acids, or oxygen, leading to material degradation.
-  * **Rusting of Iron:** $\text{Fe} + \text{O}_2 \rightarrow \text{Fe}_2\text{O}_3$
-  * **Silver Tarnishing:** $\text{Ag} + \text{S} \rightarrow \text{Ag}_2\text{S}$ (black)
-  * **Copper Corrosion:** $\text{Cu} + \text{H}_2\text{O} + \text{CO}_2 \rightarrow \text{CuCO}_3 \cdot \text{Cu(OH)}_2$ (green basic copper carbonate)
-* **Rancidity:** Oxidation of oils and fats resulting in foul smells and bad tastes. Prevented in chip packets by flushing with nitrogen ($\text{N}_2$) gas.
-* **Rancidity Prevention:** Flush food packages with Nitrogen gas ($N_2$), or add antioxidants (like BHA / BHT).
+Redox = **Red**uction + **Ox**idation occurring simultaneously.
+
+### Classical vs Electronic vs Oxidation Number Concept
+
+| Concept | Oxidation | Reduction |
+| :--- | :--- | :--- |
+| **Oxygen / Hydrogen** | Gain of Oxygen / Loss of Hydrogen | Loss of Oxygen / Gain of Hydrogen |
+| **Electron Transfer (OIL RIG)** | **O**xidation **I**s **L**oss of electrons ($e^-$) | **R**eduction **I**s **G**ain of electrons ($e^-$) |
+| **Oxidation Number (ON)** | **Increase** in Oxidation Number | **Decrease** in Oxidation Number |
+
+### Agents
+* **Oxidizing Agent (Oxidant):** Gets reduced itself; causes oxidation in others (accepts electrons / increases ON of others).
+  * Examples: $\text{KMnO}_4$ (strongest in acidic medium), $\text{K}_2\text{Cr}_2\text{O}_7$, $\text{HNO}_3$, $\text{O}_2$, $\text{Cl}_2$, $\text{H}_2\text{O}_2$.
+* **Reducing Agent (Reductant):** Gets oxidized itself; causes reduction in others (donates electrons / decreases ON of others).
+  * Examples: $\text{H}_2$, $\text{C}$ (Coke), $\text{CO}$, $\text{LiAlH}_4$, $\text{NaBH}_4$, $\text{Na}$, $\text{Zn}$.
+
+### Sample Redox Breakdown
+$$\text{CuO} + \text{H}_2 \xrightarrow{\Delta} \text{Cu} + \text{H}_2\text{O}$$
+* $\text{CuO} \rightarrow \text{Cu}$ (Loss of Oxygen $\implies$ **Reduced**; $\text{CuO}$ is the **Oxidizing Agent**)
+* $\text{H}_2 \rightarrow \text{H}_2\text{O}$ (Gain of Oxygen $\implies$ **Oxidized**; $\text{H}_2$ is the **Reducing Agent**)
+
+### Rules for Determining Oxidation Numbers
+1. Free element in elemental state ON $= 0$ (e.g., $\text{O}_2, \text{N}_2, \text{Na}, \text{Fe}, \text{S}_8 = 0$).
+2. Hydrogen ON $= +1$ (except in metallic hydrides like $\text{NaH}, \text{CaH}_2$ where ON $= -1$).
+3. Oxygen ON $= -2$ (except in peroxides like $\text{H}_2\text{O}_2, \text{Na}_2\text{O}_2$ where ON $= -1$; and $\text{OF}_2$ where ON $= +2$).
+4. Alkali Metals (Group 1) ON $= +1$; Alkaline Earth (Group 2) ON $= +2$; Fluorine ON $= -1$.
+
+---
+
+## 5. Corrosion & Rancidity
+
+### A. Corrosion of Metals
+Slow degradation of metals due to chemical reaction with atmospheric gases ($\text{O}_2, \text{H}_2\text{O}, \text{CO}_2, \text{H}_2\text{S}$).
+
+1. **Rusting of Iron:**
+   * Formula of Rust: **Hydrated Ferric Oxide ($\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}$)** (Reddish-brown flake).
+   * Essential Conditions: Both **Oxygen ($\text{O}_2$) AND Water ($\text{H}_2\text{O}$)** are necessary!
+   * Prevention: Painting, greasing, **Galvanization** (coating with a thin layer of Zinc $\text{Zn}$), Alloying (Stainless steel $= \text{Fe} + \text{Cr} + \text{Ni} + \text{C}$).
+2. **Tarnishing of Silver:**
+   * Silver articles turn black due to formation of **Silver Sulphide ($\text{Ag}_2\text{S}$)** by reacting with $\text{H}_2\text{S}$ gas in air.
+3. **Corrosion of Copper:**
+   * Copper forms a green coating of **Basic Copper Carbonate ($\text{CuCO}_3 \cdot \text{Cu(OH)}_2$)** by reacting with moist $\text{CO}_2$ in air.
+
+### B. Rancidity
+Oxidation of fats and oils in food when exposed to air, resulting in unpleasant odor and bad taste.
+* **Prevention:**
+  1. Packing food items in an atmosphere of **unreactive Nitrogen gas ($\text{N}_2$)** (e.g., Potato chip packets).
+  2. Adding **Antioxidants** (e.g., BHA - Butylated Hydroxyanisole, BHT - Butylated Hydroxytoluene).
+  3. Keeping food in airtight containers or refrigeration.
+
+---
+
+## 6. Solved PYQs (NDA / CDS / CAPF)
+
+### Q1 (NDA II 2021)
+**Question:** Heating lead nitrate $\text{Pb(NO}_3)_2$ in a test tube yields brown fumes of:
+*(a) $\text{PbO}$ | (b) $\text{NO}_2$ | (c) $\text{NO}$ | (d) $\text{N}_2\text{O}$*
+* **Answer:** **(b) $\text{NO}_2$**. Reaction: $2\text{Pb(NO}_3)_2 \rightarrow 2\text{PbO} + 4\text{NO}_2\uparrow + \text{O}_2\uparrow$.
+
+### Q2 (CAPF 2022)
+**Question:** Which one among the following is an example of an endothermic reaction?
+*(a) Respiration | (b) Slaking of lime | (c) Decomposition of vegetable matter | (d) Dissolution of Ammonium Chloride in water*
+* **Answer:** **(d) Dissolution of Ammonium Chloride in water**.
+
+### Q3 (NDA II 2021)
+**Question:** Which one of the following compounds is used in black and white photography?
+*(a) $\text{AgCl}$ | (b) $\text{AgBr}$ | (c) $\text{AgI}$ | (d) $\text{AgNO}_3$*
+* **Answer:** **(b) $\text{AgBr}$** (and $\text{AgCl}$).
+
+### Q4 (NDA 1 2024)
+**Question:** What is the oxidation state of Vanadium in $\text{V}_2\text{O}_5$?
+*(a) $+2$ | (b) $+3$ | (c) $+4$ | (d) $+5$*
+* **Answer:** **(d) $+5$**. $2x + 5(-2) = 0 \implies 2x = 10 \implies x = +5$.
 
 ---
 
@@ -104,52 +177,3 @@ Exchange of ions between reactants.
 - [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
 - [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
 - [[cds/chemistry/notes/common_names|Ch 05. Common Names & Formulas in Chemistry]]
-
----
-
-## 5. Balancing Chemical Equations
-* **Law of Conservation of Mass:** $\text{Mass of Reactants} = \text{Mass of Products}$
-* **Example Balance:** $3\text{Fe} + 4\text{H}_2\text{O} \rightarrow \text{Fe}_3\text{O}_4 + 4\text{H}_2$
-  * Reactants: $\text{Fe} = 3$, $\text{H} = 8$, $\text{O} = 4$
-  * Products: $\text{Fe} = 3$, $\text{H} = 8$, $\text{O} = 4$
-
----
-
-## 6. Quick Reference: Lime Family Interconversion Trick
-* **Quick Lime:** $\text{CaO}$ (Calcium Oxide — raw and fast base)
-* **Slaked Lime / Lime Water:** $\text{Ca(OH)}_2$ (Calcium Hydroxide — created by adding water)
-* **Limestone / Marble / Chalk:** $\text{CaCO}_3$ (Calcium Carbonate — created by reacting slaked lime with $\text{CO}_2$)
-* **Interconversion Cycle:**
-  1. $\text{CaO} + \text{H}_2\text{O} \rightarrow \text{Ca(OH)}_2$ (Hydration / Exothermic)
-  2. $\text{Ca(OH)}_2 + \text{CO}_2 \rightarrow \text{CaC}O_3 + \text{H}_2\text{O}$ (Carbonation / White-washing)
-  3. $\text{CaC}O_3 \xrightarrow{\Delta} \text{CaO} + \text{CO}_2$ (Thermal Decomposition)
-
-
-# Chemistry Concept Summary
-
-## 1. Thermal Decomposition of Lead Nitrate
-- Reaction: $2\text{Pb(NO}_3)_2\text{ (s)} \rightarrow 2\text{PbO}\text{ (s)} + 4\text{NO}_2\text{ (g)} + \text{O}_2\text{ (g)}$
-- Brown Gas: $\text{NO}_2$ (Nitrogen dioxide) is the reddish-brown gas produced.
-- Memory Trick: The reactant is nitrate ($\text{NO}_3$), but heat strips away an oxygen atom to form dioxide ($\text{NO}_2$).
-
-## 2. Preparation of HCl Gas (Drying Tube)
-- Material Used: Anhydrous calcium chloride ($\text{CaCl}_2$).
-- Role: Acts as a desiccant (hygroscopic substance) to absorb moisture and water vapor from the produced $\text{HCl}$ gas without reacting with it.
-
-## 3. Types of Reactions & Heat Changes
-- Endothermic Reactions: Require a continuous supply of heat energy to break bonds (e.g., thermal decomposition like lead nitrate).
-- Exothermic Reactions: Release thermal energy into the surroundings (e.g., combustion, cellular respiration, dissolving quicklime in water, dilution of $\text{NaOH}$, and decomposition of vegetable matter into compost).
-- Precipitation Reactions: Double displacement reactions where an insoluble solid forms (e.g., barium chloride + sodium sulfate), which is not an oxidation reaction.
-
-## 4. Reactivity Series & Displacement
-- A single metal can only displace a less reactive metal from its salt solution.
-- Example: $\text{Cu} + \text{PbCl}_2 \rightarrow \text{CuCl}_2 + \text{Pb}$ is not feasible because copper ($\text{Cu}$) is less reactive than lead ($\text{Pb}$).
-
-## 5. Oxidation and Reduction Definitions
-- OIL RIG (Electron Transfer):
-  - Oxidation Is Loss (of electrons)
-  - Reduction Is Gain (of electrons)
-- In terms of Oxygen and Hydrogen:
-  - Oxidation: Gaining oxygen OR losing hydrogen.
-  - Reduction: Losing oxygen OR gaining hydrogen.
-- Reductant (Reducing Agent): The species that gets oxidized and causes another species to be reduced (e.g., metals like $\text{Fe}$ giving up electrons).

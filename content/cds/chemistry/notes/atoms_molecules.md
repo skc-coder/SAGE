@@ -3,427 +3,166 @@ exam: "CDS"
 subject: "Chemistry"
 topic: "Atoms, Molecules & Atomic Structure"
 difficulty: "Medium"
-tags: [cds, chemistry, atoms, molecules, atomic-structure, valency, dalton, berzelius]
+tags: [cds, chemistry, atoms, molecules, atomic-structure, valency, dalton, berzelius, isotopes, rutherford, bohr]
 ---
 
 # Atoms, Molecules & Atomic Structure
 
-
-## 1. Atom Timeline and Early Concepts
-
-• 500 BC (India): Maharishi Kanad stated that matter consists of the smallest indivisible unit called "Parmanu". Pakudha Katyayoma suggested these particles combine to form different states of matter.
-
-  
-
-• Democritus: Proposed that matter is composed of tiny, indivisible particles called atoms.
-
-  
-
-## 2. Laws of Chemical Combination
-
-• Law of Conservation of Mass: Formulated by Lavoisier; mass can neither be created nor destroyed in a chemical reaction.
-
-  
-
-• Law of Constant Proportions / Definite Proportions: Stated by Proust; a chemical substance always contains the same elements combined in a fixed proportion by mass (e.g., $H_2O$ has a mass ratio of $1:8$ for hydrogen to oxygen).
-
-  
-
-• Law of Multiple Proportions: Formulated by Dalton; applies when two elements combine to form more than one compound.
-
-  
-
-## 3. Dalton's Atomic Theory and Symbols
-
-• Postulates: Matter consists of indivisible particles (atoms). Atoms of the same element are identical in mass and properties, while atoms of different elements differ. Compounds form when atoms combine in simple whole-number ratios. Atoms are indestructible in chemical reactions.
-
-  
-
-• Symbols: Dalton used pictorial symbols inside circles for elements. Berzelius later proposed using alphabetical letters for chemical symbols.
-
-  
-
-• Atomic Radius Units: $1\text{ nm} = 10^{-9}\text{ m}$, $1\text{ \AA} = 10^{-10}\text{ m}$, $1\text{ pm} = 10^{-12}\text{ m}$. Hydrogen has a radius of $37\text{ pm}$.
-
-  
-
-## 4. Hydrogen, Water Gas, and Atomic Mass Units
-
-• Hydrogen & Water Gas: Hydrogen is the lightest gas. Synthesis gas (water gas) consists of carbon monoxide and hydrogen ($CO + H_2$).
-
-  
-
-• Atomic Mass Unit (amu / u): Initially referenced against oxygen ($1\text{ amu} = \frac{1}{16}\text{th}$ of oxygen), but later switched to carbon-12 ($1\text{ amu} = \frac{1}{12}\text{th}$ of carbon-12) because carbon reacts with almost all elements and yields mostly whole-number masses.
-
-  
-
-## 5. Molecules, Atomicity, Ions, and Valency
-
-• Molecules: Smallest independently existing particles formed when atoms combine.
-
-  
-
-• Atomicity: The total number of atoms in a molecule.
-
-  
-
-  • Monoatomic: Noble/inert gases (He, Ar, Kr, Xe, Rn, Al) — least reactive.
-
-  
-
-  • Diatomic: $H_2, O_2, N_2, CO$.
-
-  
-
-  • Triatomic: $O_3, H_2O$.
-
-  
-
-  • Tetra-atomic: $P_4$ (Phosphorus).
-
-  
-
-  • Polyatomic: $S_8$ (Sulphur).
-
-  
-
-• Ions & Valency: Charged species. Cations have a positive charge (e.g., $Na^+$ loses an electron); anions have a negative charge (e.g., $Cl^-$). Valency represents the number of electrons donated or accepted to achieve a stable inert gas configuration.
-
-  
-
-## 6. Subatomic Particles and Electronic Configuration
-
-• Subatomic Particles: Electron, proton, neutron, muon, positron, neutrino. The nucleus contains protons and neutrons ($P + N$), determining mass.
-
-  
-
-• Notation: $_Z^A X$, where $A$ is mass number ($P + N$) and $Z$ is atomic number ($P$). For neutral atoms, $Z = P = e$ (charge = $0$). Neutrons are calculated as $N = A - Z$. Hydrogen ($^1_1H$) has $1 - 1 = 0$ neutrons.
-
-  
-
-• Shells & Orbitals: Shells are designated as $K, L, M, N$ ($n = 1, 2, 3, 4$). The maximum number of electrons per shell is given by $2n^2$ ($K=2, L=8, M=18$, etc.).
-
-  
-
-## 7. Valencies, Triple Point of Water, and Oxidation States
-
-• Common Valencies:
-
-  
-
-  • Valency 1: $Na^+, K^+, Ag^+, Cu^+, H^+, H^-, Cl^-, Br^-, I^-, NH_4^+, OH^-, NO_3^-, HCO_3^-$
-
-  
-
-  • Valency 2: $Mg^{2+}, Ca^{2+}, Zn^{2+}, Fe^{2+}, Cu^{2+}, O^{2-}, S^{2-}, CO_3^{2-}, SO_3^{2-}, SO_4^{2-}$
-
-  
-
-  • Valency 3: $Al^{3+}, Fe^{3+}, N^{3-}, PO_4^{3-}$
-
-  
-
-• Triple Point of Water: Occurs at $0.01^\circ\text{C}$ and $611.2\text{ Pa}$ ($0.006\text{ atm}$), where water coexists in all three phases.
-
-  
-
-• Molecular Mass: Calculated by summing atomic masses (e.g., $H_2O = 1\times2 + 16 = 18\text{ u}$).
-
-  
-
-• Oxidation State: An electron accounting system assuming bonds are completely ionic. In a neutral compound, the algebraic sum of oxidation numbers equals zero (e.g., finding $S$ in $Na_2SO_4$: $+1(2) + x + (-2)(4) = 0 \implies x = +6$).
-
-  
-
-## 8. The Mole Concept
-
-• Definition: Amount of substance; SI unit is mol (introduced by Wilhelm Ostwald).
-
-  
-
-• Avogadro's Number ($N_A$): $1\text{ mol} = 6.022 \times 10^{23}$ particles/atoms.
-
-  
-
-• Examples: $1\text{ mol of C} = 12\text{ g} = 6.022 \times 10^{23}\text{ atoms}$; $1\text{ mol of } H_2O = 18\text{ g} = 6.022 \times 10^{23}\text{ molecules}$.
-
-  
-
-• Gas Volume: $1\text{ mole}$ of any ideal gas at STP occupies $22.4\text{ liters}$ ($0.5\text{ mol} = 11.2\text{ liters}$).
-
-  
-
-• Formulas:
-
-  
-
-  • $\text{Moles} = \frac{\text{Given Mass}}{\text{Molar Mass}}$
-
-  
-
-  • $\text{Moles} = \frac{\text{Given Number of Atoms}}{\text{Avogadro Number}}$
-
-  
-
-  • $\text{Equivalent Weight} = \frac{\text{Molar Mass}}{H^+ \text{ or } OH^-}$
-
-  
-
-## 9. STP vs. NTP
-
-• STP (Standard Temperature and Pressure): Defined at $0^\circ\text{C}$ ($273.15\text{ K}$) and $1\text{ bar} / 1\text{ atm}$, resulting in a molar volume of $22.4\text{ L}$ to $22.7\text{ L}$. ("Standard" drops down to freezing point).
-
-  
-
-• NTP (Normal Temperature and Pressure): Typically evaluated at a warmer room temperature of $20^\circ\text{C}$ ($293.15\text{ K}$) and $1\text{ atm}$, yielding a larger molar volume due to thermal expansion ($\approx 24.47\text{ L}$).
-
-  
-
-## 10. Isotopes, Isobars, Isotones, Isoelectronic, Isomers, and Allotropes
-
-• Isotopes: Same atomic number ($Z$), different mass number ($A$). Examples: Hydrogen isotopes (protium $^1_1H$, deuterium $^2_1H$, radioactive tritium $^3_1H$), chlorine isotopes ($^{35}{17}Cl$ and $^{37}{17}Cl$ in $3:1$ ratio giving $35.5$). Heavy water ($D_2O$) is used as a nuclear reactor moderator.
-
-  
-
-• Isotope Medical/Practical Uses: Cobalt-60 (cancer), Strontium-89/90 (bone cancer), Phosphorus-32 (skin cancer), Iodine-131 (thyroid), Carbon-14 (fossils/bones), Uranium-232/235 (nuclear reactors).
-
-  
-
-• Isobars: Different atomic numbers ($Z$), same mass number ($A$). Example: $^{40}{18}Ar$, $^{40}{19}K$, $^{40}_{20}Ca$.
-
-  
-
-• Isotones: Same number of neutrons, different protons.
-
-  
-
-• Isoelectronic: Same total number of electrons. Example: $O^{2-}, F^-, Ne, Na^+, Mg^{2+}$.
-
-  
-
-• Isomers: Compounds sharing the same molecular formula but possessing different chemical structures.
-
-  
-
-• Allotropes: Derived from Greek roots allos (other) and tropos (manner/turn). Different structural forms of the same pure element (e.g., graphite, diamond, and fullerene are allotropes of pure carbon).
-
-|**Element**|**Symbol**|**Atomic Number**|**Standard Atomic Mass (u)**|
-|---|---|---|---|
-|Hydrogen|H|1|1.008|
-|Carbon|C|6|12.011|
-|Nitrogen|N|7|14.007|
-|Oxygen|O|8|15.999|
-|Sodium|Na|11|22.990|
-|Magnesium|Mg|12|24.305|
-|Aluminium|Al|13|26.982|
-|Silicon|Si|14|28.085|
-|Phosphorus|P|15|30.974|
-|Sulphur|S|16|32.06|
-|Chlorine|Cl|17|35.45|
-|Calcium|Ca|20|40.078|
-# Atomic Structure, Models, and Nuclear Physics (TL;DR)
-
-## 1. Subatomic Particles & Early Models
-* **Protons**: Discovered by E. Goldstein (1886) via positively charged canal rays ($M = 1.67 \times 10^{-27}\text{ kg}$, $C = +1.6 \times 10^{-19}\text{ C}$).
-* **Canal Rays**: Positive ions moving opposite to cathode rays, passing through holes (canals) in the cathode plate.
-* **Electrons**: Discovered by J.J. Thomson (1897) via cathode rays ($M = 9.109 \times 10^{-31}\text{ kg}$, $C = -1.6 \times 10^{-19}\text{ C}$ measured by R.A. Millikan).
-* **Neutrons**: Discovered by J. Chadwick (1932); zero charge, mass slightly higher than a proton.
-* **Thomson's Model (1904)**: "Plum Pudding / Watermelon" model; sphere of positive charge with embedded electrons making the atom neutral.
-
-## 2. Rutherford's Nuclear Model (1911)
-* **Experiment**: Fired alpha particles ($He^{2+}$, $P=2, n=2$) at a thin gold foil ($\sim 1000$ atoms thick).
-* **Observations**: Most went straight, some deflected, $1/12000$ deflected at $180^\circ$.
-* **Conclusions**: Atoms are mostly empty space; positive charge and mass are concentrated at the center (Nucleus, radius $\approx 10^{-15}\text{ m}$ vs atom radius $\approx 10^{-10}\text{ m}$).
-* **Flaw**: Could not explain why orbiting electrons wouldn't radiate energy and spiral into the nucleus (atom instability).
-
-## 3. Bohr's Model & Quantum Rules
-* **Postulates**: Electrons revolve in fixed energy orbits (stationary states) without radiating energy.
-* **Quantization**: Angular momentum $L = \frac{nh}{2\pi}$.
-* **Transitions**: Outer to inner orbit loses energy; inner to outer absorbs energy.
-* **Fails To Explain**: 
-  * **Zeeman Effect**: Splitting of spectral lines in an external magnetic field.
-  * **Stark Effect**: Splitting of spectral lines in an external electric field.
-  * **Raman Effect**: Change in wavelength when light waves interact with molecular vibrational states.
-* **Electron Filling**: Principal quantum numbers $n=1,2,3$ ($K,L,M,N$), max capacity $2n^2$, and Hund's Rule for subshells ($s=2, p=6, d=10, f=14$).
-
-## 4. Radioactivity & Nuclear Decay
-* **Radioactivity**: Measured with a Geiger counter; discovered by Henry Becquerel. Units: Curie, Rutherford. Seen in heavy elements (Uranium, Thorium, Plutonium, etc.).
-* **Alpha Decay ($\alpha$)**: Unstable heavy nucleus ejects a Helium nucleus ($He_2^4$), decreasing mass by $4$ and atomic number by $2$ (${}_{Z}^{a}X \to {}_{Z-2}^{a-4}Y + {}_{2}^{4}He$).
-* **Beta Decay ($\beta$)**: Neutron converts to proton or vice versa, emitting an electron/positron, shifting atomic number by $1$ (${}_{Z}^{a}X \to {}_{Z+1}^{a}Y + {}_{-1}^{0}e$).
-* **Gamma Decay ($\gamma$)**: Excited post-decay nucleus sheds excess energy as a high-frequency photon ($\gamma$-ray) without changing mass or atomic number (${}_{Z}^{a}X \to {}_{Z}^{a}Y + h\nu$).
-
-# Equivalent Weight of Ba(OH)2
-
-## Problem
-Find the equivalent weight of $\text{Ba(OH)}_2$ (Given: atomic weight of $\text{Ba} = 137.3$).
-
-## Formulas
-$$\text{Equivalent Weight} = \frac{\text{Molar Mass}}{n\text{-factor}}$$
-
-For a base, the $n$-factor is the number of hydroxide ions ($\text{OH}^-$) produced per formula unit.
-
-## Step-by-Step Calculation
-1. **Find Molar Mass of $\text{Ba(OH)}_2$:**
-   * $\text{Ba} = 137.3$
-   * $\text{O} = 16 \times 2 = 32$
-   * $\text{H} = 1 \times 2 = 2$
-   * $\text{Molar Mass} = 137.3 + 32 + 2 = 171.3 \text{ g/mol}$
-
-2. **Find $n$-factor:**
-   * $\text{Ba(OH)}_2 \rightarrow \text{Ba}^{2+} + 2\text{OH}^-$
-   * $n$-factor $= 2$
-
-3. **Calculate Equivalent Weight:**
-   * $\text{Equivalent Weight} = \frac{171.3}{2} = 85.65 \approx 85.7$
-
-## Correct Answer
-(a) 85.7
-
-
-# Chemistry Notes: Atomic Structure and Valency
-
-## 1. Hund's Rule
-* Every orbital in a subshell is singly occupied with one electron before any one orbital is doubly occupied.
-* All electrons in singly occupied orbitals have the same spin.
-
-## 2. Subshell Capacities and Orbitals
-* **s subshell**: 2 electrons maximum, 1 orbital (odd)
-* **p subshell**: 6 electrons maximum, 3 orbitals (odd)
-* **d subshell**: 10 electrons maximum, 5 orbitals (odd)
-* **f subshell**: 14 electrons maximum, 7 orbitals (odd)
-* The number of orbitals in each subshell is always an odd number given by $2l + 1$. Each orbital holds a maximum of 2 electrons.
-
-## 3. The 2n^2 Rule
-* Calculates the maximum number of electrons in any main energy level (shell), where $n$ is the shell number.
-* First shell ($n = 1$): 2 electrons
-* Second shell ($n = 2$): 8 electrons
-* Third shell ($n = 3$): 18 electrons
-* Fourth shell ($n = 4$): 32 electrons
-
-## 4. Why Subshells Exist (Existence of 1s, 2s, 2p vs 1p)
-* Subshell index starts at 0 and goes up to $n - 1$.
-* First shell ($n = 1$): Only index 0 exists, which is **1s**. A **1p** subshell does not exist because index 1 is invalid for $n = 1$.
-* Second shell ($n = 2$): Indices 0 and 1 exist, giving **2s** and **2p**.
-
-## 5. Element Valency Table
-
-| Element | Electrons in Shells | Valency |
-| :--- | :--- | :--- |
-| $_1\text{H}$ | 1 | $+1, -1$ |
-| $_2\text{He}$ | 2 | 0 |
-| $_3\text{Li}$ | 2, 1 | $+1$ |
-| $_4\text{Be}$ | 2, 2 | $+2$ |
-| $_5\text{B}$ | 2, 3 | $+3$ |
-| $_6\text{C}$ | 2, 4 | $+4, -4$ |
-| $_7\text{N}$ | 2, 5 | $-3$ |
-# ⚛️ Nuclear Chemistry, Radiation & Medical Applications
-
-## ☢️ Radioactive Decay Types (TL;DR)
-
-### 1. Alpha Decay ($\alpha$)
-* **What is it:** Nucleus emits a **Helium nucleus** ($\text{}_{2}^{4}\text{He}$).
-* **Equation:** $\text{}_{Z}^{A}\text{X} \longrightarrow \text{}_{Z-2}^{A-4}\text{Y} + \text{}_{2}^{4}\text{He} + \text{Energy}$
-* **Effect:** Atomic Number ($Z$) decreases by 2; Mass Number ($A$) decreases by 4.
-
-### 2. Beta Decay ($\beta$)
-* **Beta-Minus ($\beta^-$):** Neutron turns to proton; emits an electron ($\text{}_{-1}^{0}\text{e}$) and antineutrino.
-	* *Equation:* $\text{}_{Z}^{A}\text{X} \longrightarrow \text{}_{Z+1}^{A}\text{Y} + \text{}_{-1}^{0}\text{e} + \bar{\nu}$
-* **Beta-Plus ($\beta^+$):** Proton turns to neutron; emits a **positron** ($\text{}_{+1}^{0}\text{e}$) and neutrino.
-	* *Equation:* $\text{}_{Z}^{A}\text{X} \longrightarrow \text{}_{Z-1}^{A}\text{Y} + \text{}_{+1}^{0}\text{e} + \nu$
-
-### 3. Gamma Decay ($\gamma$)
-* **What is it:** Excited nucleus ($\text{X}^*$) releases pure energy (**high-energy photon**).
-* **Equation:** $\text{}_{Z}^{A}\text{X}^* \longrightarrow \text{}_{Z}^{A}\text{X} + \gamma$
-* **Effect:** No change in Atomic Number ($Z$) or Mass Number ($A$).
+Exhaustive notes covering Maharishi Kanad's Pancha Parmanu, Laws of Chemical Combination, Dalton's Atomic Theory, Berzelius Alphabetic Symbol System, Atomic Mass ($u$), Valency Rules (Magic 8 Rule), Subatomic Particles ($e^-, p^+, n^0$), Atomic Models (Thomson, Rutherford, Bohr), Quantum Electron Configurations ($s, p, d, f$), and Isotopes/Isobars/Isotones.
 
 ---
 
-## 🛑 Radiation Penetrating Power (TL;DR)
-* **Order:** $\alpha < \beta < \gamma$
-* **Alpha ($\alpha$):** Lowest power. Stopped by **paper** or human skin.
-* **Beta ($\beta$):** Medium power. Stopped by **aluminum foil** (~5mm).
-* **Gamma ($\gamma$):** Highest power. Stopped only by **thick lead** or concrete walls.
+## 1. Early History & Laws of Chemical Combination
+
+* **500 BC (Ancient India):** Maharishi Kanad stated that matter is composed of indivisible particles called **Parmanu**. Pakudha Katyayama expanded that these particles combine to form different states of matter.
+* **Democritus & Leucippus (Greece):** Coined the term *Atomos* (indivisible).
+
+### The Laws of Chemical Combination
+
+1. **Law of Conservation of Mass (Lavoisier, 1789):**
+   * Mass can neither be created nor destroyed in a chemical reaction.
+   * Total Mass of Reactants = Total Mass of Products.
+2. **Law of Constant / Definite Proportions (Proust, 1799):**
+   * A pure chemical compound always contains the same elements combined in a fixed ratio by mass.
+   * Example: Pure Water ($\text{H}_2\text{O}$) always has Hydrogen to Oxygen mass ratio of $1 : 8$ ($2\text{ g } \text{H} : 16\text{ g } \text{O}$). Ammonia ($\text{NH}_3$) is always $14 : 3$.
+3. **Law of Multiple Proportions (John Dalton, 1803):**
+   * When two elements combine to form more than one compound, the masses of one element that combine with a fixed mass of the other are in small whole-number ratios.
+   * Example: Carbon & Oxygen form $\text{CO}$ ($12 : 16$) and $\text{CO}_2$ ($12 : 32$). Mass ratio of oxygen combining with $12\text{ g}$ Carbon is $16 : 32 = 1 : 2$.
 
 ---
 
-## 🔬 Subatomic Particles Guide (TL;DR)
+## 2. Dalton's Atomic Theory & Chemical Symbols
 
-### Key Distinctions
-* **Positron vs. Proton:** 
-	* Both are positively charged ($+1$).
-	* **Positron:** Antimatter twin of the electron. Incredibly light.
-	* **Proton:** Composite particle inside the nucleus. **1,836 times heavier** than a positron.
-* **Subatomic Categories:**
-	* **Composite:** Made of quarks (e.g., Protons, Neutrons).
-	* **Elementary:** Fundamental, cannot be split (e.g., Electrons, Positrons, Quarks, Muons).
-* **Muons:** 
-	* Elementary particles acting like **heavy cousins of the electron**.
-	* Carry a $-1$ charge but are **200 times heavier** than electrons. Unstable.
+### Postulates of Dalton's Theory
+1. All matter is made of tiny indivisible particles called **atoms**.
+2. Atoms of a given element are identical in mass, size, and chemical properties.
+3. Atoms of different elements differ in mass and chemical properties.
+4. Compounds are formed when atoms of different elements combine in simple whole-number ratios.
+5. Atoms are neither created nor destroyed in a chemical reaction.
 
----
-
-## 🧪 Elements & Medical Imaging Notes (TL;DR)
-
-### 1. Nitrogen ($N$)
-* **Structure:** Atomic number $Z = 7$. Electron configuration is **2, 5**.
-* **Liquid $N_2$:** Used for **cryopreservation** to store biological tissues at ultra-low temperatures.
-
-### 2. Barium Sulphate ($\text{BaSO}_4$) in X-Rays
-* **Use:** Drunk by patients as a **contrast agent** for stomach/abdomen X-rays or CT scans.
-* **How it works:** It has high radiopacity; it **blocks X-rays** completely, making the digestive tract glow **bright white** on film.
-* **Safety:** Highly **insoluble** in water/stomach acid. The body cannot absorb it, so it passes through without causing toxicity.
-
-### 3. Greenhouse Effect
-* **Mechanism:** Earth absorbs **shortwave solar radiation** and re-emits it as **longwave radiation**.
-* **Trap:** Atmospheric gases trap the longwave radiation, heating up the planet.
-
----
-#Tags: #physics #chemistry #nuclear-decay #medical-imaging #subatomic-particles
-
-
----
-tags: [chemistry, periodic-table, ions, valency]
-date: 2026-03-09
----
-
-# Chemistry: Valencies and Ion Charges
-
-## 1. How to Find Valencies (The Magic 8 Rule)
-To find the valency of any main-group element, use its group number on the periodic table to determine its valence electrons, then see how many electrons it needs to reach a stable octet of eight.
-
-* **Groups 1 and 2:** The valency equals the group number (+1 or +2). These atoms lose electrons to achieve stability.
-* **Groups 13 to 17:** Subtract 10 from the group number to find the valence electrons. The valency is `8 - valence electrons`.
-* **Group 18 (Noble Gases):** Full outer shell (8 valence electrons, except Helium which has 2), so their valency is 0.
-
-### The Octet Rule Logic
-* **1, 2, or 3 valence electrons:** Easier to lose them. Valency is +1, +2, or +3.
-* **5, 6, or 7 valence electrons:** Closer to 8, so easier to gain electrons. Valency is $5 - 8 = -3$, $6 - 8 = -2$, or $7 - 8 = -1$.
-* **4 valence electrons:** Typically shares 4 electrons (valency of 4).
+### Symbols of Elements
+* **John Dalton:** First to use **pictorial symbols** inside circles for elements (e.g., circle with dot for Hydrogen, filled circle for Carbon).
+* **Jöns Jacob Berzelius:** Proposed modern system using **one or two letters** of the element's English or Latin name.
+  * Gold $\rightarrow$ $\text{Au}$ (*Aurum*) | Silver $\rightarrow$ $\text{Ag}$ (*Argentum*) | Iron $\rightarrow$ $\text{Fe}$ (*Ferrum*)
+  * Copper $\rightarrow$ $\text{Cu}$ (*Cuprum*) | Sodium $\rightarrow$ $\text{Na}$ (*Natrium*) | Potassium $\rightarrow$ $\text{K}$ (*Kalium*)
+  * Lead $\rightarrow$ $\text{Pb}$ (*Plumbum*) | Tin $\rightarrow$ $\text{Sn}$ (*Stannum*) | Mercury $\rightarrow$ $\text{Hg}$ (*Hydrargyrum*)
 
 ---
 
-## 2. Monatomic Ion Charges (-ide Suffix)
-Simple, single-element anions use the **-ide** suffix. Their charge is determined by their group position on the periodic table:
+## 3. Atomic Mass Unit ($u$) & Molecular Mass
 
-* **Group 15 (e.g., Nitride, $\text{N}^{3-}$):** Has 5 valence electrons, gains 3 to reach 8 ($5 - 8 = -3$).
-* **Group 16 (e.g., Sulphide, $\text{S}^{2-}$):** Has 6 valence electrons, gains 2 to reach 8 ($6 - 8 = -2$).
-* **Group 17 (e.g., Chloride, $\text{Cl}^{-}$):** Has 7 valence electrons, gains 1 to reach 8 ($7 - 8 = -1$).
-
----
-
-## 3. Polyatomic Ion Charges (-ate Suffix)
-Polyatomic ions use the **-ate** suffix. These consist of a central nonmetal bonded to oxygen atoms, and their charges are fixed properties of the entire molecular group rather than single-element periodic trends:
-
-* **Nitrate ($\text{NO}_3^{-}$):** Net charge of $-1$.
-* **Sulphate ($\text{SO}_4^{2-}$):** Net charge of $-2$.
-* **Phosphate ($\text{PO}_4^{3-}$):** Net charge of $-3$.
+* **Atomic Mass Standard:** Formerly $1/16\text{th}$ of Oxygen-16 mass. Since 1961, internationally agreed standard is **Carbon-12 isotope**.
+* **Unified Mass Unit ($u$):** $1\text{ u}$ is defined as a mass exactly equal to **$1/12\text{th}$ the mass of one Carbon-12 atom**.
+  $$\text{Hydrogen } = 1\text{ u} \quad|\quad \text{Carbon } = 12\text{ u} \quad|\quad \text{Nitrogen } = 14\text{ u} \quad|\quad \text{Oxygen } = 16\text{ u}$$
+* **Mole Concept:**
+  $$1\text{ mole} = 6.022 \times 10^{23} \text{ particles (Avogadro's Number } N_A)$$
+  $$\text{Number of Moles } (n) = \frac{\text{Given Mass } (m)}{\text{Molar Mass } (M)} = \frac{\text{Number of Particles } (N)}{N_A}$$
+* **Equivalent Weight Formula:**
+  $$\text{Equivalent Weight} = \frac{\text{Atomic or Molecular Weight}}{\text{Valency or Acidity/Basicity}}$$
+  * Example: $\text{Ba(OH)}_2$ Molar Mass $= 171.3\text{ g/mol}$. It has 2 $OH^-$ ions (acidity = 2).
+    $$\text{Eq. Weight of } \text{Ba(OH)}_2 = \frac{171.3}{2} = 85.65$$
 
 ---
 
-## 4. Summary Example: NDA Exam Question
-* **Question:** Which anion has a valency of -3?
-* **Options:** Nitride ($\text{N}^{3-}$), Nitrate ($\text{NO}_3^{-}$), Sulphide ($\text{S}^{2-}$), Sulphate ($\text{SO}_4^{2-}$).
-* **Answer:** Nitride ($\text{N}^{3-}$), because Nitrogen is in Group 15 and gains 3 electrons.
+## 4. Valency & The Magic 8 Rule
+
+Valency is the combining capacity of an atom.
+
+```
+Valence Electrons:   1    2    3    4    5    6    7    8 (Full Octet)
+Action:             Lose Lose Lose Share Gain Gain Gain Inert
+Valency:            +1   +2   +3    4   -3   -2   -1    0
+```
+
+* **Groups 1 & 2:** Valency $= \text{Group Number}$ ($+1, +2$).
+* **Groups 13 to 17:** Valency $= 8 - \text{Valence Electrons}$.
+* **Group 18 (Noble Gases):** Full outer shell ($8\text{ }e^-$), Valency $= 0$.
+
+### Monatomic & Polyatomic Ions Matrix
+
+$$\begin{array}{l|l|l}
+\textbf{Valency / Charge} & \textbf{Cations (Positive Ions)} & \textbf{Anions (Negative Ions)} \\
+\hline
+\mathbf{Monovalent (+1 / -1)} & \text{Na}^+, \text{K}^+, \text{Ag}^+, \text{Cu}^+ \text{ (Cuprous)}, \text{NH}_4^+ & \text{F}^-, \text{Cl}^-, \text{Br}^-, \text{I}^-, \text{OH}^-, \text{NO}_3^-, \text{HCO}_3^- \\
+\mathbf{Divalent (+2 / -2)} & \text{Mg}^{2+}, \text{Ca}^{2+}, \text{Ba}^{2+}, \text{Zn}^{2+}, \text{Fe}^{2+} \text{ (Ferrous)}, \text{Cu}^{2+} \text{ (Cupric)} & \text{O}^{2-} \text{ (Oxide)}, \text{S}^{2-} \text{ (Sulphide)}, \text{SO}_4^{2-}, \text{CO}_3^{2-} \\
+\mathbf{Trivalent (+3 / -3)} & \text{Al}^{3+}, \text{Fe}^{3+} \text{ (Ferric)} & \text{N}^{3-} \text{ (Nitride)}, \text{PO}_4^{3-} \text{ (Phosphate)}
+\end{array}$$
+
+---
+
+## 5. Structure of Atom & Subatomic Particles
+
+### A. Subatomic Discovery Comparison
+
+| Particle | Symbol | Charge (Coulombs) | Relative Charge | Mass (kg) | Mass (amu) | Discoverer |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Electron** | $e^-$ | $-1.6 \times 10^{-19}\text{ C}$ | $-1$ | $9.11 \times 10^{-31}\text{ kg}$ | $0.00054\text{ u}$ | **J.J. Thomson** (1897, Cathode Rays) |
+| **Proton** | $p^+$ | $+1.6 \times 10^{-19}\text{ C}$ | $+1$ | $1.672 \times 10^{-27}\text{ kg}$ | $1.00727\text{ u}$ | **E. Goldstein** (1886, Canal/Anode Rays) / **Rutherford** |
+| **Neutron** | $n^0$ | $0$ (Neutral) | $0$ | $1.674 \times 10^{-27}\text{ kg}$ | $1.00866\text{ u}$ | **James Chadwick** (1932) |
+
+### B. Atomic Models Timeline
+
+1. **J.J. Thomson's Watermelon / Plum Pudding Model (1904):**
+   * Atom is a positively charged sphere with electrons embedded in it like seeds in a watermelon.
+2. **Rutherford's Gold Foil ($\alpha$-particle Scattering) Experiment (1911):**
+   * Bombarded thin gold foil ($1000$ atoms thick) with high-speed doubly-charged helium ions ($\alpha$-particles, $\text{He}^{2+}$).
+   * **Observations:** Most $\alpha$-particles passed straight through; some deflected by small angles; 1 in 12,000 bounced straight back ($180^\circ$).
+   * **Conclusions:** Most atom space is empty; positive charge is concentrated in a tiny dense center called the **Nucleus**.
+   * **Father of Nuclear Physics:** Ernest Rutherford.
+3. **Bohr's Atomic Model (Niels Bohr, 1913):**
+   * Electrons revolve only in discrete non-radiating orbits (**Shells $K, L, M, N$** with quantum numbers $n = 1, 2, 3, 4$).
+   * Maximum electrons in shell $= 2n^2$ ($K=2, L=8, M=18, N=32$).
+
+---
+
+## 6. Electronic Configuration ($s, p, d, f$) & Quantum Numbers
+
+* **Subshell Capacities:** $s=2, p=6, d=10, f=14$.
+* **Aufbau Principle:** Orbitals are filled in order of increasing energy: $1s \rightarrow 2s \rightarrow 2p \rightarrow 3s \rightarrow 3p \rightarrow 4s \rightarrow 3d \dots$
+* **Exceptions to Remember for Exams:**
+  * **Chromium ($Z=24$):** $[Ar] 3d^5 4s^1$ (Half-filled $d$-subshell extra stability, NOT $3d^4 4s^2$).
+  * **Copper ($Z=29$):** $[Ar] 3d^{10} 4s^1$ (Fully-filled $d$-subshell extra stability, NOT $3d^9 4s^2$).
+
+---
+
+## 7. Atomic Notation & Species Definitions
+
+$$\text{Notation: } ^{A}_{Z}\text{X} \quad (Z = \text{Atomic Number = Protons}, A = \text{Mass Number = Protons + Neutrons})$$
+
+* **Isotopes:** Same Atomic Number ($Z$), Different Mass Number ($A$). (Same chemical properties, different physical properties).
+  * Hydrogen Isotopes: Protium ($^1_1\text{H}$), Deuterium ($^2_1\text{H}$ or $\text{D}$, used in Heavy Water $\text{D}_2\text{O}$), Tritium ($^3_1\text{H}$ or $\text{T}$, **radioactive** emitting $\beta^-$ particles).
+  * Carbon Isotopes: Carbon-12 ($^{12}\text{C}$ standard), Carbon-14 ($^{14}\text{C}$ used in **Carbon Dating**).
+  * Uranium Isotope: Uranium-235 ($^{235}\text{U}$) used as fuel in nuclear reactors.
+  * Cobalt Isotope: Cobalt-60 ($^{60}\text{Co}$) used in radiotherapy for **cancer treatment**.
+  * Iodine Isotope: Iodine-131 ($^{131}\text{I}$) used in treatment of **goitre**.
+* **Isobars:** Same Mass Number ($A$), Different Atomic Number ($Z$). (e.g., $^{40}_{18}\text{Ar}$ and $^{40}_{20}\text{Ca}$).
+* **Isotones:** Same Number of Neutrons ($A - Z$). (e.g., $^{31}_{15}\text{P}$ and $^{32}_{16}\text{S}$ both have 16 neutrons).
+* **Isoelectronic Species:** Ions/atoms with the **same number of electrons**.
+  * Example: $\text{N}^{3-}, \text{O}^{2-}, \text{F}^-, \text{Ne}, \text{Na}^+, \text{Mg}^{2+}, \text{Al}^{3+}$ all have **10 electrons**.
+
+---
+
+## 8. Solved PYQs (NDA / CDS / CAPF)
+
+### Q1 (CDS II 2020)
+**Question:** What is the valency of phosphorus?
+*(a) 2, 3 | (b) 3, 4 | (c) 3, 5 | (d) 4, 5*
+* **Answer:** **(c) 3, 5**. Phosphorus ($Z=15$, $2,8,5$) shows valencies of 3 (gaining 3 $e^-$) and 5 (expanding octet in $\text{PCl}_5$).
+
+### Q2 (NDA II 2024)
+**Question:** The mass of 0.5 mole of $\text{N}_2$ gas is:
+*(a) 14 g | (b) 28 g | (c) 7 g | (d) 56 g*
+* **Answer:** **(a) 14 g**. Molar mass of $\text{N}_2 = 2 \times 14 = 28\text{ g/mol}$. Mass $= 0.5 \times 28 = 14\text{ g}$.
+
+### Q3 (CDS I 2024)
+**Question:** Which of the following particles are subatomic particles?
+*(a) Protons and Neutrons only | (b) Electrons only | (c) Protons, Neutrons, and Electrons | (d) Photons only*
+* **Answer:** **(c) Protons, Neutrons, and Electrons**.
+
+### Q4 (CAPF 2021)
+**Question:** Which element is used as Carbon-12 standard in atomic mass determination?
+*(a) Carbon-12 | (b) Oxygen-16 | (c) Hydrogen-1 | (d) Nitrogen-14*
+* **Answer:** **(a) Carbon-12**.
 
 ---
 

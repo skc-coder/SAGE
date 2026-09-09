@@ -56,7 +56,12 @@ Welcome to the **Combined Defence Services (CDS)** Master Study Vault. Below is 
   - [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
   - [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
   - [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases, Salts & Indicators]]
-  - [[cds/chemistry/notes/common_names|Ch 05. Common Names & Chemical Formulas]]
+  - [[cds/chemistry/notes/metals_nonmetals|Ch 05. Metals and Non-Metals]]
+  - [[cds/chemistry/notes/carbon_compounds|Ch 06. Carbon and Its Compounds]]
+  - [[cds/chemistry/notes/periodic_classification|Ch 07. Periodic Classification of Elements]]
+  - [[cds/chemistry/notes/applied_chemistry|Ch 08. Applied & Industrial Chemistry]]
+  - [[cds/chemistry/notes/common_names|Ch 09. Common Names & Chemical Formulas]]
+
 
 ---
 
