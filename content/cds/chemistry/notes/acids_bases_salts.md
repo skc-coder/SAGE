@@ -344,10 +344,30 @@ $$2\text{NaCl(aq)} + 2\text{H}_2\text{O(l)} \xrightarrow{\text{Electricity}} 2\t
 *(a) Methanoic acid | (b) Ethanoic acid | (c) Benzoic acid | (d) Acetic acid*
 * **Answer:** **(a) Methanoic acid** (Formic acid).
 
-### Q10 (CDS 1 2024)
-**Question:** Vinegar is a:
-*(a) 5-8% solution of acetic acid in water | (b) 5-8% solution of carbonic acid in water | (c) 5-8% solution of ethanol in water | (d) 10-15% solution of propionic acid*
-* **Answer:** **(a) 5-8% solution of acetic acid in water**.
+### Q11 (CDS Hard Practice - Identification of Lewis Acids)
+**Question:** Which one of the following contains all Lewis acids?
+*(a) $\text{AlCl}_3, \text{Co}^{3+}, \text{BF}_3$*
+*(b) $\text{BCl}_3, \text{NH}_3, \text{OH}^-$*
+*(c) $\text{Mg}^{2+}, \text{H}_2\text{O}, \text{F}^-$*
+*(d) $\text{BF}_3, \text{NH}_3, \text{H}_2\text{O}$*
+
+* **Answer:** **(a) $\text{AlCl}_3, \text{Co}^{3+}, \text{BF}_3$**
+* **Exhaustive Explanation & Lewis Theory:**
+  * **Lewis Acid Definition:** An **electron-pair acceptor** (species that can accept a lone pair of electrons).
+    1. **Electron-deficient molecules:** Molecules with incomplete octet on central atom (e.g. $\text{BF}_3, \text{AlCl}_3, \text{BCl}_3, \text{BH}_3$).
+    2. **Simple Cations:** Positively charged ions seeking electrons (e.g. $\text{Co}^{3+}, \text{Fe}^{3+}, \text{Mg}^{2+}, \text{H}^+$).
+    3. **Molecules with multiple bonds between different electronegative atoms:** (e.g. $\text{CO}_2, \text{SO}_2$).
+  * **Lewis Base Definition:** An **electron-pair donor** (species possessing at least one unshared lone pair of electrons or negative charge).
+    * Examples: Neutral species with lone pair ($\text{NH}_3, \text{H}_2\text{O}, \text{R-OH}$) and Anions ($\text{OH}^-, \text{F}^-, \text{Cl}^-$).
+  * **Detailed Option Breakdown:**
+    * **Option (a):**
+      * $\text{AlCl}_3$: Central $\text{Al}$ has only $6$ valence electrons (electron-deficient $\rightarrow$ **Lewis Acid**).
+      * $\text{Co}^{3+}$: Transition metal cation with vacant d-orbitals ($\rightarrow$ **Lewis Acid**).
+      * $\text{BF}_3$: Central $\text{B}$ has only $6$ valence electrons (electron-deficient $\rightarrow$ **Lewis Acid**).
+      * **All 3 are Lewis acids!**
+    * **Option (b):** $\text{NH}_3$ and $\text{OH}^-$ have lone pairs $\rightarrow$ Lewis Bases (Incorrect).
+    * **Option (c):** $\text{H}_2\text{O}$ and $\text{F}^-$ have lone pairs $\rightarrow$ Lewis Bases (Incorrect).
+    * **Option (d):** $\text{NH}_3$ and $\text{H}_2\text{O}$ have lone pairs $\rightarrow$ Lewis Bases (Incorrect).
 
 ---
 
@@ -359,3 +379,4 @@ $$2\text{NaCl(aq)} + 2\text{H}_2\text{O(l)} \xrightarrow{\text{Electricity}} 2\t
 - [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
 - [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
 - [[cds/chemistry/notes/common_names|Ch 05. Common Names & Formulas in Chemistry]]
+

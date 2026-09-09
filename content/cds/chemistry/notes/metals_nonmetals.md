@@ -193,6 +193,80 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
 
 ---
 
+---
+
+## 8. Hard Exam PYQs & Advanced Practice Questions
+
+### Q6 (CDS 2 2025 - Electrolysis of Molten Compound)
+**Question:** Which one of the following metals is widely extracted by the electrolysis of its molten compound?
+*(a) $\text{Cu}$ | (b) $\text{Au}$ | (c) $\text{Sn}$ | (d) $\text{Na}$*
+
+* **Answer:** **(d) $\text{Na}$ (Sodium)**
+* **Exhaustive Explanation & Intuition:**
+  * **Reactivity & Extraction Rule:** Metals high up in the reactivity series ($\text{K}, \text{Na}, \text{Ca}, \text{Mg}, \text{Al}$) have **extremely high affinity for oxygen and chlorine**, far higher than carbon. Thus, carbon cannot reduce their oxides or salts.
+  * **Why Molten Electrolysis (Down's Process)?**
+    * Highly reactive metals are extracted via **electrolytic reduction of their molten (fused) chlorides or oxides**.
+    * Sodium is extracted by the electrolysis of **molten Sodium Chloride ($\text{NaCl}$)** (often mixed with $\text{CaCl}_2$ to lower melting point from $801^\circ\text{C}$ to $\sim 600^\circ\text{C}$).
+    * Reactions during electrolysis:
+      * **Cathode (-):** $\text{Na}^+ + e^- \rightarrow \text{Na (s)}$ (Sodium metal deposited at cathode)
+      * **Anode (+):** $2\text{Cl}^- \rightarrow \text{Cl}_2\uparrow + 2e^-$ (Chlorine gas liberated at anode)
+  * **Why aqueous solution cannot be used for Sodium?** If aqueous $\text{NaCl}$ solution is electrolyzed, $\text{H}^+$ ions from water are reduced at cathode instead of $\text{Na}^+$ ions because $\text{H}^+$ has lower reduction potential, liberating $\text{H}_2$ gas instead of sodium metal!
+  * **Elimination of Other Options:**
+    * **$\text{Cu}$ (Copper):** Low reactivity metal. Extracted by self-reduction of sulphide ore ($\text{Cu}_2\text{S}$) or pyrometallurgy; purified by electrolytic refining.
+    * **$\text{Au}$ (Gold):** Unreactive noble metal, found free in nature. Extracted by physical panning or cyanide leaching.
+    * **$\text{Sn}$ (Tin):** Moderate reactivity metal. Extracted by reduction of its oxide ore Cassiterite ($\text{SnO}_2$) using carbon (coke).
+
+---
+
+### Q7 (CDS 2 2025 / NDA - Corrosion of Copper)
+**Question:** When copper reacts with moist carbon dioxide ($\text{CO}_2$) in air, it forms a green coating of which one of the following compounds?
+*(a) Cupric carbonate | (b) Cuprous oxide | (c) Cupric oxide | (d) Copper sulphate*
+
+* **Answer:** **(a) Cupric carbonate (Basic Copper Carbonate: $\text{CuCO}_3 \cdot \text{Cu(OH)}_2$)**
+* **Exhaustive Explanation & Intuition:**
+  * **Corrosion Mechanism:** Copper slowly reacts with moist $\text{CO}_2$, $\text{O}_2$, and water vapor present in the atmosphere to lose its shiny brown luster and gain a green coat.
+  * **Chemical Reaction:**
+    $$2\text{Cu(s)} + \text{H}_2\text{O(l)} + \text{CO}_2\text{(g)} + \text{O}_2\text{(g)} \rightarrow \underbrace{\text{CuCO}_3 \cdot \text{Cu(OH)}_2\text{(s)}}_{\text{Basic Copper Carbonate / Cupric Carbonate (Green)}}`$$
+  * **Key Distinctions for Exams:**
+    * **Iron Rusting:** Reddish-brown hydrated ferric oxide ($\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}$).
+    * **Silver Tarnishing:** Black coating of Silver Sulphide ($\text{Ag}_2\text{S}$) from atmospheric $\text{H}_2\text{S}$.
+    * **Copper Corrosion:** Green coating of **Basic Cupric Carbonate ($\text{CuCO}_3 \cdot \text{Cu(OH)}_2$)**.
+
+---
+
+### Q8 (NDA 1 2021 - Electrolytic Refining of Copper)
+**Question:** In electrolytic refining of copper, the electrolyte is a solution of:
+*(a) acidified copper chloride | (b) acidified copper sulphate | (c) potassium chloride | (d) sodium sulphate*
+
+* **Answer:** **(b) acidified copper sulphate ($\text{CuSO}_4 + \text{H}_2\text{SO}_4$)**
+* **Exhaustive Explanation & Intuition:**
+  * **Setup for Electrolytic Refining:**
+    * **Anode (+):** Impure copper block (dissolves into solution).
+    * **Cathode (-):** Thin strip of pure copper metal (pure copper deposits here).
+    * **Electrolyte:** Aqueous solution of **Copper Sulphate ($\text{CuSO}_4$) acidified with dilute Sulphuric Acid ($\text{H}_2\text{SO}_4$)** to improve electrical conductivity.
+  * **Process:**
+    * On passing electric current, pure metal from anode dissolves into electrolyte, and an equivalent amount of pure copper metal from electrolyte is deposited at cathode:
+      * **Anode Reaction:** $\text{Cu(impure)} \rightarrow \text{Cu}^{2+} + 2e^-$
+      * **Cathode Reaction:** $\text{Cu}^{2+} + 2e^- \rightarrow \text{Cu(pure)}$
+    * Soluble impurities go into solution; insoluble impurities settle down at bottom of anode as **Anode Mud** (contains valuable noble metals like $\text{Au}, \text{Ag}, \text{Pt}$).
+
+---
+
+### Q9 (CDS Hard Practice - Oxides Classification)
+**Question:** Which one of the following oxides is a neutral oxide?
+*(a) $\text{CO}$ | (b) $\text{CO}_2$ | (c) $\text{Na}_2\text{O}$ | (d) $\text{MgO}$*
+
+* **Answer:** **(a) $\text{CO}$ (Carbon Monoxide)**
+* **Exhaustive Explanation & Intuition:**
+  * **Neutral Oxides Definition:** Non-metal oxides that show **neither acidic nor basic properties**. They do not react with acids or bases, and turn neither red nor blue litmus paper.
+  * **Complete Classification of Common Oxides:**
+    * **Neutral Oxides (Remember these 4 Key Examples):** Carbon Monoxide ($\text{CO}$), Nitric Oxide ($\text{NO}$), Nitrous Oxide ($\text{N}_2\text{O}$ - laughing gas), and Water ($\text{H}_2\text{O}$).
+    * **Acidic Oxides:** Non-metal oxides ($\text{CO}_2$, $\text{SO}_2$, $\text{SO}_3$, $\text{NO}_2$, $\text{P}_4\text{O}_{10}$). React with water to form acids ($\text{CO}_2 + \text{H}_2\text{O} \rightarrow \text{H}_2\text{CO}_3$).
+    * **Basic Oxides:** Metallic oxides of Group 1 & 2 metals ($\text{Na}_2\text{O}$, $\text{K}_2\text{O}$, $\text{CaO}$, $\text{MgO}$). React with water to form alkalis ($\text{Na}_2\text{O} + \text{H}_2\text{O} \rightarrow 2\text{NaOH}$).
+    * **Amphoteric Oxides:** Aluminium oxide ($\text{Al}_2\text{O}_3$) and Zinc oxide ($\text{ZnO}$) — react with *both* acids and bases.
+
+---
+
 ## Navigation
 
 - [[cds/chemistry/chemistry_overview|Chemistry Overview]]
@@ -202,3 +276,4 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
 - [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
 - [[cds/chemistry/notes/metals_nonmetals|Ch 05. Metals and Non-Metals]]
 - [[cds/chemistry/notes/common_names|Ch 06. Common Names & Formulas in Chemistry]]
+
