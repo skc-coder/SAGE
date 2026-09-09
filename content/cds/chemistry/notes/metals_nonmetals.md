@@ -196,6 +196,7 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
 ---
 
 ## 8. Hard Exam PYQs & Advanced Practice Questions
+---
 
 ### Q6 (CDS 2 2025 - Electrolysis of Molten Compound)
 **Question:** Which one of the following metals is widely extracted by the electrolysis of its molten compound?
@@ -216,6 +217,16 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
     * **$\text{Au}$ (Gold):** Unreactive noble metal, found free in nature. Extracted by physical panning or cyanide leaching.
     * **$\text{Sn}$ (Tin):** Moderate reactivity metal. Extracted by reduction of its oxide ore Cassiterite ($\text{SnO}_2$) using carbon (coke).
 
+#### 🎯 Hard Variations (Practice Questions):
+* **Variation 1 (Aqueous vs Molten Product Conflict):** What products are formed at the cathode and anode respectively when aqueous $\text{NaCl}$ solution is electrolyzed instead of molten $\text{NaCl}$?
+  * *Solution:* Cathode: $\text{H}_2\text{(g)}$; Anode: $\text{Cl}_2\text{(g)}$; Solution: $\text{NaOH(aq)}$ (Chlor-Alkali Process). Sodium metal is NOT produced in water!
+* **Variation 2 (Flux Role in Down's Cell):** Why is Calcium Chloride ($\text{CaCl}_2$) added to Sodium Chloride ($\text{NaCl}$) during commercial extraction of sodium metal?
+  * *Solution:* Pure $\text{NaCl}$ melts at a high temperature ($801^\circ\text{C}$), near the boiling point of sodium metal. $\text{CaCl}_2$ acts as a flux to lower the melting point mixture to $\sim 600^\circ\text{C}$, saving energy and preventing sodium vaporization.
+* **Variation 3 (Magnesium Molten Electrolysis):** What metal is obtained at the cathode during the electrolysis of molten Magnesium Chloride ($\text{MgCl}_2$)?
+  * *Solution:* **Magnesium metal ($\text{Mg}$)** ($\text{Mg}^{2+} + 2e^- \rightarrow \text{Mg(s)}$).
+* **Variation 4 (Alumina Electrolysis Electrode):** During the Hall-Héroult electrolytic reduction of molten Alumina ($\text{Al}_2\text{O}_3$), why must the graphite anode rods be replaced periodically?
+  * *Solution:* Oxygen gas liberated at the anode ($2\text{O}^{2-} \rightarrow \text{O}_2 + 4e^-$) reacts with the hot carbon anode to form $\text{CO}$ and $\text{CO}_2$ gas, slowly burning away the graphite rods!
+
 ---
 
 ### Q7 (CDS 2 2025 / NDA - Corrosion of Copper)
@@ -226,11 +237,22 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
 * **Exhaustive Explanation & Intuition:**
   * **Corrosion Mechanism:** Copper slowly reacts with moist $\text{CO}_2$, $\text{O}_2$, and water vapor present in the atmosphere to lose its shiny brown luster and gain a green coat.
   * **Chemical Reaction:**
-    $$2\text{Cu(s)} + \text{H}_2\text{O(l)} + \text{CO}_2\text{(g)} + \text{O}_2\text{(g)} \rightarrow \underbrace{\text{CuCO}_3 \cdot \text{Cu(OH)}_2\text{(s)}}_{\text{Basic Copper Carbonate / Cupric Carbonate (Green)}}`$$
+    $$2\text{Cu(s)} + \text{H}_2\text{O(l)} + \text{CO}_2\text{(g)} + \text{O}_2\text{(g)} \rightarrow \underbrace{\text{CuCO}_3 \cdot \text{Cu(OH)}_2\text{(s)}}_{\text{Basic Copper Carbonate / Cupric Carbonate (Green)}}$$
   * **Key Distinctions for Exams:**
     * **Iron Rusting:** Reddish-brown hydrated ferric oxide ($\text{Fe}_2\text{O}_3 \cdot x\text{H}_2\text{O}$).
     * **Silver Tarnishing:** Black coating of Silver Sulphide ($\text{Ag}_2\text{S}$) from atmospheric $\text{H}_2\text{S}$.
     * **Copper Corrosion:** Green coating of **Basic Cupric Carbonate ($\text{CuCO}_3 \cdot \text{Cu(OH)}_2$)**.
+
+#### 🎯 Hard Variations (Practice Questions):
+* **Variation 1 (Silver Tarnishing Gas):** Silver articles turn black when exposed to air for a long time. This is due to the formation of a coating of:
+  * *(a) $\text{Ag}_2\text{O}$ | (b) $\text{Ag}_2\text{S}$ | (c) $\text{AgCN}$ | (d) $\text{AgNO}_3$*
+  * *Solution:* **(b) $\text{Ag}_2\text{S}$ (Silver Sulphide)** due to reaction with hydrogen sulphide gas ($\text{H}_2\text{S}$) in air.
+* **Variation 2 (Verdigris Mineral Composition):** What is the common name and chemical formula of the green patina formed on old copper monuments (like the Statue of Liberty)?
+  * *Solution:* **Verdigris / Patina**, composed of **Basic Copper Carbonate ($\text{CuCO}_3 \cdot \text{Cu(OH)}_2$)** or **Basic Copper Sulphate** in industrial areas.
+* **Variation 3 (Sacrificial Protection / Galvanization):** Iron sheets are coated with Zinc to prevent rusting. Even if the zinc coating is scratched, iron does not rust. Why?
+  * *Solution:* Zinc is more reactive than Iron ($E^\circ_{\text{Zn}^{2+}/\text{Zn}} < E^\circ_{\text{Fe}^{2+}/\text{Fe}}$). Zinc oxidizes preferentially, acting as a **sacrificial anode** to protect the underlying iron.
+* **Variation 4 (Rusting Conditions Drill):** Why does iron NOT rust in boiled distilled water sealed under a layer of oil?
+  * *Solution:* Boiling removes dissolved oxygen gas from water, and oil prevents atmospheric oxygen from re-dissolving. Rusting requires **BOTH oxygen AND moisture** simultaneously!
 
 ---
 
@@ -250,6 +272,17 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
       * **Cathode Reaction:** $\text{Cu}^{2+} + 2e^- \rightarrow \text{Cu(pure)}$
     * Soluble impurities go into solution; insoluble impurities settle down at bottom of anode as **Anode Mud** (contains valuable noble metals like $\text{Au}, \text{Ag}, \text{Pt}$).
 
+#### 🎯 Hard Variations (Practice Questions):
+* **Variation 1 (Anode Mud Composition):** In the electrolytic refining of Copper, which of the following metals are recovered from the 'Anode Mud'?
+  * *(a) $\text{Na}$ and $\text{K}$ | (b) $\text{Fe}$ and $\text{Zn}$ | (c) $\text{Au}$ and $\text{Ag}$ | (d) $\text{Al}$ and $\text{Mg}$*
+  * *Solution:* **(c) $\text{Au}$ (Gold) and $\text{Ag}$ (Silver)** (along with Platinum). Noble metals do not oxidize at anode potential and settle to the bottom.
+* **Variation 2 (Anode vs Cathode Mass Changes):** During electrolytic refining of impure copper for 2 hours, what happens to the mass of the anode and cathode?
+  * *Solution:* Mass of **Anode decreases** (impure copper dissolves) and mass of **Cathode increases** by an equal mass of pure copper deposited.
+* **Variation 3 (Soluble Impurities Behavior):** What happens to reactive metal impurities like Zinc and Iron present in crude copper during electrolytic refining?
+  * *Solution:* Zinc and Iron oxidize into the electrolyte solution as $\text{Zn}^{2+}$ and $\text{Fe}^{2+}$ ions, but remain in solution because $\text{Cu}^{2+}$ ions have a higher reduction potential and deposit preferentially at the cathode.
+* **Variation 4 (Refining Acid Role):** Why is dilute Sulphuric Acid ($\text{H}_2\text{SO}_4$) added to the $\text{CuSO}_4$ electrolyte bath?
+  * *Solution:* Dilute $\text{H}_2\text{SO}_4$ increases ionic concentration/conductivity of the solution and prevents hydrolysis of $\text{CuSO}_4$ into basic copper hydroxide precipitate.
+
 ---
 
 ### Q9 (CDS Hard Practice - Oxides Classification)
@@ -265,7 +298,18 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
     * **Basic Oxides:** Metallic oxides of Group 1 & 2 metals ($\text{Na}_2\text{O}$, $\text{K}_2\text{O}$, $\text{CaO}$, $\text{MgO}$). React with water to form alkalis ($\text{Na}_2\text{O} + \text{H}_2\text{O} \rightarrow 2\text{NaOH}$).
     * **Amphoteric Oxides:** Aluminium oxide ($\text{Al}_2\text{O}_3$) and Zinc oxide ($\text{ZnO}$) — react with *both* acids and bases.
 
----
+#### 🎯 Hard Variations (Practice Questions):
+* **Variation 1 (Nitrogen Oxide Neutral Identification):** Which of the following oxides of nitrogen is neutral to litmus?
+  * *(a) $\text{N}_2\text{O}_5$ | (b) $\text{NO}_2$ | (c) $\text{N}_2\text{O}$ | (d) $\text{N}_2\text{O}_3$*
+  * *Solution:* **(c) $\text{N}_2\text{O}$ (Nitrous oxide)** (and $\text{NO}$). $\text{NO}_2, \text{N}_2\text{O}_3, \text{N}_2\text{O}_5$ are acidic oxides forming nitrous/nitric acids.
+* **Variation 2 (Litmus Behavior Drill):** A gas $X$ dissolves in water to turn blue litmus paper red. Gas $Y$ dissolves in water but causes NO change in red or blue litmus paper. Identify $X$ and $Y$.
+  * *Solution:* $X = \text{CO}_2$ or $\text{SO}_2$ (Acidic oxide); $Y = \text{CO}$ or $\text{N}_2\text{O}$ (Neutral oxide).
+* **Variation 3 (Mixed Acid Anhydride):** Which non-metal oxide is called a 'mixed acid anhydride' because it reacts with water to form a mixture of TWO acids ($\text{HNO}_2$ and $\text{HNO}_3$)?
+  * *Solution:* **Nitrogen Dioxide ($\text{NO}_2$)** ($2\text{NO}_2 + \text{H}_2\text{O} \rightarrow \text{HNO}_2 + \text{HNO}_3$).
+* **Variation 4 (Peroxide vs Normal Oxide Reaction):** What gas is liberated when Sodium Peroxide ($\text{Na}_2\text{O}_2$) reacts with dilute Sulphuric Acid?
+  * *Solution:* **Hydrogen Peroxide ($\text{H}_2\text{O}_2$)** ($\text{Na}_2\text{O}_2 + \text{H}_2\text{SO}_4 \rightarrow \text{Na}_2\text{SO}_4 + \text{H}_2\text{O}_2$). (Normal $\text{Na}_2\text{O}$ gives water).
+
+-----
 
 ### Q10 (NDA 1 2024 - Highest Melting Point Oxide)
 **Question:** Which one among the following oxides has the highest melting point?
