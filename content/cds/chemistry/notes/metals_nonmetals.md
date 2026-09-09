@@ -14,16 +14,16 @@ Exhaustive chapter notes covering Physical & Chemical Properties of Metals vs No
 
 ## 1. Physical Properties Comparison
 
-| Physical Property | Metals | Non-Metals |
-| :--- | :--- | :--- |
-| **State at Room Temp** | Solids (except **Mercury $\text{Hg}$** liquid) | Solids, Gases (except **Bromine $\text{Br}_2$** liquid) |
-| **Lustre (Shine)** | Lustrous (metallic shine) | Non-lustrous (except **Iodine $\text{I}_2$** & **Graphite**) |
-| **Hardness** | Generally hard (except **Sodium $\text{Na}$**, **Potassium $\text{K}$**, **Lithium $\text{Li}$** - soft, cut with knife) | Generally soft (except **Diamond** - hardest natural substance) |
-| **Malleability & Ductility** | Highly Malleable (sheets) & Ductile (wires). **Gold $\text{Au}$** & **Silver $\text{Ag}$** most malleable | Non-malleable & Non-ductile (Brittle) |
-| **Electrical Conductivity** | Good conductors (**Silver $\text{Ag}$** best, then **Copper $\text{Cu}$**). Lead $\text{Pb}$ & Mercury $\text{Hg}$ poor | Poor conductors (except **Graphite** allotrope of Carbon) |
-| **Thermal Conductivity** | High thermal conductivity (**Silver $\text{Ag}$** & **Copper $\text{Cu}$** highest) | Poor thermal conductors |
-| **Melting & Boiling Points** | High (except **Gallium $\text{Ga}$** & **Caesium $\text{Cs}$** melt on palm $>30^\circ\text{C}$) | Low (except Diamond & Graphite high) |
-| **Sonority** | Sonorous (produce ringing sound on hitting) | Non-sonorous |
+| Physical Property            | Metals                                                                                                                   | Non-Metals                                                      |
+| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **State at Room Temp**       | Solids (except **Mercury $\text{Hg}$** liquid)                                                                           | Solids, Gases (except **Bromine $\text{Br}_2$** liquid)         |
+| **Lustre (Shine)**           | Lustrous (metallic shine)                                                                                                | Non-lustrous (except **Iodine $\text{I}_2$** & **Graphite**)    |
+| **Hardness**                 | Generally hard (except **Sodium $\text{Na}$**, **Potassium $\text{K}$**, **Lithium $\text{Li}$** - soft, cut with knife) | Generally soft (except **Diamond** - hardest natural substance) |
+| **Malleability & Ductility** | Highly Malleable (sheets) & Ductile (wires). **Gold $\text{Au}$** & **Silver $\text{Ag}$** most malleable                | Non-malleable & Non-ductile (Brittle)                           |
+| **Electrical Conductivity**  | Good conductors (**Silver $\text{Ag}$** best, then **Copper $\text{Cu}$**). Lead $\text{Pb}$ & Mercury $\text{Hg}$ poor  | Poor conductors (except **Graphite** allotrope of Carbon)       |
+| **Thermal Conductivity**     | High thermal conductivity (**Silver $\text{Ag}$** & **Copper $\text{Cu}$** highest)                                      | Poor thermal conductors                                         |
+| **Melting & Boiling Points** | High (except **Gallium $\text{Ga}$** & **Caesium $\text{Cs}$** melt on palm $>30^\circ\text{C}$)                         | Low (except Diamond & Graphite high)                            |
+| **Sonority**                 | Sonorous (produce ringing sound on hitting)                                                                              | Non-sonorous                                                    |
 
 ---
 
@@ -41,13 +41,13 @@ $$\text{Metal} + \text{Oxygen} \rightarrow \text{Metal Oxide}$$
 ### B. Reaction of Metals with Water
 $$\text{Metal} + \text{Water} \rightarrow \text{Metal Oxide / Hydroxide} + \text{Hydrogen Gas } (\text{H}_2\uparrow)$$
 
-| Reactivity Group | Metals | Reaction Behavior |
-| :--- | :--- | :--- |
-| **Vigorous with Cold Water** | Potassium ($\text{K}$), Sodium ($\text{Na}$) | Catch fire violently. Hydrogen evolved catches fire. Stored under **Kerosene oil**! |
-| **Mild with Cold Water** | Calcium ($\text{Ca}$) | Reaction less violent; $\text{H}_2$ gas bubbles stick to Calcium surface, causing it to **float**! |
-| **Reacts only with Hot Water** | Magnesium ($\text{Mg}$) | Forms $\text{Mg(OH)}_2 + \text{H}_2\uparrow$; floats due to $\text{H}_2$ bubbles sticking. |
-| **Reacts only with Steam** | Aluminium ($\text{Al}$), Iron ($\text{Fe}$), Zinc ($\text{Zn}$) | $2\text{Al} + 3\text{H}_2\text{O(g)} \rightarrow \text{Al}_2\text{O}_3 + 3\text{H}_2\uparrow$<br>$3\text{Fe} + 4\text{H}_2\text{O(g)} \rightarrow \text{Fe}_3\text{O}_4 + 4\text{H}_2\uparrow$ |
-| **No Reaction with Water/Steam** | Lead ($\text{Pb}$), Copper ($\text{Cu}$), Silver ($\text{Ag}$), Gold ($\text{Au}$) | Completely unreactive. |
+| Reactivity Group                 | Metals                                                                             | Reaction Behavior                                                                                                                                                                              |
+| :------------------------------- | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vigorous with Cold Water**     | Potassium ($\text{K}$), Sodium ($\text{Na}$)                                       | Catch fire violently. Hydrogen evolved catches fire. Stored under **Kerosene oil**!                                                                                                            |
+| **Mild with Cold Water**         | Calcium ($\text{Ca}$)                                                              | Reaction less violent; $\text{H}_2$ gas bubbles stick to Calcium surface, causing it to **float**!                                                                                             |
+| **Reacts only with Hot Water**   | Magnesium ($\text{Mg}$)                                                            | Forms $\text{Mg(OH)}_2 + \text{H}_2\uparrow$; floats due to $\text{H}_2$ bubbles sticking.                                                                                                     |
+| **Reacts only with Steam**       | Aluminium ($\text{Al}$), Iron ($\text{Fe}$), Zinc ($\text{Zn}$)                    | $2\text{Al} + 3\text{H}_2\text{O(g)} \rightarrow \text{Al}_2\text{O}_3 + 3\text{H}_2\uparrow$<br>$3\text{Fe} + 4\text{H}_2\text{O(g)} \rightarrow \text{Fe}_3\text{O}_4 + 4\text{H}_2\uparrow$ |
+| **No Reaction with Water/Steam** | Lead ($\text{Pb}$), Copper ($\text{Cu}$), Silver ($\text{Ag}$), Gold ($\text{Au}$) | Completely unreactive.                                                                                                                                                                         |
 
 ### C. The Reactivity Series of Metals
 
@@ -79,12 +79,12 @@ Ionic compounds are formed by complete transfer of electrons from metal to non-m
 
 $$\text{Na} \cdot + \cdot \ddot{\text{Cl}}: \rightarrow \text{Na}^+ + [:\ddot{\text{Cl}}:]^- \rightarrow \text{NaCl}$$
 
-| Property | Ionic Compounds (e.g., $\text{NaCl}, \text{MgCl}_2, \text{CaO}$) | Covalent Compounds (e.g., $\text{CH}_4, \text{CO}_2, \text{H}_2\text{O}$) |
-| :--- | :--- | :--- |
-| **Physical Nature** | Hard, crystalline solids | Gases, liquids, or soft solids |
-| **Melting & Boiling Points** | High (strong electrostatic forces between ions) | Low (weak intermolecular forces) |
-| **Solubility** | Soluble in Water; insoluble in organic solvents | Insoluble in Water; soluble in organic solvents (benzene, acetone) |
-| **Electrical Conductivity** | Conducts electricity in **Molten or Aqueous state** (free ions); does NOT conduct in solid state | Poor / Non-conductors (no free ions) |
+| Property                     | Ionic Compounds (e.g., $\text{NaCl}, \text{MgCl}_2, \text{CaO}$)                                 | Covalent Compounds (e.g., $\text{CH}_4, \text{CO}_2, \text{H}_2\text{O}$) |
+| :--------------------------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| **Physical Nature**          | Hard, crystalline solids                                                                         | Gases, liquids, or soft solids                                            |
+| **Melting & Boiling Points** | High (strong electrostatic forces between ions)                                                  | Low (weak intermolecular forces)                                          |
+| **Solubility**               | Soluble in Water; insoluble in organic solvents                                                  | Insoluble in Water; soluble in organic solvents (benzene, acetone)        |
+| **Electrical Conductivity**  | Conducts electricity in **Molten or Aqueous state** (free ions); does NOT conduct in solid state | Poor / Non-conductors (no free ions)                                      |
 
 ---
 
@@ -103,15 +103,15 @@ Processes used for extraction of pure metals from their ores.
 
 ### Important Ores Table
 
-| Metal | Ore Name | Chemical Formula |
-| :--- | :--- | :--- |
-| **Aluminium ($\text{Al}$)** | **Bauxite** | $\text{Al}_2\text{O}_3 \cdot 2\text{H}_2\text{O}$ |
-| **Iron ($\text{Fe}$)** | **Haematite** / Magnetite | $\text{Fe}_2\text{O}_3$ / $\text{Fe}_3\text{O}_4$ |
-| **Copper ($\text{Cu}$)** | Copper Pyrites / **Cuprite** | $\text{CuFeS}_2$ / $\text{Cu}_2\text{O}$ |
-| **Mercury ($\text{Hg}$)** | **Cinnabar** | $\text{HgS}$ |
-| **Zinc ($\text{Zn}$)** | **Zinc Blende** / Calamine | $\text{ZnS}$ / $\text{ZnCO}_3$ |
-| **Lead ($\text{Pb}$)** | **Galena** | $\text{PbS}$ |
-| **Calcium ($\text{Ca}$)** | Limestone / Gypsum | $\text{CaCO}_3$ / $\text{CaSO}_4 \cdot 2\text{H}_2\text{O}$ |
+| Metal                       | Ore Name                     | Chemical Formula                                            |
+| :-------------------------- | :--------------------------- | :---------------------------------------------------------- |
+| **Aluminium ($\text{Al}$)** | **Bauxite**                  | $\text{Al}_2\text{O}_3 \cdot 2\text{H}_2\text{O}$           |
+| **Iron ($\text{Fe}$)**      | **Haematite** / Magnetite    | $\text{Fe}_2\text{O}_3$ / $\text{Fe}_3\text{O}_4$           |
+| **Copper ($\text{Cu}$)**    | Copper Pyrites / **Cuprite** | $\text{CuFeS}_2$ / $\text{Cu}_2\text{O}$                    |
+| **Mercury ($\text{Hg}$)**   | **Cinnabar**                 | $\text{HgS}$                                                |
+| **Zinc ($\text{Zn}$)**      | **Zinc Blende** / Calamine   | $\text{ZnS}$ / $\text{ZnCO}_3$                              |
+| **Lead ($\text{Pb}$)**      | **Galena**                   | $\text{PbS}$                                                |
+| **Calcium ($\text{Ca}$)**   | Limestone / Gypsum           | $\text{CaCO}_3$ / $\text{CaSO}_4 \cdot 2\text{H}_2\text{O}$ |
 
 ---
 
@@ -119,21 +119,52 @@ Processes used for extraction of pure metals from their ores.
 
 An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal.
 
-| Alloy Name | Principal Constituents | Major Properties & Uses |
-| :--- | :--- | :--- |
-| **Brass** | Copper ($\text{Cu} \sim 70\%$) + Zinc ($\text{Zn} \sim 30\%$) | Cooking utensils, musical instruments, decorative items |
-| **Bronze** | Copper ($\text{Cu} \sim 88\%$) + Tin ($\text{Sn} \sim 12\%$) | Statues, medals, coins (harder than pure Cu) |
-| **Solder** | Lead ($\text{Pb} \sim 50\%$) + Tin ($\text{Sn} \sim 50\%$) | Low melting point; used for welding electrical wires |
-| **Stainless Steel** | Iron ($\text{Fe}$) + Chromium ($\text{Cr}$) + Nickel ($\text{Ni}$) + Carbon ($\text{C}$) | Corrosion resistant; cutlery, surgical tools |
-| **German Silver** | Copper ($\text{Cu}$) + Zinc ($\text{Zn}$) + Nickel ($\text{Ni}$) | **Contains 0% Silver!** Used in utensils and imitation jewelry |
-| **Duralumin** | Aluminium ($\text{Al}$) + Copper ($\text{Cu}$) + Mg + Mn | Lightweight & strong; aircraft body construction |
-| **Amalgam** | Any metal alloyed with **Mercury ($\text{Hg}$)** | Dental fillings ($\text{Ag-Hg}$ amalgam) |
-| **22 Carat Gold** | 22 parts Pure Gold + 2 parts Copper ($\text{Cu}$) or Silver ($\text{Ag}$) | Ornamentation (24 Carat is too soft for jewelry) |
-| **White Gold** | Gold ($\text{Au}$) + Nickel ($\text{Ni}$) / Palladium ($\text{Pd}$) | Jewelry substitute for platinum |
+| Alloy Name          | Principal Constituents                                                                   | Major Properties & Uses                                        |
+| :------------------ | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| **Brass**           | Copper ($\text{Cu} \sim 70\%$) + Zinc ($\text{Zn} \sim 30\%$)                            | Cooking utensils, musical instruments, decorative items        |
+| **Bronze**          | Copper ($\text{Cu} \sim 88\%$) + Tin ($\text{Sn} \sim 12\%$)                             | Statues, medals, coins (harder than pure Cu)                   |
+| **Solder**          | Lead ($\text{Pb} \sim 50\%$) + Tin ($\text{Sn} \sim 50\%$)                               | Low melting point; used for welding electrical wires           |
+| **Stainless Steel** | Iron ($\text{Fe}$) + Chromium ($\text{Cr}$) + Nickel ($\text{Ni}$) + Carbon ($\text{C}$) | Corrosion resistant; cutlery, surgical tools                   |
+| **German Silver**   | Copper ($\text{Cu}$) + Zinc ($\text{Zn}$) + Nickel ($\text{Ni}$)                         | **Contains 0% Silver!** Used in utensils and imitation jewelry |
+| **Duralumin**       | Aluminium ($\text{Al}$) + Copper ($\text{Cu}$) + Mg + Mn                                 | Lightweight & strong; aircraft body construction               |
+| **Amalgam**         | Any metal alloyed with **Mercury ($\text{Hg}$)**                                         | Dental fillings ($\text{Ag-Hg}$ amalgam)                       |
+| **22 Carat Gold**   | 22 parts Pure Gold + 2 parts Copper ($\text{Cu}$) or Silver ($\text{Ag}$)                | Ornamentation (24 Carat is too soft for jewelry)               |
+| **White Gold**      | Gold ($\text{Au}$) + Nickel ($\text{Ni}$) / Palladium ($\text{Pd}$)                      | Jewelry substitute for platinum                                |
 
 ---
 
-## 6. Solved PYQs (NDA / CDS / CAPF)
+## 6. Uses & Applications of Specific Special Metals
+
+### A. Mercury ($\text{Hg}$)
+
+* **Barometers & Manometers:** Used in pressure measurement due to its high density ($13.53\text{ g/cm}^3$) and uniform thermal expansion.
+* **Dental Amalgam Fillings:** Mixed with silver, tin, and copper powders to make durable dental cavity fillings.
+* **Fluorescent Lighting:** Mercury vapor in fluorescent tubes produces ultraviolet light when excited by electric current, which phosphor coatings then convert to visible light.
+* **Industrial Electrolysis:** Historically used as a liquid cathode in the Chlor-Alkali process to produce chlorine gas and sodium hydroxide ($\text{NaOH}$).
+* **Gold and Silver Extraction:** Used in artisanal mining to amalgamate with fine gold particles, separating gold from soil and rock.
+
+---
+
+### B. Gallium ($\text{Ga}$)
+
+* **Semiconductors & Microelectronics:** Primary raw material for **Gallium Arsenide** ($\text{GaAs}$) and **Gallium Nitride** ($\text{GaN}$), which power high-speed transistors, solar panels, power supplies, and blue/UV LEDs.
+* **Non-Toxic Thermometers:** Alloyed with indium and tin to form **Galinstan**, a liquid alloy at room temperature used as a safe, non-toxic replacement for mercury in medical thermometers.
+* **Thermal Interface Materials:** Liquid gallium alloys are used in high-performance computer cooling (liquid metal compounds) due to high thermal conductivity.
+* **Flexible Electronics & Soft Robotics:** Used to print flexible, self-healing conductive tracks for wearable circuits.
+
+---
+
+### C. Cesium ($\text{Cs}$)
+
+* **Atomic Clocks:** Powers the world's primary time standards. The official SI definition of $1\text{ second}$ is based on $9,192,631,770$ radiation cycles of the Cesium-133 atom.
+* **Oil & Gas Drilling Fluids:** **Cesium formate** ($\text{HCOOCs}$) brine is used as a heavy, dense drilling fluid to lubricate drill bits and prevent high-pressure blowout gas leaks in deep wells.
+* **Photoelectric Cells & Night Vision:** Low ionization energy allows cesium to emit electrons easily when hit by light, making it useful in photomultiplier tubes and night-vision equipment.
+* **Ion Thrusters:** Used as a propellant in spacecraft ion propulsion systems because its low ionization energy makes it easy to ionize into beam thrust.
+
+---
+
+## 7. Solved PYQs (NDA / CDS / CAPF)
+
 
 ### Q1 (CAPF 2022)
 **Question:** Cinnabar is an ore of which metal?
