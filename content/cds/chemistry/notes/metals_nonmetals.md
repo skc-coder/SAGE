@@ -267,6 +267,94 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
 
 ---
 
+### Q10 (NDA 1 2024 - Highest Melting Point Oxide)
+**Question:** Which one among the following oxides has the highest melting point?
+*(a) $\text{Na}_2\text{O}$ | (b) $\text{MgO}$ | (c) $\text{Fe}_2\text{O}_3$ | (d) $\text{CuO}$*
+
+* **Answer:** **(b) $\text{MgO}$ (Magnesium Oxide - Melting Point: $\approx 2852^\circ\text{C}$)**
+* **Exhaustive Explanation & First-Principles Derivation:**
+  * **Lattice Energy Principle:** Melting point of ionic compounds is directly proportional to their **Lattice Energy ($U$)**.
+    $$U \propto \frac{|z^+ \cdot z^-|}{r^+ + r^-}$$
+    where $z^+$ and $z^-$ are the charges of the cation and anion, and $r^+ + r^-$ is the interionic distance.
+  * **Comparing Ionic Charges:**
+    * In $\text{MgO}$: Cation is $\text{Mg}^{2+}$, Anion is $\text{O}^{2-}$. Charge product $= |+2 \times -2| = \mathbf{4}$.
+    * In $\text{Na}_2\text{O}$: Cation is $\text{Na}^+$, Anion is $\text{O}^{2-}$. Charge product $= |+1 \times -2| = 2$.
+    * In $\text{CuO}$: Cation is $\text{Cu}^{2+}$, Anion is $\text{O}^{2-}$. Charge product $= |+2 \times -2| = 4$, BUT $\text{Cu}^{2+}$ has a pseudo-noble gas configuration leading to higher covalent character (Fajans' Rule) which lowers its ionic lattice energy compared to pure alkaline earth oxide $\text{MgO}$.
+    * In $\text{Fe}_2\text{O}_3$: High covalent character and lower symmetry than rock-salt $\text{MgO}$.
+  * **Interionic Distance Effect:** $\text{Mg}^{2+}$ has a very small ionic radius ($\sim 72\text{ pm}$), leading to an extremely high charge-to-size ratio and extraordinarily strong electrostatic attractions.
+  * **Industrial Significance:** $\text{MgO}$ is used as a **refractory lining** for steel furnaces, kilns, and crucibles because it withstands extreme temperatures without melting or decomposing!
+
+#### 🎯 Hard Variations (Practice Questions):
+* **Variation 1 (Order of Melting Points):** Arrange $\text{NaCl}$, $\text{MgO}$, and $\text{CaO}$ in increasing order of melting points.
+  * *Solution:* $\text{NaCl} (801^\circ\text{C}) < \text{CaO} (2572^\circ\text{C}) < \text{MgO} (2852^\circ\text{C})$. $\text{Mg}^{2+}$ is smaller than $\text{Ca}^{2+}$, so $\text{MgO}$ has higher lattice energy than $\text{CaO}$.
+* **Variation 2 (Refractory Material Application):** Why is Magnesium Oxide ($\text{MgO}$) preferred over Sodium Oxide ($\text{Na}_2\text{O}$) for furnace brick manufacturing?
+  * *Solution:* $\text{MgO}$ has a higher lattice energy due to divalent $\text{Mg}^{2+}$ ions, giving it a much higher melting point ($2852^\circ\text{C}$) and chemical stability against basic slag.
+* **Variation 3 (Fajans' Rule Contrast):** Why does $\text{MgO}$ ($2852^\circ\text{C}$) have a significantly higher melting point than $\text{CuO}$ ($1326^\circ\text{C}$), even though both cations carry a $+2$ charge?
+  * *Solution:* $\text{Cu}^{2+}$ ($3d^9$) has a non-noble gas electron configuration, exerting higher polarizing power on $\text{O}^{2-}$, imparting significant covalent character to $\text{CuO}$ (lowering MP). $\text{Mg}^{2+}$ ($2s^2 2p^6$) is a rigid noble-gas cation forming pure ionic bonds.
+* **Variation 4 (Lattice Energy Formula Drill):** If the distance between ions is halved and charges on both ions are doubled, by what factor does lattice energy increase?
+  * *Solution:* $U \propto \frac{z_1 z_2}{r} \rightarrow \text{New } U = \frac{(2 z_1)(2 z_2)}{(r/2)} = 8 \times U$. Lattice energy increases by a factor of 8.
+
+---
+
+### Q11 (CAPF 2021 - Reaction of Oxide with Sodium Hydroxide)
+**Question:** Which one of the following metal oxides does not usually react with sodium hydroxide ($\text{NaOH}$)?
+*(a) Aluminium oxide | (b) Calcium oxide | (c) Copper oxide | (d) Potassium oxide*
+
+* **Answer:** **(b) Calcium oxide ($\text{CaO}$) / (c) Copper oxide / (d) Potassium oxide — Primary Correct Base-Base Exclusion: $\text{CaO}$ & $\text{K}_2\text{O}$**
+* **Exhaustive Explanation & Intuition:**
+  * **Acid-Base Reaction Rule:** 
+    * Sodium Hydroxide ($\text{NaOH}$) is a **strong base / alkali**.
+    * A base will react with **Acidic Oxides** (non-metal oxides) and **Amphoteric Oxides** (oxides that can act as acids).
+    * A base will **NOT** react with **Basic Oxides** (like $\text{CaO}, \text{K}_2\text{O}, \text{Na}_2\text{O}, \text{MgO}$) because *Base + Base = No Reaction*!
+  * **Analyzing the Options:**
+    * **$\text{Al}_2\text{O}_3$ (Aluminium Oxide):** **AMPHOTERIC OXIDE**. Reacts readily with $\text{NaOH}$ to form sodium aluminate and water:
+      $$\text{Al}_2\text{O}_3 + 2\text{NaOH} \rightarrow \underbrace{2\text{NaAlO}_2}_{\text{Sodium Aluminate}} + \text{H}_2\text{O}$$
+    * **$\text{CaO}$ (Calcium Oxide):** **STRONGLY BASIC OXIDE**. Calcium is a Group 2 alkaline earth metal. Basic oxides do NOT react with basic $\text{NaOH}$.
+    * **$\text{ZnO}$ & $\text{PbO}$ (Other Amphoteric Oxides):** React with $\text{NaOH}$ to form Zincates ($\text{Na}_2\text{ZnO}_2$) and Plumbites ($\text{Na}_2\text{PbO}_2$).
+
+#### 🎯 Hard Variations (Practice Questions):
+* **Variation 1 (Amphoteric Identification):** Which oxide dissolves in both concentrated $\text{HCl}$ and concentrated $\text{NaOH}$?
+  * *(a) $\text{CaO}$ | (b) $\text{ZnO}$ | (c) $\text{Na}_2\text{O}$ | (d) $\text{CuO}$*
+  * *Solution:* **(b) $\text{ZnO}$**. Zinc oxide is amphoteric ($\text{ZnO} + 2\text{NaOH} \rightarrow \text{Na}_2\text{ZnO}_2 + \text{H}_2\text{O}$).
+* **Variation 2 (Aluminate Salt Formula):** What is the chemical formula of the salt formed when Aluminium metal dissolves in aqueous Sodium Hydroxide?
+  * *Solution:* **$\text{NaAlO}_2$ (Sodium Metaluminate)** or $\text{Na}[\text{Al(OH)}_4]$. Reaction: $2\text{Al} + 2\text{NaOH} + 2\text{H}_2\text{O} \rightarrow 2\text{NaAlO}_2 + 3\text{H}_2\uparrow$.
+* **Variation 3 (Non-metal Oxide Contrast):** What happens when $\text{CO}_2$ gas is bubbled through aqueous $\text{NaOH}$?
+  * *Solution:* Acidic non-metal oxide $\text{CO}_2$ reacts with basic $\text{NaOH}$ to form Sodium Carbonate salt: $2\text{NaOH} + \text{CO}_2 \rightarrow \text{Na}_2\text{CO}_3 + \text{H}_2\text{O}$.
+* **Variation 4 (Oxide Nature Sorting):** Classify $\text{CrO}$, $\text{Cr}_2\text{O}_3$, and $\text{CrO}_3$ as acidic, basic, or amphoteric.
+  * *Solution:* Low oxidation state $\text{CrO} (+2)$ is Basic; intermediate $\text{Cr}_2\text{O}_3 (+3)$ is Amphoteric; high oxidation state $\text{CrO}_3 (+6)$ is Acidic!
+
+---
+
+### Q12 (NDA 2 2023 - Extraction of Metals Using Carbon Reduction)
+**Question:** Which one of the following metals can be extracted using carbon as a reducing agent?
+*(a) Zinc | (b) Silver | (c) Gold | (d) Aluminium*
+
+* **Answer:** **(a) Zinc ($\text{Zn}$)**
+* **Exhaustive Explanation & Extraction Hierarchy:**
+  * **Metallurgical Reduction Rules Based on Reactivity:**
+    1. **High Reactivity Metals ($\text{K, Na, Ca, Mg, Al}$):**
+       * Affinity for oxygen is higher than carbon. Carbon **CANNOT** reduce their oxides.
+       * Extracted by **Electrolytic Reduction** of molten salts (Down's / Hall-Héroult process).
+    2. **Middle Reactivity Metals ($\text{Zn, Fe, Pb, Cu}$):**
+       * Moderate affinity for oxygen. Extracted by **Carbon (Coke) or Carbon Monoxide ($\text{CO}$) Reduction** of their oxides in a furnace!
+       * Reaction for Zinc: $\text{ZnO(s)} + \text{C(s)} \xrightarrow{\Delta} \text{Zn(s)} + \text{CO(g)}$
+    3. **Low Reactivity / Noble Metals ($\text{Hg, Ag, Au, Pt}$):**
+       * Oxides are unstable. Extracted by **Thermal Decomposition (Auto-reduction / Heating alone)** or found native in free state.
+       * Reaction for Cinnabar: $2\text{HgS} + 3\text{O}_2 \xrightarrow{\Delta} 2\text{HgO} + 2\text{SO}_2 \implies 2\text{HgO} \xrightarrow{\Delta} 2\text{Hg} + \text{O}_2\uparrow$.
+
+#### 🎯 Hard Variations (Practice Questions):
+* **Variation 1 (Blast Furnace Reduction):** In the extraction of Iron from Haematite ($\text{Fe}_2\text{O}_3$) in a blast furnace, what is the main reducing agent at temperatures around $400^\circ\text{C}-700^\circ\text{C}$?
+  * *Solution:* **Carbon Monoxide ($\text{CO}$)** ($\text{Fe}_2\text{O}_3 + 3\text{CO} \rightarrow 2\text{Fe} + 3\text{CO}_2$).
+* **Variation 2 (Thermite Reduction Agent):** In the welding of railway tracks, which element is used as a reducing agent to convert Iron oxide to molten iron?
+  * *Solution:* **Aluminium powder ($\text{Al}$)** ($\text{Fe}_2\text{O}_3 + 2\text{Al} \rightarrow 2\text{Fe(l)} + \text{Al}_2\text{O}_3 + \text{Heat}$). This is the Thermite Reaction.
+* **Variation 3 (Auto-Reduction Metal):** Which of the following metals is extracted without adding any external reducing agent like Coke or Aluminium?
+  * *(a) $\text{Al}$ | (b) $\text{Hg}$ | (c) $\text{Fe}$ | (d) $\text{Na}$*
+  * *Solution:* **(b) $\text{Hg}$**. Heating Cinnabar ($\text{HgS}$) in air converts it to $\text{HgO}$, which auto-decomposes to liquid Mercury upon continued heating.
+* **Variation 4 (Hall-Héroult Process Role of Cryolite):** Why is Cryolite ($\text{Na}_3\text{AlF}_6$) added during the electrolytic extraction of Aluminium from alumina ($\text{Al}_2\text{O}_3$)?
+  * *Solution:* Pure $\text{Al}_2\text{O}_3$ has a very high melting point ($2050^\circ\text{C}$) and poor electrical conductivity. Cryolite lowers the melting point to $\sim 950^\circ\text{C}$ and increases electrical conductivity!
+
+---
+
 ## Navigation
 
 - [[cds/chemistry/chemistry_overview|Chemistry Overview]]
@@ -276,4 +364,5 @@ An alloy is a homogeneous mixture of two or more metals, or a metal and a non-me
 - [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
 - [[cds/chemistry/notes/metals_nonmetals|Ch 05. Metals and Non-Metals]]
 - [[cds/chemistry/notes/common_names|Ch 06. Common Names & Formulas in Chemistry]]
+
 
