@@ -41,7 +41,7 @@ Welcome to the **Chemistry Master Study Vault** for the Combined Defence Service
   - Amphoteric Oxides ($\text{Al}_2\text{O}_3, \text{ZnO}$) & Aqua Regia ($3\text{ HCl} : 1\text{ HNO}_3$)
   - Ionic vs Covalent Bonding & Properties
   - Metallurgy: Ores (Bauxite, Cinnabar, Haematite, Galena), Roasting vs Calcination, Thermite Welding
-  - Alloys Matrix (Brass, Bronze, Solder, Stainless Steel, German Silver, Amalgam, White Gold)
+  - Alloys Matrix (Brass, Bronze, Solder, Stainless Steel, German Silver, Amalgam, White Gold) 
 
 - [[cds/chemistry/notes/carbon_compounds|Ch 06. Carbon and Its Compounds]] *(PDF Pages 89–99)*
   - Versatile Nature: Catenation & Tetravalency

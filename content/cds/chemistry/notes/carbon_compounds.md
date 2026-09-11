@@ -16,7 +16,7 @@ Exhaustive chapter notes covering Catenation, Tetravalency, Allotropes of Carbon
 
 Carbon ($Z=6$, Electronic Configuration $2,4$) is a non-metal placed in Group 14 of the Periodic Table. It forms covalent bonds by sharing electrons to achieve an octet.
 
-* **Catenation:** Unique property of Carbon to form direct **long chains, branched chains, or ring structures** by bonding with other Carbon atoms ($\text{C-C-C-C}$). Carbon shows maximum catenation power due to its small atomic size and strong $\text{C-C}$ bond strength ($348\text{ kJ/mol}$). Silicon also shows catenation up to 7-8 atoms ($\text{Si-Si}$), but its bonds are weak and reactive.
+
 * **Tetravalency:** Carbon has 4 valence electrons and a valency of 4. It can form covalent bonds with 4 hydrogen atoms, oxygen, nitrogen, or halogen atoms.
 
 ---
@@ -82,14 +82,14 @@ Compounds containing only Carbon and Hydrogen.
 
 A functional group is an atom or group of atoms that dictates the chemical properties of an organic compound.
 
-| Functional Group Class | Formula / Structure | Suffix / Prefix | Example Compound | Formula |
-| :--- | :--- | :--- | :--- | :--- |
-| **Alcohol** | $-\text{OH}$ | `-ol` | Ethanol | $\text{C}_2\text{H}_5\text{OH}$ |
-| **Aldehyde** | $-\text{CHO}$ ($-\text{C}(=\text{O})\text{H}$) | `-al` | Methanal (Formaldehyde) | $\text{HCHO}$ |
-| **Ketone** | $>\text{C}=\text{O}$ | `-one` | Propanone (Acetone) | $\text{CH}_3\text{COCH}_3$ |
-| **Carboxylic Acid** | $-\text{COOH}$ ($-\text{C}(=\text{O})\text{OH}$) | `-oic acid` | Ethanoic Acid (Acetic Acid) | $\text{CH}_3\text{COOH}$ |
-| **Ester** | $-\text{COOR}$ | `-oate` | Ethyl Ethanoate | $\text{CH}_3\text{COOC}_2\text{H}_5$ |
-| **Haloalkane** | $-\text{Cl}, -\text{Br}, -\text{I}$ | `Chloro- / Bromo-` | Chloromethane | $\text{CH}_3\text{Cl}$ |
+| Functional Group Class | Formula / Structure                              | Suffix / Prefix    | Example Compound            | Formula                              |
+| :--------------------- | :----------------------------------------------- | :----------------- | :-------------------------- | :----------------------------------- |
+| **Alcohol**            | $-\text{OH}$                                     | `-ol`              | Ethanol                     | $\text{C}_2\text{H}_5\text{OH}$      |
+| **Aldehyde**           | $-\text{CHO}$ ($-\text{C}(=\text{O})\text{H}$)   | `-al`              | Methanal (Formaldehyde)     | $\text{HCHO}$                        |
+| **Ketone**             | $>\text{C}=\text{O}$                             | `-one`             | Propanone (Acetone)         | $\text{CH}_3\text{COCH}_3$           |
+| **Carboxylic Acid**    | $-\text{COOH}$ ($-\text{C}(=\text{O})\text{OH}$) | `-oic acid`        | Ethanoic Acid (Acetic Acid) | $\text{CH}_3\text{COOH}$             |
+| **Ester**              | $-\text{COOR}$                                   | `-oate`            | Ethyl Ethanoate             | $\text{CH}_3\text{COOC}_2\text{H}_5$ |
+| **Haloalkane**         | $-\text{Cl}, -\text{Br}, -\text{I}$              | `Chloro- / Bromo-` | Chloromethane               | $\text{CH}_3\text{Cl}$               |
 
 * **Homologous Series:** A family of organic compounds having the same functional group, similar chemical properties, and where successive members differ by a **$-\text{CH}_2-$ unit** and **$14\text{ u}$ molecular mass**.
 
@@ -131,12 +131,12 @@ A soap molecule is a **Sodium or Potassium salt of long-chain carboxylic acids**
 
 ### B. Soaps vs Synthetic Detergents
 
-| Property | Soap | Synthetic Detergents |
-| :--- | :--- | :--- |
-| **Chemical Composition** | Sodium or Potassium salts of long-chain fatty acids | Sodium salts of long-chain **benzene sulphonates** or alkyl sulphate |
+| Property                 | Soap                                                                                                                                            | Synthetic Detergents                                                                                     |
+| :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Chemical Composition** | Sodium or Potassium salts of long-chain fatty acids                                                                                             | Sodium salts of long-chain **benzene sulphonates** or alkyl sulphate                                     |
 | **Action in Hard Water** | **Fails in Hard Water!** Forms an insoluble gummy white precipitate called **Scum** by reacting with $\text{Ca}^{2+}$ and $\text{Mg}^{2+}$ ions | **Effective in both Soft and Hard Water!** Does not form scum with $\text{Ca}^{2+}$ and $\text{Mg}^{2+}$ |
-| **Biodegradability** | Biodegradable (environmentally friendly) | Non-biodegradable (branched hydrocarbons cause water pollution) |
-| **Soft Soap** | Contains **Potassium ($\text{K}^+$)** (e.g., shaving cream, liquid soap) | Contains Sodium or Ammonium salts |
+| **Biodegradability**     | Biodegradable (environmentally friendly)                                                                                                        | Non-biodegradable (branched hydrocarbons cause water pollution)                                          |
+| **Soft Soap**            | Contains **Potassium ($\text{K}^+$)** (e.g., shaving cream, liquid soap)                                                                        | Contains Sodium or Ammonium salts                                                                        |
 
 ---
 
@@ -182,7 +182,10 @@ Lassaigne's Test (Sodium Fusion Test) is used to detect extra elements (**Nitrog
 
 
 ---
-
+![[Pasted image 20260909180437.png]]
+not easter. its oxalic acids. aceitc/ethonic and methonic/formic acid.
+![[Pasted image 20260909175903.png]]![[Pasted image 20260909175906.png]]![[Pasted image 20260909175914.png]]![[Pasted image 20260909175930.png]]
+https://youtu.be/u3tcco6d4wo?t=31616
 ## Navigation
 
 - [[cds/chemistry/chemistry_overview|Chemistry Overview]]

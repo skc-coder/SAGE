@@ -11,7 +11,7 @@ tags: [cds, chemistry, periodic-table, mendeleev, modern-periodic-law, atomic-ra
 Exhaustive chapter notes covering Early Triads & Octaves, Mendeleev's Periodic Table, Modern Periodic Law (Moseley), Block Classification ($s, p, d, f$), and Periodic Trends (Atomic Radius, Valency, Ionization Energy, Electronegativity, Metallic Character).
 
 ---
-
+94 nautral oocurin
 ## 1. Early Attempts of Classification
 
 * **Dobereiner's Triads (1817):** Arranged elements with similar properties into groups of three (**Triads**). The atomic mass of the middle element was roughly the arithmetic mean of the other two.
@@ -77,18 +77,18 @@ Exhaustive chapter notes covering Early Triads & Octaves, Mendeleev's Periodic T
 
 How properties change across a Period (Left $\rightarrow$ Right) and down a Group (Top $\rightarrow$ Bottom).
 
-| Property | Across a Period (Left to Right $\rightarrow$) | Down a Group (Top to Bottom $\downarrow$) | Reason / Cause |
-| :--- | :--- | :--- | :--- |
-| **Nuclear Charge ($Z_{\text{eff}}$)** | **Increases** | **Increases** | Protons added to nucleus |
-| **Atomic Radius / Size** | **Decreases** | **Increases** | Across period: $Z_{\text{eff}}\uparrow$ pulls shell closer.<br>Down group: New shells added. |
-| **Valence Electrons** | **Increases** ($1 \rightarrow 8$) | **Remains Same** | Same group elements have identical outer valence electrons. |
-| **Valency** | **Increases $1 \rightarrow 4$, then decreases to $0$** | **Remains Same** | Depends on valence electrons ($8-e^-$). |
-| **Ionization Energy / Enthalpy** | **Increases** | **Decreases** | Energy to remove outer electron. Smaller size $\implies$ tighter hold. |
-| **Electron Affinity** | **Increases** | **Decreases** | Group 17 (Halogens) has highest EA. **Chlorine ($\text{Cl}$)** has highest EA! |
-| **Electronegativity** | **Increases** | **Decreases** | Tendency to attract shared electron pair. **Fluorine ($\text{F}$)** is most electronegative ($4.0$)! |
-| **Metallic Character** | **Decreases** (Metals $\rightarrow$ Non-metals) | **Increases** (Elements become more metallic) | Ability to lose electrons ($e^-$). |
-| **Non-Metallic Character** | **Increases** | **Decreases** | Ability to gain electrons ($e^-$). |
-| **Oxide Nature** | Basic $\rightarrow$ Amphoteric $\rightarrow$ Acidic | Acidic character decreases / Basic increases | Left oxides basic ($\text{Na}_2\text{O}$); Right oxides acidic ($\text{SO}_3, \text{Cl}_2\text{O}_7$). |
+| Property                              | Across a Period (Left to Right $\rightarrow$)          | Down a Group (Top to Bottom $\downarrow$)     | Reason / Cause                                                                                         |
+| :------------------------------------ | :----------------------------------------------------- | :-------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
+| **Nuclear Charge ($Z_{\text{eff}}$)** | **Increases**                                          | **Increases**                                 | Protons added to nucleus                                                                               |
+| **Atomic Radius / Size**              | **Decreases**                                          | **Increases**                                 | Across period: $Z_{\text{eff}}\uparrow$ pulls shell closer.<br>Down group: New shells added.           |
+| **Valence Electrons**                 | **Increases** ($1 \rightarrow 8$)                      | **Remains Same**                              | Same group elements have identical outer valence electrons.                                            |
+| **Valency**                           | **Increases $1 \rightarrow 4$, then decreases to $0$** | **Remains Same**                              | Depends on valence electrons ($8-e^-$).                                                                |
+| **Ionization Energy / Enthalpy**      | **Increases**                                          | **Decreases**                                 | Energy to remove outer electron. Smaller size $\implies$ tighter hold.                                 |
+| **Electron Affinity**                 | **Increases**                                          | **Decreases**                                 | Group 17 (Halogens) has highest EA. **Chlorine ($\text{Cl}$)** has highest EA!                         |
+| **Electronegativity**                 | **Increases**                                          | **Decreases**                                 | Tendency to attract shared electron pair. **Fluorine ($\text{F}$)** is most electronegative ($4.0$)!   |
+| **Metallic Character**                | **Decreases** (Metals $\rightarrow$ Non-metals)        | **Increases** (Elements become more metallic) | Ability to lose electrons ($e^-$).                                                                     |
+| **Non-Metallic Character**            | **Increases**                                          | **Decreases**                                 | Ability to gain electrons ($e^-$).                                                                     |
+| **Oxide Nature**                      | Basic $\rightarrow$ Amphoteric $\rightarrow$ Acidic    | Acidic character decreases / Basic increases  | Left oxides basic ($\text{Na}_2\text{O}$); Right oxides acidic ($\text{SO}_3, \text{Cl}_2\text{O}_7$). |
 
 ---
 
@@ -110,7 +110,7 @@ How properties change across a Period (Left $\rightarrow$ Right) and down a Grou
 * **Answer:** **(b) Gallium**.
 
 ---
-
+![[Pasted image 20260909182205.png]]
 ## Navigation
 
 - [[cds/chemistry/chemistry_overview|Chemistry Overview]]
