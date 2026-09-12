@@ -2,7 +2,7 @@
 tags:
   - algorithm
   - dsa
-date: {{date}}
+date: 2026-01-01
 complexity: 
   time: O()
   space: O()

@@ -2,7 +2,7 @@
 tags:
   - concept
   - cs/{{subject}}
-date: {{date}}
+date: 2026-01-01
 status: 🔴
 ---
 

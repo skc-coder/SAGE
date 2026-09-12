@@ -11,7 +11,7 @@ tags: [cds, math, percentage, subtopic, price-consumption]
 
 ## ⚡ The Single Base-Switch Rule
 
-$$\text{Expenditure } E = \text{Price } P \left(\frac{\text{₹}}{\text{kg}}\right) \times \text{Consumption } C (\text{kg})$$
+$$\text{Expenditure } E = \text{Price } P \left(\frac{\text{\text{Rs. }}}{\text{kg}}\right) \times \text{Consumption } C (\text{kg})$$
 
 Whether comparing $A$ vs $B$ or balancing Price vs Consumption, **it is always a Base-Switch onto the New Value**:
 

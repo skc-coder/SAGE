@@ -1,7 +1,7 @@
 ---
 tags:
   - daily
-date: {{date}}
+date: 2026-01-01
 ---
 ## To-Do
 - [ ] 

@@ -14,7 +14,8 @@ configuration:
     - .obsidian
     - .trash
     - "**/_*.md"
-    - "archive/obsidian/templates/**"
+    - "archive/obsidian/templates"
+    - "content/archive/obsidian/templates"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

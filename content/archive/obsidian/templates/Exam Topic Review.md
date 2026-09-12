@@ -2,7 +2,7 @@
 tags:
   - exam-prep
   - review
-date: {{date}}
+date: 2026-01-01
 subject: 
 priority: ⭐⭐⭐
 ---

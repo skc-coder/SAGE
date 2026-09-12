@@ -84,8 +84,8 @@ The RBI is the custodian of India's forex reserves. China holds the world's larg
 | :--- | :--- | :--- |
 | 1949 | — | RBI nationalised |
 | 1955 | Gorewal Committee | Imperial Bank of India nationalised → renamed **State Bank of India (SBI)** |
-| 1969 | L.K. Jha Committee | Banks with turnover ≥ ₹50 crore nationalised — **14 commercial banks** (1st stage of nationalisation) |
-| 1980 | — | Banks with turnover ≥ ₹200 crore nationalised — **6 commercial banks** (2nd stage) |
+| 1969 | L.K. Jha Committee | Banks with turnover ≥ \text{Rs. }50 crore nationalised — **14 commercial banks** (1st stage of nationalisation) |
+| 1980 | — | Banks with turnover ≥ \text{Rs. }200 crore nationalised — **6 commercial banks** (2nd stage) |
 | Up to 2017 | — | Total of 27 Public Sector Banks existed |
 
 ### 1.7 Banking Timeline Summary
@@ -149,7 +149,7 @@ $$
 | Demand deposits (CASA) | Can accept | Cannot accept — only term/time deposits |
 | Cheque issuance | Can issue cheques drawn on themselves | Cannot issue cheques on themselves |
 | Payment & Settlement System | Part of it | Not part of it |
-| DICGC insurance | Deposits insured up to ₹5 lakh | Not insured |
+| DICGC insurance | Deposits insured up to \text{Rs. }5 lakh | Not insured |
 | Foreign investment | Up to 74% (private sector banks) | Up to 100% |
 
 > [!note] Key Idea
@@ -159,8 +159,8 @@ $$
 
 Classification is based on the **2nd Schedule of the RBI Act, 1934**.
 
-- **Scheduled Bank**: listed in the 2nd Schedule; paid-up capital + reserves ≥ ₹5 lakh.
-- **Non-Scheduled Bank**: not listed; capital < ₹5 lakh (very few remain today).
+- **Scheduled Bank**: listed in the 2nd Schedule; paid-up capital + reserves ≥ \text{Rs. }5 lakh.
+- **Non-Scheduled Bank**: not listed; capital < \text{Rs. }5 lakh (very few remain today).
 
 ### 3.4 Full Classification of Banks in India
 
@@ -172,10 +172,10 @@ Classification is based on the **2nd Schedule of the RBI Act, 1934**.
     4. Regional Rural Banks (RRBs) — sponsored by PSBs, rural credit focus. E.g., Prathama Bank
   - **II. Cooperative Banks** — "no profit, no loss" principle, serve members (Urban & Rural)
 
-**B. Non-Scheduled Banks** — capital < ₹5 lakh
+**B. Non-Scheduled Banks** — capital < \text{Rs. }5 lakh
 
 **C. Other Categories**
-  1. Payments Banks — no lending, deposits capped at ₹2 lakh. E.g., Paytm Payments Bank
+  1. Payments Banks — no lending, deposits capped at \text{Rs. }2 lakh. E.g., Paytm Payments Bank
   2. Small Finance Banks (SFBs) — niche banking for unserved segments. E.g., AU Small Finance Bank
 
 **Commercial vs Non-commercial**: Commercial banks deal directly with the general public; non-commercial banks (e.g., NABARD, RBI) do not.
@@ -258,7 +258,7 @@ The principle that every person should have access and opportunity to avail fina
 ### 4.4 Payments Banks (2014)
 
 - Cannot provide loans or issue credit cards.
-- Can accept deposits, but capped at **₹2 lakh per account**.
+- Can accept deposits, but capped at **\text{Rs. }2 lakh per account**.
 - Cannot accept NRI deposits.
 
 ### 4.5 Small Finance Banks (2016)
@@ -266,7 +266,7 @@ The principle that every person should have access and opportunity to avail fina
 - At least **25% of branches** must be in rural areas.
 - **75%** of total credit must go to priority sector.
 - **50%** of loans must go to Micro, Small & Medium Enterprises (MSMEs).
-- **50%** of total credit must consist of loans below ₹25 lakh.
+- **50%** of total credit must consist of loans below \text{Rs. }25 lakh.
 
 ---
 
@@ -348,7 +348,7 @@ $$
 > **Answer:** $\boxed{\text{B — Founded by Lala Lajpat Rai}}$
 
 > [!example] Banking DPP 01 — Q2
-> **Question:** Statements on RBI history — Hilton-Young Commission recommendation, RBI established 1 April 1935 under the 1934 Act, initial capital ₹5 crore.
+> **Question:** Statements on RBI history — Hilton-Young Commission recommendation, RBI established 1 April 1935 under the 1934 Act, initial capital \text{Rs. }5 crore.
 >
 > **Approach:** All three check out against the historical sequence in Section 1.3.
 >
@@ -486,12 +486,12 @@ $$
 > [!example] Banking DPP 03 — Q6
 > **Question:** Differentiated Banking — SFBs/Payments Banks recommended by Nachiket Mor Committee; Payments Banks can issue credit cards and accept time deposits; FDI not allowed in Payments Banks. Which are incorrect?
 >
-> **Approach:** Statement 1 correct. Statement 2 incorrect — Payments Banks cannot issue credit cards nor accept time deposits (only demand deposits up to ₹2 lakh). Statement 3 incorrect — FDI is permitted in Payments Banks.
+> **Approach:** Statement 1 correct. Statement 2 incorrect — Payments Banks cannot issue credit cards nor accept time deposits (only demand deposits up to \text{Rs. }2 lakh). Statement 3 incorrect — FDI is permitted in Payments Banks.
 >
 > **Answer:** $\boxed{\text{B — 2 and 3 only}}$
 
 > [!example] Banking DPP 03 — Q7
-> **Question:** SCBs listed in 2nd Schedule of RBI Act 1934; RRBs owned 50% Central Govt / 35% Sponsor Bank / 15% State Govt; minimum paid-up capital for SCB is ₹5 lakh.
+> **Question:** SCBs listed in 2nd Schedule of RBI Act 1934; RRBs owned 50% Central Govt / 35% Sponsor Bank / 15% State Govt; minimum paid-up capital for SCB is \text{Rs. }5 lakh.
 >
 > **Approach:** All three match Sections 3.3 and 4.1 exactly.
 >
