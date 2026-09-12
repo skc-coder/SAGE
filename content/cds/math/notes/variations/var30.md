@@ -29,4 +29,4 @@ Let initial Income $= 100$.
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q153|Q153: Income Increase and Expenditure Shift Impact on Savings]]
+- [Q153: Income Increase and Expenditure Shift Impact on Savings](/cds/math/notes/questions/q153)

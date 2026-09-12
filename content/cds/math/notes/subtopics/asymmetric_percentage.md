@@ -28,6 +28,6 @@ $$\begin{CD}
 
 ## 🔗 Practice & Variations
 
-- [[cds/math/notes/questions/q149|Q149: Asymmetric Salary Comparison]]
-- [[cds/math/notes/questions/q150|Q150: Cooking Gas Price Increase and Consumption Reduction]]
-- [[cds/math/notes/variations/var29|Price Increase with Expenditure-Consumption Compensation]]
+- [Q149: Asymmetric Salary Comparison](/cds/math/notes/questions/q149)
+- [Q150: Cooking Gas Price Increase and Consumption Reduction](/cds/math/notes/questions/q150)
+- [Price Increase with Expenditure-Consumption Compensation](/cds/math/notes/variations/var29)

@@ -110,7 +110,7 @@ $$\sqrt{53824} = 232$$
 
 ## Linked Notes
 
-- [[cds/math/notes/roots|Topic Note: Square Roots & Cube Roots]]
-- [[cds/math/notes/subtopics/roots_methods|Subtopic: Prime Factorization & Division Method]]
-- [[cds/math/notes/questions/q5_1|Q1: Decimal Root Simplification]]
-- [[cds/math/notes/questions/q5_2|Q2: Smallest 4-Digit Perfect Square]]
+- [Topic Note: Square Roots & Cube Roots](/cds/math/notes/roots)
+- [Subtopic: Prime Factorization & Division Method](/cds/math/notes/subtopics/roots_methods)
+- [Q1: Decimal Root Simplification](/cds/math/notes/questions/q5_1)
+- [Q2: Smallest 4-Digit Perfect Square](/cds/math/notes/questions/q5_2)

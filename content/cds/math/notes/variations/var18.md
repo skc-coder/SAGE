@@ -45,5 +45,5 @@ A line segment $DE \parallel BC$ cuts sides $AB$ and $AC$ of $\Delta ABC$ such t
 ---
 
 ## Linked Notes
-- [[cds/math/notes/subtopics/similarity|Similarity of Triangles]]
-- [[cds/math/notes/questions/q3_tri|Q3: Similar Triangle Area Ratio & Altitude Theorem]]
+- [Similarity of Triangles](/cds/math/notes/subtopics/similarity)
+- [Q3: Similar Triangle Area Ratio & Altitude Theorem](/cds/math/notes/questions/q3_tri)

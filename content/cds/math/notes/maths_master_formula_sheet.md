@@ -248,5 +248,5 @@ For GP with first term $a$ and common ratio $r$:
 ---
 
 ## Navigation
-- [[cds/math/math_overview|Mathematics Master Dashboard]]
-- [[content/index.md|Central Vault Index]]
+- [Mathematics Master Dashboard](/cds/math/math_overview)
+- [Central Vault Index](/content/index)

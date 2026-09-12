@@ -85,5 +85,5 @@ For $a x^2 + b x + c$ (where leading coefficient $a \neq 1$):
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q29|Q29: LCM of Cubic & Quadratic Factorable Polynomials]]
-- [[cds/math/notes/questions/q30|Q30: Numerical Coefficient HCF with Multi-Variable Polynomials]]
+- [Q29: LCM of Cubic & Quadratic Factorable Polynomials](/cds/math/notes/questions/q29)
+- [Q30: Numerical Coefficient HCF with Multi-Variable Polynomials](/cds/math/notes/questions/q30)

@@ -52,4 +52,4 @@ Thus, the set of common divisors of $(P, Q)$ is identical to $(Q, R)$, proving $
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q31|Q31: Euclidean Division for 5th Degree Polynomials]]
+- [Q31: Euclidean Division for 5th Degree Polynomials](/cds/math/notes/questions/q31)

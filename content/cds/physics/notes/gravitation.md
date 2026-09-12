@@ -56,8 +56,8 @@ $$g = \frac{G M}{R^2} \approx 9.8\text{ m/s}^2$$
    $$T^2 \propto a^3$$
 
 ---
-[[weigtlessness question]]
+[Weigtlessness Question](/weigtlessness question)
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Overview]]
-- [[cds/physics/notes/formulas|Master Formulas]]
+- [Physics Overview](/cds/physics/physics_overview)
+- [Master Formulas](/cds/physics/notes/formulas)

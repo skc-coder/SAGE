@@ -45,10 +45,10 @@ A triangle $\Delta ABC$ is a closed 3-sided polygon formed by joining three non-
 
 ## 3. Subtopics
 
-- [[cds/math/notes/subtopics/congruence|Congruence of Triangles]]
-- [[cds/math/notes/subtopics/similarity|Similarity of Triangles]]
-- [[cds/math/notes/subtopics/centers|Centers of Triangles]]
-- [[cds/math/notes/subtopics/pythagoras|Pythagoras & Apollonius Theorems]]
+- [Congruence of Triangles](/cds/math/notes/subtopics/congruence)
+- [Similarity of Triangles](/cds/math/notes/subtopics/similarity)
+- [Centers of Triangles](/cds/math/notes/subtopics/centers)
+- [Pythagoras & Apollonius Theorems](/cds/math/notes/subtopics/pythagoras)
 
 ---
 
@@ -67,15 +67,15 @@ A triangle $\Delta ABC$ is a closed 3-sided polygon formed by joining three non-
 
 ## 5. Linked Practice & PYQ Questions
 
-- [[cds/math/notes/questions/q1_tri|Q1: Angle Bisector Ratio & Area Distribution]]
-- [[cds/math/notes/questions/q2_tri|Q2: Apollonius Theorem & Median Side Calculation]]
-- [[cds/math/notes/questions/q3_tri|Q3: Similar Triangle Area Ratio & Altitude Theorem]]
-- [[cds/math/notes/questions/q4_tri|Q4: Incenter Angle Formula & Bisector Concurrency]]
+- [Q1: Angle Bisector Ratio & Area Distribution](/cds/math/notes/questions/q1_tri)
+- [Q2: Apollonius Theorem & Median Side Calculation](/cds/math/notes/questions/q2_tri)
+- [Q3: Similar Triangle Area Ratio & Altitude Theorem](/cds/math/notes/questions/q3_tri)
+- [Q4: Incenter Angle Formula & Bisector Concurrency](/cds/math/notes/questions/q4_tri)
 
 ---
 
 ## 6. Variations
 
-- [[cds/math/notes/variations/var17|Variation 17: Median Partition & Sub-triangle Area Ratios]]
-- [[cds/math/notes/variations/var18|Variation 18: Thales Parallel Segment & Trapezium Area Split]]
-- [[cds/math/notes/variations/var20|Variation 20: Apollonius Bounds in Obtuse Triangles]]
+- [Variation 17: Median Partition & Sub-triangle Area Ratios](/cds/math/notes/variations/var17)
+- [Variation 18: Thales Parallel Segment & Trapezium Area Split](/cds/math/notes/variations/var18)
+- [Variation 20: Apollonius Bounds in Obtuse Triangles](/cds/math/notes/variations/var20)

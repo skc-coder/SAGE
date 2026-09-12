@@ -59,5 +59,5 @@ $$P = \frac{dW}{dt} = \vec{F} \cdot \vec{v}$$
 
 ## Navigation
 
-- [[cds/physics/notes/mechanics|Mechanics Overview]]
-- [[cds/physics/notes/formulas|Physics Formulas]]
+- [Mechanics Overview](/cds/physics/notes/mechanics)
+- [Physics Formulas](/cds/physics/notes/formulas)

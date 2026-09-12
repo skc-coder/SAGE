@@ -25,10 +25,10 @@ $$\Delta S\% = \frac{I_0 \cdot \Delta I\% - E_0 \cdot \Delta E\%}{S_0}$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q153|Q153: Income Increase and Expenditure Shift Impact on Savings]]
+- [Q153: Income Increase and Expenditure Shift Impact on Savings](/cds/math/notes/questions/q153)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var30|Income Expenditure Savings Shift and Percentage Net Growth]]
+- [Income Expenditure Savings Shift and Percentage Net Growth](/cds/math/notes/variations/var30)

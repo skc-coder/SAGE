@@ -209,5 +209,5 @@ $$\frac{C}{5} = \frac{F - 32}{9} = \frac{K - 273.15}{5} = \frac{R}{4}$$
 ---
 
 ## Navigation
-- [[cds/physics/physics_overview|Physics Master Dashboard]]
-- [[content/index.md|Central Vault Index]]
+- [Physics Master Dashboard](/cds/physics/physics_overview)
+- [Central Vault Index](/content/index)

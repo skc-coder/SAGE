@@ -27,11 +27,11 @@ When a vertical object of height $p$ (flagstaff/antenna) is mounted on top of a 
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q4_heights|Q4: Radio Transmitter Antenna on Tall Building]]
-- [[cds/math/notes/questions/q9_heights|Q9: Vertical Flagstaff General Formula Expression]]
+- [Q4: Radio Transmitter Antenna on Tall Building](/cds/math/notes/questions/q4_heights)
+- [Q9: Vertical Flagstaff General Formula Expression](/cds/math/notes/questions/q9_heights)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/heights_variations#variation-4-mounted-flagstaffantenna-formula|Variation 4: Mounted Flagstaff/Antenna General Ratio]]
+- [Variation 4: Mounted Flagstaff/Antenna General Ratio](/cds/math/notes/variations/heights_variations#variation-4-mounted-flagstaffantenna-formula)

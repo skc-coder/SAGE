@@ -44,5 +44,5 @@ $$\frac{\text{Area}(\Delta ABE)}{\text{Area}(\Delta AEC)} = \frac{BE}{EC} = \fra
 ---
 
 ## Related Notes
-- Subtopic Note: [[cds/math/notes/subtopics/similarity|Similarity of Triangles]]
-- Variation Note: [[cds/math/notes/variations/var17|Variation 17: Median Partition & Sub-triangle Area Ratios]]
+- Subtopic Note: [Similarity of Triangles](/cds/math/notes/subtopics/similarity)
+- Variation Note: [Variation 17: Median Partition & Sub-triangle Area Ratios](/cds/math/notes/variations/var17)

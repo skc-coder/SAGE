@@ -48,16 +48,16 @@ $$\frac{M_1 \cdot D_1 \cdot T_1 \cdot E_1}{W_1 \cdot R_1} = \frac{M_2 \cdot D_2 
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q17|Q17: Men & Boys Equivalence System]]
-- [[cds/math/notes/questions/q39|Q39: Multi-Worker Wages Ratio Distribution]]
+- [Q17: Men & Boys Equivalence System](/cds/math/notes/questions/q17)
+- [Q39: Multi-Worker Wages Ratio Distribution](/cds/math/notes/questions/q39)
 
 ---
 
 ## Variations
-- [[cds/math/notes/variations/var25|Variation 25: Staggered Group Arrival with Wage Penalty Function]]
+- [Variation 25: Staggered Group Arrival with Wage Penalty Function](/cds/math/notes/variations/var25)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/work|Time and Work Topic]]
-- [[cds/math/math_overview|Subject Dashboard]]
+- [Time and Work Topic](/cds/math/notes/work)
+- [Subject Dashboard](/cds/math/math_overview)

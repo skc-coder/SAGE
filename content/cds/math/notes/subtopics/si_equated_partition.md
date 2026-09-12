@@ -31,11 +31,11 @@ $$P_1 : P_2 : P_3 = \frac{1}{100 + R_1 T_1} : \frac{1}{100 + R_2 T_2} : \frac{1}
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q47|Q47: Equated Interest Multi-Part Allocation]]
+- [Q47: Equated Interest Multi-Part Allocation](/cds/math/notes/questions/q47)
 
 ---
 
 ## Navigation
 
-- [[cds/math/notes/simple_interest|Chapter 9: Simple Interest]]
-- [[cds/math/math_overview|Subject Dashboard]]
+- [Chapter 9: Simple Interest](/cds/math/notes/simple_interest)
+- [Subject Dashboard](/cds/math/math_overview)

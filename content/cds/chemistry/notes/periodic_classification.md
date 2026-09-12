@@ -110,15 +110,15 @@ How properties change across a Period (Left $\rightarrow$ Right) and down a Grou
 * **Answer:** **(b) Gallium**.
 
 ---
-![[Pasted image 20260909182205.png]]
+![Pasted Image 20260909182205.Png](/Pasted image 20260909182205.png)
 ## Navigation
 
-- [[cds/chemistry/chemistry_overview|Chemistry Overview]]
-- [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter]]
-- [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
-- [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
-- [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
-- [[cds/chemistry/notes/metals_nonmetals|Ch 05. Metals and Non-Metals]]
-- [[cds/chemistry/notes/carbon_compounds|Ch 06. Carbon and Its Compounds]]
-- [[cds/chemistry/notes/periodic_classification|Ch 07. Periodic Classification of Elements]]
-- [[cds/chemistry/notes/common_names|Ch 08. Common Names & Formulas in Chemistry]]
+- [Chemistry Overview](/cds/chemistry/chemistry_overview)
+- [Ch 01. Classification of Matter](/cds/chemistry/notes/classification_of_matter)
+- [Ch 02. Atoms, Molecules & Atomic Structure](/cds/chemistry/notes/atoms_molecules)
+- [Ch 03. Chemical Reactions & Equations](/cds/chemistry/notes/chemical_reactions)
+- [Ch 04. Acids, Bases and Salts](/cds/chemistry/notes/acids_bases_salts)
+- [Ch 05. Metals and Non-Metals](/cds/chemistry/notes/metals_nonmetals)
+- [Ch 06. Carbon and Its Compounds](/cds/chemistry/notes/carbon_compounds)
+- [Ch 07. Periodic Classification of Elements](/cds/chemistry/notes/periodic_classification)
+- [Ch 08. Common Names & Formulas in Chemistry](/cds/chemistry/notes/common_names)

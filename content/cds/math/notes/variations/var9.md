@@ -20,5 +20,5 @@ The product of two numbers is 4107. If the HCF of these numbers is 37, find the 
 > Greater number $B = 37 \times 3 = 111$.
 
 ## Navigation
-- [[cds/math/notes/subtopics/hcf_methods|Subtopic: HCF Methods]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: HCF Methods](/cds/math/notes/subtopics/hcf_methods)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

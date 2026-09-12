@@ -18,4 +18,4 @@ Identify the non-foliated metamorphic rock derived from Limestone:
 ---
 
 ## Backlinks
-- [[cds/geography/notes/questions/q6|Rock Cycle & Lithification (CAPF 2024)]]
+- [Rock Cycle & Lithification (CAPF 2024)](/cds/geography/notes/questions/q6)

@@ -20,5 +20,5 @@ If $\frac{p}{3} = \frac{q}{4} = \frac{r}{5}$, calculate the value of $\frac{p^2 
 > $$\frac{3^2 + 4^2 + 5^2}{(3)(4) + (4)(5)} = \frac{9 + 16 + 25}{12 + 20} = \frac{50}{32} = \frac{25}{16}$$
 
 ## Navigation
-- [[cds/math/notes/subtopics/ratios|Subtopic: Ratios and Proportions]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: Ratios and Proportions](/cds/math/notes/subtopics/ratios)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

@@ -53,5 +53,5 @@ C&D can be used in reverse to synthesize perfect binomial expansions $(a+b)^n / 
 
 ## Navigation
 
-- Subtopic: [[cds/math/notes/subtopics/cd_property|Componendo and Dividendo Theorem]]
-- Topic: [[cds/math/notes/ratio_proportion|Ratio and Proportion]]
+- Subtopic: [Componendo and Dividendo Theorem](/cds/math/notes/subtopics/cd_property)
+- Topic: [Ratio and Proportion](/cds/math/notes/ratio_proportion)

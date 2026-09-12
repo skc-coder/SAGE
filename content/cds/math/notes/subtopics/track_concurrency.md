@@ -150,13 +150,13 @@ Speeds are $15\text{ m/s}$ and $25\text{ m/s}$ on a track.
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q8|Question 8: Bell Ringing Concurrency Interval]]
-- [[cds/math/notes/questions/q22|Question 22: Circular Track Concurrency Meeting Time]]
+- [Question 8: Bell Ringing Concurrency Interval](/cds/math/notes/questions/q8)
+- [Question 22: Circular Track Concurrency Meeting Time](/cds/math/notes/questions/q22)
 
 ---
 
 ## Navigation
 
-- [[cds/math/notes/subtopics/lcm_models|LCM Models & Remainder Theorems]]
-- [[cds/math/notes/hcf_lcm|HCF and LCM Topic Page]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [LCM Models & Remainder Theorems](/cds/math/notes/subtopics/lcm_models)
+- [HCF and LCM Topic Page](/cds/math/notes/hcf_lcm)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

@@ -20,5 +20,5 @@ A 6-digit number formed by repeating a 3-digit number (e.g. $abcabc$) is always 
 > Since $1001 = 7 \times 11 \times 13$, $abcabc$ is always divisible by 7, 11, and 13.
 
 ## Navigation
-- [[cds/math/notes/subtopics/divisibility|Subtopic: Divisibility Rules]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: Divisibility Rules](/cds/math/notes/subtopics/divisibility)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

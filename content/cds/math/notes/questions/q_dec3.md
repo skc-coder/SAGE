@@ -50,5 +50,5 @@ The vulgar fraction of $0.12\overline{36}$ is:
 ---
 
 ## Navigation
-- [[cds/math/notes/subtopics/recurring_decimals|Subtopic: Decimal Fractions & Recurring Decimals]]
-- [[cds/math/notes/decimals|Chapter 4: Decimal Fractions]]
+- [Subtopic: Decimal Fractions & Recurring Decimals](/cds/math/notes/subtopics/recurring_decimals)
+- [Chapter 4: Decimal Fractions](/cds/math/notes/decimals)

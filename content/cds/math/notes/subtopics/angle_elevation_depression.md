@@ -25,11 +25,11 @@ tags: [cds, elementary-mathematics, subtopic, heights]
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q1_heights|Q1: Shadow of Tree at 60 Sun Altitude]]
-- [[cds/math/notes/questions/q6_heights|Q6: Angle of Elevation when Shadow Equals Height]]
+- [Q1: Shadow of Tree at 60 Sun Altitude](/cds/math/notes/questions/q1_heights)
+- [Q6: Angle of Elevation when Shadow Equals Height](/cds/math/notes/questions/q6_heights)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/heights_variations#variation-1-equal-height-and-shadow|Variation 1: Equal Height & Shadow Ratio]]
+- [Variation 1: Equal Height & Shadow Ratio](/cds/math/notes/variations/heights_variations#variation-1-equal-height-and-shadow)

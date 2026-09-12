@@ -21,5 +21,5 @@ Find the greatest 4-digit number which when divided by 12, 18, 21, and 28 leaves
 > 5. Add constant remainder 3: $N = 9828 + 3 = 9831$.
 
 ## Navigation
-- [[cds/math/notes/subtopics/lcm_models|Subtopic: LCM Models]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: LCM Models](/cds/math/notes/subtopics/lcm_models)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

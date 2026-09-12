@@ -20,10 +20,10 @@ tags: [cds, math, solids, mensuration-3d, topic]
 
 ## 2. Subtopics
 
-- [[cds/math/notes/subtopics/cuboid_cube|Cuboid & Cube]]
-- [[cds/math/notes/subtopics/cylinder_cone|Right Circular Cylinder, Cone & Frustum]]
-- [[cds/math/notes/subtopics/sphere_hemisphere|Sphere, Hemisphere & Spherical Shell]]
-- [[cds/math/notes/subtopics/prism_pyramid|Right Prism, Right Pyramid & Regular Tetrahedron]]
+- [Cuboid & Cube](/cds/math/notes/subtopics/cuboid_cube)
+- [Right Circular Cylinder, Cone & Frustum](/cds/math/notes/subtopics/cylinder_cone)
+- [Sphere, Hemisphere & Spherical Shell](/cds/math/notes/subtopics/sphere_hemisphere)
+- [Right Prism, Right Pyramid & Regular Tetrahedron](/cds/math/notes/subtopics/prism_pyramid)
 
 ---
 
@@ -47,10 +47,10 @@ tags: [cds, math, solids, mensuration-3d, topic]
 
 ## 4. Key Variations & High-Yield Traps
 
-- [[cds/math/notes/variations/var27#variation-1-rate-of-liquid-flow-through-pipe-into-cylindricalrectangular-tank|Variation 1: Water Flow Rate through Pipe into Tank]]
-- [[cds/math/notes/variations/var27#variation-2-submersion-of-solid-spheres-into-cylindrical-vessel|Variation 2: Submersion of Solid Spheres into Cylindrical Vessel]]
-- [[cds/math/notes/variations/var27#variation-3-solid-cone-cut-into-three-equal-volume-slices|Variation 3: Parallel Slices of Right Circular Cone]]
-- [[cds/math/notes/variations/var27#variation-4-inscribed-sphere-inside-a-right-circular-cone|Variation 4: Inscribed Sphere in Right Circular Cone]]
+- [Variation 1: Water Flow Rate through Pipe into Tank](/cds/math/notes/variations/var27#variation-1-rate-of-liquid-flow-through-pipe-into-cylindricalrectangular-tank)
+- [Variation 2: Submersion of Solid Spheres into Cylindrical Vessel](/cds/math/notes/variations/var27#variation-2-submersion-of-solid-spheres-into-cylindrical-vessel)
+- [Variation 3: Parallel Slices of Right Circular Cone](/cds/math/notes/variations/var27#variation-3-solid-cone-cut-into-three-equal-volume-slices)
+- [Variation 4: Inscribed Sphere in Right Circular Cone](/cds/math/notes/variations/var27#variation-4-inscribed-sphere-inside-a-right-circular-cone)
 
 ---
 
@@ -66,4 +66,4 @@ pie title 3D Solids Difficulty
 ---
 
 ## 6. Navigation
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)

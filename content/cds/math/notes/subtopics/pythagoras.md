@@ -6,7 +6,7 @@ topic: "Triangles"
 subtopic: "Pythagoras & Apollonius"
 tags: [cds, math, triangles, pythagoras, apollonius, median, subtopic]
 ---
-[[materail for traignles propertiese]]
+[Materail For Traignles Propertiese](/materail for traignles propertiese)
 # Pythagoras & Apollonius Theorems
 
 ## 1. Pythagoras Theorem & Converse
@@ -64,10 +64,10 @@ In right-angled triangle $\Delta ABC$ ($\angle A = 90^\circ$):
 
 ## 4. Linked Practice Questions
 
-- [[cds/math/notes/questions/q2_tri|Q2: Apollonius Theorem & Median Side Calculation]]
+- [Q2: Apollonius Theorem & Median Side Calculation](/cds/math/notes/questions/q2_tri)
 
 ---
 
 ## 5. Variations
 
-- [[cds/math/notes/variations/var20|Variation 20: Apollonius Bounds in Obtuse Triangles]]
+- [Variation 20: Apollonius Bounds in Obtuse Triangles](/cds/math/notes/variations/var20)

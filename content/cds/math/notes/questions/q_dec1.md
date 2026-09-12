@@ -51,5 +51,5 @@ When $0.232323\dots$ is converted into a fraction, then the result is:
 ---
 
 ## Navigation
-- [[cds/math/notes/subtopics/recurring_decimals|Subtopic: Decimal Fractions & Recurring Decimals]]
-- [[cds/math/notes/decimals|Chapter 4: Decimal Fractions]]
+- [Subtopic: Decimal Fractions & Recurring Decimals](/cds/math/notes/subtopics/recurring_decimals)
+- [Chapter 4: Decimal Fractions](/cds/math/notes/decimals)

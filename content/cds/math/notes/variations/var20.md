@@ -46,5 +46,5 @@ In $\Delta ABC$, side lengths are $a = 7$, $b = 8$, and $c = 13$.
 ---
 
 ## Linked Notes
-- [[cds/math/notes/subtopics/pythagoras|Pythagoras & Apollonius Theorems]]
-- [[cds/math/notes/questions/q2_tri|Q2: Apollonius Theorem & Median Side Calculation]]
+- [Pythagoras & Apollonius Theorems](/cds/math/notes/subtopics/pythagoras)
+- [Q2: Apollonius Theorem & Median Side Calculation](/cds/math/notes/questions/q2_tri)

@@ -78,6 +78,6 @@ In particular, $H(x)$ divides $P(x) - Q(x)$ and $P(x) + Q(x)$.
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q32|Q32: Linear HCF Parameter Evaluation]]
-- [[cds/math/notes/questions/q33|Q33: Dual Quadratic Common HCF System]]
-- [[cds/math/notes/questions/q34|Q34: Dual Expression Sum & Difference LCM / HCF Reconstruction]]
+- [Q32: Linear HCF Parameter Evaluation](/cds/math/notes/questions/q32)
+- [Q33: Dual Quadratic Common HCF System](/cds/math/notes/questions/q33)
+- [Q34: Dual Expression Sum & Difference LCM / HCF Reconstruction](/cds/math/notes/questions/q34)

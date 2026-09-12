@@ -124,16 +124,16 @@ Welcome to the comprehensive, high-density study guide and cheatsheet for **Indi
 
 ## Subtopics & Specialized Questions
 
-- [[cds/gk/notes/subtopics/firsts_in_india|Firsts in India & National Milestones]]
-- [[cds/gk/notes/subtopics/defense_and_space|Defense, Armed Forces & Space Technology]]
-- [[cds/gk/notes/subtopics/awards_and_honours|Civilian, Gallantry & Literary Awards]]
+- [Firsts in India & National Milestones](/cds/gk/notes/subtopics/firsts_in_india)
+- [Defense, Armed Forces & Space Technology](/cds/gk/notes/subtopics/defense_and_space)
+- [Civilian, Gallantry & Literary Awards](/cds/gk/notes/subtopics/awards_and_honours)
 
 ---
 
 ## Variations
 
-- [[cds/gk/notes/variations/vars#variation-1-missile-classification-traps|Variation 1: IGMDP Missile Classifications & Launch Platforms]]
-- [[cds/gk/notes/variations/vars#variation-2-award-hierarchy-wartime-vs-peacetime|Variation 2: Wartime vs. Peacetime Gallantry Award Hierarchy]]
+- [Variation 1: IGMDP Missile Classifications & Launch Platforms](/cds/gk/notes/variations/vars#variation-1-missile-classification-traps)
+- [Variation 2: Wartime vs. Peacetime Gallantry Award Hierarchy](/cds/gk/notes/variations/vars#variation-2-award-hierarchy-wartime-vs-peacetime)
 
 ---
 
@@ -151,5 +151,5 @@ pie title GK Subject Weightage
 
 ## Navigation
 
-- [[cds/cds_overview|CDS Master Dashboard]]
-- [[cds/gk/question_db|Question Database]]
+- [CDS Master Dashboard](/cds/cds_overview)
+- [Question Database](/cds/gk/question_db)

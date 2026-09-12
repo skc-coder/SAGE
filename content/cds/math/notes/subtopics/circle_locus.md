@@ -34,10 +34,10 @@ Concentric circles are two or more circles having the same center $O$ but differ
 
 ## 2. Linked Practice Questions
 
-- [[cds/math/notes/questions/q1_circle|Q1: Perpendicular Distance from Centre to Chord]]
+- [Q1: Perpendicular Distance from Centre to Chord](/cds/math/notes/questions/q1_circle)
 
 ---
 
 ## 3. Variations
 
-- [[cds/math/notes/variations/var25|Variation 25: Intersecting Chords & Concentric Annulus Segment Bounds]]
+- [Variation 25: Intersecting Chords & Concentric Annulus Segment Bounds](/cds/math/notes/variations/var25)

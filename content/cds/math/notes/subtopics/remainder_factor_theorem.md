@@ -39,8 +39,8 @@ Let $P(x)$ be a polynomial.
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q48|Q48: Remainder Evaluation via Linear Divisor]]
-- [[cds/math/notes/questions/q49|Q49: Unknown Parameter $k$ via Factor Theorem]]
+- [Q48: Remainder Evaluation via Linear Divisor](/cds/math/notes/questions/q48)
+- [Q49: Unknown Parameter $k$ via Factor Theorem](/cds/math/notes/questions/q49)
 
 ## Variations
-- [[cds/math/notes/variations/var26|Variation 26: Generalized Dual Parameter Factor Theorem System]]
+- [Variation 26: Generalized Dual Parameter Factor Theorem System](/cds/math/notes/variations/var26)

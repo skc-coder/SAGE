@@ -52,10 +52,10 @@ Two right-angled triangles are congruent if the hypotenuse and one side of one t
 
 ## 4. Linked Practice Questions
 
-- [[cds/math/notes/questions/q1_tri|Q1: Angle Bisector Ratio & Area Distribution]]
+- [Q1: Angle Bisector Ratio & Area Distribution](/cds/math/notes/questions/q1_tri)
 
 ---
 
 ## 5. Variations
 
-- [[cds/math/notes/variations/var17|Variation 17: Median Partition & Sub-triangle Area Ratios]]
+- [Variation 17: Median Partition & Sub-triangle Area Ratios](/cds/math/notes/variations/var17)

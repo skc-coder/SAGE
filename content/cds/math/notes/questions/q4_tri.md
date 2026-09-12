@@ -43,4 +43,4 @@ $$\angle BIC = 90^\circ + \frac{1}{2} \angle A$$
 ---
 
 ## Related Notes
-- Subtopic Note: [[cds/math/notes/subtopics/centers|Centers of Triangles]]
+- Subtopic Note: [Centers of Triangles](/cds/math/notes/subtopics/centers)

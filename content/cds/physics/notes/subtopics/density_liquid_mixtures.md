@@ -66,11 +66,11 @@ If equal masses $m$ of Liquid $A$ (density $d_1$) and Liquid $B$ (density $d_2$)
 
 ## Linked Practice Questions
 
-- [[cds/physics/notes/properties_of_matter|Properties of Matter & Fluid Mechanics]]
+- [Properties of Matter & Fluid Mechanics](/cds/physics/notes/properties_of_matter)
 
 ---
 
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Overview]]
-- [[cds/physics/notes/properties_of_matter|Properties of Matter Topic Note]]
+- [Physics Overview](/cds/physics/physics_overview)
+- [Properties of Matter Topic Note](/cds/physics/notes/properties_of_matter)

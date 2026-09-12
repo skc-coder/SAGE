@@ -49,17 +49,17 @@ $$\frac{a + b}{a - b} = \frac{c + d}{c - d}$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q1|CDS 2024 Q1: Componendo Dividendo Radical Simplification]]
+- [CDS 2024 Q1: Componendo Dividendo Radical Simplification](/cds/math/notes/questions/q1)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var_ratio1|Nested Componendo-Dividendo Higher Algebraic Invariant]]
+- [Nested Componendo-Dividendo Higher Algebraic Invariant](/cds/math/notes/variations/var_ratio1)
 
 ---
 
 ## Navigation
 
-- Back to Topic: [[cds/math/notes/ratio_proportion|Ratio and Proportion]]
-- Central [[cds/math/question_db|Question Database]]
+- Back to Topic: [Ratio and Proportion](/cds/math/notes/ratio_proportion)
+- Central [Question Database](/cds/math/question_db)

@@ -48,5 +48,5 @@ The value of $0.\bar{6} + 0.\bar{8} + 0.\bar{7}$ is:
 ---
 
 ## Navigation
-- [[cds/math/notes/subtopics/recurring_decimals|Subtopic: Decimal Fractions & Recurring Decimals]]
-- [[cds/math/notes/decimals|Chapter 4: Decimal Fractions]]
+- [Subtopic: Decimal Fractions & Recurring Decimals](/cds/math/notes/subtopics/recurring_decimals)
+- [Chapter 4: Decimal Fractions](/cds/math/notes/decimals)

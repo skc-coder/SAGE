@@ -53,15 +53,15 @@ where $c = 90 = 6 \times 15$ is the scalar multiplier reflecting the product of 
 
 ## Core Methods & Subtopic Index
 
-1. [[cds/math/notes/subtopics/poly_factorization|Polynomial Factorization HCF & LCM]]
+1. [Polynomial Factorization HCF & LCM](/cds/math/notes/subtopics/poly_factorization)
    - Factoring via algebraic identities ($a^3 \pm b^3$, $a^4 - b^4$, Sophie Germain).
    - Numerical coefficient HCF/LCM separation.
 
-2. [[cds/math/notes/subtopics/poly_euclidean_division|Euclidean Division Algorithm for Polynomials]]
+2. [Euclidean Division Algorithm for Polynomials](/cds/math/notes/subtopics/poly_euclidean_division)
    - Successive polynomial division $P(x) = Q(x) q_1(x) + R_1(x)$.
    - Scalar factor removal from intermediate remainders.
 
-3. [[cds/math/notes/subtopics/poly_zero_root|Zero Root Evaluation Method]]
+3. [Zero Root Evaluation Method](/cds/math/notes/subtopics/poly_zero_root)
    - Factor Theorem: $(x - k) \mid P(x) \iff P(k) = 0$.
    - Linear HCF parameter formula: $k = \frac{b-q}{a-p}$ for $x^2+ax+b$ and $x^2+px+q$.
    - Simultaneous parameter systems ($P(x) \pm Q(x)$ sum and difference recovery).
@@ -70,24 +70,24 @@ where $c = 90 = 6 \times 15$ is the scalar multiplier reflecting the product of 
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q29|Q29: Factorable Polynomial LCM]]
-- [[cds/math/notes/questions/q30|Q30: Multi-Polynomial Numerical & Variable HCF]]
-- [[cds/math/notes/questions/q31|Q31: Euclidean Long Division for High-Degree Polynomials]]
-- [[cds/math/notes/questions/q32|Q32: Linear HCF Parameter Evaluation Formula]]
-- [[cds/math/notes/questions/q33|Q33: Simultaneous Dual Quadratic HCF Parameters]]
-- [[cds/math/notes/questions/q34|Q34: Polynomial Recovery from Sum & Difference]]
-- [[cds/math/notes/questions/q35|Q35: Polynomial Recovery from HCF and LCM]]
-- [[cds/math/notes/questions/q36|Q36: Variable Power Trap in Polynomial LCM (PYQ 2013 II)]]
-- [[cds/math/notes/questions/q37|Q37: Exponent HCF & Imaginary Roots Trap (PYQ 2013 II)]]
-- [[cds/math/notes/questions/q38|Q38: Fast HCF Option Root Testing (PYQ 2014 II)]]
+- [Q29: Factorable Polynomial LCM](/cds/math/notes/questions/q29)
+- [Q30: Multi-Polynomial Numerical & Variable HCF](/cds/math/notes/questions/q30)
+- [Q31: Euclidean Long Division for High-Degree Polynomials](/cds/math/notes/questions/q31)
+- [Q32: Linear HCF Parameter Evaluation Formula](/cds/math/notes/questions/q32)
+- [Q33: Simultaneous Dual Quadratic HCF Parameters](/cds/math/notes/questions/q33)
+- [Q34: Polynomial Recovery from Sum & Difference](/cds/math/notes/questions/q34)
+- [Q35: Polynomial Recovery from HCF and LCM](/cds/math/notes/questions/q35)
+- [Q36: Variable Power Trap in Polynomial LCM (PYQ 2013 II)](/cds/math/notes/questions/q36)
+- [Q37: Exponent HCF & Imaginary Roots Trap (PYQ 2013 II)](/cds/math/notes/questions/q37)
+- [Q38: Fast HCF Option Root Testing (PYQ 2014 II)](/cds/math/notes/questions/q38)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var12|Variation 12: Dual Parameter Polynomial HCF]]
-- [[cds/math/notes/variations/var13|Variation 13: Higher Power Sophie Germain Identity HCF]]
-- [[cds/math/notes/variations/var14|Variation 14: Difference of Powers Divisibility Identity]]
+- [Variation 12: Dual Parameter Polynomial HCF](/cds/math/notes/variations/var12)
+- [Variation 13: Higher Power Sophie Germain Identity HCF](/cds/math/notes/variations/var13)
+- [Variation 14: Difference of Powers Divisibility Identity](/cds/math/notes/variations/var14)
 
 ---
 
@@ -117,5 +117,5 @@ pie title Mistake Breakdown
 
 ## Navigation
 
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
-- [[cds/math/question_db|Question Database]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)
+- [Question Database](/cds/math/question_db)

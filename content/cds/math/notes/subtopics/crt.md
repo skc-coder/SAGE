@@ -31,9 +31,9 @@ If $\operatorname{GCD}(m_i, m_j) = 1$ for all $i \neq j$, there exists a **uniqu
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q2|Question 2: Dual Remainder AP Sum]]
+- [Question 2: Dual Remainder AP Sum](/cds/math/notes/questions/q2)
 
 ## Related Theorems & Topics
 
-- [[cds/math/notes/subtopics/flt|Fermat's Little Theorem]]
-- [[cds/math/notes/modular|Modular Arithmetic Topic]]
+- [Fermat's Little Theorem](/cds/math/notes/subtopics/flt)
+- [Modular Arithmetic Topic](/cds/math/notes/modular)

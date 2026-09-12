@@ -28,10 +28,10 @@ A circle is a closed plane figure formed by all points that are equidistant from
 
 ## 2. Subtopics
 
-- [[cds/math/notes/subtopics/chords_theorems|Chords, Angles & Perpendicular Theorems]]
-- [[cds/math/notes/subtopics/tangents_secants|Tangents, Secants & Power of a Point]]
-- [[cds/math/notes/subtopics/cyclic_quadrilateral|Cyclic Quadrilaterals & Ptolemy's Theorem]]
-- [[cds/math/notes/subtopics/circle_locus|Locus & Concentric Circles]]
+- [Chords, Angles & Perpendicular Theorems](/cds/math/notes/subtopics/chords_theorems)
+- [Tangents, Secants & Power of a Point](/cds/math/notes/subtopics/tangents_secants)
+- [Cyclic Quadrilaterals & Ptolemy's Theorem](/cds/math/notes/subtopics/cyclic_quadrilateral)
+- [Locus & Concentric Circles](/cds/math/notes/subtopics/circle_locus)
 
 ---
 
@@ -57,18 +57,18 @@ A circle is a closed plane figure formed by all points that are equidistant from
 
 ## 4. Linked Practice & PYQ Questions
 
-- [[cds/math/notes/questions/q1_circle|Q1: Perpendicular Distance from Centre to Chord]]
-- [[cds/math/notes/questions/q2_circle|Q2: Tangent Length & Secant Power of a Point]]
-- [[cds/math/notes/questions/q3_circle|Q3: Alternate Segment Theorem & Angle Calculation]]
-- [[cds/math/notes/questions/q4_circle|Q4: Cyclic Quadrilateral Exterior & Opposite Angles]]
+- [Q1: Perpendicular Distance from Centre to Chord](/cds/math/notes/questions/q1_circle)
+- [Q2: Tangent Length & Secant Power of a Point](/cds/math/notes/questions/q2_circle)
+- [Q3: Alternate Segment Theorem & Angle Calculation](/cds/math/notes/questions/q3_circle)
+- [Q4: Cyclic Quadrilateral Exterior & Opposite Angles](/cds/math/notes/questions/q4_circle)
 
 ---
 
 ## 5. Variations
 
-- [[cds/math/notes/variations/var24|Variation 24: Direct and Transverse Common Tangent Length Ratios]]
-- [[cds/math/notes/variations/var25|Variation 25: Intersecting Chords & Concentric Annulus Segment Bounds]]
-- [[cds/math/notes/variations/var26|Variation 26: Ptolemy's Theorem in Cyclic Quadrilaterals]]
+- [Variation 24: Direct and Transverse Common Tangent Length Ratios](/cds/math/notes/variations/var24)
+- [Variation 25: Intersecting Chords & Concentric Annulus Segment Bounds](/cds/math/notes/variations/var25)
+- [Variation 26: Ptolemy's Theorem in Cyclic Quadrilaterals](/cds/math/notes/variations/var26)
 
 ---
 
@@ -84,4 +84,4 @@ pie title Circle Difficulty
 ---
 
 ## 7. Navigation
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)

@@ -3,17 +3,17 @@
 ## Active Exams
 
 ### GATE CS
-- [[gate-cs/gate_cs_overview|GATE CS Overview]]
+- [GATE CS Overview](/gate-cs/gate_cs_overview)
 - **Subjects**:
-  - `algorithms`: [[gate-cs/algorithms/algorithms_overview|Algorithms Overview]]
+  - `algorithms`: [Algorithms Overview](/gate-cs/algorithms/algorithms_overview)
   - `theory-of-computation`: Theory of Computation
   - `computer-networks`: Computer Networks
   - `operating-systems`: Operating Systems
   - `dbms`: DBMS
 
 ### CDS
-- [[cds/cds_overview|CDS Overview]]
+- [CDS Overview](/cds/cds_overview)
 - **Subjects**:
-  - `math`: [[cds/math/math_overview|Elementary Mathematics Overview]]
+  - `math`: [Elementary Mathematics Overview](/cds/math/math_overview)
   - `general-knowledge`: General Knowledge
   - `english`: English

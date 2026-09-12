@@ -20,5 +20,5 @@ Find the smallest 4-digit number which when divided by 6, 7, 8, and 9 leaves rem
 > 4. Subtract constant difference 2: $N = 1008 - 2 = 1006$.
 
 ## Navigation
-- [[cds/math/notes/subtopics/lcm_models|Subtopic: LCM Models]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: LCM Models](/cds/math/notes/subtopics/lcm_models)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

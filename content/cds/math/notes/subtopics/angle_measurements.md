@@ -48,11 +48,11 @@ Angle measurement is the foundation of trigonometry. An angle is formed by rotat
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q4|Question 4: Circular Motion Arc Angle]]
-- [[cds/math/notes/questions/q5|Question 5: Clock Hand Angle at 7:35 PM]]
+- [Question 4: Circular Motion Arc Angle](/cds/math/notes/questions/q4)
+- [Question 5: Clock Hand Angle at 7:35 PM](/cds/math/notes/questions/q5)
 
 ---
 
 ## Variations
-- [[cds/math/notes/variations/var1|Variation 1: Clock Hand Overlap & Perpendicularity Times]]
-- [[cds/math/notes/variations/var2|Variation 2: Arc Length Ratio across Concentric Circles]]
+- [Variation 1: Clock Hand Overlap & Perpendicularity Times](/cds/math/notes/variations/var1)
+- [Variation 2: Arc Length Ratio across Concentric Circles](/cds/math/notes/variations/var2)

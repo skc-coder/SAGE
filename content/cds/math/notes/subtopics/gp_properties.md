@@ -33,13 +33,13 @@ $$S_\infty = \frac{a}{1 - r}$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q111|Q111: 4th, 10th, 16th terms of GP]]
-- [[cds/math/notes/questions/q115|Q115: Product of terms of GP with known middle term]]
-- [[cds/math/notes/questions/q116|Q116: Total distance covered by a rebounding ball (Infinite GP)]]
+- [Q111: 4th, 10th, 16th terms of GP](/cds/math/notes/questions/q111)
+- [Q115: Product of terms of GP with known middle term](/cds/math/notes/questions/q115)
+- [Q116: Total distance covered by a rebounding ball (Infinite GP)](/cds/math/notes/questions/q116)
 
 ---
 
 ## Navigation
 
-- [[cds/math/notes/sequence_series|Topic: Sequence and Series]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Topic: Sequence and Series](/cds/math/notes/sequence_series)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

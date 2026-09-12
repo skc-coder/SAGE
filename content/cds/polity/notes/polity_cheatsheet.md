@@ -236,5 +236,5 @@ The **Constitution of India** is the supreme law of the land, adopted on **26th 
 ---
 
 ## Navigation
-- [[cds/polity/polity_overview|Indian Polity Overview]]
-- [[cds/cds_overview|CDS Overview]]
+- [Indian Polity Overview](/cds/polity/polity_overview)
+- [CDS Overview](/cds/cds_overview)

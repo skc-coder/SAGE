@@ -22,5 +22,5 @@ Find the sum of all 2-digit numbers leaving remainder 3 when divided by 5 and re
 > $$S_5 = \frac{5}{2}(13 + 93) = \frac{5}{2}(106) = 5 \times 53 = 265$$
 
 ## Navigation
-- [[cds/math/notes/subtopics/remainders|Subtopic: Remainders]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: Remainders](/cds/math/notes/subtopics/remainders)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

@@ -17,4 +17,4 @@ Cold ocean currents (Humboldt, Benguela, Canary, Atacama) cause desiccation on a
 ---
 
 ## Backlinks
-- [[cds/geography/notes/questions/q8|Kuroshio & Ocean Current Circulation (CAPF 2024)]]
+- [Kuroshio & Ocean Current Circulation (CAPF 2024)](/cds/geography/notes/questions/q8)

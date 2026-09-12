@@ -22,5 +22,5 @@ In finding the HCF of two numbers by division method, the successive quotients f
 > Thus, the two numbers are **1785 and 1995**.
 
 ## Navigation
-- [[cds/math/notes/subtopics/hcf_methods|Subtopic: HCF Methods]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: HCF Methods](/cds/math/notes/subtopics/hcf_methods)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

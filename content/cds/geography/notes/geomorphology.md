@@ -123,6 +123,6 @@ $$\text{Oxygen } (O \approx 46.6\%) > \text{Silicon } (Si \approx 27.7\%) > \tex
 
 ## Navigation
 
-- [[cds/geography/geography_overview|Physical Geography Subject Overview]]
-- [[cds/geography/question_db|Question Database]]
-- [[cds/cds_overview|CDS Exam Master Dashboard]]
+- [Physical Geography Subject Overview](/cds/geography/geography_overview)
+- [Question Database](/cds/geography/question_db)
+- [CDS Exam Master Dashboard](/cds/cds_overview)

@@ -20,4 +20,4 @@ If it is 12:00 Noon at 82.5° E (Indian Standard Time), calculate the exact loca
 ---
 
 ## Backlinks
-- [[cds/geography/notes/questions/q4|International Date Line & GMT Time Difference (CAPF 2024)]]
+- [International Date Line & GMT Time Difference (CAPF 2024)](/cds/geography/notes/questions/q4)

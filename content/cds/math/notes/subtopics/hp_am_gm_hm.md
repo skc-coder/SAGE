@@ -37,13 +37,13 @@ $$A \cdot H = \left(\frac{a+b}{2}\right) \times \left(\frac{2ab}{a+b}\right) = a
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q112|Q112: AP, HP, GP relationship transform]]
-- [[cds/math/notes/questions/q118|Q118: Harmonic Progression interchanged terms invariant]]
-- [[cds/math/notes/questions/q119|Q119: Minimum value of reciprocal sum via AM-GM inequality]]
+- [Q112: AP, HP, GP relationship transform](/cds/math/notes/questions/q112)
+- [Q118: Harmonic Progression interchanged terms invariant](/cds/math/notes/questions/q118)
+- [Q119: Minimum value of reciprocal sum via AM-GM inequality](/cds/math/notes/questions/q119)
 
 ---
 
 ## Navigation
 
-- [[cds/math/notes/sequence_series|Topic: Sequence and Series]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Topic: Sequence and Series](/cds/math/notes/sequence_series)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

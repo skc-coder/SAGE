@@ -77,34 +77,34 @@ where either $r(x) = 0$ or $\deg(r(x)) < \deg(g(x))$.
 
 ## Core Methods & Subtopic Index
 
-1. [[cds/math/notes/subtopics/poly_identities|Algebraic Identity Transformations & Symmetric Expansions]]
+1. [Algebraic Identity Transformations & Symmetric Expansions](/cds/math/notes/subtopics/poly_identities)
    - Multi-variable reciprocal substitutions ($x + 1/x$, $x^2 + 1/x^2$, $x^3 + 1/x^3$).
    - Conditional cubic identity evaluations when $a + b + c = 0$.
 
-2. [[cds/math/notes/subtopics/remainder_factor_theorem|Remainder and Factor Theorem Applications]]
+2. [Remainder and Factor Theorem Applications](/cds/math/notes/subtopics/remainder_factor_theorem)
    - Solving unknown coefficient parameters ($k$) via $P(a) = 0$.
    - Synthetic division and multi-step root factoring.
 
-3. [[cds/math/notes/subtopics/biquadratic_factorization|Quartic & Higher Order Polynomial Factorization]]
+3. [Quartic & Higher Order Polynomial Factorization](/cds/math/notes/subtopics/biquadratic_factorization)
    - Splitting middle terms, perfect square grouping, and biquadratic factoring.
 
 ---
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q48|Q48: Remainder Evaluation via Linear Divisor]]
-- [[cds/math/notes/questions/q49|Q49: Unknown Parameter $k$ via Factor Theorem]]
-- [[cds/math/notes/questions/q50|Q50: Reciprocal Polynomial Powers ($x + 1/x = 5$)]]
-- [[cds/math/notes/questions/q51|Q51: Conditional Cubic Sum ($a+b+c=0 \implies a^3+b^3+c^3 = 3abc$)]]
-- [[cds/math/notes/questions/q52|Q52: Quartic Factorization via Difference of Squares]]
+- [Q48: Remainder Evaluation via Linear Divisor](/cds/math/notes/questions/q48)
+- [Q49: Unknown Parameter $k$ via Factor Theorem](/cds/math/notes/questions/q49)
+- [Q50: Reciprocal Polynomial Powers ($x + 1/x = 5$)](/cds/math/notes/questions/q50)
+- [Q51: Conditional Cubic Sum ($a+b+c=0 \implies a^3+b^3+c^3 = 3abc$)](/cds/math/notes/questions/q51)
+- [Q52: Quartic Factorization via Difference of Squares](/cds/math/notes/questions/q52)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var25|Variation 25: Symmetric Reciprocal High Power Sums ($x^5 + 1/x^5$)]]
-- [[cds/math/notes/variations/var26|Variation 26: Generalized Dual Parameter Factor Theorem System]]
-- [[cds/math/notes/variations/var27|Variation 27: Cyclically Shifted Fractional Symmetric Identity]]
+- [Variation 25: Symmetric Reciprocal High Power Sums ($x^5 + 1/x^5$)](/cds/math/notes/variations/var25)
+- [Variation 26: Generalized Dual Parameter Factor Theorem System](/cds/math/notes/variations/var26)
+- [Variation 27: Cyclically Shifted Fractional Symmetric Identity](/cds/math/notes/variations/var27)
 
 ---
 
@@ -134,5 +134,5 @@ pie title Mistake Breakdown
 
 ## Navigation
 
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
-- [[cds/math/question_db|Question Database]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)
+- [Question Database](/cds/math/question_db)

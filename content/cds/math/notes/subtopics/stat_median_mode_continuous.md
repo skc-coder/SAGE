@@ -50,11 +50,11 @@ where:
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q28_3|Question 28.3: Continuous Grouped Median Computation]]
-- [[cds/math/notes/questions/q28_4|Question 28.4: Modal Class & Mode Evaluation]]
+- [Question 28.3: Continuous Grouped Median Computation](/cds/math/notes/questions/q28_3)
+- [Question 28.4: Modal Class & Mode Evaluation](/cds/math/notes/questions/q28_4)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/statistics|Statistics Topic Page]]
-- [[cds/math/math_overview|Elementary Mathematics]]
+- [Statistics Topic Page](/cds/math/notes/statistics)
+- [Elementary Mathematics](/cds/math/math_overview)

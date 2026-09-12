@@ -38,12 +38,12 @@ $$|\tan\theta + \cot\theta| \ge 2$$
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q14|Question 14: Logarithmic Complementary Product]]
-- [[cds/math/notes/questions/q20_trig|Question 20: Allied Angle Quotient to Tan Formula]]
-- [[cds/math/notes/questions/q26|Question 26: AM-GM Bound on Tan Square and Cot Square]]
+- [Question 14: Logarithmic Complementary Product](/cds/math/notes/questions/q14)
+- [Question 20: Allied Angle Quotient to Tan Formula](/cds/math/notes/questions/q20_trig)
+- [Question 26: AM-GM Bound on Tan Square and Cot Square](/cds/math/notes/questions/q26)
 
 ---
 
 ## Variations
-- [[cds/math/notes/variations/var3|Variation 3: Secant-Tangent Conjugate Reciprocal System]]
-- [[cds/math/notes/variations/var4|Variation 4: Logarithmic Product Telescoping]]
+- [Variation 3: Secant-Tangent Conjugate Reciprocal System](/cds/math/notes/variations/var3)
+- [Variation 4: Logarithmic Product Telescoping](/cds/math/notes/variations/var4)

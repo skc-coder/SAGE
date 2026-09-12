@@ -96,19 +96,19 @@ If $\text{Mean} = \text{Median} = \text{Mode}$, the distribution is perfectly **
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/stat_measures_central_tendency|Measures of Central Tendency]]
-- [[cds/math/notes/subtopics/stat_median_mode_continuous|Continuous Median & Mode Formulas]]
-- [[cds/math/notes/subtopics/stat_empirical_relation|Empirical Relation & Skewness]]
-- [[cds/math/notes/subtopics/stat_variance_dispersion|Dispersion & Variance]]
-- [[cds/math/notes/subtopics/stat_graphical_ogive_pie|Graphical Representation & Ogive Median]]
+- [Measures of Central Tendency](/cds/math/notes/subtopics/stat_measures_central_tendency)
+- [Continuous Median & Mode Formulas](/cds/math/notes/subtopics/stat_median_mode_continuous)
+- [Empirical Relation & Skewness](/cds/math/notes/subtopics/stat_empirical_relation)
+- [Dispersion & Variance](/cds/math/notes/subtopics/stat_variance_dispersion)
+- [Graphical Representation & Ogive Median](/cds/math/notes/subtopics/stat_graphical_ogive_pie)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var28#variation-1-ogive-intersection-and-median-extraction|Variation 1: Ogive Intersection & Median Extraction]]
-- [[cds/math/notes/variations/var28#variation-2-weighted-natural-number-power-means|Variation 2: Weighted Natural Number Power Means]]
-- [[cds/math/notes/variations/var28#variation-3-combined-mean-and-subgroup-variance-reconstruction|Variation 3: Combined Mean & Subgroup Variance Reconstruction]]
+- [Variation 1: Ogive Intersection & Median Extraction](/cds/math/notes/variations/var28#variation-1-ogive-intersection-and-median-extraction)
+- [Variation 2: Weighted Natural Number Power Means](/cds/math/notes/variations/var28#variation-2-weighted-natural-number-power-means)
+- [Variation 3: Combined Mean & Subgroup Variance Reconstruction](/cds/math/notes/variations/var28#variation-3-combined-mean-and-subgroup-variance-reconstruction)
 
 ---
 
@@ -125,5 +125,5 @@ pie title Statistics Difficulty
 ---
 
 ## Navigation
-- [[cds/math/math_overview|Elementary Mathematics]]
-- [[cds/cds_overview|CDS Dashboard]]
+- [Elementary Mathematics](/cds/math/math_overview)
+- [CDS Dashboard](/cds/cds_overview)

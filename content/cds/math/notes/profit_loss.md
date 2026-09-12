@@ -38,30 +38,30 @@ Profit and loss analysis quantifies commercial transactions, cost markups, disco
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/profit_loss_basics|Basic Profit and Loss Invariants]]
-- [[cds/math/notes/subtopics/successive_profit_loss|Successive Profit and Loss Compounding]]
-- [[cds/math/notes/subtopics/equal_sp_transactions|Equal Selling Price Dual Transactions]]
-- [[cds/math/notes/subtopics/dishonest_dealer|Dishonest Dealer and False Weights]]
-- [[cds/math/notes/subtopics/cp_sp_article_equality|Article Count CP-SP Equivalence]]
-- [[cds/math/notes/subtopics/discount_marked_price|Marked Price, Discount and Markup]]
+- [Basic Profit and Loss Invariants](/cds/math/notes/subtopics/profit_loss_basics)
+- [Successive Profit and Loss Compounding](/cds/math/notes/subtopics/successive_profit_loss)
+- [Equal Selling Price Dual Transactions](/cds/math/notes/subtopics/equal_sp_transactions)
+- [Dishonest Dealer and False Weights](/cds/math/notes/subtopics/dishonest_dealer)
+- [Article Count CP-SP Equivalence](/cds/math/notes/subtopics/cp_sp_article_equality)
+- [Marked Price, Discount and Markup](/cds/math/notes/subtopics/discount_marked_price)
 
 ### Linked Practice Questions
-- [[cds/math/notes/questions/q11_1|Q11.1: Cost Price Determination from Fractional Profit]]
-- [[cds/math/notes/questions/q11_2|Q11.2: Selling Price Adjustment for Target Profit]]
-- [[cds/math/notes/questions/q11_3|Q11.3: Resale Chain between Sequential Traders]]
-- [[cds/math/notes/questions/q11_4|Q11.4: Dual Vehicle Sale with Symmetric Profit/Loss]]
-- [[cds/math/notes/questions/q11_5|Q11.5: Asymmetric Dual Sale with Constant Selling Price]]
-- [[cds/math/notes/questions/q11_6|Q11.6: Dishonest Dealer Weight Calculation from Target Profit]]
-- [[cds/math/notes/questions/q11_7|Q11.7: Article Count Equality Profit Percentage]]
-- [[cds/math/notes/questions/q11_8|Q11.8: Target Profit Markup and Discount Relation]]
-- [[cds/math/notes/questions/q11_9|Q11.9: Equivalent Single Discount Series Calculation]]
+- [Q11.1: Cost Price Determination from Fractional Profit](/cds/math/notes/questions/q11_1)
+- [Q11.2: Selling Price Adjustment for Target Profit](/cds/math/notes/questions/q11_2)
+- [Q11.3: Resale Chain between Sequential Traders](/cds/math/notes/questions/q11_3)
+- [Q11.4: Dual Vehicle Sale with Symmetric Profit/Loss](/cds/math/notes/questions/q11_4)
+- [Q11.5: Asymmetric Dual Sale with Constant Selling Price](/cds/math/notes/questions/q11_5)
+- [Q11.6: Dishonest Dealer Weight Calculation from Target Profit](/cds/math/notes/questions/q11_6)
+- [Q11.7: Article Count Equality Profit Percentage](/cds/math/notes/questions/q11_7)
+- [Q11.8: Target Profit Markup and Discount Relation](/cds/math/notes/questions/q11_8)
+- [Q11.9: Equivalent Single Discount Series Calculation](/cds/math/notes/questions/q11_9)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var30|Variation 30: Dual-Stage False Weight & Markup Compounding]]
-- [[cds/math/notes/variations/var31|Variation 31: Multi-Article Mixed SP Invariants & Parity Reversal]]
+- [Variation 30: Dual-Stage False Weight & Markup Compounding](/cds/math/notes/variations/var30)
+- [Variation 31: Multi-Article Mixed SP Invariants & Parity Reversal](/cds/math/notes/variations/var31)
 
 ---
 
@@ -86,5 +86,5 @@ pie title Profit & Loss Difficulty
 ---
 
 ## Navigation
-- [[cds/math/math_overview|Subject Dashboard]]
-- [[cds/cds_overview|CDS Master Dashboard]]
+- [Subject Dashboard](/cds/math/math_overview)
+- [CDS Master Dashboard](/cds/cds_overview)

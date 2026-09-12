@@ -32,10 +32,10 @@ A dishonest trader claims to sell goods at cost price ($\text{SP} = \text{CP}$ p
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q11_6|Q11.6: Dishonest Dealer Weight Calculation from Target Profit]]
+- [Q11.6: Dishonest Dealer Weight Calculation from Target Profit](/cds/math/notes/questions/q11_6)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/profit_loss|Profit & Loss Topic Note]]
-- [[cds/math/math_overview|Subject Dashboard]]
+- [Profit & Loss Topic Note](/cds/math/notes/profit_loss)
+- [Subject Dashboard](/cds/math/math_overview)

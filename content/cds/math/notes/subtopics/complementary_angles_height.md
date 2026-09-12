@@ -25,10 +25,10 @@ If the angles of elevation of the top of a tower of height $h$ from two points o
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q3_heights|Q3: Tower and Building Complementary/Subtended Angle Relationship]]
+- [Q3: Tower and Building Complementary/Subtended Angle Relationship](/cds/math/notes/questions/q3_heights)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/heights_variations#variation-3-complementary-angles-geometric-mean|Variation 3: Complementary Angles Geometric Mean Theorem]]
+- [Variation 3: Complementary Angles Geometric Mean Theorem](/cds/math/notes/variations/heights_variations#variation-3-complementary-angles-geometric-mean)

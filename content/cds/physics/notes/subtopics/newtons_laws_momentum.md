@@ -70,5 +70,5 @@ SI Unit: $\text{N}\cdot\text{s}$ or $\text{kg}\cdot\text{m/s}$.
 
 ## Navigation
 
-- [[cds/physics/notes/mechanics|Mechanics Overview]]
-- [[cds/physics/notes/formulas|Physics Formulas]]
+- [Mechanics Overview](/cds/physics/notes/mechanics)
+- [Physics Formulas](/cds/physics/notes/formulas)

@@ -47,5 +47,5 @@ Since $D$ is the midpoint of $BC$, $BD = \frac{BC}{2} = 5\text{ cm}$.
 ---
 
 ## Related Notes
-- Subtopic Note: [[cds/math/notes/subtopics/pythagoras|Pythagoras & Apollonius Theorems]]
-- Variation Note: [[cds/math/notes/variations/var20|Variation 20: Apollonius Bounds in Obtuse Triangles]]
+- Subtopic Note: [Pythagoras & Apollonius Theorems](/cds/math/notes/subtopics/pythagoras)
+- Variation Note: [Variation 20: Apollonius Bounds in Obtuse Triangles](/cds/math/notes/variations/var20)

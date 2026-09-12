@@ -24,18 +24,18 @@ Set Theory forms the fundamental language of modern mathematics. In competitive 
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/types_of_sets|Types of Sets & Subsets]]
-- [[cds/math/notes/subtopics/set_operations|Set Operations & Algebraic Laws]]
-- [[cds/math/notes/subtopics/venn_and_cardinality|Venn Diagrams & Inclusion-Exclusion]]
-- [[cds/math/notes/subtopics/cartesian_product|Cartesian Product & Ordered Pairs]]
+- [Types of Sets & Subsets](/cds/math/notes/subtopics/types_of_sets)
+- [Set Operations & Algebraic Laws](/cds/math/notes/subtopics/set_operations)
+- [Venn Diagrams & Inclusion-Exclusion](/cds/math/notes/subtopics/venn_and_cardinality)
+- [Cartesian Product & Ordered Pairs](/cds/math/notes/subtopics/cartesian_product)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/vars#variation-1-power-set-element-vs-subset-trap|Variation 1: Power Set Element vs Subset Trap]]
-- [[cds/math/notes/variations/vars#variation-2-algebraic-simplification-of-complex-set-expressions|Variation 2: Algebraic Simplification of Complex Set Expressions]]
-- [[cds/math/notes/variations/vars#variation-3-bounded-optimisation-in-3-variable-venn-diagrams|Variation 3: Bounded Optimisation in 3-Variable Venn Diagrams]]
+- [Variation 1: Power Set Element vs Subset Trap](/cds/math/notes/variations/vars#variation-1-power-set-element-vs-subset-trap)
+- [Variation 2: Algebraic Simplification of Complex Set Expressions](/cds/math/notes/variations/vars#variation-2-algebraic-simplification-of-complex-set-expressions)
+- [Variation 3: Bounded Optimisation in 3-Variable Venn Diagrams](/cds/math/notes/variations/vars#variation-3-bounded-optimisation-in-3-variable-venn-diagrams)
 
 ---
 
@@ -52,5 +52,5 @@ pie title Set Theory Difficulty
 ---
 
 ## Navigation
-- [[cds/math/math_overview|Elementary Mathematics]]
-- [[cds/cds_overview|CDS Dashboard]]
+- [Elementary Mathematics](/cds/math/math_overview)
+- [CDS Dashboard](/cds/cds_overview)

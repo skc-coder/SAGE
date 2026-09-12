@@ -43,5 +43,5 @@ $$E = h \nu = W_0 + K_{\text{max}} = h \nu_0 + \frac{1}{2} m v_{\text{max}}^2$$
 
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Overview]]
-- [[cds/physics/notes/formulas|Master Formulas]]
+- [Physics Overview](/cds/physics/physics_overview)
+- [Master Formulas](/cds/physics/notes/formulas)

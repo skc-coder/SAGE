@@ -373,10 +373,10 @@ $$2\text{NaCl(aq)} + 2\text{H}_2\text{O(l)} \xrightarrow{\text{Electricity}} 2\t
 
 ## Navigation
 
-- [[cds/chemistry/chemistry_overview|Chemistry Overview]]
-- [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter]]
-- [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
-- [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
-- [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
-- [[cds/chemistry/notes/common_names|Ch 05. Common Names & Formulas in Chemistry]]
+- [Chemistry Overview](/cds/chemistry/chemistry_overview)
+- [Ch 01. Classification of Matter](/cds/chemistry/notes/classification_of_matter)
+- [Ch 02. Atoms, Molecules & Atomic Structure](/cds/chemistry/notes/atoms_molecules)
+- [Ch 03. Chemical Reactions & Equations](/cds/chemistry/notes/chemical_reactions)
+- [Ch 04. Acids, Bases and Salts](/cds/chemistry/notes/acids_bases_salts)
+- [Ch 05. Common Names & Formulas in Chemistry](/cds/chemistry/notes/common_names)
 

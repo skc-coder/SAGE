@@ -43,11 +43,11 @@ tags: [cds, general-knowledge, firsts, subtopic]
 
 ## Linked Practice Questions
 
-- [[cds/gk/notes/questions/q1|Q1: First Commander-in-Chief of Indian Army]]
-- [[cds/gk/notes/questions/q2|Q2: National Calendar Foundation]]
+- [Q1: First Commander-in-Chief of Indian Army](/cds/gk/notes/questions/q1)
+- [Q2: National Calendar Foundation](/cds/gk/notes/questions/q2)
 
 ---
 
 ## Variations
 
-- [[cds/gk/notes/variations/vars#variation-3-governor-general-constitutional-transitions|Variation 3: Constitutional Transitions of Governors-General]]
+- [Variation 3: Constitutional Transitions of Governors-General](/cds/gk/notes/variations/vars#variation-3-governor-general-constitutional-transitions)

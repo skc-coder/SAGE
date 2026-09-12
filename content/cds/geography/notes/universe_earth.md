@@ -78,8 +78,8 @@ tags: [cds, geography, physical-geography, cheatsheet]
 
 ## Subtopics & Specialized Questions
 
-- [[cds/geography/notes/subtopics/astronomy_terms|Astronomy Terms & Definitions]]
-- [[cds/geography/notes/subtopics/earth_movements|Earth Movements & Seasons]]
+- [Astronomy Terms & Definitions](/cds/geography/notes/subtopics/astronomy_terms)
+- [Earth Movements & Seasons](/cds/geography/notes/subtopics/earth_movements)
 
 ## Navigation
-- [[cds/geography/geography_overview|Geography Overview]]
+- [Geography Overview](/cds/geography/geography_overview)

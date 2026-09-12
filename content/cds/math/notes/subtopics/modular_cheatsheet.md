@@ -76,5 +76,5 @@ a^{\phi(m)} \equiv 1 \pmod m & & a^{p-1} \equiv 1 \pmod p
 ---
 
 ## Navigation
-- [[cds/math/notes/modular|Modular Arithmetic Main Topic Note]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Modular Arithmetic Main Topic Note](/cds/math/notes/modular)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

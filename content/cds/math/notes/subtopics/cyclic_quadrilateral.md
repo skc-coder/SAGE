@@ -41,10 +41,10 @@ $$\text{Area} = \sqrt{(s-a)(s-b)(s-c)(s-d)}$$
 
 ## 2. Linked Practice Questions
 
-- [[cds/math/notes/questions/q4_circle|Q4: Cyclic Quadrilateral Exterior & Opposite Angles]]
+- [Q4: Cyclic Quadrilateral Exterior & Opposite Angles](/cds/math/notes/questions/q4_circle)
 
 ---
 
 ## 3. Variations
 
-- [[cds/math/notes/variations/var26|Variation 26: Ptolemy's Theorem in Cyclic Quadrilaterals]]
+- [Variation 26: Ptolemy's Theorem in Cyclic Quadrilaterals](/cds/math/notes/variations/var26)

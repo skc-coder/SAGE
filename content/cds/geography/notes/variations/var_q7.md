@@ -21,4 +21,4 @@ Match Landform to Process:
 ---
 
 ## Backlinks
-- [[cds/geography/notes/questions/q7|Cirque vs Fjords Landform Classification (CDS 2 2025)]]
+- [Cirque vs Fjords Landform Classification (CDS 2 2025)](/cds/geography/notes/questions/q7)

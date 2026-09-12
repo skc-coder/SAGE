@@ -73,12 +73,12 @@ By Lagrange's Theorem: $3^6 \equiv \mathbf{1 \pmod 7}$.
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q11|Question 11: Modular Fast Power Reduction]]
-- [[cds/math/notes/questions/q13|Question 13: Large Exponent Modulo Prime (2^1000 mod 17)]]
-- [[cds/math/notes/questions/q14|Question 14: Sum of Powers Modulo Prime]]
+- [Question 11: Modular Fast Power Reduction](/cds/math/notes/questions/q11)
+- [Question 13: Large Exponent Modulo Prime (2^1000 mod 17)](/cds/math/notes/questions/q13)
+- [Question 14: Sum of Powers Modulo Prime](/cds/math/notes/questions/q14)
 
 ## Related Theorems & Topics
 
-- [[cds/math/notes/subtopics/crt|Chinese Remainder Theorem]]
-- [[cds/math/notes/subtopics/wilson|Wilson's Theorem]]
-- [[cds/math/notes/modular|Modular Arithmetic Topic]]
+- [Chinese Remainder Theorem](/cds/math/notes/subtopics/crt)
+- [Wilson's Theorem](/cds/math/notes/subtopics/wilson)
+- [Modular Arithmetic Topic](/cds/math/notes/modular)

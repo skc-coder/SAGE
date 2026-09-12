@@ -17,12 +17,12 @@ If a number $N$ leaves remainder $r_1$ when divided by $m_1$, and remainder $r_2
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions#question-2-q26-dual-remainder-ap-sum|Question 2 (Q26)]]
+- [Question 2 (Q26)](/cds/math/notes/questions#question-2-q26-dual-remainder-ap-sum)
 
 ## Variations
 
-- [[cds/math/notes/variations/vars#variation-7-ap-sum-with-dual-remainders|Variation 7: Dual Remainder AP Sum]]
+- [Variation 7: Dual Remainder AP Sum](/cds/math/notes/variations/vars#variation-7-ap-sum-with-dual-remainders)
 
 ## Navigation
 
-- [[cds/math/notes/numbers|Number System]]
+- [Number System](/cds/math/notes/numbers)

@@ -20,4 +20,4 @@ Both statements are CORRECT!
 ---
 
 ## Backlinks
-- [[cds/geography/notes/questions/q5|Seismic Wave Properties & S-Wave Shadow Zone (CAPF 2021)]]
+- [Seismic Wave Properties & S-Wave Shadow Zone (CAPF 2021)](/cds/geography/notes/questions/q5)

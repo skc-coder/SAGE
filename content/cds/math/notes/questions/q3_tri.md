@@ -42,5 +42,5 @@ $$\frac{\text{Area}(\Delta ABC)}{\text{Area}(\Delta DEF)} = \left(\frac{BC}{EF}\
 ---
 
 ## Related Notes
-- Subtopic Note: [[cds/math/notes/subtopics/similarity|Similarity of Triangles]]
-- Variation Note: [[cds/math/notes/variations/var18|Variation 18: Thales Parallel Segment & Trapezium Area Split]]
+- Subtopic Note: [Similarity of Triangles](/cds/math/notes/subtopics/similarity)
+- Variation Note: [Variation 18: Thales Parallel Segment & Trapezium Area Split](/cds/math/notes/variations/var18)

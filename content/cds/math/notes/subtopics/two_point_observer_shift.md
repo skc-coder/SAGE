@@ -29,12 +29,12 @@ Let the initial distance from the tower base be $x_1$ and final distance be $x_2
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q2_heights|Q2: Light House Depression Angles on Opposite Sides]]
-- [[cds/math/notes/questions/q5_heights|Q5: Shadow Length Variation with Sun Altitude Change]]
-- [[cds/math/notes/questions/q7_heights|Q7: Speed of Aeroplane Changing Elevation in Time Interval]]
+- [Q2: Light House Depression Angles on Opposite Sides](/cds/math/notes/questions/q2_heights)
+- [Q5: Shadow Length Variation with Sun Altitude Change](/cds/math/notes/questions/q5_heights)
+- [Q7: Speed of Aeroplane Changing Elevation in Time Interval](/cds/math/notes/questions/q7_heights)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/heights_variations#variation-2-two-point-shift-along-straight-line|Variation 2: Two-Point Observer Shift Along Line]]
+- [Variation 2: Two-Point Observer Shift Along Line](/cds/math/notes/variations/heights_variations#variation-2-two-point-shift-along-straight-line)

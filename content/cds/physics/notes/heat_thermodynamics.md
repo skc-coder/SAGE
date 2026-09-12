@@ -56,5 +56,5 @@ Temperature is the quantitative measure of average kinetic energy of molecules.
 
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Overview]]
-- [[cds/physics/notes/formulas|Master Formulas]]
+- [Physics Overview](/cds/physics/physics_overview)
+- [Master Formulas](/cds/physics/notes/formulas)

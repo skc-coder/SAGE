@@ -32,12 +32,12 @@ $$\frac{1}{10} = 10\%$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q146|Q146: Direct Percentage Equivalence of Variables]]
-- [[cds/math/notes/questions/q147|Q147: Reconstruct Number from Percentage Addition]]
-- [[cds/math/notes/questions/q148|Q148: Variable Percentage Identity Equation]]
+- [Q146: Direct Percentage Equivalence of Variables](/cds/math/notes/questions/q146)
+- [Q147: Reconstruct Number from Percentage Addition](/cds/math/notes/questions/q147)
+- [Q148: Variable Percentage Identity Equation](/cds/math/notes/questions/q148)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var28|Successive Price Increase and Decrease Net Effect]]
+- [Successive Price Increase and Decrease Net Effect](/cds/math/notes/variations/var28)

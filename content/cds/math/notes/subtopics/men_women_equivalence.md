@@ -46,10 +46,10 @@ $$\frac{m}{b} = \frac{d_2 b_2 - d_1 b_1}{d_1 a_1 - d_2 a_2}$$
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q17|Q17: Men & Boys Equivalence System]]
+- [Q17: Men & Boys Equivalence System](/cds/math/notes/questions/q17)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/work|Time and Work Topic]]
-- [[cds/math/math_overview|Subject Dashboard]]
+- [Time and Work Topic](/cds/math/notes/work)
+- [Subject Dashboard](/cds/math/math_overview)

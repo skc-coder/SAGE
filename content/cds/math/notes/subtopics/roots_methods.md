@@ -30,7 +30,7 @@ The square root of a non-negative real number $x$, denoted $\sqrt{x}$, is the un
 
 1. **Prime Factorization Method**: Express the number as a product of prime powers:
    $$n = p_1^{2a_1} p_2^{2a_2} \dots p_k^{2a_k} \implies \sqrt{n} = p_1^{a_1} p_2^{a_2} \dots p_k^{a_k}$$
-2. **[[cds/math/notes/subtopics/long_division_method|Long Division Method]]**: Group digits into periods of two from right to left (for integer part) and left to right (for decimal part), finding maximal quotient digits iteratively. See dedicated atomic proof & intuition note: [[cds/math/notes/subtopics/long_division_method|Long Division Method Detailed Proof & Intuition]].
+2. **[Long Division Method](/cds/math/notes/subtopics/long_division_method)**: Group digits into periods of two from right to left (for integer part) and left to right (for decimal part), finding maximal quotient digits iteratively. See dedicated atomic proof & intuition note: [Long Division Method Detailed Proof & Intuition](/cds/math/notes/subtopics/long_division_method).
 
 ---
 
@@ -43,10 +43,10 @@ The square root of a non-negative real number $x$, denoted $\sqrt{x}$, is the un
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q5_1|Q1: Decimal Root Simplification Ratio]]
-- [[cds/math/notes/questions/q5_2|Q2: Smallest 4-Digit Perfect Square]]
-- [[cds/math/notes/questions/q5_3|Q3: NDA 2016 I Q48 - Nested Radical C&D]]
+- [Q1: Decimal Root Simplification Ratio](/cds/math/notes/questions/q5_1)
+- [Q2: Smallest 4-Digit Perfect Square](/cds/math/notes/questions/q5_2)
+- [Q3: NDA 2016 I Q48 - Nested Radical C&D](/cds/math/notes/questions/q5_3)
 
 ## Variations
 
-- [[cds/math/notes/variations/var5|Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)]]
+- [Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)](/cds/math/notes/variations/var5)

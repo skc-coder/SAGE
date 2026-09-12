@@ -30,4 +30,4 @@ Let initial Price $= 100$, initial Consumption $= 100 \implies$ initial Expendit
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q150|Q150: Cooking Gas Price Increase and Consumption Reduction]]
+- [Q150: Cooking Gas Price Increase and Consumption Reduction](/cds/math/notes/questions/q150)

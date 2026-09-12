@@ -26,10 +26,10 @@ A polygon is a closed plane figure bounded by $n$ straight line segments ($n \ge
 
 ## 2. Subtopics
 
-- [[cds/math/notes/subtopics/parallelogram|Parallelogram Properties & Centroids]]
-- [[cds/math/notes/subtopics/special_parallelograms|Rectangle, Rhombus & Square]]
-- [[cds/math/notes/subtopics/trapezium|Trapezium & Isosceles Trapezium]]
-- [[cds/math/notes/subtopics/polygons|Polygons & Regular Polygon Formulas]]
+- [Parallelogram Properties & Centroids](/cds/math/notes/subtopics/parallelogram)
+- [Rectangle, Rhombus & Square](/cds/math/notes/subtopics/special_parallelograms)
+- [Trapezium & Isosceles Trapezium](/cds/math/notes/subtopics/trapezium)
+- [Polygons & Regular Polygon Formulas](/cds/math/notes/subtopics/polygons)
 
 ---
 
@@ -54,17 +54,17 @@ A polygon is a closed plane figure bounded by $n$ straight line segments ($n \ge
 
 ## 4. Linked Practice & PYQ Questions
 
-- [[cds/math/notes/questions/q1_quad|Q1: Trapezium Diagonal Length Identity (Euler Identity)]]
-- [[cds/math/notes/questions/q2_quad|Q2: British Flag Theorem in Rectangle]]
-- [[cds/math/notes/questions/q3_quad|Q3: Regular Hexagon Area and Sub-Triangle Ratio]]
+- [Q1: Trapezium Diagonal Length Identity (Euler Identity)](/cds/math/notes/questions/q1_quad)
+- [Q2: British Flag Theorem in Rectangle](/cds/math/notes/questions/q2_quad)
+- [Q3: Regular Hexagon Area and Sub-Triangle Ratio](/cds/math/notes/questions/q3_quad)
 
 ---
 
 ## 5. Variations
 
-- [[cds/math/notes/variations/var23|Variation 21: Trapezium Diagonal Intersection & Area Split Formula]]
-- [[cds/math/notes/variations/var23|Variation 22: Midpoint Quadrilateral Area & Perimeter Bounds]]
-- [[cds/math/notes/variations/var23|Variation 23: Regular n-gon Diagonal Intersection Count]]
+- [Variation 21: Trapezium Diagonal Intersection & Area Split Formula](/cds/math/notes/variations/var23)
+- [Variation 22: Midpoint Quadrilateral Area & Perimeter Bounds](/cds/math/notes/variations/var23)
+- [Variation 23: Regular n-gon Diagonal Intersection Count](/cds/math/notes/variations/var23)
 
 ---
 
@@ -80,4 +80,4 @@ pie title Quadrilateral Difficulty
 ---
 
 ## 7. Navigation
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)

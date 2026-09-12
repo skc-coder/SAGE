@@ -21,13 +21,13 @@ Decimal fractions are fractions whose denominators can be expressed as powers of
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/recurring_decimals|Decimal Fractions & Recurring Decimals]]
+- [Decimal Fractions & Recurring Decimals](/cds/math/notes/subtopics/recurring_decimals)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/vars#variation-recurring-decimal-algebra|Variation: Algebraic Operations on Repeating Periods]]
+- [Variation: Algebraic Operations on Repeating Periods](/cds/math/notes/variations/vars#variation-recurring-decimal-algebra)
 
 ---
 
@@ -44,4 +44,4 @@ pie title Decimals Difficulty
 
 ## Navigation
 
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)

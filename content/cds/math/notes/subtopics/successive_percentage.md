@@ -32,10 +32,10 @@ $$\text{Net Change \%} = x - x + \frac{x(-x)}{100} = -\frac{x^2}{100}\%$$
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q151|Q151: Sequential Increase and Decrease Net Percentage Change]]
+- [Q151: Sequential Increase and Decrease Net Percentage Change](/cds/math/notes/questions/q151)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var28|Successive Price Increase and Decrease Net Effect]]
+- [Successive Price Increase and Decrease Net Effect](/cds/math/notes/variations/var28)

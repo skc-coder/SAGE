@@ -44,29 +44,29 @@ Because if two numbers have same remainders when divided by a number then their 
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q5|Question 5: HCF of Large Differences]]
-- [[cds/math/notes/questions/q6|Question 6: Co-Prime Pair Counting Given Sum & HCF]]
-- [[cds/math/notes/questions/q16|Question 16: HCF of 3 Numbers via Long Division (204, 1190, 1445)]]
-- [[cds/math/notes/questions/q17|Question 17: Greatest Number Leaving Different Remainders (CDS 2014 I)]]
-- [[cds/math/notes/questions/q18|Question 18: HCF of (a + b) and (a - b) for Co-prime (a, b) (CDS 2014 I)]]
-- [[cds/math/notes/questions/q20|Question 20: Greatest Common Divisor with Same Remainder 17 (CDS 2012 II)]]
-- [[cds/math/notes/questions/q21|Question 21: Measuring Vessel Maximum Capacity (Drums Problem)]]
-- [[cds/math/notes/questions/q23|Question 23: Algebraic Factor HCF (a^2 b^4 + 2a^2 b^2 and (ab)^7 - 4a^2 b^9)]]
-- [[cds/math/notes/questions/q24|Question 24: HCF of Linear Expressions m = 2n + 1 and k = 9n + 4]]
-- [[cds/math/notes/questions/q25|Question 25: Number of Possible Pair Sets Given Product & HCF (CDS 2014 II)]]
-- [[cds/math/notes/questions/q27|Question 27: Homogeneity Property HCF(a/c, b/c) for HCF(a,b) = c]]
-- [[cds/math/notes/questions/q28|Question 28: Algebraic Identities of HCF & LCM (CDS 2016 I)]]
+- [Question 5: HCF of Large Differences](/cds/math/notes/questions/q5)
+- [Question 6: Co-Prime Pair Counting Given Sum & HCF](/cds/math/notes/questions/q6)
+- [Question 16: HCF of 3 Numbers via Long Division (204, 1190, 1445)](/cds/math/notes/questions/q16)
+- [Question 17: Greatest Number Leaving Different Remainders (CDS 2014 I)](/cds/math/notes/questions/q17)
+- [Question 18: HCF of (a + b) and (a - b) for Co-prime (a, b) (CDS 2014 I)](/cds/math/notes/questions/q18)
+- [Question 20: Greatest Common Divisor with Same Remainder 17 (CDS 2012 II)](/cds/math/notes/questions/q20)
+- [Question 21: Measuring Vessel Maximum Capacity (Drums Problem)](/cds/math/notes/questions/q21)
+- [Question 23: Algebraic Factor HCF (a^2 b^4 + 2a^2 b^2 and (ab)^7 - 4a^2 b^9)](/cds/math/notes/questions/q23)
+- [Question 24: HCF of Linear Expressions m = 2n + 1 and k = 9n + 4](/cds/math/notes/questions/q24)
+- [Question 25: Number of Possible Pair Sets Given Product & HCF (CDS 2014 II)](/cds/math/notes/questions/q25)
+- [Question 27: Homogeneity Property HCF(a/c, b/c) for HCF(a,b) = c](/cds/math/notes/questions/q27)
+- [Question 28: Algebraic Identities of HCF & LCM (CDS 2016 I)](/cds/math/notes/questions/q28)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var8|Variation 8: HCF via Successive Quotients]]
-- [[cds/math/notes/variations/var9|Variation 9: Co-prime Pairs Given Product & HCF]]
+- [Variation 8: HCF via Successive Quotients](/cds/math/notes/variations/var8)
+- [Variation 9: Co-prime Pairs Given Product & HCF](/cds/math/notes/variations/var9)
 
 ---
 
 ## Navigation
 
-- [[cds/math/notes/hcf_lcm|HCF and LCM Topic Page]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [HCF and LCM Topic Page](/cds/math/notes/hcf_lcm)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

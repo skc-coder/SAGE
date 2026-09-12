@@ -182,17 +182,17 @@ Lassaigne's Test (Sodium Fusion Test) is used to detect extra elements (**Nitrog
 
 
 ---
-![[Pasted image 20260909180437.png]]
+![Pasted Image 20260909180437.Png](/Pasted image 20260909180437.png)
 not easter. its oxalic acids. aceitc/ethonic and methonic/formic acid.
-![[Pasted image 20260909175903.png]]![[Pasted image 20260909175906.png]]![[Pasted image 20260909175914.png]]![[Pasted image 20260909175930.png]]
+![Pasted Image 20260909175903.Png](/Pasted image 20260909175903.png)![Pasted Image 20260909175906.Png](/Pasted image 20260909175906.png)![Pasted Image 20260909175914.Png](/Pasted image 20260909175914.png)![Pasted Image 20260909175930.Png](/Pasted image 20260909175930.png)
 https://youtu.be/u3tcco6d4wo?t=31616
 ## Navigation
 
-- [[cds/chemistry/chemistry_overview|Chemistry Overview]]
-- [[cds/chemistry/notes/classification_of_matter|Ch 01. Classification of Matter]]
-- [[cds/chemistry/notes/atoms_molecules|Ch 02. Atoms, Molecules & Atomic Structure]]
-- [[cds/chemistry/notes/chemical_reactions|Ch 03. Chemical Reactions & Equations]]
-- [[cds/chemistry/notes/acids_bases_salts|Ch 04. Acids, Bases and Salts]]
-- [[cds/chemistry/notes/metals_nonmetals|Ch 05. Metals and Non-Metals]]
-- [[cds/chemistry/notes/carbon_compounds|Ch 06. Carbon and Its Compounds]]
-- [[cds/chemistry/notes/common_names|Ch 07. Common Names & Formulas in Chemistry]]
+- [Chemistry Overview](/cds/chemistry/chemistry_overview)
+- [Ch 01. Classification of Matter](/cds/chemistry/notes/classification_of_matter)
+- [Ch 02. Atoms, Molecules & Atomic Structure](/cds/chemistry/notes/atoms_molecules)
+- [Ch 03. Chemical Reactions & Equations](/cds/chemistry/notes/chemical_reactions)
+- [Ch 04. Acids, Bases and Salts](/cds/chemistry/notes/acids_bases_salts)
+- [Ch 05. Metals and Non-Metals](/cds/chemistry/notes/metals_nonmetals)
+- [Ch 06. Carbon and Its Compounds](/cds/chemistry/notes/carbon_compounds)
+- [Ch 07. Common Names & Formulas in Chemistry](/cds/chemistry/notes/common_names)

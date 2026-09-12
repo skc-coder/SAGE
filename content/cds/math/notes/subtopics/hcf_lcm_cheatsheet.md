@@ -51,5 +51,5 @@ For canonical prime factorizations $A = p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$ an
 ---
 
 ## Navigation
-- [[cds/math/notes/hcf_lcm|HCF and LCM Main Topic Note]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [HCF and LCM Main Topic Note](/cds/math/notes/hcf_lcm)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

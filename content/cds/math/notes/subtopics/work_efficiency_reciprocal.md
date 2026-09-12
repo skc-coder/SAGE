@@ -52,16 +52,16 @@ Let Person $A$ take $x$ days and Person $B$ take $y$ days to complete a unit job
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q21|Q21: Alternating Work Cycle & Clock Completion]]
-- [[cds/math/notes/questions/q38|Q38: Relative Efficiency & Difference in Days]]
+- [Q21: Alternating Work Cycle & Clock Completion](/cds/math/notes/questions/q21)
+- [Q38: Relative Efficiency & Difference in Days](/cds/math/notes/questions/q38)
 
 ---
 
 ## Variations
-- [[cds/math/notes/variations/var24|Variation 24: Dynamic Non-Linear Fatigue & Variable Efficiency Cycle]]
+- [Variation 24: Dynamic Non-Linear Fatigue & Variable Efficiency Cycle](/cds/math/notes/variations/var24)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/work|Time and Work Topic]]
-- [[cds/math/math_overview|Subject Dashboard]]
+- [Time and Work Topic](/cds/math/notes/work)
+- [Subject Dashboard](/cds/math/math_overview)

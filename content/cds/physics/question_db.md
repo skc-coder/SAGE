@@ -18,5 +18,5 @@ SORT file.name ASC
 
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Overview]]
-- [[cds/physics/notes/formulas|Master Formulas]]
+- [Physics Overview](/cds/physics/physics_overview)
+- [Master Formulas](/cds/physics/notes/formulas)

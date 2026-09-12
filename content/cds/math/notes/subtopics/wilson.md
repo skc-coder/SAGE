@@ -19,9 +19,9 @@ $$\mathbf{(p - 1)! \equiv -1 \pmod p} \quad \text{or} \quad \mathbf{(p - 1)! + 1
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q15|Question 15: Wilson's Theorem Companion (12! + 2 mod 13)]]
+- [Question 15: Wilson's Theorem Companion (12! + 2 mod 13)](/cds/math/notes/questions/q15)
 
 ## Related Theorems & Topics
 
-- [[cds/math/notes/subtopics/flt|Fermat's Little Theorem]]
-- [[cds/math/notes/modular|Modular Arithmetic Topic]]
+- [Fermat's Little Theorem](/cds/math/notes/subtopics/flt)
+- [Modular Arithmetic Topic](/cds/math/notes/modular)

@@ -28,11 +28,11 @@ When observing an opposite structure of height $H$ from a window/balcony at heig
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q8_heights|Q8: Person Trajectory Stone Throw to Hit Fruit]]
-- [[cds/math/notes/questions/q10_heights|Q10: Window Height Opposite Building Elevation and Depression]]
+- [Q8: Person Trajectory Stone Throw to Hit Fruit](/cds/math/notes/questions/q8_heights)
+- [Q10: Window Height Opposite Building Elevation and Depression](/cds/math/notes/questions/q10_heights)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/heights_variations#variation-5-window-level-opposite-building-height|Variation 5: Window-Level Opposite Building Elevation/Depression]]
+- [Variation 5: Window-Level Opposite Building Elevation/Depression](/cds/math/notes/variations/heights_variations#variation-5-window-level-opposite-building-height)

@@ -56,17 +56,17 @@ For any valid proportion $\frac{a}{b} = \frac{c}{d}$:
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/cd_property|Componendo and Dividendo Theorem & Algebraic Invariants]]
-- [[cds/math/notes/subtopics/mean_proportional|Mean, Third, and Fourth Proportionals]]
-- [[cds/math/notes/subtopics/variation_proportionality|Direct, Inverse, and Joint Variation]]
-- [[cds/math/notes/subtopics/mixture_replacement|Mixtures, Replacement Ratios, and Income-Expenditure Systems]]
+- [Componendo and Dividendo Theorem & Algebraic Invariants](/cds/math/notes/subtopics/cd_property)
+- [Mean, Third, and Fourth Proportionals](/cds/math/notes/subtopics/mean_proportional)
+- [Direct, Inverse, and Joint Variation](/cds/math/notes/subtopics/variation_proportionality)
+- [Mixtures, Replacement Ratios, and Income-Expenditure Systems](/cds/math/notes/subtopics/mixture_replacement)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var_ratio1|Nested Componendo-Dividendo Higher Algebraic Invariant]]
-- [[cds/math/notes/variations/var_ratio2|Multi-Stage Iterative Mixture Replacement Formula]]
+- [Nested Componendo-Dividendo Higher Algebraic Invariant](/cds/math/notes/variations/var_ratio1)
+- [Multi-Stage Iterative Mixture Replacement Formula](/cds/math/notes/variations/var_ratio2)
 
 ---
 
@@ -84,5 +84,5 @@ pie title Ratio Subtopics Difficulty
 
 ## Navigation
 
-- Back to [[cds/math/math_overview|Subject Overview]]
-- Central [[cds/math/question_db|Question Database]]
+- Back to [Subject Overview](/cds/math/math_overview)
+- Central [Question Database](/cds/math/question_db)

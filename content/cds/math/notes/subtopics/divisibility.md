@@ -29,15 +29,15 @@ Since $7 \times 11 \times 13 = 1001 \equiv -1 \pmod{1000}$, alternating sum of 3
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q3|Question 3: Even Integer Divisibility]]
-- [[cds/math/notes/questions/q4|Question 4: 3-Digit Numbers Ending in 7 Divisible by 11]]
+- [Question 3: Even Integer Divisibility](/cds/math/notes/questions/q3)
+- [Question 4: 3-Digit Numbers Ending in 7 Divisible by 11](/cds/math/notes/questions/q4)
 
 ## Variations
 
-- [[cds/math/notes/variations/var4|Variation 4: 1001 Principle]]
-- [[cds/math/notes/variations/var5|Variation 5: Finding Unknown Digit k]]
-- [[cds/math/notes/variations/var6|Variation 6: Repunit Modulo 13]]
+- [Variation 4: 1001 Principle](/cds/math/notes/variations/var4)
+- [Variation 5: Finding Unknown Digit k](/cds/math/notes/variations/var5)
+- [Variation 6: Repunit Modulo 13](/cds/math/notes/variations/var6)
 
 ## Navigation
 
-- [[cds/math/notes/numbers|Number System]]
+- [Number System](/cds/math/notes/numbers)

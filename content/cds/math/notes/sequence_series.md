@@ -151,15 +151,15 @@ For any two positive real numbers $a$ and $b$:
 
 ## Subtopics & Core Models
 
-- [[cds/math/notes/subtopics/ap_properties|AP General Terms, Sums & Arithmetic Means]]
-- [[cds/math/notes/subtopics/gp_properties|GP Infinite Sums & Geometric Means]]
-- [[cds/math/notes/subtopics/hp_am_gm_hm|HP Properties & AM-GM-HM Fundamental Inequalities]]
+- [AP General Terms, Sums & Arithmetic Means](/cds/math/notes/subtopics/ap_properties)
+- [GP Infinite Sums & Geometric Means](/cds/math/notes/subtopics/gp_properties)
+- [HP Properties & AM-GM-HM Fundamental Inequalities](/cds/math/notes/subtopics/hp_am_gm_hm)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/vars|Ch 2 Sequence and Series Variations]]
+- [Ch 2 Sequence and Series Variations](/cds/math/notes/variations/vars)
 
 ---
 
@@ -189,5 +189,5 @@ pie title Mistake Breakdown
 
 ## Navigation
 
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
-- [[cds/math/question_db|Question Database]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)
+- [Question Database](/cds/math/question_db)

@@ -48,5 +48,5 @@ In $\Delta ABC$, $AD$ is a median and $E$ is the midpoint of $AD$. Line $BE$ ext
 ---
 
 ## Linked Notes
-- [[cds/math/notes/subtopics/centers|Centers of Triangles]]
-- [[cds/math/notes/questions/q1_tri|Q1: Angle Bisector Ratio & Area Distribution]]
+- [Centers of Triangles](/cds/math/notes/subtopics/centers)
+- [Q1: Angle Bisector Ratio & Area Distribution](/cds/math/notes/questions/q1_tri)

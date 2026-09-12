@@ -25,11 +25,11 @@ $$\frac{V \cdot \frac{x}{100}}{V + A} = \frac{y}{100} \implies V \cdot x = y(V +
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q154|Q154: Solution Evaporation Sugar Concentration]]
-- [[cds/math/notes/questions/q155|Q155: Adulterated Glycerine Impurity Reduction]]
+- [Q154: Solution Evaporation Sugar Concentration](/cds/math/notes/questions/q154)
+- [Q155: Adulterated Glycerine Impurity Reduction](/cds/math/notes/questions/q155)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var31|Solution Evaporation and Solute Concentration Maintenance]]
+- [Solution Evaporation and Solute Concentration Maintenance](/cds/math/notes/variations/var31)

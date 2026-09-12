@@ -407,6 +407,6 @@ Here is a targeted selection of unique questions covering every major concept:
 
 ## Summary of Accomplishments
 1. **Extracted Chapter 18** from CDS Pathfinder PDF using pypdf outline bookmarks.
-2. **Built Topic & Subtopic Mindmap** and written structured notes in Obsidian/Quarto format at [Chapter 18 Note](file:///home/skc/dev/SAGE/content/notes/mathematics/ch18_quadratic_equations_and_inequalities.md).
+2. **Built Topic & Subtopic Mindmap** and written structured notes in Obsidian/Quarto format at [Chapter 18 Note](/file:///home/skc/dev/SAGE/content/notes/mathematics/ch18_quadratic_equations_and_inequalities).
 3. **Categorized all 120 Questions** into 6 distinct problem-solving patterns.
 4. **Selected & Solved 12 Benchmark Questions** covering every core theorem and shortcut rule.

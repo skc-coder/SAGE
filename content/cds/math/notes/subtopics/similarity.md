@@ -64,11 +64,11 @@ In right-angled triangle $\Delta ABC$ ($\angle A = 90^\circ$) with altitude $AD 
 
 ## 6. Linked Practice Questions
 
-- [[cds/math/notes/questions/q1_tri|Q1: Angle Bisector Ratio & Area Distribution]]
-- [[cds/math/notes/questions/q3_tri|Q3: Similar Triangle Area Ratio & Altitude Theorem]]
+- [Q1: Angle Bisector Ratio & Area Distribution](/cds/math/notes/questions/q1_tri)
+- [Q3: Similar Triangle Area Ratio & Altitude Theorem](/cds/math/notes/questions/q3_tri)
 
 ---
 
 ## 7. Variations
 
-- [[cds/math/notes/variations/var18|Variation 18: Thales Parallel Segment & Trapezium Area Split]]
+- [Variation 18: Thales Parallel Segment & Trapezium Area Split](/cds/math/notes/variations/var18)

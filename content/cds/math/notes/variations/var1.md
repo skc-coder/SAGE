@@ -20,5 +20,5 @@ If $\frac{x}{3} = \frac{y}{7} = \frac{z}{11} = \frac{w}{15}$, find the value of 
 > $$\frac{2(3) + 3(7) + 11}{15 - 7} = \frac{6 + 21 + 11}{8} = \frac{38}{8} = 4.75$$
 
 ## Navigation
-- [[cds/math/notes/subtopics/ratios|Subtopic: Ratios and Proportions]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: Ratios and Proportions](/cds/math/notes/subtopics/ratios)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

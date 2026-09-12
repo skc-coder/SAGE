@@ -25,8 +25,8 @@ $$\frac{1}{a-b} + \frac{1}{a+b} = \frac{(a+b)+(a-b)}{a^2-b^2} = \frac{2a}{a^2-b^
 * **Step 3**: The series collapses term-by-term into a single irreducible fraction.
 
 > **Related Questions & Variations**:
-> * [[cds/math/notes/questions/q19_telescoping|Question 19 (CDS 2014 II - Pathfinder Ch 16)]]
-> * [[cds/math/notes/variations/var16|Variation 16: Infinite Product-Sum Telescoping Series]]
+> * [Question 19 (CDS 2014 II - Pathfinder Ch 16)](/cds/math/notes/questions/q19_telescoping)
+> * [Variation 16: Infinite Product-Sum Telescoping Series](/cds/math/notes/variations/var16)
 
 ---
 
@@ -45,5 +45,5 @@ To evaluate the shifted form $\frac{1}{x+1} + \frac{2}{y+2} + \frac{1009}{z+1009
 Summing across all terms transforms the original sum directly into the target expression without solving for individual variables $x, y, z$.
 
 > **Related Questions & Variations**:
-> * [[cds/math/notes/questions/q15_rational|Question 15 (Pathfinder Ch 16)]]
-> * [[cds/math/notes/variations/var15|Variation 15: Double Shifted Rational Sum with Weighted Coefficients]]
+> * [Question 15 (Pathfinder Ch 16)](/cds/math/notes/questions/q15_rational)
+> * [Variation 15: Double Shifted Rational Sum with Weighted Coefficients](/cds/math/notes/variations/var15)

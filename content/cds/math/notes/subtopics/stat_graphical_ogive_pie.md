@@ -49,10 +49,10 @@ $$\text{Central Angle } \theta_i = \left( \frac{f_i}{\sum f_i} \right) \times 36
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q28_7|Question 28.7: Sector Central Angle and Expense Calculation]]
+- [Question 28.7: Sector Central Angle and Expense Calculation](/cds/math/notes/questions/q28_7)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/statistics|Statistics Topic Page]]
-- [[cds/math/math_overview|Elementary Mathematics]]
+- [Statistics Topic Page](/cds/math/notes/statistics)
+- [Elementary Mathematics](/cds/math/math_overview)

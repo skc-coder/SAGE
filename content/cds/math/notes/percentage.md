@@ -23,7 +23,7 @@ tags: [cds, math, percentage, topic]
     $$\left(\frac{x}{100 - x} \times 100\right)\%$$
 
 > [!NOTE]
-> **Intuition ("Base Switch Principle")**: The absolute difference $\Delta = |A - B| = x$ stays identical. But when asking "how much less/more is B than A?", the reference denominator changes from $B$ ($100$) to $A$ ($100 \pm x$). Dividing by a larger base ($100+x$) gives a smaller percentage; dividing by a smaller base ($100-x$) gives a larger percentage. See [[cds/math/notes/subtopics/asymmetric_percentage|Detailed Proof & Intuition]].
+> **Intuition ("Base Switch Principle")**: The absolute difference $\Delta = |A - B| = x$ stays identical. But when asking "how much less/more is B than A?", the reference denominator changes from $B$ ($100$) to $A$ ($100 \pm x$). Dividing by a larger base ($100+x$) gives a smaller percentage; dividing by a smaller base ($100-x$) gives a larger percentage. See [Detailed Proof & Intuition](/cds/math/notes/subtopics/asymmetric_percentage).
 
 ### 4. Commodity Price & Consumption Inverse Balancing
 - If the price of a commodity increases (or decreases) by $x\%$, then to maintain a constant expenditure budget, the consumption must decrease (or increase) by:
@@ -49,21 +49,21 @@ tags: [cds, math, percentage, topic]
 
 ## Subtopics & Core Models
 
-- [[cds/math/notes/subtopics/percentage_basics|Percentage Basics & Fractional Conversion]]
-- [[cds/math/notes/subtopics/asymmetric_percentage|Asymmetric Comparison & Price-Consumption Balance]]
-- [[cds/math/notes/subtopics/successive_percentage|Successive Percentage & Net Change]]
-- [[cds/math/notes/subtopics/population_depreciation|Population Growth & Compound Depreciation]]
-- [[cds/math/notes/subtopics/income_expenditure_savings|Income, Expenditure, and Savings Models]]
-- [[cds/math/notes/subtopics/mixture_adulteration|Mixture Evaporation & Solution Adulteration]]
+- [Percentage Basics & Fractional Conversion](/cds/math/notes/subtopics/percentage_basics)
+- [Asymmetric Comparison & Price-Consumption Balance](/cds/math/notes/subtopics/asymmetric_percentage)
+- [Successive Percentage & Net Change](/cds/math/notes/subtopics/successive_percentage)
+- [Population Growth & Compound Depreciation](/cds/math/notes/subtopics/population_depreciation)
+- [Income, Expenditure, and Savings Models](/cds/math/notes/subtopics/income_expenditure_savings)
+- [Mixture Evaporation & Solution Adulteration](/cds/math/notes/subtopics/mixture_adulteration)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var28|Successive Price Increase and Decrease Net Effect]]
-- [[cds/math/notes/variations/var29|Price Increase with Expenditure-Consumption Compensation]]
-- [[cds/math/notes/variations/var30|Income Expenditure Savings Shift and Percentage Net Growth]]
-- [[cds/math/notes/variations/var31|Solution Evaporation and Solute Concentration Maintenance]]
+- [Successive Price Increase and Decrease Net Effect](/cds/math/notes/variations/var28)
+- [Price Increase with Expenditure-Consumption Compensation](/cds/math/notes/variations/var29)
+- [Income Expenditure Savings Shift and Percentage Net Growth](/cds/math/notes/variations/var30)
+- [Solution Evaporation and Solute Concentration Maintenance](/cds/math/notes/variations/var31)
 
 ---
 
@@ -87,5 +87,5 @@ pie title Percentage Difficulty
 ---
 
 ## Navigation
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
-- [[cds/cds_overview|CDS Dashboard]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)
+- [CDS Dashboard](/cds/cds_overview)

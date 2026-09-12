@@ -47,11 +47,11 @@ For two circles with radii $r_1, r_2$ and distance between centres $d$:
 
 ## 2. Linked Practice Questions
 
-- [[cds/math/notes/questions/q2_circle|Q2: Tangent Length & Secant Power of a Point]]
-- [[cds/math/notes/questions/q3_circle|Q3: Alternate Segment Theorem & Angle Calculation]]
+- [Q2: Tangent Length & Secant Power of a Point](/cds/math/notes/questions/q2_circle)
+- [Q3: Alternate Segment Theorem & Angle Calculation](/cds/math/notes/questions/q3_circle)
 
 ---
 
 ## 3. Variations
 
-- [[cds/math/notes/variations/var24|Variation 24: Direct and Transverse Common Tangent Length Ratios]]
+- [Variation 24: Direct and Transverse Common Tangent Length Ratios](/cds/math/notes/variations/var24)

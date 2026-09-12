@@ -7,7 +7,7 @@ Biology in the CDS examination is a core component of the General Science sectio
 
 ## High-Yield Core Modules
 
-### 1. [[content/cds/biology/notes/cell_and_human_biology.md|Cell Biology, Human Physiology & Diseases]]
+### 1. [Cell Biology, Human Physiology & Diseases](/content/cds/biology/notes/cell_and_human_biology)
 - **Cell Structure & Organelles**: Prokaryotes vs. Eukaryotes, Mitochondria (ATP), Chloroplasts, Lysosomes ("suicide bags"), Cell Membrane (Fluid Mosaic Model).
 - **Cell Division**: Mitosis ($2n \to 2n$) vs. Meiosis ($2n \to n$).
 - **Human Physiology**: Digestive System (Stomach, Bile, Pancreas), Circulatory System (RBCs, WBCs, Blood Clotting, Heart chambers), Endocrine System (Insulin, Thyroxine, Adrenaline).

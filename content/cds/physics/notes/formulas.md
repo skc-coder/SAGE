@@ -259,5 +259,5 @@ For projection angle $\theta$ with initial speed $u$:
 
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Master Overview]]
-- [[cds/physics/notes/mechanics|Mechanics Note]]
+- [Physics Master Overview](/cds/physics/physics_overview)
+- [Mechanics Note](/cds/physics/notes/mechanics)

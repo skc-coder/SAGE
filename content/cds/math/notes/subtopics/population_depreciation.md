@@ -25,10 +25,10 @@ $$P_0 = P_{\text{past}} \left(1 + \frac{R}{100}\right)^n \implies P_{\text{past}
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q152|Q152: Two-Year Future and Past Population Calculation]]
+- [Q152: Two-Year Future and Past Population Calculation](/cds/math/notes/questions/q152)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var28|Successive Price Increase and Decrease Net Effect]]
+- [Successive Price Increase and Decrease Net Effect](/cds/math/notes/variations/var28)

@@ -11,23 +11,23 @@ Welcome to the **Physical Geography Vault Index**. This master course covers all
 
 ## Master Chapter Index
 
-1. [[cds/geography/notes/universe|Ch 1. Universe and Solar System]]
-2. [[cds/geography/notes/latitudes-longitudes|Ch 2. Latitudes, Longitudes and Time Systems]]
-3. [[cds/geography/notes/geomorphology|Ch 3. Geomorphology and Earth Interior]]
-4. [[cds/geography/notes/plate-tectonics|Ch 4. Plate Tectonics, Mountains and Volcanism]]
-5. [[cds/geography/notes/rocks-minerals|Ch 5. Rocks, Minerals and Rock Cycle]]
-6. [[cds/geography/notes/landforms|Ch 6. Geomorphic Processes and Landforms]]
-7. [[cds/geography/notes/atmosphere-ozone|Ch 7. Atmosphere, Ozone Layer and Greenhouse Effect]]
-8. [[cds/geography/notes/winds-cyclones|Ch 8. Pressure Belts, Local Winds and Cyclones]]
-9. [[cds/geography/notes/clouds-rainfall|Ch 9. Condensation, Clouds and World Rainfall]]
-10. [[cds/geography/notes/koeppen-climate|Ch 10. Koeppen Climate Classification and Indian Climate]]
-11. [[cds/geography/notes/oceanography|Ch 11. Oceanography, Ocean Currents and Coral Reefs]]
+1. [Ch 1. Universe and Solar System](/cds/geography/notes/universe)
+2. [Ch 2. Latitudes, Longitudes and Time Systems](/cds/geography/notes/latitudes-longitudes)
+3. [Ch 3. Geomorphology and Earth Interior](/cds/geography/notes/geomorphology)
+4. [Ch 4. Plate Tectonics, Mountains and Volcanism](/cds/geography/notes/plate-tectonics)
+5. [Ch 5. Rocks, Minerals and Rock Cycle](/cds/geography/notes/rocks-minerals)
+6. [Ch 6. Geomorphic Processes and Landforms](/cds/geography/notes/landforms)
+7. [Ch 7. Atmosphere, Ozone Layer and Greenhouse Effect](/cds/geography/notes/atmosphere-ozone)
+8. [Ch 8. Pressure Belts, Local Winds and Cyclones](/cds/geography/notes/winds-cyclones)
+9. [Ch 9. Condensation, Clouds and World Rainfall](/cds/geography/notes/clouds-rainfall)
+10. [Ch 10. Koeppen Climate Classification and Indian Climate](/cds/geography/notes/koeppen-climate)
+11. [Ch 11. Oceanography, Ocean Currents and Coral Reefs](/cds/geography/notes/oceanography)
 
 ---
 
 ## Question Taxonomy Database
 
-- [[cds/geography/question_db|Physical Geography Central Question Database]]
+- [Physical Geography Central Question Database](/cds/geography/question_db)
 
 ---
 
@@ -52,4 +52,4 @@ pie title Chapter Difficulty Distribution
 
 ## Navigation
 
-- [[cds/cds_overview|CDS Exam Master Dashboard]]
+- [CDS Exam Master Dashboard](/cds/cds_overview)

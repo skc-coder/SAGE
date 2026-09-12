@@ -30,4 +30,4 @@ Let initial price be $P_0$.
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q151|Q151: Sequential Increase and Decrease Net Percentage Change]]
+- [Q151: Sequential Increase and Decrease Net Percentage Change](/cds/math/notes/questions/q151)

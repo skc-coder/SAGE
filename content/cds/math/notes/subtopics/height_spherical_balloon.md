@@ -53,4 +53,4 @@ $$\blacksquare$$
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q45|Q45: Pathfinder Q35 Spherical Balloon Radius r with alpha=60deg, beta=60deg]]
+- [Q45: Pathfinder Q35 Spherical Balloon Radius r with alpha=60deg, beta=60deg](/cds/math/notes/questions/q45)

@@ -259,7 +259,7 @@ Here is a side-by-side comparison explaining the handwritten notes on **Series v
           
         
     - Energy: $U = \frac{1}{2} C V^2$
-## 3. [[Magnetism]] & Electromagnetic Induction
+## 3. [Magnetism](/Magnetism) & Electromagnetic Induction
 
 - **Right-Hand Thumb Rule**: Direction of magnetic field around straight current-carrying wire.
 - **Faraday's Law of Induction**: Induced EMF is proportional to rate of change of magnetic flux:
@@ -270,5 +270,5 @@ Here is a side-by-side comparison explaining the handwritten notes on **Series v
 
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Overview]]
-- [[cds/physics/notes/formulas|Master Formulas]]
+- [Physics Overview](/cds/physics/physics_overview)
+- [Master Formulas](/cds/physics/notes/formulas)

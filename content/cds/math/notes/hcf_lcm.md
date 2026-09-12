@@ -45,17 +45,17 @@ $$\operatorname{LCM}\left(\frac{a}{b}, \frac{c}{d}, \frac{e}{f}\right) = \frac{\
 
 ## Subtopics & Core Models
 
-- [[cds/math/notes/subtopics/hcf_methods|HCF Models & Co-Prime Copair Counting]]
-- [[cds/math/notes/subtopics/lcm_models|LCM Models & Remainder Theorems]]
+- [HCF Models & Co-Prime Copair Counting](/cds/math/notes/subtopics/hcf_methods)
+- [LCM Models & Remainder Theorems](/cds/math/notes/subtopics/lcm_models)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var8|HCF via Successive Quotients]]
-- [[cds/math/notes/variations/var9|Co-prime Pairs Given Product & HCF]]
-- [[cds/math/notes/variations/var10|Largest 4-Digit Number with Constant Remainder]]
-- [[cds/math/notes/variations/var11|Smallest 4-Digit Number with Constant Difference]]
+- [HCF via Successive Quotients](/cds/math/notes/variations/var8)
+- [Co-prime Pairs Given Product & HCF](/cds/math/notes/variations/var9)
+- [Largest 4-Digit Number with Constant Remainder](/cds/math/notes/variations/var10)
+- [Smallest 4-Digit Number with Constant Difference](/cds/math/notes/variations/var11)
 
 ---
 
@@ -84,5 +84,5 @@ pie title Mistake Breakdown
 
 ## Navigation
 
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
-- [[cds/math/question_db|Question Database]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)
+- [Question Database](/cds/math/question_db)

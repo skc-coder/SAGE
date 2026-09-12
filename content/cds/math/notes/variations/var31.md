@@ -25,5 +25,5 @@ $$\Delta V = V - V' = V - V \left(\frac{c_1}{c_2}\right) = V \left(1 - \frac{c_1
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q154|Q154: Solution Evaporation Sugar Concentration]]
-- [[cds/math/notes/questions/q155|Q155: Adulterated Glycerine Impurity Reduction]]
+- [Q154: Solution Evaporation Sugar Concentration](/cds/math/notes/questions/q154)
+- [Q155: Adulterated Glycerine Impurity Reduction](/cds/math/notes/questions/q155)

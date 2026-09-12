@@ -26,14 +26,14 @@ Square roots and cube roots form the foundational tools for numerical evaluation
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/roots_methods|Prime Factorization & Division Method]]
-- [[cds/math/notes/subtopics/long_division_method|Long Division Method Proof & Intuition]]
+- [Prime Factorization & Division Method](/cds/math/notes/subtopics/roots_methods)
+- [Long Division Method Proof & Intuition](/cds/math/notes/subtopics/long_division_method)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var5|Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)]]
+- [Ch 5 Variations (Nested Infinite Radicals & Consecutive Product Squares)](/cds/math/notes/variations/var5)
 
 ---
 
@@ -50,5 +50,5 @@ pie title Roots Subtopic Difficulty
 
 ## Navigation
 
-- [[cds/math/math_overview|Subject Overview]]
-- [[cds/cds_overview|CDS Dashboard]]
+- [Subject Overview](/cds/math/math_overview)
+- [CDS Dashboard](/cds/cds_overview)

@@ -82,20 +82,20 @@ $$\frac{a}{(a-b)(a-c)} + \frac{b}{(b-c)(b-a)} + \frac{c}{(c-a)(c-b)} = 0$$
 
 ## 5. Subtopic Notes
 
-* [[cds/math/notes/subtopics/rational_simplification|Rational Simplification & Partial Fractions]]
-* [[cds/math/notes/subtopics/cyclic_rational_identities|Cyclic Rational Identities & Constant Shifts]]
+* [Rational Simplification & Partial Fractions](/cds/math/notes/subtopics/rational_simplification)
+* [Cyclic Rational Identities & Constant Shifts](/cds/math/notes/subtopics/cyclic_rational_identities)
 
 ---
 
 ## 6. Chapter Questions & PYQs
 
-* [[cds/math/notes/questions/q15_rational|Question 15 (Pathfinder Ch 16 - Underdetermined Shifted Rational Sum)]]
-* [[cds/math/notes/questions/q19_telescoping|Question 19 (CDS 2014 II - Binary Power Telescoping Series)]]
-* [[cds/math/notes/questions/q20_system|Question 20 (CDS 2016 I - Symmetric Rational System Elimination)]]
+* [Question 15 (Pathfinder Ch 16 - Underdetermined Shifted Rational Sum)](/cds/math/notes/questions/q15_rational)
+* [Question 19 (CDS 2014 II - Binary Power Telescoping Series)](/cds/math/notes/questions/q19_telescoping)
+* [Question 20 (CDS 2016 I - Symmetric Rational System Elimination)](/cds/math/notes/questions/q20_system)
 
 ---
 
 ## 7. Novel Concept Variations
 
-* [[cds/math/notes/variations/var15|Variation 15: Double Shifted Rational Sum with Weighted Coefficients]]
-* [[cds/math/notes/variations/var16|Variation 16: Infinite Product-Sum Telescoping Series]]
+* [Variation 15: Double Shifted Rational Sum with Weighted Coefficients](/cds/math/notes/variations/var15)
+* [Variation 16: Infinite Product-Sum Telescoping Series](/cds/math/notes/variations/var16)

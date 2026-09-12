@@ -30,21 +30,21 @@ Simple Interest ($SI$) represents linear compensation charged on the principal a
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/si_formula_rate|Fundamental SI & Rate Laws]]
-- [[cds/math/notes/subtopics/si_dual_amounts|Multiple Amounts System]]
-- [[cds/math/notes/subtopics/si_equated_partition|Equated Simple Interest Partitioning]]
+- [Fundamental SI & Rate Laws](/cds/math/notes/subtopics/si_formula_rate)
+- [Multiple Amounts System](/cds/math/notes/subtopics/si_dual_amounts)
+- [Equated Simple Interest Partitioning](/cds/math/notes/subtopics/si_equated_partition)
 
 ### Linked Practice Questions
-- [[cds/math/notes/questions/q44|Q44: Monthly Interest Principal Calculation]]
-- [[cds/math/notes/questions/q45|Q45: Doubling Period Rate Percentage]]
-- [[cds/math/notes/questions/q46|Q46: Dual Maturity Amount Rate & Principal Extraction]]
-- [[cds/math/notes/questions/q47|Q47: Equated Interest Multi-Part Allocation]]
+- [Q44: Monthly Interest Principal Calculation](/cds/math/notes/questions/q44)
+- [Q45: Doubling Period Rate Percentage](/cds/math/notes/questions/q45)
+- [Q46: Dual Maturity Amount Rate & Principal Extraction](/cds/math/notes/questions/q46)
+- [Q47: Equated Interest Multi-Part Allocation](/cds/math/notes/questions/q47)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var30|Variation 30: Variable Step-Rate Capital Allocation & Floating Rate Invariant]]
+- [Variation 30: Variable Step-Rate Capital Allocation & Floating Rate Invariant](/cds/math/notes/variations/var30)
 
 ---
 
@@ -68,5 +68,5 @@ pie title Simple Interest Difficulty
 ---
 
 ## Navigation
-- [[cds/math/math_overview|Subject Dashboard]]
-- [[cds/cds_overview|CDS Master Dashboard]]
+- [Subject Dashboard](/cds/math/math_overview)
+- [CDS Master Dashboard](/cds/cds_overview)

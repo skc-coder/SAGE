@@ -20,5 +20,5 @@ If $\frac{a}{2} = \frac{b}{3} = \frac{c}{5}$, then the value of $\frac{3a - 2b +
 > $$\frac{3a - 2b + 4c}{3(2) - 2(3) + 4(5)} = \frac{a}{2} = \frac{b}{3} = \frac{c}{5} = k$$
 
 ## Navigation
-- [[cds/math/notes/subtopics/ratios|Subtopic: Ratios and Proportions]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: Ratios and Proportions](/cds/math/notes/subtopics/ratios)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

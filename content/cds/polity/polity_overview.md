@@ -1,7 +1,7 @@
 # Indian Polity
 
 ## Topics & Notes
-- [[cds/polity/notes/polity_cheatsheet|Indian Polity Cheat Sheet (Acts, Committees, Amendments, Articles, Names & Events)]]
+- [Indian Polity Cheat Sheet (Acts, Committees, Amendments, Articles, Names & Events)](/cds/polity/notes/polity_cheatsheet)
 
 ## Performance Overview
 
@@ -21,4 +21,4 @@ pie title Mistake Breakdown
 ```
 
 ## Navigation
-- [[cds/cds_overview|CDS Overview Dashboard]]
+- [CDS Overview Dashboard](/cds/cds_overview)

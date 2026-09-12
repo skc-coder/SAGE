@@ -134,10 +134,10 @@ a^{\phi(m)} \equiv 1 \pmod m & & a^{p-1} \equiv 1 \pmod p
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q11|Question 11: Modular Fast Power Reduction]]
+- [Question 11: Modular Fast Power Reduction](/cds/math/notes/questions/q11)
 
 ## Related Theorems & Topics
 
-- [[cds/math/notes/subtopics/flt|Fermat's Little Theorem]]
-- [[cds/math/notes/subtopics/crt|Chinese Remainder Theorem]]
-- [[cds/math/notes/modular|Modular Arithmetic Topic]]
+- [Fermat's Little Theorem](/cds/math/notes/subtopics/flt)
+- [Chinese Remainder Theorem](/cds/math/notes/subtopics/crt)
+- [Modular Arithmetic Topic](/cds/math/notes/modular)

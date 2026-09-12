@@ -247,6 +247,6 @@ Who among the above students is/are correct?
 
 ## Navigation
 
-- [[cds/geography/geography_overview|Physical Geography Subject Overview]]
-- [[cds/geography/question_db|Question Database]]
-- [[cds/cds_overview|CDS Exam Master Dashboard]]
+- [Physical Geography Subject Overview](/cds/geography/geography_overview)
+- [Question Database](/cds/geography/question_db)
+- [CDS Exam Master Dashboard](/cds/cds_overview)

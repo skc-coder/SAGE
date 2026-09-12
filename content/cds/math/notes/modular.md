@@ -56,23 +56,23 @@ $-k \pmod m \equiv (-k + m) \pmod m$.
 $a \cdot a^{-1} \equiv 1 \pmod m$. Exists if and only if $\operatorname{GCD}(a, m) = 1$.
 ### 5. Essential Theorems & Proofs
 
-#### [[cds/math/notes/subtopics/flt|Theorem 1: Fermat's Little Theorem (FLT)]]
+#### [Theorem 1: Fermat's Little Theorem (FLT)](/cds/math/notes/subtopics/flt)
 If $p$ is a prime number and $a$ is any integer such that $\operatorname{GCD}(a, p) = 1$, then:
 $$\mathbf{a^{p-1} \equiv 1 \pmod p} \quad \text{and} \quad \mathbf{a^p \equiv a \pmod p}$$
 
-#### [[cds/math/notes/subtopics/euler|Theorem 2: Euler's Totient Theorem (Composite Modulus $m$)]]
+#### [Theorem 2: Euler's Totient Theorem (Composite Modulus $m$)](/cds/math/notes/subtopics/euler)
 For ANY modulus $m$ (prime or composite) where $\operatorname{GCD}(a, m) = 1$:
 $$\mathbf{a^{\phi(m)} \equiv 1 \pmod m}$$
 where $\phi(m) = m \left(1 - \frac{1}{p_1}\right) \left(1 - \frac{1}{p_2}\right) \cdots \left(1 - \frac{1}{p_k}\right)$.
 
 ---
 
-#### [[cds/math/notes/subtopics/crt|Theorem 2: Chinese Remainder Theorem (CRT)]]
+#### [Theorem 2: Chinese Remainder Theorem (CRT)](/cds/math/notes/subtopics/crt)
 Used to solve systems of simultaneous linear congruences with pairwise co-prime moduli $m_1, m_2, \dots, m_k$.
 
 ---
 
-#### [[cds/math/notes/subtopics/wilson|Theorem 3: Wilson's Theorem]]
+#### [Theorem 3: Wilson's Theorem](/cds/math/notes/subtopics/wilson)
 For any prime $p$: $(p-1)! \equiv -1 \pmod p$.
 
 
@@ -80,15 +80,15 @@ For any prime $p$: $(p-1)! \equiv -1 \pmod p$.
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q11|Question 11: Modular Fast Power Reduction]]
-- [[cds/math/notes/questions/q12|Question 12: Negative Remainder Power Trick]]
-- [[cds/math/notes/questions/q13|Question 13: Large Exponent Modulo Prime (2^1000 mod 17)]]
-- [[cds/math/notes/questions/q14|Question 14: Sum of Powers Modulo Prime (1^12 + 2^12 + ... + 12^12 mod 13)]]
-- [[cds/math/notes/questions/q15|Question 15: Wilson's Theorem Companion (12! + 2 mod 13)]]
+- [Question 11: Modular Fast Power Reduction](/cds/math/notes/questions/q11)
+- [Question 12: Negative Remainder Power Trick](/cds/math/notes/questions/q12)
+- [Question 13: Large Exponent Modulo Prime (2^1000 mod 17)](/cds/math/notes/questions/q13)
+- [Question 14: Sum of Powers Modulo Prime (1^12 + 2^12 + ... + 12^12 mod 13)](/cds/math/notes/questions/q14)
+- [Question 15: Wilson's Theorem Companion (12! + 2 mod 13)](/cds/math/notes/questions/q15)
 
 ---
 
 ## Navigation
 
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
-- [[cds/math/question_db|Question Database]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)
+- [Question Database](/cds/math/question_db)

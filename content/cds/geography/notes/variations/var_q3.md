@@ -21,4 +21,4 @@ Match List-I (Astronomer) with List-II (Discovery):
 ---
 
 ## Backlinks
-- [[cds/geography/notes/questions/q3|Copernicus Heliocentric Theory (NDA I 2023)]]
+- [Copernicus Heliocentric Theory (NDA I 2023)](/cds/geography/notes/questions/q3)

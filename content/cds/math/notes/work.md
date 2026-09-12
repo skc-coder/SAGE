@@ -37,25 +37,25 @@ Time and work problems deal with the rate of performance of work by individuals 
 
 ## Subtopics & Specialized Questions
 
-- [[cds/math/notes/subtopics/work_efficiency_reciprocal|Work Rate & Combined Efficiency Theorem]]
-- [[cds/math/notes/subtopics/group_chain_rule|Group Work & Chain Rule Fundamental Formula]]
-- [[cds/math/notes/subtopics/men_women_equivalence|Men-Women Equivalence & Or-And Conversion Rule]]
-- [[cds/math/notes/subtopics/pipes_cisterns_leakage|Pipes, Cisterns & Outlet Leakage Invariants]]
+- [Work Rate & Combined Efficiency Theorem](/cds/math/notes/subtopics/work_efficiency_reciprocal)
+- [Group Work & Chain Rule Fundamental Formula](/cds/math/notes/subtopics/group_chain_rule)
+- [Men-Women Equivalence & Or-And Conversion Rule](/cds/math/notes/subtopics/men_women_equivalence)
+- [Pipes, Cisterns & Outlet Leakage Invariants](/cds/math/notes/subtopics/pipes_cisterns_leakage)
 
 ### Linked Practice Questions
-- [[cds/math/notes/questions/q17|Q17: Men & Boys Equivalence System]]
-- [[cds/math/notes/questions/q21|Q21: Alternating Work Cycle & Clock Completion]]
-- [[cds/math/notes/questions/q38|Q38: Relative Efficiency & Difference in Days]]
-- [[cds/math/notes/questions/q39|Q39: Multi-Worker Wages Ratio Distribution]]
-- [[cds/math/notes/questions/q43|Q43: Three Pipes Fill and Outlet Empty System]]
+- [Q17: Men & Boys Equivalence System](/cds/math/notes/questions/q17)
+- [Q21: Alternating Work Cycle & Clock Completion](/cds/math/notes/questions/q21)
+- [Q38: Relative Efficiency & Difference in Days](/cds/math/notes/questions/q38)
+- [Q39: Multi-Worker Wages Ratio Distribution](/cds/math/notes/questions/q39)
+- [Q43: Three Pipes Fill and Outlet Empty System](/cds/math/notes/questions/q43)
 
 ---
 
 ## Variations
 
-- [[cds/math/notes/variations/var24|Variation 24: Dynamic Non-Linear Fatigue & Variable Efficiency Cycle]]
-- [[cds/math/notes/variations/var25|Variation 25: Staggered Group Arrival with Wage Penalty Function]]
-- [[cds/math/notes/variations/var26|Variation 26: Variable Rate Cistern Filling with Altitude Leakage Threshold]]
+- [Variation 24: Dynamic Non-Linear Fatigue & Variable Efficiency Cycle](/cds/math/notes/variations/var24)
+- [Variation 25: Staggered Group Arrival with Wage Penalty Function](/cds/math/notes/variations/var25)
+- [Variation 26: Variable Rate Cistern Filling with Altitude Leakage Threshold](/cds/math/notes/variations/var26)
 
 ---
 
@@ -79,5 +79,5 @@ pie title Time & Work Difficulty
 ---
 
 ## Navigation
-- [[cds/math/math_overview|Subject Dashboard]]
-- [[cds/cds_overview|CDS Master Dashboard]]
+- [Subject Dashboard](/cds/math/math_overview)
+- [CDS Master Dashboard](/cds/cds_overview)

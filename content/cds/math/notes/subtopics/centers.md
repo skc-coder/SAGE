@@ -64,10 +64,10 @@ tags: [cds, math, triangles, centroid, incenter, circumcenter, orthocenter, subt
 
 ## 4. Linked Practice Questions
 
-- [[cds/math/notes/questions/q4_tri|Q4: Incenter Angle Formula & Bisector Concurrency]]
+- [Q4: Incenter Angle Formula & Bisector Concurrency](/cds/math/notes/questions/q4_tri)
 
 ---
 
 ## 5. Variations
 
-- [[cds/math/notes/variations/var17|Variation 17: Median Partition & Sub-triangle Area Ratios]]
+- [Variation 17: Median Partition & Sub-triangle Area Ratios](/cds/math/notes/variations/var17)

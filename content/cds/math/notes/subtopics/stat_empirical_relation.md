@@ -41,10 +41,10 @@ $$\text{Mean} - \text{Mode} = 3(\text{Mean} - \text{Median})$$
 ---
 
 ## Linked Practice Questions
-- [[cds/math/notes/questions/q28_5|Question 28.5: Empirical Mode Calculation from Mean and Median]]
+- [Question 28.5: Empirical Mode Calculation from Mean and Median](/cds/math/notes/questions/q28_5)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/statistics|Statistics Topic Page]]
-- [[cds/math/math_overview|Elementary Mathematics]]
+- [Statistics Topic Page](/cds/math/notes/statistics)
+- [Elementary Mathematics](/cds/math/math_overview)

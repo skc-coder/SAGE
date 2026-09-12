@@ -37,5 +37,5 @@ For time-dependent acceleration $a(t)$, standard equations of motion ($v = u + a
 
 ## Navigation
 
-- [[cds/physics/notes/mechanics|Mechanics Overview]]
-- [[cds/physics/notes/formulas|Physics Formulas]]
+- [Mechanics Overview](/cds/physics/notes/mechanics)
+- [Physics Formulas](/cds/physics/notes/formulas)

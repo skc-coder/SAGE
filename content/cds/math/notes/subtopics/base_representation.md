@@ -75,11 +75,11 @@ $$0.1 + 0.2 \neq 0.3 \quad (\text{in Python/JS: } 0.1 + 0.2 = 0.3000000000000000
 
 ## Linked Practice Questions
 
-- [[cds/math/notes/questions/q_dec1|Q1: Converting Pure Recurring Decimal 0.232323...]]
+- [Q1: Converting Pure Recurring Decimal 0.232323...](/cds/math/notes/questions/q_dec1)
 
 ---
 
 ## Navigation
-- [[cds/math/notes/subtopics/recurring_decimals|Subtopic: Decimal Fractions & Recurring Decimals]]
-- [[cds/math/notes/decimals|Chapter 4: Decimal Fractions]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: Decimal Fractions & Recurring Decimals](/cds/math/notes/subtopics/recurring_decimals)
+- [Chapter 4: Decimal Fractions](/cds/math/notes/decimals)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

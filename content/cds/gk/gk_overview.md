@@ -2,15 +2,15 @@
 
 ## Topics & Notes
 
-- [[cds/gk/notes/gk|Indian General Knowledge Cheatsheet]]
+- [Indian General Knowledge Cheatsheet](/cds/gk/notes/gk)
 
 ---
 
 ## Variations
 
-- [[cds/gk/notes/variations/vars#variation-1-missile-classification-traps|Variation 1: Missile Classification & Launch Platforms]]
-- [[cds/gk/notes/variations/vars#variation-2-award-hierarchy-wartime-vs-peacetime|Variation 2: Award Hierarchy: Wartime vs. Peacetime]]
-- [[cds/gk/notes/variations/vars#variation-3-governor-general-constitutional-transitions|Variation 3: Governor-General & Constitutional Transitions]]
+- [Variation 1: Missile Classification & Launch Platforms](/cds/gk/notes/variations/vars#variation-1-missile-classification-traps)
+- [Variation 2: Award Hierarchy: Wartime vs. Peacetime](/cds/gk/notes/variations/vars#variation-2-award-hierarchy-wartime-vs-peacetime)
+- [Variation 3: Governor-General & Constitutional Transitions](/cds/gk/notes/variations/vars#variation-3-governor-general-constitutional-transitions)
 
 ---
 
@@ -43,5 +43,5 @@ pie title Mistake Breakdown
 
 ## Navigation
 
-- [[cds/cds_overview|CDS Master Dashboard]]
-- [[cds/gk/question_db|Question Database]]
+- [CDS Master Dashboard](/cds/cds_overview)
+- [Question Database](/cds/gk/question_db)

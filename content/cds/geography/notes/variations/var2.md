@@ -47,5 +47,5 @@ Which of the statements given above are **CORRECT**?
 ---
 
 ## Backlinks & Related Notes
-- [[cds/geography/notes/universe|Topic Note: Universe and Solar System]]
-- [[cds/geography/notes/questions/q2|CAPF 2024 Q2]]
+- [Topic Note: Universe and Solar System](/cds/geography/notes/universe)
+- [CAPF 2024 Q2](/cds/geography/notes/questions/q2)

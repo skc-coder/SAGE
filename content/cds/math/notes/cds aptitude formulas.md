@@ -40,4 +40,4 @@ tags:
 
 ## Navigation
 
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Elementary Mathematics Overview](/cds/math/math_overview)

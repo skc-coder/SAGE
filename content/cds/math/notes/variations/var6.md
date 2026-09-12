@@ -20,5 +20,5 @@ What is the remainder when $N = \underbrace{777\dots777}_{30 \text{ times}}$ is 
 > Since 30 digits = 5 complete blocks of 6 digits ($30 = 6 \times 5$), the entire 30-digit number is perfectly divisible by 13. Remainder = 0.
 
 ## Navigation
-- [[cds/math/notes/subtopics/divisibility|Subtopic: Divisibility Rules]]
-- [[cds/math/math_overview|Elementary Mathematics Overview]]
+- [Subtopic: Divisibility Rules](/cds/math/notes/subtopics/divisibility)
+- [Elementary Mathematics Overview](/cds/math/math_overview)

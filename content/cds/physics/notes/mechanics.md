@@ -57,25 +57,25 @@ Comprehensive theoretical framework and formula derivations for Kinematics, Dyna
   - Upward ($a = -g$): $v = u - g t, \quad h = u t - \frac{1}{2} g t^2, \quad v^2 = u^2 - 2 g h$
 
 ---
-![[Pasted image 20260906081900.png]]![[Pasted image 20260906081925.png]]
-![[Pasted image 20260906081900.png]]![[Pasted image 20260906085716.png]]![[Pasted image 20260906090806.png]]![[Pasted image 20260906091118.png]]![[Pasted image 20260906091719.png]]![[Pasted image 20260906101555.png]]
+![Pasted Image 20260906081900.Png](/Pasted image 20260906081900.png)![Pasted Image 20260906081925.Png](/Pasted image 20260906081925.png)
+![Pasted Image 20260906081900.Png](/Pasted image 20260906081900.png)![Pasted Image 20260906085716.Png](/Pasted image 20260906085716.png)![Pasted Image 20260906090806.Png](/Pasted image 20260906090806.png)![Pasted Image 20260906091118.Png](/Pasted image 20260906091118.png)![Pasted Image 20260906091719.Png](/Pasted image 20260906091719.png)![Pasted Image 20260906101555.Png](/Pasted image 20260906101555.png)
 ## 3. Subtopics & Specialized Proofs
 
-- [[cds/physics/notes/subtopics/projectile_motion|Projectile Motion Derivations & Range]]
-- [[cds/physics/notes/subtopics/newtons_laws_momentum|Newton's Laws & Momentum Conservation]]
-- [[cds/physics/notes/subtopics/work_energy_power|Work-Energy Theorem & Power]]
-- [[cds/physics/notes/subtopics/friction_circular|Friction & Centripetal Acceleration]]
+- [Projectile Motion Derivations & Range](/cds/physics/notes/subtopics/projectile_motion)
+- [Newton's Laws & Momentum Conservation](/cds/physics/notes/subtopics/newtons_laws_momentum)
+- [Work-Energy Theorem & Power](/cds/physics/notes/subtopics/work_energy_power)
+- [Friction & Centripetal Acceleration](/cds/physics/notes/subtopics/friction_circular)
 
 ---
 
 ## 4. Linked Practice Questions
 
-- [[cds/physics/notes/questions/q1|Q1: Projectile Maximum Range Angle]]
-- [[cds/physics/notes/questions/q2|Q2: Recoil Velocity of Gun]]
+- [Q1: Projectile Maximum Range Angle](/cds/physics/notes/questions/q1)
+- [Q2: Recoil Velocity of Gun](/cds/physics/notes/questions/q2)
 
 ---
 
 ## Navigation
 
-- [[cds/physics/physics_overview|Physics Overview]]
-- [[cds/physics/notes/formulas|Master Formulas]]
+- [Physics Overview](/cds/physics/physics_overview)
+- [Master Formulas](/cds/physics/notes/formulas)
