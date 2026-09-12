@@ -9,7 +9,7 @@
 
 ---
 
-## 1️⃣ Counting Sort
+## 1. Counting Sort
 
 > **Idea:** Take each value, push it into a **bucket** at that index, then pop elements from each bucket **left to right (FIFO)** and insert into a new output array.
 
@@ -42,7 +42,7 @@ Output: [ 1   2a  2b   3a  3b   5a  5b   6 ]
 
 ---
 
-## 2️⃣ Radix Sort
+## 2. Radix Sort
 
 > **Idea:** Perform counting sort on the **least-significant digit** first, then the next least-significant, and so on.
 
