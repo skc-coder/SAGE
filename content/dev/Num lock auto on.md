@@ -1,4 +1,0 @@
-- https://wiki.archlinux.org/title/Activating_numlock_on_bootup#KDE_Plasma
-- Go to *System Settings > Input & Output > Keyboard*, in the *Hardware* tab, in the *NumLock on Plasma Startup* section, choose the desired NumLock behavior.
-- For this to work, make sure that *System Settings > System > Session > Background Services > Keyboard Daemon* is enabled.
-- **Note:** If the *Background Services* section is not accessible through *System Settings* in KDE Plasma, running the shell command `kcmshell6 kcm_kded` (substituting for your *kcmshell* version as necessary) should yield this menu.

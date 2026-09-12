@@ -1,2 +1,0 @@
-[[moc cs]]
-[[moc maths]]

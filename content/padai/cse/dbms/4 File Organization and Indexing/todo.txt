@@ -1,3 +1,0 @@
-page 20
-the table in B tree
-

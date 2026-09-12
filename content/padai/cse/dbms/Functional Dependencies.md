@@ -1,2 +1,0 @@
-[[armstrong axioms]]
-[[candidate keys]]

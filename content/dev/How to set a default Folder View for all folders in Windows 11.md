@@ -1,1 +1,0 @@
-https://www.thewindowsclub.com/set-default-folder-view-windows

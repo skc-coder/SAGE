@@ -1,4 +1,0 @@
-- [ ] Pop OS
-- [ ] Fedora in USB
-- [ ] Obsidian theme
-- [ ] Obsidian tips

@@ -1,1 +1,0 @@
-https://ubuntuhandbook.org/index.php/2023/04/add-app-shortcut-desktop-ubuntu/

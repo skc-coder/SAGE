@@ -1,1 +1,0 @@
-Maybe because of lack of planning and the sleep and stress 

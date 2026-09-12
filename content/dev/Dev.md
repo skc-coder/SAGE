@@ -1,6 +1,0 @@
-- [[DSA]]
-- [[../padai/cse/lang/moc python]]
-- [[Resources]]
-- [[Settings]]
-- [[Tutorials]]
-	- [[brave global shortcut fix]]

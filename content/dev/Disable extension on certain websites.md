@@ -1,1 +1,0 @@
-https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco

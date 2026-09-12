@@ -1,1 +1,0 @@
-  * These are also true for things other than thinking as well, like studying.

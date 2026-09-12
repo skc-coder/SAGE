@@ -1,1 +1,0 @@
-By not trying to contribute to the world for now.

@@ -1,4 +1,0 @@
-- [[Dev]]
-- [[Got idea]]
-- [[Questions]]
-- [[The List]]

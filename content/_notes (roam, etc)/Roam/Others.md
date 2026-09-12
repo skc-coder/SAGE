@@ -1,5 +1,0 @@
-  * Article
-  * [[Quotes]]
-  * ---
-  * [[Peoples]]: 
-    * [[TSOL]]
