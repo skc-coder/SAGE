@@ -12,10 +12,6 @@ configuration:
     - private
     - templates
     - .obsidian
-    - .trash
-    - "**/_*.md"
-    - "archive/obsidian/templates"
-    - "content/archive/obsidian/templates"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
