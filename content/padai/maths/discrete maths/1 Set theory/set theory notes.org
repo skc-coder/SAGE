@@ -1,0 +1,345 @@
+#+TITLE: Relations and Order Theory
+#+AUTHOR: skc (with AI rewriting it to make it actually usefull)
+#+DATE: 2025-12-08
+
+* Resources
+- https://en.wikipedia.org/wiki/Relation_(mathematics)#Properties_of_relations
+- https://matheducators.stackexchange.com/questions/19289/mnemonics-to-correlate-the-definition-of-asymmetric-relation-and-antisymmetri/19293#19293
+- https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Discrete_Mathematics_for_Computer_Science_(Fitch)/04%3A_Relations/4.04%3A_Partially_Ordered_Sets
+- https://en.wikipedia.org/wiki/Order_theory
+- https://en.wikipedia.org/wiki/List_of_order_theory_topics
+- https://math.stackexchange.com/questions/3299809/what-is-the-intuitive-motivation-for-defining-equivalence-relations-with-the-pro
+- https://math.stackexchange.com/questions/1047409/sole-minimal-element-why-not-also-the-minimum
+- https://math.stackexchange.com/a/1646855/946446
+  
+* Properties of Relations
+
+** Definitional Structure
+(add image here)
+
+Reflexive and irreflexive are "for all" definitions.
+
+Symmetric, a/anti-symmetric and transitive are "for all $\to$ (if)" definitions.
+
+So reflexive definition should have all the diagonal elements and irreflexive should have none.
+
+Empty relation is neither reflexive nor irreflexive.
+
+But because of "if", empty relation is symmetric, a/anti-symmetric and transitive.
+
+It is clear that reflexive and irreflexive are not exhaustive, and neither are symmetric and a/anti-symmetric.
+
+Anti symmetric contains asymmetric, by allowing presence of diagonal elements.
+
+** Relation Cardinalities
+
+| Property       | Smallest          | Largest         | Number              |
+|----------------+-------------------+-----------------+---------------------|
+| Reflexive      | Diagonal relation | $A \times A$    | $2^{nP2}$           |
+| Irreflexive    | Diagonal          | diagonal        | same as above       |
+| Symmetric      | Null              | $A \times A$    | $2^n \cdot 2^{nC2}$ |
+| Anti-symmetric | Null              | -               | $2^n \cdot 3^{nC2}$ |
+| A-symmetric    | Null              | -               | $3^{nC2}$           |
+| Transitive     | Null              | $A \times A$    | -                   |
+
+*** Explanation of Notation
+
+$nP2$ = choosing two distinct elements from a set of $n$ distinct elements, so how many such binary tuples possible = number of non diagonal elements = $n^2 - n$.
+
+$nC2$ = pairs of symmetric tuples, leaving diagonal ones. Of course it is $nP2/2 = nC2$.
+
+$2^{nC2}$ in symmetric relation each pair of tuples has choice of being included or not.
+
+$3^{nC2}$ in anti symmetric relation, each pair has choice of not taking both tuples or taking only one.
+
+** Checking Relations
+
+Since [a/anti] symmetric and transitive relations are "if" definitions, so if a relation falsifies their if condition then that is automatically the relation.
+
+Particularly in checking for transitive relation diagonal elements can be ignored, i.e. their last element should not be compared to the first element of others.
+
+** Closures
+
+Reflexive closure = $R \cup \text{Diag}(A)$.
+
+Symmetric closure = $R \cup R^{-1}$.
+
+Transitive closure = iterations needed
+
+* Equivalence Relations
+
+** Definition
+
+Equivalence relation: relation is reflexive, symmetric and transitive.
+
+Smallest = Diag, Largest = $A \times A$.
+
+** Intuition
+
+Equivalence tries to abstract the concept of "sameness".
+
+$=$ is reflexive, transitive and symmetric.
+
+** Equivalence Classes
+
+Equivalence relation generates equivalence classes, which their set makes a partition.
+
+An equivalence class $[x] = \{$set of elements which are "same/equal" as $x$ (in some respect e.g. color, weight, price)$\}$.
+
+Of course if $[x] = \{a, b, c\}$ then $[a] = \{x, b, c\}$, as they all are same.
+
+** Connection to Partitions
+
+Each possible partition of a set corresponds to an equivalence relation. And vice versa.
+
+A partition is a set whose elements:
+- are not null,
+- are mutually exclusive,
+- union gives the intended set.
+
+** Counting
+
+Bell number gives for $|A| = n$ number of possible partitions, and thus number of possible equivalent relations.
+
+To find number equivalence relation with $k$ order pairs in a set $|A| = n$....
+(see the image, i will add image here)
+
+* Order Theory
+
+** Motivation
+
+Order theory tries to formalize the properties of $<$ and $\leq$.
+
+** Partial Order (Weak Order)
+
+A partial order is a homogeneous binary relation that is reflexive, antisymmetric, and transitive.
+
+A partially ordered set (poset for short) is an ordered pair $P = (X, \leq)$ consisting of a set $X$ (called the ground set of $P$)
+and a partial order $\leq$ on $X$.
+
+** Total Order (Linear Order)
+
+A total order or linear order is a partial order in which any two elements are comparable.
+
+That is, a total order is a binary relation $\leq$ on some set $X$, which satisfies the following for all $a, b$ and $c$ in $X$:
+
+- $a \leq a$ (reflexive).
+- If $a \leq b$ and $b \leq c$ then $a \leq c$ (transitive).
+- If $a \leq b$ and $b \leq a$ then $a = b$ (antisymmetric).
+- $a \leq b$ or $b \leq a$ (strongly connected (there is path from each vertex to other), formerly called totality).
+
+A set equipped with a total order is a totally ordered set.
+
+** Important Example
+
+Consider a relation that is anti-symmetric and transitive.
+Then (weak) partial (and hence total) and strict-partial order are all part of it. Which relation is neither partial, nor strict partial?
+
+Consider $S = \{0, 1, 3\}$ and relation = divide. It is one relation that fits the bill. As $1R1$, $3R3$ (so not strict partial) but $0 \text{ not } R 0$ (so not weak partial either).
+
+* Distinguished Elements of Partial Orders
+
+** Greatest and Least Elements
+
+- Greatest element (maximum, top, unit)
+- Least element (minimum, bottom, zero)
+
+** Maximal and Minimal Elements
+
+- Maximal element
+- Minimal element
+
+** Upper and Lower Bounds
+
+*** Upper Bound
+
+Given a subset $S$ of some poset $P$, an upper bound of $S$ is an element $b$ of $P$ that is above all elements of $S$. Formally, this means that
+
+$s \leq b$, for all $s$ in $S$.
+
+*** Least Upper Bound (supremum, join)
+
+LUB is the smallest upper bound for a given set.
+
+It is defined in negative form: if there is no element $k$ (not equal to $b$) such that $s \leq k$ then $b$ is the LUB.
+
+Since LUB of set of subsets of a set is their union, join, $\vee$, are used to represent LUB.
+
+So $a \vee b$ means for the set $\{a, b\}$ find element $k$ in $S$ such that $xRb$, where $R$ is the concerned partial order and $x$ from $\{a,b\}$.
+
+But please note that the UB, LB is from the set $S$, and this set $S$ also includes $a$ and $b$, hence UB, LB can be also from the subset/tuple pair for which UB, LB, LUB, GLB is being found.
+
+*** Alternative Definition
+
+*lub / Join / Supremum - LUB*
+
+(It can be any partial order relation)
+
+Let $(A, \leq)$ be a POSET, for any two elements $a, b \in A$ if there exists an element $c \in A$ such that,
+
+$a \leq c$ and $b \leq c$, then $c$ is called upper bound of $a$ and $b$,
+
+'$c$' is at the upper side of both $a$ & $b$
+
+And if there exists *no element* $d \in A$ such that
+
+$a \leq d$ and $b \leq d$ and $d \leq c$,
+
+then $c$ is called least upper bound of $a$ and $b$
+
+(i.e., there exists no element $d \in A$ such that $d$ is also an upper bound of $a$ & $b$ and $d$ is at lower side of $c$)
+
+*** Greatest Lower Bound (infimum, meet)
+
+GLB is defined similarly with meet notation $\wedge$.
+
+** Other Distinguished Elements
+
+- Limit superior and limit inferior
+
+** Important Notes on LUB and GLB
+
+*Note 1:* Let $A$ is any set of real numbers and $(A, \leq)$ is a POSET (less than or equal)
+
+for element $a, b \in A$ identify
+
+(i) $\text{lub}(a,b) = ?$ $\Rightarrow$ $\text{lub}(a,b) = \max(a,b)$
+
+(ii) $\text{glb}(a,b) = ?$ $\Rightarrow$ $\text{glb}(a,b) = \min(a,b)$
+
+*Note 2:* Let $B$ a set of *all natural numbers* and $(A, \div)$ is a POSET.
+
+for elements $a, b \in A$
+
+(i) $\text{lub}(a,b) = \text{LCM}(a,b)$
+
+(ii) $\text{glb}(a,b) = \text{GCD}(a,b)$
+
+(It is the set of all natural nos $\therefore$ LCM as well as GCD of any pair of natural nos will also be present in the set of all natural numbers.)
+
+*Note 3:* Lub and/or Glb for a pair of elements of set '$A$' can not be outside set $A$.
+
+*Note 4:* Let $A$ is any finite set, and $(P(A), \subseteq)$ is the power set of set $A$, then it is a collection of sets. $(P(A), \subseteq)$ is a POSET.
+
+Let $X, Y$ are two elements of $P(A)$ then
+
+$\text{lub}(X, Y) = X \cup Y$
+
+$\text{glb}(X, Y) = X \cap Y$
+
+*Example:*
+Let $A = \{1, 2, 3\}$
+$P(A) = \{ \{\}, \{1\}, \{2\}, \{3\}, \{1,2\}, \{1,3\}, \{2,3\}, \{1,2,3\} \}$
+$(P(A), \subseteq)$ is a POSET.
+$\text{lub}(\{1,2\}, \{2,3\}) = \{1,2,3\}$
+$\text{glb}(\{1,2\}, \{2,3\}) = \{2\}$
+
+*Note 5:* $S = \{ \{1,3\}, \{a,b\}, \{1,a\}, \{1,2,a,b,c\} \}$ with POSET $(S, \subseteq)$
+
+$\text{lub}\{ \{1,3\}, \{a,b\} \} = \{1, 2, a, b, c\}$
+
+$S = \{ \{1,3\}, \{a,b\}, \{1,a\} \}$ with POSET $(S, \subseteq)$
+
+$\text{lub}\{ \{1,3\}, \{a,b\} \}$ = does not exist
+
+** Minimal vs Minimum Elements
+
+Minimal element is one that has no element lower than it.
+
+Minimum element is one that is below every other element in set.
+
+Minimum element is unique, and may not always exist.
+
+Minimal element may be many. And at least one minimal element exists in a POSET (it may not be minimum).
+
+If there are more than 1 minimal or maximal (2 or more) then minimum or maximum element doesn't exist (it should be intuitive).
+
+Every minimum/maximum element is minimal/maximal but converse not true.
+
+Also the statement by sir that a unique minimal element is minimum is wrong. https://math.stackexchange.com/questions/1047409/sole-minimal-element-why-not-also-the-minimum
+
+A counterexample to the statement is $\mathbb{Z} \cup \{c\}$, where $c$ is not comparable to any integer. $c$ is then a minimal element, but there is no minimum because a minimum must be comparable to everything else.
+
+* Lattices
+** Definition and Intuition
+
+A lattice tries to abstract the concept of "min", and "max". https://math.stackexchange.com/a/1646855/946446.
+
+Lattice is a poset. It consists of a partially ordered set in which every pair of elements has a unique supremum (also called a least upper bound or join)
+and a unique infimum (also called a greatest lower bound or meet).
+
+Since two pair of numbers have unique max or min, it makes sense.
+
+** Why Uniqueness Matters
+
+Note that for a pair multiple infimum or supremum may exist. For e.g. pg. 30, note 14.
+
+In the question actually $\text{lub}(b,c) = d$, and $e$. But uniqueness property is dissatisfied hence it is not lattice.
+
+lub, glb are on their own too general for min and max.
+
+** Lattice Laws
+
+Lattice satisfies, identity, commutative, absorption laws but in general distributive may not or may not be satisfied.
+
+** Hasse Diagrams
+
+Hasse diagrams easy way to visualize posets.
+
+Tosets form a line (finite or infinite).
+
+** Lattice Properties
+*** Sublattice
+
+$(M, \vee, \wedge)$ is sublattice of $(L, \vee, \wedge)$ if $M \subset L$ and each glb and lub of each pair in $M$ matches with that of in $L$.
+
+*** Bounded Lattice
+
+Bounded lattice: Has maximum or minimum element (see wiki).
+
+I.e. when lattice is bounded, it has maximum/minimum elements. Of course converse need not be true.
+
+Lattice is unbounded implies infinite set $L$, but infinite set $L$ *doesn't imply unbounded lattice.*
+
+*Every finite set lattice* has min and max elements and hence is bounded.
+
+** Complements
+
+Complement of an element wrt to a lattice is one such that their meet and join are $0$ (min element) and $1$ (max element).
+
+*Note:* if $0$, $1$ exists, then they are each other's complements (of course).
+
+Complement may be many or $0$.
+
+TOSET, if bounded, has only complements for min/max elements and if unbounded then no element has complement.
+
+*In Hasse diagram complement of an element can't exist on same line containing both.*
+
+Complemented lattice is one in which each element has 1 or many complements. *Hence it must be bounded.*
+
+** Distributive Lattice
+
+Distributive lattice is a lattice that follows distributive laws.
+iff
+it has no sublattice equivalent to L1 and L2 lattice.
+
+It has at most 1 complement for its elements (not sufficient tough).
+And elements on a line in Hasse diagram CAN'T lead to dissatisfaction distributive property.
+
+Any lattice with 4 or less elements is distributive.
+
+*A distributive lattice may be ubounded (for e.g. any unbounded toset. Note that all of them have 0 complement, but again this is not a
+sufficient condition).*
+** Boolean Lattice
+
+Boolean lattice is complemented and distributive.
+
+$(V, E) = (2^n, n \cdot 2^{n-1})$.
+
+*** Square-Free Integers
+
+$n$ is called square free integer - no factor leaving 1 are perfect squares.
+
+$D_n$ = set of factors for such $n$.
+
+$(D_n, \text{divided})$ is a boolean lattice and $\text{complement}(i) = n/i$.

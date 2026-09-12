@@ -1,0 +1,15 @@
+{
+  "references": [],
+  "appData": {
+    "org.standardnotes.sn": {
+      "client_updated_at": "2022-05-29T14:25:45.538Z",
+      "useSystemColorScheme": true,
+      "autoLightThemeIdentifier": "Default",
+      "autoDarkThemeIdentifier": "Default",
+      "tagsPanelWidth": 205,
+      "editorWidth": null,
+      "editorLeft": 26,
+      "notesPanelWidth": 382
+    }
+  }
+}

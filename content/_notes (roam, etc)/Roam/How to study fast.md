@@ -1,0 +1,1 @@
+  * You really cant increase your study speed. You slow down when your are not bilocally fit. So take rest to study fast.

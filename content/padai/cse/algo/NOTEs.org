@@ -1,0 +1,14 @@
+In BFS of a node we only consider those edges of graph which are incident to it or eminate from it.
+
+Now these physical edges can be forward edge, if the neighbour of current node has not been visited before or cross edge if the neighbour has been visided.
+
+In other words BFS works by level by level.
+
+Hence for a current node, BFS doesnt consider relation between two nodes that are not directly connected hence there is no consideration of "ancestor" so no back edge.
+In BFS of a node we only consider those edges of graph which are incident to it or eminate from it.
+
+Now these physical edges can be forward edge, if the neighbour of current node has not been visited before or cross edge if the neighbour has been visided.
+
+In other words BFS works by level by level.
+
+Hence for a current node, BFS doesnt consider relation between two nodes that are not directly connected hence there is no consideration of "ancestor" so no back edge.

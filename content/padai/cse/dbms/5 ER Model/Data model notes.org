@@ -1,0 +1,84 @@
+#+TITLE: Data Modeling: ER and Relational Models
+#+AUTHOR: 
+#+DATE: [2025-12-05 Fri]
+#+OPTIONS: toc:2 num:t
+
+* What is a Data Model?
+
+A *data model* is a formalized system used to model and represent the data  requirements of a business or organization.
+Major frameworks include those from IBM and AWS.
+
+** Purpose
+- Communicate database design and architecture
+- Document system workflows and business logic
+- Define goals and constraints
+- Serve as a blueprint for implementation
+
+* Two Primary Modeling Approaches
+
+** Entity-Relationship (ER) Model
+Uses conceptual building blocks to represent data:
+- *Entities*: Objects or concepts (e.g., Customer, Order)
+- *Relationships*: Connections between entities
+- *Entity Sets*: Collections of similar entities
+- *Relationship Types*: Various cardinalities (one-to-one, one-to-many, many-to-many)
+
+** Relational Model
+Based on *first-order logic* and set theory:
+- Organizes data into *tables* (relations)
+- Each table has rows (tuples) and columns (attributes)
+- Enforces data integrity through keys and constraints
+
+* Converting ER Model to Relational Model
+
+** Key Conversion Rules by Relationship Type
+
+*** Many-to-Many Relationships
+*Implementation*: Cross-reference (junction) table
+- Create a new table containing primary keys from both participating entities
+- The combination of these foreign keys forms the composite primary key
+- Example: Students ↔ Courses requires a StudentCourses table
+
+*** One-to-Many Relationships
+*Implementation*: Foreign key in the "many" side OR cross-reference table
+- *Preferred approach*: Add the "one" side's primary key as a foreign key in the "many" side table
+- *Alternative*: Use a cross-reference table (less common)
+- Example: Department (1) → Employees (Many): Add department_id to Employees table
+
+*** One-to-One Relationships
+*Implementation*: Foreign key in either table OR merge tables
+- Add foreign key to whichever table minimizes NULL values
+- For total participation (both sides mandatory), consider merging into a single table
+- Choose the placement that best represents the business logic
+
+* Special Case: Weak Entities
+
+** Important Constraint
+#+BEGIN_QUOTE
+Identifying relationships for weak entities are necessarily one-to-many or one-to-one.
+#+END_QUOTE
+
+** Key Principle
+When converting a weak entity to a relational table, the weak entity's table *already includes a column with the parent entity's primary key* as part of its own composite primary key.
+
+*Critical insight*: This incorporated column suffices to capture the identifying relationship—no additional cross-reference table is needed for the relationship itself.
+
+** Example
+If "Dependent" is a weak entity dependent on "Employee":
+- The Dependent table includes employee_id as part of its primary key
+- This already captures the Employee-Dependent relationship
+- No separate relationship table is required
+
+* Additional Resources
+
+- [[https://runestone.academy/ns/books/published/practical_db/PART2_DATA_MODELING/03-ERD-to-relational/ERD-to-relational.html][Runestone Academy: ER to Relational Conversion]]
+- [[https://cs.uwaterloo.ca/~tozsu/courses/CS338/lectures/][University of Waterloo CS338 Lectures]]
+
+* Quick Reference Summary
+
+| Relationship Type        | Implementation Strategy           | Key Consideration                 |
+|--------------------------+-----------------------------------+-----------------------------------|
+| Many-to-Many             | Cross-reference table w/ comp. PK | Always requires junction table    |
+| One-to-Many              | FK in "many" side table           | Most efficient approach           |
+| One-to-One               | FK in either table or merge       | Minimize NULLs, consider part.    |
+| Weak Entity (1:M or 1:1) | PK includes parent's PK           | Relationship already captured     |

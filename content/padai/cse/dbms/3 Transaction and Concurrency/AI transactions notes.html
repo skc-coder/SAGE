@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-12-03 Wed 15:55 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Database Transactions and Concurrency Control</title>
+<meta name="author" content="Study Notes" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Database Transactions and Concurrency Control</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orge4504cc">1. Introduction</a></li>
+<li><a href="#org9d60383">2. Write Operations</a></li>
+<li><a href="#org4ea9391">3. ACID Properties</a>
+<ul>
+<li><a href="#org79f5996">3.1. Atomicity</a></li>
+<li><a href="#orgd3b7ffb">3.2. Consistency</a></li>
+<li><a href="#org47694aa">3.3. Isolation</a></li>
+<li><a href="#org3d9949d">3.4. Durability</a></li>
+</ul>
+</li>
+<li><a href="#org1fd4bb6">4. Schedule Requirements</a></li>
+<li><a href="#orgabd1acb">5. Recovery</a>
+<ul>
+<li><a href="#orge1189c6">5.1. Overview</a></li>
+<li><a href="#orgf694483">5.2. Recoverability Conflicts</a></li>
+<li><a href="#orgf43cbf0">5.3. Types of Recoverable Schedules</a>
+<ul>
+<li><a href="#orgf0c6767">5.3.1. Cascading Recoverable Schedules</a></li>
+<li><a href="#org49c8448">5.3.2. Strict Recoverable Schedules</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org4d1c62f">6. Serializability</a>
+<ul>
+<li><a href="#org6e4c24b">6.1. Definition</a></li>
+<li><a href="#orge50d197">6.2. Schedule Types</a></li>
+<li><a href="#org040122b">6.3. Concurrency Control</a></li>
+<li><a href="#org538b6fe">6.4. Conflicts in Concurrent Schedules</a>
+<ul>
+<li><a href="#orge8b1961">6.4.1. Important Notes About Conflicts</a></li>
+<li><a href="#orgce57f3c">6.4.2. Examples</a></li>
+</ul>
+</li>
+<li><a href="#org5a82cb7">6.5. Types of Serializable Schedules</a>
+<ul>
+<li><a href="#org4ed067f">6.5.1. View Serializable (VSS)</a></li>
+<li><a href="#org6ed5d08">6.5.2. Conflict Serializable (CSS)</a></li>
+<li><a href="#org6f0dbcd">6.5.3. Precedence Graphs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org5a97ee7">7. Concurrency Control Protocols</a>
+<ul>
+<li><a href="#orgfbff380">7.1. Lock-Based Protocols</a>
+<ul>
+<li><a href="#org9926154">7.1.1. Lock Types</a></li>
+<li><a href="#orgaa51fb6">7.1.2. Basic Locking</a></li>
+<li><a href="#orge8289e8">7.1.3. Two-Phase Locking (2PL)</a></li>
+<li><a href="#org6c3bd5a">7.1.4. 2PL with Upgrading and Downgrading</a></li>
+<li><a href="#orgfb58046">7.1.5. Strict 2PL</a></li>
+<li><a href="#orgf0fe67d">7.1.6. Conservative 2PL</a></li>
+<li><a href="#org42eb123">7.1.7. Rigorous 2PL</a></li>
+</ul>
+</li>
+<li><a href="#org8aaebd0">7.2. Timestamp Ordering Protocol</a>
+<ul>
+<li><a href="#orga674043">7.2.1. Philosophy: Optimistic vs Pessimistic</a></li>
+<li><a href="#org9c15d6b">7.2.2. Timestamp Basics</a></li>
+<li><a href="#org6fa76a2">7.2.3. Basic Timestamp Ordering Protocol (BTSOP)</a></li>
+<li><a href="#orge048421">7.2.4. Timestamp Ordering with Thomas Write Rule</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orge470a1d">8. Summary of Protocol Characteristics</a>
+<ul>
+<li><a href="#orge920e1e">8.1. Comparison Table</a></li>
+<li><a href="#orga5635ef">8.2. Detailed Characteristics</a>
+<ul>
+<li><a href="#orgd7a3bf9">8.2.1. Basic 2PL</a></li>
+<li><a href="#orgd222bb3">8.2.2. Strict 2PL</a></li>
+<li><a href="#org61cb255">8.2.3. Rigorous 2PL</a></li>
+<li><a href="#org17ae16d">8.2.4. Conservative 2PL</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org76efa8c">9. Key Takeaways</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge4504cc" class="outline-2">
+<h2 id="orge4504cc"><span class="section-number-2">1.</span> Introduction</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+This document covers the execution of transactions without conflicts and with concurrency for maximum speed.
+</p>
+
+<p>
+A transaction consists of:
+</p>
+<ol class="org-ol">
+<li>Reading data</li>
+<li>Performing calculations</li>
+<li>Writing back results</li>
+</ol>
+
+<p>
+<b>Note:</b> The calculations themselves are not the database's concern.
+</p>
+</div>
+</div>
+<div id="outline-container-org9d60383" class="outline-2">
+<h2 id="org9d60383"><span class="section-number-2">2.</span> Write Operations</h2>
+<div class="outline-text-2" id="text-2">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Type</th>
+<th scope="col" class="org-left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Normal Write</td>
+<td class="org-left">A read operation has been performed before it</td>
+</tr>
+
+<tr>
+<td class="org-left">Blind Write</td>
+<td class="org-left">No read performed before it (e.g., overwriting)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org4ea9391" class="outline-2">
+<h2 id="org4ea9391"><span class="section-number-2">3.</span> ACID Properties</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+A correct set of transactions follows the ACID properties:
+</p>
+</div>
+<div id="outline-container-org79f5996" class="outline-3">
+<h3 id="org79f5996"><span class="section-number-3">3.1.</span> Atomicity</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>Transactions must either fully execute or have no effect</li>
+<li>Requires recovery mechanisms</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd3b7ffb" class="outline-3">
+<h3 id="orgd3b7ffb"><span class="section-number-3">3.2.</span> Consistency</h3>
+<div class="outline-text-3" id="text-3-2">
+<ul class="org-ul">
+<li>Transactions must start from a consistent state and commit with a consistent state</li>
+<li>What constitutes "consistent" is defined by business rules</li>
+<li>Affected by both recovery and concurrency control:
+<ul class="org-ul">
+<li>Poor recovery from abortions can cause inconsistency</li>
+<li>Poor concurrency management can cause inconsistency</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org47694aa" class="outline-3">
+<h3 id="org47694aa"><span class="section-number-3">3.3.</span> Isolation</h3>
+<div class="outline-text-3" id="text-3-3">
+<ul class="org-ul">
+<li>Ensures that the effect of transactions is equivalent to running them serially, even when executed concurrently</li>
+<li>Ensured by maintaining serializability</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3d9949d" class="outline-3">
+<h3 id="org3d9949d"><span class="section-number-3">3.4.</span> Durability</h3>
+<div class="outline-text-3" id="text-3-4">
+<ul class="org-ul">
+<li>Committed transaction effects must persist under all conditions</li>
+<li>Can be ensured by making data backups</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org1fd4bb6" class="outline-2">
+<h2 id="org1fd4bb6"><span class="section-number-2">4.</span> Schedule Requirements</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+We want schedules to be:
+</p>
+<ul class="org-ul">
+<li>Serializable</li>
+<li>Recoverable (specifically, cascadeless recoverable)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgabd1acb" class="outline-2">
+<h2 id="orgabd1acb"><span class="section-number-2">5.</span> Recovery</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-orge1189c6" class="outline-3">
+<h3 id="orge1189c6"><span class="section-number-3">5.1.</span> Overview</h3>
+<div class="outline-text-3" id="text-5-1">
+<ul class="org-ul">
+<li>Atomicity requires a recovery management component</li>
+<li>Recovery systems use: undo, redo, rollback, aborting, and committing operations</li>
+<li>Requires transaction logs</li>
+<li>Atomicity depends on recoverability</li>
+</ul>
+
+<p>
+<b>Important:</b> Recovery here refers to recovering from the effects of an aborted transaction, not "Durability" recovery.
+</p>
+</div>
+</div>
+<div id="outline-container-orgf694483" class="outline-3">
+<h3 id="orgf694483"><span class="section-number-3">5.2.</span> Recoverability Conflicts</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Recoverability is affected by two conflicts:
+</p>
+<ul class="org-ul">
+<li>WR (Write-Read) conflicts</li>
+<li>WW (Write-Write) conflicts</li>
+</ul>
+
+<p>
+<b>Note:</b> RWR (Read-Write-Read) conflict doesn't affect recoverability; it affects serializability/isolation.
+</p>
+</div>
+</div>
+<div id="outline-container-orgf43cbf0" class="outline-3">
+<h3 id="orgf43cbf0"><span class="section-number-3">5.3.</span> Types of Recoverable Schedules</h3>
+<div class="outline-text-3" id="text-5-3">
+</div>
+<div id="outline-container-orgf0c6767" class="outline-4">
+<h4 id="orgf0c6767"><span class="section-number-4">5.3.1.</span> Cascading Recoverable Schedules</h4>
+<div class="outline-text-4" id="text-5-3-1">
+<p>
+<b>Condition:</b> If transaction T2 reads data written by transaction T1, then T1 must commit before T2.
+</p>
+
+<ul class="org-ul">
+<li>If this condition is not satisfied, irrecoverability occurs</li>
+<li>When satisfied, we have a cascading recoverable schedule</li>
+<li>Removes the WR conflict</li>
+<li>However, cascading recovery can be costly (multiple transactions may need to abort)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org49c8448" class="outline-4">
+<h4 id="org49c8448"><span class="section-number-4">5.3.2.</span> Strict Recoverable Schedules</h4>
+<div class="outline-text-4" id="text-5-3-2">
+<p>
+<b>Conditions:</b> Other transactions cannot read or write data that the current transaction has written to (i.e., no WR or WW conflicts).
+</p>
+
+<p>
+<b>Reasoning:</b>
+</p>
+<ul class="org-ul">
+<li>In WW conflict cases, the DBMS cannot determine whether to keep the change or not</li>
+<li>It cannot identify whether data was written by the aborted transaction or another transaction</li>
+<li>When these conditions are met, we have a strict recoverable schedule</li>
+</ul>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Schedule Type</th>
+<th scope="col" class="org-left">Conflicts Allowed</th>
+<th scope="col" class="org-left">Recovery Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Cascading Recoverable</td>
+<td class="org-left">WW only</td>
+<td class="org-left">High</td>
+</tr>
+
+<tr>
+<td class="org-left">Strict Recoverable</td>
+<td class="org-left">None (no WR, WW)</td>
+<td class="org-left">Low</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org4d1c62f" class="outline-2">
+<h2 id="org4d1c62f"><span class="section-number-2">6.</span> Serializability</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org6e4c24b" class="outline-3">
+<h3 id="org6e4c24b"><span class="section-number-3">6.1.</span> Definition</h3>
+<div class="outline-text-3" id="text-6-1">
+<ul class="org-ul">
+<li>A serial schedule has the form: T₁ → T₂ → T₃</li>
+<li>Concurrent schedules can be "equivalent" to serial schedules</li>
+<li>A schedule is equivalent to another if:
+<ul class="org-ul">
+<li>Each read operation in both schedules reads the same value</li>
+<li>The final write is performed by the same operation in both schedules</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge50d197" class="outline-3">
+<h3 id="orge50d197"><span class="section-number-3">6.2.</span> Schedule Types</h3>
+<div class="outline-text-3" id="text-6-2">
+<div class="org-src-container">
+<pre class="src src-nil">Schedules
+├── Serial (low throughput)
+└── Concurrent (high throughput)
+    ├── Serializable (equivalent to serial)
+    └── Non-serializable
+</pre>
+</div>
+
+<p>
+The DBMS deals with concurrent serializable schedules.
+</p>
+</div>
+</div>
+<div id="outline-container-org040122b" class="outline-3">
+<h3 id="org040122b"><span class="section-number-3">6.3.</span> Concurrency Control</h3>
+<div class="outline-text-3" id="text-6-3">
+<ul class="org-ul">
+<li>The concurrency control component prevents non-serializable schedules</li>
+<li>Ensures serializability and thus isolation</li>
+<li>Implemented using locks and other techniques</li>
+<li>Ensures only serial-equivalent schedules execute</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org538b6fe" class="outline-3">
+<h3 id="org538b6fe"><span class="section-number-3">6.4.</span> Conflicts in Concurrent Schedules</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+<b>Note:</b> These are written in the order the conflict occurs (RW means read then write).
+</p>
+
+<p>
+In all cases below, the first operation happens, then the second, but the transaction of the first operation is uncommitted or still ongoing.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Conflict</th>
+<th scope="col" class="org-left">Name</th>
+<th scope="col" class="org-left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">RWR</td>
+<td class="org-left">Unrepeatable Read</td>
+<td class="org-left">Read, then Write, then Read again</td>
+</tr>
+
+<tr>
+<td class="org-left">WR</td>
+<td class="org-left">Dirty Read</td>
+<td class="org-left">Write, then Read</td>
+</tr>
+
+<tr>
+<td class="org-left">WW</td>
+<td class="org-left">Lost Update</td>
+<td class="org-left">Write, then Write</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="outline-container-orge8b1961" class="outline-4">
+<h4 id="orge8b1961"><span class="section-number-4">6.4.1.</span> Important Notes About Conflicts</h4>
+<div class="outline-text-4" id="text-6-4-1">
+<ul class="org-ul">
+<li>These conflicts are NOT present in any serial schedule (each transaction commits before another starts)</li>
+<li>These MAY be present in a serializable schedule</li>
+<li>A conflict-equivalent schedule may have these conflicts, but a conflict-serializable schedule doesn't (by definition, it can be transformed into a serial one by commuting non-conflicting operations)</li>
+<li>These 'conflicts' may not actually be problems—they indicate ways transactions can affect each other and deviate from serial behavior</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgce57f3c" class="outline-4">
+<h4 id="orgce57f3c"><span class="section-number-4">6.4.2.</span> Examples</h4>
+<div class="outline-text-4" id="text-6-4-2">
+<p>
+<b>Example 1 (WR Conflict):</b>
+If T1 writes to A and T2 reads A, this may not be problematic if in the serial schedule T1 → T2, the same operation in T2 reads the same value written by T1.
+</p>
+
+<p>
+<b>Example 2 (WW Conflict):</b>
+If three transactions consist of only the operation W(B) and the schedule is equivalent to T1→T2→T3, then the WW conflict between T1 and T2 is not significant as either can write early or late. What matters is that the last update is done by T3.
+</p>
+
+<p>
+This is the basis of "view serializability"—the view must be the same.
+</p>
+
+<p>
+In conflict serializability: W₁(B) → W₂(B) → W₃(B) is not equivalent to W₂(B) → W₁(B) → W₃(B).
+In view serializability: They are equivalent.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org5a82cb7" class="outline-3">
+<h3 id="org5a82cb7"><span class="section-number-3">6.5.</span> Types of Serializable Schedules</h3>
+<div class="outline-text-3" id="text-6-5">
+</div>
+<div id="outline-container-org4ed067f" class="outline-4">
+<h4 id="org4ed067f"><span class="section-number-4">6.5.1.</span> View Serializable (VSS)</h4>
+<div class="outline-text-4" id="text-6-5-1">
+<p>
+The more general type of serializable schedule.
+</p>
+
+<p>
+Two schedules S1 and S2 are view-equivalent when:
+</p>
+
+<ol class="org-ol">
+<li>If transaction Tᵢ in S1 reads an initial value for object X, so does the same transaction Tᵢ in S2</li>
+<li>If transaction Tᵢ reads a value (for object X) written by transaction Tⱼ in S1, it must do so in S2</li>
+<li>If transaction Tᵢ in S1 performs the final write for object X, so does the same transaction Tᵢ in S2</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org6ed5d08" class="outline-4">
+<h4 id="org6ed5d08"><span class="section-number-4">6.5.2.</span> Conflict Serializable (CSS)</h4>
+<div class="outline-text-4" id="text-6-5-2">
+<p>
+A more restrictive type of serializable schedule.
+</p>
+
+<ul class="org-ul">
+<li>When non-conflicting operations can be swapped (commuted) to transform one schedule into another, they are conflict-equivalent</li>
+<li>If a schedule is conflict-equivalent to a serial schedule, it is CSS</li>
+<li>Called "conflict equivalent" because the two schedules have the same conflicts</li>
+<li>Easier to implement than VSS</li>
+</ul>
+
+<p>
+<b>Note:</b> Here conflicts don't depend on "commit" as they do in recoverability.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Property</th>
+<th scope="col" class="org-left">View Serializable</th>
+<th scope="col" class="org-left">Conflict Serializable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Generality</td>
+<td class="org-left">More general</td>
+<td class="org-left">More restrictive</td>
+</tr>
+
+<tr>
+<td class="org-left">WW conflicts considered</td>
+<td class="org-left">Can be ignored</td>
+<td class="org-left">Must be considered</td>
+</tr>
+
+<tr>
+<td class="org-left">Implementation complexity</td>
+<td class="org-left">Harder</td>
+<td class="org-left">Easier</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org6f0dbcd" class="outline-4">
+<h4 id="org6f0dbcd"><span class="section-number-4">6.5.3.</span> Precedence Graphs</h4>
+<div class="outline-text-4" id="text-6-5-3">
+<p>
+Schedules can be depicted using precedence graphs, where arrows show which transaction must come before another.
+</p>
+
+<p>
+The arrow-making process differs based on serializability type:
+</p>
+
+<ul class="org-ul">
+<li><b>CSS:</b> Arrows formed by WW, WR, RW conflicts</li>
+<li><b>VSS:</b> Arrows formed by WR, RW conflicts (WW can be ignored, along with who did the last write)</li>
+</ul>
+
+<p>
+<b>Note:</b> To be safe, also include the first condition from the view serializability definition.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org5a97ee7" class="outline-2">
+<h2 id="org5a97ee7"><span class="section-number-2">7.</span> Concurrency Control Protocols</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-orgfbff380" class="outline-3">
+<h3 id="orgfbff380"><span class="section-number-3">7.1.</span> Lock-Based Protocols</h3>
+<div class="outline-text-3" id="text-7-1">
+</div>
+<div id="outline-container-org9926154" class="outline-4">
+<h4 id="org9926154"><span class="section-number-4">7.1.1.</span> Lock Types</h4>
+<div class="outline-text-4" id="text-7-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Lock Type</th>
+<th scope="col" class="org-left">Symbol</th>
+<th scope="col" class="org-left">Allows Reading</th>
+<th scope="col" class="org-left">Allows Writing</th>
+<th scope="col" class="org-left">Can Share</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Shared Lock</td>
+<td class="org-left">S</td>
+<td class="org-left">Yes</td>
+<td class="org-left">No</td>
+<td class="org-left">Yes</td>
+</tr>
+
+<tr>
+<td class="org-left">Exclusive Lock</td>
+<td class="org-left">X</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+<td class="org-left">No</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+<b>Implementation Note:</b> These locks are probably implemented using semaphores, though not exactly the same.
+</p>
+
+<ul class="org-ul">
+<li>If a lock is denied, a transaction must wait or be aborted</li>
+<li>S locks can be granted even if other transactions hold S locks on the same data item</li>
+<li>X locks cannot be shared</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgaa51fb6" class="outline-4">
+<h4 id="orgaa51fb6"><span class="section-number-4">7.1.2.</span> Basic Locking</h4>
+<div class="outline-text-4" id="text-7-1-2">
+<ul class="org-ul">
+<li>Does not ensure serializability</li>
+<li>Not recommended for production use</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge8289e8" class="outline-4">
+<h4 id="orge8289e8"><span class="section-number-4">7.1.3.</span> Two-Phase Locking (2PL)</h4>
+<div class="outline-text-4" id="text-7-1-3">
+</div>
+<ol class="org-ol">
+<li><a id="org62c49a0"></a>Phases<br />
+<div class="outline-text-5" id="text-7-1-3-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Phase</th>
+<th scope="col" class="org-left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Growing Phase</td>
+<td class="org-left">Lock-only acquiring phase</td>
+</tr>
+
+<tr>
+<td class="org-left">Shrinking Phase</td>
+<td class="org-left">Lock-only releasing phase</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li><a id="org0eedb27"></a>Properties<br />
+<div class="outline-text-5" id="text-7-1-3-2">
+<ul class="org-ul">
+<li>Allows serializability (not all serial schedules get executed)</li>
+<li>If a schedule is allowed using 2PL, it must be CSS</li>
+<li>The converse need not be true</li>
+<li>Order of lock points matches order of equivalent CSS serial schedule</li>
+</ul>
+
+<p>
+<b>Note:</b> No upgrading or downgrading from S to X. If a write must be performed after a read, take an X lock from the start.
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org6c3bd5a" class="outline-4">
+<h4 id="org6c3bd5a"><span class="section-number-4">7.1.4.</span> 2PL with Upgrading and Downgrading</h4>
+<div class="outline-text-4" id="text-7-1-4">
+</div>
+<ol class="org-ol">
+<li><a id="orgbdb460b"></a>Lock Operations<br />
+<div class="outline-text-5" id="text-7-1-4-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Operation</th>
+<th scope="col" class="org-left">From</th>
+<th scope="col" class="org-left">To</th>
+<th scope="col" class="org-left">Allowed Phase</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Upgrade</td>
+<td class="org-left">S</td>
+<td class="org-left">X</td>
+<td class="org-left">Growing only</td>
+</tr>
+
+<tr>
+<td class="org-left">Downgrade</td>
+<td class="org-left">X</td>
+<td class="org-left">S</td>
+<td class="org-left">Shrinking only</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li><a id="org2d234bc"></a>Benefits<br />
+<div class="outline-text-5" id="text-7-1-4-2">
+<ul class="org-ul">
+<li>Can reduce delays and abortions</li>
+<li>Can execute more CSS schedules</li>
+<li>Cannot execute non-CSS schedules (upgrading/downgrading doesn't change this)</li>
+</ul>
+</div>
+</li>
+<li><a id="orgfb66934"></a>Problems with Basic 2PL<br />
+<div class="outline-text-5" id="text-7-1-4-3">
+<p>
+Both basic 2PL variants (with or without upgrading/downgrading) suffer from:
+</p>
+
+<ul class="org-ul">
+<li><b>Irrecoverability</b> → Solved by Strict 2PL</li>
+<li><b>Deadlock</b> → Solved by Conservative 2PL</li>
+<li><b>Starvation/Delay</b> → No solution available</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgfb58046" class="outline-4">
+<h4 id="orgfb58046"><span class="section-number-4">7.1.5.</span> Strict 2PL</h4>
+<div class="outline-text-4" id="text-7-1-5">
+<p>
+<b>Rule:</b> Transactions must hold all exclusive locks until they commit or abort.
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgd7dfa85"></a>Benefits<br />
+<div class="outline-text-5" id="text-7-1-5-1">
+<ul class="org-ul">
+<li>Prevents dirty reads</li>
+<li>Schedules will be recoverable and cascadeless</li>
+<li>Other transactions can access data only after the current transaction commits</li>
+<li>Shared locks can be released in the shrinking phase before commit</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgf0fe67d" class="outline-4">
+<h4 id="orgf0fe67d"><span class="section-number-4">7.1.6.</span> Conservative 2PL</h4>
+<div class="outline-text-4" id="text-7-1-6">
+<p>
+<b>Rule:</b> A transaction must either get all locks before starting or release all and try again later.
+</p>
+
+<p>
+<b>Purpose:</b> Fights deadlock by preventing the hold-and-wait condition.
+</p>
+
+<p>
+<b>Note:</b> X locks can be released before commit, so it can suffer from:
+</p>
+<ul class="org-ul">
+<li>Irrecoverability</li>
+<li>Cascading rollback</li>
+<li>Lost update problems</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org42eb123" class="outline-4">
+<h4 id="org42eb123"><span class="section-number-4">7.1.7.</span> Rigorous 2PL</h4>
+<div class="outline-text-4" id="text-7-1-7">
+<p>
+<b>Rule:</b> All locks (both S and X) must be held until commit.
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org8a96760"></a>Properties<br />
+<div class="outline-text-5" id="text-7-1-7-1">
+<ul class="org-ul">
+<li>Ensures schedules execute in the order of their equivalent serial schedule</li>
+<li>Like Strict 2PL, free from irrecoverability, cascading rollback, and lost update problems</li>
+<li>Not free from deadlock or starvation</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org8aaebd0" class="outline-3">
+<h3 id="org8aaebd0"><span class="section-number-3">7.2.</span> Timestamp Ordering Protocol</h3>
+<div class="outline-text-3" id="text-7-2">
+</div>
+<div id="outline-container-orga674043" class="outline-4">
+<h4 id="orga674043"><span class="section-number-4">7.2.1.</span> Philosophy: Optimistic vs Pessimistic</h4>
+<div class="outline-text-4" id="text-7-2-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Approach</th>
+<th scope="col" class="org-left">Protocol</th>
+<th scope="col" class="org-left">Assumption</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Pessimistic</td>
+<td class="org-left">Locking</td>
+<td class="org-left">Assumes serializability will be violated</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Prevents potentially violating actions</td>
+</tr>
+
+<tr>
+<td class="org-left">Optimistic</td>
+<td class="org-left">Timestamping</td>
+<td class="org-left">Assumes serializability will be maintained</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Only interferes if actual violation occurs</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org9c15d6b" class="outline-4">
+<h4 id="org9c15d6b"><span class="section-number-4">7.2.2.</span> Timestamp Basics</h4>
+<div class="outline-text-4" id="text-7-2-2">
+<ul class="org-ul">
+<li>Each transaction is assigned a timestamp</li>
+<li>Earlier transactions get smaller numbers (and are considered "older")</li>
+<li>Each data item has two timestamps:
+<ul class="org-ul">
+<li><b>RTS(A):</b> Highest timestamp of successful read transactions (max timestamp)</li>
+<li><b>WTS(A):</b> Highest timestamp of successful write transactions (max timestamp)</li>
+</ul></li>
+<li>Initially, both are 0</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6fa76a2" class="outline-4">
+<h4 id="org6fa76a2"><span class="section-number-4">7.2.3.</span> Basic Timestamp Ordering Protocol (BTSOP)</h4>
+<div class="outline-text-4" id="text-7-2-3">
+</div>
+<ol class="org-ol">
+<li><a id="orgd0537d2"></a>Properties<br />
+<div class="outline-text-5" id="text-7-2-3-1">
+<ul class="org-ul">
+<li>Executes if and only if CSS</li>
+<li>Equivalent serial schedule is consistent with CSS and timestamp ordering</li>
+<li>Ensures all operations are consistent with serial ordering based on timestamps</li>
+<li>If TS(T1) &lt; TS(T2), only allows actions consistent with serial schedule T1; T2</li>
+<li>Executes only CSS schedules</li>
+<li>CSS must have conflict-equivalent serial schedule matching timestamp ascending order</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orge048421" class="outline-4">
+<h4 id="orge048421"><span class="section-number-4">7.2.4.</span> Timestamp Ordering with Thomas Write Rule</h4>
+<div class="outline-text-4" id="text-7-2-4">
+<p>
+<b>Principle:</b> A write is useless if no one reads it before it is overwritten. Skip such writes.
+</p>
+
+<p>
+<b>Properties:</b>
+</p>
+<ul class="org-ul">
+<li>Can execute some view serializable schedules</li>
+<li>More general than BTSOP</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-orge470a1d" class="outline-2">
+<h2 id="orge470a1d"><span class="section-number-2">8.</span> Summary of Protocol Characteristics</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-orge920e1e" class="outline-3">
+<h3 id="orge920e1e"><span class="section-number-3">8.1.</span> Comparison Table</h3>
+<div class="outline-text-3" id="text-8-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Protocol</th>
+<th scope="col" class="org-left">Irrecoverable</th>
+<th scope="col" class="org-left">Cascading Rollback</th>
+<th scope="col" class="org-left">Lost Update</th>
+<th scope="col" class="org-left">Deadlock</th>
+<th scope="col" class="org-left">Starvation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Basic 2PL</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+</tr>
+
+<tr>
+<td class="org-left">Strict 2PL</td>
+<td class="org-left">No</td>
+<td class="org-left">No</td>
+<td class="org-left">No</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+</tr>
+
+<tr>
+<td class="org-left">Rigorous 2PL</td>
+<td class="org-left">No</td>
+<td class="org-left">No</td>
+<td class="org-left">No</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+</tr>
+
+<tr>
+<td class="org-left">Conservative 2PL</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+<td class="org-left">Yes</td>
+<td class="org-left">No</td>
+<td class="org-left">Yes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-orga5635ef" class="outline-3">
+<h3 id="orga5635ef"><span class="section-number-3">8.2.</span> Detailed Characteristics</h3>
+<div class="outline-text-3" id="text-8-2">
+</div>
+<div id="outline-container-orgd7a3bf9" class="outline-4">
+<h4 id="orgd7a3bf9"><span class="section-number-4">8.2.1.</span> Basic 2PL</h4>
+<div class="outline-text-4" id="text-8-2-1">
+<p>
+<b>Suffers from:</b>
+</p>
+<ul class="org-ul">
+<li>Irrecoverability</li>
+<li>Deadlock</li>
+<li>Starvation</li>
+<li>Cascading rollback (if recoverable)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd222bb3" class="outline-4">
+<h4 id="orgd222bb3"><span class="section-number-4">8.2.2.</span> Strict 2PL</h4>
+<div class="outline-text-4" id="text-8-2-2">
+<p>
+<b>Suffers from:</b>
+</p>
+<ul class="org-ul">
+<li>Deadlock</li>
+<li>Starvation</li>
+</ul>
+
+<p>
+<b>Free from:</b>
+</p>
+<ul class="org-ul">
+<li>Irrecoverability</li>
+<li>Cascading rollback</li>
+<li>Lost update</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org61cb255" class="outline-4">
+<h4 id="org61cb255"><span class="section-number-4">8.2.3.</span> Rigorous 2PL</h4>
+<div class="outline-text-4" id="text-8-2-3">
+<p>
+<b>Suffers from:</b>
+</p>
+<ul class="org-ul">
+<li>Deadlock</li>
+<li>Starvation</li>
+</ul>
+
+<p>
+<b>Free from:</b>
+</p>
+<ul class="org-ul">
+<li>Irrecoverability</li>
+<li>Cascading rollback</li>
+<li>Lost update</li>
+</ul>
+
+<p>
+<b>Note:</b> Rigorous 2PL is easier to implement because both lock types must be unlocked by committing.
+</p>
+</div>
+</div>
+<div id="outline-container-org17ae16d" class="outline-4">
+<h4 id="org17ae16d"><span class="section-number-4">8.2.4.</span> Conservative 2PL</h4>
+<div class="outline-text-4" id="text-8-2-4">
+<p>
+<b>Suffers from:</b>
+</p>
+<ul class="org-ul">
+<li>Irrecoverability</li>
+<li>Cascading rollback</li>
+<li>Lost update problem</li>
+<li>Starvation</li>
+</ul>
+
+<p>
+<b>Free from:</b>
+</p>
+<ul class="org-ul">
+<li>Deadlock</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org76efa8c" class="outline-2">
+<h2 id="org76efa8c"><span class="section-number-2">9.</span> Key Takeaways</h2>
+<div class="outline-text-2" id="text-9">
+<ol class="org-ol">
+<li><b>ACID Properties</b> are fundamental to correct transaction processing</li>
+<li><b>Serializability</b> ensures isolation while allowing concurrency</li>
+<li><b>Recoverability</b> ensures atomicity even when transactions abort</li>
+<li>Different <b>locking protocols</b> offer different trade-offs between safety and performance</li>
+<li><b>Timestamp ordering</b> provides an optimistic alternative to locking</li>
+<li>Choose protocols based on your application's needs for recoverability, serializability, and performance</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2024</p>
+<p class="author">Author: Study Notes</p>
+<p class="date">Created: 2025-12-03 Wed 15:55</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

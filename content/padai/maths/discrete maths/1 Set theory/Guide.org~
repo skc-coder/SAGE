@@ -1,0 +1,329 @@
+Read note 2, 5
+
+------
+
+https://en.wikipedia.org/wiki/Relation_(mathematics)#Properties_of_relations
+https://matheducators.stackexchange.com/questions/19289/mnemonics-to-correlate-the-definition-of-asymmetric-relation-and-antisymmetri/19293#19293
+
+https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Discrete_Mathematics_for_Computer_Science_(Fitch)/04%3A_Relations/4.04%3A_Partially_Ordered_Sets
+
+(add image here)
+Reflexive and irreflexive are "for all" definitions.
+
+Symmetric, a/anti-symmetric and transisitve are "for all -> (if)" definitions.
+
+So refleive defintion should have all the diagonal elements and irreflexive should have none.
+
+Empty relation is neither reflexive nor irreflexive.
+
+But because of "if", empt relation is symmetric, a/anti-symmetric and transisitve.
+
+It is clear that reflexive and irreflieve are not exhaustive, and neither are symmetric and a/anti-symmetric.
+
+Anti symmetric contains asymmetric, by allowing presence of diagonal elements.
+
+
+| Propertie      | Smallest          | Largest  | Number        |
+| Reflexive      | Diagonal relation | A*A      | 2^(nP2)      |
+| Irrefleive     | Diaognal          | diagonal | same as above |
+| SYmmetric      | Null              | A*A      | 2^n * 2^nC2   |
+| Anti-symmetric | Null              | -        | 2^n * 3^nC2   |
+| A-symmetric    | Null              |   -      | 3^nC2         |
+| Transitive     | NUll              | A*A      |  -  |
+
+nP2 = choosing two disitinc elements from a set of n disitic elements, so how many such binary tuples possibels = number of non diagonal elements = n^2 - 2.
+
+nC2 = pairs of symmetric tupels, leaving diagonal ones. Of course it is nP2/2 = nC2.
+
+2^nC2 in symmetric relation each pair of tuples has chocie of being included or not.
+3^nC2 in anti symmetric relation, each pair has choice of not taking both tuples or taking only one.
+
+
+Since [a/anti] symmetric and transitive relation are "if" defintions, so if a relation flasifies their if condition then that is automatically the realtion.
+
+Paritucally in checking for transitive relation diagonal elements can be ignored, ie. their last element should not be compared to the first element of others.
+
+CLzure
+Reflexive colousre = R U Dig(A).
+SYmmetric colzure = R U R^-1.
+Transitvie zolusre = iternations needed
+
+---
+Eauivelence relation: relation is reflexive, symmetric and transitive.
+https://math.stackexchange.com/questions/3299809/what-is-the-intuitive-motivation-for-defining-equivalence-relations-with-the-pro
+Smallest = Dig, Largest = $A *A$.
+
+Equviaelnce tries to abstract the concept of "sameness".
+
+= is reflxive, transitive and symmetric.
+
+Equelence relation generate equivalence clsses, which their set makes a parition.
+
+A equvlcence class [x] = {set of elements which are "same/equal" as x (in some resepct eg color, weight, price}.
+Of coruse if [x] = {a, b, c} then [a] = {x, b, c}, as they all are same.
+
+Each possible parition of a set corresponds to a equvlence relation. ANd vice versa.
+
+A parition is a set whose elemnts
+are not null,
+are mutually exclusive,
+union gives the inteted set.
+
+Bell number gives for |A| =n number of possible paritions, and thus number of possible equivalent relations.
+
+To find number equivalence realtion with  k order pairs in a set |A| =n....
+(see the image, i will add image here)
+-----
+-----
+
+Order theory
+https://en.wikipedia.org/wiki/Order_theory
+https://en.wikipedia.org/wiki/List_of_order_theory_topics
+
+Tries to formalize the propertiese of < and <=.
+
+a partial order is a homogeneous binary relation that is reflexive, antisymmetric, and transitive. A partially ordered set (poset for short) is an ordered pair 
+P
+=
+(
+X
+,
+≤
+)
+{\displaystyle P=(X,\leq )} consisting of a set 
+X
+{\displaystyle X} (called the ground set of 
+P
+{\displaystyle P}) and a partial order 
+≤
+{\displaystyle \leq } on 
+X
+{\displaystyle X}.
+
+a total order or linear order is a partial order in which any two elements are comparable.
+That is, a total order is a binary relation $ \leq $ on some set $ X $, which satisfies the following for all $ a,b $ and $ c $ in $ X $:
+
+$ a\leq a $ (reflexive).
+If $ a\leq b $ and $ b\leq c $ then $ a\leq c $ (transitive).
+If $ a\leq b $ and $ b\leq a $ then $ a=b $ (antisymmetric).
+$ a\leq b $ or $ b\leq a $ (strongly connected, formerly called totality).
+
+A set equipped with a total order is a totally ordered set.
+
+
+----
+
+Consider a relation that is anti-symmetric and transitive. Then (weak) partial (and hence total) and strict-parital order are all part of it. Which relation is nether partial, nor strict partial?
+Consider S = {0, 1, 3} and relation = divide. It is one relation that fits the bill. As
+1R1, 3R3 (so not strict partial) but 0notR0 (so not weak partial either).
+
+----
+
+Distinguished elements of partial orders:
+
+Greatest element (maximum, top, unit), Least element (minimum, bottom, zero)
+Maximal element, minimal element
+Upper bound:
+Given a subset S of some poset P, an upper bound of S is an element b of P that is above all elements of S. Formally, this means that
+
+s ≤ b, for all s in S.
+
+Least upper bound (supremum, join)
+LUB is the smallest upper bound for a given set.
+It is defined in negative form: if there is no element k (not equal to b) such that s <= k then b is the LUB.
+
+Since LUB of set of subsets of a set is their union, join, V, are used to represenet LUB.
+
+So a v b means for the set {a, b} find element k in S such that xRb, where R is the cocnered partial order and x from {a,b}.
+BUt please note that the UB, LB is from the set S, and this set S also includeds a and b, hence UB,LB can be also from the subset/tuple pair for which UB, LB, LUB, GLB is being found.
+
+Alternative definition:
+Here's the extracted text:
+
+**Topic: Least Upper Bound**
+
+**lub / Join / Supremum**
+**LUB**
+
+(It can be any partial order relation)
+
+Let (A,≤) be a POSET, for any two elements **a,b∈A** if there exists an element **c∈A** such that,
+
+**a≤c** and **b≤c**,     then **c is called upper bound of a and b**,
+
+'c' is at the upper side of both a & b
+
+And if there exists **no element** **d∈A** such that
+
+**a≤d** and **b≤d** and **d≤c**,
+
+then **c is called least upper bound of a and b**
+
+---
+
+**Handwritten annotations:**
+- There exists no element 'd'∈A s.t.
+- d is also an upper bound of a & b
+- d is at lower side of c
+
+
+Greatest lower bound (infimum, meet)
+Limit superior and limit inferior
+
+Notes:
+
+Here's the extracted text:
+
+**Note:** Let A is any set of real numbers and (A, ≤) is a POSET,
+(less than or equal)
+
+for element a, b ∈ A
+
+identify
+
+(i) lub(a,b) = ? ⟹ lub(a,b) = max(a,b)
+
+(ii) glb(a,b) = ? ⟹ glb(a,b) = min(a,b)
+
+---
+
+The image shows that for a POSET of real numbers with the standard ≤ relation, the least upper bound (lub) equals the maximum and the greatest lower bound (glb) equals the minimum of any two elements.
+
+Here's the extracted text:
+
+**Note:** Let B a set of **all natural numbers** and (A, ÷) is a POSET.
+
+for elements a, b ∈ A
+
+(i) lub(a,b) = LCM(a,b)
+
+(ii) glb(a,b) = GCD(a,b)
+
+---
+
+**Side note (in pink):**
+It is the set of all natural nos
+∴ LCM as well as GCD of any pair of natural nos will also be present in the set of all natural numbers.
+
+---
+
+This shows that for natural numbers with the divisibility relation (÷), the least upper bound is the LCM and the greatest lower bound is the GCD.
+
+Here's the extracted text:
+
+**Note:** - Lub and/or Glb for a pair of elements of set 'A' can not be out side set A.
+
+
+Here's the extracted text:
+
+**Note:** Let A is any finite set, and (P(A), ≤) is the power set of set A, then it is a collection of sets. (P(A), ≤) is a POSET.
+
+Let X, Y are two elements of P(A) then
+
+lub(X, Y) = X ∪ Y
+
+glb(X, Y) = X ∩ Y
+
+---
+
+**Example:**
+Let A = {1, 2, 3}
+P(A) = { {}, {1}, {2}, {3}, {1,2}, {1,3}, {2,3}, {1,2,3} }
+(P(A), ≤) is a POSET.
+lub({1,2}, {2,3}) = {1,2,3}
+glb({1,2}, {2,3}) = {2}
+
+
+Here's the extracted text:
+
+S = { {1,3}, {a,b}, {1,a}, {1,2,a,b,c} } with POSET (S, ≤)
+lub { {1,3}, {a,b} } = {1, 2, a, b, c}
+
+---
+
+S = { {1,3}, {a,b}, {1,a} } with POSET (S, ≤)
+lub { {1,3}, {a,b} } = does not exist
+
+
+
+----
+
+Minimal element is one that has now element lower then it.
+Minium element is one that is below every other element in set.
+Minimum element is unique, and may not always exsists.
+
+Minimal element may be many. And at least one minimal element exists in a POSET (it may not be minimum).
+
+If there are more than 1 minimal or maximal (2 or more) then minium or maxium element doesnt exist (it should be intiutive).
+
+Every miniumum/maximal element is minimal/maximal but converse not true.
+
+Also the statment by sir that a uniune minimal element is minium is wrong. https://math.stackexchange.com/questions/1047409/sole-minimal-element-why-not-also-the-minimum
+A counterexample to the statement is Z∪{c}
+, where c
+ is not comparable to any integer. c
+ is then a minimal element, but there is no minimum because a minimum must be comparable to everything else.
+
+-----
+A lattice tries to abstract the concept of "min", and "max". https://math.stackexchange.com/a/1646855/946446.
+
+Lattice is a poset for  It consists of a partially ordered set in which every pair of elements has a unique supremum (also called a least upper bound or join) and a unique infimum (also called a greatest lower bound or meet).
+
+Since two pair of number have unique max or min, it makes sense.
+
+Note that for a pair multiple infimum or supremum may exist. For eg pg. 30, note 14.
+In the question actually  lub(b,c) = d, and e. But uniquness property is disatified hence it is not lattice.
+
+lub, glb are on their own too general for min and max.
+
+
+Lattice satisfies, identity, commutative, abosrption laws but in general distributive may not or may not be satified.
+----
+
+Hasse diags easy way to visualize posets.
+tosets form a line (finite or infinite).
+
+----
+Lattice proerites
+Sublatice: (M,V,A) is sublattice of (L, V, A) if M subset of L and each glb and lub of each pair in M matches with that of in L.
+
+bOUNDED LATTICE: Has maximum or minium element (see wiki).
+
+I.e. when lattice is bounded, it has maximum/minium elements. of coruse converse need not be true.
+
+Lattice is un bounded implies infinite set L, but infinite set L doesnt imply unbounded lattice.
+
+Every finite set lattice is has min and max elements and hence is bounded.
+
+-----
+
+Complement of a element wrt to a lattice is one such that their meet and join are 0 (min element)  and 1 (max element).
+
+Note: if 0 1 exists, then they are complements (of course).
+COmplement may be many or 0.
+TOSET, if bounded, has only complements for min/max elements and if unbounded then no element has complement.
+IN hasse diag complement of an element cant exist on same line containg both.
+
+COmplemented lattice is one in which each element has 1 or many compements. Hence it must bounded.
+----
+Distrbutive lattice is a lattice that follows distrbutive laws.
+
+It has atmost 1 complement for its elements.
+
+And elements on a line in hassse dig are always stafiying dsitrbutive proerpty.
+
+Any lattice with 4 or less elemnts is distrbutive.
+
+----
+Boolean lattice is compleneted and distributive.
+
+(V, E) = (2^n, n^(2^(n-1)).
+
+---
+n is called square free integer no factor leaving 1 are perfect squares.
+
+Dn = set of factors for such n.
+(Dn, divided) is a boolena lattice and complement(i) = n/i.
+
+
+
