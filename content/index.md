@@ -15,12 +15,11 @@ Welcome to the central repository index for exam prep (CDS, GATE CS, PGEE Aptitu
   - **Algebra & Advanced Quant**: [[content/cds/math/notes/algebraic_operations.md|Algebraic Operations]], [[content/cds/math/notes/linear_equations.md|Linear Equations]], [[content/cds/math/notes/quadratic_equations.md|Quadratic Equations]], [[content/cds/math/notes/polynomial_hcf_lcm.md|Polynomial HCF/LCM]], [[content/cds/math/notes/roots.md|Roots & Modular Math]], [[content/cds/math/notes/sequence_series.md|Sequence & Series (AP/GP/HP)]], [[content/cds/math/notes/set_theory.md|Set Theory & Venn Diagrams]].
   - **Geometry, Mensuration & Trigonometry**: [[content/cds/math/notes/triangles.md|Triangles & Similarity]], [[content/cds/math/notes/quadrilateral.md|Quadrilaterals & Polygons]], [[content/cds/math/notes/circle.md|Circle & Tangents]], [[content/cds/math/notes/solids.md|3D Mensuration & Solids]], [[content/cds/math/notes/trigonometry.md|Trigonometry & Identities]], [[content/cds/math/notes/heights.md|Heights & Distances]].
   - **Statistics**: [[content/cds/math/notes/statistics.md|Statistics & Data Interpretation]].
-  - ⚡ **Formula Reference**: [[content/cds/math/notes/cds aptitude formulas.md|CDS Aptitude Formulas Cheatsheet]]
-
+  - ⚡ **Formula Reference**: [[content/cds/math/notes/maths_master_formula_sheet.md|Mathematics Master Formula Sheet]] | [[content/cds/math/notes/cds aptitude formulas.md|CDS Aptitude Formulas Cheatsheet]]
 ---
 
 ### 2. Science (Physics, Chemistry & Biology)
-- 🧲 **Physics**: [[content/cds/physics/physics_overview.md|Physics Overview]] | [[content/cds/physics/notes/mechanics.md|Mechanics]] | [[content/cds/physics/notes/optics.md|Optics]] | [[content/cds/physics/notes/electricity_magnetism.md|Electricity & Magnetism]] | [[content/cds/physics/notes/heat_thermodynamics.md|Thermodynamics]] | [[content/cds/physics/notes/formulas.md|Physics Formulas]]
+- 🧲 **Physics**: [[content/cds/physics/physics_overview.md|Physics Overview]] | [[content/cds/physics/notes/physics_master_formula_sheet.md|Physics Master Formula Sheet]] | [[content/cds/physics/notes/mechanics.md|Mechanics]] | [[content/cds/physics/notes/optics.md|Optics]] | [[content/cds/physics/notes/electricity_magnetism.md|Electricity & Magnetism]] | [[content/cds/physics/notes/heat_thermodynamics.md|Thermodynamics]]
 - 🧪 **Chemistry**: [[content/cds/chemistry/chemistry_overview.md|Chemistry Overview]] | [[content/cds/chemistry/notes/atoms_molecules.md|Atoms & Molecules]] | [[content/cds/chemistry/notes/acids_bases_salts.md|Acids, Bases & Salts]] | [[content/cds/chemistry/notes/metals_nonmetals.md|Metals & Non-metals]] | [[content/cds/chemistry/notes/chemical_reactions.md|Chemical Reactions]] | [[content/cds/chemistry/notes/common_names.md|Common Names & Formulas]]
 - 🧬 **Biology**: [[content/cds/biology/biology_overview.md|Biology Overview]] | [[content/cds/biology/notes/cell_and_human_biology.md|Cell Biology, Organelles, Human Physiology & Diseases]]
 
