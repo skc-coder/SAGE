@@ -18,7 +18,7 @@ Whether comparing $A$ vs $B$ or balancing Price vs Consumption, **it is always a
 $$\begin{CD}
 100 @>\text{Change } +x>> 100+x \\
 @. @VV\text{Measure gap } x \text{ over NEW Base } (100+x)V \\
-@. \text{Required Cut } = \left(\frac{x}{100+x} \times 100\right)\%
+@. \text{Required Cut } = \left($\frac{x}{100+x}$ \times 100\right)\%
 \end{CD}$$
 
 - **$A$ is $x\%$ more than $B$** $\implies$ $B$ is $\left(\frac{x}{100+x} \times 100\right)\%$ less than $A$

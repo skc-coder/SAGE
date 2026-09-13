@@ -48,7 +48,7 @@ $A$ beats $C$ by $(d - d_C)$ meters.
 For two runners $A$ and $B$ running on a circular track of circumference $C$ with speeds $S_A$ and $S_B$:
 
 - **Time to meet for the first time anywhere on track**:
-  $$T_{\text{first}} = \frac{C}{S_{\text{rel}}} = \begin{cases} \frac{C}{S_A - S_B} & \text{(Same Direction)} \\[6pt] \frac{C}{S_A + S_B} & \text{(Opposite Direction)} \end{cases}$$
+  $$T_{\text{first}} = \frac{C}{S_{\text{rel}}} = \begin{cases} \frac{C}{S_A - S_B} & \text{(Same Direction)} \[6pt] \frac{C}{S_A + S_B} & \text{(Opposite Direction)} \end{cases}$$
 
 - **Time to meet for the first time at the STARTING point**:
   $$T_{\text{start}} = \text{LCM}\left(\frac{C}{S_A}, \frac{C}{S_B}\right)$$
