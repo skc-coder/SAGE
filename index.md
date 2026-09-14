@@ -25,9 +25,6 @@ banner: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=160
 # 💻 GATE Computer Science MOC Hub
 
 - ⚙️ [[content/mocs/moc os|Operating Systems (MOC OS)]]
-  - [[content/gate-cs/os/Critical Section Synchronization Criteria|Sync Criteria]]
-  - [[content/gate-cs/os/Peterson's Algorithm & Order Invariant|Peterson's Algo]]
-  - [[content/gate-cs/os/Semaphores & Synchronization|Semaphores]]
 - 🧮 [[content/mocs/moc dm|Discrete Math (MOC DM)]] & [[content/mocs/moc probablity|Probability (MOC)]]
   - [[content/mocs/moc logic|Logic MOC]]
   - [[content/mocs/moc graphs|Graphs MOC]]

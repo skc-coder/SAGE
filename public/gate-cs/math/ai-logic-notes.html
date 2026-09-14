@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>ai logic notes</title><meta charset="utf-8"/><link rel="preload" href="../../index-bb6c1746.css" as="style"/><link rel="preload" href="../../prescript-2bfc6315.js" as="script"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="SAGE"/><meta property="og:title" content="ai logic notes"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="ai logic notes"/><meta name="twitter:description" content="#+TITLE: Logic Notes #+AUTHOR: Study Notes #+DATE: 2026-02-01 Introduction to Logic Logic is the study of argumentation."/><meta property="og:description" content="#+TITLE: Logic Notes #+AUTHOR: Study Notes #+DATE: 2026-02-01 Introduction to Logic Logic is the study of argumentation."/><meta property="og:image:alt" content="#+TITLE: Logic Notes #+AUTHOR: Study Notes #+DATE: 2026-02-01 Introduction to Logic Logic is the study of argumentation."/><meta property="twitter:domain" content="sage-skc.vercel.app"/><meta property="og:url" content="https://sage-skc.vercel.app/gate-cs/math/ai-logic-notes"/><meta property="twitter:url" content="https://sage-skc.vercel.app/gate-cs/math/ai-logic-notes"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="#+TITLE: Logic Notes #+AUTHOR: Study Notes #+DATE: 2026-02-01 Introduction to Logic Logic is the study of argumentation."/><meta name="generator" content="Quartz"/><link href="../../index-bb6c1746.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-735924e0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-589c1cea.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-bbc3f7c0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-2911f5d1.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-e427079e.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-53b25b2b.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-c93c6a44.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-8a06014f.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-77d6a441.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-6ee21cee.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-1ea6ad18.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-34bdfded.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-788c9ca3.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-642859cd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-4abc06bd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-274a3dfe.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-94cb6c84.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-58d5ff56.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-7262b5a7.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-a5c806d2.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-6bd36952.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-9857b007.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-d3a1a224.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../../prescript-2bfc6315.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted%20Grotesk%3Awght%40400%3B700&amp;family=Source%20Sans%20Pro%3Aital%2Cwght%400%2C400%3B0%2C600%3B1%2C400%3B1%2C600&amp;family=IBM%20Plex%20Mono%3Awght%40400%3B600&amp;display=swap"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://sage-skc.vercel.app/gate-cs/math/ai-logic-notes-og-image.webp"/><meta property="og:image:url" content="https://sage-skc.vercel.app/gate-cs/math/ai-logic-notes-og-image.webp"/><meta name="twitter:image" content="https://sage-skc.vercel.app/gate-cs/math/ai-logic-notes-og-image.webp"/><meta property="og:image:type" content="image/webp"/></head><body data-slug="gate-cs/math/ai-logic-notes" data-basepath><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">SAGE</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Search" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something..." placeholder="Search for something..."/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Dark mode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Reader mode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-583" aria-label="Explorer"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-583" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../gate-cs/">gate-cs</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../gate-cs/math/">math</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>ai logic notes</a></div></nav><h1 class="article-title">ai logic notes</h1><p show-comma="true" class="content-meta"><time datetime="2026-09-14T06:51:30.000Z">Sep 14, 2026</time><span>17 min read</span></p></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><p>#+TITLE: Logic Notes
+#+AUTHOR: Study Notes
+#+DATE: 2026-02-01</p>
+<ul>
+<li>Introduction to Logic</li>
+</ul>
+<p>Logic is the study of argumentation. It studies informal/formal systems of arguing.</p>
+<p>Formal logic consists of a formal language (alphabets, syntactic rules), axioms/premises and rules of inferences.
+Formal logic studies argumentation in general and doesn’t deal with particular things.</p>
+<p>Mathematical logic is formal logic.</p>
+<p>There are many formal logic systems based on the defining components.</p>
+<ul>
+<li>Aristotelian Logic</li>
+</ul>
+<p>Aristotelian logic is logic of syllogism. A syllogism is argumentation consisting of two premises and making a conclusion.
+The propositions consist of subject and copula and predicate. There is restriction on what the copula and predicate can be.</p>
+<ul>
+<li>Propositional Logic (Zero Order Logic)</li>
+</ul>
+<p>** Basic Concepts</p>
+<p>Zero order (propositional logic) consists of propositions and their combinations via logical connectives.
+The propositions can be simple or compound (made from logically connecting simple propositions).
+Here the simple propositions are the basic units and we don’t deal with internals of a proposition.
+A simple proposition is treated as a whole and has a truth value of true or false.</p>
+<p>Reference: <a href="https://en.wikipedia.org/wiki/Atomic_sentence" class="external external-link">https://en.wikipedia.org/wiki/Atomic_sentence<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Example of atomic propositions: “I am a human.”
+Not an atomic proposition: “I like mars and you like earth.”</p>
+<p>** Logical Truths and Tautologies</p>
+<p>Some sentences and propositions are true because of their structure and not because of their composing units.
+These are called logical truths or tautologies.</p>
+<p>** Definition</p>
+<p>Propositional logic comprises formal systems in which formulae are built from atomic propositions using logical connectives.
+For instance, propositional logic represents the conjunction of two atomic propositions P and Q as the complex formula P ∧ Q.</p>
+<p>Unlike predicate logic where terms and predicates are the smallest units, propositional logic takes full propositions with truth values as its most basic component.</p>
+<p>Thus, propositional logics can only represent logical relationships that arise from the way complex propositions are built from simpler ones. But it cannot represent inferences that result from the inner structure of a proposition.</p>
+<p>** Truth Tables</p>
+<p>Truth table, say for p → q tells us the truthfulness of the p → q for different possibilities of truthfulness of its components.</p>
+<p>** Biconditional (Material Equivalence)</p>
+<p>*** Definition</p>
+<p>Biconditional, iff or material equivalence.
+When two statements have same truth value.</p>
+<p>Example: “All spiders are poisonous” and “No spider is poisonous” are materially equivalent (both are false).</p>
+<p>*** Notation</p>
+<p>p if and only if q = p ↔ q</p>
+<p>This means two things:</p>
+<ul>
+<li>p if q AND p only if q</li>
+<li>p if q = q → p</li>
+<li>p only if q = p → q</li>
+</ul>
+<p>*** Material Equivalence vs Logical Equivalence</p>
+<p>There is also logical equivalence: <a href="https://en.wikipedia.org/wiki/Logical_equivalence" class="external external-link">https://en.wikipedia.org/wiki/Logical_equivalence<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Logical equivalence is different from material equivalence. Formulas p and q are logically equivalent if and only if the statement of their material equivalence (p ↔ q) is a tautology.</p>
+<p>The material equivalence of p and q (often written as p ↔ q) is itself another statement in the same object language as p and q. This statement expresses the idea “p if and only if q”. In particular, the truth value of p ↔ q can change from one model to another.</p>
+<p>On the other hand, the claim that two formulas are logically equivalent is a statement in metalanguage, which expresses a relationship between two statements p and q. The statements are logically equivalent if, in every model, they have the same truth value.</p>
+<p>*** Material vs Logical Implication</p>
+<p>Logical implication means replaceable or saying the same thing.
+Surely “Dogs are mammals” and “Whales are mammals” are not saying the same thing, in different way.
+They can’t be replaced with each other.</p>
+<p>Logical implication is tighter than material implication in that it is true in all circumstances, i.e. the two statements have same truth value in all cases (See Copi).</p>
+<p>p ↔ q is false when p is true and q is false. But in p ≡ q, if p is true then q must be true.</p>
+<p>*** Relation Between Logical and Material Equivalence</p>
+<p>p ≡ q iff (p ↔ q is a tautology) iff (p → q and q → p are tautologies).</p>
+<p>** Implication</p>
+<p>*** Basic Forms</p>
+<ul>
+<li>p → q ≡ ¬p ∨ q</li>
+<li>p → q ≡ ¬q → ¬p</li>
+</ul>
+<p>In particular ¬p → q ≡ ¬q → p.</p>
+<p>*** Contrapositive, Converse, Inverse</p>
+<p>Take the statement “If P then Q”.</p>
+<ul>
+<li><em>Converse</em>: If Q then P</li>
+<li><em>Inverse</em>: If not P then not Q</li>
+<li><em>Contrapositive</em>: If not Q then not P</li>
+</ul>
+<p>The specialty of contrapositive is that it is logically equivalent to the base statement. Hence when base is true then contrapositive is also true.</p>
+<p>*** Various Ways of Writing Implication</p>
+<p>**** “P only if Q”</p>
+<p>It means P only if (necessary) when Q, but Q doesn’t necessarily imply P.
+So that sufficiently means when not Q then not P.
+So P only if Q = ¬Q → ¬P which we know is ≡ P → Q.</p>
+<p>**** “P is sufficient condition for Q”</p>
+<p>P → Q</p>
+<p>**** “Q is necessary condition for P”</p>
+<p>P → Q</p>
+<p>**** “P unless Q”</p>
+<p>It means that when ¬Q then P.
+¬Q → P ≡ ¬P → Q.</p>
+<p>** General Logical Equivalences</p>
+<p>*** Identity Laws</p>
+<ul>
+<li>p ∧ ⊤ ≡ p</li>
+<li>p ∨ ⊥ ≡ p</li>
+</ul>
+<p>*** Domination Laws</p>
+<ul>
+<li>p ∨ ⊤ ≡ ⊤</li>
+<li>p ∧ ⊥ ≡ ⊥</li>
+</ul>
+<p>*** Idempotent or Tautology Laws</p>
+<ul>
+<li>p ∨ p ≡ p</li>
+<li>p ∧ p ≡ p</li>
+</ul>
+<p>*** Double Negation Law</p>
+<ul>
+<li>¬(¬p) ≡ p</li>
+</ul>
+<p>*** Commutative Laws</p>
+<ul>
+<li>p ∨ q ≡ q ∨ p</li>
+<li>p ∧ q ≡ q ∧ p</li>
+</ul>
+<p>*** Associative Laws</p>
+<ul>
+<li>(p ∨ q) ∨ r ≡ p ∨ (q ∨ r)</li>
+<li>(p ∧ q) ∧ r ≡ p ∧ (q ∧ r)</li>
+</ul>
+<p>*** Distributive Laws</p>
+<ul>
+<li>p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)</li>
+<li>p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (p ∧ r)</li>
+</ul>
+<p>*** De Morgan’s Laws</p>
+<ul>
+<li>¬(p ∧ q) ≡ ¬p ∨ ¬q</li>
+<li>¬(p ∨ q) ≡ ¬p ∧ ¬q</li>
+</ul>
+<p>*** Absorption Laws</p>
+<ul>
+<li>p ∨ (p ∧ q) ≡ p</li>
+<li>p ∧ (p ∨ q) ≡ p</li>
+</ul>
+<p>*** Negation Laws</p>
+<ul>
+<li>p ∨ ¬p ≡ ⊤</li>
+<li>p ∧ ¬p ≡ ⊥</li>
+</ul>
+<p>** Logical Equivalences Involving Conditional Statements</p>
+<ul>
+<li>p → q ≡ ¬p ∨ q</li>
+<li>p → q ≡ ¬q → ¬p</li>
+<li>p ∨ q ≡ ¬p → q</li>
+<li>p ∧ q ≡ ¬(p → ¬q)</li>
+<li>¬(p → q) ≡ p ∧ ¬q</li>
+<li>(p → q) ∧ (p → r) ≡ p → (q ∧ r)</li>
+<li>(p → q) ∨ (p → r) ≡ p → (q ∨ r)</li>
+<li>(p → r) ∧ (q → r) ≡ (p ∨ q) → r</li>
+<li>(p → r) ∨ (q → r) ≡ (p ∧ q) → r</li>
+</ul>
+<p>** Logical Equivalences Involving Biconditionals</p>
+<ul>
+<li>p ↔ q ≡ (p → q) ∧ (q → p)</li>
+<li>p ↔ q ≡ ¬p ↔ ¬q</li>
+<li>p ↔ q ≡ (p ∧ q) ∨ (¬p ∧ ¬q)</li>
+<li>¬(p ↔ q) ≡ ¬p ↔ q</li>
+<li>¬(p ↔ q) ≡ p ↔ ¬q</li>
+<li>¬(p ↔ q) ≡ p ⊕ q</li>
+</ul>
+<p>Where ⊕ represents XOR.</p>
+<p>** Tautology, Contradiction, and Contingency</p>
+<p>*** Tautology
+A statement that’s always true regardless of the truth values of its components (e.g., “P OR NOT P”). It’s valid and satisfiable.</p>
+<p>*** Contradiction
+A statement that’s always false regardless of the truth values (e.g., “P AND NOT P”). It’s invalid and not satisfiable.</p>
+<p>*** Contingency
+A statement that can be either true or false depending on the truth values of its components (e.g., “P AND Q”). It’s invalid but satisfiable.</p>
+<p>*** Key Insight</p>
+<p>Validity requires being always true (only tautologies), while satisfiability just requires being true in at least one case (tautologies and contingencies both qualify).</p>
+<p>Satisfiable is that which is not contradictory and hence = contingency + tautology.
+Note that contingency doesn’t include tautology.</p>
+<p>*** Important Equivalences</p>
+<p>Commutative, associative, distributive, De Morgan’s, absorption laws. Common stuff.</p>
+<ul>
+<li>First-Order Logic (Predicate Logic)</li>
+</ul>
+<p>** Definition</p>
+<p>First-order logic includes the same propositional connectives as propositional logic but differs from it because it articulates the internal structure of propositions.</p>
+<p>This happens through devices such as:</p>
+<ul>
+<li><em>Singular terms</em>, which refer to particular objects</li>
+<li><em>Predicates</em>, which refer to properties and relations</li>
+<li><em>Quantifiers</em>, which treat notions like “some” and “all”</li>
+</ul>
+<p>** Examples</p>
+<p>To express the proposition “this raven is black”, one may use the predicate B for the property “black” and the singular term r referring to the raven to form the expression B(r).</p>
+<p>To express that some objects are black, the existential quantifier ∃ is combined with the variable x to form the proposition ∃x B(x).</p>
+<p>First-order logic contains various rules of inference that determine how expressions articulated this way can form valid arguments, for example, that one may infer ∃x B(x) from B(r).</p>
+<p>** Scope of Variables</p>
+<p>We cannot quantify a single variable using multiple quantifiers. Even if we see something like that, then variable will be quantified using innermost quantifier.</p>
+<p>Example:</p>
+<p>∃y ∀y M(y) → ∃z W(z, y)</p>
+<p>“y” of predicate M is under the scope of (→) using innermost quantifier ∃y as well as ∀y.</p>
+<p>** Conversion Between Quantifiers</p>
+<ul>
+<li>∀x P(x) ≡ ¬∃x (¬P(x))</li>
+<li>∃x P(x) ≡ ¬∀x (¬P(x))</li>
+</ul>
+<p>** Equivalences with Quantifiers</p>
+<p>*** Basic Equivalences</p>
+<ul>
+<li>∀x [P(x) ∧ Q(x)] ≡ [∀x P(x)] ∧ [∀x Q(x)]</li>
+<li>∃x [P(x) ∨ Q(x)] ≡ [∃x P(x)] ∨ [∃x Q(x)]</li>
+</ul>
+<p>*** Important Implications (Not Equivalences)</p>
+<p>**** Formula 3
+∀x P(x) ∨ ∀x Q(x) ⇒ ∀x [P(x) ∨ Q(x)]</p>
+<p>**** Formula 4
+∃x [P(x) ∧ Q(x)] ⇒ [∃x P(x)] ∧ [∃x Q(x)]</p>
+<p>**** Formula 5
+∀x [P(x) → Q(x)] ⇒ [∀x P(x)] → [∀x Q(x)]</p>
+<p>*** With Independent Statements Q and P</p>
+<ul>
+<li>∀x [P(x) ∧ Q] ≡ ∀x P(x) ∧ Q</li>
+<li>∃x [P(x) ∨ Q] ≡ ∃x P(x) ∨ Q</li>
+<li>∀x [P(x) ∨ Q] ≡ ∀x P(x) ∨ Q</li>
+<li>∃x [P(x) ∧ Q] ≡ ∃x P(x) ∧ Q</li>
+</ul>
+<p>*** Implications with Independent Statements</p>
+<p>When ‘x’ is not a free variable in P:</p>
+<ul>
+<li>∀x [P → Q(x)] ≡ P → ∀x Q(x)</li>
+<li>∃x [P → Q(x)] ≡ P → ∃x Q(x)</li>
+</ul>
+<p>When ‘x’ is not a free variable in Q:</p>
+<ul>
+<li>∀x [P(x) → Q] ≡ ∃x P(x) → Q</li>
+<li>∃x [P(x) → Q] ≡ ∀x P(x) → Q</li>
+</ul>
+<p>** Important Note on Existential Quantifier with Implication</p>
+<p>∃x{ Human(x) → Intelligent(x) }</p>
+<p>This tells that there IS ONE non-human intelligent being OR human intelligent being.</p>
+<p>It is NOT the same as saying “some humans are intelligent”.</p>
+<p>Hence don’t use → (implications) for denoting statements involving “some”.</p>
+<p>** Correct Usage of Quantifiers and Connectives</p>
+<p>*** Examples</p>
+<ul>
+<li>
+<p>∀x {Human(x) → Intelligent(x)} means “All humans are intelligent.”
+This correctly uses universal quantification with implication: for every x, if x is human, then x is intelligent.</p>
+</li>
+<li>
+<p>∃x {Human(x) ∧ Intelligent(x)} means “Some humans are intelligent.”
+This correctly uses existential quantification with conjunction: there exists at least one x that is both human and intelligent.</p>
+</li>
+<li>
+<p>∀x {Human(x) ∧ Intelligent(x)} means “All are human &amp; intelligent.”
+This would mean everything in the domain is both human and intelligent, which is a much stronger (and likely unintended) claim.</p>
+</li>
+</ul>
+<p>*** General Rule</p>
+<p><em>In general:</em></p>
+<ul>
+<li>If question is related to “some” then we use ”∧”</li>
+<li>If question is related to “all” then we use ”→”</li>
+</ul>
+<p>This summarizes a fundamental principle in formal logic:</p>
+<p>For statements involving “some” (existential quantification, ∃x), use conjunction (∧) to combine the condition and the property.
+Example: “Some humans are intelligent” becomes ∃x (Human(x) ∧ Intelligent(x)).</p>
+<p>For statements involving “all” (universal quantification, ∀x), use implication (→).
+Example: “All humans are intelligent” becomes ∀x (Human(x) → Intelligent(x)).</p>
+<p>** Tautology in Predicate Logic</p>
+<p>*** Distinction from Propositional Logic</p>
+<ul>
+<li>In propositional logic, tautologies and validities are the same.</li>
+<li>A propositional function which is always true is called a valid propositional function or tautology.</li>
+<li>But in predicate logic, a distinction is maintained between logical validities and tautologies.</li>
+<li>A predicate formula which is always true is called a valid predicate formula but it may or may not be a tautology.</li>
+<li>In predicate logic, tautologies are a proper subset of logical validities.</li>
+</ul>
+<p>*** Definition of Tautology in Predicate Logic</p>
+<p>A tautology in predicate logic is a sentence that can be obtained by taking a tautology of propositional logic and uniformly replacing each propositional variable by a predicate formula (one formula per propositional variable).</p>
+<p><em>NOTE:</em> To check whether a given predicate formula is a tautology or not, we can only use the concepts that we have learned in propositional logic.</p>
+<p>We cannot use the concepts of predicate logic to check whether the predicate formula is a tautology or not.</p>
+<p>Example: A ↔ A is a tautology.</p>
+<ul>
+<li>Arguments and Inference</li>
+</ul>
+<p>** Rules of Inference</p>
+<p>Rules of inference are ways of deriving conclusions from premises. They are integral parts of formal logic, serving as norms of the logical structure of valid arguments.</p>
+<p>Reference: <a href="https://en.wikipedia.org/wiki/Rule_of_inference" class="external external-link">https://en.wikipedia.org/wiki/Rule_of_inference<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Rules of inference only ensure that the conclusion is true if the premises are true. An argument with false premises can still be valid, but its conclusion could be false.</p>
+<p>For example, the argument “If pigs can fly, then the sky is purple. Pigs can fly. Therefore, the sky is purple.” is valid because it follows modus ponens, even though it contains false premises.</p>
+<p>A valid argument is called a <em>sound argument</em> if all of its premises are true.</p>
+<p>** Validity of Arguments</p>
+<p>An inference is deductively correct or valid if it follows a valid rule of inference. Whether this is the case depends only on the form or syntactical structure of the premises and the conclusion, that is, the actual content or concrete meaning of the statements does not affect validity.</p>
+<p>This means that an argument is considered on its own, and an argument’s correctness is judged based on the structure of the argument and not the truthfulness of its propositions making it up.</p>
+<p>Example: “If God exists then world is good. God exists hence world is good” is valid argument but whether it is actually true in reality is not its concern.</p>
+<p>** Turnstile Symbol (⊢)</p>
+<p>⊢ (turnstile, produced tee) MEANS yields and it is a different concept from implies.</p>
+<p>Reference: <a href="https://math.stackexchange.com/questions/286077/implies-rightarrow-vs-entails-models-vs-provable-vdash" class="external external-link">https://math.stackexchange.com/questions/286077/implies-rightarrow-vs-entails-models-vs-provable-vdash<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>⊢ is a shorthand for “yields”, and it is part of meta language used to discuss a logical system.
+→ is whereas a logical connective and part of the formal system talked about.</p>
+<p>(What is the relation between meta language and object language? How are ≡ and ↔ related? How are ⊢ and → related?)</p>
+<p>** Equivalent Forms of Specifying Arguments</p>
+<p>Following statements are equivalent:</p>
+<p>① Argument {P₁, P₂, P₃,…, Pₙ} ⊢ Q is valid.</p>
+<p>② {P₁, P₂, P₃,…, Pₙ} Logically implies Q is valid</p>
+<p>③ {P₁ ∧ P₂ ∧ P₃ ∧ … ∧ Pₙ} → Q is a tautology</p>
+<p>④ Conclusion Q follows from the premises {P₁, P₂, … Pₙ}</p>
+<p>** Common Rules of Inference</p>
+<p>*** Modus Ponens (Valid)</p>
+<p>P → Q
+P
+∴ Q</p>
+<p>Example:</p>
+<ul>
+<li>If Kim is in Seoul, then Kim is in South Korea.</li>
+<li>Kim is in Seoul.</li>
+<li>Therefore, Kim is in South Korea.</li>
+</ul>
+<p>*** Fallacy of Affirming the Consequent (Invalid)</p>
+<p>P → Q
+Q
+∴ P</p>
+<p>This is invalid.</p>
+<p>*** Modus Tollens (Valid)</p>
+<p>P → Q
+¬Q
+∴ ¬P</p>
+<p>Example:</p>
+<ul>
+<li>If Koko is a koala, then Koko is cuddly.</li>
+<li>Koko is not cuddly.</li>
+<li>Therefore, Koko is not a koala.</li>
+</ul>
+<p>*** Fallacy of Denying the Antecedent (Invalid)</p>
+<p>P → Q
+¬P
+∴ ¬Q</p>
+<p>This is invalid.</p>
+<p>** Special Types of Proof</p>
+<p>*** Conditional Proof</p>
+<p>Argument {P₁, P₂, P₃, …, Pₙ} ⊢ Q → R is valid</p>
+<p>if and only if</p>
+<p>Argument {P₁, P₂, P₃, …, Pₙ, Q} ⊢ R is valid.</p>
+<p>*** Proof by Contradiction</p>
+<p>If we want to check whether the argument</p>
+<p>P₁
+P₂
+⋮
+Pₙ
+∴ Q</p>
+<p>is valid or not:</p>
+<p>We will assume that the conclusion of the argument is false, i.e. we will assume that Q is false, i.e. ¬Q is true, and include that false conclusion in the set of premises.</p>
+<p>∴ New set of premises becomes {P₁, P₂, P₃, …, Pₙ, ¬Q}</p>
+<p><em>Note:</em> If this results in any contradiction, then our assumption is false &amp; conclusion of the argument is true and hence argument is valid.</p>
+<p>Hence, argument is invalid if there is no contradiction, then our assumption may be true.</p>
+<p>** Additional Rules of Inference for Predicate Logic</p>
+<p>In predicate logic, we can use some additional inference rules, along with all the rules of inference we have discussed in propositional logic.</p>
+<p>Additional Rules of Inference w.r.t. Predicate Logic:</p>
+<ul>
+<li>Universal Instantiation (Universal Specification)</li>
+<li>Universal Generalization</li>
+<li>Existential Instantiation (Existential Specification)</li>
+<li>Existential Generalization</li>
+</ul>
+<ul>
+<li>Important Notes and Examples</li>
+</ul>
+<p>** Testing Implications and Equivalences</p>
+<p>In both types of logic [A →, ≡ and ↔ are tested differently]:</p>
+<p>*** Testing →
+We assume LHS to be true then check if RHS is true as well or not.
+If RHS is itself an implication then we only need to check its LHS being true then its RHS being true or not, using the LHS of the outer implication.</p>
+<p>*** Testing ↔
+↔ requires us checking if both LHS and RHS have same truth value or not. It requires us doing LHS → RHS and RHS → LHS. It is double work.</p>
+<p>*** Testing ≡
+≡ requires us making a table and checking all cases of combinations of truth values of the individual variables
+to check if both sides have same truth value or not.</p>
+<p>** Important Example Analysis</p>
+<p>*** Example 1: Non-equivalence of Quantifiers</p>
+<p>Consider: ∀x [P(x) → Q(x)] vs [∀x P(x)] → [∀x Q(x)]</p>
+<p>In the RHS, the x of P and Q both are quantified by for all.
+And in LHS too, but P and Q’s x are independent.</p>
+<p>So LHS can be true when:</p>
+<ul>
+<li>All P is true then Q is also true</li>
+<li>When not all P is not true then Q doesn’t matter</li>
+</ul>
+<p>RHS is true when:</p>
+<ul>
+<li>When P then Q</li>
+<li>When not P then fuck off Q</li>
+</ul>
+<p>So clearly, if some P is true but not all then “for all P” will be wrong, but LHS will automatically be true but RHS may evaluate to false when Q is wrong for some true P.</p>
+<p>*** Example 2: Implication Analysis</p>
+<p>Let E = ∀x [P(x) → Q(x)]
+Let Z = [∀x P(x)] → [∀x Q(x)]</p>
+<p>E says that if P(x) then Q(x), for all x, i.e. if P(x) is true then Q(x) or P(x) is false.
+Z says that if all P(x) then all Q(x).</p>
+<p>For E → Z to be true, when E then Z must be true. Now when E is true then if “for all x P(x)” is wrong (in Z) then Z is automatically true hence E → Z holds, but if it is true (for all x P(x)) then from E it follows that for all x Q(x).</p>
+<p>*** Example 3: Implication Direction</p>
+<p>If LHS is true then two cases might be:</p>
+<ul>
+<li>α is true for all x
+So β is also true for all x.
+In this case RHS = ∀x(α → β) is of course true</li>
+<li>α is not true for all x
+then β has no restriction, it can be true or false
+If suppose β is false then the RHS is of course false
+Hence whole option is false</li>
+</ul>
+<p>*** Example 4: Combined Analysis</p>
+<p>LHS is assumed true: so when α is true then β is also true, and the RHS of sub-implication of RHS is assumed true (for all x α) then combining these two we get that for all β.</p>
+<ul>
+<li>Meta Notes on Approach</li>
+</ul>
+<p>For both types of logic:</p>
+<p>When testing →, ≡ and ↔:</p>
+<ul>
+<li>
+<p>For → we assume LHS to be true then check if RHS is true as well or not. If RHS is itself an implication then we only need to check its LHS being true then its RHS being true or not, using the LHS of the outer implication.</p>
+</li>
+<li>
+<p>For ↔ requires us checking if both LHS and RHS have same truth value or not. It requires us doing LHS → RHS and RHS → LHS. It is double work.</p>
+</li>
+<li>
+<p>For ≡ requires us making a table and checking all cases of combinations of truth values of the individual variables to check if both sides have same truth value or not.</p>
+</li>
+</ul></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-0" class="overflow"><li><a href="../../dashboards/gate-discrete-math--and--probability-dashboard" class="internal">GATE Discrete Math &amp; Probability Dashboard++</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script src="../../static/resource-after-e13fffa1.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-8b336f9a.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-baba652b.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-5eb75950.js" type="module" data-persist="true"></script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../../postscript-3eea7814.js" type="module" data-persist="true"></script></html>

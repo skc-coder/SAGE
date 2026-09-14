@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Binary Search Tree</title><meta charset="utf-8"/><link rel="preload" href="../../index-bb6c1746.css" as="style"/><link rel="preload" href="../../prescript-2bfc6315.js" as="script"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="SAGE"/><meta property="og:title" content="Binary Search Tree"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Binary Search Tree"/><meta name="twitter:description" content="1."/><meta property="og:description" content="1."/><meta property="og:image:alt" content="1."/><meta property="twitter:domain" content="sage-skc.vercel.app"/><meta property="og:url" content="https://sage-skc.vercel.app/gate-cs/data-structures/binary-search-tree"/><meta property="twitter:url" content="https://sage-skc.vercel.app/gate-cs/data-structures/binary-search-tree"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="1."/><meta name="generator" content="Quartz"/><link href="../../index-bb6c1746.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-735924e0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-589c1cea.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-bbc3f7c0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-2911f5d1.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-e427079e.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-53b25b2b.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-c93c6a44.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-8a06014f.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-77d6a441.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-6ee21cee.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-1ea6ad18.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-34bdfded.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-788c9ca3.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-642859cd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-4abc06bd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-274a3dfe.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-94cb6c84.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-58d5ff56.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-7262b5a7.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-a5c806d2.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-6bd36952.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-9857b007.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-d3a1a224.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../../prescript-2bfc6315.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted%20Grotesk%3Awght%40400%3B700&amp;family=Source%20Sans%20Pro%3Aital%2Cwght%400%2C400%3B0%2C600%3B1%2C400%3B1%2C600&amp;family=IBM%20Plex%20Mono%3Awght%40400%3B600&amp;display=swap"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://sage-skc.vercel.app/gate-cs/data-structures/binary-search-tree-og-image.webp"/><meta property="og:image:url" content="https://sage-skc.vercel.app/gate-cs/data-structures/binary-search-tree-og-image.webp"/><meta name="twitter:image" content="https://sage-skc.vercel.app/gate-cs/data-structures/binary-search-tree-og-image.webp"/><meta property="og:image:type" content="image/webp"/></head><body data-slug="gate-cs/data-structures/binary-search-tree" data-basepath><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">SAGE</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Search" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something..." placeholder="Search for something..."/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Dark mode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Reader mode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-447" aria-label="Explorer"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-447" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../gate-cs/">gate-cs</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../gate-cs/data-structures/">data structures</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Binary Search Tree</a></div></nav><h1 class="article-title">Binary Search Tree</h1><p show-comma="true" class="content-meta"><time datetime="2026-09-14T06:59:54.000Z">Sep 14, 2026</time><span>7 min read</span></p></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><h2 id="1-definition">1. Definition<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-definition" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>A <strong>Binary Search Tree</strong> is a binary tree where:</p>
+<ul>
+<li>All nodes in the <strong>left subtree</strong> of a node are <strong>strictly less than</strong> the node’s value</li>
+<li>All nodes in the <strong>right subtree</strong> of a node are <strong>strictly greater than</strong> the node’s value</li>
+<li><strong>No duplicate values</strong> are stored in a BST</li>
+<li>This property holds <strong>recursively</strong> for every subtree</li>
+</ul>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Every value to the <strong>left</strong> is <strong>smaller</strong>, every value to the <strong>right</strong> is <strong>greater</strong>. No exceptions.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="2-traversal">2. Traversal<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-traversal" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Inorder traversal always produces a <strong>sorted ascending sequence</strong></li>
+<li>Multiple tree shapes (different roots) can produce the same inorder → inorder alone <strong>cannot</strong> reconstruct a unique BST</li>
+<li>Given a <strong>fixed BST structure</strong> only <strong>one</strong> valid key-to-node mapping exists</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Traversal</th><th>Uniquely determines BST?</th></tr></thead><tbody><tr><td>Pre-order</td><td>✅ Yes</td></tr><tr><td>Post-order</td><td>✅ Yes</td></tr><tr><td>Inorder</td><td>❌ No</td></tr></tbody></table></div>
+<hr/>
+<h2 id="3-bst-construction">3. BST Construction<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-bst-construction" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="zig-zag-pattern-chain-of-height-h-nodes--h1">Zig-Zag Pattern (Chain of height h, nodes = h+1)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#zig-zag-pattern-chain-of-height-h-nodes--h1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>A zig-zag BST is one where at each level you choose to go left or right (no node has two children):</p>
+<p>Number of possible structures for hieght h=<span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8491em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8491em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">h</span><span class="mbin mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<ul>
+<li>At each level: <strong>2 choices</strong> (insert as left child or right child)</li>
+<li>The <strong>last node</strong> is fixed (only one spot left) → <code>h - 1</code> free choices</li>
+<li>Each structure corresponds to a <strong>unique insertion order</strong></li>
+</ul>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>This is also used in the GATE CSE 2016 question. </p></div>
+                  
+                </div>
+</blockquote>
+<h2 id="4-operations">4. Operations<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-operations" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="31-search">3.1 Search<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#31-search" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>Step 1: Start at root
+Step 2: If key &lt; current node → go LEFT, repeat
+Step 3: If key > current node → go RIGHT, repeat
+Step 4: If key == current node → FOUND ✓
+Step 5: If leaf node reached and key not found → NOT FOUND ✗
+</code></pre>
+<hr/>
+<h3 id="32-insertion">3.2 Insertion<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#32-insertion" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Same logic as search — traverse until you find the correct empty spot</li>
+<li>When you reach a leaf node:
+<ul>
+<li>If new value &lt; leaf → insert as <strong>left child</strong></li>
+<li>If new value > leaf → insert as <strong>right child</strong></li>
+</ul>
+</li>
+</ul>
+<hr/>
+<h3 id="33-deletion">3.3 Deletion<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#33-deletion" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>First, understand these two concepts:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Term</th><th>Definition</th></tr></thead><tbody><tr><td><strong>Inorder Predecessor</strong></td><td>Maximum value in the inorder traversal and if present in <strong>left subtree</strong> (floor)</td></tr><tr><td><strong>Inorder Successor</strong></td><td>Minimum value in the inorder traversal and if present in <strong>right subtree</strong> (ceil)</td></tr></tbody></table></div>
+<p><strong>Three cases:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Case</th><th>Condition</th><th>Action</th></tr></thead><tbody><tr><td>Case 1</td><td>Node is a <strong>leaf</strong></td><td>Simply delete it</td></tr><tr><td>Case 2</td><td>Node has <strong>one child</strong></td><td>Delete node, connect child directly to parent</td></tr><tr><td>Case 3</td><td>Node has <strong>two children</strong></td><td>Replace with <strong>inorder successor</strong> OR <strong>inorder predecessor</strong>, then recursively delete that replacement node</td></tr></tbody></table></div>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>In Case 3, after the replacement, the node to be deleted recursively will have <strong>at most one child</strong> (never two). So <strong>at most 2 deletions</strong> are ever needed for a single delete operation.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h3 id="34-range-search">3.4 Range Search<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#34-range-search" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Print all values between <code>k1</code> and <code>k2</code>:</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="c" data-theme="github-light github-dark"><code data-language="c" data-theme="github-light github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function"> RangePrinter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">(node </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="operator">*</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;" data-token-type="important">root</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">int</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;" data-token-type="important"> k1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">int</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;" data-token-type="important"> k2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">) {</span></span>
+<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation"> (root </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="operator">==</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;" data-token-type="value"> NULL</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">;</span></span>
+<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation"> (root->data </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="operator">>=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> k1 </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="operator">&amp;&amp;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="normal"> root->data </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="operator">&lt;=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation"> k2) {</span></span>
+<span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function">        printf</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;" data-token-type="string">&quot;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;" data-token-type="value">%d</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;" data-token-type="string">&quot;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">, root->data);</span></span>
+<span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function">        RangePrinter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">(root->left, k1, k2);</span></span>
+<span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function">        RangePrinter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">(root->right, k1, k2);</span></span>
+<span data-line><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">    }</span></span>
+<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">    else</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword"> if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation"> (root->data </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="operator">&lt;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation"> k1)</span></span>
+<span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function">        RangePrinter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">(root->right, k1, k2);</span></span>
+<span data-line><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;" data-token-type="keyword">    else</span></span>
+<span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;" data-token-type="function">        RangePrinter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">(root->left, k1, k2);</span></span>
+<span data-line><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;" data-token-type="punctuation">}</span></span></code></pre></figure>
+<p><strong>Complexity:</strong> <code>O(h + m)</code> where:</p>
+<ul>
+<li><code>h</code> = height of tree</li>
+<li><code>m</code> = number of nodes in range</li>
+<li>For balanced BST: <code>h = log n</code>, so → <code>O(log n + m)</code></li>
+<li>If <code>n >> m</code>, simplifies to <code>O(log n)</code></li>
+</ul>
+<hr/>
+<h2 id="4-time-complexity">4. Time Complexity<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-time-complexity" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Operation</th><th>Best Case</th><th>Average Case</th><th>Worst Case</th></tr></thead><tbody><tr><td>Search</td><td>O(1) — key is root</td><td>O(log n)</td><td>O(n) — chain/skewed tree</td></tr><tr><td>Insertion</td><td>O(1) — empty tree</td><td>O(log n)</td><td>O(n) — chain/skewed tree</td></tr><tr><td>Deletion</td><td>O(1) — first node</td><td>O(log n)</td><td>O(n) — chain/skewed tree</td></tr></tbody></table></div>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Worst case occurs when BST degenerates into a <strong>linked list (chain structure)</strong> — e.g., inserting sorted values in order.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="5-probe-sequences-search-path-validity">5. Probe Sequences (Search Path Validity)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5-probe-sequences-search-path-validity" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>For a <strong>successful</strong> search of key <code>k</code>:</p>
+<p>A legal probe sequence must satisfy:</p>
+<ul>
+<li>Values <strong>less than k</strong> appear in <strong>increasing order</strong></li>
+<li>Values <strong>greater than k</strong> appear in <strong>decreasing order</strong></li>
+<li>These two groups can be interleaved in any order, but each group must maintain its order</li>
+<li><strong>Number of valid sequences</strong> with <code>p</code> values less than k and <code>q</code> values greater than k: <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.3334em;vertical-align:-0.4811em;"></span><span class="mord"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size1">(</span></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8523em;"><span style="top:-2.355em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">p</span></span></span></span><span style="top:-3.144em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">p</span><span class="mbin mtight">+</span><span class="mord mathnormal mtight" style="margin-right:0.0359em;">q</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4811em;"><span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size1">)</span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.4911em;vertical-align:-0.4811em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.01em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">p</span><span class="mclose mtight">!</span><span class="mbin mtight">⋅</span><span class="mord mathnormal mtight" style="margin-right:0.0359em;">q</span><span class="mclose mtight">!</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.485em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mopen mtight">(</span><span class="mord mathnormal mtight">p</span><span class="mbin mtight">+</span><span class="mord mathnormal mtight" style="margin-right:0.0359em;">q</span><span class="mclose mtight">)!</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4811em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></li>
+</ul>
+<hr/>
+<h2 id="6-number-of-insertion-permutations">6. Number of Insertion Permutations<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6-number-of-insertion-permutations" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="core-idea">Core Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#core-idea" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>Given a <strong>filled BST</strong>, find the number of valid insertion orders that produce the exact same tree.
+This is equivalent to: given the same <strong>structure</strong> (but empty), how many insertion orders produce it? Since a fixed structure corresponds to a <strong>unique node-to-key mapping</strong>, both questions reduce to the same problem.</p>
+</blockquote>
+<h3 id="rules">Rules<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rules" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>The <strong>root must always be inserted first</strong> — no exceptions</li>
+<li>For each subtree, a parent must be inserted before its children</li>
+<li>Children of the same parent can be interleaved freely → count using <strong>combinations</strong></li>
+</ul>
+<p><a href="../../permutations" class="internal internal-link" data-slug="permutations">Permutations</a></p>
+<hr/>
+<h2 id="7-gate-questions-practice">7. GATE Questions (Practice)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#7-gate-questions-practice" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="gate-cse-1996">GATE CSE 1996<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-1996" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>BST built by inserting: <code>50, 15, 62, 5, 20, 58, 91, 3, 8, 37, 60, 24</code> Nodes in left and right subtree of root respectively? <strong>Answer: B → (7, 4)</strong></p>
+</blockquote>
+<hr/>
+<h3 id="gate-cse-1996-1">GATE CSE 1996<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-1996-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>BST used to locate 43. Which probe sequences are valid?</p>
+<ul>
+<li>(a) <code>61 52 14 17 40 43</code></li>
+<li>(b) <code>2 3 50 40 60 43</code></li>
+<li>(c) <code>10 65 31 48 37 43</code></li>
+<li>(d) <code>81 61 52 14 41 43</code></li>
+<li>(e) <code>17 77 27 66 18 43</code></li>
+</ul>
+</blockquote>
+<hr/>
+<h3 id="gate-cse-1997">GATE CSE 1997<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-1997" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>BST with values 1–8, pre-order traversal. Which is valid output?</p>
+<ul>
+<li>A. <code>5 3 1 2 4 7 8 6</code></li>
+<li>B. <code>5 3 1 2 6 4 8 7</code></li>
+<li>C. <code>5 3 2 4 1 6 7 8</code></li>
+<li>D. <code>5 3 1 2 4 7 6 8</code> <strong>Answer: D</strong></li>
+</ul>
+</blockquote>
+<hr/>
+<h3 id="gate-cse-2003">GATE CSE 2003<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-2003" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>Numbers <code>7,5,1,8,3,6,0,9,4,2</code> inserted in order into empty BST. Inorder traversal? <strong>Answer: C → <code>0 1 2 3 4 5 6 7 8 9</code></strong> <em>(BST inorder always gives sorted output)</em></p>
+</blockquote>
+<hr/>
+<h3 id="gate-cse-2001">GATE CSE 2001<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-2001" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>Insert <code>15, 32, 20, 9, 3, 25, 12, 1</code> into BST. Draw tree, then delete 15.</p>
+</blockquote>
+<hr/>
+<h3 id="gate-it-2006">GATE IT 2006<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-it-2006" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>Numbers 1–100 in BST, searching for 55. Which sequence CANNOT occur?</p>
+<ul>
+<li>A. <code>{10, 75, 64, 43, 60, 57, 55}</code></li>
+<li>B. <code>{90, 12, 68, 34, 62, 45, 55}</code></li>
+<li>C. <code>{9, 85, 47, 68, 43, 57, 55}</code></li>
+<li>D. <code>{79, 14, 72, 56, 16, 53, 55}</code> <strong>Answer: C</strong> <em>(47 → 68 is fine, but 68 → 43 violates: 43 &lt; 47, already went left past 47)</em></li>
+</ul>
+</blockquote>
+<hr/>
+<h3 id="gate-it-2007">GATE IT 2007<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-it-2007" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>Searching for 60, nodes <code>10, 20, 40, 50, 70, 80, 90</code> traversed (order unknown). How many valid orderings?</p>
+<ul>
+<li>Values &lt; 60: <code>{10, 20, 40, 50}</code> — must be increasing</li>
+<li>Values > 60: <code>{70, 80, 90}</code> — must be decreasing</li>
+<li>Answer: <code>C(7,4) = 35</code> → <strong>Answer: A → 35</strong></li>
+</ul>
+</blockquote>
+<hr/>
+<h3 id="gate-cse-2016">GATE CSE 2016<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-2016" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>How many ways to insert <code>1,2,3,4,5,6,7</code> to get a BST of height 6?</p>
+<ul>
+<li>Height 6 with 7 nodes = chain (every node has exactly one child)</li>
+<li>At each level, 2 choices (go left or right)</li>
+<li id="6">Total structures = 2</li>
+<li>In this case for each structure there is only one possible order of insertions</li>
+<li>Answer: <strong>2⁶ = 64</strong></li>
+</ul>
+</blockquote>
+<hr/>
+<h3 id="gate-cse-2020">GATE CSE 2020<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-2020" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>In balanced BST with n elements, worst case time to report all elements in range [a,b] where k elements are reported? <strong>Answer: B → Θ(log n + k)</strong></p>
+</blockquote>
+<hr/>
+<h3 id="gate-cse-2014">GATE CSE 2014<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gate-cse-2014" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>Balanced BST with n numbers. Sum all numbers between L and H (m such numbers). Tightest upper bound: <code>O(n^a log^b n + m^c log^d n)</code></p>
+<ul>
+<li>Time = <code>O(log n + m)</code> → a=0, b=1, c=1, d=0</li>
+<li><code>a + 10b + 100c + 1000d</code> = <code>0 + 10 + 100 + 0</code> = <strong>110</strong></li>
+</ul>
+</blockquote>
+<hr/>
+<h2 id="8-quick-reference-cheatsheet">8. Quick Reference Cheatsheet<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#8-quick-reference-cheatsheet" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<pre><code>BST Property:    left &lt; root &lt; right  (no duplicates)
+Inorder Output:  Always sorted (ascending)
+Pre/Post order:  Uniquely determines the BST
+Inorder alone:   Does NOT uniquely determine BST
+
+Search/Insert/Delete:
+  Best:    O(1)
+  Average: O(log n)
+  Worst:   O(n)  ← skewed/chain tree
+
+Range Search:    O(h + m) = O(log n + k) for balanced tree
+
+Valid probe seq (successful search for k):
+  → values &lt; k must be increasing
+  → values > k must be decreasing
+  → count = C(p+q, p)
+
+Deletion cases:
+  Leaf       → just remove
+  One child  → bypass node
+  Two child  → swap with inorder successor/predecessor, then delete that
+             → at most 2 deletions needed total
+</code></pre>
+<hr/>
+<p><a href="../../gate-cs/data-structures/avl-trees" class="internal internal-link alias" data-slug="gate-cs/data-structures/avl-trees">AVL trees</a></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc"><button type="button" class="toc-header" aria-controls="toc-385" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#1-definition" data-for="1-definition">1. Definition</a></li><li class="depth-0"><a href="#2-traversal" data-for="2-traversal">2. Traversal</a></li><li class="depth-0"><a href="#3-bst-construction" data-for="3-bst-construction">3. BST Construction</a></li><li class="depth-1"><a href="#zig-zag-pattern-chain-of-height-h-nodes--h1" data-for="zig-zag-pattern-chain-of-height-h-nodes--h1">Zig-Zag Pattern (Chain of height h, nodes = h+1)</a></li><li class="depth-0"><a href="#4-operations" data-for="4-operations">4. Operations</a></li><li class="depth-1"><a href="#31-search" data-for="31-search">3.1 Search</a></li><li class="depth-1"><a href="#32-insertion" data-for="32-insertion">3.2 Insertion</a></li><li class="depth-1"><a href="#33-deletion" data-for="33-deletion">3.3 Deletion</a></li><li class="depth-1"><a href="#34-range-search" data-for="34-range-search">3.4 Range Search</a></li><li class="depth-0"><a href="#4-time-complexity" data-for="4-time-complexity">4. Time Complexity</a></li><li class="depth-0"><a href="#5-probe-sequences-search-path-validity" data-for="5-probe-sequences-search-path-validity">5. Probe Sequences (Search Path Validity)</a></li><li class="depth-0"><a href="#6-number-of-insertion-permutations" data-for="6-number-of-insertion-permutations">6. Number of Insertion Permutations</a></li><li class="depth-1"><a href="#core-idea" data-for="core-idea">Core Idea</a></li><li class="depth-1"><a href="#rules" data-for="rules">Rules</a></li><li class="depth-0"><a href="#7-gate-questions-practice" data-for="7-gate-questions-practice">7. GATE Questions (Practice)</a></li><li class="depth-1"><a href="#gate-cse-1996" data-for="gate-cse-1996">GATE CSE 1996</a></li><li class="depth-1"><a href="#gate-cse-1996-1" data-for="gate-cse-1996-1">GATE CSE 1996</a></li><li class="depth-1"><a href="#gate-cse-1997" data-for="gate-cse-1997">GATE CSE 1997</a></li><li class="depth-1"><a href="#gate-cse-2003" data-for="gate-cse-2003">GATE CSE 2003</a></li><li class="depth-1"><a href="#gate-cse-2001" data-for="gate-cse-2001">GATE CSE 2001</a></li><li class="depth-1"><a href="#gate-it-2006" data-for="gate-it-2006">GATE IT 2006</a></li><li class="depth-1"><a href="#gate-it-2007" data-for="gate-it-2007">GATE IT 2007</a></li><li class="depth-1"><a href="#gate-cse-2016" data-for="gate-cse-2016">GATE CSE 2016</a></li><li class="depth-1"><a href="#gate-cse-2020" data-for="gate-cse-2020">GATE CSE 2020</a></li><li class="depth-1"><a href="#gate-cse-2014" data-for="gate-cse-2014">GATE CSE 2014</a></li><li class="depth-0"><a href="#8-quick-reference-cheatsheet" data-for="8-quick-reference-cheatsheet">8. Quick Reference Cheatsheet</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-0" class="overflow"><li><a href="../../mocs/moc-dsa" class="internal">moc dsa</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script src="../../static/resource-after-e13fffa1.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-8b336f9a.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-baba652b.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-5eb75950.js" type="module" data-persist="true"></script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../../postscript-3eea7814.js" type="module" data-persist="true"></script></html>

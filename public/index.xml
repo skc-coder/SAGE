@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>SAGE</title>
+      <link>https://sage-skc.vercel.app</link>
+      <description>Last 10 notes on SAGE</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>apti</title>
+    <link>https://sage-skc.vercel.app/cds/apti/</link>
+    <guid>https://sage-skc.vercel.app/cds/apti/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>cds</title>
+    <link>https://sage-skc.vercel.app/cds/</link>
+    <guid>https://sage-skc.vercel.app/cds/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>notes</title>
+    <link>https://sage-skc.vercel.app/cds/apti/notes/</link>
+    <guid>https://sage-skc.vercel.app/cds/apti/notes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>biology</title>
+    <link>https://sage-skc.vercel.app/cds/biology/</link>
+    <guid>https://sage-skc.vercel.app/cds/biology/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>notes</title>
+    <link>https://sage-skc.vercel.app/cds/biology/notes/</link>
+    <guid>https://sage-skc.vercel.app/cds/biology/notes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>chemistry</title>
+    <link>https://sage-skc.vercel.app/cds/chemistry/</link>
+    <guid>https://sage-skc.vercel.app/cds/chemistry/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>notes</title>
+    <link>https://sage-skc.vercel.app/cds/chemistry/notes/</link>
+    <guid>https://sage-skc.vercel.app/cds/chemistry/notes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>economy</title>
+    <link>https://sage-skc.vercel.app/cds/economy/</link>
+    <guid>https://sage-skc.vercel.app/cds/economy/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>notes</title>
+    <link>https://sage-skc.vercel.app/cds/economy/notes/</link>
+    <guid>https://sage-skc.vercel.app/cds/economy/notes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item><item>
+    <title>general-science</title>
+    <link>https://sage-skc.vercel.app/cds/general-science/</link>
+    <guid>https://sage-skc.vercel.app/cds/general-science/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 14 Sep 2026 09:32:01 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

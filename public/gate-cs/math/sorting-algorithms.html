@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Sorting Algorithms</title><meta charset="utf-8"/><link rel="preload" href="../../index-bb6c1746.css" as="style"/><link rel="preload" href="../../prescript-2bfc6315.js" as="script"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="SAGE"/><meta property="og:title" content="Sorting Algorithms"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Sorting Algorithms"/><meta name="twitter:description" content="📌 Quick Reference AlgorithmBestAverageWorstSpaceStableIn-placeBubble SortΩ(n)Θ(n²)O(n²)O(1)✅✅Insertion SortΩ(n)Θ(n²)O(n²)O(1)✅✅Selection SortΩ(n²)Θ(n²)O(n²)O(1)❌✅Merge SortΩ(n log n)Θ(n log n)O(n log n)O(n)✅❌Quick SortΩ(n log n)Θ(n log n)O(n²)O(log n)❌✅Heap SortΩ(n log n)Θ(n log n)O(n log n)O(1)❌✅C..."/><meta property="og:description" content="📌 Quick Reference AlgorithmBestAverageWorstSpaceStableIn-placeBubble SortΩ(n)Θ(n²)O(n²)O(1)✅✅Insertion SortΩ(n)Θ(n²)O(n²)O(1)✅✅Selection SortΩ(n²)Θ(n²)O(n²)O(1)❌✅Merge SortΩ(n log n)Θ(n log n)O(n log n)O(n)✅❌Quick SortΩ(n log n)Θ(n log n)O(n²)O(log n)❌✅Heap SortΩ(n log n)Θ(n log n)O(n log n)O(1)❌✅C..."/><meta property="og:image:alt" content="📌 Quick Reference AlgorithmBestAverageWorstSpaceStableIn-placeBubble SortΩ(n)Θ(n²)O(n²)O(1)✅✅Insertion SortΩ(n)Θ(n²)O(n²)O(1)✅✅Selection SortΩ(n²)Θ(n²)O(n²)O(1)❌✅Merge SortΩ(n log n)Θ(n log n)O(n log n)O(n)✅❌Quick SortΩ(n log n)Θ(n log n)O(n²)O(log n)❌✅Heap SortΩ(n log n)Θ(n log n)O(n log n)O(1)❌✅C..."/><meta property="twitter:domain" content="sage-skc.vercel.app"/><meta property="og:url" content="https://sage-skc.vercel.app/gate-cs/math/sorting-algorithms"/><meta property="twitter:url" content="https://sage-skc.vercel.app/gate-cs/math/sorting-algorithms"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="📌 Quick Reference AlgorithmBestAverageWorstSpaceStableIn-placeBubble SortΩ(n)Θ(n²)O(n²)O(1)✅✅Insertion SortΩ(n)Θ(n²)O(n²)O(1)✅✅Selection SortΩ(n²)Θ(n²)O(n²)O(1)❌✅Merge SortΩ(n log n)Θ(n log n)O(n log n)O(n)✅❌Quick SortΩ(n log n)Θ(n log n)O(n²)O(log n)❌✅Heap SortΩ(n log n)Θ(n log n)O(n log n)O(1)❌✅C..."/><meta name="generator" content="Quartz"/><link href="../../index-bb6c1746.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-735924e0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-589c1cea.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-bbc3f7c0.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-2911f5d1.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-e427079e.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-53b25b2b.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-c93c6a44.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-8a06014f.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-77d6a441.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-6ee21cee.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-1ea6ad18.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-34bdfded.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-788c9ca3.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-642859cd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-4abc06bd.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-274a3dfe.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-94cb6c84.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-58d5ff56.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../component-7262b5a7.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-a5c806d2.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-6bd36952.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-9857b007.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="../../static/resource-style-d3a1a224.css" rel="stylesheet" type="text/css" data-persist="true"/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../../prescript-2bfc6315.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted%20Grotesk%3Awght%40400%3B700&amp;family=Source%20Sans%20Pro%3Aital%2Cwght%400%2C400%3B0%2C600%3B1%2C400%3B1%2C600&amp;family=IBM%20Plex%20Mono%3Awght%40400%3B600&amp;display=swap"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://sage-skc.vercel.app/gate-cs/math/sorting-algorithms-og-image.webp"/><meta property="og:image:url" content="https://sage-skc.vercel.app/gate-cs/math/sorting-algorithms-og-image.webp"/><meta name="twitter:image" content="https://sage-skc.vercel.app/gate-cs/math/sorting-algorithms-og-image.webp"/><meta property="og:image:type" content="image/webp"/></head><body data-slug="gate-cs/math/sorting-algorithms" data-basepath><div id="quartz-root" class="page" data-frame="default"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">SAGE</a></h2><div class="mobile-only"><div class="spacer"></div></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 0.5rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button" aria-label="Search" aria-expanded="false"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something..." placeholder="Search for something..."/><div class="search-layout" data-preview="true" data-field-priority="[&quot;title&quot;,&quot;content&quot;,&quot;tags&quot;]"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode" aria-label="Dark mode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode" aria-label="Reader mode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer nav-files-container" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a2, b2) => {\n    if (!a2.isFolder &amp;&amp; !b2.isFolder || a2.isFolder &amp;&amp; b2.isFolder) {\n      return (a2.displayName || \&quot;\&quot;).localeCompare(b2.displayName || \&quot;\&quot;, void 0, {\n        numeric: true,\n        sensitivity: \&quot;base\&quot;\n      });\n    }\n    if (!a2.isFolder &amp;&amp; b2.isFolder) {\n      return 1;\n    }\n    return -1;\n  }&quot;,&quot;filterFn&quot;:&quot;(node) => node.slugSegment !== \&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;(node) => {\n    return node;\n  }&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-578" aria-label="Explorer"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-578" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#" class="nav-file-title tree-item-self"></a></li></template><template id="template-folder"><li><div class="folder-container nav-folder-title tree-item-self"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon nav-folder-collapse-indicator collapse-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content tree-item-children"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../gate-cs/">gate-cs</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../gate-cs/math/">math</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Sorting Algorithms</a></div></nav><h1 class="article-title">Sorting Algorithms</h1><p show-comma="true" class="content-meta"><time datetime="2026-09-14T06:59:54.000Z">Sep 14, 2026</time><span>13 min read</span></p></div></div><article class="popover-hint"><div class="markdown-preview-view markdown-rendered"><h2 id="-quick-reference">📌 Quick Reference<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-quick-reference" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Algorithm</th><th>Best</th><th>Average</th><th>Worst</th><th>Space</th><th>Stable</th><th>In-place</th></tr></thead><tbody><tr><td>Bubble Sort</td><td><code>Ω(n)</code></td><td><code>Θ(n²)</code></td><td><code>O(n²)</code></td><td><code>O(1)</code></td><td>✅</td><td>✅</td></tr><tr><td>Insertion Sort</td><td><code>Ω(n)</code></td><td><code>Θ(n²)</code></td><td><code>O(n²)</code></td><td><code>O(1)</code></td><td>✅</td><td>✅</td></tr><tr><td>Selection Sort</td><td><code>Ω(n²)</code></td><td><code>Θ(n²)</code></td><td><code>O(n²)</code></td><td><code>O(1)</code></td><td>❌</td><td>✅</td></tr><tr><td>Merge Sort</td><td><code>Ω(n log n)</code></td><td><code>Θ(n log n)</code></td><td><code>O(n log n)</code></td><td><code>O(n)</code></td><td>✅</td><td>❌</td></tr><tr><td>Quick Sort</td><td><code>Ω(n log n)</code></td><td><code>Θ(n log n)</code></td><td><code>O(n²)</code></td><td><code>O(log n)</code></td><td>❌</td><td>✅</td></tr><tr><td>Heap Sort</td><td><code>Ω(n log n)</code></td><td><code>Θ(n log n)</code></td><td><code>O(n log n)</code></td><td><code>O(1)</code></td><td>❌</td><td>✅</td></tr><tr><td>Counting Sort</td><td><code>Ω(n+k)</code></td><td><code>Θ(n+k)</code></td><td><code>O(n+k)</code></td><td><code>O(k)</code></td><td>✅</td><td>❌</td></tr><tr><td>Radix Sort</td><td><code>Ω(nk)</code></td><td><code>Θ(nk)</code></td><td><code>O(nk)</code></td><td><code>O(n+k)</code></td><td>✅</td><td>❌</td></tr></tbody></table></div>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Definitions </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li><strong>Stable:</strong> Equal elements maintain their original relative order</li>
+<li><strong>In-place:</strong> Uses only <code>O(1)</code> extra memory (ignoring recursion stack)</li>
+<li><code>k</code> = range of values (Counting), number of digits (Radix)</li>
+</ul>
+</div>
+</blockquote>
+<hr/>
+<h2 id="1--bubble-sort">1 — Bubble Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1--bubble-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="idea">Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#idea" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Repeatedly <strong>bubble the largest unsorted element to its correct position</strong> by swapping adjacent elements that are out of order. After each pass, one more element is settled at the end.</p>
+<h3 id="dry-run--5-3-8-1">Dry Run — <code>[5, 3, 8, 1]</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dry-run--5-3-8-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>Pass 1:  [5,3,8,1] → [3,5,8,1] → [3,5,8,1] → [3,5,1,8]   ← 8 is placed ✓
+Pass 2:  [3,5,1,8] → [3,5,1,8] → [3,1,5,8]               ← 5 is placed ✓
+Pass 3:  [3,1,5,8] → [1,3,5,8]                            ← 3 is placed ✓
+Result:  [1, 3, 5, 8]
+</code></pre>
+<h3 id="algorithm">Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#algorithm" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>for i = 0 to n-2:
+    swapped = false
+    for j = 0 to n-2-i:
+        if A[j] > A[j+1]:
+            swap(A[j], A[j+1])
+            swapped = true
+    if not swapped: break        ← early exit if already sorted
+</code></pre>
+<h3 id="analysis">Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#analysis" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Case</th><th>Condition</th><th>Comparisons</th></tr></thead><tbody><tr><td>Best</td><td>Already sorted (with early exit)</td><td><code>n − 1</code> → <code>Ω(n)</code></td></tr><tr><td>Worst</td><td>Reverse sorted</td><td><code>n(n−1)/2</code> → <code>O(n²)</code></td></tr><tr><td>Average</td><td>Random input</td><td><code>Θ(n²)</code></td></tr></tbody></table></div>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Key Points </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Without the <code>swapped</code> flag, best case is also <code>O(n²)</code></li>
+<li>Stable because we only swap when strictly greater (not equal)</li>
+<li>Rarely used in practice — Insertion Sort is better in all cases</li>
+</ul>
+</div>
+</blockquote>
+<hr/>
+<h2 id="2--insertion-sort">2 — Insertion Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2--insertion-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="idea-1">Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#idea-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Build the sorted array <strong>one element at a time</strong>. Pick the next unsorted element and <strong>insert it into its correct position</strong> among the already-sorted elements by shifting larger elements right.</p>
+<p>Think of sorting a hand of playing cards — you pick up one card at a time and slot it in.</p>
+<h3 id="dry-run--5-3-8-1-1">Dry Run — <code>[5, 3, 8, 1]</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dry-run--5-3-8-1-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>Start:    [5 | 3, 8, 1]     sorted part = [5]
+i=1: key=3  → shift 5 right → [3, 5 | 8, 1]
+i=2: key=8  → 8 > 5, no shift → [3, 5, 8 | 1]
+i=3: key=1  → shift 8,5,3   → [1, 3, 5, 8]
+</code></pre>
+<h3 id="algorithm-1">Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#algorithm-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>for i = 1 to n-1:
+    key = A[i]
+    j = i - 1
+    while j >= 0 and A[j] > key:
+        A[j+1] = A[j]          ← shift right
+        j = j - 1
+    A[j+1] = key               ← insert
+</code></pre>
+<h3 id="analysis-1">Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#analysis-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Case</th><th>Condition</th><th>Comparisons</th><th>Shifts</th></tr></thead><tbody><tr><td>Best</td><td>Already sorted</td><td><code>n − 1</code></td><td><code>0</code></td></tr><tr><td>Worst</td><td>Reverse sorted</td><td><code>n(n−1)/2</code></td><td><code>n(n−1)/2</code></td></tr><tr><td>Average</td><td>Random</td><td><code>Θ(n²)</code></td><td><code>Θ(n²)</code></td></tr></tbody></table></div>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>When to use Insertion Sort </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Nearly sorted data — approaches <code>O(n)</code></li>
+<li>Small arrays (n ≤ 20) — low constant factor</li>
+<li><strong>Adaptive:</strong> Performance improves with pre-sortedness</li>
+<li>Used as a base case inside Merge Sort / Tim Sort in practice</li>
+</ul>
+</div>
+</blockquote>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Insertion Sort vs Bubble Sort Both are <code>O(n²)</code> but Insertion Sort does <strong>fewer writes</strong> (shifts, not swaps). One shift = 1 assignment vs one swap = 3 assignments. Insertion Sort is faster in practice.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="3--selection-sort">3 — Selection Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3--selection-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="idea-2">Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#idea-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Divide the array into a sorted left part and unsorted right part. In each pass, <strong>select the minimum element</strong> from the unsorted part and place it at the boundary.</p>
+<h3 id="dry-run--5-3-8-1-2">Dry Run — <code>[5, 3, 8, 1]</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dry-run--5-3-8-1-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>Pass 1: min of [5,3,8,1] = 1  → swap with index 0 → [1 | 3, 8, 5]
+Pass 2: min of [3,8,5]   = 3  → already at index 1 → [1, 3 | 8, 5]
+Pass 3: min of [8,5]     = 5  → swap with index 2 → [1, 3, 5 | 8]
+Result: [1, 3, 5, 8]
+</code></pre>
+<h3 id="algorithm-2">Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#algorithm-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>for i = 0 to n-2:
+    min_idx = i
+    for j = i+1 to n-1:
+        if A[j] &lt; A[min_idx]:
+            min_idx = j
+    swap(A[i], A[min_idx])
+</code></pre>
+<h3 id="analysis-2">Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#analysis-2" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Case</th><th>Comparisons</th><th>Swaps</th></tr></thead><tbody><tr><td>All cases</td><td><code>n(n−1)/2</code></td><td><code>O(n)</code></td></tr></tbody></table></div>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Why always <code>Θ(n²)</code>? The inner loop always scans the entire unsorted part — there's no early exit. Even if the array is sorted, Selection Sort still does all comparisons. That's why best = worst = <code>Θ(n²)</code>.</p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Selection Sort's one advantage It makes at most <strong><code>n − 1</code> swaps</strong> — useful when writes are expensive (e.g., flash memory). Insertion/Bubble Sort can make <code>O(n²)</code> writes.</p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Not Stable Swapping non-adjacent elements can disturb the relative order of equal elements. Example: <code>[3a, 3b, 1]</code> → after pass 1: <code>[1, 3b, 3a]</code> — order of the two 3s is reversed.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="4--merge-sort">4 — Merge Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4--merge-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="idea-3">Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#idea-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Classic <strong>Divide and Conquer</strong>. Split the array in half recursively until you reach single elements (trivially sorted), then <strong>merge</strong> sorted halves back together.</p>
+<pre><code>Divide:  [38, 27, 43, 3]
+         /              \
+    [38, 27]          [43, 3]
+    /      \          /     \
+  [38]    [27]     [43]    [3]
+
+Conquer (merge):
+  [27, 38]          [3, 43]
+         \          /
+          [3, 27, 38, 43]
+</code></pre>
+<h3 id="merge-procedure">Merge Procedure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#merge-procedure" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>The key operation — merges two sorted halves <code>A[l..m]</code> and <code>A[m+1..r]</code> into a sorted array.</p>
+<pre><code>merge(A, l, m, r):
+    create temp arrays L = A[l..m],  R = A[m+1..r]
+    i = 0, j = 0, k = l
+    while i &lt; len(L) and j &lt; len(R):
+        if L[i] &lt;= R[j]:          ← ≤ ensures stability
+            A[k++] = L[i++]
+        else:
+            A[k++] = R[j++]
+    copy remaining elements of L or R
+</code></pre>
+<h3 id="algorithm-3">Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#algorithm-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>mergeSort(A, l, r):
+    if l &lt; r:
+        m = (l + r) / 2
+        mergeSort(A, l, m)
+        mergeSort(A, m+1, r)
+        merge(A, l, m, r)
+</code></pre>
+<h3 id="recurrence">Recurrence<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#recurrence" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.2em;vertical-align:-0.35em;"></span><span class="mord">2</span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size1">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.6954em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size1">)</span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">Θ</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mclose">)</span></span></span></span></p>
+<p>By Master Theorem (Case 2): <span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">Θ</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop">lo<span style="margin-right:0.0139em;">g</span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">n</span><span class="mclose">)</span></span></span></span></p>
+<h3 id="analysis-3">Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#analysis-3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Case</th><th>Time</th><th>Why</th></tr></thead><tbody><tr><td>Best</td><td><code>Ω(n log n)</code></td><td>Always divides equally, always merges</td></tr><tr><td>Average</td><td><code>Θ(n log n)</code></td><td>Same structure regardless of input</td></tr><tr><td>Worst</td><td><code>O(n log n)</code></td><td>No bad pivot, always balanced</td></tr></tbody></table></div>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Merge Sort Strengths </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Guaranteed <code>O(n log n)</code> — no worst-case blow-up like Quick Sort</li>
+<li><strong>Stable</strong> — preserves relative order of equal elements</li>
+<li>Best for <strong>linked lists</strong> (no random access needed for merge)</li>
+<li>Best for <strong>external sorting</strong> (data too large for RAM)</li>
+</ul>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Merge Sort Weakness Requires <code>O(n)</code> extra space for the temporary arrays during merge. Not in-place.</p></div>
+                  
+                </div>
+</blockquote>
+<h3 id="counting-inversions">Counting Inversions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#counting-inversions" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote class="callout abstract" data-callout="abstract">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Application Merge Sort can count <strong>inversions</strong> (pairs where <code>i &lt; j</code> but <code>A[i] > A[j]</code>) in <code>O(n log n)</code> time. When merging, every time we pick from the right half over the left half, we count <code>mid − left_pointer</code> inversions.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="5--quick-sort">5 — Quick Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5--quick-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="idea-4">Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#idea-4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Divide and Conquer</strong> using a pivot. Partition the array so all elements smaller than the pivot are to its left and all larger are to its right. The pivot is now in its <strong>final sorted position</strong>. Recursively sort the two halves.</p>
+<h3 id="partition-lomuto-scheme">Partition (Lomuto scheme)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#partition-lomuto-scheme" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>partition(A, l, r):
+    pivot = A[r]          ← choose last element as pivot
+    i = l - 1
+    for j = l to r-1:
+        if A[j] &lt;= pivot:
+            i++
+            swap(A[i], A[j])
+    swap(A[i+1], A[r])    ← place pivot in final position
+    return i + 1
+</code></pre>
+<h3 id="dry-run--3-6-8-10-1-2-1-pivot--1-last">Dry Run — <code>[3, 6, 8, 10, 1, 2, 1]</code>, pivot = <code>1</code> (last)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dry-run--3-6-8-10-1-2-1-pivot--1-last" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>After partition: [1, 1 | pivot_pos | 3, 6, 8, 10, 2]
+                  ↑ all ≤ pivot       ↑ all > pivot
+Recurse on each side
+</code></pre>
+<h3 id="algorithm-4">Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#algorithm-4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>quickSort(A, l, r):
+    if l &lt; r:
+        p = partition(A, l, r)
+        quickSort(A, l, p-1)
+        quickSort(A, p+1, r)
+</code></pre>
+<h3 id="recurrence--analysis">Recurrence &amp; Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#recurrence--analysis" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Case</th><th>Condition</th><th>Recurrence</th><th>Time</th></tr></thead><tbody><tr><td>Best</td><td>Pivot always splits evenly</td><td><code>T(n) = 2T(n/2) + Θ(n)</code></td><td><code>Θ(n log n)</code></td></tr><tr><td>Average</td><td>Random input</td><td><code>T(n) = T(n/9) + T(9n/10) + Θ(n)</code> style</td><td><code>Θ(n log n)</code></td></tr><tr><td>Worst</td><td>Pivot always min or max</td><td><code>T(n) = T(0) + T(n-1) + Θ(n)</code></td><td><code>O(n²)</code></td></tr></tbody></table></div>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>When does worst case happen? </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Array already sorted (ascending or descending) with first/last element as pivot</li>
+<li>All elements are equal</li>
+<li>Fix: <strong>randomized pivot</strong> — pick pivot randomly → worst case becomes astronomically unlikely</li>
+</ul>
+</div>
+</blockquote>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Why Quick Sort is preferred in practice </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>In-place — no extra memory beyond <code>O(log n)</code> stack</li>
+<li>Excellent cache performance (accesses contiguous memory)</li>
+<li>Average case constant factor is small</li>
+<li><code>O(n log n)</code> average despite <code>O(n²)</code> worst case with randomized pivot</li>
+</ul>
+</div>
+</blockquote>
+<blockquote class="callout abstract" data-callout="abstract">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Average Case Analysis With randomized pivot, expected number of comparisons = <code>2n ln n ≈ 1.39 n log₂ n</code>. This is only ~39% more than the theoretical minimum — remarkably efficient.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="6--heap-sort">6 — Heap Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6--heap-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="prerequisite--max-heap">Prerequisite — Max Heap<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#prerequisite--max-heap" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>A <strong>Max Heap</strong> is a complete binary tree where every parent is ≥ its children. The root always holds the maximum element.</p>
+<pre><code>        9
+       / \
+      5   8
+     / \ / \
+    2  4 6  7
+</code></pre>
+<p>Stored as array: <code>[9, 5, 8, 2, 4, 6, 7]</code></p>
+<ul>
+<li>Parent of index <code>i</code>: <code>⌊(i−1)/2⌋</code></li>
+<li>Left child of <code>i</code>: <code>2i + 1</code></li>
+<li>Right child of <code>i</code>: <code>2i + 2</code></li>
+</ul>
+<h3 id="heapify-sift-down">Heapify (sift-down)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heapify-sift-down" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Fix a single violation at index <code>i</code> by sifting it down.</p>
+<pre><code>heapify(A, n, i):
+    largest = i
+    left  = 2i + 1
+    right = 2i + 2
+    if left &lt; n and A[left] > A[largest]:   largest = left
+    if right &lt; n and A[right] > A[largest]: largest = right
+    if largest ≠ i:
+        swap(A[i], A[largest])
+        heapify(A, n, largest)       ← recurse down
+</code></pre>
+<p>Cost of one <code>heapify</code> call: <code>O(log n)</code> (height of tree)</p>
+<h3 id="build-max-heap">Build Max Heap<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#build-max-heap" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>buildHeap(A, n):
+    for i = n/2 - 1 downto 0:   ← start from last non-leaf
+        heapify(A, n, i)
+</code></pre>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Build Heap is <code>O(n)</code>, not <code>O(n log n)</code>! Intuition: most nodes are near the bottom and need very little sifting. The exact sum telescopes to <code>O(n)</code>. This is a commonly tested GATE fact.</p></div>
+                  
+                </div>
+</blockquote>
+<h3 id="heap-sort-algorithm">Heap Sort Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heap-sort-algorithm" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>heapSort(A, n):
+    buildHeap(A, n)                       ← O(n)
+    for i = n-1 downto 1:
+        swap(A[0], A[i])                  ← move max to end
+        heapify(A, i, 0)                  ← restore heap on reduced size
+</code></pre>
+<h3 id="dry-run--4-10-3-5-1">Dry Run — <code>[4, 10, 3, 5, 1]</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dry-run--4-10-3-5-1" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>After buildHeap:  [10, 5, 3, 4, 1]
+
+i=4: swap A[0]↔A[4] → [1,5,3,4,|10]  heapify → [5,4,3,1,|10]
+i=3: swap A[0]↔A[3] → [1,4,3,|5,10]  heapify → [4,1,3,|5,10]
+i=2: swap A[0]↔A[2] → [3,1,|4,5,10]  heapify → [3,1,|4,5,10]
+i=1: swap A[0]↔A[1] → [1,|3,4,5,10]  heapify → [1,|3,4,5,10]
+
+Result: [1, 3, 4, 5, 10] ✓
+</code></pre>
+<h3 id="analysis-4">Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#analysis-4" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Phase</th><th>Cost</th></tr></thead><tbody><tr><td>Build heap</td><td><code>O(n)</code></td></tr><tr><td>n extractions × heapify</td><td><code>n × O(log n)</code> = <code>O(n log n)</code></td></tr><tr><td><strong>Total</strong></td><td><strong><code>O(n log n)</code></strong></td></tr></tbody></table></div>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Heap Sort Strengths </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Guaranteed <code>O(n log n)</code> in all cases — no worst-case blow-up</li>
+<li>In-place — <code>O(1)</code> extra space</li>
+<li>Combines the space efficiency of Quick Sort with the guaranteed performance of Merge Sort</li>
+</ul>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Heap Sort Weakness <strong>Not stable</strong> — swapping the root with the last element can disrupt relative order. Poor cache performance — heap operations jump around memory (not cache-friendly like Quick Sort).</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="7--decision-tree-lower-bound">7 — Decision Tree Lower Bound<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#7--decision-tree-lower-bound" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout abstract" data-callout="abstract">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Theorem Any comparison-based sorting algorithm requires at least <code>Ω(n log n)</code> comparisons in the worst case.</p></div>
+                  
+                </div>
+</blockquote>
+<h3 id="proof-idea">Proof Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#proof-idea" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>A decision tree models every possible sequence of comparisons an algorithm can make</li>
+<li>Each <strong>leaf</strong> represents one possible sorted output (a permutation)</li>
+<li>There are <code>n!</code> possible permutations → tree must have ≥ <code>n!</code> leaves</li>
+<li>A binary tree of height <code>h</code> has at most <code>2^h</code> leaves</li>
+<li>So: <code>2^h ≥ n!</code> → <code>h ≥ log₂(n!)</code></li>
+<li>By Stirling’s approximation: <code>log₂(n!) = Θ(n log n)</code></li>
+</ul>
+<p><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6922em;"></span><span class="mrel amsrm">∴</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord text"><span class="mord"> any comparison sort needs </span></span><span class="mord">Ω</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop">lo<span style="margin-right:0.0139em;">g</span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">n</span><span class="mclose">)</span><span class="mord text"><span class="mord"> comparisons</span></span></span></span></span></p>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Consequence Merge Sort, Heap Sort, and Quick Sort (average) are all <strong>asymptotically optimal</strong> among comparison-based sorting algorithms.</p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Why Counting and Radix Sort beat this bound They are <strong>not comparison-based</strong> — they use the actual values of elements (arithmetic, not just comparisons), so the decision tree argument doesn't apply.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="8--counting-sort">8 — Counting Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#8--counting-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="idea-5">Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#idea-5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>For integers in range <code>[0, k]</code>. Count how many times each value appears, then use those counts to place each element directly into its correct output position. <strong>No comparisons needed.</strong></p>
+<h3 id="algorithm-5">Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#algorithm-5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>countingSort(A, n, k):
+    C[0..k] = 0                          ← count array
+
+    for i = 0 to n-1:  C[A[i]]++        ← count occurrences
+
+    for i = 1 to k:    C[i] += C[i-1]   ← cumulative (prefix sum)
+                                          ← C[v] = last position of value v
+
+    for i = n-1 downto 0:               ← iterate BACKWARDS for stability
+        B[C[A[i]] - 1] = A[i]
+        C[A[i]]--
+
+    return B
+</code></pre>
+<h3 id="dry-run--a--1-3-2-3-1-k--3">Dry Run — <code>A = [1, 3, 2, 3, 1]</code>, k = 3<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dry-run--a--1-3-2-3-1-k--3" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>Count:       C = [0, 2, 1, 2]       (index 0: zero 0s, index 1: two 1s, ...)
+Cumulative:  C = [0, 2, 3, 5]
+Place (backwards):
+  A[4]=1 → B[C[1]-1] = B[1] = 1, C[1]=1
+  A[3]=3 → B[C[3]-1] = B[4] = 3, C[3]=4
+  A[2]=2 → B[C[2]-1] = B[2] = 2, C[2]=2
+  A[1]=3 → B[C[3]-1] = B[3] = 3, C[3]=3
+  A[0]=1 → B[C[1]-1] = B[0] = 1, C[1]=0
+Result B = [1, 1, 2, 3, 3] ✓
+</code></pre>
+<h3 id="analysis-5">Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#analysis-5" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>Time:</strong> <code>O(n + k)</code> — two passes over <code>A</code> (size <code>n</code>) + one pass over <code>C</code> (size <code>k</code>)</li>
+<li><strong>Space:</strong> <code>O(n + k)</code> — output array <code>B</code> (size <code>n</code>) + count array <code>C</code> (size <code>k</code>)</li>
+<li><strong>Stable:</strong> Yes — the backwards iteration preserves relative order of equal elements</li>
+</ul>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>When NOT to use Counting Sort When <code>k >> n</code> (range much larger than count). E.g., sorting 10 numbers in range <code>[0, 10⁶]</code> → wastes memory. Use only when <code>k = O(n)</code>.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="9--radix-sort">9 — Radix Sort<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#9--radix-sort" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="idea-6">Idea<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#idea-6" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Sort integers <strong>digit by digit</strong>, from the <strong>Least Significant Digit (LSD) to the Most Significant Digit (MSD)</strong>. Use a stable sort (Counting Sort) at each digit level.</p>
+<blockquote class="callout idea" data-callout="idea">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Why LSD first? If we sort MSD first, subsequent digit sorts would corrupt earlier results. LSD first: each pass refines the previous ordering. Stability ensures that a later pass never disturbs the correct relative order already established. </p></div>
+                  
+                </div>
+</blockquote>
+<h3 id="algorithm-6">Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#algorithm-6" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>radixSort(A, n):
+    d = number of digits in max element
+    for i = 1 to d:
+        stableSort(A) by digit i        ← use Counting Sort on digit i
+</code></pre>
+<h3 id="dry-run--170-45-75-90-802-24-2-66">Dry Run — <code>[170, 45, 75, 90, 802, 24, 2, 66]</code><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dry-run--170-45-75-90-802-24-2-66" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>Sort by units digit (d=1):
+  [170, 90, 802, 2, 24, 45, 75, 66]
+
+Sort by tens digit (d=2):
+  [802, 2, 24, 45, 66, 170, 75, 90]
+
+Sort by hundreds digit (d=3):
+  [2, 24, 45, 66, 75, 90, 170, 802]  ✓
+</code></pre>
+<h3 id="analysis-6">Analysis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#analysis-6" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>Time:</strong> <code>O(d × (n + k))</code> where <code>d</code> = digits, <code>k</code> = base (usually 10)</li>
+<li>If <code>d</code> is constant and <code>k = O(n)</code> → <code>O(n)</code></li>
+<li><strong>Space:</strong> <code>O(n + k)</code></li>
+<li><strong>Stable:</strong> Yes (because each digit-pass uses a stable sort)</li>
+</ul>
+<blockquote class="callout tip" data-callout="tip">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Radix Sort vs Counting Sort Radix Sort extends Counting Sort to handle large numbers by sorting digit by digit. Counting Sort sorts in one pass but needs range <code>k</code> to be small. Radix Sort can handle 32-bit integers in 4 passes with base 256 → still <code>O(n)</code>.</p></div>
+                  
+                </div>
+</blockquote>
+<hr/>
+<h2 id="10--choosing-the-right-sorting-algorithm">10 — Choosing the Right Sorting Algorithm<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#10--choosing-the-right-sorting-algorithm" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<pre><code>Is data nearly sorted?
+  └─ YES → Insertion Sort (approaches O(n))
+  └─ NO ↓
+
+Are values integers in a small range [0, k]?
+  └─ YES → Counting Sort or Radix Sort (sub-linear possible)
+  └─ NO ↓
+
+Is extra memory O(n) acceptable?
+  └─ YES → Merge Sort (guaranteed O(n log n), stable)
+  └─ NO ↓
+
+Is guaranteed O(n log n) needed?
+  └─ YES → Heap Sort (in-place, O(n log n) worst case)
+  └─ NO  → Quick Sort (fastest in practice, randomized pivot)
+</code></pre>
+<hr/>
+<h2 id="11--common-gate-questions">11 — Common GATE Questions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#11--common-gate-questions" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Frequently Tested </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ol>
+<li>Which sorting algorithms are stable? → <strong>Bubble, Insertion, Merge, Counting, Radix</strong></li>
+<li>Which sorting algorithms are in-place? → <strong>Bubble, Insertion, Selection, Quick, Heap</strong></li>
+<li>Best sorting algorithm for linked lists → <strong>Merge Sort</strong> (no random access needed)</li>
+<li>Best case of Bubble Sort <strong>with</strong> early exit flag → <code>O(n)</code></li>
+<li>Build Heap complexity → <code>O(n)</code> (not <code>O(n log n)</code>)</li>
+<li>Lower bound for comparison sorting → <code>Ω(n log n)</code> (decision tree proof)</li>
+<li>Which algorithm has best case ≠ worst case but both are <code>O(n²)</code>? → <strong>Insertion Sort</strong> (best <code>Ω(n)</code>)</li>
+<li>Selection sort is NOT stable — provide a counterexample → <code>[3a, 3b, 1]</code></li>
+</ol>
+</div>
+</blockquote>
+<hr/>
+<h2 id="-related-notes">🔗 Related Notes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-related-notes" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../../max-min-tournament-method" class="internal internal-link alias" data-slug="max-min-tournament-method">Max Min Tournament Method</a></li>
+<li><a href="../../divide-and-conquer---part-1" class="internal internal-link alias" data-slug="divide-and-conquer---part-1">Divide and Conquer - Part 1</a></li>
+<li><a href="../../quick-sort---detailed-analysis" class="internal internal-link alias" data-slug="quick-sort---detailed-analysis">Quick Sort - Detailed Analysis</a></li>
+<li><a href="../../gate-cs/math/heap-and-heap-sort" class="internal internal-link alias" data-slug="gate-cs/math/heap-and-heap-sort">gate-cs/math/Heap and Heap Sort</a></li>
+<li><a href="../../decision-tree-and-lower-bounds" class="internal internal-link alias" data-slug="decision-tree-and-lower-bounds">Decision Tree and Lower Bounds</a></li>
+<li><a href="../../gate-pyqs---algorithms" class="internal internal-link alias" data-slug="gate-pyqs---algorithms">GATE PYQs - Algorithms</a></li>
+</ul>
+<hr/>
+<p><em>Lectures: 20a · 20b · 20c · 20d · 20e · 20f</em></p></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc"><button type="button" class="toc-header" aria-controls="toc-458" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-0" class="toc-content overflow"><li class="depth-0"><a href="#-quick-reference" data-for="-quick-reference">📌 Quick Reference</a></li><li class="depth-0"><a href="#1--bubble-sort" data-for="1--bubble-sort">1 — Bubble Sort</a></li><li class="depth-1"><a href="#idea" data-for="idea">Idea</a></li><li class="depth-1"><a href="#dry-run--5-3-8-1" data-for="dry-run--5-3-8-1">Dry Run — [5, 3, 8, 1]</a></li><li class="depth-1"><a href="#algorithm" data-for="algorithm">Algorithm</a></li><li class="depth-1"><a href="#analysis" data-for="analysis">Analysis</a></li><li class="depth-0"><a href="#2--insertion-sort" data-for="2--insertion-sort">2 — Insertion Sort</a></li><li class="depth-1"><a href="#idea-1" data-for="idea-1">Idea</a></li><li class="depth-1"><a href="#dry-run--5-3-8-1-1" data-for="dry-run--5-3-8-1-1">Dry Run — [5, 3, 8, 1]</a></li><li class="depth-1"><a href="#algorithm-1" data-for="algorithm-1">Algorithm</a></li><li class="depth-1"><a href="#analysis-1" data-for="analysis-1">Analysis</a></li><li class="depth-0"><a href="#3--selection-sort" data-for="3--selection-sort">3 — Selection Sort</a></li><li class="depth-1"><a href="#idea-2" data-for="idea-2">Idea</a></li><li class="depth-1"><a href="#dry-run--5-3-8-1-2" data-for="dry-run--5-3-8-1-2">Dry Run — [5, 3, 8, 1]</a></li><li class="depth-1"><a href="#algorithm-2" data-for="algorithm-2">Algorithm</a></li><li class="depth-1"><a href="#analysis-2" data-for="analysis-2">Analysis</a></li><li class="depth-0"><a href="#4--merge-sort" data-for="4--merge-sort">4 — Merge Sort</a></li><li class="depth-1"><a href="#idea-3" data-for="idea-3">Idea</a></li><li class="depth-1"><a href="#merge-procedure" data-for="merge-procedure">Merge Procedure</a></li><li class="depth-1"><a href="#algorithm-3" data-for="algorithm-3">Algorithm</a></li><li class="depth-1"><a href="#recurrence" data-for="recurrence">Recurrence</a></li><li class="depth-1"><a href="#analysis-3" data-for="analysis-3">Analysis</a></li><li class="depth-1"><a href="#counting-inversions" data-for="counting-inversions">Counting Inversions</a></li><li class="depth-0"><a href="#5--quick-sort" data-for="5--quick-sort">5 — Quick Sort</a></li><li class="depth-1"><a href="#idea-4" data-for="idea-4">Idea</a></li><li class="depth-1"><a href="#partition-lomuto-scheme" data-for="partition-lomuto-scheme">Partition (Lomuto scheme)</a></li><li class="depth-1"><a href="#dry-run--3-6-8-10-1-2-1-pivot--1-last" data-for="dry-run--3-6-8-10-1-2-1-pivot--1-last">Dry Run — [3, 6, 8, 10, 1, 2, 1], pivot = 1 (last)</a></li><li class="depth-1"><a href="#algorithm-4" data-for="algorithm-4">Algorithm</a></li><li class="depth-1"><a href="#recurrence--analysis" data-for="recurrence--analysis">Recurrence &amp; Analysis</a></li><li class="depth-0"><a href="#6--heap-sort" data-for="6--heap-sort">6 — Heap Sort</a></li><li class="depth-1"><a href="#prerequisite--max-heap" data-for="prerequisite--max-heap">Prerequisite — Max Heap</a></li><li class="depth-1"><a href="#heapify-sift-down" data-for="heapify-sift-down">Heapify (sift-down)</a></li><li class="depth-1"><a href="#build-max-heap" data-for="build-max-heap">Build Max Heap</a></li><li class="depth-1"><a href="#heap-sort-algorithm" data-for="heap-sort-algorithm">Heap Sort Algorithm</a></li><li class="depth-1"><a href="#dry-run--4-10-3-5-1" data-for="dry-run--4-10-3-5-1">Dry Run — [4, 10, 3, 5, 1]</a></li><li class="depth-1"><a href="#analysis-4" data-for="analysis-4">Analysis</a></li><li class="depth-0"><a href="#7--decision-tree-lower-bound" data-for="7--decision-tree-lower-bound">7 — Decision Tree Lower Bound</a></li><li class="depth-1"><a href="#proof-idea" data-for="proof-idea">Proof Idea</a></li><li class="depth-0"><a href="#8--counting-sort" data-for="8--counting-sort">8 — Counting Sort</a></li><li class="depth-1"><a href="#idea-5" data-for="idea-5">Idea</a></li><li class="depth-1"><a href="#algorithm-5" data-for="algorithm-5">Algorithm</a></li><li class="depth-1"><a href="#dry-run--a--1-3-2-3-1-k--3" data-for="dry-run--a--1-3-2-3-1-k--3">Dry Run — A = [1, 3, 2, 3, 1], k = 3</a></li><li class="depth-1"><a href="#analysis-5" data-for="analysis-5">Analysis</a></li><li class="depth-0"><a href="#9--radix-sort" data-for="9--radix-sort">9 — Radix Sort</a></li><li class="depth-1"><a href="#idea-6" data-for="idea-6">Idea</a></li><li class="depth-1"><a href="#algorithm-6" data-for="algorithm-6">Algorithm</a></li><li class="depth-1"><a href="#dry-run--170-45-75-90-802-24-2-66" data-for="dry-run--170-45-75-90-802-24-2-66">Dry Run — [170, 45, 75, 90, 802, 24, 2, 66]</a></li><li class="depth-1"><a href="#analysis-6" data-for="analysis-6">Analysis</a></li><li class="depth-0"><a href="#10--choosing-the-right-sorting-algorithm" data-for="10--choosing-the-right-sorting-algorithm">10 — Choosing the Right Sorting Algorithm</a></li><li class="depth-0"><a href="#11--common-gate-questions" data-for="11--common-gate-questions">11 — Common GATE Questions</a></li><li class="depth-0"><a href="#-related-notes" data-for="-related-notes">🔗 Related Notes</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-0" class="overflow"><li><a href="../../gate-cs/math/obsidian-notes/find-kth-min-or-max-element" class="internal">Find kth min or max element</a></li><li><a href="../../mocs/moc-algo" class="internal">moc algo</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v5.0.0</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script src="../../static/resource-after-e13fffa1.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-8b336f9a.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-baba652b.js" type="application/javascript" data-persist="true"></script><script src="../../static/resource-after-5eb75950.js" type="module" data-persist="true"></script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../../postscript-3eea7814.js" type="module" data-persist="true"></script></html>
