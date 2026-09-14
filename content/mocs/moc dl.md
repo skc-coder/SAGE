@@ -6,9 +6,9 @@ tags:
   - digital-logic
   - gate
   - moc
+banner: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
 ---
 
-![DIGITAL LOGIC DESIGN](https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop)
 
 
 <div class="title" style="color:#06b6d4; font-family: 'JetBrains Mono', monospace;">GATE DIGITAL LOGIC MODULE</div>
