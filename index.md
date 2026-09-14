@@ -23,7 +23,7 @@ title: SAGE Master Dashboard++
 - 🌐 [[moc cs|Computer Science Master MOC]]
 - ⚙️ [[moc os|Operating Systems MOC]]
 - 🧮 [[moc dm|Discrete Mathematics MOC]]
-- 🏗️ [[moc dsa|Data Structures MOC]]
+- 🏗️ [[moc dsa|DSA MOC]]
 - ⚡ [[moc algo|Algorithms MOC]]
 - 📡 [[moc cn|Computer Networks MOC]]
 - 🏗️ [[moc coa|Computer Organization & Architecture MOC]]
