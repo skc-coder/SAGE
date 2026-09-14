@@ -1,75 +1,47 @@
 ---
-title: SAGE — Master Knowledge Index
-aliases: [Home, Dashboard, Index]
+cssclasses:
+  - dashboard
+title: SAGE Master Dashboard++
+banner: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=1600&auto=format&fit=crop"
 ---
 
-# 🚀 SAGE Knowledge Hub & Master Index
+<div class="title" style="color:#e2e8f0; font-family: 'JetBrains Mono', monospace;">SAGE KNOWLEDGE HUB</div>
 
-Welcome to your structured knowledge portal. Every single note in the vault is categorized below by subject domain with direct internal wikilinks (`[[Note Name]]`).
+# 🛡️ Combined Defence Services (CDS)
 
----
+- 🔬 [[content/dashboards/CDS General Science Dashboard|General Science & Physics]]
+  - [[content/cds/general-science/CDS_Physics_Master_Book.pdf|CDS Physics Master Book]]
+  - [[content/cds/general-science/Magnetism|Magnetism]]
+  - [[content/cds/general-science/light|Light & Optics]]
+  - [[content/cds/general-science/eyes|Human Eye & Vision]]
+  - [[content/cds/general-science/Units|Units & Dimensions]]
+  - [[content/cds/general-science/weigtlessness question|Weightlessness]]
+- 🏛️ [[content/dashboards/CDS Humanities Dashboard|Humanities & Economy]]
+  - [[content/cds/humanities/Economy MOC|Economy Master MOC]]
+  - [[content/cds/humanities/Banking — History, Structure & Regulation|Banking Structure & Regulation]]
+  - [[content/cds/humanities/banking|Banking Core Notes]]
+  - [[content/cds/humanities/money|Monetary System]]
 
-## 💻 1. GATE Computer Science (`content/gate-cs/`)
+# 💻 GATE Computer Science
 
-### ⚙️ Operating Systems (`gate-cs/os/`)
-- [[Critical Section Synchronization Criteria]]
-- [[Critical Section Requirements]]
-- [[Critical Section Practice Variations]]
-- [[Peterson's Algorithm & Order Invariant]]
-- [[Software Synchronization Primitives & Attempts]]
-- [[Shared Counter & Race Condition Mechanics]]
-- [[Semaphores & Synchronization]]
-- [[Semaphores]]
-- [[Invariant Verification Framework]]
-- [[Registers]]
+- ⚙️ [[content/dashboards/GATE Operating Systems Dashboard|Operating Systems]]
+  - [[content/gate-cs/os/Critical Section Synchronization Criteria|Synchronization Criteria]]
+  - [[content/gate-cs/os/Critical Section Requirements|CS Requirements]]
+  - [[content/gate-cs/os/Peterson's Algorithm & Order Invariant|Peterson's Algorithm]]
+  - [[content/gate-cs/os/Semaphores & Synchronization|Semaphores & Sync]]
+  - [[content/gate-cs/os/Shared Counter & Race Condition Mechanics|Race Conditions]]
+  - [[content/gate-cs/os/Software Synchronization Primitives & Attempts|Sync Primitives]]
+- 🧮 [[content/dashboards/GATE Discrete Math & Probability Dashboard|Discrete Math & Probability]]
+  - [[content/gate-cs/math/Discrete Math MOC|Discrete Math MOC]]
+  - [[content/gate-cs/math/Probability foundations|Probability Foundations]]
+  - [[content/gate-cs/math/Conditional Probability|Conditional Probability]]
+  - [[content/gate-cs/math/Total Probability Bayes' Theorem|Bayes' Theorem]]
+  - [[content/gate-cs/math/Mathematical Logic - Propositional Logic Intro|Propositional Logic]]
+  - [[content/gate-cs/math/GATE PYQs — Conditional Probability & Bayes' Theorem|Bayes PYQs]]
 
-### 🧮 Discrete Math, Logic & Probability (`gate-cs/math/`)
-- [[Discrete Math MOC]]
-- [[Probability foundations]]
-- [[Conditional Probability]]
-- [[Conditional Independence]]
-- [[Independent Events]]
-- [[Total Probability Bayes' Theorem]]
-- [[Expectation]]
-- [[Tree diagrams]]
-- [[Problems - Probability]]
-- [[GATE PYQs — Conditional Probability & Bayes' Theorem]]
-- [[GATE PYQs — Recurrence Relations]]
-- [[Mathematical Logic - Propositional Logic Intro]]
-- [[Logical Equivalences and Laws]]
-- [[ai logic notes]]
-- [[Heap and Heap Sort]]
-- [[prims]]
+# 🌐 System & General Foundations
 
----
-
-## 🛡️ 2. Combined Defence Services (`content/cds/`)
-
-### 🔬 General Science & Physics (`cds/general-science/`)
-- [[CDS_Physics_Master_Book.pdf|CDS Physics Master Book (PDF)]]
-- [[CDS ratio]]
-- [[Problem ratio]]
-- [[Magnetism]]
-- [[light]]
-- [[eyes]]
-- [[Units]]
-- [[weigtlessness question]]
-- [[materail for traignles propertiese]]
-
-### 🏛️ Humanities & Economy (`cds/humanities/`)
-- [[Economy MOC]]
-- [[Banking — History, Structure & Regulation]]
-- [[banking]]
-- [[money]]
-
----
-
-## 🌐 3. General & Foundations (`content/general/`)
-- [[jee]]
-- [[kubernetes]]
-
----
-
-## ⚙️ Meta & System Shortcuts
-- **System Config**: [[exams_config]]
-- **Quartz Web Server**: `npx quartz build --serve`
+- 🚀 [[content/dashboards/System Foundations Dashboard|General & System]]
+  - [[content/general/jee|JEE Notes]]
+  - [[content/general/kubernetes|Kubernetes Guide]]
+  - [[content/exams_config|System Exam Config]]
