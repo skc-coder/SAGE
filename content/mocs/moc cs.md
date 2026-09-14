@@ -1,4 +1,8 @@
 ---
+aliases:
+  - moc-cs
+  - content/mocs/moc-cs
+  - mocs/moc-cs
 cssclasses:
   - dashboard
 ---

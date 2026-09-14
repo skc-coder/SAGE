@@ -1,4 +1,8 @@
 ---
+aliases:
+  - cpp-polymorphism-moc
+  - content/mocs/cpp-polymorphism-moc
+  - mocs/cpp-polymorphism-moc
 title: C++ Polymorphism & Object-Oriented Architecture Map of Content (MOC)
 tags: [cpp, oop, polymorphism, architecture, sage, moc]
 date: 2026-09-14

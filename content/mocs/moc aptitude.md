@@ -1,9 +1,10 @@
 ---
+aliases:
+  - moc-aptitude
+  - content/mocs/moc-aptitude
+  - mocs/moc-aptitude
 cssclasses:
   - dashboard
----
-
----
 tags:
   - aptitude
   - syllabus

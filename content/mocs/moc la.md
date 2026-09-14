@@ -1,9 +1,10 @@
 ---
+aliases:
+  - moc-la
+  - content/mocs/moc-la
+  - mocs/moc-la
 cssclasses:
   - dashboard
----
-
----
 title: 5th ed Linear Algebra and Its Applications
 author: David Lay
 ---

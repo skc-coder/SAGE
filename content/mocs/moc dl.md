@@ -1,9 +1,10 @@
 ---
+aliases:
+  - moc-dl
+  - content/mocs/moc-dl
+  - mocs/moc-dl
 cssclasses:
   - dashboard
----
-
----
 Folders:
   - "[[padai/cse/moc cs]]"
 ---

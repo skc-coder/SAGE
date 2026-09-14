@@ -1,9 +1,10 @@
 ---
+aliases:
+  - moc-dm
+  - content/mocs/moc-dm
+  - mocs/moc-dm
 cssclasses:
   - dashboard
----
-
----
 title: Discrete Mathematics
 subject: Engineering Mathematics
 tags: [GATE, maths, discrete-math]

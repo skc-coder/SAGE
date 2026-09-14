@@ -1,9 +1,10 @@
 ---
+aliases:
+  - moc-os
+  - content/mocs/moc-os
+  - mocs/moc-os
 cssclasses:
   - dashboard
----
-
----
 title: Operating Systems
 subject: GATE CSE
 tags: [GATE, OS]

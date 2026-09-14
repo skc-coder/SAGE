@@ -1,4 +1,8 @@
 ---
+aliases:
+  - moc-dsa
+  - content/mocs/moc-dsa
+  - mocs/moc-dsa
 cssclasses:
   - dashboard
 ---
