@@ -4,6 +4,9 @@ cssclasses:
 title: "Algorithms & Complexity MOC Dashboard++"
 ---
 
+![ALGORITHMS & COMPLEXITY](https://images.unsplash.com/photo-1516116211223-48a122638e59?q=80&w=1600&auto=format&fit=crop)
+
+
 [[gate-cs/math/time complexity]]
 ## 🧠 Why Study Algorithms?
 - **1a** – Why Study Algorithms? (13:00)

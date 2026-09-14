@@ -7,6 +7,9 @@ tags:
   - syllabus
 ---
 
+![GENERAL APTITUDE](https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop)
+
+
 <div class="title" style="color:#eab308; font-family: 'JetBrains Mono', monospace;">GENERAL APTITUDE MODULE</div>
 
 # 📐 Quantitative Aptitude & Foundations

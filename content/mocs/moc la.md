@@ -4,6 +4,9 @@ cssclasses:
 title: 5th ed Linear Algebra and Its Applications
 author: David Lay
 ---
+
+![LINEAR ALGEBRA](https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop)
+
 - [[gate-cs/math/Matrix algebra]]
 - [[gate-cs/math/Determinants]]
 - [[gate-cs/math/Eigenvalues and Eigenvectors]]

@@ -4,6 +4,9 @@ cssclasses:
 title: "Data Structures MOC Dashboard++"
 ---
 
+![DATA STRUCTURES](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1600&auto=format&fit=crop)
+
+
 ## Foundations
 * [[gate-cs/data structures/dsa basic terms]]
 * [[gate-cs/data structures/list of adt and ds]]

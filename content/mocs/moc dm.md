@@ -9,6 +9,9 @@ tags:
   - moc
 ---
 
+![DISCRETE MATHEMATICS](https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop)
+
+
 <div class="title" style="color:#a855f7; font-family: 'JetBrains Mono', monospace;">DISCRETE MATHEMATICS MODULE</div>
 
 # 🧮 Discrete Mathematics & Probability Master Map

@@ -8,6 +8,9 @@ tags:
 date: 2026-09-14
 ---
 
+![C++ POLYMORPHISM](https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop)
+
+
 <div class="title" style="color:#3b82f6; font-family: 'JetBrains Mono', monospace;">C++ ARCHITECTURE MODULE</div>
 
 # ⚡ C++ Polymorphism & OOP Map of Content

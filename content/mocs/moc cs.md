@@ -4,6 +4,9 @@ cssclasses:
 title: Computer Science Master MOC Dashboard++
 ---
 
+![COMPUTER SCIENCE MASTER](https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop)
+
+
 <div class="title" style="color:#6366f1; font-family: 'JetBrains Mono', monospace;">GATE COMPUTER SCIENCE HUB</div>
 
 # 💻 GATE CS Core Subject Maps

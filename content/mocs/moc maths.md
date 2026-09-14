@@ -4,6 +4,9 @@ cssclasses:
 title: "Engineering Mathematics MOC Dashboard++"
 ---
 
+![ENGINEERING MATHEMATICS](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=1600&auto=format&fit=crop)
+
+
 - [[maths/Algebra|Algebra]]
 - [[moc logic]]
 - [[mocs/moc calculus]]

@@ -5,6 +5,9 @@ title: Operating Systems
 subject: GATE CSE
 tags: [GATE, OS]
 ---
+
+![OPERATING SYSTEMS](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1600&auto=format&fit=crop)
+
 https://gateoverflow.in/401429/go-classes-iiith-pgee-2026-mock-test-2-question-85?show=401429#q401429
 https://gateoverflow.in/402158/go-classes-iiith-pgee-2026-mock-test-3-question-75?show=402158#q402158
 https://gateoverflow.in/402895/go-classes-iiith-pgee-2026-mock-test-4-question-67?show=402895#q402895

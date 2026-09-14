@@ -4,6 +4,9 @@ cssclasses:
 title: "Calculus & Analysis MOC Dashboard++"
 ---
 
+![CALCULUS & ANALYSIS](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=1600&auto=format&fit=crop)
+
+
 ## Contents:
 1. #### [[gate-cs/math/AP-Calculus-BC/pages/Limits]]
 2. #### [[gate-cs/math/AP-Calculus-BC/pages/Continuity]]
