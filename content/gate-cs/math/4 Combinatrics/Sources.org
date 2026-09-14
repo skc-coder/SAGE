@@ -1,2 +1,0 @@
-https://discrete.openmathbooks.org/dmoi2/sec_recurrence.html
-https://stackoverflow.com/questions/1364444/difference-between-big-o-and-little-o-notation

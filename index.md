@@ -40,6 +40,7 @@ banner: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=160
 # 🌐 System & General Foundations
 
 - 🚀 [[content/dashboards/System Foundations Dashboard|General & System]]
-  - [[content/general/jee|JEE Notes]]
-  - [[content/general/kubernetes|Kubernetes Guide]]
+[[00_meta/agents]]
   - [[content/exams_config|System Exam Config]]
+
+

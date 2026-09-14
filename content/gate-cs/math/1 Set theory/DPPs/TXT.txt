@@ -1,2 +1,0 @@
-Check that the "nothing" element sastisfied the proertese or not.
-Read the elements carefully.
