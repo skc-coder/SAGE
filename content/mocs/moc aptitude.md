@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
   - cols-4
-title: General Aptitude & Quantitative MOC Dashboard++
+title: Aptitude MOC Dashboard++
 tags:
   - aptitude
   - syllabus

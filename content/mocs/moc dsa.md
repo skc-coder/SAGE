@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
   - cols-4
-title: "Data Structures MOC Dashboard++"
+title: "DSA MOC Dashboard++"
 ---
 
 ![[attachments/banners/dsa.webp|banner]]

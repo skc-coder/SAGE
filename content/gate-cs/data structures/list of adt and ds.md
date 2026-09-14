@@ -1,4 +1,4 @@
-## Abstract Data Types (ADTs) vs. Data Structures
+## Abstract Data Types (ADTs) vs. DSA
 
 An **Abstract Data Type (ADT)** defines *what* operations can be performed on data, without specifying *how* they are implemented—focusing on behavior and interface. A **data structure** is the concrete implementation of an ADT, detailing how data is organized and manipulated in memory.
 
@@ -56,7 +56,7 @@ Retrieves elements based on priority (highest/lowest first).
 
 ### 2. Comparison Table
 
-| ADT               | Common Operations                     | Typical Data Structures Used       |
+| ADT               | Common Operations                     | Typical DSA Used       |
 |-------------------|----------------------------------------|-------------------------------------|
 | **List**          | `get`, `add`, `remove`, `size`         | Array, Linked List                  |
 | **Stack**         | `push`, `pop`, `peek`, `isEmpty`       | Array, Linked List                  |

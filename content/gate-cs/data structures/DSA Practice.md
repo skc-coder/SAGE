@@ -1,8 +1,8 @@
 ---
 
-## subject: "Data Structures" topics: [Binary Tree, BST, Recursion, Linked List] last_reviewed: "" total_mistakes: 0
+## subject: "DSA" topics: [Binary Tree, BST, Recursion, Linked List] last_reviewed: "" total_mistakes: 0
 
-# Data Structures — Mistake Log
+# DSA — Mistake Log
 
 ---
 3z# 📦 SOURCES

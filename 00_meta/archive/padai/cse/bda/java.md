@@ -1,4 +1,4 @@
-## 1. Data Structures in Java
+## 1. DSA in Java
 
 ### 1.1 Linked List
 

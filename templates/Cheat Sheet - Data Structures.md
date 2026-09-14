@@ -1,6 +1,6 @@
-# Cheat Sheet - Data Structures
+# Cheat Sheet - DSA
 
-**Topic:** GATE CSE > Data Structures
+**Topic:** GATE CSE > DSA
 **Source:** —
 **Tags:** #cheat-sheet #data-structures #gate-cse
 **Links:** [[Cheat Sheet MOC (GATE CSE)]] | [[Revision Tracker]]
@@ -41,4 +41,4 @@
 
 ## Open Questions
 
-- [ ] Populate once Data Structures topic notes exist in the vault.
+- [ ] Populate once DSA topic notes exist in the vault.

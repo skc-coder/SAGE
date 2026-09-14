@@ -1,6 +1,6 @@
 ## 1. DATA STRUCTURES
 
-**Books:** CLRS (Cormen) / Data Structures by Mark Allen Weiss / Narasimha Karumanchi (for GATE-specific)
+**Books:** CLRS (Cormen) / DSA by Mark Allen Weiss / Narasimha Karumanchi (for GATE-specific)
 
 ### Homeworks / Assignments
 

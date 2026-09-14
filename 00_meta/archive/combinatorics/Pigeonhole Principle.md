@@ -3,7 +3,7 @@
 **Source:** GO Classes — Deepak Poonia (Discrete Mathematics Course, Combinatorics module: "Pigeon-hole Principle", "Generalized Pigeonhole Principle", "Pigeonhole Principle Practice") 
 
 **Tags:** #gate-cs #discrete-math #combinatorics #pigeonhole-principle 
-**Links:** [[Discrete Mathematics MOC]] | [[moc combinatorics]] | [[Generating Functions]] | [[Recurrence Relations]]
+**Links:** [[DM MOC]] | [[moc combinatorics]] | [[Generating Functions]] | [[Recurrence Relations]]
 
 ---
 

@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
   - cols-4
-title: Discrete Mathematics MOC Dashboard++
+title: DM MOC Dashboard++
 tags:
   - gate
   - maths
@@ -34,8 +34,8 @@ tags:
   - Functions & Composition
 
 - 📊 Algebra & Linear Algebra
-  - [[mocs/moc la|Linear Algebra MOC]]
-  - [[mocs/moc maths|Engineering Mathematics MOC]]
+  - [[mocs/moc la|LA MOC]]
+  - [[mocs/moc maths|Maths MOC]]
   - Group Theory & Monoids
 
 - 🌐 Graph Theory & Combinatorics

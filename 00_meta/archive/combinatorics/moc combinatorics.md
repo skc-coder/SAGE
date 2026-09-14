@@ -74,7 +74,7 @@
 
 ## Related MOCs
 
-- [[Discrete Mathematics MOC]]
+- [[DM MOC]]
 - [[GATE CSE Syllabus MOC]]
 
 ## Open Questions

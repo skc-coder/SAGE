@@ -9,7 +9,7 @@
 ### Month 1 (Jun 24 – Jul 23): Math + DSA
 - Discrete Math: logic, sets, graphs, combinatorics (done ✅), groups/monoids
 - Engineering Math: linear algebra, calculus, probability (done  ✅) & statistics (in progress)
-- Data Structures: arrays, stacks, queues, linked lists, trees, BSTs, heaps, graphs
+- DSA: arrays, stacks, queues, linked lists, trees, BSTs, heaps, graphs
 - GA: 15–20 min background practice every few days (runs throughout all months)
 
 ### Month 2 (Jul 24 – Aug 23): Algorithms + Digital Logic + CO&Arch

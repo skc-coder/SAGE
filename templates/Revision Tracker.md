@@ -36,7 +36,7 @@
 | Derangements                                  | Discrete Mathematics | —            | —        | —                | [[Derangements]] · [[Mistake Log - Discrete Mathematics]] · [[moc combinatorics]]                                  |
 | Onto Functions (Surjections) via IEP          | Discrete Mathematics | —            | —        | —                | [[Onto Functions (Surjections) via IEP]] · [[Mistake Log - Discrete Mathematics]] · [[moc combinatorics]]          |
 
-*(Add rows for Operating Systems, DBMS, Computer Networks, Digital Logic, Data Structures, and Algorithms topics as they come up for revision.)*
+*(Add rows for Operating Systems, DBMS, Computer Networks, Digital Logic, DSA, and Algorithms topics as they come up for revision.)*
 
 ---
 

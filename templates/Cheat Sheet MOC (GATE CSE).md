@@ -21,7 +21,7 @@
 | DBMS | [[Cheat Sheet - DBMS]] |
 | Computer Networks | [[Cheat Sheet - Computer Networks]] |
 | Digital Logic | [[Cheat Sheet - Digital Logic]] |
-| Data Structures | [[Cheat Sheet - Data Structures]] |
+| DSA | [[Cheat Sheet - DSA]] |
 | Algorithms | [[Cheat Sheet - Algorithms]] |
 
 ---
@@ -33,4 +33,4 @@
 
 ## Open Questions
 
-- [ ] Populate cheat sheets for Operating Systems, DBMS, Computer Networks, Digital Logic, Data Structures, Algorithms (currently only Discrete Mathematics is filled in).
+- [ ] Populate cheat sheets for Operating Systems, DBMS, Computer Networks, Digital Logic, DSA, Algorithms (currently only Discrete Mathematics is filled in).

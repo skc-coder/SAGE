@@ -21,7 +21,7 @@
 | DBMS                 | [[Mistake Log - DBMS]]                 | —                     |
 | Computer Networks    | [[Mistake Log - Computer Networks]]    | —                     |
 | Digital Logic        | [[Mistake Log - Digital Logic]]        | —                     |
-| Data Structures      | [[Mistake Log - Data Structures]]      | —                     |
+| DSA      | [[Mistake Log - DSA]]      | —                     |
 | Algorithms           | [[Mistake Log - Algorithms]]           | —                     |
 
 ---
@@ -33,4 +33,4 @@
 
 ## Open Questions
 
-- [ ] Create subject MOCs for Operating Systems, DBMS, Computer Networks, Digital Logic, Data Structures, Algorithms (currently only Combinatorics has one).
+- [ ] Create subject MOCs for Operating Systems, DBMS, Computer Networks, Digital Logic, DSA, Algorithms (currently only Combinatorics has one).

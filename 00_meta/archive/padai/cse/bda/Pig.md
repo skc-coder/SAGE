@@ -32,7 +32,7 @@
 | **Abstraction Level** | High-level abstraction                                                    | Low-level, rigid framework                  |
 | **Join Operations**   | Simple and built-in                                                       | Difficult and manual                        |
 | **Compilation**       | No explicit compilation; Pig scripts convert to MapReduce jobs at runtime | Requires explicit compilation               |
-| **Data Structures**   | Supports complex types (tuples, bags, maps)                               | Limited to key-value pairs                  |
+| **DSA**   | Supports complex types (tuples, bags, maps)                               | Limited to key-value pairs                  |
 | **Programming Model** | Declarative (focus on what to do)                                         | Imperative (explicit map and reduce steps)  |
 | **Development Speed** | Faster development and prototyping                                        | Slower due to detailed coding               |
 | **Execution Flow**    | Multi-query approach optimizes pipelines                                  | Each step often requires separate job setup |

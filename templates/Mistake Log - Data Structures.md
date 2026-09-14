@@ -1,6 +1,6 @@
-# Mistake Log - Data Structures
+# Mistake Log - DSA
 
-**Topic:** GATE CSE > Data Structures
+**Topic:** GATE CSE > DSA
 **Source:** Personal Mistake Log
 **Tags:** #mistake-log #data-structures #gate-cse
 **Links:** [[Mistake Log MOC (GATE CSE)]] | [[Revision Tracker]]
@@ -8,7 +8,7 @@
 ---
 
 > [!info] Overview
-> Mistakes made while solving Data Structures questions, organized by chapter/topic. Reviewed in full every Sunday.
+> Mistakes made while solving DSA questions, organized by chapter/topic. Reviewed in full every Sunday.
 
 ---
 

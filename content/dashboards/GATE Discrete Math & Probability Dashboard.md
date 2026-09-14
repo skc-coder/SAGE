@@ -22,12 +22,12 @@ banner_y: 0.5
   - [[gate-cs/math/Problems - Probability|Probability Practice Problems]]
 
 - 🧠 Logic & Discrete Mathematics
-  - [[content/mocs/moc dm|Discrete Mathematics MOC (DM)]]
+  - [[content/mocs/moc dm|DM MOC (DM)]]
   - [[gate-cs/math/Mathematical Logic - Propositional Logic Intro|Propositional Logic]]
   - [[gate-cs/math/Logical Equivalences and Laws|Equivalences & Laws]]
   - [[gate-cs/math/ai logic notes|AI Logic Notes]]
   - [[content/mocs/moc graphs|Graph Theory MOC]]
-  - [[content/mocs/moc la|Linear Algebra MOC]]
+  - [[content/mocs/moc la|LA MOC]]
   - [[gate-cs/math/Heap and Heap Sort|Heap & Heap Sort]]
   - [[gate-cs/math/prims|Prim's Algorithm]]
   - [[gate-cs/math/GATE PYQs — Conditional Probability & Bayes' Theorem|GATE PYQs - Bayes]]

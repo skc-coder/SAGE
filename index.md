@@ -16,23 +16,23 @@ title: SAGE Master Dashboard++
 
 # 🛡️ Combined Defence Services (CDS) MOCs
 
-- 🏛️ [[moc-economy|Humanities & Economics MOC]]
-- 📐 [[moc aptitude|General Aptitude & Quantitative MOC]]
+- 🏛️ [[moc-economy|Economy MOC]]
+- 📐 [[moc aptitude|Aptitude MOC]]
 
 # 💻 GATE Computer Science MOC Hub
 
-- 🌐 [[moc cs|Computer Science Master MOC]]
-- ⚙️ [[moc os|Operating Systems MOC]]
-- 🧮 [[moc dm|Discrete Mathematics MOC]]
+- 🌐 [[moc cs|CS Master MOC]]
+- ⚙️ [[moc os|OS MOC]]
+- 🧮 [[moc dm|DM MOC]]
 - 🏗️ [[moc dsa|DSA MOC]]
 - ⚡ [[moc algo|Algorithms MOC]]
-- 📡 [[moc cn|Computer Networks MOC]]
-- 🏗️ [[moc coa|Computer Organization & Architecture MOC]]
+- 📡 [[moc cn|CN MOC]]
+- 🏗️ [[moc coa|COA MOC]]
 - 🗄️ [[moc dbms|DBMS MOC]]
-- 🔌 [[moc dl|Digital Logic MOC]]
+- 🔌 [[moc dl|DL MOC]]
 - 💻 [[cpp-moc|C++ Polymorphism MOC]]
 - 📐 [[moc calculus|Calculus MOC]]
 - 📊 [[moc graphs|Graphs MOC]]
-- 🔢 [[moc la|Linear Algebra MOC]]
-- 🧮 [[moc maths|Engineering Mathematics MOC]]
+- 🔢 [[moc la|LA MOC]]
+- 🧮 [[moc maths|Maths MOC]]
 - 🎲 [[moc probablity|Probability MOC]]

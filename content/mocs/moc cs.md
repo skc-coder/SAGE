@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
   - cols-4
-title: Computer Science Master MOC Dashboard++
+title: CS Master MOC Dashboard++
 ---
 
 ![[attachments/banners/cs.webp|banner]]
@@ -17,22 +17,22 @@ title: Computer Science Master MOC Dashboard++
 # 💻 GATE CS Core Subject Maps
 
 - ⚙️ Low-Level & Systems
-  - [[mocs/moc os|Operating Systems MOC (OS)]]
-  - [[mocs/moc coa|Computer Organization & Architecture MOC (COA)]]
-  - [[mocs/moc dl|Digital Logic MOC (DL)]]
+  - [[mocs/moc os|OS MOC (OS)]]
+  - [[mocs/moc coa|COA MOC (COA)]]
+  - [[mocs/moc dl|DL MOC (DL)]]
 
-- 🧮 Data Structures & Algorithms
-  - [[mocs/moc dsa|Data Structures MOC (DSA)]]
+- 🧮 DSA
+  - [[mocs/moc dsa|DSA MOC (DSA)]]
   - [[mocs/moc algo|Algorithms MOC (ALGO)]]
   - [[mocs/cpp-moc|C++ Polymorphism & OOP Architecture MOC]]
 
 - 📡 Networks & Databases
-  - [[mocs/moc cn|Computer Networks MOC (CN)]]
+  - [[mocs/moc cn|CN MOC (CN)]]
   - [[mocs/moc dbms|Database Management Systems MOC (DBMS)]]
 
 - 📐 Discrete Mathematics & Logic
-  - [[mocs/moc dm|Discrete Mathematics MOC (DM)]]
+  - [[mocs/moc dm|DM MOC (DM)]]
   - [[mocs/moc probablity|Probability & Random Variables MOC]]
   - [[mocs/moc graphs|Graph Theory MOC]]
-  - [[mocs/moc la|Linear Algebra MOC]]
-  - [[mocs/moc maths|Engineering Mathematics MOC]]
+  - [[mocs/moc la|LA MOC]]
+  - [[mocs/moc maths|Maths MOC]]

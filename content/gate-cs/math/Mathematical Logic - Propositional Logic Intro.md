@@ -1,6 +1,6 @@
 # Mathematical Logic & Propositional Logic — Introduction
 
-**Topic:** GATE CS > Discrete Mathematics > Mathematical Logic **Source:** GO Classes — Discrete Mathematics (Deepak Poonia, IISc Bangalore), Lecture 1 (Mathematical Logic — intro) & Lecture 2 (Propositional Logic — intro) **Tags:** #gate-cs #discrete-math #mathematical-logic #propositional-logic **Links:** [[Discrete Mathematics MOC]] | [[Propositional Logic - Atomic and Compound Propositions]]
+**Topic:** GATE CS > Discrete Mathematics > Mathematical Logic **Source:** GO Classes — Discrete Mathematics (Deepak Poonia, IISc Bangalore), Lecture 1 (Mathematical Logic — intro) & Lecture 2 (Propositional Logic — intro) **Tags:** #gate-cs #discrete-math #mathematical-logic #propositional-logic **Links:** [[DM MOC]] | [[Propositional Logic - Atomic and Compound Propositions]]
 
 ---
 
@@ -265,7 +265,7 @@ So, for example, if a propositional variable $R$ represents a true proposition, 
 ## Related Notes
 
 - [[Propositional Logic - Atomic and Compound Propositions]] _(next lecture in sequence — not yet created)_
-- [[Discrete Mathematics MOC]]
+- [[DM MOC]]
 - [[First Order Logic]] _(link placeholder — create when covered)_
 
 ## Open Questions
