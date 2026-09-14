@@ -14,13 +14,29 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
     max-width: 100%;
 }
 
-/* Title at top of the document */
-.dashboard .markdown-preview-section .title {
-    top: 60px;
-    position: absolute;
+/* Title at top of the document - relative positioning to prevent overlapping properties */
+.dashboard .title {
+    position: relative !important;
+    top: 0px !important;
+    margin-top: 15px !important;
+    margin-bottom: 20px !important;
     font-size: 26pt !important;
     font-weight: bolder;
-    letter-spacing: 8px;
+    letter-spacing: 4px;
+}
+
+/* Banner positioning fix for Obsidian Banners plugin / properties overlap */
+.dashboard .obsidian-banner-wrapper,
+.dashboard .banner-container {
+    position: relative !important;
+    margin-bottom: 20px !important;
+}
+
+.dashboard .metadata-container,
+.dashboard .metadata-properties {
+    position: relative !important;
+    z-index: 10 !important;
+    margin-top: 10px !important;
 }
 
 .dashboard h1 {
@@ -28,7 +44,6 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
     border-width: 1px !important;
     padding-bottom: 3px !important;
 }
-
 
 /* Get rid of the parent bullet */
 .dashboard div.markdown-preview-section>div>ul>li>.list-bullet {
@@ -42,7 +57,7 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
 }
 
 div.markdown-preview-section>div>ul.has-list-bullet>li {
-    padding-left: 0p !important;
+    padding-left: 0px !important;
 }
 
 .dashboard div>ul {
