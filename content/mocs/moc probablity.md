@@ -1,4 +1,5 @@
 ---
+banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
 cssclasses:
   - dashboard
 title: Probability & Random Variables MOC Dashboard++
@@ -7,7 +8,6 @@ tags:
   - probability
   - gate
   - mathematics
-banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
 ---
 
 

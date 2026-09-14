@@ -1,8 +1,8 @@
 ---
+banner: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
 cssclasses:
   - dashboard
 title: Computer Science Master MOC Dashboard++
-banner: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
 ---
 
 
