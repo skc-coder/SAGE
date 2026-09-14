@@ -23,8 +23,8 @@ img[alt*="banner"],
     overflow: hidden !important;
     user-select: none !important;
     z-index: 0 !important;
-    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0))) !important;
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0)) !important;
+    -webkit-mask-image: linear-gradient(to bottom, black 0%, black 50%, transparent 100%) !important;
+    mask-image: linear-gradient(to bottom, black 0%, black 50%, transparent 100%) !important;
 }
 
 img[alt*="banner"][alt*="lower"] { object-position: 50% 30% !important; }
