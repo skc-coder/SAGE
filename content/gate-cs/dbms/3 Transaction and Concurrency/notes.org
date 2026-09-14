@@ -1,0 +1,258 @@
+
+* Transactions and concurrecny
+
+This chapter deals with executing transcations without conflicts and with concurrecny for max speed.
+
+A transaction consists of reading, doing calculations and writing back calculations.
+What the calculations are irrelevant to datbase, they are not its concerns.
+
+A write operation is of two types:
+normal write: a read has been done before it.
+blind write: no read done before it. (eg overwriting a value)
+
+A correct set of transactions follows ACID property.
+
+** Atomicity 
+Atomicity requires recovery managment component which in turn requiers transaction logs.
+The recovery system uses undo and redo, rollback, aborting, comiting.
+
+Atomicity depends on recoveribility.
+
+Recoveribilty is affected by two conflicts: WR and WW conflicts.
+
+If a transaction T2 reads data writeen by trasnaction T1, then T1 should commit before T2 or else irrecoverbility happens.
+If this condition is stasfied we have cacacding recoverable schedule. We have removed the WR conlfict.
+But this can be costly to recover schduels. We want only one scehdule to be afffects by its abortion.
+That can be ensured by NOT allowing other trasnactions to read or write on data that currrecnt trasnaction has written to
+ie. no WR, or WW conflict (in the later,
+DBMS will not know hweater to keep the change to data or not, or whetere it was written by aborted or the other trasnaction).
+THnee we have strict recoverable schduel.
+
+(RWR conflict doesnt affect recoveriblity, it affects serializablity/isolation).
+NOte that here recovery is for recovering from the effects of a aborted stranction, not "Durablity" recovery.
+** Durability
+Defines that a commited transaction's effect should retain in all conditions.
+Durability can be esnured by making backup of data.
+
+** Isolation
+Schedules (of transactions) must be equivalent to one of possible serial schedule. Which serial schedule is correct is
+not DBMS's concern and is concern of business logic. The only concern here is to ensure that the sub operations of transactions dont
+conflict with each other.
+
+Two types of schedules possible:
+Serial (low throughtput)
+Concurrect (high throuhput)
+
+Concurrecnt has two types further
+Serilaizbale (Equiv to a serial sschedule)
+and non seriazliable.
+
+DBMS deals with concurrect serializable scheudles.
+
+The concurrecny contorl component is respobisle for avoding non serializable scheudles. It wnsures seriazliblity and thus isolation.
+It is done by using locks and other techniques to ensure that only serial equiv schedules execuite.
+
+In concurrect schedules, these conflictsmay happen:
+(Note these are not like the COA data depencide conflicts. here it is written in way the conflict happens.
+RW memns read then write).
+IN all three below the first operations happens then second, but the transaction to which first operation belongs is uncommited or still going.
+RW then again R (RWR) or unrepatable read
+WR or dirty read
+WW or lost update (WW is really probletic in context of recoveriblity and when a read operation is done on written data, if no reader present that may get affect between these two writes then these are not problemetic (in view serialziable, but they are "problemetic" by defintion in conflict equvialecnty)
+
+These conflicts are NOT present in any serial schdule, as each transaction commits before another starts.
+But these may be present in a serializable schduele.
+
+Note that these 'conflicts' may not be a problem at all. It just tells that these are the ways two transcation can affect each other or get affected by and deviate from a equivalent serial schdule behaviour. But on their own they are not problems.
+
+For example if a schdule as "WR" conflict that is say T1 writes to A and in T2 someone reads A. THis may not be problematic if in the serial schduel T1 -> T2 the same operation in T2 reads the same value written by T1.
+ANother example
+For example if three trasnactions consits of only operation (or the last operation) is W(B) and the schduele is equiv to T1->T2->T3 then "WW conflict" between T1 and T2 is useless as any can write eraly or later, it wont matter. The thing that matters is that the last update is done by T3. This is actually the basis of "view serialiaiblty". View must be same. But in conlfict serialzitly this is problematic i.e for it W1(B) -> W2(B) -> W3(B) is not same as W2(B) -> W1(B) -> W3(B) or equiv to schedule T2->T1->T3 (or they dont have same "conflicts"), but they are equiv for view seriablity.
+
+Sir disitnguished betwen WW and lost update problem and also says 
+The three cofnlcits (wR, RW, WW) can only happen in non seraizable schdeules, but the lost update one affects *concurrent* serial schdules as well (they must be concurrent, as if they
+are truely serial then one trancatin commits before the other starts hence no possiblity of any conflict). I am dubious on these statment of Sir.
+
+
+** Consistecny
+
+This deals with transactions starting from consistent state and commiting with consistent state on their own/isolation.
+What is 'consistent' is defined by the business.
+
+It is affected by both recovery and concurecny control componenets.
+
+- If recovery is from abortions not done well, then inconsistency can happen.
+- If concurercny not managed well then inconsitecny can happen.
+
+
+** Scheduels
+We want schdeuls to be:
+- Serialiabzle
+- Recoverable
+  - That too cascadless recoverable.
+
+** Serializibilty
+
+A serial schedule is of the form: Ti -> TJ -> Tk.
+
+Concurrent schedules can be "equivalent" to serials schedules.
+
+A schedule is equivalent to another if each read in both transaction by each operation, of the two schduels,
+is same value is read and the final write is done by the same operation in both schedules.
+
+There are two types of serializable schedules.
+
+The more general one: view serializable.
+
+Two schedules S1 and S2 are said to be view-equivalent when the following conditions are satisfied:
+
+If the transaction $ T_{i} $ in S1 reads an initial value for object X, so does the same transaction $ T_{i} $ in S2.
+If the transaction $ T_{i} $ reads a value (for an object X) written by the transaction $ T_{j} $ in S1, it must do so in S2.
+If the transaction $ T_{i} $ in S1 does the final write for object X, so does the same transaction $ T_{i} $ in S2.
+(FROM WIKI https://en.wikipedia.org/wiki/Database_transaction_schedule#Serializable)
+
+But in this pdf https://dsg.csail.mit.edu/6.5830/2022/lectures/lec12.pdf on page 17 the defination given of view seraibaliziblty
+is same as that of serailiabilty.
+That definition is also more intutive in that two schedules are view serializable if both view the same data and the final write
+is done by same transaction.
+But if they are same then why have seprate name???
+(So I have found a conflict!? Wow).
+
+A more partiuclar serialziable: conflict serialziabel schdeul (CSS).
+
+When in two schedules non conflicting operatins can be swapped (commuted) to get one from annother then they are conflict equiv.
+If a schedule is conflict equiv to a serial schedule it is CSS.
+It is called "conflict" equiv because the two schduels have same conflicts!
+Note that here conflicts dont depend on "commit" like they did in recoveriblity, so dont consider that.
+
+Schedules can be depecited using a precednce graph, where arrows show which transaction must come before another.
+The "arrow" making process differs in seriabzlaity considered.
+
+In CSS these arrows are formed by the classic WW, WR, RW conflicts.
+In VSS these are fromed by WR RW. WW can go fuck it self :) and who did the last write.
+(Since there is conlfict in its defination I want you to play safe, and also include the 1st weird condition as well,
+but curiously Sir wrote the wiki definition but on page 21 and 24 he apranelty ignored the
+1st condition in 9).
+
+
+A CSS is more easy to implement.
+
+** CSS protocols
+Or how to implement CSS schedule.
+It can be done using
+- Locks
+  - Basic locking
+  - Strict 2PL
+  - COnservative 2PL
+  - Rigorous 2PL
+- TImestamps
+  - Basic time stamp
+  - WIth thomas write rule
+ 
+
+*** Locks
+Two types of locks. Shared and exclusive.
+How are these locks implemented? Probaly using semparhoes but they are not exatcly the same.
+
+Shared allows to only reading
+Exclusive allwos both reading and writing.
+
+If lock is denied a trasnaction will have to wait or get fucked.
+
+S can be granted even if S is granted to other trancation for same data item, not true for X lock (make the table)
+
+- Basic locking
+  DOesnt ensure seriablitbilty
+- 2PL
+
+  Two phases
+  One graowing or lock only acquring phase and ohter only lock realising or shring phase.
+  
+  2PL is 2 phase lock sysytem.
+  (NO upgrading or downgrading fewature from S to X here.) If a write has to be pefroemd after read, take X lock.
+  ALlows seriablity, not all serial schedule get executed.
+  If a scehudle is allwd to be xecuted using 2PL it must be CSS but consverse need not be.
+  Order of lock points matched order of equivalent CSS serail schdule.
+- 2PL with upgrading and downgrading
+  Upgraed: shared to exculuse, only in grwoing phase.
+  DOwnagrde: exculsive to shared, in shriking phase.
+  Can reduce delays and abortions.
+  Can run few more CSS schedules
+  But can never run non CSS schduels. thats for sure, upgradating ownaing dont me nothing . 
+  + In both 2pl cases
+
+    + IRRECOVERBILTY solved by strict 2pl
+
+    + DEADLOCK solved by conserative 2pl
+
+    + STARAVATION/dealy no soln 
+      ARE POSSIBLE.
+
+- Strict 2pl
+  Strict locking makes txns hold all exclusive locks until
+  they commit or abort.
+  • doing so prevents dirty reads, which means schedules
+  will be recoverable and cascadeless
+  (other can acces data only after I commit, fuck others).
+  Share locks can be unlocked in shriking phase before commit, they are not concerned here.
+  
+- Conseravative 2pl
+  Fights deadlock by dis satifying hold or wait condtion.
+  A trasnaction must either get all locks before strating or relase all and try again after soe time.
+  (here X lock can be realed before commit, hence irrecoveriblity, cascding rollbakc, lost update it can suffer from).
+
+- THere is also rigorus 2pl
+  All locks wehter S or X must be unlokced after commit. Ensure that a schedule gets executed in the order of its equivalent serial schduel.
+  LIke strict 2pl it is free from irrecoverilty, casfidng rollback and lost update prblems bt not free from deadlock or 
+
+*** Time stamp ordering protocol
+ Locking is pessimistic.
+• assumes serializability will be violated
+• prevents transactions from performing actions that might
+violate serializability
+• example:
+T1
+ T2
+xl(A); w(A)
+sl(B); r(B)
+ denied, because T1
+…
+ xl(B)
+ might read B again
+•There are other approaches that are optimistic.
+• assume serializability will be maintained
+• only interfere with a transaction if it actually does something
+that violates serializability
+Time stamp is assigned to each trasncation. THe early one gets smaller number. THe early one is older, btw :).
+
+Each data item can have two time stamps:
+RTS/write (A): the higheste timem stamp of the transaction that perforemd read/write succefully. (max timestamp)
+Intilazy they are 0.
+
+- Basic (btsop)
+  BTSOP iff CSS. And the equiv serial schduel will be consiste with the CSS and timestamp ordering.
+  The system ensures that all operations are consistent with
+a serial ordering based on the timestamps.
+• if TS(T1) < TS(T2), the DBMS only allows actions that
+are consistent with the serial schedule T1; T2
+  Executes only CSS schdules yo!
+  The CSS must have its conflict equiv serail schdule as the same given by the time stamp acseding order ordering yo1
+  
+- WIth thomas rule
+  Based on the fact that a write is useless if no one reads it before it is overwritten. If there are such writes then skip them.
+  With thomas rule some view serialziable schdules can be exectued.
+  It is more enral than the btsop.  
+** Recoveribilty
+
+explained above
+
+* Summary
+Basic one suffers from irrecoverivlity, deadlock, starvation, cascding rollback (if recoverable).
+
+STRICT 2PLand
+Rigorus 2PL suffers from deadlock and starvation,
+free from irrecoveribilty, cascding rollback, lost update.
+
+Rigourus is easy to implement that is its benefit as both lock have to be unlocked by commiting.
+
+Conservative 2pl suffer from irrecreovity and cascding rollback and lost update problem. But free from deadlock. Suffers from starvation.

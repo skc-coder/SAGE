@@ -1,0 +1,598 @@
+https://en.wikipedia.org/wiki/Logic
+
+Logic is study of argumentation. It studies informal/formal systems of argumenting.
+
+Formal logic consits of a formal langugage (alphabets, syntactic rules), axioms/premises and rules of inferences. Formal logic studies argumentation in general and dont deal with particular things.
+
+Mathematical logic is formal logic.
+
+There are many formal logic systmes based on the defining components.
+
+Aristitolgin logic is logic of syllogism. A syllogism is argumentation consisition of two presmisies and making a conclusion.
+The propositions consits of subject and copula and predicate. THere is restriction on what the copula and predicate can be.
+
+Zero order (propositional logic) consits of propisitons and their comboations via lgocial connectives.
+The propositions can be simple or compound (made from loggically connecting simples propositons). Here the simple propositons are the basic units and we don't deal with internals of a proposition. A simple proposition is tread as a whole and has a truthiy value of true or false.
+
+https://en.wikipedia.org/wiki/Atomic_sentence
+
+Example of atomic propsitons: I am a human. Not a atomic propositon: I like mars and you like earth.
+
+Some setnesces and propsotions are true because of their structure and not because of their composing units. These are called logical truths or tatuolgies.
+
+Propositional logic
+Main article: Propositional calculus
+Propositional logic comprises formal systems in which formulae are built from atomic propositions using logical connectives. For instance, propositional logic represents the conjunction of two atomic propositions 
+P
+ and 
+Q
+ as the complex formula 
+P
+∧
+Q
+. Unlike predicate logic where terms and predicates are the smallest units, propositional logic takes full propositions with truth values as its most basic component.[121] Thus, propositional logics can only represent logical relationships that arise from the way complex propositions are built from simpler ones. But it cannot represent inferences that result from the inner structure of a proposition.[122]
+
+First-order logic
+Symbol introduced by Gottlob Frege for the universal quantifier
+Gottlob Frege's Begriffsschrift introduced the notion of quantifier in a graphical notation, which here represents the judgment that 
+∀
+x
+.
+F
+(
+x
+)
+ is true.
+Main article: First-order logic
+First-order logic includes the same propositional connectives as propositional logic but differs from it because it articulates the internal structure of propositions. This happens through devices such as singular terms, which refer to particular objects, predicates, which refer to properties and relations, and quantifiers, which treat notions like "some" and "all".[123] For example, to express the proposition "this raven is black", one may use the predicate 
+B
+ for the property "black" and the singular term 
+r
+ referring to the raven to form the expression 
+B
+(
+r
+)
+. To express that some objects are black, the existential quantifier 
+∃
+ is combined with the variable 
+x
+ to form the proposition 
+∃
+x
+B
+(
+x
+)
+. First-order logic contains various rules of inference that determine how expressions articulated this way can form valid arguments, for example, that one may infer 
+∃
+x
+B
+(
+x
+)
+ from 
+B
+(
+r
+)
+.[124]
+
+----
+Propositonal logic:
+Truth table, say for p->q tell us the truthness of the p->q for different possiblites of truthness of its components.
+---
+Biconditonal, iff or material equivalcne.
+When two statments have same truth value. Eg. All spiders are posinus, and no spider is poisinus are materially equvialent (both are false).
+
+p if and only if = p <-> q
+means two things =
+p if q and p only if q.
+p if q = q -> p
+and
+p only if q = p -> q
+
+there is also logical equivlance. https://en.wikipedia.org/wiki/Logical_equivalence
+Logical equivalence is different from material equivalence. Formulas 
+p
+ and 
+q
+ are logically equivalent if and only if the statement of their material equivalence (
+p
+↔
+q
+) is a tautology.
+The material equivalence of 
+p
+ and 
+q
+ (often written as 
+p
+↔
+q
+) is itself another statement in the same object language as 
+p
+ and 
+q
+. This statement expresses the idea "'
+p
+ if and only if 
+q
+'". In particular, the truth value of 
+p
+↔
+q
+ can change from one model to another.
+
+On the other hand, the claim that two formulas are logically equivalent is a statement in metalanguage, which expresses a relationship between two statements 
+p
+ and 
+q
+. The statements are logically equivalent if, in every model, they have the same truth value.
+
+Logical implication means replacble or saying the same thing.
+Suerly "Dogs are mamamls" and "Whales are mamals" are not saying the same thing, in different way. They cant be reaplced with each other.
+
+Logical implication is tigheter than material implication in that it is true in all circutstaces, ie the two statmnets have same truth value in all cases (See copi).
+
+p <-> q is false when p is true and q is false. But in p = q, if p is true then q must be true.
+
+Relation between logical and material equiacne
+
+p = q iff (p <-> q is a tautology) iff (p->q and q->p are tautoglogies).
+
+-----
+
+ 
+Implication:
+p -> q = ~p v q
+p -> = ~q -> ~p
+ in parituclar ~p->q = ~q->p.
+contrapositve, converse, ineerse.
+
+Various ways of writing implication.
+- P only if Q.
+It means P only if (necessary) when Q and but Q doenst necersarily imply P.
+So that succicently means when not Q then not P.
+So P only if Q = ~Q -> ~P which we know is = P -> Q.
+
+- P is suffciecnt condition for Q
+  P -> q
+
+- Q is neccasry condtion for P
+  p -> q
+
+- P unless Q
+  it means that when ~Q then P.
+  ~q -> p = ~p -> q.
+
+
+General logical equivalences
+Equivalence	Name
+p
+∧
+⊤
+≡
+p
+
+p
+∨
+⊥
+≡
+p
+Identity laws
+p
+∨
+⊤
+≡
+⊤
+
+p
+∧
+⊥
+≡
+⊥
+Domination laws
+p
+∨
+p
+≡
+p
+
+p
+∧
+p
+≡
+p
+Idempotent or tautology laws
+¬
+(
+¬
+p
+)
+≡
+p
+Double negation law
+p
+∨
+q
+≡
+q
+∨
+p
+
+p
+∧
+q
+≡
+q
+∧
+p
+Commutative laws
+(
+p
+∨
+q
+)
+∨
+r
+≡
+p
+∨
+(
+q
+∨
+r
+)
+
+(
+p
+∧
+q
+)
+∧
+r
+≡
+p
+∧
+(
+q
+∧
+r
+)
+Associative laws
+p
+∨
+(
+q
+∧
+r
+)
+≡
+(
+p
+∨
+q
+)
+∧
+(
+p
+∨
+r
+)
+
+p
+∧
+(
+q
+∨
+r
+)
+≡
+(
+p
+∧
+q
+)
+∨
+(
+p
+∧
+r
+)
+Distributive laws
+¬
+(
+p
+∧
+q
+)
+≡
+¬
+p
+∨
+¬
+q
+
+¬
+(
+p
+∨
+q
+)
+≡
+¬
+p
+∧
+¬
+q
+De Morgan's laws
+p
+∨
+(
+p
+∧
+q
+)
+≡
+p
+
+p
+∧
+(
+p
+∨
+q
+)
+≡
+p
+Absorption laws
+p
+∨
+¬
+p
+≡
+⊤
+
+p
+∧
+¬
+p
+≡
+⊥
+Negation laws
+Logical equivalences involving conditional statements
+p
+→
+q
+≡
+¬
+p
+∨
+q
+p
+→
+q
+≡
+¬
+q
+→
+¬
+p
+p
+∨
+q
+≡
+¬
+p
+→
+q
+p
+∧
+q
+≡
+¬
+(
+p
+→
+¬
+q
+)
+¬
+(
+p
+→
+q
+)
+≡
+p
+∧
+¬
+q
+(
+p
+→
+q
+)
+∧
+(
+p
+→
+r
+)
+≡
+p
+→
+(
+q
+∧
+r
+)
+(
+p
+→
+q
+)
+∨
+(
+p
+→
+r
+)
+≡
+p
+→
+(
+q
+∨
+r
+)
+(
+p
+→
+r
+)
+∧
+(
+q
+→
+r
+)
+≡
+(
+p
+∨
+q
+)
+→
+r
+(
+p
+→
+r
+)
+∨
+(
+q
+→
+r
+)
+≡
+(
+p
+∧
+q
+)
+→
+r
+Logical equivalences involving biconditionals
+p
+↔
+q
+≡
+(
+p
+→
+q
+)
+∧
+(
+q
+→
+p
+)
+p
+↔
+q
+≡
+¬
+p
+↔
+¬
+q
+p
+↔
+q
+≡
+(
+p
+∧
+q
+)
+∨
+(
+¬
+p
+∧
+¬
+q
+)
+¬
+(
+p
+↔
+q
+)
+≡
+¬
+p
+↔
+q
+¬
+(
+p
+↔
+q
+)
+≡
+p
+↔
+¬
+q
+¬
+(
+p
+↔
+q
+)
+≡
+p
+⊕
+q
+Where 
+⊕
+ represents XOR.
+
+
+
+Tautology: A statement that's always true regardless of the truth values of its components (e.g., "P OR NOT P"). It's valid and satisfiable.
+
+Contradiction: A statement that's always false regardless of the truth values (e.g., "P AND NOT P"). It's invalid and not satisfiable.
+
+Contingency: A statement that can be either true or false depending on the truth values of its components (e.g., "P AND Q"). It's invalid but satisfiable.
+
+The key insight: validity requires being always true (only tautologies), while satisfiability just requires being true in at least one case (tautologies and contingencies both qualify).
+
+Satisfiblae is that which is not contraditory and hence = contignecy + tagutoly.
+Note that contignecy doesnt inclue tatuology.
+
+IMportatn equivalcnes:
+
+Commutative, assosiative, distributive, demorgas, absortipon laws. COmmon shit.
+
+
+--
+Argiemnt and infrence
+
+Rules of inference are ways of deriving conclusions from premises. They are integral parts of formal logic, serving as norms of the logical structure of valid arguments.
+https://en.wikipedia.org/wiki/Rule_of_inference
+Rules of inference only ensure that the conclusion is true if the premises are true. An argument with false premises can still be valid, but its conclusion could be false. For example, the argument "If pigs can fly, then the sky is purple. Pigs can fly. Therefore, the sky is purple." is valid because it follows modus ponens, even though it contains false premises. A valid argument is called a sound argument if all of its premises are true.[34]
+
+An inference is deductively correct or valid if it follows a valid rule of inference. Whether this is the case depends only on the form or syntactical structure of the premises and the conclusion, that is, the actual content or concrete meaning of the statements does not affect validity.  THis means that an arugment is considered on its own, and an arguments correct is judged based on the strcture of the argument and not the truthiness of its  premises/propsistions making it up. "If God exists then world is good. God exists hence world is good" is valid argument but wheater it is actually true in reality is not its concern.
+|- (turnstile, procued tee) MEANS yields and it is different concept from implies.
+https://math.stackexchange.com/questions/286077/implies-rightarrow-vs-entails-models-vs-provable-vdash
+
+|- is a shorthand for "yields", and it is part of meta language used to discuss a logical system. -> is whearass a logical connect and part of the formal system talked about.
+
+(What is the relation between meta langauge and object lanugage? How are =, and <-> related? How are |- and -> related?)
+q
