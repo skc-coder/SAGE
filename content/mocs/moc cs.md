@@ -2,7 +2,6 @@
 cssclasses:
   - dashboard
 title: Computer Science Master MOC Dashboard++
-banner: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
 ---
 
 <div class="title" style="color:#6366f1; font-family: 'JetBrains Mono', monospace;">GATE COMPUTER SCIENCE HUB</div>

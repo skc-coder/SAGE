@@ -2,7 +2,6 @@
 cssclasses:
   - dashboard
 title: "Algorithms & Complexity MOC Dashboard++"
-banner: "https://images.unsplash.com/photo-1516116211223-48a122638e59?q=80&w=1600&auto=format&fit=crop"
 ---
 
 [[gate-cs/math/time complexity]]

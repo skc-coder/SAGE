@@ -2,7 +2,6 @@
 cssclasses:
   - dashboard
 title: CDS Economics MOC Dashboard++
-banner: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1600&auto=format&fit=crop"
 tags:
   - cds
   - economy
