@@ -1,6 +1,5 @@
 /* 
-Last updated 2024-11-18
-This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
+Dashboard CSS Snippet
 */
 
 .dashboard {
@@ -8,35 +7,43 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
     padding-left: 25px !important;
     padding-right: 25px !important;
     padding-top: 20px !important;
+    position: relative !important;
 }
 
 .dashboard .markdown-preview-section {
     max-width: 100%;
 }
 
-/* Title at top of the document - relative positioning to prevent overlapping properties */
+/* Position banner background at top behind properties and title */
+.dashboard .obsidian-banner-wrapper,
+.dashboard .banner-container,
+.dashboard .obsidian-banner-image {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 180px !important;
+    z-index: 1 !important;
+    opacity: 0.35 !important;
+    object-fit: cover !important;
+    pointer-events: none !important;
+}
+
+/* Ensure metadata properties and title render cleanly on top of banner background */
+.dashboard .metadata-container,
+.dashboard .metadata-properties,
+.dashboard .inline-title,
 .dashboard .title {
     position: relative !important;
-    top: 0px !important;
-    margin-top: 15px !important;
-    margin-bottom: 20px !important;
+    z-index: 5 !important;
+}
+
+.dashboard .title {
     font-size: 26pt !important;
     font-weight: bolder;
     letter-spacing: 4px;
-}
-
-/* Banner positioning fix for Obsidian Banners plugin / properties overlap */
-.dashboard .obsidian-banner-wrapper,
-.dashboard .banner-container {
-    position: relative !important;
-    margin-bottom: 20px !important;
-}
-
-.dashboard .metadata-container,
-.dashboard .metadata-properties {
-    position: relative !important;
-    z-index: 10 !important;
     margin-top: 10px !important;
+    margin-bottom: 20px !important;
 }
 
 .dashboard h1 {
