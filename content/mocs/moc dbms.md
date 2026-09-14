@@ -4,7 +4,9 @@ cssclasses:
 title: "Database Management Systems MOC Dashboard++"
 ---
 
-![banner](https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1600&auto=format&fit=crop)
+![[attachments/banners/dbms.webp|banner]]
+
+
 
 
 
