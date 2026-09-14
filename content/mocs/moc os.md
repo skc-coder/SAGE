@@ -4,7 +4,6 @@ cssclasses:
 title: Operating Systems
 subject: GATE CSE
 tags: [GATE, OS]
-banner_y: 0.528
 ---
 
 

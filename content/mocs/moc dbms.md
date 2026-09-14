@@ -2,7 +2,6 @@
 cssclasses:
   - dashboard
 title: "Database Management Systems MOC Dashboard++"
-banner_y: 0.5
 ---
 
 

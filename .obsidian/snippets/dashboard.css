@@ -1,5 +1,6 @@
 /* 
-banner using css only -- https://forum.obsidian.md/t/css-how-to-style-the-first-image-in-a-note/52839/
+CSS-Only Banner snippet (Forum post by efemkay & Bluemoondragon07)
+Targets any image with |banner alt tag embedded in note body
 */
 
 /* LP / Reading view image selectors for banner targeting */
@@ -8,13 +9,12 @@ banner using css only -- https://forum.obsidian.md/t/css-how-to-style-the-first-
     display: contents !important; 
 }
 
-img[alt*="banner"],
 .markdown-rendered img[alt*="banner"],
 .cm-embed-block img[alt*="banner"] {
     position: absolute !important;
     top: 0 !important;
     left: 0 !important;
-    height: 220px !important;
+    height: 250px !important;
     width: 100% !important;
     margin-right: auto !important;
     margin-left: auto !important;
@@ -23,18 +23,22 @@ img[alt*="banner"],
     overflow: hidden !important;
     user-select: none !important;
     z-index: 0 !important;
-    -webkit-mask-image: linear-gradient(to bottom, black 0%, black 50%, transparent 100%) !important;
-    mask-image: linear-gradient(to bottom, black 0%, black 50%, transparent 100%) !important;
+    -webkit-mask-image: linear-gradient(to bottom, black 0%, black 60%, transparent 100%) !important;
+    mask-image: linear-gradient(to bottom, black 0%, black 60%, transparent 100%) !important;
 }
 
-img[alt*="banner"][alt*="lower"] { object-position: 50% 30% !important; }
-img[alt*="banner"][alt*="higher"] { object-position: 50% 70% !important; }
+.markdown-rendered img[alt*="banner"][alt*="lower"],
+.cm-embed-block img[alt*="banner"][alt*="lower"] { object-position: 50% 30% !important; }
 
-/* Push inline-title & content down when a banner is present */
+.markdown-rendered img[alt*="banner"][alt*="higher"],
+.cm-embed-block img[alt*="banner"][alt*="higher"] { object-position: 50% 70% !important; }
+
+/* Push note title and body content cleanly below the banner height */
 .inline-title,
 .metadata-container {
     position: relative !important;
     z-index: 2 !important;
+    margin-top: 140px !important;
 }
 
 /* Dashboard CSS Snippet (TfT Hacker) */
