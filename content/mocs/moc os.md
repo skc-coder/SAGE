@@ -1,8 +1,4 @@
 ---
-aliases:
-  - moc-os
-  - mocs/moc-os
-  - content/mocs/moc-os
 cssclasses:
   - dashboard
 title: Operating Systems

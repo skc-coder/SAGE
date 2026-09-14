@@ -1,8 +1,4 @@
 ---
-aliases:
-  - moc-dl
-  - mocs/moc-dl
-  - content/mocs/moc-dl
 cssclasses:
   - dashboard
 Folders:

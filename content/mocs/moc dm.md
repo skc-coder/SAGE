@@ -1,8 +1,4 @@
 ---
-aliases:
-  - moc-dm
-  - mocs/moc-dm
-  - content/mocs/moc-dm
 cssclasses:
   - dashboard
 title: Discrete Mathematics

@@ -1,8 +1,4 @@
 ---
-aliases:
-  - moc-probablity
-  - mocs/moc-probablity
-  - content/mocs/moc-probablity
 cssclasses:
   - dashboard
 ---
