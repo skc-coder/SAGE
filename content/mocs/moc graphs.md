@@ -9,6 +9,9 @@ tags:
   - moc
 ---
 
+![banner](https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop)
+
+
 
 
 <div class="title" style="color:#10b981; font-family: 'JetBrains Mono', monospace;">GRAPH THEORY MODULE</div>
