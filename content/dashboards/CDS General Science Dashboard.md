@@ -10,14 +10,14 @@ banner: "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=160
 # 🔬 General Science & Physics Index
 
 - 🧲 Physics Core
-  - [[content/cds/general-science/CDS_Physics_Master_Book.pdf|CDS Physics Master Book (PDF)]]
-  - [[content/cds/general-science/Magnetism|Magnetism]]
-  - [[content/cds/general-science/light|Light & Optics]]
-  - [[content/cds/general-science/eyes|Human Eye & Vision]]
-  - [[content/cds/general-science/Units|Units & Dimensions]]
-  - [[content/cds/general-science/weigtlessness question|Weightlessness]]
+  - [[CDS_Physics_Master_Book.pdf|CDS Physics Master Book (PDF)]]
+  - [[Magnetism|Magnetism]]
+  - [[light|Light & Optics]]
+  - [[eyes|Human Eye & Vision]]
+  - [[Units|Units & Dimensions]]
+  - [[weigtlessness question|Weightlessness]]
 
 - 📐 Practice & Ratio Problems
-  - [[content/cds/general-science/CDS ratio|CDS Ratio]]
-  - [[content/cds/general-science/Problem ratio|Problem Ratio]]
-  - [[content/cds/general-science/materail for traignles propertiese|Properties of Triangles]]
+  - [[CDS ratio|CDS Ratio]]
+  - [[Problem ratio|Problem Ratio]]
+  - [[materail for traignles propertiese|Properties of Triangles]]

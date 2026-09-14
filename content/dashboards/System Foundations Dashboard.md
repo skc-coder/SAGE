@@ -10,6 +10,6 @@ banner: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=160
 # 🌐 General & System Index
 
 - 💻 Technical & Engineering
-  - [[content/general/jee|JEE Notes]]
-  - [[content/general/kubernetes|Kubernetes]]
-  - [[content/exams_config|System Exam Config]]
+  - [[jee|JEE Notes]]
+  - [[kubernetes|Kubernetes]]
+  - [[exams_config|System Exam Config]]

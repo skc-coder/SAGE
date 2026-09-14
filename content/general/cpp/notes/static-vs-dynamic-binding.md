@@ -34,13 +34,13 @@ Animal* ptr = &myDog;
 
 ## 2. Compile-Time Static Binding vs. Run-Time Dynamic Binding
 
-| Feature | Static Binding (Early Binding) | Dynamic Binding (Late Binding) |
-| :--- | :--- | :--- |
-| **Decision Time** | Resolved at **Compile-Time** by the compiler. | Resolved at **Run-Time** using lookup tables. |
-| **Determining Factor** | Bound strictly to the **Static Type** of the pointer/reference. | Bound to the **Dynamic Type** of the actual object in memory. |
-| **Mechanisms** | Normal member functions, overloaded functions, overloaded operators. | `virtual` member functions invoked through pointers/references. |
-| **Execution Performance** | Faster execution (direct `call` instruction in assembly, inlining candidate). | Subtle overhead (indirect pointer dereference via VTable). |
-| **Flexibility** | Rigid, determined prior to program launch. | Highly flexible, runtime extensible (Polymorphism). |
+| Feature                   | Static Binding (Early Binding)                                                | Dynamic Binding (Late Binding)                                  |
+| :------------------------ | :---------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **Decision Time**         | Resolved at **Compile-Time** by the compiler.                                 | Resolved at **Run-Time** using lookup tables.                   |
+| **Determining Factor**    | Bound strictly to the **Static Type** of the pointer/reference.               | Bound to the **Dynamic Type** of the actual object in memory.   |
+| **Mechanisms**            | Normal member functions, overloaded functions, overloaded operators.          | `virtual` member functions invoked through pointers/references. |
+| **Execution Performance** | Faster execution (direct `call` instruction in assembly, inlining candidate). | Subtle overhead (indirect pointer dereference via VTable).      |
+| **Flexibility**           | Rigid, determined prior to program launch.                                    | Highly flexible, runtime extensible (Polymorphism).             |
 
 ---
 
