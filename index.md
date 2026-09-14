@@ -1,72 +1,75 @@
 ---
-title: SAGE — Master Dashboard & Knowledge Hub
+title: SAGE — Master Knowledge Index
 aliases: [Home, Dashboard, Index]
 ---
 
-# 🚀 SAGE Knowledge Hub & Master Dashboard
+# 🚀 SAGE Knowledge Hub & Master Index
 
-Welcome to your central navigation dashboard. This vault combines rigorous exam preparation notes (**CDS**, **GATE CS**) with intuitive concept Maps of Content (MOCs).
-
----
-
-## 🧭 High-Level Category Map
-
-```
-SAGE Vault Root
-├── 📄 index.md        --> Master Dashboard
-├── 📁 content/        --> Active Published Notes & MOCs
-├── 📁 attachments/    --> Media Assets & Screenshots
-└── 📁 00_meta/        --> Templates, Meta, Raw Inputs & Archives
-```
+Welcome to your structured knowledge portal. Every single note in the vault is categorized below by subject domain with direct internal wikilinks (`[[Note Name]]`).
 
 ---
 
-## 🎯 Exam Portals & Subject MOCs
+## 💻 1. GATE Computer Science (`content/gate-cs/`)
 
-| Portal / Exam | Focus Area | Master MOC Link |
-| :--- | :--- | :--- |
-| **🛡️ CDS Portal** | Mathematics, Physics, Chemistry, Biology, Geography, GK | [[content/index\|CDS Master Dashboard]] |
-| **💻 GATE CS Portal** | Operating Systems, Discrete Math, Probability & Data Structures | [[content/Discrete Math MOC\|GATE CS Master Dashboard]] |
-| **📈 Economy & Polity** | Banking, Micro/Macroeconomics, Indian Constitution | [[content/Economy MOC\|Economy MOC]] |
+### ⚙️ Operating Systems (`gate-cs/os/`)
+- [[Critical Section Synchronization Criteria]]
+- [[Critical Section Requirements]]
+- [[Critical Section Practice Variations]]
+- [[Peterson's Algorithm & Order Invariant]]
+- [[Software Synchronization Primitives & Attempts]]
+- [[Shared Counter & Race Condition Mechanics]]
+- [[Semaphores & Synchronization]]
+- [[Semaphores]]
+- [[Invariant Verification Framework]]
+- [[Registers]]
 
----
-
-## ⚡ Quick Note Access Index
-
-### 💻 Operating Systems & Computer Science (GATE)
-- [[content/Critical Section Synchronization Criteria|Critical Section Synchronization Criteria]]
-- [[content/Critical Section Requirements|Critical Section Requirements]]
-- [[content/Critical Section Practice Variations|Critical Section Practice Variations]]
-- [[content/Peterson's Algorithm & Order Invariant|Peterson's Algorithm & Order Invariant]]
-- [[content/Software Synchronization Primitives & Attempts|Software Synchronization Primitives & Attempts]]
-- [[content/Shared Counter & Race Condition Mechanics|Shared Counter & Race Condition Mechanics]]
-- [[content/Semaphores & Synchronization|Semaphores & Synchronization]]
-- [[content/Invariant Verification Framework|Invariant Verification Framework]]
-- [[content/Heap and Heap Sort|Heap & Heap Sort Algorithms]]
-
-### 🎲 Discrete Math & Probability
-- [[content/Probability foundations|Probability Foundations]]
-- [[content/Conditional Probability|Conditional Probability]]
-- [[content/Conditional Independence|Conditional Independence]]
-- [[content/Independent Events|Independent Events]]
-- [[content/Total Probability Bayes' Theorem|Total Probability & Bayes' Theorem]]
-- [[content/GATE PYQs — Conditional Probability & Bayes' Theorem|GATE PYQs — Bayes' Theorem]]
-- [[content/Mathematical Logic - Propositional Logic Intro|Propositional Logic]]
-- [[content/Logical Equivalences and Laws|Logical Equivalences & Laws]]
-- [[content/Tree diagrams|Tree Diagrams in Probability]]
-
-### 🛡️ CDS & General STEM Foundations
-- [[content/Banking — History, Structure & Regulation|Banking History, Structure & Regulation]]
-- [[content/banking|Banking Core Notes]]
-- [[content/Magnetism|Magnetism]]
-- [[content/light|Light & Optics]]
-- [[content/eyes|Human Eye & Vision Mechanics]]
-- [[content/Units|Units & Dimensions]]
-- [[content/money|Monetary System]]
+### 🧮 Discrete Math, Logic & Probability (`gate-cs/math/`)
+- [[Discrete Math MOC]]
+- [[Probability foundations]]
+- [[Conditional Probability]]
+- [[Conditional Independence]]
+- [[Independent Events]]
+- [[Total Probability Bayes' Theorem]]
+- [[Expectation]]
+- [[Tree diagrams]]
+- [[Problems - Probability]]
+- [[GATE PYQs — Conditional Probability & Bayes' Theorem]]
+- [[GATE PYQs — Recurrence Relations]]
+- [[Mathematical Logic - Propositional Logic Intro]]
+- [[Logical Equivalences and Laws]]
+- [[ai logic notes]]
+- [[Heap and Heap Sort]]
+- [[prims]]
 
 ---
 
-## 🛠️ System Workflow Shortcuts
+## 🛡️ 2. Combined Defence Services (`content/cds/`)
+
+### 🔬 General Science & Physics (`cds/general-science/`)
+- [[CDS_Physics_Master_Book.pdf|CDS Physics Master Book (PDF)]]
+- [[CDS ratio]]
+- [[Problem ratio]]
+- [[Magnetism]]
+- [[light]]
+- [[eyes]]
+- [[Units]]
+- [[weigtlessness question]]
+- [[materail for traignles propertiese]]
+
+### 🏛️ Humanities & Economy (`cds/humanities/`)
+- [[Economy MOC]]
+- [[Banking — History, Structure & Regulation]]
+- [[banking]]
+- [[money]]
+
+---
+
+## 🌐 3. General & Foundations (`content/general/`)
+- [[jee]]
+- [[kubernetes]]
+
+---
+
+## ⚙️ Meta & System Shortcuts
+- **System Config**: [[exams_config]]
 - **Quartz Web Server**: `npx quartz build --serve`
-- **Process PDF Pipeline**: `/process-pdf <pdf_path>`
-- **Anki Card Exporter**: `/create-anki-deck`
