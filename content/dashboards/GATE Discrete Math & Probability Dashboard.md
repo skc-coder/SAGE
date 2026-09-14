@@ -3,6 +3,7 @@ cssclasses:
   - dashboard
 title: GATE Discrete Math & Probability Dashboard++
 banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
+banner_y: 0.5
 ---
 
 <div class="title" style="color:#a855f7; font-family: 'JetBrains Mono', monospace;">GATE MATH MODULE</div>

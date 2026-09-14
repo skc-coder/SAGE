@@ -7,32 +7,25 @@ banner: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=160
 
 <div class="title" style="color:#e2e8f0; font-family: 'JetBrains Mono', monospace;">SAGE KNOWLEDGE HUB</div>
 
-# 🛡️ Combined Defence Services (CDS)
+# 🛡️ Combined Defence Services (CDS) MOCs
 
-- 🔬 [[dashboards/CDS General Science Dashboard|General Science & Physics Dashboard]]
-  - [[cds/general-science/light|Light & Optics]]
-  - [[cds/general-science/eyes|Human Eye & Vision]]
-- 🏛️ [[dashboards/CDS Humanities Dashboard|Humanities & Economy Dashboard]]
-  - [[cds/humanities/banking|Banking Structure & Regulation]]
-  - [[cds/humanities/money|Monetary System]]
-- 📐 [[mocs/moc aptitude|Aptitude & Quantitative MOC]]
-  - [[cds/math/notes/trigonometry|Trigonometry]]
+- 🔬 [[mocs/moc-science|General Science & Physics MOC]]
+- 🏛️ [[mocs/moc-economy|Humanities & Economics MOC]]
+- 📐 [[mocs/moc aptitude|General Aptitude & Quantitative MOC]]
 
 # 💻 GATE Computer Science MOC Hub
 
-- 🌐 [[mocs/moc cs|Computer Science Master MOC (CS)]]
-- ⚙️ [[mocs/moc os|Operating Systems (OS)]] & [[dashboards/GATE Operating Systems Dashboard|GATE OS Dashboard]]
-- 🧮 [[mocs/moc dm|Discrete Math (DM)]] & [[mocs/moc probablity|Probability MOC]]
-  - [[dashboards/GATE Discrete Math & Probability Dashboard|GATE Discrete Math & Probability Dashboard]]
-  - [[mocs/moc graphs|Graphs MOC]]
+- 🌐 [[mocs/moc cs|Computer Science Master MOC]]
+- ⚙️ [[mocs/moc os|Operating Systems MOC]]
+- 🧮 [[mocs/moc dm|Discrete Mathematics MOC]]
+  - [[mocs/moc probablity|Probability & Random Variables MOC]]
+  - [[mocs/moc graphs|Graph Theory MOC]]
   - [[mocs/moc la|Linear Algebra MOC]]
-- 🏗️ [[mocs/moc dsa|Data Structures (DSA)]] & [[mocs/moc algo|Algorithms (ALGO)]]
-  - [[mocs/moc cn|Computer Networks MOC]]
-  - [[mocs/moc coa|COA MOC]]
-  - [[mocs/moc dbms|DBMS MOC]]
-  - [[mocs/moc dl|Digital Logic MOC]]
-  - [[mocs/cpp-moc|C++ Polymorphism MOC]]
-
-# 🌐 System & General Foundations
-
-- 🚀 [[dashboards/System Foundations Dashboard|General & System Dashboard]]
+  - [[mocs/moc maths|Engineering Mathematics MOC]]
+- 🏗️ [[mocs/moc dsa|Data Structures MOC]]
+- ⚡ [[mocs/moc algo|Algorithms MOC]]
+- 📡 [[mocs/moc cn|Computer Networks MOC]]
+- 🏗️ [[mocs/moc coa|Computer Organization & Architecture MOC]]
+- 🗄️ [[mocs/moc dbms|DBMS MOC]]
+- 🔌 [[mocs/moc dl|Digital Logic MOC]]
+- 💻 [[mocs/cpp-moc|C++ Polymorphism MOC]]
