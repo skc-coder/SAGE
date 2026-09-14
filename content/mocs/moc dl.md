@@ -6,7 +6,6 @@ tags:
   - digital-logic
   - gate
   - moc
-banner: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
 ---
 
 

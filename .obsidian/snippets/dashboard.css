@@ -1,7 +1,13 @@
 /* 
-Last updated 2024-11-18
-This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
+author: Melvin
+source: https://discord.com/channels/686053708261228577/702656734631821413/1000912780611829870
 */
+
+.workspace-leaf-content[data-type=markdown] .view-content {
+  background-image: repeating-linear-gradient(to right, var(--background-secondary), var(--background-secondary) 1px, transparent 1px, transparent 20px), repeating-linear-gradient(to top, var(--background-secondary), var(--background-secondary) 1px, transparent 1px, transparent 20px);
+}
+
+/* Dashboard CSS Snippet (TfT Hacker) */
 
 .dashboard {
     font-family: inherit;
@@ -12,30 +18,6 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
 
 .dashboard .markdown-preview-section {
     max-width: 100%;
-}
-
-/* Fix for obsidian-banner / properties overlap in Obsidian */
-.obsidian-banner { 
-    position: unset !important; 
-}
-
-.obsidian-banner-wrapper { 
-    margin-top: 0 !important;
-    position: relative !important;
-    z-index: 1 !important;
-}
-
-.obsidian-banner-spacer {
-    z-index: 99999 !important;
-    margin-bottom: 0 !important;
-}
-
-/* Ensure metadata container and properties stack cleanly below banner */
-.metadata-container,
-.metadata-properties {
-    position: relative !important;
-    z-index: 10 !important;
-    margin-top: 10px !important;
 }
 
 .dashboard h1 {

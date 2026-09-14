@@ -5,7 +5,6 @@ title: General Aptitude & Quantitative MOC Dashboard++
 tags:
   - aptitude
   - syllabus
-banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
 ---
 
 

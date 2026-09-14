@@ -2,7 +2,6 @@
 cssclasses:
   - dashboard
 title: "Computer Networks MOC Dashboard++"
-banner: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1600&auto=format&fit=crop"
 ---
 
 
