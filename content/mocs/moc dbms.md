@@ -1,9 +1,9 @@
 ---
-banner: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1600&auto=format&fit=crop"
 cssclasses:
   - dashboard
 title: "Database Management Systems MOC Dashboard++"
 banner_y: 0.5
+banner: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1600&auto=format&fit=crop"
 ---
 
 

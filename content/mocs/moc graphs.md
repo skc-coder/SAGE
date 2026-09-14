@@ -1,5 +1,4 @@
 ---
-banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
 cssclasses:
   - dashboard
 title: Graph Theory MOC Dashboard++
@@ -8,6 +7,7 @@ tags:
   - maths
   - graph-theory
   - moc
+banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
 ---
 
 
