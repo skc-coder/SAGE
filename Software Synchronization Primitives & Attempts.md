@@ -5,7 +5,18 @@ tags:
   - synchronization
   - gate-cs
 ---
-# Software Synchronization Attempts
+# Software Synchronization Primitives & Attempts
+
+Software and hardware solutions utilize three core coordination abstractions:
+
+| Primitive | Metaphor & Role | Write Authority | Entry Protocol | Operational Failure / Vulnerability |
+| :--- | :--- | :--- | :--- | :--- |
+| **Attempt 1: Lock** (`interested`) | Deadbolt / Shared lock flag ($0=\text{free}, 1=\text{held}$) | Atomic/Unsynchronized caller | `while(interested); interested=1;` | **ME Violated ($\boldsymbol{\times}$)**: Non-atomic check-then-set race condition |
+| **Attempt 2: Turn** (`turn`) | Shared baton / token scalar | Shared ($P_i$ passes to $P_j$) | `while(turn != i);` | **Progress Violated ($\boldsymbol{\times}$)**: Strict alternation; idle peer blocks CS |
+| **Attempt 3: Flag** (`want[i]`) | Sticky note on door (Local process intent) | Local process ($P_i$ writes `want[i]`) | `want[i]=1; while(want[j]);` | **Progress Violated ($\boldsymbol{\times}$)**: Deadlock under simultaneous intent writes |
+| **Hardware Lock** (`lock`) | Atomic CPU Read-Modify-Write (`TestAndSet`) | Hardware bus atomic caller | `while(TestAndSet(&lock));` | Spinlock CPU consumption; starvation without order |
+
+---
 
 ## 1. Attempt 1: Single Shared Lock Variable
 
@@ -69,9 +80,18 @@ want[0] = 0;                      want[1] = 0;
 
 ---
 
-## 4. Summary Matrix
+## 4. Hardware Lock (`TestAndSet`)
 
-| Attempt | Mutual Exclusion | Progress | Bounded Waiting | Root Mechanism Failure |
+- **Semantic Role:** Shared binary state ($0 = \text{free}, 1 = \text{held}$) manipulated via atomic Read-Modify-Write CPU instructions (`TestAndSet`, `Swap`, `XCHG`).
+- **Entry Protocol:** `while (TestAndSet(&lock));`
+- **Exit Protocol:** `lock = 0;`
+- **Operational Failure:** Eliminates race conditions during entry checks via hardware bus locking, but burns CPU cycles spinning and lacks inherent ordering, causing potential starvation without auxiliary queueing.
+
+---
+
+## 5. Comparative Evaluation Summary
+
+| Attempt | Mutual Exclusion | Progress | Bounded Waiting | Root Cause of Failure |
 | :--- | :---: | :---: | :---: | :--- |
 | **Attempt 1 (Lock)** | $\boldsymbol{\times}$ | $\boldsymbol{\checkmark}$ | $\boldsymbol{\times}$ | Non-atomic check and set instructions |
 | **Attempt 2 (Turn)** | $\boldsymbol{\checkmark}$ | $\boldsymbol{\times}$ | $\boldsymbol{\checkmark}$ | Rigid alternation; inactive peer blocks entry |

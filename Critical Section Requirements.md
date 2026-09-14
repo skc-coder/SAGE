@@ -11,8 +11,7 @@ tags:
 
 - [[Shared Counter & Race Condition Mechanics]] — Assembly level execution (`LOAD`, `INCR`, `STORE`) and calculation of bounds ($2$ to $2N$).
 - [[Critical Section Synchronization Criteria]] — Primary (Mutual Exclusion, Progress) and Secondary (Bounded Waiting, Architectural Neutrality) rules.
-- [[Synchronization Primitives & Metaphors]] — Intent flags (`flag[i]`), turn-taking (`turn`), and hardware locks (`lock`).
-- [[Software Synchronization Attempts]] — Detailed analysis of Attempt 1 (Lock), Attempt 2 (Turn), and Attempt 3 (Flags).
+- [[Software Synchronization Primitives & Attempts]] — Primitives (`flag[i]`, `turn`, `lock`), code attempts (Attempts 1, 2, 3), hardware TestAndSet, and comparative matrix.
 - [[Peterson's Algorithm & Order Invariant]] — Algorithm mechanics, mathematical correctness, and the critical write-order invariant.
 - [[Invariant Verification Framework]] — Formal contradiction proofs for Mutual Exclusion, 2-condition Progress proofs, and Re-entry Bounded Waiting tests.
 - [[Critical Section Practice Variations]] — Practice questions and step-by-step invariant deductions for classic protocol variations (Swapped Peterson, Pure Turn-Taking, Two-Flag Polite).

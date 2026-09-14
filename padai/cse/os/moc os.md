@@ -54,12 +54,11 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
 - **[[Critical Section Requirements]]**
   - 📄 [[Shared Counter & Race Condition Mechanics]]
   - 📄 [[Critical Section Synchronization Criteria]]
-  - 📄 [[Synchronization Primitives & Metaphors]]
-  - 📄 [[Software Synchronization Attempts]]
+  - 📄 [[Software Synchronization Primitives & Attempts]]
   - 📄 [[Peterson's Algorithm & Order Invariant]]
   - 📄 [[Invariant Verification Framework]]
-
   - 📄 [[Critical Section Practice Variations]]
+  - 
 - **Lecture 18** – Peterson's Solution | Hardware Solutions (LIVE)
   - 📄 [Lecture 18 Notes](#) (43 pages)
 - **Lecture 19** – Atomic Instructions | Semaphores (LIVE)
