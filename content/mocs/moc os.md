@@ -6,13 +6,6 @@ title: Operating Systems
 subject: GATE CSE
 tags: [GATE, OS]
 ---
-
-![[attachments/banners/os.webp|banner]]
-
-
-
-
-
 https://gateoverflow.in/401429/go-classes-iiith-pgee-2026-mock-test-2-question-85?show=401429#q401429
 https://gateoverflow.in/402158/go-classes-iiith-pgee-2026-mock-test-3-question-75?show=402158#q402158
 https://gateoverflow.in/402895/go-classes-iiith-pgee-2026-mock-test-4-question-67?show=402895#q402895
@@ -60,51 +53,34 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
 
 ## 🔒 Synchronization
 
-- **Lecture 14**, 15, 16, 17, 18
-	- **[[critical section problem]]**
-	  - 📄 [[Shared Counter & Race Condition Mechanics]]
-	  - 📄 [[Critical Section Synchronization Criteria]]
-	  - 📄 [[Software Synchronization Primitives & Attempts]]
-	  - 📄 [[gate-cs/os/Peterson's Algorithm & Order Invariant]]
-	  - 📄 [[gate-cs/os/Invariant Verification Framework]]
-	  - 📄 [[gate-cs/os/Critical Section Practice Variations]]
-
-- **Lecture 19** – [[hardware-supported-synchronization]]
-- **Lecture 20** – Semaphores PYQs (135:00)
-  - 📄 [Lecture 20 Notes](#) (79 pages)
-- **Lecture 21** – Classic Problems: Producer-Consumer, Reader-Writer (129:00)
-  - 📄 [Lecture 21 Notes](#) (91 pages)
-- **Lecture 22** – Classic Problems: Reader-Writer, Dining Philosophers (89:00)
-  - 📄 [Lecture 22 Notes](#) (59 pages)
-  - 📝 **A Journey of the Program**: Compiler, Linker, Assembler, Loader
+- **[[critical section problem]]** 14, 15, 16, 17, 18
+- [[hardware-supported-synchronization]] 19
+- **Semaphores**
+  1. [[introduction-to-semaphores]]
+  2. [[classification-of-semaphores]]
+  3. [[semaphore-implementation-paradigms]]
+  4. [[atomicity-of-semaphore-operations]]
+  5. [[semaphore-synchronization-patterns]]
+  6. [[semaphore-gate-corner-cases]]
+- [[Classic Problems]] 21, 22
+- 📝 **A Journey of the Program**: Compiler, Linker, Assembler, Loader
 
 ---
 
 ## 💾 Memory Management
 
 - **Lecture 23** – Memory Mgmt 1: Base/Bound, Segmentation (LIVE)
-  - 📄 [Lecture 23 Notes](#) (65 pages)
 - **Lecture 24** – [Optional] Base/Bound Questions (LIVE)
-  - 📄 [Lecture 24 Notes](#) (55 pages)
 - **Lecture 25** – Intro to [[gate-cs/os/Paging]] (LIVE)
-  - 📄 [Lecture 25 Notes](#) (100 pages)
 - **Lecture 26** – Single Level Paging Questions (LIVE)
-  - 📄 [Lecture 26 Notes](#) (94 pages)
 - **Lecture 27** – Multi-Level Paging (LIVE)
-  - 📄 [Lecture 27 Notes](#) (62 pages)
 - **Lecture 28** – Multi-Level Paging -2 (110:00)
-  - 📄 [Lecture 28 Notes](#) (64 pages)
 - **Lecture 29** – Multi-Level Paging -3 (Reducing Size) (156:00)
-  - 📄 [Lecture 29 Notes](#) (94 pages)
   - 📝 **Multilevel Paging One Shot**
 - **Lecture 30** – Memory Mgmt Summary | Hashed/Inverted Tables (LIVE)
-  - 📄 [Lecture 30 Notes](#) (130 pages)
 - **Lecture 31** – [[gate-cs/os/Segmentation]] with Paging (LIVE)
-  - 📄 [Lecture 31 Notes](#) (39 pages)
 - **Lecture 32** – [[gate-cs/os/Demand Paging]] | Page Replacement (LIVE)
-  - 📄 [Lecture 32 Notes](#) (125 pages)
 - **Lecture 33** – TLB | Dynamic Allocation (LIVE)
-  - 📄 [Lecture 33 Notes](#) (90 pages)
   - 📄 [GATE 2020 TLB Question](#) (6 pages)
   - 📺 GATE 2020 TLB Question Discussion (28:00)
 
