@@ -4,7 +4,7 @@ tags:
 source:
 ---
 
-📝 [[Problems - Alligation]]
+📝 [[cds/apti/notes/Problems - Alligation]]
 
 ---
 
@@ -193,4 +193,4 @@ $$x = 3$$
 
 ---
 
-📝 [[Problems - Alligation]]
+📝 [[cds/apti/notes/Problems - Alligation]]

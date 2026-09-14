@@ -1,6 +1,6 @@
 # Sample Space, Events, Axioms and theorems of Probability
 
-Topic: GATE CS > Probability > Foundations Source: GO Classes — Probability Lec (Reference: John Tsitsiklis, MIT 6.041 course notes) Tags: #probability #axioms #foundations #GATE2027 Links: [[moc probablity]] | [[Inclusion-Exclusion & De Morgan's Law for Probability]]
+Topic: GATE CS > Probability > Foundations Source: GO Classes — Probability Lec (Reference: John Tsitsiklis, MIT 6.041 course notes) Tags: #probability #axioms #foundations #GATE2027 Links: [[mocs/moc probablity]] | [[Inclusion-Exclusion & De Morgan's Law for Probability]]
 
 ---
 
@@ -156,7 +156,7 @@ $$ P(A) = \underbrace{\dfrac{1}{n} + \dfrac{1}{n} + \cdots + \dfrac{1}{n}}_{k \t
 ## Related Notes
 
 - [[Inclusion-Exclusion & De Morgan's Law for Probability]]
-- [[Conditional Probability]]
+- [[gate-cs/math/Conditional Probability]]
 
 ## Open Questions
 
@@ -166,7 +166,7 @@ $$ P(A) = \underbrace{\dfrac{1}{n} + \dfrac{1}{n} + \cdots + \dfrac{1}{n}}_{k \t
 
 # Inclusion-Exclusion & De Morgan's Law for Probability
 
-Topic: GATE CS > Probability > Foundations Source: GO Classes — Probability Lec Tags: #probability #inclusion-exclusion #demorgan #GATE2027 Links: [[moc probablity]] | [[Probability foundations]]
+Topic: GATE CS > Probability > Foundations Source: GO Classes — Probability Lec Tags: #probability #inclusion-exclusion #demorgan #GATE2027 Links: [[mocs/moc probablity]] | [[gate-cs/math/Probability foundations]]
 
 ---
 
@@ -250,8 +250,8 @@ These are extremely useful whenever a question gives you complement-side informa
 
 ## Related Notes
 
-- [[Probability foundations]]
-- [[Conditional Probability]]
+- [[gate-cs/math/Probability foundations]]
+- [[gate-cs/math/Conditional Probability]]
 
 ## Open Questions
 

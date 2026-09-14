@@ -25,8 +25,8 @@ If $\frac{a}{b} = \frac{c}{d}$, then:
 
 **Related Notes:**
 https://youtu.be/Dy8nkm07bSE?list=PLIj-zSSZusInYhDEpHiN5964_mLQBdLHA
-- [[Problem ratio]]
-- [[CDS ratio]]
+- [[cds/general-science/Problem ratio]]
+- [[cds/general-science/CDS ratio]]
 
 
 

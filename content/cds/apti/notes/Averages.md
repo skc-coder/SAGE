@@ -3,7 +3,7 @@ source: https://youtu.be/z1c0YlmFyFI?t=6515
 tags:
 ---
 
-📝 [[Problems - Averages]]
+📝 [[cds/apti/notes/Problems - Averages]]
 
 ---
 ## Averages
@@ -136,4 +136,4 @@ Nullify multiple removal of data by adding them again.
 
 ---
 
-📝 [[Problems - Averages]]
+📝 [[cds/apti/notes/Problems - Averages]]

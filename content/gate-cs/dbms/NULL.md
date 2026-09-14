@@ -27,7 +27,7 @@ WHERE val IS NOT NULL
 
 Any arithmetic with NULL propagates NULL. `5 + NULL = NULL`, `NULL * 0 = NULL`, `NULL / NULL = NULL`
 
-### [[Aggregate Functions]]
+### [[gate-cs/dbms/Aggregate Functions]]
 
 ### NULL in AND / OR
 

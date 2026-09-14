@@ -25,4 +25,4 @@ DHCP relies heavily on limited broadcast because a new client has **no IP addres
     *   **Dst IP:** `255.255.255.255` (or Unicast depending on OS implementation).
     *   **Result:** Client configures its network interface.
 
-**Key Takeaway:** Without [[limited broadcast]], a device with no IP address could never talk to a server to get one.
+**Key Takeaway:** Without [[gate-cs/cn/limited broadcast]], a device with no IP address could never talk to a server to get one.

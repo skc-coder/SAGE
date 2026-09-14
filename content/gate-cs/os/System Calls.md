@@ -191,7 +191,7 @@ Privileged instructions sit outside this chain — they don't ask permission, th
 - [[User-Level vs Kernel-Level Threads]]
 - [[Process Scheduling]]
 - [[Memory Management - Paging]]
-- [[Deadlock]]
+- [[gate-cs/os/Deadlock]]
 ```
 
 The one distinction that trips people up the most: a **trap** is the mechanism (the hardware event that causes mode switch), while a **system call** is the higher-level concept (the user program requesting OS service). A system call is implemented _using_ a trap, but not every trap is a system call. Page faults are also traps, and they have nothing to do with the user requesting anything.

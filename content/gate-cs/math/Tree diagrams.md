@@ -1,6 +1,6 @@
 # Multiplication Rule, Tree Diagrams & Sequential Models
 
-Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — Probability Lec (Multiplication Rule & Tree Diagrams) Tags: #probability #tree-diagrams #multiplication-rule #GATE2027 Links: [[moc probablity]] | [[Conditional Probability]] | [[Total Probability Theorem & Bayes' Theorem]]
+Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — Probability Lec (Multiplication Rule & Tree Diagrams) Tags: #probability #tree-diagrams #multiplication-rule #GATE2027 Links: [[mocs/moc probablity]] | [[gate-cs/math/Conditional Probability]] | [[Total Probability Theorem & Bayes' Theorem]]
 
 ---
 
@@ -130,7 +130,7 @@ These are conceptual scaffolding for tree diagrams and are not presented as stan
 
 ## Related Notes
 
-- [[Conditional Probability]]
+- [[gate-cs/math/Conditional Probability]]
 - [[Total Probability Theorem & Bayes' Theorem]]
 
 ## Open Questions

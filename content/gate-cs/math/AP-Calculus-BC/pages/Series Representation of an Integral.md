@@ -2,7 +2,7 @@ Tags: #Topic
 
 # Series Representation of an Integral
 
-Since an integral is the area underneath a function, it can be estimated using [[Approximations for Area Under a Curve]]. These approximations use small shapes (usually rectangles) to approximate the area, therefore if we use an infinte number of these small shapes, we will get the exact value of the area under the curve.
+Since an integral is the area underneath a function, it can be estimated using [[gate-cs/math/AP-Calculus-BC/pages/Approximations for Area Under a Curve]]. These approximations use small shapes (usually rectangles) to approximate the area, therefore if we use an infinte number of these small shapes, we will get the exact value of the area under the curve.
 
 Therefore,
 

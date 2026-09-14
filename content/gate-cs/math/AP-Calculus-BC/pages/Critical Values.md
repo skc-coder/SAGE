@@ -35,5 +35,5 @@ Critical values are points of interest in the first-derivative of a function tha
 
 ## Finding Critical Values
 
-- #### [[First Derivative Test]]
-- #### [[Second Derivative Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/First Derivative Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Second Derivative Test]]

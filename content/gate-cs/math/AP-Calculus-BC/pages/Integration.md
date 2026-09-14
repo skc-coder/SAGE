@@ -21,7 +21,7 @@ To calculate the total area, you would have to use the integral of the absolute 
 
 $$\Large A_\text{total} = \int_a^b|f(x)|dx$$
 
-#### [[Approximations for Area Under a Curve]]
+#### [[gate-cs/math/AP-Calculus-BC/pages/Approximations for Area Under a Curve]]
 
 ## Fundamental Theorem of Calculus
 
@@ -48,16 +48,16 @@ $$\Large \int_a^bf(x) = F(b) - F(a)$$
 
 The basis of finding integrals is applying the reverse of many derivative rules.
 
-To reverse the [[Chain Rule]], try using [[U-Substitution]].
+To reverse the [[gate-cs/math/AP-Calculus-BC/pages/Chain Rule]], try using [[gate-cs/math/AP-Calculus-BC/pages/U-Substitution]].
 
 ### Integration Strategies
 
-- #### [[Integration Tricks]]
-- #### [[Reverse Power Rule]]
-- #### [[Reverse Logarithmic Rule]]
-- #### [[U-Substitution]]
-- #### [[Integration by Parts]]
-- #### [[Useful Integrals]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Integration Tricks]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Reverse Power Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Reverse Logarithmic Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/U-Substitution]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Integration by Parts]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Useful Integrals]]
 
 ## Integrals
 
@@ -101,7 +101,7 @@ Indefinite integrals are evaluated as
 
 $$\huge \int f(x)dx = F(x) + C$$
 
-$C$ is is a constant and is necessary due to the [[Constant Rule]] eliminating constants when taking derivatives. Since we want to reverse the steps of a derivative, there theoretically could have been a constant in the derivative and we wouldn't know. Therefore $C$ represents the possible constants that could appear in the antiderivative. 
+$C$ is is a constant and is necessary due to the [[gate-cs/math/AP-Calculus-BC/pages/Constant Rule]] eliminating constants when taking derivatives. Since we want to reverse the steps of a derivative, there theoretically could have been a constant in the derivative and we wouldn't know. Therefore $C$ represents the possible constants that could appear in the antiderivative. 
 
 ### Improper
 

@@ -1,5 +1,5 @@
 ## 2.2 Homogeneous First-Order DEs
-> Bird Ch. 47 · ← [[2.1c Equations of the form dy∕dx = f(x)·f(y)]] · → [[Linear and First-Order]]
+> Bird Ch. 47 · ← [[2.1c Equations of the form dy∕dx = f(x)·f(y)]] · → [[gate-cs/math/AP-Calculus-BC/pages/Linear and First-Order]]
 
 ---
 

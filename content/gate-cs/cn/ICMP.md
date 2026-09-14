@@ -9,7 +9,7 @@ ICMP is a supporting protocol.
 
 ICMP messages are themselves encapsulated using [IPv4 Header](IPv4%20Header.md). 
 
-ICMP doesn't have port numbers, it uses the port number of UDP/TCP of the original message to inform the application of the error message. Usually this is ignored but [[ping]] and [traceroute](traceroute.md) do make use of it.
+ICMP doesn't have port numbers, it uses the port number of UDP/TCP of the original message to inform the application of the error message. Usually this is ignored but [[gate-cs/cn/ping]] and [traceroute](traceroute.md) do make use of it.
 
 ![](attachments/Pasted%20image%2020260429132926.png)
 
@@ -31,7 +31,7 @@ The extra 8 bytes contain info about TCP/UDP and port numbers.
 	‘The echo request (type 8) and the echo reply (type 0) pair of messages are used by
 	a host or a router to test the liveliness of another host or router. A host or router sends
 	an echo request message to another host or router; if the latter is alive, it responds with an echo reply message. 
-	Used by [[ping]]. 
+	Used by [[gate-cs/cn/ping]]. 
 #### Other points
 The following are important points about *ICMP error messages:*
 
@@ -41,4 +41,4 @@ The following are important points about *ICMP error messages:*
 
 - No ICMP error message will be generated for a datagram having a multicast address.
 
-- No ICMP error message will be generated for a datagram having a special address such as 127.0.0.0 or 0.0.0.0. ([[DHCP]])
+- No ICMP error message will be generated for a datagram having a special address such as 127.0.0.0 or 0.0.0.0. ([[gate-cs/cn/DHCP]])

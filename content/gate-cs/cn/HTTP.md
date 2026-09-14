@@ -1,5 +1,5 @@
 [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status#informational_responses)
-[[http commands]]
+[[gate-cs/cn/http commands]]
 ## Basics
 - Used for **web pages**
 - Built on **TCP**

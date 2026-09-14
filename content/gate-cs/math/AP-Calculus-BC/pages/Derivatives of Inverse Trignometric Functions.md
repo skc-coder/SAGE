@@ -18,7 +18,7 @@ $$
 
 ## Memorization Tips
 
-Same trick as in [[Derivatives of Trignometric Functions]], where trig functiosn that start with "co-" have a negative derivative.
+Same trick as in [[gate-cs/math/AP-Calculus-BC/pages/Derivatives of Trignometric Functions]], where trig functiosn that start with "co-" have a negative derivative.
 
 $\sin(x)$ is similar to $\cos(x)$
 

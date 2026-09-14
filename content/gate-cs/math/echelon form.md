@@ -26,7 +26,7 @@ a pivot position
 
 The combination of steps 1–4 is called the **forward phase** of the row reduction
 algorithm.
-Step 5, which produces the unique reduced echelon form, is called the **backward phase**. See [[back substitution]].
+Step 5, which produces the unique reduced echelon form, is called the **backward phase**. See [[gate-cs/math/back substitution]].
 
 1. Begin with the leftmost nonzero column. This is a pivot column. The pivot position is at the top.
 2. Select a nonzero entry in the pivot column as a pivot. If necessary, interchange rows to move this entry into the pivot position.

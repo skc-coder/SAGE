@@ -24,7 +24,7 @@ https://cs.stackexchange.com/questions/144580/introductory-books-on-computer-net
 
 ---
 
-## 📡 Module 1 (OLD): IP Addressing, [[Subnetting]], Supernetting
+## 📡 Module 1 (OLD): IP Addressing, [[gate-cs/cn/Subnetting]], Supernetting
 
 - **Lecture 1** – Intro & Classful Addressing (LIVE)
   - 📄 [Lecture 1 Notes](#) (118 pages)
@@ -41,10 +41,10 @@ https://cs.stackexchange.com/questions/144580/introductory-books-on-computer-net
 
 ## Data Link Layer (Part 1)
 
-- **Lecture 5** – [[network layers]] (LIVE)
+- **Lecture 5** – [[gate-cs/cn/network layers]] (LIVE)
   - 📄 [Lecture 5 Notes](#) (66 pages)
 - **Lecture 6** – Switching (Packet/Circuit) & Framing (LIVE)
-- [[mac address]]
+- [[gate-cs/cn/mac address]]
   - 📄 [Lecture 6 Notes](#) (97 pages)
 - **Lecture 7** – Error Control: Parity, Hamming Distance (LIVE)
   - 📄 [Lecture 7 Notes](#) (156 pages)
@@ -87,9 +87,9 @@ https://cs.stackexchange.com/questions/144580/introductory-books-on-computer-net
   - 📄 [Lecture 22 Notes](#) (50 pages)
 - **Lecture 23** – Backoff Algorithm (Random Access) (95:00)
   - 📄 [Lecture 23 Notes](#) (51 pages)
-- **Lecture 24** – Address Resolution Protocol ([[ARP]]) (113:00)
+- **Lecture 24** – Address Resolution Protocol ([[gate-cs/cn/ARP]]) (113:00)
   - 📄 [Lecture 24 Notes](#) (64 pages)
-- **Lecture 25** – [[DHCP]], RARP, BOOTP (LIVE)
+- **Lecture 25** – [[gate-cs/cn/DHCP]], RARP, BOOTP (LIVE)
   - 📄 [Lecture 25 Notes](#) (49 pages)
 - **STP** – Spanning Tree Protocol (43:00)
   - 📄 [STP Notes](#) (42 pages)
@@ -98,17 +98,17 @@ https://cs.stackexchange.com/questions/144580/introductory-books-on-computer-net
 
 ---
 
-## 🌍 [[Network Layer]]
+## 🌍 [[gate-cs/cn/Network Layer]]
 
-- **[[IPv4 Header]] & [[fragmentation fields]]** (LIVE)
+- **[[gate-cs/cn/IPv4 Header]] & [[gate-cs/cn/fragmentation fields]]** (LIVE)
   - 📄 [Fragmentation Notes](#) (123 pages)
 - **[ipv4 fragmentation](ipv4%20fragmentation.md)** questions (LIVE) // left
   - 📄 [More Fragmentation Notes](#) (28 pages)
 - 📄 [PYQs on Fragmentation](#) (15 pages)
 - **Lecture 30** – All GATE PYQs & More (Stanford, CMU) on Fragmentation (99:00)
   - 📄 [Fragmentation PYQ Notes](#) (47 pages)
-- **Lecture 31a** – [[ICMP]] (LIVE)
-- **Lecture 31b** – [[NAT]] // left last 15 minutes
+- **Lecture 31a** – [[gate-cs/cn/ICMP]] (LIVE)
+- **Lecture 31b** – [[gate-cs/cn/NAT]] // left last 15 minutes
   - 📄 [ICMP & NAT Notes](#)
 - **Lecture 32** – Distance Vector Routing (LIVE)
   - 📄 [DVR Notes](#) (64 pages)
@@ -119,11 +119,11 @@ https://cs.stackexchange.com/questions/144580/introductory-books-on-computer-net
 
 ---
 
-## 🚚 [[Transport Layer]]
+## 🚚 [[gate-cs/cn/Transport Layer]]
 
-- **Lecture 33** – Intro to Transport Layer & [[UDP]] (LIVE)
+- **Lecture 33** – Intro to Transport Layer & [[gate-cs/cn/UDP]] (LIVE)
   - 📄 [Lecture 33 Notes](#) (49 pages)
-- **Lecture 34** – TCP Header & [[TCP Connection Establishment]] (107:00)
+- **Lecture 34** – TCP Header & [[gate-cs/cn/TCP Connection Establishment]] (107:00)
   - 📄 [Lecture 34 Notes](#) (88 pages)
 - **Lecture 35** – TCP Flow Control (LIVE)
   - 📄 [Lecture 35 Notes](#) (92 pages)
@@ -144,13 +144,13 @@ https://cs.stackexchange.com/questions/144580/introductory-books-on-computer-net
 
 ---
 
-## 🌐 [[Application Layer]]
+## 🌐 [[gate-cs/cn/Application Layer]]
 
-- **[[HTTP]]** (7:00)
-- **[[DNS]]** (22:00)
-- **[[SMTP and POP3]]** (20:00)
-- **[[FTP]]** (6:00)
-- [[port numbers]]
+- **[[gate-cs/cn/HTTP]]** (7:00)
+- **[[gate-cs/cn/DNS]]** (22:00)
+- **[[gate-cs/cn/SMTP and POP3]]** (20:00)
+- **[[gate-cs/cn/FTP]]** (6:00)
+- [[gate-cs/cn/port numbers]]
   - 📄 [Application Layer Notes](#) (35 pages)
 
 ---

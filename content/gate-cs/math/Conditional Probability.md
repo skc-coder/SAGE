@@ -1,6 +1,6 @@
 # Conditional Probability — Concepts, Definition & Examples
 
-Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — Probability Lec (Conditional Probability intro) Tags: #probability #conditional-probability #GATE2027 Links: [[moc probablity]] | [[Probability foundations]] | [[Multiplication Rule, Tree Diagrams & Sequential Models]]
+Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — Probability Lec (Conditional Probability intro) Tags: #probability #conditional-probability #GATE2027 Links: [[mocs/moc probablity]] | [[gate-cs/math/Probability foundations]] | [[Multiplication Rule, Tree Diagrams & Sequential Models]]
 
 ---
 
@@ -196,7 +196,7 @@ The lecture uses a long True/False set to stress-test intuition about which iden
 
 ## Related Notes
 
-- [[Probability foundations]]
+- [[gate-cs/math/Probability foundations]]
 - [[Multiplication Rule, Tree Diagrams & Sequential Models]]
 - [[Total Probability Theorem & Bayes' Theorem]]
 

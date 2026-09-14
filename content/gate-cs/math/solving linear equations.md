@@ -3,7 +3,7 @@ https://en.wikipedia.org/wiki/Gaussian_elimination
 
 The basic strategy is to replace one system with an equivalent system (i.e., one with the same solution set) that is easier to solve.
 
-This is done through elementary [[row operations]] to obtain row reduced [echelon form](echelon%20form.md).
+This is done through elementary [[gate-cs/math/row operations]] to obtain row reduced [echelon form](echelon%20form.md).
 
 The variables corresponding to pivot columns in the matrix are called **basic variables**.  The other variable is called a **free variable**.
 

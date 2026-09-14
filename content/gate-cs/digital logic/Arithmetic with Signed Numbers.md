@@ -14,4 +14,4 @@ Example: $3 - 2$ in 2's complement = (repr. of $+3$) + (repr. of $-2$), then dis
 $3 - (-2) = 3 + 2$ = (repr. of $+3$) + (repr. of $+2$).
 
 ## Links
-[[Binary Codes]] | [[Binary Code Patterns]]
+[[gate-cs/digital logic/Binary Codes]] | [[cds/apti/notes/Binary Code Patterns]]

@@ -5,12 +5,12 @@ cssclasses:
 
 - [[maths/Algebra|Algebra]]
 - [[moc logic]]
-- [[moc calculus]]
+- [[mocs/moc calculus]]
 - [moc dm](padai/maths/moc%20dm.md)
 - [moc la](moc%20la.md)
-- [[moc probablity]]
+- [[mocs/moc probablity]]
 - [[maths/Basic Mathematics|Basic Mathematics]]
-- [[maths/Number Theory|Number Theory]]
-- [[moc set theory]]
-- [[moc graphs]]
+- [[cds/apti/notes/Number Theory|Number Theory]]
+- [[cds/apti/notes/moc set theory]]
+- [[mocs/moc graphs]]
 - [[moc combinatorics]]

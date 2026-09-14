@@ -1,7 +1,7 @@
 # Conditional Independence vs Independence
 
 **Topic:** GATE CSE > Probability & Statistics > Independence **Source:** GO Classes — Probability Lecture (Slides 62–83) 
-**Tags:** #probability #independence #conditional-independence #gate-cse **Links:** [[Probability MOC]] | [[Independent Events]] | [[Conditional Probability]]
+**Tags:** #probability #independence #conditional-independence #gate-cse **Links:** [[Probability MOC]] | [[gate-cs/math/Independent Events]] | [[gate-cs/math/Conditional Probability]]
 
 ---
 
@@ -267,8 +267,8 @@ $A$ and $B$ are **not** conditionally independent given $C$, even though they ar
 
 ## Related Notes
 
-- [[Independent Events]]
-- [[Conditional Probability]]
+- [[gate-cs/math/Independent Events]]
+- [[gate-cs/math/Conditional Probability]]
 - [[Bayes' Theorem]]
 - [[Chain Rule of Probability]]
 

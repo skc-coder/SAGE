@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/IPv4#Packet_structure
 ### TTL
 When the TTL field hits zero, the router discards the packet and typically sends an [ICMP time exceeded](https://en.wikipedia.org/wiki/ICMP_time_exceeded "ICMP time exceeded") message to the sender.
 
-The program _[[traceroute]]_ sends messages with adjusted TTL values and uses these ICMP time exceeded messages to identify the routers traversed by packets from the source to the destination. ^1df7bd
+The program _[[gate-cs/cn/traceroute]]_ sends messages with adjusted TTL values and uses these ICMP time exceeded messages to identify the routers traversed by packets from the source to the destination. ^1df7bd
 
 **NOTE:** HOST accepts TTL = 0 message. Why would it drop? :)
 
@@ -18,16 +18,16 @@ The program _[[traceroute]]_ sends messages with adjusted TTL values and uses 
 
 | Protocol Number | Protocol Name                      | Abbreviation |
 | --------------- | ---------------------------------- | ------------ |
-| 1               | Internet Control Message Protocol  | [[ICMP]]     |
+| 1               | Internet Control Message Protocol  | [[gate-cs/cn/ICMP]]     |
 | 2               | Internet Group Management Protocol | [[IGMP]]     |
 | 6               | Transmission Control Protocol      | [[TCP]]      |
-| 17              | User Datagram Protocol             | [[UDP]]      |
+| 17              | User Datagram Protocol             | [[gate-cs/cn/UDP]]      |
 | 89              | Open Shortest Path First           | [[OSPF]]     |
 
 
-### [[IPv4 Checksum]]
+### [[gate-cs/cn/IPv4 Checksum]]
 
-### [[IPV4 Options]]
+### [[gate-cs/cn/IPV4 Options]]
 
 https://gateoverflow.in/402845/go-classes-iiith-pgee-2026-mock-test-4-question-87?show=402845#q402845
 

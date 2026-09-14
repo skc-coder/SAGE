@@ -149,7 +149,7 @@ $$\Rightarrow T(n) = O(n) \text{ even in the worst case}$$
 - [[Quicksort & Partition]]
 - [[Median of Medians (MOM)]]
 - [[Divide and Conquer]]
-- [[Sorting Algorithms]]
+- [[gate-cs/math/Sorting Algorithms]]
 
 ---
 

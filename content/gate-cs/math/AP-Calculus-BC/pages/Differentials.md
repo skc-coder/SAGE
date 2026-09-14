@@ -57,16 +57,16 @@ $\dfrac{d^ny}{dx^n}$ means the "$\text{nth}$ derivative of $y$ with respect to $
 
 ## Taking Derivatives
 
-- #### [[Power Rule]]
-- #### [[Constant Rule]]
-- #### [[Product Rule]]
-- #### [[Quotient Rule]]
-- #### [[Exponential Rule]]
-- #### [[Logarithmic Rule]]
-- #### [[Chain Rule]]
-- #### [[Implicit Differentiation]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Power Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Constant Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Product Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Quotient Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Exponential Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Logarithmic Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Chain Rule]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Implicit Differentiation]]
 
 ## Common Derivatives
 
-- #### [[Derivatives of Trignometric Functions]]
-- #### [[Derivatives of Inverse Trignometric Functions]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Derivatives of Trignometric Functions]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Derivatives of Inverse Trignometric Functions]]

@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 ---
 
-[[time complexity]]
+[[gate-cs/math/time complexity]]
 ## 🧠 Why Study Algorithms?
 - **1a** – Why Study Algorithms? (13:00)
 - **1b** – Historical Algorithm & Child's Algorithm (9:00)
@@ -57,7 +57,7 @@ cssclasses:
 
 ---
 
-## 🏆 [[Maximum & Minimum of Numbers]]
+## 🏆 [[gate-cs/math/Maximum & Minimum of Numbers]]
 - **12a–12c** – Max/2nd Max | Tournament Method (19:00, 31:00, 10:00)
 - **12d** – Max & Min in Array (35:00)
 - **13a–13c** – Tournament Method, Cormen Qs, GATE PYQs (25:00, 7:00, 11:00)
@@ -77,7 +77,7 @@ cssclasses:
 
 ---
 
-## 🗂️ [[Sorting Algorithms]]
+## 🗂️ [[gate-cs/math/Sorting Algorithms]]
 - **20a–20c** – Bubble & Insertion Sort (27:00, 24:00, 34:00)
 - **20d** – Selection Sort & Heap Sort (37:00)
 - **20e** – Decision Tree (52:00)

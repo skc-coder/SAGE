@@ -3,7 +3,7 @@ source: https://www.youtube.com/watch?v=4XsebLB1R9o
 tags:
 ---
 
-📝 [[Problems - Alligation]]
+📝 [[cds/apti/notes/Problems - Alligation]]
 
 ---
 ## Core Concept
@@ -16,7 +16,7 @@ $$\text{Alligation Ratio} = \text{The factor that was "weighted" in the average}
 ![[Pasted image 20260403155621.png]]
 
 ## Profit/Loss Alligation
-[[Profit & Loss]]
+[[cds/apti/notes/Profit & Loss]]
 In general in allegation problems:
 
 $$P\%_{avg} = \frac{P\%_1 \times CP_1 \times Q_1 + P\%_2 \times CP_2 \times Q_2}{CP_1 \times Q_1 + CP_2 \times Q_2}$$
@@ -41,7 +41,7 @@ $$\boxed{\frac{CP_1 Q_1}{CP_2 Q_2} = \frac{P\%_{avg} - P\%_2}{P\%_1 - P\%_{avg}}
 
 ---
 
-📝 [[Problems - Alligation]]
+📝 [[cds/apti/notes/Problems - Alligation]]
 
 
 

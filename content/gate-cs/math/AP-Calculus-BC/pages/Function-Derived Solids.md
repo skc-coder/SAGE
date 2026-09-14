@@ -4,5 +4,5 @@ Tags: #Topic
 
 There are two ways of making a solid from a function.
 
-#### [[Solid of Revolution]]
-#### [[Crosssectional Solid]]
+#### [[gate-cs/math/AP-Calculus-BC/pages/Solid of Revolution]]
+#### [[gate-cs/math/AP-Calculus-BC/pages/Crosssectional Solid]]

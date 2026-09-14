@@ -2,7 +2,7 @@
 
 **Flags:**
 - Reserved (R): 1 bit, must be set to 0
-- Don't Fragment (DF): 1 bit, if set, packet is dropped if fragmentation is required. Used for [[path MTU discovery]]
+- Don't Fragment (DF): 1 bit, if set, packet is dropped if fragmentation is required. Used for [[gate-cs/cn/path MTU discovery]]
 - More Fragments (MF): 1 bit, set for all fragments except the last. Cleared for unfragmented packets
 
 **Fragment Offset:**
@@ -14,4 +14,4 @@
 - Range: 0 to 8191 ($2^{13} - 1$)
 - *Maximum offset:* $(2^{13} - 1) \times 8 = 65,528$ bytes of *data* (including 20-byte header = 65,548 bytes total fragmented IPv4 datagram (greater than IPv4 max size!))
 
-[[ipv4 fragmentation]]
+[[gate-cs/cn/ipv4 fragmentation]]

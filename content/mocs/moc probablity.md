@@ -13,15 +13,15 @@ tags:
 # Probability
 
 ## Foundations
-1. [[Probability foundations]]
+1. [[gate-cs/math/Probability foundations]]
 
 ---
 
 # Conditional Probability
 
-- [[Conditional Probability]]
-- [[Tree diagrams]]
-- [[Total Probability Bayes' Theorem]]
+- [[gate-cs/math/Conditional Probability]]
+- [[gate-cs/math/Tree diagrams]]
+- [[gate-cs/math/Total Probability Bayes' Theorem]]
 - [[Bayes' Theorem]]
 - [[Tree Diagram]]
 
@@ -29,7 +29,7 @@ tags:
 
 # Independence
 
-- [[Independent Events]]
+- [[gate-cs/math/Independent Events]]
 
 
 ---
@@ -68,7 +68,7 @@ tags:
 
 # Expectation
 
-- [[Expectation]]
+- [[gate-cs/math/Expectation]]
 - [[Expectation of Functions]]
 - [[Linearity of Expectation]]
 - [[Indicator Random Variables]]
@@ -105,7 +105,7 @@ tags:
 
 # Theorems
 
-- [[Total Probability Bayes' Theorem]]
+- [[gate-cs/math/Total Probability Bayes' Theorem]]
 - [[Bayes' Theorem]]
 - [[Law of Total Expectation]]
 - [[Law of Total Variance]]

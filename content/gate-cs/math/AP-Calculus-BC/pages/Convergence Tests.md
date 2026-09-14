@@ -2,13 +2,13 @@ Tags: #Topic
 
 # Convergence Tests
 
-- #### [[nth Term Test]]
-- #### [[Ratio Test]]
-- #### [[p-Series Test]]
-- #### [[Integral Test]]
-- #### [[Direct Comparison Test]]
-- #### [[Limit Comparison Test]]
-- #### [[Alternating Series Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/nth Term Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Ratio Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/p-Series Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Integral Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Direct Comparison Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Limit Comparison Test]]
+- #### [[gate-cs/math/AP-Calculus-BC/pages/Alternating Series Test]]
 
 ---
 

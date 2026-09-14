@@ -1,7 +1,7 @@
 ---
 source: https://www.youtube.com/watch?v=hOO4teNGkUA&list=PL3JmT-xgOMNxGdXaRXitX0kadTVEIFZ3n&index=8
 tags:
-problems: "[[Problems - Interest]]"
+problems: "[[cds/apti/notes/Problems - Interest]]"
 ---
 # Interest
 Interest is the extra money you earn/give on top of principal amount.
@@ -150,5 +150,5 @@ $V_f=V_o(1−r/100)^t$
 - Overall rate for n years at r%:
 	- For SI: rate * time
 	- For CI: rate ^ time
-# [[Installment]]
+# [[cds/apti/notes/Installment]]
 https://www.youtube.com/watch?v=o1ZMeSKOuME

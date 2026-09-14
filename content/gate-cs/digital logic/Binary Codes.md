@@ -24,7 +24,7 @@
 - For weight self-complementary codes: sum of weights = 9.
 
 Example: excess 3 code (BCD + 3 code)
-[[Gray Code]]
+[[gate-cs/digital logic/Gray Code]]
 
 ## Error correcting codes
-[[hamming codes]]
+[[gate-cs/digital logic/hamming codes]]

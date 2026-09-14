@@ -10,7 +10,7 @@ banner: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=160
 # 🏛️ Humanities & Economy Index
 
 - 📈 Economy & Banking
-  - [[Economy MOC|Economy Master MOC]]
-  - [[Banking — History, Structure & Regulation|Banking History, Structure & Regulation]]
-  - [[banking|Banking System Notes]]
-  - [[money|Monetary System]]
+  - [[cds/humanities/Economy MOC|Economy Master MOC]]
+  - [[cds/humanities/Banking — History, Structure & Regulation|Banking History, Structure & Regulation]]
+  - [[cds/humanities/banking|Banking System Notes]]
+  - [[cds/humanities/money|Monetary System]]

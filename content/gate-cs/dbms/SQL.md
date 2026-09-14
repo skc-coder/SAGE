@@ -40,11 +40,11 @@ Temporary name for column, table, or subquery — lasts for duration of query.
 - `SELECT` alias can't be used in `WHERE` or `GROUP BY` (SELECT runs after both).
 - Table alias created in `FROM` can be used in `WHERE`.
 
-## [[Aggregate Functions]]
+## [[gate-cs/dbms/Aggregate Functions]]
 
-## [[sql operators]]
+## [[gate-cs/dbms/sql operators]]
 
-## [[NULL]]
+## [[gate-cs/dbms/NULL]]
 ## WITH ... AS
 Creates a named temporary relation usable in the following main query.
 ```sql

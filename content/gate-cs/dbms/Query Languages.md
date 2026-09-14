@@ -1,4 +1,4 @@
-[[Relational Algebra]]
+[[gate-cs/dbms/Relational Algebra]]
 [SQL](SQL.md)
-[[TRC]]
+[[gate-cs/dbms/TRC]]
 

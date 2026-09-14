@@ -19,7 +19,7 @@ $$
 $$
 
 > **NOTE:**
-> The $L = \infty$ and $L = 0$ parts of the test come from a hidden [[Direct Comparison Test]]. 
+> The $L = \infty$ and $L = 0$ parts of the test come from a hidden [[gate-cs/math/AP-Calculus-BC/pages/Direct Comparison Test]]. 
 > 
 > If $L = \infty$, then $a_n$ must be $> b_n$ to have the limit approach $\infty$. If $\sum b_n$ is also divergent, then $a_n$ must be grow faster than the infinite sum of the divergent $\sum b_n$ series, therefore $\sum a_n$ must also be divergent.
 > 

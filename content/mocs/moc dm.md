@@ -41,7 +41,7 @@ tags: [GATE, maths, discrete-math]
 - **Lectures 31-36** (Negation, Validity, Distributive Properties) - 170:00 | Notes: 188 pages
 - **Lectures 37-39** (Practice & Arguments) - Notes: 224 pages
 
-## Module 5: [[moc set theory]]
+## Module 5: [[cds/apti/notes/moc set theory]]
 - **Lectures 1-4** (Set Basics) - 75:00 | Notes: 128 pages
 - **Lectures 5-8** (Subsets, Powersets, Operations) - 105:00 | Notes: 169 pages
 - **Lectures 9-12** (Set Proofs & Identities) - 139:00 | Notes: 143 pages
@@ -68,7 +68,7 @@ tags: [GATE, maths, discrete-math]
 - **Lectures 28-34** (Modulo Groups, Order, Cyclic) - 195:00 | Notes: 214 pages
 - **Lectures 35-40** (Lagrange's Theorem) - 170:00 | Notes: 187 pages
 
-## Module 8: [[combinatorics/combinatorics]]
+## Module 8: [[gate-cs/data structures/Combinatorics]]
 - **Lectures 1-4** (Basic Counting) - 71:00 | Notes: 95 pages
 - **Lectures 5-8A** (Rules & Cases) - 125:00 | Notes: 117 pages
 - **Lectures 8B-11** (Permutations & Combinations) - 106:00 | Notes: 112 pages
@@ -82,7 +82,7 @@ tags: [GATE, maths, discrete-math]
 - **Lecture 26** (Recurrence Relations) - Notes: 73 pages
 - **Lectures 27A-27C** (Pigeonhole Principle) - Notes: 392 pages
 
-## Module 9: [[moc graphs]]
+## Module 9: [[mocs/moc graphs]]
 - **Lectures 1-2C** (Basics & Degree) - 127:00 | Notes: 88 pages
 - **Lectures 3A-4A** (Handshaking & Paths) - 61:00 | Notes: 77 pages
 - **Lectures 4B-7** (Walks, Subgraphs) - 103:00 | Notes: 160 pages

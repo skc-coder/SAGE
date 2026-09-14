@@ -61,7 +61,7 @@ This reflects the actual sequence your PW/Defence Wallah lecture PDFs have follo
   - Money supply (M0–M4), money multiplier effect
 
 ### 3.3 Banking Bloc — 🟢 Covered
-- [[Banking — History, Structure & Regulation]]
+- [[cds/humanities/Banking — History, Structure & Regulation]]
   - History of Indian banking, RBI formation & functions
   - Nationalisation & mergers
   - Bank classification, NBFCs, cooperative banks, DFIs
@@ -90,10 +90,10 @@ Based on standard PW/CDS economics sequencing and the official topic list in Sec
 | 2 | Indices | 🟡 Recap-only, needs backfill | — |
 | 3 | Money & Its Evolution | 🟢 Done | [[Money — Evolution, Types & Supply]] |
 | 4 | Money Supply & Multiplier | 🟢 Done | [[Money — Evolution, Types & Supply]] |
-| 5 | Banking History & RBI | 🟢 Done | [[Banking — History, Structure & Regulation]] |
-| 6 | Bank Classification & NBFCs | 🟢 Done | [[Banking — History, Structure & Regulation]] |
-| 7 | Differentiated Banks & PSL | 🟢 Done | [[Banking — History, Structure & Regulation]] |
-| 8 | Basel Norms & Risk Management | 🟢 Done | [[Banking — History, Structure & Regulation]] |
+| 5 | Banking History & RBI | 🟢 Done | [[cds/humanities/Banking — History, Structure & Regulation]] |
+| 6 | Bank Classification & NBFCs | 🟢 Done | [[cds/humanities/Banking — History, Structure & Regulation]] |
+| 7 | Differentiated Banks & PSL | 🟢 Done | [[cds/humanities/Banking — History, Structure & Regulation]] |
+| 8 | Basel Norms & Risk Management | 🟢 Done | [[cds/humanities/Banking — History, Structure & Regulation]] |
 | 9 | Fiscal Policy & Union Budget | ⚪ Pending | — |
 | 10 | Five-Year Plans / NITI Aayog | ⚪ Pending | — |
 | 11 | Foreign Trade & Forex | ⚪ Pending | — |
@@ -114,7 +114,7 @@ Based on standard PW/CDS economics sequencing and the official topic list in Sec
 
 ## Related Notes
 - [[Money — Evolution, Types & Supply]]
-- [[Banking — History, Structure & Regulation]]
+- [[cds/humanities/Banking — History, Structure & Regulation]]
 - [[National Income]] *(not yet created)*
 - [[GK MOC]]
 

@@ -2,16 +2,16 @@
 source: https://www.youtube.com/watch?v=szz5JEY_vgI&list=PLoh0AzN1l5EPdIOdxLCeaVPw2tW-Z0k2U&index=9
 tags:
 ---
-📝 [[Problems - Number Theory]]
+📝 [[cds/apti/notes/Problems - Number Theory]]
 
 ---
 
-- [[Divisibility]]
-- [[Remainder Theory]]
-- [[unit digit]]
-- [[number of zeros]]
-- [[hcf lcm]]
-## [[factors]]
+- [[cds/apti/notes/Divisibility]]
+- [[cds/apti/notes/Remainder Theory]]
+- [[cds/apti/notes/unit digit]]
+- [[cds/apti/notes/number of zeros]]
+- [[cds/apti/notes/hcf lcm]]
+## [[cds/apti/notes/factors]]
 
 ## recurring decimals
 

@@ -3,7 +3,7 @@ https://www.careerpower.in/pdf/mensuration-formula-pdf.pdf
 📝 [[Problems - Geometry & Mensuration]]
 
 ---
-[[volume formulas]]
+[[cds/apti/notes/volume formulas]]
 ## Geometry & Mensuration
 
 ![[Pasted image 20260329104309.png]]

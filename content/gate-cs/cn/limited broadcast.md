@@ -13,4 +13,4 @@ A packet sent to this address is intended for **every device on the local physic
     *   **Routers:** Drop the packet. They do not forward `255.255.255.255` to other subnets.
 
 ---
-Used in [[DHCP]]
+Used in [[gate-cs/cn/DHCP]]

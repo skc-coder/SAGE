@@ -370,8 +370,8 @@ myopia ->nearsithneds
           
         
     - **Principle:** The middle **erecting lens** flips the upside-down image right-side up without changing its size so land objects can be viewed normally.
-[[eyes]]
-[[prims]]
+[[cds/general-science/eyes]]
+[[gate-cs/math/prims]]
 
 
 Mirrors always follow $f = R / 2$ ($2f = R$), whereas lenses rely on the Lens Maker's Formula—$\frac{1}{f} = (n - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right)$—to account for both surfaces and the refractive index. Because of this, $2f$ only equals $R$ under specific symmetric conditions, and applying proper sign conventions ensures lenses like biconcave ones correctly yield a negative focal length.

@@ -15,7 +15,7 @@ characteristic values, or latent roots.
 For any non zero vector $x$, $\lambda$ is an eigenvalue iff the system $(\lambda I - A)x = 0$ has a **nontrivial solution**. 
 This occurs when:
 $$\det(A - \lambda I) = 0$$
-This is the **[[characteristic equation]]**. Expanding the determinant yields the **characteristic polynomial**, a degree-$n$ polynomial in $\lambda$. Its roots are the eigenvalues.
+This is the **[[gate-cs/math/characteristic equation]]**. Expanding the determinant yields the **characteristic polynomial**, a degree-$n$ polynomial in $\lambda$. Its roots are the eigenvalues.
 
 An matrix may will have $n$ number of eigenvalues.
 
@@ -37,6 +37,6 @@ $$x = t \begin{bmatrix} -7 \\ 4 \\ 1 \end{bmatrix}, \quad t \neq 0$$
 - $(\lambda I - A)x = 0$ has nontrivial solutions.
 - There exists nonzero $x$ such that $Ax = \lambda x$.
 
-## [[eigenvalues shortcuts]]
-[[eignevalues transformations]]
-[[Cayley Hamilton Theorem]]
+## [[gate-cs/math/eigenvalues shortcuts]]
+[[gate-cs/math/eignevalues transformations]]
+[[gate-cs/math/Cayley Hamilton Theorem]]

@@ -11,13 +11,13 @@ banner: "https://images.unsplash.com/photo-1507668077129-56e32842fceb?q=80&w=160
 
 - 🧲 Physics Core
   - [[CDS_Physics_Master_Book.pdf|CDS Physics Master Book (PDF)]]
-  - [[Magnetism|Magnetism]]
-  - [[light|Light & Optics]]
-  - [[eyes|Human Eye & Vision]]
-  - [[Units|Units & Dimensions]]
-  - [[weigtlessness question|Weightlessness]]
+  - [[cds/general-science/Magnetism|Magnetism]]
+  - [[cds/general-science/light|Light & Optics]]
+  - [[cds/general-science/eyes|Human Eye & Vision]]
+  - [[cds/general-science/Units|Units & Dimensions]]
+  - [[cds/general-science/weigtlessness question|Weightlessness]]
 
 - 📐 Practice & Ratio Problems
-  - [[CDS ratio|CDS Ratio]]
-  - [[Problem ratio|Problem Ratio]]
-  - [[materail for traignles propertiese|Properties of Triangles]]
+  - [[cds/general-science/CDS ratio|CDS Ratio]]
+  - [[cds/general-science/Problem ratio|Problem Ratio]]
+  - [[cds/general-science/materail for traignles propertiese|Properties of Triangles]]

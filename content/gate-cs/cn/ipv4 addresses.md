@@ -7,4 +7,4 @@
 | 172.16.0.0/12      | 172.16.0.0–172.31.255.255   | 1048576   | Private  | Private network (Class B)       |
 | 192.168.0.0/16     | 192.168.0.0–192.168.255.255 | 65536     | Private  | Private network (Class C)       |
 | 224.0.0.0/4        | 224.0.0.0–239.255.255.255   | 268435456 | Internet | Multicast (Class D)             |
-| 255.255.255.255/32 | 255.255.255.255             | 1         | Subnet   | [[Limited broadcast]]           |
+| 255.255.255.255/32 | 255.255.255.255             | 1         | Subnet   | [[gate-cs/cn/limited broadcast]]           |

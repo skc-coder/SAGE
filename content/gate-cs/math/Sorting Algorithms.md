@@ -529,7 +529,7 @@ Is guaranteed O(n log n) needed?
 - [[Max Min Tournament Method]]
 - [[Divide and Conquer - Part 1]]
 - [[Quick Sort - Detailed Analysis]]
-- [[Heap and Heap Sort]]
+- [[gate-cs/math/Heap and Heap Sort]]
 - [[Decision Tree and Lower Bounds]]
 - [[GATE PYQs - Algorithms]]
 

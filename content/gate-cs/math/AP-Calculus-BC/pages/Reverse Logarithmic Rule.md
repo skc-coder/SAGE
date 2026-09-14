@@ -5,4 +5,4 @@ Tags: #Topic #FindingIntegrals
 $$\huge \int \frac{1}{x\ln(a)} = \log_a|x|$$
 $$\huge \int \frac{1}{x} = \ln|x|$$
 
-Used to undo the [[Logarithmic Rule]] when taking integrals.
+Used to undo the [[gate-cs/math/AP-Calculus-BC/pages/Logarithmic Rule]] when taking integrals.

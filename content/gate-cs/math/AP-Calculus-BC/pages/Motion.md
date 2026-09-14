@@ -40,7 +40,7 @@ $$\Large d(t) = \int_a^b |v(x)|$$
 
 ## 2-D Motion
 
-Often uses [[Parametric Equations]] of $x$ and $y$, which both depend on $t$, the time since the start of the movement.
+Often uses [[gate-cs/math/AP-Calculus-BC/pages/Parametric Equations]] of $x$ and $y$, which both depend on $t$, the time since the start of the movement.
 
 > **NOTE:**
 > Often times, velocity is calculated using the derivatives of the separate $y$ and $x$ parametric equations.

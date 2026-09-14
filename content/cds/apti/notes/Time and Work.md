@@ -1,5 +1,5 @@
 ← [[Previous]] | **Time and Work** | [[Next]] →
-📝 [[Problems - Time and Work]]
+📝 [[cds/apti/notes/Problems - Time and Work]]
 
 ---
 ## Rate and time
@@ -74,4 +74,4 @@ Using this we can find number of days.
 ---
 
 ← [[Previous]] | **Time and Work** | [[Next]] →
-📝 [[Problems - Time and Work]]
+📝 [[cds/apti/notes/Problems - Time and Work]]

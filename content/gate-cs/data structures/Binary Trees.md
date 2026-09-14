@@ -110,7 +110,7 @@ The last consecutive node in postorder acts as the subtree root (like a "full st
 
 ---
 
-## [[Catalan Number]]
+## [[gate-cs/data structures/Catalan Number]]
 
 $$C_n = \frac{1}{n+1}\binom{2n}{n}$$
 

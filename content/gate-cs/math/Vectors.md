@@ -14,6 +14,6 @@ $$
 - The **zero vector** $\mathbf{0}$ has all entries equal to $0$. Its dimension is clear from context.
 
 
-[[span]]
-[[Ax=b]]
-[[linear independence]]
+[[gate-cs/math/span]]
+[[gate-cs/math/Ax=b]]
+[[gate-cs/math/linear independence]]

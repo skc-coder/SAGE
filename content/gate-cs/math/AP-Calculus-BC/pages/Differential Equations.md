@@ -13,7 +13,7 @@ Tags: #Topic
 \end{aligned}
 > $$
 
-First-order differential equations (ie. $\dfrac{dy}{dx} = y \ldots$) can be represented graphically by using [[Slope Fields]].
+First-order differential equations (ie. $\dfrac{dy}{dx} = y \ldots$) can be represented graphically by using [[gate-cs/math/AP-Calculus-BC/pages/Slope Fields]].
 
 The solutions to a differential equations is a set of possible functions for that function.
 
@@ -62,7 +62,7 @@ The solutions to a differential equations is a set of possible functions for tha
 
 ---
 #### Quick Index by Method
-[[Separable]] · [[Homogeneous]] · [[Linear (IF)]] · [[Exact]] · [[Bernoulli]]
+[[Separable]] · [[Homogeneous]] · [[Linear (IF)]] · [[gate-cs/math/AP-Calculus-BC/pages/Exact]] · [[Bernoulli]]
 [[Undetermined Coefficients]] · [[Variation of Parameters]] · [[Euler Method]]
 [[Laplace Transforms]] · [[Power Series]] · [[Frobenius]] · [[Separation of Vars]]
 
@@ -95,12 +95,12 @@ The solutions to a differential equations is a set of possible functions for tha
 #de/first-order/separable
 
 #### 2.2 Homogeneous Equations
-- [[Homogeneous DEs]]
+- [[gate-cs/math/AP-Calculus-BC/pages/Homogeneous DEs]]
 - [[2.2c Substitutions — Paul's Notes]]
 #de/first-order/homogeneous
 
 #### 2.3 Linear and First-Order
-- [[Linear and First-Order]]
+- [[gate-cs/math/AP-Calculus-BC/pages/Linear and First-Order]]
 - ![](attachments/Pasted%20image%2020260502062200.png)
 - [[2.3b Worked Problems — Linear First-Order]]
 #de/first-order/linear

@@ -3,7 +3,7 @@
 **Topic:** Economy > Monetary Economics > Money
 **Source:** CDS Foundation 2026 — Money 01 & 02 Class Notes + DPP 01, DPP 02 (PW/Defence Wallah)
 **Tags:** #economy #money #banking #cds2026
-**Links:** [[Banking — History, Structure & Regulation]] | [[Economy MOC]]
+**Links:** [[cds/humanities/Banking — History, Structure & Regulation]] | [[cds/humanities/Economy MOC]]
 
 ---
 
@@ -320,7 +320,7 @@ $$
 ---
 
 ## Related Notes
-- [[Banking — History, Structure & Regulation]]
+- [[cds/humanities/Banking — History, Structure & Regulation]]
 - [[National Income]]
 - [[Price Indices]]
 

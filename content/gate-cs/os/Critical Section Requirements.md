@@ -9,12 +9,12 @@ tags:
 
 ## Index of Atomic Notes
 
-- [[Shared Counter & Race Condition Mechanics]] — Assembly level execution (`LOAD`, `INCR`, `STORE`) and calculation of bounds ($2$ to $2N$).
-- [[Critical Section Synchronization Criteria]] — Primary (Mutual Exclusion, Progress) and Secondary (Bounded Waiting, Architectural Neutrality) rules.
-- [[Software Synchronization Primitives & Attempts]] — Primitives (`flag[i]`, `turn`, `lock`), code attempts (Attempts 1, 2, 3), hardware TestAndSet, and comparative matrix.
-- [[Peterson's Algorithm & Order Invariant]] — Algorithm mechanics, mathematical correctness, and the critical write-order invariant.
-- [[Invariant Verification Framework]] — Formal contradiction proofs for Mutual Exclusion, 2-condition Progress proofs, and Re-entry Bounded Waiting tests.
-- [[Critical Section Practice Variations]] — Practice questions and step-by-step invariant deductions for classic protocol variations (Swapped Peterson, Pure Turn-Taking, Two-Flag Polite).
+- [[gate-cs/os/Shared Counter & Race Condition Mechanics]] — Assembly level execution (`LOAD`, `INCR`, `STORE`) and calculation of bounds ($2$ to $2N$).
+- [[gate-cs/os/Critical Section Synchronization Criteria]] — Primary (Mutual Exclusion, Progress) and Secondary (Bounded Waiting, Architectural Neutrality) rules.
+- [[gate-cs/os/Software Synchronization Primitives & Attempts]] — Primitives (`flag[i]`, `turn`, `lock`), code attempts (Attempts 1, 2, 3), hardware TestAndSet, and comparative matrix.
+- [[gate-cs/os/Peterson's Algorithm & Order Invariant]] — Algorithm mechanics, mathematical correctness, and the critical write-order invariant.
+- [[gate-cs/os/Invariant Verification Framework]] — Formal contradiction proofs for Mutual Exclusion, 2-condition Progress proofs, and Re-entry Bounded Waiting tests.
+- [[gate-cs/os/Critical Section Practice Variations]] — Practice questions and step-by-step invariant deductions for classic protocol variations (Swapped Peterson, Pure Turn-Taking, Two-Flag Polite).
 
 ---
 

@@ -1,4 +1,4 @@
-📝 [[Problems - Speed]]
+📝 [[cds/apti/notes/Problems - Speed]]
 
 ---
 ## Time, Speed & Distance
@@ -70,4 +70,4 @@
 - back and fro motion
 	- In this type of question don't treat speeds differently, take relative speed by adding individual speed(because they are moving towards each other) and for the first meet distance needed to travel 100km(for 1st meet) after that for every meet the distance needed to cover(to meet) will become 200 . So 100+200+200/80 . This gives the time after which they meet for the third time. With this time multiply the speed of Ram to get the distance covered by him
 	- https://t.me/c/2261703493/11260
-📝 [[Problems - Speed]]
+📝 [[cds/apti/notes/Problems - Speed]]

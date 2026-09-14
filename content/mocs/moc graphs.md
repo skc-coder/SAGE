@@ -28,7 +28,7 @@ cssclasses:
 ---
 
 ## Paths and Circuits
-- [[Paths and Walks|Paths and Walks]]
+- [[gate-cs/math/graph/Paths and Walks|Paths and Walks]]
 - [[maths/discrete/graph/Eulerian Graphs|Eulerian Graphs]]
 - [[maths/discrete/graph/Hamiltonian Graphs|Hamiltonian Graphs]]
 

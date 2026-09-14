@@ -18,7 +18,7 @@ created: 2026-03-13
 ---
 # Bipartite Graph
 
-In the field of [[moc graphs]] (a branch of [[Mathematics]]), a **Bipartite Graph** (also called a **Bigraph**) is a special type of [[Graph (Discrete Mathematics)|graph]] in which the **vertices** can be divided into two separate groups.
+In the field of [[mocs/moc graphs]] (a branch of [[Mathematics]]), a **Bipartite Graph** (also called a **Bigraph**) is a special type of [[Graph (Discrete Mathematics)|graph]] in which the **vertices** can be divided into two separate groups.
 
 ---
 

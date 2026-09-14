@@ -93,7 +93,7 @@ If $|x-c| > R$, then the power series diverges.
 
 > **NOTE:**
 > Wondering where $R$ comes from?
-> See [[Convergence]].
+> See [[gate-cs/math/AP-Calculus-BC/pages/Convergence]].
 
 $$\Large S = \frac{a_0}{1-(x-c)}$$
 
@@ -135,9 +135,9 @@ $$
 \end{aligned}
 $$
 
-#### [[Convergence]]
+#### [[gate-cs/math/AP-Calculus-BC/pages/Convergence]]
 
-####  [[Series Error]]
+####  [[gate-cs/math/AP-Calculus-BC/pages/Series Error]]
 
 ## Maclaurin Series
 

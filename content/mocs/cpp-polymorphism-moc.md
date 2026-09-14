@@ -12,7 +12,7 @@ Welcome to the central Map of Content for **Modern C++ Polymorphism & OOP Archit
 
 ## 📌 Core Modules & Atomic Notes
 
-### 1. [[type-casting-mechanics|1. Type Casting Mechanics & Class Hierarchy Transitions]]
+### 1. [[general/cpp/notes/type-casting-mechanics|1. Type Casting Mechanics & Class Hierarchy Transitions]]
 * **Concepts Covered**:
   * Type System Safety, Value Conversions, Promotion vs Demotion
   * Pointer Reinterpretation & Implicit vs Explicit Casting
@@ -22,7 +22,7 @@ Welcome to the central Map of Content for **Modern C++ Polymorphism & OOP Archit
 
 ---
 
-### 2. [[static-vs-dynamic-binding|2. Static vs Dynamic Binding & Virtual Dispatch]]
+### 2. [[general/cpp/notes/static-vs-dynamic-binding|2. Static vs Dynamic Binding & Virtual Dispatch]]
 * **Concepts Covered**:
   * Static Type vs Dynamic Type of Pointers and References
   * Compile-Time (Early) Binding vs Run-Time (Late/Dynamic) Binding
@@ -32,7 +32,7 @@ Welcome to the central Map of Content for **Modern C++ Polymorphism & OOP Archit
 
 ---
 
-### 3. [[vtable-abstract-base-classes|3. VTable Architecture, Virtual Destructors & Abstract Base Classes]]
+### 3. [[general/cpp/notes/vtable-abstract-base-classes|3. VTable Architecture, Virtual Destructors & Abstract Base Classes]]
 * **Concepts Covered**:
   * Under-the-Hood VTable (`vptr` + `vtbl`) Binary Memory Layout & Dispatch Overhead
   * The Virtual Destructor Mandate & Memory Leak Prevention in Polymorphic Deletion
@@ -42,7 +42,7 @@ Welcome to the central Map of Content for **Modern C++ Polymorphism & OOP Archit
 
 ---
 
-### 4. [[c-style-polymorphism-evolution|4. Evolution of Polymorphism: C-Style Tagged Unions & Function Switches]]
+### 4. [[general/cpp/notes/c-style-polymorphism-evolution|4. Evolution of Polymorphism: C-Style Tagged Unions & Function Switches]]
 * **Concepts Covered**:
   * Case Study: Staff Salary Processing System Requirements
   * Procedural Design in C: Tagged `union`/`struct` and Enum Type Discriminators
@@ -52,7 +52,7 @@ Welcome to the central Map of Content for **Modern C++ Polymorphism & OOP Archit
 
 ---
 
-### 5. [[cpp-polymorphism-refactoring|5. Refactoring to C++ Polymorphic Hierarchy & Architectural Evolution]]
+### 5. [[general/cpp/notes/cpp-polymorphism-refactoring|5. Refactoring to C++ Polymorphic Hierarchy & Architectural Evolution]]
 * **Concepts Covered**:
   * Stage 1: Non-Polymorphic C++ Class Hierarchy (Encapsulation without Dynamic Dispatch)
   * Stage 2: Polymorphic Hierarchy with Virtual Functions (Open-Closed Principle Compliance)

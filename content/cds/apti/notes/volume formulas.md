@@ -5,6 +5,6 @@ https://math.stackexchange.com/questions/1179440/why-is-1-cubic-meter-1000-liter
 ![](attachments/Pasted%20image%2020260427110642.png)
 
 
-[[cone]]
+[[cds/apti/notes/cone]]
 
 ![](attachments/Pasted%20image%2020260502071145.png)

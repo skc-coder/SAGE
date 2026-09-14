@@ -2,68 +2,68 @@
 cssclasses:
   - dashboard
 Folders:
-  - "[[padai/cse/moc cs]]"
+  - "[[mocs/moc cs]]"
 ---
 #### Module 1 — Boolean Algebra & Minimization
 
 **Boolean Algebra Basics**
 - [[Intro to Digital Logic & Boolean Algebra]] (L1)
 - [[Boolean Algebra continued]] (L2, L4A)
-- [[boolean laws]] (L4B)
+- [[gate-cs/digital logic/boolean laws]] (L4B)
 - [[Complement & Dual of Boolean Expressions]] (L4C)
 - [[Algebraic Simplification]] (L4D)
-- [[dual]] (L7)
+- [[gate-cs/digital logic/dual]] (L7)
 
 **Standard Forms**
-- [[standard form]] (L5A)
+- [[gate-cs/digital logic/standard form]] (L5A)
 - [[Minterm and Maxterm]] (L5B)
 - [[Expressing Boolean Functions using Minterms and Maxterms]] (L5C, L5D)
 - [[Practice — SOM and POM]] (L5E, L5F)
 
 **K-Map Minimization**
-- [[kmap]] (L6A, L6B, L6C)
-	- [[cover]] (L6D)
-	- [[implicants]] (L6E)
+- [[gate-cs/digital logic/kmap]] (L6A, L6B, L6C)
+	- [[gate-cs/digital logic/cover]] (L6D)
+	- [[gate-cs/digital logic/implicants]] (L6E)
 - [[K-Map Part 5 — Prime Implicant and Essential Prime Implicant]] (L6E)
 
 **Other**
-- [[xor and xnor]] (L8)
+- [[gate-cs/digital logic/xor and xnor]] (L8)
 - [[Number Systems — Binary & Decimal]] (L3A, L3B)
 
 ---
 
 #### Module 2 — Number System
-[[Binary Code Patterns]]
+[[cds/apti/notes/Binary Code Patterns]]
 **Bases & Conversions**
 - [[Octal and Hexadecimal Systems]] (L1A, L1B)
 - [[Binary Addition]] (L2)
 
 **Complements & Subtraction**
 - [[r's Complement and Subtraction]] (L3A, L3B)
-- [[complement]] (L3C)
-- [[Subtraction Using Complements]] (L3C)
-- [[Sign Representation Systems Ranges]] (L3D)
+- [[gate-cs/digital logic/complement]] (L3C)
+- [[gate-cs/digital logic/Subtraction Using Complements]] (L3C)
+- [[gate-cs/digital logic/Sign Representation Systems Ranges]] (L3D)
 - [sign system evaluation](../lang/clang/obsidian-notes/sign%20system%20evaluation.md)
-- [[Arithmetic with Signed Numbers]]
+- [[gate-cs/digital logic/Arithmetic with Signed Numbers]]
 - [Overflow — Definition & Detection](Overflow%20—%20Definition%20&%20Detection)
 - [[Range of Signed Binary Numbers]] (L3E)
 
 **Arithmetic on Signed Numbers**
 - [[Addition in Various Representations]] (L4A)
 - [[Addition & Subtraction in Signed Complement Systems]] (L4B)
-- [[Overflow — Definition & Detection]] (L5A)
+- [[gate-cs/digital logic/Overflow — Definition & Detection]] (L5A)
 - [[Overflow in 2's & 1's Complement]] (L5B)
 - [[Sign Extension in Various Representations]] (L6)
 
-**[[Binary Codes]]**
-- [[Gray Code]] (L7C, L7D)
+**[[gate-cs/digital logic/Binary Codes]]**
+- [[gate-cs/digital logic/Gray Code]] (L7C, L7D)
 
 ---
 
 #### Module 3 — Combinational Circuits
 
 **Fundamentals**
-- [[compact truth table]] (L1)
+- [[gate-cs/digital logic/compact truth table]] (L1)
 - [[Propagation Delay & Timing Diagrams]] (L6)
 
 **MUX / DEMUX**
@@ -115,7 +115,7 @@ Folders:
 - [[Race Around Condition in JK]] (L11B)
 
 **Registers & FSM**
-- [[Registers]] (L13)
+- [[gate-cs/os/Registers]] (L13)
 - [[FSM — Mealy & Moore Machines]] (L14)
 
 **Counters**

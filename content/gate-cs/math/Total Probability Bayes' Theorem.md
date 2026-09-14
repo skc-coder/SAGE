@@ -1,6 +1,6 @@
 # Total Probability Theorem & Bayes' Theorem
 
-Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — Probability Lec (Axioms of Conditional Probability, Marginalization, Bayes) Tags: #probability #total-probability #bayes-theorem #GATE2027 Links: [[moc probablity]] | [[Conditional Probability]] | [[Multiplication Rule, Tree Diagrams & Sequential Models]]
+Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — Probability Lec (Axioms of Conditional Probability, Marginalization, Bayes) Tags: #probability #total-probability #bayes-theorem #GATE2027 Links: [[mocs/moc probablity]] | [[gate-cs/math/Conditional Probability]] | [[Multiplication Rule, Tree Diagrams & Sequential Models]]
 
 ---
 
@@ -162,9 +162,9 @@ $$ P(A \mid B, E) = \frac{P(A\cap B \mid E)}{P(B\mid E)} = \frac{P(A\cap B\mid E
 
 ## Related Notes
 
-- [[Conditional Probability]]
+- [[gate-cs/math/Conditional Probability]]
 - [[Multiplication Rule, Tree Diagrams & Sequential Models]]
-- [[GATE PYQs — Conditional Probability & Bayes' Theorem]]
+- [[gate-cs/math/GATE PYQs — Conditional Probability & Bayes' Theorem]]
 
 ## Open Questions
 
@@ -172,4 +172,4 @@ $$ P(A \mid B, E) = \frac{P(A\cap B \mid E)}{P(B\mid E)} = \frac{P(A\cap B\mid E
 
 ---
 
-[[GATE PYQs — Conditional Probability & Bayes' Theorem]]
+[[gate-cs/math/GATE PYQs — Conditional Probability & Bayes' Theorem]]

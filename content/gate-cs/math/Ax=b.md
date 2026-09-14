@@ -1,4 +1,4 @@
-A [[system of linear equations]] cam be viewed in three different but equivalent ways: as a matrix equation, as a vector equation, or as a system of linear equations (duh!).
+A [[gate-cs/math/System of Linear Equations]] cam be viewed in three different but equivalent ways: as a matrix equation, as a vector equation, or as a system of linear equations (duh!).
 
 ---
 If $A$ is an $m \times n$ matrix, with columns $\mathbf{a}_1, \dots, \mathbf{a}_n$, and if $\mathbf{b}$ is in $\mathbb{R}^m$, the *matrix equation*

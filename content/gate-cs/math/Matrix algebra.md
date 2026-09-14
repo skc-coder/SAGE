@@ -1,1 +1,1 @@
-[[rank]]
+[[gate-cs/math/rank]]

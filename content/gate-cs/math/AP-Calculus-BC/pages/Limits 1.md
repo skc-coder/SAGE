@@ -61,7 +61,7 @@ where $L$ is a real number
 
 Limits do not exist if there is a discontinuity or if the limit approaches infinity. 
 
-See [[Continuity]] for more information about discontinuities.
+See [[gate-cs/math/AP-Calculus-BC/pages/Continuity]] for more information about discontinuities.
 
 > **NOTE**
 > For a given real number $c$,
@@ -74,7 +74,7 @@ Limits are indeterminate if they are,
 
 $$\Large\frac{0}{0}, \frac{\infty}{\infty}, \infty - \infty, 0^0, 1^\infty, \infty^0, 0 \cdot \infty$$
 
-If a limit is in the indeterminate form of $\displaystyle 	\frac{0}{0}$ or $\displaystyle \frac{\infty}{\infty}$ , you can use [[L'Hopital's Rule]] to solve for the limit.
+If a limit is in the indeterminate form of $\displaystyle 	\frac{0}{0}$ or $\displaystyle \frac{\infty}{\infty}$ , you can use [[gate-cs/math/AP-Calculus-BC/pages/L'Hopital's Rule]] to solve for the limit.
 
 ## Compound Limits
 

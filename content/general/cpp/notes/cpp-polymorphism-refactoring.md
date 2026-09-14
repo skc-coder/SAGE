@@ -8,7 +8,7 @@ date: 2026-09-14
 
 ## 🧠 Intuition & Core Motivation
 
-In the previous note ([[c-style-polymorphism-evolution]]), we saw how C procedural code uses tag `enum`s and `switch` statements to process different employee roles, resulting in fragile code that violates the Open-Closed Principle (OCP).
+In the previous note ([[general/cpp/notes/c-style-polymorphism-evolution]]), we saw how C procedural code uses tag `enum`s and `switch` statements to process different employee roles, resulting in fragile code that violates the Open-Closed Principle (OCP).
 
 Now, we evolve this system step-by-step into a production-ready Modern C++ architecture:
 - Moving from explicit type tags to **Dynamic Virtual Dispatch**.

@@ -36,4 +36,4 @@ The dual captures the same physical circuit behavior under inverted logic conven
 
 ---
 
-# [[palindrome functions]]
+# [[gate-cs/digital logic/palindrome functions]]

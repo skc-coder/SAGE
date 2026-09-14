@@ -3,7 +3,7 @@
 **Topic:** Economy > Monetary Economics > Banking
 **Source:** CDS Foundation 2026 — Banking 01, 02, 03 Class Notes + DPP 01, DPP 02, DPP 03 (PW/Defence Wallah)
 **Tags:** #economy #banking #rbi #cds2026
-**Links:** [[Money — Evolution, Types & Supply]] | [[Economy MOC]]
+**Links:** [[Money — Evolution, Types & Supply]] | [[cds/humanities/Economy MOC]]
 
 ---
 

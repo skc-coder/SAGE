@@ -1,4 +1,4 @@
-Main: [[Continuity]]
+Main: [[gate-cs/math/AP-Calculus-BC/pages/Continuity]]
 Tags: #Theorem
 
 # Intermediate Value Theorem

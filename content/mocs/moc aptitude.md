@@ -29,29 +29,29 @@ book: arun sharma 8th edition
 - [[Squares & Cubes]] — [[Problems - Squares & Cubes|Problems]]
 
 #### Block I — Numbers
-- [[Number Theory]] — [[Problems - Number Theory|Problems]]
-  - [[modular arithmetic]]
-- [[Progressions]] — [[Problems - Progressions|Problems]]
+- [[cds/apti/notes/Number Theory]] — [[cds/apti/notes/Problems - Number Theory|Problems]]
+  - [[cds/apti/notes/modular arithmetic]]
+- [[cds/apti/notes/Progressions]] — [[cds/apti/notes/Problems - Progressions|Problems]]
 
 #### Block II — Averages & Mixtures
-- [[Averages]] — [[Problems - Averages|Problems]]
-- [[Mixture]] — [[Problems - Mixture|Problems]]
-- [[Alligation]] — [[Problems - Alligation|Problems]]
+- [[cds/apti/notes/Averages]] — [[cds/apti/notes/Problems - Averages|Problems]]
+- [[cds/apti/notes/Mixture]] — [[Problems - Mixture|Problems]]
+- [[cds/apti/notes/Alligation]] — [[cds/apti/notes/Problems - Alligation|Problems]]
 
 #### Block III — Arithmetic & Word Problems
-- [[Percentages]] — [[Problems - Percentages|Problems]]
-- [[Profit & Loss]] — [[Problems - Profit & Loss|Problems]]
-- [[Interest]] — [[Problems - Interest|Problems]]
-- [[Ratio]] — [[Problems - Ratio|Problems]]
-- [[Time and Work]] — [[Problems - Time and Work|Problems]]
-- [[Speed]] — [[Problems - Speed|Problems]]
+- [[cds/apti/notes/Percentages]] — [[cds/apti/notes/Problems - Percentages|Problems]]
+- [[cds/apti/notes/Profit & Loss]] — [[Problems - Profit & Loss|Problems]]
+- [[cds/apti/notes/Interest]] — [[cds/apti/notes/Problems - Interest|Problems]]
+- [[cds/apti/notes/Ratio]] — [[cds/apti/notes/Problems - Ratio|Problems]]
+- [[cds/apti/notes/Time and Work]] — [[cds/apti/notes/Problems - Time and Work|Problems]]
+- [[cds/apti/notes/Speed]] — [[cds/apti/notes/Problems - Speed|Problems]]
 
 #### Block IV — Geometry
-- [[Geometry & Mensuration]] — [[Problems - Geometry & Mensuration|Problems]]
-- [[Coordinate Geometry]] — [[Problems - Coordinate Geometry|Problems]]
+- [[cds/apti/Geometry & Mensuration]] — [[Problems - Geometry & Mensuration|Problems]]
+- [[cds/apti/notes/Coordinate Geometry]] — [[Problems - Coordinate Geometry|Problems]]
 
 #### Block V — Algebra
-- [[Trigonometry]] — [[Problems - Trigonometry|Problems]]
+- [[cds/apti/notes/Trigonometry]] — [[Problems - Trigonometry|Problems]]
 - [[../cse/lang/clang/obsidian-notes/functions]] — [[Problems - Functions|Problems]]
 - [[Inequalities]] — [[Problems - Inequalities|Problems]]
 - [[Quadratic & Other Equations]] — [[Problems - Quadratic & Other Equations|Problems]]
@@ -59,19 +59,19 @@ book: arun sharma 8th edition
 
 #### Block VI — Counting
 - [[Permutations & Combinations]] — [[Problems - Permutations & Combinations|Problems]]
-- [[moc probablity]] — [[Problems - Probability|Problems]]
-- [[moc set theory]] — [[Problems - Set Theory|Problems]]
+- [[mocs/moc probablity]] — [[gate-cs/math/Problems - Probability|Problems]]
+- [[cds/apti/notes/moc set theory]] — [[Problems - Set Theory|Problems]]
 
 ---
 
 ### Analytical Aptitude
 - **Logic**
-  - [[Blood Relations]] — [[Problems - Blood Relations|Problems]]
-  - [[Coding Decoding]] — [[Problems - Coding Decoding|Problems]]
+  - [[cds/apti/notes/Blood Relations]] — [[Problems - Blood Relations|Problems]]
+  - [[cds/apti/notes/Coding Decoding]] — [[Problems - Coding Decoding|Problems]]
   - [[Deduction & Induction]] — [[Problems - Deduction & Induction|Problems]]
   - [[Analogy]] — [[Problems - Analogy|Problems]]
   - [[Numerical Relations & Reasoning]] — [[Problems - Numerical Relations & Reasoning|Problems]]
-  - [ ] [[clock and time]]
+  - [ ] [[cds/apti/clock and time]]
 ---
 
 ### Spatial Aptitude

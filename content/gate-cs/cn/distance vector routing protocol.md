@@ -2,14 +2,14 @@ https://en.wikipedia.org/wiki/Distance-vector_routing_protocol
 
 A **distance-vector routing protocol** in [data networks](https://en.wikipedia.org/wiki/Data_networks "Data networks") determines the best route for data packets based on distance. Distance-vector routing protocols measure the distance by the number of [routers](https://en.wikipedia.org/wiki/Router_\(computing\) "Router (computing)") a packet has to pass; one router counts as one hop. 
 
-To determine the best route across a network, routers using a distance-vector protocol exchange information with one another, and then using [[bellman ford algorithm]]. 
+To determine the best route across a network, routers using a distance-vector protocol exchange information with one another, and then using [[gate-cs/cn/bellman ford algorithm]]. 
 
 It requires *max*\* $n-1$  round for $n$ router network.
 After 1 iteration of sharing, everyone will know about shortest path to other node using 1 other node.
 
 Distance-vector routing protocols also require that a router inform its neighbours of [network topology](https://en.wikipedia.org/wiki/Network_topology "Network topology") changes periodically.
 
-Another way of calculating the best route across a network is based on link cost, and is implemented through [[link-state routing protocols]].
+Another way of calculating the best route across a network is based on link cost, and is implemented through [[gate-cs/cn/link-state routing protocols]].
 
 The term _distance vector_ refers to the fact that the protocol manipulates _vectors_ ([arrays](https://en.wikipedia.org/wiki/Array_data_structure "Array data structure")) of distances to other nodes in the network.
 

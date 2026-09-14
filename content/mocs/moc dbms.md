@@ -49,9 +49,9 @@ Link OS sync with DBMS sync transactional cocomurecny managements
 - **Lectures 2A-2E** (Relational Model, Keys, Nulls) - 156:00 | Notes: 133 pages
 - **(OPTIONAL) Lecture 3** (SQL DDL/DML) - Notes: 110 pages
 - **Lectures 4A-4C** ([[Integrity Constraints]], Foreign Keys) - 177:00 | Notes: 160 pages
-- **Lectures 5A-5E** ([[Functional Dependencies]], [[Minimal Cover]]) - 385:00 | Notes: 615 pages
-- **Lectures 6A-6E** ([[Normal Forms]]: 1NF, 2NF, 3NF, BCNF) - 248:00 | Notes: 323 pages
-- **Lectures 7A-7D** ([[Decomposition]], Lossless, Chase Test) - 437:00 | Notes: 571 pages
+- **Lectures 5A-5E** ([[gate-cs/dbms/Functional Dependencies]], [[gate-cs/dbms/Minimal Cover]]) - 385:00 | Notes: 615 pages
+- **Lectures 6A-6E** ([[gate-cs/dbms/1 Relational Model/Normal forms]]: 1NF, 2NF, 3NF, BCNF) - 248:00 | Notes: 323 pages
+- **Lectures 7A-7D** ([[gate-cs/dbms/Decomposition]], Lossless, Chase Test) - 437:00 | Notes: 571 pages
 - **Lectures 8A-8D** (Decomposition Practice, GATE PYQs) - 401:00 | Notes: 392 pages
 - **(OPTIONAL) Lecture 9** (Data Independence) - 133:00 | Notes: 88 pages
 
@@ -96,7 +96,7 @@ Link OS sync with DBMS sync transactional cocomurecny managements
 - **Lectures 14-15** (Timestamp Protocols, 50 Questions) - 327:00 | Notes: 382 pages
 
 ## Module 8: ER Model
-- **Lectures 1-2** ([[ER Model]], Weak Entities) - 285:00 | Notes: 216 pages
+- **Lectures 1-2** ([[gate-cs/dbms/ER Model]], Weak Entities) - 285:00 | Notes: 216 pages
 - **Lecture 3** (ER to Relational Conversion) - 258:00 | Notes: 251 pages
 
 ## Student Notes

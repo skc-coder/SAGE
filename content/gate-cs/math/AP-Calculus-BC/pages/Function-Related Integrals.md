@@ -2,8 +2,8 @@ Tags: #Topic #Memorize
 
 # Function-Related Integrals
 
-#### [[Average Area Below a Function]]
+#### [[gate-cs/math/AP-Calculus-BC/pages/Average Area Below a Function]]
 
-#### [[Function Arc Length]]
+#### [[gate-cs/math/AP-Calculus-BC/pages/Function Arc Length]]
 
-#### [[Series Representation of an Integral]]
+#### [[gate-cs/math/AP-Calculus-BC/pages/Series Representation of an Integral]]

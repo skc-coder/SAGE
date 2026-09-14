@@ -15,6 +15,6 @@ Becuase mac address can be spoofed/cpoied and hence traffic can be higecked.
 It also doesnt support suppernetting.
 
 Why mac when we have IP?
-If we dont have a device specific idnetifier we will always need a [[DHCP]] server like thing to give ids for devices to communicate. that is inefficient.  
+If we dont have a device specific idnetifier we will always need a [[gate-cs/cn/DHCP]] server like thing to give ids for devices to communicate. that is inefficient.  
 Bad answers here:
 https://stackoverflow.com/questions/66290232/why-do-we-need-mac-addresses-when-you-have-local-ip-addresses

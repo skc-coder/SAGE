@@ -1,7 +1,7 @@
 
 # GATE PYQs — Conditional Probability & Bayes' Theorem
 
-Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — GATE PYQs on Conditional Probability Tags: #probability #GATE-PYQ #bayes-theorem #GATE2027 Links: [[moc probablity]] | [[Total Probability Theorem & Bayes' Theorem]] | [[Multiplication Rule, Tree Diagrams & Sequential Models]]
+Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — GATE PYQs on Conditional Probability Tags: #probability #GATE-PYQ #bayes-theorem #GATE2027 Links: [[mocs/moc probablity]] | [[Total Probability Theorem & Bayes' Theorem]] | [[Multiplication Rule, Tree Diagrams & Sequential Models]]
 
 ---
 
@@ -159,7 +159,7 @@ Topic: GATE CS > Probability > Conditional Probability Source: GO Classes — GA
 
 - [[Total Probability Theorem & Bayes' Theorem]]
 - [[Multiplication Rule, Tree Diagrams & Sequential Models]]
-- [[Conditional Probability]]
+- [[gate-cs/math/Conditional Probability]]
 
 ## Open Questions
 

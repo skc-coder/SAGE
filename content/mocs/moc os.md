@@ -16,16 +16,16 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
 
 - **Lecture 1** – Intro to OS | What & Why? (86:00)
   - 📄 [Lecture 1 Notes](#) (39 pages)
-- **Lecture 2a** – [[Process Creation]] | PCB (79:00)
+- **Lecture 2a** – [[gate-cs/os/Process Creation]] | PCB (79:00)
 - **Lecture 2b** – Forking | GATE 2005 | Logical Address (115:00)
   - 📄 [Lecture 2 Notes](#) (94 pages)
-- **Lecture 3** – [[Fork and exec]] Questions | Process Graph | Fork Tree (92:00)
+- **Lecture 3** – [[gate-cs/os/Fork and exec]] Questions | Process Graph | Fork Tree (92:00)
   - 📄 [Lecture 3 Notes](#) (62 pages)
-- **Lecture 4** – `exec` | Creating Process | [[System Calls]] (105:00)
+- **Lecture 4** – `exec` | Creating Process | [[gate-cs/os/System Calls]] (105:00)
   - 📄 [Lecture 4 Notes](#) (52 pages)
 - **Lecture 5** – System Call Execution | Threads (108:00)
   - 📄 [Lecture 5 Notes](#) (66 pages)
-- **Lecture 6** – [[User vs Kernel Level Threads]] (LIVE)
+- **Lecture 6** – [[gate-cs/os/User vs Kernel Level Threads]] (LIVE)
   - 📄 [Lecture 6 Notes](#) (77 pages)
 - **Lecture 7** – Thread Mapping | Context Switching (77:00)
   - 📄 [Lecture 7 Notes](#) (65 pages)
@@ -35,7 +35,7 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
 
 ## ⏱️ Process Scheduling
 
-- **Lecture 8** – [[Process State Diagram]] | [[Schedulers]] (96:00)
+- **Lecture 8** – [[gate-cs/os/Process State Diagram]] | [[gate-cs/os/Schedulers]] (96:00)
   - 📄 [Lecture 8 Notes](#) (37 pages)
 - **Lecture 9** – FCFS Scheduling (LIVE)
   - 📄 [Lecture 9 Notes](#) (26 pages)
@@ -50,16 +50,16 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
 
 ---
 
-## 🔒 [[Synchronization]] & IPC
+## 🔒 [[gate-cs/os/Synchronization]] & IPC
 
 - **Lecture 14**, 15, 16, 17
-- **[[Critical Section Requirements]]**
-  - 📄 [[Shared Counter & Race Condition Mechanics]]
-  - 📄 [[Critical Section Synchronization Criteria]]
-  - 📄 [[Software Synchronization Primitives & Attempts]]
-  - 📄 [[Peterson's Algorithm & Order Invariant]]
-  - 📄 [[Invariant Verification Framework]]
-  - 📄 [[Critical Section Practice Variations]]
+- **[[gate-cs/os/Critical Section Requirements]]**
+  - 📄 [[gate-cs/os/Shared Counter & Race Condition Mechanics]]
+  - 📄 [[gate-cs/os/Critical Section Synchronization Criteria]]
+  - 📄 [[gate-cs/os/Software Synchronization Primitives & Attempts]]
+  - 📄 [[gate-cs/os/Peterson's Algorithm & Order Invariant]]
+  - 📄 [[gate-cs/os/Invariant Verification Framework]]
+  - 📄 [[gate-cs/os/Critical Section Practice Variations]]
   - 
 - **Lecture 18** – Peterson's Solution | Hardware Solutions (LIVE)
   - 📄 [Lecture 18 Notes](#) (43 pages)
@@ -82,7 +82,7 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
   - 📄 [Lecture 23 Notes](#) (65 pages)
 - **Lecture 24** – [Optional] Base/Bound Questions (LIVE)
   - 📄 [Lecture 24 Notes](#) (55 pages)
-- **Lecture 25** – Intro to [[Paging]] (LIVE)
+- **Lecture 25** – Intro to [[gate-cs/os/Paging]] (LIVE)
   - 📄 [Lecture 25 Notes](#) (100 pages)
 - **Lecture 26** – Single Level Paging Questions (LIVE)
   - 📄 [Lecture 26 Notes](#) (94 pages)
@@ -95,9 +95,9 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
   - 📝 **Multilevel Paging One Shot**
 - **Lecture 30** – Memory Mgmt Summary | Hashed/Inverted Tables (LIVE)
   - 📄 [Lecture 30 Notes](#) (130 pages)
-- **Lecture 31** – [[Segmentation]] with Paging (LIVE)
+- **Lecture 31** – [[gate-cs/os/Segmentation]] with Paging (LIVE)
   - 📄 [Lecture 31 Notes](#) (39 pages)
-- **Lecture 32** – [[Demand Paging]] | Page Replacement (LIVE)
+- **Lecture 32** – [[gate-cs/os/Demand Paging]] | Page Replacement (LIVE)
   - 📄 [Lecture 32 Notes](#) (125 pages)
 - **Lecture 33** – TLB | Dynamic Allocation (LIVE)
   - 📄 [Lecture 33 Notes](#) (90 pages)
@@ -108,7 +108,7 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
 
 ## 🚫 Deadlocks
 
-- **Lecture 34** – [[Deadlock]] Intro (LIVE)
+- **Lecture 34** – [[gate-cs/os/Deadlock]] Intro (LIVE)
   - 📄 [Lecture 34 Notes](#) (96 pages)
 - **Lecture 35** – Deadlock Avoidance (Banker's) | Detection & Recovery (LIVE)
   - 📄 [Lecture 35 Notes](#) (78 pages)

@@ -16,7 +16,7 @@ $$\Large f'(c)=\dfrac{f(b)-f(a)}{b-a}$$
 
 ## Rolle's Theorem
 
-A more restrictive [[Mean Value Theorem]].
+A more restrictive [[gate-cs/math/AP-Calculus-BC/pages/Mean Value Theorem]].
 
 Given an interval $[a,b]$ on a function $f(x)$, if
 
