@@ -5,6 +5,7 @@ title: Operating Systems
 subject: GATE CSE
 tags: [GATE, OS]
 banner: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1600&auto=format&fit=crop"
+banner_y: 0.5
 ---
 
 

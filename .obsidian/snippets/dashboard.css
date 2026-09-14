@@ -14,14 +14,35 @@ This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
     max-width: 100%;
 }
 
-/* Remove hardcoded absolute title positioning that causes overlap */
+/* Fix for obsidian-banner / properties overlap in Obsidian */
+.obsidian-banner { 
+    position: unset !important; 
+}
+
+.obsidian-banner-wrapper { 
+    margin-top: 0 !important;
+    position: relative !important;
+    z-index: 1 !important;
+}
+
+.obsidian-banner-spacer {
+    z-index: 99999 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Ensure metadata container and properties stack cleanly below banner */
+.metadata-container,
+.metadata-properties {
+    position: relative !important;
+    z-index: 10 !important;
+    margin-top: 10px !important;
+}
 
 .dashboard h1 {
     border-bottom-style: dotted !important;
     border-width: 1px !important;
     padding-bottom: 3px !important;
 }
-
 
 /* Get rid of the parent bullet */
 .dashboard div.markdown-preview-section>div>ul>li>.list-bullet {
