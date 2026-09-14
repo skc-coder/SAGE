@@ -1,8 +1,8 @@
 ---
 aliases:
   - moc-dbms
-  - content/mocs/moc-dbms
   - mocs/moc-dbms
+  - content/mocs/moc-dbms
 cssclasses:
   - dashboard
 ---

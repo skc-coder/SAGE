@@ -1,8 +1,8 @@
 ---
 aliases:
   - moc-aptitude
-  - content/mocs/moc-aptitude
   - mocs/moc-aptitude
+  - content/mocs/moc-aptitude
 cssclasses:
   - dashboard
 tags:

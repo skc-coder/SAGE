@@ -1,4 +1,8 @@
 ---
+aliases:
+  - moc-probablity
+  - mocs/moc-probablity
+  - content/mocs/moc-probablity
 cssclasses:
   - dashboard
 ---
@@ -9,8 +13,6 @@ tags:
   - probability
   - gate
   - mathematics
-aliases:
-  - Probability MOC
 ---
 # Probability
 

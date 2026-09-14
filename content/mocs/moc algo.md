@@ -1,8 +1,8 @@
 ---
 aliases:
   - moc-algo
-  - content/mocs/moc-algo
   - mocs/moc-algo
+  - content/mocs/moc-algo
 cssclasses:
   - dashboard
 ---

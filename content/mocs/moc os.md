@@ -1,8 +1,8 @@
 ---
 aliases:
   - moc-os
-  - content/mocs/moc-os
   - mocs/moc-os
+  - content/mocs/moc-os
 cssclasses:
   - dashboard
 title: Operating Systems
@@ -143,4 +143,3 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
 - 📄 [Himanshu Dutta (AIR 16) Notes](#) – Operating Systems (118 pages)
 
 ---
-

@@ -1,8 +1,8 @@
 ---
 aliases:
   - moc-graphs
-  - content/mocs/moc-graphs
   - mocs/moc-graphs
+  - content/mocs/moc-graphs
 cssclasses:
   - dashboard
 ---

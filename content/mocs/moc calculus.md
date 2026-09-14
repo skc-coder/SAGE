@@ -1,8 +1,8 @@
 ---
 aliases:
   - moc-calculus
-  - content/mocs/moc-calculus
   - mocs/moc-calculus
+  - content/mocs/moc-calculus
 cssclasses:
   - dashboard
 ---
