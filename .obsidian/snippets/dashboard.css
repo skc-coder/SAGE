@@ -1,45 +1,41 @@
 /* 
-Last updated 2024-11-18
-This solution is provided by TfT Hacker. Learn more at https://tfthacker.com
+banner using css only -- https://forum.obsidian.md/t/css-how-to-style-the-first-image-in-a-note/52839/
 */
 
-/* banner using css only -- https://forum.obsidian.md/t/css-how-to-style-the-first-image-in-a-note/52839/ */
-
-/* make the div (in LP) containing the image doesn't control the css box-sizing */
-.internal-embed.image-embed[alt*="banner"] { 
-    display: contents; 
+/* LP / Reading view image selectors for banner targeting */
+.internal-embed.image-embed[alt*="banner"],
+.image-embed[alt*="banner"] { 
+    display: contents !important; 
 }
 
-/* original forum post snippet with minor tweak */
-.obsidian-banner img[alt*="banner"] {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 200px;
-    width: 100%;
-    margin-right: auto;
-    margin-left: auto;
-    object-fit: cover;
-    object-position: 50% 50%;
-    overflow: hidden;
-    user-select: none;
-    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+img[alt*="banner"],
+.markdown-rendered img[alt*="banner"],
+.cm-embed-block img[alt*="banner"] {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    height: 220px !important;
+    width: 100% !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    object-fit: cover !important;
+    object-position: 50% 50% !important;
+    overflow: hidden !important;
+    user-select: none !important;
+    z-index: 0 !important;
+    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0))) !important;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0)) !important;
 }
 
-/* add option to adjust vertical position by adding the alt metadata "higher" or "lower" */
-.obsidian-banner img[alt*="banner"][alt*="lower"] { object-position: 50% 30%; }
-.obsidian-banner img[alt*="banner"][alt*="higher"] { object-position: 50% 70%; }
+img[alt*="banner"][alt*="lower"] { object-position: 50% 30% !important; }
+img[alt*="banner"][alt*="higher"] { object-position: 50% 70% !important; }
 
-/* original forum post with minor tweak to make it overlap */
-.obsidian-banner .inline-title {
-    position: relative;
-    padding-top: 150px;
-    z-index: 1;
+/* Push inline-title & content down when a banner is present */
+.inline-title,
+.metadata-container {
+    position: relative !important;
+    z-index: 2 !important;
 }
-
-/* minor tweak for rounded corners */
-.obsidian-banner.is-readable-line-width img { border-radius: revert; }
 
 /* Dashboard CSS Snippet (TfT Hacker) */
 
