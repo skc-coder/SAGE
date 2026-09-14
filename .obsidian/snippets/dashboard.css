@@ -1,16 +1,16 @@
 /* 
 CSS-Only Banner snippet (Forum post by efemkay & Bluemoondragon07)
-Targets any image with |banner alt tag embedded in note body
+Targets any image with |banner alt tag embedded in note body ONLY on notes with cssclasses containing 'dashboard'
 */
 
-/* LP / Reading view image selectors for banner targeting */
-.internal-embed.image-embed[alt*="banner"],
-.image-embed[alt*="banner"] { 
+/* LP / Reading view image selectors for banner targeting - strictly scoped to .dashboard */
+.dashboard .internal-embed.image-embed[alt*="banner"],
+.dashboard .image-embed[alt*="banner"] { 
     display: contents !important; 
 }
 
-.markdown-rendered img[alt*="banner"],
-.cm-embed-block img[alt*="banner"] {
+.dashboard .markdown-rendered img[alt*="banner"],
+.dashboard .cm-embed-block img[alt*="banner"] {
     position: absolute !important;
     top: 0 !important;
     left: 0 !important;
@@ -27,15 +27,15 @@ Targets any image with |banner alt tag embedded in note body
     mask-image: linear-gradient(to bottom, black 0%, black 60%, transparent 100%) !important;
 }
 
-.markdown-rendered img[alt*="banner"][alt*="lower"],
-.cm-embed-block img[alt*="banner"][alt*="lower"] { object-position: 50% 30% !important; }
+.dashboard .markdown-rendered img[alt*="banner"][alt*="lower"],
+.dashboard .cm-embed-block img[alt*="banner"][alt*="lower"] { object-position: 50% 30% !important; }
 
-.markdown-rendered img[alt*="banner"][alt*="higher"],
-.cm-embed-block img[alt*="banner"][alt*="higher"] { object-position: 50% 70% !important; }
+.dashboard .markdown-rendered img[alt*="banner"][alt*="higher"],
+.dashboard .cm-embed-block img[alt*="banner"][alt*="higher"] { object-position: 50% 70% !important; }
 
-/* Push note title and body content cleanly below the banner height */
-.inline-title,
-.metadata-container {
+/* Push note title and body content cleanly below the banner height strictly on .dashboard notes */
+.dashboard .inline-title,
+.dashboard .metadata-container {
     position: relative !important;
     z-index: 2 !important;
     margin-top: 140px !important;
