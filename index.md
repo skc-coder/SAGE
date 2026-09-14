@@ -13,14 +13,10 @@ Welcome to your central navigation dashboard. This vault combines rigorous exam 
 
 ```
 SAGE Vault Root
-├── 📁 00_meta/        --> Templates, System Logic & MOC Metadata
-├── 📁 content/        --> Quartz Web Portal Published Notes & MOCs
-├── 📁 gate-cs/        --> GATE Computer Science Core Modules
-├── 📁 cds/            --> Combined Defence Services Core Modules
-├── 📁 general-notes/  --> General STEM & Foundations Notes
-├── 📁 raw_inputs/     --> Raw Extraction Dumps & Source Text
-├── 📁 attachments/    --> Embedded Images & Media Assets
-└── 📁 archive/        --> Older Iterations & Backup Materials
+├── 📄 index.md        --> Master Dashboard
+├── 📁 content/        --> Active Published Notes & MOCs
+├── 📁 attachments/    --> Media Assets & Screenshots
+└── 📁 00_meta/        --> Templates, Meta, Raw Inputs & Archives
 ```
 
 ---
