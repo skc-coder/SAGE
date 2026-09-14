@@ -1,0 +1,58 @@
+# GATE CS 2027
+
+#project/gate
+
+**Status:** Week 2 of intensive 2nd-pass revision. Rank 2098 (Feb 2026). Target: Under 100 rank (~75 marks).
+
+## Weak Subjects (Priority Order)
+1. **Algorithms** — 42.9% accuracy (4/16 marks lost on 2026 mock). Currently: DSA trees & hashing. Next: Advanced trees, graph algorithms, dynamic programming
+2. **Theory of Computation** — 50% accuracy (ToC, Automata, Complexity). Needs full revision + practice
+3. **Operating System** — 50% accuracy. Process management, scheduling, synchronization, deadlock
+
+## Revision Timeline
+- **Weeks 1–4 (NOW):** Intensive weak-subject revision (Algorithms, ToC, OS) — 1-2 hours per subject per day + daily practice problems
+- **Weeks 5–8:** Mix of continued weak-subject practice + **first full mocks** (1 mock per week, 3 hours). Parallel: brush strong subjects (DBMS, Networks, CO&Arch maintain 66–100%)
+- **Weeks 9–20:** Mock-heavy (1–2 mocks/week). Identify gaps, targeted revision. Strong subjects maintenance only.
+- **Weeks 21–28 (Final push, Nov–Feb):** High-frequency mocks + final weak-subject triage. Last 2 weeks: revision sprint, confidence building.
+
+## Weekly Study Blocks (Structured, NOT open-ended)
+- **Mon–Wed:** 2-hour blocks on weak subjects (Algorithms focus Mon/Wed, ToC/OS Tue) + 1 hour daily practice problems
+- **Thu–Sat:** 1 full mock per week (Thu or Sat, 3 hours) + review (1 hour next day)
+- **Sun:** Light review of mock mistakes, no new study
+
+## Notes / Resources
+- GATE 2026 weak-subject analysis: https://rank.gateoverflow.in/mymarks/analysis.html
+- Daily practice: Coding problems (LeetCode medium/hard focus on Algorithms), ToC problems (TCS book), OS (Galvin)
+- Mocks: GateOverflow mock tests, previous years (2014–2025)
+
+# GATE CS 2027
+
+#project/gate
+
+## Current Focus: Combinatorics (Weeks 1–3: Jun 24 – Jul 14)
+- Starting lecture: 19B (Distributing Objects into Boxes practice)
+- Daily allocation: 2 hours lectures + 2 hours practice problems
+- Lectures 19B through 25G + GATE PYQs (2022, 2016, 2017, 2018, 2005, TIFR 2010)
+- Detailed schedule: See artifact "Combinatorics Weekly Study Plan (2h lecture + 2h practice daily)"
+
+## Weak Subjects (After Combinatorics — Post Jul 14)
+1. **Algorithms** — 42.9% accuracy (4/16 marks lost on 2026 mock). Priority: trees, hashing, DP, graph algorithms
+2. **Theory of Computation** — 50% accuracy (ToC, Automata, Complexity). Full revision needed.
+3. **Operating System** — 50% accuracy. Process management, scheduling, synchronization, deadlock
+
+## Overall Timeline
+- **Weeks 1–3 (Jun 24 – Jul 14):** Combinatorics (lectures + practice)
+- **Weeks 4–8 (Jul 15 – Aug 18):** Algorithms intensive (weak subject priority)
+- **Weeks 9–12 (Aug 19 – Sep 15):** ToC + OS + parallel AFCAT AFSB prep (last 2 weeks)
+- **Weeks 13–28 (Sep 16 – Feb 2027):** Mocks (1–2 per week) + weak-subject triage + final push
+
+## Weekly Study Structure (Daily)
+- **2 hours:** Lectures (watch + take notes)
+- **2 hours:** Practice problems (apply concepts, solve GATE-level questions)
+- **Mon–Sat:** As above
+- **Sun:** Rest day (light review, no new material)
+
+## Revision Notes
+- GATE 2026 analysis: https://rank.gateoverflow.in/mymarks/analysis.html
+- Resources: GO Classes (Deepak Poonia), LeetCode, GateOverflow, GATE PYQs
+- Mocks: Start week 4 (after Combinatorics locked)

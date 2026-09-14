@@ -1,0 +1,90 @@
+{
+  "title": "tips",
+  "references": [
+    {
+      "uuid": "d9e2ad11-5f30-4f0b-82ee-6d8c4c26f452",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "57f21941-3f26-4781-be87-b8eb6480931d",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "7637e216-aff4-4a05-a509-d09e3243cc88",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "bb4fbd17-9d45-4f42-9d01-1759726f5193",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "20b81076-ed90-4202-9138-496ad58466fe",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "47038d68-5144-43a3-ac10-9dd484c40330",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "ba01eb56-5631-4af1-8fbe-dbc41f607519",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "dbc5937b-e205-4fbe-8d95-ba38928cb1e9",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "a3ee46ab-5847-4ce0-8e4d-0baf1288fdcc",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "e47df00d-605c-4476-bb71-31d54cf4c504",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "480ab8c4-e37b-4a32-b1c9-e44dbde8240b",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "d5339a4a-0ece-49fd-bcc3-8bb25b28fbb0",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "bbf44488-11db-4ba0-918a-d9822ab43f8b",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "726be8f9-8f89-4a0c-94b3-37cef738b0c5",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "8376e976-7634-44bc-b391-844461b61deb",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "4ce52b75-cdee-4452-8b2d-760cc2644a42",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "6129b6f6-1c34-4d81-8dfa-4cd2a091d525",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "2ff78c4b-6b07-436e-9779-cd872a537f38",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "c302f38f-7777-49ed-8a4b-8468f5b34523",
+      "content_type": "Note"
+    },
+    {
+      "uuid": "45394b65-3250-4717-aa19-e96ff57a75b3",
+      "content_type": "Note"
+    }
+  ],
+  "appData": {
+    "org.standardnotes.sn": {
+      "client_updated_at": "2022-06-01T14:20:22.725Z"
+    }
+  }
+}

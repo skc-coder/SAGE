@@ -1,0 +1,2 @@
+  * When you cant understand something the problem may lie in the soruce or your biology. Hence try learning the concept from diffrent source (in diffrent medium; as homo medium, homo explanation) at different time. For eg use simulations, videos on the topic, notes (they present concept differently).
+  * If you still can't understand ask on SE.

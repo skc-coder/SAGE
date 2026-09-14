@@ -1,0 +1,11 @@
+Today I studied parsers.
+I am quite surprised to find that I did not feel any problem in understanding the concept of
+FIRST and FOLLOW, and parsers (expect for intutive working of LR(1) parser).
+
+But time is less.
+
+The goal is to complete CD tommorow, while making notes.
+Then next day revise CN. 1 day is enough. It is not a hard subject.
+I have already revised it's 1st chapter.
+
+

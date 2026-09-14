@@ -1,0 +1,1 @@
+  * [[//Shekhar-2025-04-13-12-54-57/How to study well#^AdtQHNZnY|For examples use wiki or kids video or the book summary or "fun experiment books" or "interesting things about topic-x". ^AdtQHNZnY]]

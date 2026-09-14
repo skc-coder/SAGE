@@ -1,0 +1,13 @@
+---
+tags:
+  - fav
+---
+- [ ] learn dataview
+- [ ] learn mathjax
+- [ ] learn tasks plugin
+- [ ] learn other obsidian extensions
+- [ ] learn typst
+- [ ] learn linux debugging
+- [x] lab record do #college ⏳ 2026-04-04 ✅ 2026-04-17
+- [x] zovyrn coding assesment 📅 2026-04-04 ✅ 2026-04-04
+- [ ] Learn lakhs, billion etc

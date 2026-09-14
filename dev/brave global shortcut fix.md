@@ -1,0 +1,2 @@
+- Before the Chrome team fixes the bug, you can modify the application file of Chrome under `/usr/share/applications` and add the flag `–disable-features=GlobalShortcutsPortal` to the command line to temporarly disable this feature.
+- https://discuss.kde.org/t/kde-shortcut-settings-popup-appears-every-chromium-launch-after-update/32697/6

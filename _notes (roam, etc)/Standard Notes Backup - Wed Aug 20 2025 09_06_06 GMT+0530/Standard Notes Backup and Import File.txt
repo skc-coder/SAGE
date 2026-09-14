@@ -1,0 +1,1278 @@
+{
+  "version": "004",
+  "items": [
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Start studying. If you cant then this is not the right time.",
+        "title": "How to decide if you cant study right now?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-14T06:12:30.482Z"
+          }
+        },
+        "preview_plain": "Start studying. If you cant then this is not the right time."
+      },
+      "created_at_timestamp": 1652508706313000,
+      "created_at": "2022-05-14T06:11:46.313Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1652508752121747,
+      "updated_at": "2022-05-14T06:12:32.121Z",
+      "uuid": "d9e2ad11-5f30-4f0b-82ee-6d8c4c26f452"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Level\tMarks\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nChemistry\thttps://jeeadv.ac.in/documents/IB-2022-English.pdf\t\t\thttps://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2022/03/2022030181.pdf\t\t\tPhysics\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nInorganic\t\t\tOrganic\t\t\t\tBasics\t\t\tDevices\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nHydrogen\tAll\t80%\tPurification\t\t\t\tKinematics\t\t\tCommunications\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nComplex\tL1, Mains\t64%\tIntro\t\t\t\tLAWS OF MOTION\t\t\tExperiments\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nBonding\tL1\t\tHyrocarbons\t\t\t\tEnergy\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nPeriodic\tL1\t\tBiomoleculues\t\t\t\tRotational\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ns block\t\t\tChem in life\tMains\t66.27\t\tGraviatation\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\np block\t\t\tPolymers\t\t\t\tSolids\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nd/f block\t\t\t\t\t\t\tLiquids\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nNaming\tDONE.\t\t\t\t\t\tThermodynamics\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nEnviorment\tMains\t80%\t\t\t\t\tKTG\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nMetallurgy\tL1, Mains, Advanced\t84%, 90%, 70%\t\t\t\t\tOscillation\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nPhysical\t\t\tExtra\t\t\t\tWaves\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nMole Chemistry\t\t\tQualitative analysis\t\t\t\tElectrosatics\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nAtomic strcutre\t\t\tGIC\tDone.\t\t\tCurrent\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nThermo\t\t\t\t\t\t\tMagnetism\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nSolutions\t\t\t\t\t\t\tAC\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nEquilibirum\t\t\t\t\t\t\tEMW\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nRedox\t\t\t\t\t\t\tRay Optics\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nKinetics\t\t\t\t\t\t\tWave Optics\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nSurface \t\t\t\t\t\t\tDual Nature\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nSolid\t\t\t\t\t\t\tAtoms\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\"Liquids\nGases\"\t\t\t\t\t\t\tNuclie\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nMathematics\t\t\t\t\t\t\tCurrently\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nSets\t\t\tEllipse\t\t\t\tSurface\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nFunctions\t\t\t3D\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nComplexes\t\t\tVectors\tL1\t80%,\t\t3D\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nQuadratic\t\t\tStatistics\t\t\t\tSets and functions\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nMatrices\t\t\tProbablity\t\t\t\tSolids\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nDeterminats\t\t\tTrig\t\t\t\tMatrices\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nPnC\t\t\tReasoning\t\t\t\tDeterminaits\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nInduction\t\t\tInverse trig\t\t\t\tBT\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nBT\t\t\t\t\t\t\tSeries\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nSeries\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nLimits\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nContinutiy\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nDiffrentiation\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nIntegral Calculus\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nDiffrential\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nLine\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nCircles\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nParabola\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nHyperbola\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "title": "Note 3",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-14T07:03:14.853Z"
+          }
+        },
+        "preview_plain": "Level\tMarks\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nChemistry\thttps://jeeadv.ac.in/documents/IB-2...",
+        "trashed": true
+      },
+      "created_at_timestamp": 1652511779989000,
+      "created_at": "2022-05-14T07:02:59.989Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1652511818167433,
+      "updated_at": "2022-05-14T07:03:38.167Z",
+      "uuid": "55d9ee11-c480-4e8b-889e-72a05c3480cc"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "If you cant understand a line, solve a question then don't move ahead take break then retry.",
+        "title": "Dont leave for tommorow just take break.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-14T10:25:22.457Z"
+          }
+        },
+        "preview_plain": "If you cant understand a line, solve a question then don't move ahead take break..."
+      },
+      "created_at_timestamp": 1652511906795000,
+      "created_at": "2022-05-14T07:05:06.795Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1652523924695533,
+      "updated_at": "2022-05-14T10:25:24.695Z",
+      "uuid": "57f21941-3f26-4781-be87-b8eb6480931d"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "When you can't understand, remember something the problem may be in the source. Alok sir, the chemistry teacher, was explaining things in not so pedagogical way so I searched on YouTube and found H to I chemistry. The best study channel-also MT as well-I have seen. The teacher is so knowledgeable!",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-20T02:01:07.038Z"
+          }
+        },
+        "title": "The problem may be in the source.",
+        "preview_plain": "When you can't understand, remember something the problem may be in the source. ..."
+      },
+      "created_at_timestamp": 1653011912590000,
+      "created_at": "2022-05-20T01:58:32.590Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653012068794509,
+      "updated_at": "2022-05-20T02:01:08.794Z",
+      "uuid": "bb4fbd17-9d45-4f42-9d01-1759726f5193"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "Dont eat much food; then you cant study later.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-20T07:26:44.974Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1653031593185000,
+      "created_at": "2022-05-20T07:26:33.185Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653031605816387,
+      "updated_at": "2022-05-20T07:26:45.816Z",
+      "uuid": "20b81076-ed90-4202-9138-496ad58466fe"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "So don't try to study when you're not in the mood to. Ask what you had like to do and do it.",
+        "title": "You cant study against my will.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-21T00:55:28.091Z"
+          }
+        },
+        "preview_plain": "So don't try to study when you're not in the mood to. Ask what you had like to d..."
+      },
+      "created_at_timestamp": 1653041968164000,
+      "created_at": "2022-05-20T10:19:28.164Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653094529394004,
+      "updated_at": "2022-05-21T00:55:29.394Z",
+      "uuid": "47038d68-5144-43a3-ac10-9dd484c40330"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Don't skip a questions, or topic.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-21T00:55:46.130Z"
+          }
+        },
+        "title": "Don't run from fears.",
+        "preview_plain": "Don't skip a questions, or topic."
+      },
+      "created_at_timestamp": 1652629388060000,
+      "created_at": "2022-05-15T15:43:08.060Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653094547449500,
+      "updated_at": "2022-05-21T00:55:47.449Z",
+      "uuid": "7637e216-aff4-4a05-a509-d09e3243cc88"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Anki review cards set to latest.\nWatch the film kitaab.\nListen modis tip.\nWatch sblock leatures,\nSunsrication videos,\nsleep 40 min+20 mins\nncert chemi\nthe book\n",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-22T03:58:25.776Z"
+          }
+        },
+        "title": "Todo",
+        "preview_plain": "Anki review cards set to latest.\nWatch the film kitaab.\nListen modis tip.\nWatch ..."
+      },
+      "created_at_timestamp": 1652801338943000,
+      "created_at": "2022-05-17T15:28:58.943Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653191906126994,
+      "updated_at": "2022-05-22T03:58:26.126Z",
+      "uuid": "7b1e40c2-2520-4668-a31c-eca4bc03cd0a"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Anki review cards set to latest.\nUses of the metals.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-22T05:19:06.706Z"
+          }
+        },
+        "title": "Todo",
+        "preview_plain": "Anki review cards set to latest.\nUses of the metals.",
+        "trashed": true
+      },
+      "created_at_timestamp": 1652801338943000,
+      "created_at": "2022-05-17T15:28:58.943Z",
+      "deleted": false,
+      "duplicate_of": "7b1e40c2-2520-4668-a31c-eca4bc03cd0a",
+      "updated_at_timestamp": 1653314799502853,
+      "updated_at": "2022-05-23T14:06:39.502Z",
+      "uuid": "ed1d304d-a601-4373-9724-461ab45f7449"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Wise men know that something should be left for tomorrow. Don't do one work for more time; this will break your body and you won't be able to do anything after that.",
+        "title": "Dont try to build rome in one day.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-24T01:28:55.444Z"
+          }
+        },
+        "preview_plain": "Wise men know that something should be left for tomorrow. Don't do one work for ..."
+      },
+      "created_at_timestamp": 1653355662356000,
+      "created_at": "2022-05-24T01:27:42.356Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653355735741816,
+      "updated_at": "2022-05-24T01:28:55.741Z",
+      "uuid": "dbc5937b-e205-4fbe-8d95-ba38928cb1e9"
+    },
+    {
+      "content_type": "Tag",
+      "content": {
+        "title": "Books",
+        "references": [
+          {
+            "uuid": "2ffb54fc-f749-4be4-a160-bd606e989d23",
+            "content_type": "Note"
+          }
+        ],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-25T05:45:22.149Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1653457522135000,
+      "created_at": "2022-05-25T05:45:22.135Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653457522823648,
+      "updated_at": "2022-05-25T05:45:22.823Z",
+      "uuid": "9c5e0997-d961-439c-bff1-3a48a754ebd2"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Father wants to make Tarbooj Panner with the skin pulp. I felt angry (not that), and the thing to not e is that this is the first strong emotion I felt after a while preparing for JEE.",
+        "title": "Tarbooj Panner!",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-27T01:33:09.480Z"
+          }
+        },
+        "preview_plain": "Father wants to make Tarbooj Panner with the skin pulp. I felt angry (not that),..."
+      },
+      "created_at_timestamp": 1653614177347000,
+      "created_at": "2022-05-27T01:16:17.347Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653615190812937,
+      "updated_at": "2022-05-27T01:33:10.812Z",
+      "uuid": "31385230-9138-410d-b7ff-990ce4c05d90"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "Why is Michels sullivans book so good?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-28T02:52:05.424Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1653706313983000,
+      "created_at": "2022-05-28T02:51:53.983Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653706325381477,
+      "updated_at": "2022-05-28T02:52:05.381Z",
+      "uuid": "abb4ca4f-93f3-4542-8edd-439e3ba06ffa"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Brush. \nMilk.",
+        "title": "Mind full list.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-28T05:09:15.996Z"
+          }
+        },
+        "preview_plain": "Brush. \nMilk.",
+        "trashed": true
+      },
+      "created_at_timestamp": 1653714540261000,
+      "created_at": "2022-05-28T05:09:00.261Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653714793639442,
+      "updated_at": "2022-05-28T05:13:13.639Z",
+      "uuid": "a3ee46ab-5847-4ce0-8e4d-0baf1288fdcc"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Brush. \nMilk.\nExercise.\nDrinking.\nSitting.\nSpend 2 minutes in bed just being.\nWrite on summer m, fsvriitie color, sound. What you like about and don't like. Go collect things characteristic to this season.",
+        "title": "Mindfulness list.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-28T05:13:57.437Z"
+          }
+        },
+        "preview_plain": "Brush. \nMilk.\nExercise.\nDrinking.\nSitting.\nSpend 2 minutes in bed just being.\nWr..."
+      },
+      "created_at_timestamp": 1653714540261000,
+      "created_at": "2022-05-28T05:09:00.261Z",
+      "deleted": false,
+      "duplicate_of": "a3ee46ab-5847-4ce0-8e4d-0baf1288fdcc",
+      "updated_at_timestamp": 1653714838927797,
+      "updated_at": "2022-05-28T05:13:58.927Z",
+      "uuid": "e47df00d-605c-4476-bb71-31d54cf4c504"
+    },
+    {
+      "content_type": "SN|UserPreferences",
+      "content": {
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-29T14:25:45.538Z",
+            "useSystemColorScheme": true,
+            "autoLightThemeIdentifier": "Default",
+            "autoDarkThemeIdentifier": "Default",
+            "tagsPanelWidth": 205,
+            "editorWidth": null,
+            "editorLeft": 26,
+            "notesPanelWidth": 382
+          }
+        }
+      },
+      "created_at_timestamp": 1646664467330000,
+      "created_at": "2022-03-07T14:47:47.330Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653834347020152,
+      "updated_at": "2022-05-29T14:25:47.020Z",
+      "uuid": "cd3e9767-79e0-47b1-a183-01ef7724e351"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "How to read all the books?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-29T14:30:58.544Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1653834630026000,
+      "created_at": "2022-05-29T14:30:30.026Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653834660121968,
+      "updated_at": "2022-05-29T14:31:00.121Z",
+      "uuid": "8ba1b4c6-6f9c-48df-8f9a-f5d429a0141f"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "How were euler and like able to achieve so much in so many fields?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-29T14:31:41.447Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1653834669726000,
+      "created_at": "2022-05-29T14:31:09.726Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653834702883098,
+      "updated_at": "2022-05-29T14:31:42.883Z",
+      "uuid": "2e1e697c-5a42-410d-8a2a-11c0175cc2cb"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "How to be Healthy",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-29T14:31:56.685Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1653834704049000,
+      "created_at": "2022-05-29T14:31:44.049Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653834718031934,
+      "updated_at": "2022-05-29T14:31:58.031Z",
+      "uuid": "75e5e33e-5156-45d5-af92-47bd27710f2c"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "How to study like einstein?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-29T14:32:22.586Z"
+          }
+        },
+        "preview_plain": ""
+      },
+      "created_at_timestamp": 1653834660048000,
+      "created_at": "2022-05-29T14:31:00.048Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653834744205293,
+      "updated_at": "2022-05-29T14:32:24.205Z",
+      "uuid": "290fbc8d-587d-4cb3-aaeb-da114197d893"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-29T14:32:32.130Z"
+          }
+        },
+        "trashed": true
+      },
+      "created_at_timestamp": 1653834749091000,
+      "created_at": "2022-05-29T14:32:29.091Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653836267189366,
+      "updated_at": "2022-05-29T14:57:47.189Z",
+      "uuid": "780c1bcf-23f4-4718-945f-a5913538836d"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Whenever you get the urge just play the stumble guys game outside or in a different crowded room.\nDon't think about anything that may lead to it, for that is what you want.\nDon't promise that you'll do it when you are not in critical thinking.\nArgue and analyze the reason the mind offers you to do it. \nMake fun of its reasons.\nIt can ruin your *whole* life. You won't be able to study physics, can't eat with family, cant guide the brothers, can't talk with parents... \nFor an instant of pleasure, do you want to risk also of that? Your family, career, life?\nYou are human, you can reason, you can control yourself. Don't say you can not, for you can. Don't be an animal which lives on in instincts. Be reasonable. \nAlso, note that even if done cleanly it feels not good physically.\nAnd finally, remember that instantly after doing it you will regret it, you will be very sad. You know that after that the reason given by the mind will seem stupid, you will hate yourself.\nYou don’t give your bag of potato chips a menacing aura of power. They’re just potato chips. \nAristotle said, “We are what we repeatedly do.” And it’s true. Cognitive psychology has shown again and again that our behaviour shapes how we think and feel. Action shapes who we are.\nYou have other interests.\nThe way you get to be the “guy who doesn’t look at porn” is to start acting like a guy who doesn’t look at porn. Act as if; fake it until you make it.\nThings can get better. Can go better.\n",
+        "title": "On the habit.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-28T09:36:05.328Z"
+          }
+        },
+        "preview_plain": "Whenever you get the urge just play the stumble guys game outside or in a differ..."
+      },
+      "created_at_timestamp": 1653195541852000,
+      "created_at": "2022-05-22T04:59:01.852Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653837040712772,
+      "updated_at": "2022-05-29T15:10:40.712Z",
+      "uuid": "ba01eb56-5631-4af1-8fbe-dbc41f607519"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Old distsaticon lost taught.",
+        "title": "Old distractions, new distractions.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-29T15:58:01.248Z"
+          }
+        },
+        "preview_plain": "Old distsaticon lost taught."
+      },
+      "created_at_timestamp": 1653839863779000,
+      "created_at": "2022-05-29T15:57:43.779Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653894681160779,
+      "updated_at": "2022-05-30T07:11:21.160Z",
+      "uuid": "a8963ccc-375e-46bf-9605-90d4008850b7"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "If a book is logical, explanatory, elegant, on the topic that interests us, then the book will be fun to read.",
+        "title": "What makes a book fun to read?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-30T07:29:53.174Z"
+          }
+        },
+        "preview_plain": "If a book is logical, explanatory, elegant, on the topic that interests us, then..."
+      },
+      "created_at_timestamp": 1653895711656000,
+      "created_at": "2022-05-30T07:28:31.656Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653895793665090,
+      "updated_at": "2022-05-30T07:29:53.665Z",
+      "uuid": "489e94c4-3081-419c-9d27-328b861a2378"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "The book should be understandable, rememberable, and fun.\nHow to understand.\nHow to remember.\nHow to learn with fun.",
+        "title": "Ideal book.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-30T07:10:39.100Z"
+          }
+        },
+        "preview_plain": "The book should be understandable, rememberable, and fun.\nHow to understand.\nHow...",
+        "trashed": true
+      },
+      "created_at_timestamp": 1653839575377000,
+      "created_at": "2022-05-29T15:52:55.377Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653895813741233,
+      "updated_at": "2022-05-30T07:30:13.741Z",
+      "uuid": "6fb15596-f386-4fc6-9cbc-ca99649ad4a7"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "After being sick for about 5-6 days I realised that my madness is caused by vitamin deficiency-V B. I also realized that since I didn't play for years my body had become very fragile. And indeed it has become. When I try to run I feel wired as if I had forgotten to even run! Of course, I can't study well and feel comfortable when I can't even run. When I first entered the ground (in front of the military uncle's house) I felt wired. Everything from the roof seemed small but when I came down everything was big. I found that the ground was also big. I felt agitated at first thinking log kya khanege-even me the communist level liberal thinks that! I first played maardhar. ",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-31T02:40:22.308Z"
+          }
+        },
+        "title": "Me playing after years.",
+        "preview_plain": "After being sick for about 5-6 days I realised that my madness is caused by vita...",
+        "protected": true
+      },
+      "created_at_timestamp": 1652450968756000,
+      "created_at": "2022-05-13T14:09:28.756Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653964822014416,
+      "updated_at": "2022-05-31T02:40:22.014Z",
+      "uuid": "fc01d7e0-ca3b-42e7-9795-4d8088e7b5d1"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "For the learning done with those is fragile-it will rot someday; sooner or later.",
+        "title": "Never learn without rigour, and reason.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-31T06:22:13.933Z"
+          }
+        },
+        "preview_plain": "For the learning done with those is fragile-it will rot someday; sooner or later..."
+      },
+      "created_at_timestamp": 1653978077505000,
+      "created_at": "2022-05-31T06:21:17.505Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653978134073162,
+      "updated_at": "2022-05-31T06:22:14.073Z",
+      "uuid": "d5339a4a-0ece-49fd-bcc3-8bb25b28fbb0"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "1. Religious sin-previtve and strong will to reists.\n2. Harmful (science and social knowdlgege) and people know it-previntive.\n3. They have family-strong will to reists.\n4. They have never tried it.\n\nSo religion, social knowledge, family, and science prevent people from even trying that. When they did try it then again do to the same they may completely stop doing it and whoever they get urge their will being so strong suppress it and brain forgets and gets back to \"untried state\". One may become adcd to it, usually because they dont belive in reilgon or science, hate world and family..... Usally people get habit of it but it in moderation. Becuase of the same and because their habit gets attached to a event that doesn't happen much (like party) but it doesn't get into their life because of the same.",
+        "title": "Why not everyone is ad..",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-31T10:15:39.009Z"
+          }
+        },
+        "preview_plain": "1. Religious sin-previtve and strong will to reists.\n2. Harmful (science and soc..."
+      },
+      "created_at_timestamp": 1653987673328000,
+      "created_at": "2022-05-31T09:01:13.328Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653992139247224,
+      "updated_at": "2022-05-31T10:15:39.247Z",
+      "uuid": "6d1eecee-cf71-4494-8f61-c34b7b4285c8"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Change the cue to completing a chapter in physics.\nChange the routine by doing exriece. Use puresion that you just have to get outside-anybody can do that. Open the app-very simple....\n\nThings to keep in mind:\nDon't search things which may led to it,\nDon't imagine things...........\nWill power is the central thing. It all boils down to you choosing not to do it.",
+        "title": "How to get out of the ad...?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-31T10:20:33.942Z"
+          }
+        },
+        "preview_plain": "Change the cue to completing a chapter in physics.\nChange the routine by doing e..."
+      },
+      "created_at_timestamp": 1653992258291000,
+      "created_at": "2022-05-31T10:17:38.291Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1653992434365472,
+      "updated_at": "2022-05-31T10:20:34.365Z",
+      "uuid": "bbf44488-11db-4ba0-918a-d9822ab43f8b"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Book should be understandable, rememberable, fun.\nHow to understand. Why is don Quixote so easy to understand?\nHow to remember. Why stories easy to remember?",
+        "title": "Ideal book.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T01:16:00.418Z"
+          }
+        },
+        "preview_plain": "Book should be understandable, rememberable, fun.\nHow to understand. Why is don ..."
+      },
+      "created_at_timestamp": 1653839575377000,
+      "created_at": "2022-05-29T15:52:55.377Z",
+      "deleted": false,
+      "duplicate_of": "6fb15596-f386-4fc6-9cbc-ca99649ad4a7",
+      "updated_at_timestamp": 1654046161196566,
+      "updated_at": "2022-06-01T01:16:01.196Z",
+      "uuid": "fbed3971-c7f4-4ba8-aff8-1c40b7252001"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "What makes something easy to understand and others hard? How can we understand those? What if there is no good source?",
+        "title": "On understanding.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T01:17:04.299Z"
+          }
+        },
+        "preview_plain": "What makes something easy to understand and others hard? How can we understand t..."
+      },
+      "created_at_timestamp": 1654046173897000,
+      "created_at": "2022-06-01T01:16:13.897Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654046225394525,
+      "updated_at": "2022-06-01T01:17:05.394Z",
+      "uuid": "2339d388-27c5-4923-a174-81e4f25e3c89"
+    },
+    {
+      "content_type": "Tag",
+      "content": {
+        "title": "Jounral",
+        "references": [
+          {
+            "uuid": "fc01d7e0-ca3b-42e7-9795-4d8088e7b5d1",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "bb4fbd17-9d45-4f42-9d01-1759726f5193",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "31385230-9138-410d-b7ff-990ce4c05d90",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "726be8f9-8f89-4a0c-94b3-37cef738b0c5",
+            "content_type": "Note"
+          }
+        ],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T06:31:02.982Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1652451680631000,
+      "created_at": "2022-05-13T14:21:20.631Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654065063355700,
+      "updated_at": "2022-06-01T06:31:03.355Z",
+      "uuid": "f982d9d4-16e6-4811-be4f-23ba2a2e72d9"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "After so much time I finally finshed this beast. Took 21 pm 5 hours. If I can do it then I can do anything.",
+        "title": "Finally completed AC",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T06:31:53.519Z"
+          }
+        },
+        "preview_plain": "After so much time I finally finshed this beast. Took 21 pm 5 hours. If I can do..."
+      },
+      "created_at_timestamp": 1654065054880000,
+      "created_at": "2022-06-01T06:30:54.880Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654065114335954,
+      "updated_at": "2022-06-01T06:31:54.335Z",
+      "uuid": "726be8f9-8f89-4a0c-94b3-37cef738b0c5"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Every one can be corrupted (ie belive=ing ver false and harmful things). In earlier time it used to be done mainly by parents, society, and books. Now a days the corruptor include, including the previous ones, YT, websites, TV, news...",
+        "title": "On corruption.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T09:30:40.707Z"
+          }
+        },
+        "preview_plain": "Every one can be corrupted (ie belive=ing ver false and harmful things). In earl..."
+      },
+      "created_at_timestamp": 1654075210419000,
+      "created_at": "2022-06-01T09:20:10.419Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654075841349221,
+      "updated_at": "2022-06-01T09:30:41.349Z",
+      "uuid": "8376e976-7634-44bc-b391-844461b61deb"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "1. Try not to sleep (but not forcefully). Think about a thing that is productive and not stressful. You will find yourself drifting to sleep in a short time. Of course you need to be in good environment and position.",
+        "title": "How to sleep?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T09:32:38.558Z"
+          }
+        },
+        "preview_plain": "1. Try not to sleep (but not forcefully). Think about a thing that is productive..."
+      },
+      "created_at_timestamp": 1654075850757000,
+      "created_at": "2022-06-01T09:30:50.757Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654075959332183,
+      "updated_at": "2022-06-01T09:32:39.332Z",
+      "uuid": "4ce52b75-cdee-4452-8b2d-760cc2644a42"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Fill journal and find general principles and how to study physics and maths and continue in life. What philosophy to have. What channel to watch. What friends to make. What to do. How to be healthy. How this study. How to teach. How to earn. How to be smart. Read books. Inspire. Comment. Write articles. ",
+        "title": "What to do in holiday?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T12:01:53.932Z"
+          }
+        },
+        "preview_plain": "Fill journal and find general principles and how to study physics and maths and ..."
+      },
+      "created_at_timestamp": 1654084810131000,
+      "created_at": "2022-06-01T12:00:10.131Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654084915409604,
+      "updated_at": "2022-06-01T12:01:55.409Z",
+      "uuid": "6129b6f6-1c34-4d81-8dfa-4cd2a091d525"
+    },
+    {
+      "content_type": "Tag",
+      "content": {
+        "title": "todos",
+        "references": [
+          {
+            "uuid": "8fa52a62-dd8a-48bf-b572-36f10ec8109a",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "a3ee46ab-5847-4ce0-8e4d-0baf1288fdcc",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "e47df00d-605c-4476-bb71-31d54cf4c504",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "6129b6f6-1c34-4d81-8dfa-4cd2a091d525",
+            "content_type": "Note"
+          }
+        ],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T12:01:59.922Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1652542989193000,
+      "created_at": "2022-05-14T15:43:09.193Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654084921849722,
+      "updated_at": "2022-06-01T12:02:01.849Z",
+      "uuid": "e61b56c5-0e13-4ade-95be-ddc9e0629085"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "First, don't try to do any study or use the phone. Second, don't blame it yourself it may make it worse and it won't cure it. Then do the followings:\n1. Wash. Then check.\n2. Clean.\n3. Clean laptop.\n4. Finally try to get a nap.\n5. Chop vegetables (Call PAPA/Mummy).\n6. Do exercise.",
+        "title": "What to do when sleepness hits?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T14:10:13.102Z"
+          }
+        },
+        "preview_plain": "First, don't try to do any study or use the phone. Second, don't blame it yourse..."
+      },
+      "created_at_timestamp": 1654092430690000,
+      "created_at": "2022-06-01T14:07:10.690Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654092615088954,
+      "updated_at": "2022-06-01T14:10:15.088Z",
+      "uuid": "c302f38f-7777-49ed-8a4b-8468f5b34523"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Breathe for 3 seconds then hold and then release for 5 seconds. Stress meditation on smiling mind.\nOr go outside and water plants.",
+        "title": "How to stop panic attack.",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T14:11:51.105Z"
+          }
+        },
+        "preview_plain": "Breathe for 3 seconds then hold and then release for 5 seconds. Stress meditatio..."
+      },
+      "created_at_timestamp": 1653974874147000,
+      "created_at": "2022-05-31T05:27:54.147Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654092713324846,
+      "updated_at": "2022-06-01T14:11:53.324Z",
+      "uuid": "480ab8c4-e37b-4a32-b1c9-e44dbde8240b"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "What slows me?\nSleepness. See tip.\nSickness-go to walk, exercise, eat well, sleep well, and take breaks.\nNervousness-calm by going outside and watering plants and deep breathing.\nDoubt clarifying question, searching for an answer, posting on SE…\nSlowness at start-start by studying summary.\nTrying to read from many sources-just don't.\nStudying when not in good form-please in God's name don't try it.\nMaking cards-nothing.\nTrying to understand-cant do anything.\nMaking mneomics-cant do anything.\n",
+        "title": "How to study faster?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T14:13:49.841Z"
+          }
+        },
+        "preview_plain": "What slows me?\nSleepness. See tip.\nSickness-go to walk, exercise, eat well, slee..."
+      },
+      "created_at_timestamp": 1654090987002000,
+      "created_at": "2022-06-01T13:43:07.002Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654092831993429,
+      "updated_at": "2022-06-01T14:13:51.993Z",
+      "uuid": "2ff78c4b-6b07-436e-9779-cd872a537f38"
+    },
+    {
+      "content_type": "Tag",
+      "content": {
+        "title": "tips",
+        "references": [
+          {
+            "uuid": "d9e2ad11-5f30-4f0b-82ee-6d8c4c26f452",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "57f21941-3f26-4781-be87-b8eb6480931d",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "7637e216-aff4-4a05-a509-d09e3243cc88",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "bb4fbd17-9d45-4f42-9d01-1759726f5193",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "20b81076-ed90-4202-9138-496ad58466fe",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "47038d68-5144-43a3-ac10-9dd484c40330",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "ba01eb56-5631-4af1-8fbe-dbc41f607519",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "dbc5937b-e205-4fbe-8d95-ba38928cb1e9",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "a3ee46ab-5847-4ce0-8e4d-0baf1288fdcc",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "e47df00d-605c-4476-bb71-31d54cf4c504",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "480ab8c4-e37b-4a32-b1c9-e44dbde8240b",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "d5339a4a-0ece-49fd-bcc3-8bb25b28fbb0",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "bbf44488-11db-4ba0-918a-d9822ab43f8b",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "726be8f9-8f89-4a0c-94b3-37cef738b0c5",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "8376e976-7634-44bc-b391-844461b61deb",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "4ce52b75-cdee-4452-8b2d-760cc2644a42",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "6129b6f6-1c34-4d81-8dfa-4cd2a091d525",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "2ff78c4b-6b07-436e-9779-cd872a537f38",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "c302f38f-7777-49ed-8a4b-8468f5b34523",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "45394b65-3250-4717-aa19-e96ff57a75b3",
+            "content_type": "Note"
+          }
+        ],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T14:20:22.725Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1652508755770000,
+      "created_at": "2022-05-14T06:12:35.770Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654093224308841,
+      "updated_at": "2022-06-01T14:20:24.308Z",
+      "uuid": "cfdc9a05-501c-481a-a55c-9ce9a5ccc9cb"
+    },
+    {
+      "content_type": "Tag",
+      "content": {
+        "title": "Article",
+        "references": [
+          {
+            "uuid": "8ba1b4c6-6f9c-48df-8f9a-f5d429a0141f",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "290fbc8d-587d-4cb3-aaeb-da114197d893",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "2e1e697c-5a42-410d-8a2a-11c0175cc2cb",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "edd2fb40-b9bf-4a22-9746-aaa574a32231",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "75e5e33e-5156-45d5-af92-47bd27710f2c",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "da318b27-81fd-4d2c-8798-5fd65c61347d",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "780c1bcf-23f4-4718-945f-a5913538836d",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "489e94c4-3081-419c-9d27-328b861a2378",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "6d1eecee-cf71-4494-8f61-c34b7b4285c8",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "bbf44488-11db-4ba0-918a-d9822ab43f8b",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "2339d388-27c5-4923-a174-81e4f25e3c89",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "8376e976-7634-44bc-b391-844461b61deb",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "4ce52b75-cdee-4452-8b2d-760cc2644a42",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "2ff78c4b-6b07-436e-9779-cd872a537f38",
+            "content_type": "Note"
+          },
+          {
+            "uuid": "45394b65-3250-4717-aa19-e96ff57a75b3",
+            "content_type": "Note"
+          }
+        ],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T14:20:24.558Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1653834353554000,
+      "created_at": "2022-05-29T14:25:53.554Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654093226153604,
+      "updated_at": "2022-06-01T14:20:26.153Z",
+      "uuid": "a8fb1f02-ff31-485c-8294-36ffec7257a6"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "How to incorporate practice into learning Practice season simplest thing how to increase  solving speed",
+        "title": "",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-02T14:45:57.194Z"
+          }
+        },
+        "preview_plain": "How to incorporate practice into learning Practice season simplest thing how to ..."
+      },
+      "created_at_timestamp": 1654181063244000,
+      "created_at": "2022-06-02T14:44:23.244Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654181158789765,
+      "updated_at": "2022-06-02T14:45:58.789Z",
+      "uuid": "d77f3d17-853b-480b-bb3c-ee010d663662"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "https://s3.amazonaws.com/attachments.amplenote.com/d20c2e98-e3e2-11ec-be68-f2e2bc5c6b4b/6303ab9f-14c0-43a1-a25d-fd9680c256ea.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQKJ7DW5S6IATNCEJ%2F20220604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220604T084835Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c691419420a880e22ed5ef8b7be3c6ebec16597c95953480bec4d82c97ef2b5a\n\nhttps://s3.amazonaws.com/attachments.amplenote.com/d20c2e98-e3e2-11ec-be68-f2e2bc5c6b4b/26f87a5d-686d-4655-94c2-6043f0a4968c.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQKJ7DW5S6IATNCEJ%2F20220604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220604T085305Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9e1953c2747608e995a9f206869e7b13c6865c6c98df8c0350a5bc5a87babe72\n\nhttps://s3.amazonaws.com/attachments.amplenote.com/d20c2e98-e3e2-11ec-be68-f2e2bc5c6b4b/6303ab9f-14c0-43a1-a25d-fd9680c256ea.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQKJ7DW5S6IATNCEJ%2F20220604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220604T084835Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c691419420a880e22ed5ef8b7be3c6ebec16597c95953480bec4d82c97ef2b5a",
+        "title": "PDF",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-04T08:53:33.719Z"
+          }
+        },
+        "preview_plain": "https://s3.amazonaws.com/attachments.amplenote.com/d20c2e98-e3e2-11ec-be68-f2e2b..."
+      },
+      "created_at_timestamp": 1654332798555000,
+      "created_at": "2022-06-04T08:53:18.555Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654332814816547,
+      "updated_at": "2022-06-04T08:53:34.816Z",
+      "uuid": "18a86567-5dc5-4139-bbdd-25ef78f072d8"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "",
+        "title": "Make a list of",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-05T08:25:11.300Z"
+          }
+        }
+      },
+      "created_at_timestamp": 1654417507089000,
+      "created_at": "2022-06-05T08:25:07.089Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654417512578084,
+      "updated_at": "2022-06-05T08:25:12.578Z",
+      "uuid": "0815687a-4dbe-4fe5-bad3-69666cc7236d"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Read a chapter before actually reading it and then after months read it. You will understand it much better.",
+        "title": "",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-04T13:08:52.827Z"
+          }
+        },
+        "preview_plain": "Read a chapter before actually reading it and then after months read it. You wil...",
+        "hidePreview": false
+      },
+      "created_at_timestamp": 1654348104768000,
+      "created_at": "2022-06-04T13:08:24.768Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654438418212399,
+      "updated_at": "2022-06-05T14:13:38.212Z",
+      "uuid": "1df52855-5a40-4e85-b025-bfe742fc88ef"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "BitSat-10 June.\nNDA-7 JU",
+        "title": "Forms",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-01T14:40:12.426Z"
+          }
+        },
+        "preview_plain": "BitSat-10 June.\nNDA-7 JU",
+        "trashed": true
+      },
+      "created_at_timestamp": 1654093785563000,
+      "created_at": "2022-06-01T14:29:45.563Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654511931383161,
+      "updated_at": "2022-06-06T10:38:51.383Z",
+      "uuid": "7db2ab1c-de52-4d30-879e-355391e06cff"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "BitSat-10 June.\nSRMJEEE\nVITEE\nAmity JEE\n",
+        "title": "Forms",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-06T10:42:42.752Z"
+          }
+        },
+        "preview_plain": "BitSat-10 June.\nSRMJEEE\nVITEE\nAmity JEE\n"
+      },
+      "created_at_timestamp": 1654093785563000,
+      "created_at": "2022-06-01T14:29:45.563Z",
+      "deleted": false,
+      "duplicate_of": "7db2ab1c-de52-4d30-879e-355391e06cff",
+      "updated_at_timestamp": 1654512164054270,
+      "updated_at": "2022-06-06T10:42:44.054Z",
+      "uuid": "4705e6af-767e-4690-9773-542abaf4657a"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "1. Machine that is suitable for home which could get. Has direction connection to the supply. Replaces fridge for those who just need cool water.\n2. Flexible calendar and todo app, must be uncomplicated.\n3. A teaching-like app but with features like file sharing, schedule, test, test generator, live classes, and fees.\n4. Youtube of teaching?\n5. Brilliant-like app but for school syllabus, focusing more on remembering and understanding.\n6. A Sullivan type question setter. It will help with doing homework and practising questions over a long period. \n7. Make experimental videos on the chapters of chemistry.\n8. Flashcard for each chapter. Should ask the meaning of every hard word, technical term...\n9. A private youtube server. \n10. App that asks you for how much time you wanna use an app and then it closes it. It can be closed for 10mnutes or the whole day or can be unlocked instantly.\n11. One button sign up. We place the cursor in the text and the app fills everything and stores the password (or not).\n12. App that tells me how much time will I take to complete a chapter (based on record or centralized data).\n13. Make rigours, nobajar type content for iit.\n14. Make anki remote like. Change the way we add cards. In browser window we see chapter and in them topic and add questions.\n15. Make flashcard making easier. https://www.nimblenotes.com/\n16. Flash card app. It has browser through which we can add worss. It acts as flshcard. Tells etymology, trick, meaning. Has video and cake features. As well.\n ",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-07T15:48:53.830Z"
+          }
+        },
+        "title": "Ideas",
+        "preview_plain": "1. Machine that is suitable for home which could get. Has direction connection t..."
+      },
+      "created_at_timestamp": 1652542976457000,
+      "created_at": "2022-05-14T15:42:56.457Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654616935244817,
+      "updated_at": "2022-06-07T15:48:55.244Z",
+      "uuid": "8fa52a62-dd8a-48bf-b572-36f10ec8109a"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "The answer is based on this video.\nhttps://youtu.be/mIYdx6lDDhg\nWe have enough common sense that can solve many of our problems. So whoever you face a problem just try and sit and think on it-with refined common sense-that is scientic reasoning. Write it down here for later use.",
+        "title": "What to do when we face problems?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-06-09T14:21:18.536Z"
+          }
+        },
+        "preview_plain": "The answer is based on this video.\nhttps://youtu.be/mIYdx6lDDhg\nWe have enough c..."
+      },
+      "created_at_timestamp": 1654093192858000,
+      "created_at": "2022-06-01T14:19:52.858Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1654784480986471,
+      "updated_at": "2022-06-09T14:21:20.986Z",
+      "uuid": "45394b65-3250-4717-aa19-e96ff57a75b3"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Fap only in bathroom or washroom. No fap in room.\n\nFap only with your hand and nothing else and in no other way.\n\nUse only that site.\n\nOne fap on the decided day. \n\nIn no circumstance you would fap other than on decided date; whatever the mind may be saying, for example, that it will improve your mood or you will be able to study (this was the cause of my trip this time). Don't believe it (my study ability didn't increase).\n\nWhat will happen is that you will feel very guilty and sad and waste time on internet, all the while you want to piss. ",
+        "title": "Rules",
+        "noteType": "plain-text",
+        "editorIdentifier": "com.standardnotes.plain-text",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2023-08-03T09:42:57.717Z",
+            "pinned": true
+          }
+        },
+        "preview_plain": "Fap only in bathroom or washroom. No fap in room.\n\nFap only with your hand and nothing else and in no other way.\n\nUse only that site.\n\nOne fap on the decided da...",
+        "protected": true
+      },
+      "created_at_timestamp": 1691055499215000,
+      "created_at": "2023-08-03T09:38:19.215Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1691055785465081,
+      "updated_at": "2023-08-03T09:43:05.465Z",
+      "uuid": "de3a4bb6-3c0d-4aec-a18d-b2ecd6460072"
+    },
+    {
+      "content_type": "Note",
+      "content": {
+        "text": "Experiments 1 and 2: Determine the unproductive tasks you do and for how long. What your timetable is and what is not? Determine how much continuous work is good for you? When should you take a break? \n\nExperiment 3: How much you should sleep for the most effective work?\nMake a record of sleep habits over a long period of time and their effects on the day following it. Do it over a long period of time to normalize the results. \n\n1. Shutup most external stimuli? Intenral and External.\n2. Relax all the muscles one by one. You can do it effectively by taking a warm bath or doing special exercises.\n3. (1) by letting one’s attention follow the natural flow of the\nmental images that spontaneously float through the mind;\n(2) by rhythmical counting; (3) by thinking continuously of\nthe rocking of a ship or of sheep jumping over a low fence one\nat a time, and continuing the process in an endless chain until\nyou fall asleep; (4) by thinking of how you feel or look when\nasleep or how a child looks when it is asleep\n4. If that doesn't work go to the doctor.\n\nSecond part: Determine the most productive time of your day. \n\nThird part: Find the time you give to food and eat.  Do you start your work immediately after a meal, or do you\nplan for a period of bodily and mental rest after each meal to aid\nthe digestion of your food?  Do you live to eat, or eat to live more fully and happily?\nAnd\nHow to get good sleep? Determine good food. Eat good food. Eat digestible food.\n----\nWarm-up. It increases pule beat a hence efficiency.\nHaving incentives is sight improves efficiency.\nTry the best time for the most efficiency.\nDrugs decrease efficiency but they may seem to be doing the opposite.\nDo something extra effective if you have surplus energy?\nNatural capacity matters. Natural memory also matters. Ability to overcome form fatigue in less time. I think I have of a special type of man. I can go for years.\n\nCause of efficiency: (i) Some abuse them¬\nselves by trying to work too much and so incapacitate them¬\nselves for their best achievements by wearing themselves out\nprematurely. (2) Others do not exert themselves enough and\nso do not get out of themselves as much as they are capable of\ndoing.\nThe rate of work is due to two things : (i) one’s method\nof work and (2) mental quickness, including promptness in\ndecision and execution\nSpeed of doing work control efficiency.\nWe should have the power to concentrate all our energy on something when required.\n\nThere are two types of concentration: focused but singled and multi but not that focused.\n\nMake a journal of your undertakings and your success and failures.\n\nHave definite goal.\n\nDo the things required to reach the goal consistently.\nTo succeed in the highest way and to be able to release and\ndirect one’s energy most effectively a worker must, therefore,\nbelieve not only in the worthwhileness of his tasks but also\nin his ability to succeed. He must believe that his tasks are\nreally possible and not too difficult for him.\nIt is thus demonstrated that an unskilled clerk, with an environ¬\nment that proves the possibility of a task and suggests its easy\naccom{)lishment, can in three days succeed in doing what a skilled\nclerk, with preliminary acquaintance of live weeks with the symbols\nto be used, could only do after two weeks of s{)ecial practice, and\nthis because the latter, doubtless not a whit inferior in ability, had\nbeen led to regard the task as very difficult.",
+        "title": "How to be efficient?",
+        "references": [],
+        "appData": {
+          "org.standardnotes.sn": {
+            "client_updated_at": "2022-05-27T01:33:42.870Z"
+          }
+        },
+        "preview_plain": "Experiments 1 and 2: Determine the unproductive tasks you do and for how long. W...",
+        "trashed": false
+      },
+      "created_at_timestamp": 1653457508893000,
+      "created_at": "2022-05-25T05:45:08.893Z",
+      "deleted": false,
+      "duplicate_of": null,
+      "updated_at_timestamp": 1691056125111161,
+      "updated_at": "2023-08-03T09:48:45.111Z",
+      "uuid": "2ffb54fc-f749-4be4-a160-bd606e989d23"
+    }
+  ]
+}

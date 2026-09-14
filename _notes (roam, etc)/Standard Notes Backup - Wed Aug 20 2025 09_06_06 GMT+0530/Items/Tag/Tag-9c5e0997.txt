@@ -1,0 +1,14 @@
+{
+  "title": "Books",
+  "references": [
+    {
+      "uuid": "2ffb54fc-f749-4be4-a160-bd606e989d23",
+      "content_type": "Note"
+    }
+  ],
+  "appData": {
+    "org.standardnotes.sn": {
+      "client_updated_at": "2022-05-25T05:45:22.149Z"
+    }
+  }
+}
