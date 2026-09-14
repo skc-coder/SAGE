@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - cols-4
 title: "Database Management Systems MOC Dashboard++"
 ---
 

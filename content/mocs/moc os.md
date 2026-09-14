@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - cols-4
 title: Operating Systems
 subject: GATE CSE
 tags: [GATE, OS]

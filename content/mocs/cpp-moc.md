@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - cols-4
 title: C++ Polymorphism & Object-Oriented Architecture MOC++
 tags:
   - cpp
@@ -9,6 +10,8 @@ date: 2026-09-14
 ---
 
 ![[attachments/banners/cpp.webp|banner]]
+
+
 
 
 

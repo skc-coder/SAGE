@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - cols-4
 title: 5th ed Linear Algebra and Its Applications
 author: David Lay
 ---

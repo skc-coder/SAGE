@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - cols-4
 title: "Calculus & Analysis MOC Dashboard++"
 ---
 

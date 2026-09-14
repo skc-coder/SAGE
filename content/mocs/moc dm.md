@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - cols-4
 title: Discrete Mathematics MOC Dashboard++
 tags:
   - gate

@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - cols-4
 title: Computer Science Master MOC Dashboard++
 ---
 
