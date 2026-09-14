@@ -5,11 +5,12 @@ title: GATE Discrete Math & Probability Dashboard++
 banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
 ---
 
-<div class="title" style="color:#a855f7;">GATE MATH MODULE</div>
+<div class="title" style="color:#a855f7; font-family: 'JetBrains Mono', monospace;">GATE MATH MODULE</div>
 
 # 🧮 Discrete Math & Probability Index
 
-- 🎲 Probability Foundations
+- 🎲 Probability Foundations & Distributions
+  - [[content/mocs/moc probablity|Probability Master MOC]]
   - [[gate-cs/math/Probability foundations|Probability Foundations]]
   - [[gate-cs/math/Conditional Probability|Conditional Probability]]
   - [[gate-cs/math/Conditional Independence|Conditional Independence]]
@@ -19,11 +20,13 @@ banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=160
   - [[gate-cs/math/Tree diagrams|Tree Diagrams]]
   - [[gate-cs/math/Problems - Probability|Probability Practice Problems]]
 
-- 🧠 Logic & Algorithms
-  - [[gate-cs/math/Discrete Math MOC|Discrete Math MOC]]
+- 🧠 Logic & Discrete Mathematics
+  - [[content/mocs/moc dm|Discrete Mathematics MOC (DM)]]
   - [[gate-cs/math/Mathematical Logic - Propositional Logic Intro|Propositional Logic]]
   - [[gate-cs/math/Logical Equivalences and Laws|Equivalences & Laws]]
   - [[gate-cs/math/ai logic notes|AI Logic Notes]]
+  - [[content/mocs/moc graphs|Graph Theory MOC]]
+  - [[content/mocs/moc la|Linear Algebra MOC]]
   - [[gate-cs/math/Heap and Heap Sort|Heap & Heap Sort]]
   - [[gate-cs/math/prims|Prim's Algorithm]]
   - [[gate-cs/math/GATE PYQs — Conditional Probability & Bayes' Theorem|GATE PYQs - Bayes]]
