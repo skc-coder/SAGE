@@ -8,6 +8,7 @@ tags:
   - maths
   - graph-theory
   - moc
+banner_y: 0.5
 ---
 
 <div class="title" style="color:#10b981; font-family: 'JetBrains Mono', monospace;">GRAPH THEORY MODULE</div>

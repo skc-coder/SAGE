@@ -12,20 +12,25 @@ tags:
 
 <div class="title" style="color:#a855f7; font-family: 'JetBrains Mono', monospace;">DISCRETE MATHEMATICS MODULE</div>
 
-# 🧮 Discrete Mathematics Topic & Chapter Map
+# 🧮 Discrete Mathematics & Probability Master Map
 
-- 🧠 Proof Techniques & Logic
+- 🧠 Logic & Proof Techniques
   - Basic Proof Techniques (Direct, Contrapositive, Contradiction, Induction)
   - Propositional Logic & Quantifiers
   - [[mocs/moc-logic|Mathematical Logic MOC]]
+
+- 🎲 Probability & Statistics
+  - [[mocs/moc probablity|Probability & Random Variables MOC]]
 
 - 📐 Sets, Relations & Functions
   - [[cds/apti/notes/moc set theory|Set Theory & Relations MOC]]
   - Functions & Composition
 
-- 📊 Algebraic Structures & Combinatorics
+- 📊 Algebra & Linear Algebra
+  - [[mocs/moc la|Linear Algebra MOC]]
+  - [[mocs/moc maths|Engineering Mathematics MOC]]
   - Group Theory & Monoids
-  - [[mocs/moc-combinatorics|Combinatorics & Counting MOC]]
 
-- 🌐 Graph Theory
-  - [[mocs/moc graphs|Graph Theory MOC Dashboard]]
+- 🌐 Graph Theory & Combinatorics
+  - [[mocs/moc graphs|Graph Theory MOC]]
+  - [[mocs/moc-combinatorics|Combinatorics & Counting MOC]]
