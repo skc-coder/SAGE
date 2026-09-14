@@ -54,10 +54,15 @@ https://gateoverflow.in/402869/go-classes-iiith-pgee-2026-mock-test-4-question-7
   - 📄 [Lecture 14 Notes](#) (26 pages)
 - **Lecture 15** – Intro to Synchronization (LIVE)
   - 📄 [Lecture 15 Notes](#) (34 pages)
-- **[[Lecture 16** – Critical Section Requirements]] (94:00)
-  - 📄 [Lecture 16 Notes](#) (78 pages)
-- **Lecture 17** – Critical Section Questions (LIVE)
-  - 📄 [Lecture 17 Notes](#) (55 pages)
+- **[[Lecture 16 – Critical Section Requirements]]** (94:00)
+  - 📄 [[Shared Counter & Race Condition Mechanics]]
+  - 📄 [[Critical Section Synchronization Criteria]]
+  - 📄 [[Synchronization Primitives & Metaphors]]
+  - 📄 [[Software Synchronization Attempts]]
+  - 📄 [[Peterson's Algorithm & Order Invariant]]
+  - 📄 [[Invariant Verification Framework]]
+- **[[Lecture 17 – Critical Section Questions (LIVE)]]**
+  - 📄 [[CS problem]]
 - **Lecture 18** – Peterson's Solution | Hardware Solutions (LIVE)
   - 📄 [Lecture 18 Notes](#) (43 pages)
 - **Lecture 19** – Atomic Instructions | Semaphores (LIVE)
