@@ -36,9 +36,13 @@ Targets any image with |banner alt tag embedded in note body
 .markdown-rendered img[alt*="banner"][alt*="higher"],
 .cm-embed-block img[alt*="banner"][alt*="higher"] { object-position: 50% 70% !important; }
 
-/* Push note title and body content cleanly below the banner height */
-.inline-title,
-.metadata-container {
+/* Push note title and body content cleanly below the banner height ONLY on notes containing a banner image */
+.markdown-rendered:has(img[alt*="banner"]) .inline-title,
+.markdown-rendered:has(img[alt*="banner"]) .metadata-container,
+.cm-sizer:has(img[alt*="banner"]) .inline-title,
+.cm-sizer:has(img[alt*="banner"]) .metadata-container,
+.workspace-leaf-content:has(img[alt*="banner"]) .inline-title,
+.workspace-leaf-content:has(img[alt*="banner"]) .metadata-container {
     position: relative !important;
     z-index: 2 !important;
     margin-top: 140px !important;
