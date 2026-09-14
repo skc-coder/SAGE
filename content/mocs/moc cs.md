@@ -1,68 +1,31 @@
 ---
 cssclasses:
   - dashboard
+title: Computer Science Master MOC Dashboard++
+banner: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"
 ---
 
-## 🔢 Low-Level & Hardware
+<div class="title" style="color:#6366f1; font-family: 'JetBrains Mono', monospace;">GATE COMPUTER SCIENCE HUB</div>
 
-- [x] [[mocs/moc dl|Digital Logic MOC]] #pgee ⏳ 2026-04-19 ✅ 2026-05-03
-- [[moc es|Embedded Systems MOC]]
+# 💻 GATE CS Core Subject Maps
 
----
+- ⚙️ Low-Level & Systems
+  - [[mocs/moc os|Operating Systems MOC (OS)]]
+  - [[mocs/moc coa|Computer Organization & Architecture MOC (COA)]]
+  - [[mocs/moc dl|Digital Logic MOC (DL)]]
 
-## 🧮 Mathematics & Theory
+- 🧮 Data Structures & Algorithms
+  - [[mocs/moc dsa|Data Structures MOC (DSA)]]
+  - [[mocs/moc algo|Algorithms MOC (ALGO)]]
+  - [[mocs/cpp-moc|C++ Polymorphism & OOP Architecture MOC]]
 
-- [ ] [[mocs/moc maths]] #pgee ✅ 2026-05-03
-- [[moc toc|Theory of Computation MOC]]
+- 📡 Networks & Databases
+  - [[mocs/moc cn|Computer Networks MOC (CN)]]
+  - [[mocs/moc dbms|Database Management Systems MOC (DBMS)]]
 
----
-
-## 💻 Core CS
-
-- [x] [moc dsa](moc%20dsa.md) #pgee ✅ 2026-05-03
-- [x] [[mocs/moc algo|Algorithms MOC]] #pgee ⏳ ✅ 2026-05-03
-- [ ] [[moc plp|language design]] 
-- [x] [moc clang](lang/clang/obsidian-notes/moc%20clang.md) #pgee ✅ 2026-05-03
-
----
-
-## 🖥️ Systems
-
-- [x] [[mocs/moc os|Operating Systems MOC]] #pgee ✅ 2026-05-03
-- [[mocs/moc coa|Computer Organization & Architecture MOC]]
-- [[moc cd|Compiler Design MOC]]
-
----
-
-## 🌐 Networking & Distributed Systems
-
-- [x] [[mocs/moc cn|Computer Networks MOC]] #pgee ✅ 2026-05-03
-- [[moc dist|Distributed Systems MOC]]
-
----
-
-## 🗄️ Data & Databases
-
-- [x] [[moc rdb|Relational Databases MOC]] #pgee ✅ 2026-05-03
-- [[moc ir|Information Retrieval MOC]]
-
----
-
-## 🔐 Security
-
-- [[moc crypto|Cryptography MOC]]
-- [[moc sec|Information Security MOC]]
-
----
-
-## 🤖 AI & ML
-
-- [[moc ai|Artificial Intelligence MOC]]
-- [[moc ml|Machine Learning MOC]]
-
----
-
-## 🧰 Software Engineering
-
-- [[moc se|Software Engineering MOC]]
-- [[moc dp|Design Patterns MOC]]
+- 📐 Discrete Mathematics & Logic
+  - [[mocs/moc dm|Discrete Mathematics MOC (DM)]]
+  - [[mocs/moc probablity|Probability & Random Variables MOC]]
+  - [[mocs/moc graphs|Graph Theory MOC]]
+  - [[mocs/moc la|Linear Algebra MOC]]
+  - [[mocs/moc maths|Engineering Mathematics MOC]]

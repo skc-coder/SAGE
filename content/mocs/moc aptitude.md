@@ -1,90 +1,41 @@
 ---
 cssclasses:
   - dashboard
+title: General Aptitude & Quantitative MOC Dashboard++
+banner: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=1600&auto=format&fit=crop"
 tags:
   - aptitude
   - syllabus
-source: https://www.youtube.com/@aptitudeavenue6163
-book: arun sharma 8th edition
----
-### Verbal Aptitude
-- **[[Grammar Fundamentals]]**
-  - Tenses
-  - Articles
-  - Adjectives
-  - Prepositions
-  - Conjunctions
-  - Verb-noun Agreement
-  - Parts of Speech
-- **[[Vocabulary]]**
-
 ---
 
-### Quantitative Aptitude
+<div class="title" style="color:#eab308; font-family: 'JetBrains Mono', monospace;">GENERAL APTITUDE MODULE</div>
 
-#### Calculation Foundation
-- [[Additions & Subtractions]] — [[Problems - Additions & Subtractions|Problems]]
-- [[Multiplications]] — [[Problems - Multiplications|Problems]]
-- [[Divisions, % & Ratio]] — [[Problems - Divisions, % & Ratio|Problems]]
-- [[Squares & Cubes]] — [[Problems - Squares & Cubes|Problems]]
+# 📐 Quantitative Aptitude & Foundations
 
-#### Block I — Numbers
-- [[cds/apti/notes/Number Theory]] — [[cds/apti/notes/Problems - Number Theory|Problems]]
-  - [[cds/apti/notes/modular arithmetic]]
-- [[cds/apti/notes/Progressions]] — [[cds/apti/notes/Problems - Progressions|Problems]]
+- 🔢 Calculation & Number Theory
+  - [[cds/apti/notes/Number Theory|Number Theory & Modular Arithmetic]]
+  - [[cds/apti/notes/Progressions|Progressions (AP/GP/HP)]]
 
-#### Block II — Averages & Mixtures
-- [[cds/apti/notes/Averages]] — [[cds/apti/notes/Problems - Averages|Problems]]
-- [[cds/apti/notes/Mixture]] — [[Problems - Mixture|Problems]]
-- [[cds/apti/notes/Alligation]] — [[cds/apti/notes/Problems - Alligation|Problems]]
+- 📊 Averages, Percentages & Arithmetic
+  - [[cds/apti/notes/Averages|Averages & Weighted Means]]
+  - [[cds/apti/notes/Mixture|Mixture & Solutions]]
+  - [[cds/apti/notes/Alligation|Alligation Rules]]
+  - [[cds/apti/notes/Percentages|Percentages]]
+  - [[cds/apti/notes/Profit & Loss|Profit & Loss]]
+  - [[cds/apti/notes/Interest|Simple & Compound Interest]]
+  - [[cds/apti/notes/Ratio|Ratio & Proportion]]
+  - [[cds/apti/notes/Time and Work|Time & Work]]
+  - [[cds/apti/notes/Speed|Speed, Distance & Time]]
 
-#### Block III — Arithmetic & Word Problems
-- [[cds/apti/notes/Percentages]] — [[cds/apti/notes/Problems - Percentages|Problems]]
-- [[cds/apti/notes/Profit & Loss]] — [[Problems - Profit & Loss|Problems]]
-- [[cds/apti/notes/Interest]] — [[cds/apti/notes/Problems - Interest|Problems]]
-- [[cds/apti/notes/Ratio]] — [[cds/apti/notes/Problems - Ratio|Problems]]
-- [[cds/apti/notes/Time and Work]] — [[cds/apti/notes/Problems - Time and Work|Problems]]
-- [[cds/apti/notes/Speed]] — [[cds/apti/notes/Problems - Speed|Problems]]
-
-#### Block IV — Geometry
-- [[cds/apti/Geometry & Mensuration]] — [[Problems - Geometry & Mensuration|Problems]]
-- [[cds/apti/notes/Coordinate Geometry]] — [[Problems - Coordinate Geometry|Problems]]
-
-#### Block V — Algebra
-- [[cds/apti/notes/Trigonometry]] — [[Problems - Trigonometry|Problems]]
-- [[../cse/lang/clang/obsidian-notes/functions]] — [[Problems - Functions|Problems]]
-- [[Inequalities]] — [[Problems - Inequalities|Problems]]
-- [[Quadratic & Other Equations]] — [[Problems - Quadratic & Other Equations|Problems]]
-- [[Logarithms]] — [[Problems - Logarithms|Problems]]
-
-#### Block VI — Counting
-- [[Permutations & Combinations]] — [[Problems - Permutations & Combinations|Problems]]
-- [[mocs/moc probablity]] — [[gate-cs/math/Problems - Probability|Problems]]
-- [[cds/apti/notes/moc set theory]] — [[Problems - Set Theory|Problems]]
+- 📐 Geometry, Algebra & Counting
+  - [[cds/math/notes/trigonometry|Trigonometry]]
+  - [[mocs/moc probablity|Probability & Combinatorics MOC]]
+  - [[cds/apti/notes/moc set theory|Set Theory MOC]]
 
 ---
 
-### Analytical Aptitude
-- **Logic**
-  - [[cds/apti/notes/Blood Relations]] — [[Problems - Blood Relations|Problems]]
-  - [[cds/apti/notes/Coding Decoding]] — [[Problems - Coding Decoding|Problems]]
-  - [[Deduction & Induction]] — [[Problems - Deduction & Induction|Problems]]
-  - [[Analogy]] — [[Problems - Analogy|Problems]]
-  - [[Numerical Relations & Reasoning]] — [[Problems - Numerical Relations & Reasoning|Problems]]
-  - [ ] [[cds/apti/clock and time]]
----
+# 🧠 Verbal & Analytical Reasoning
 
-### Spatial Aptitude
-- **Shape Transformation** — [[Problems - Shape Transformation|Problems]]
-  - Translation, rotation, scaling, mirroring
-  - Assembling & grouping
-- **2D & 3D Visualization** — [[Problems - 2D & 3D Visualization|Problems]]
-  - Paper folding
-  - Cutting & patterns
-
----
-
-### Data Interpretation
-- [[Data Graphs]] — [[Problems - Data Graphs|Problems]]
-- [[2D & 3D Plots]] — [[Problems - 2D & 3D Plots|Problems]]
-- [[Maps & Tables]] — [[Problems - Maps & Tables|Problems]]
+- 📝 Verbal & Logical Reasoning
+  - [[cds/apti/notes/Blood Relations|Blood Relations]]
+  - [[cds/apti/notes/Coding Decoding|Coding & Decoding]]

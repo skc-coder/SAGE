@@ -9,26 +9,24 @@ banner: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=160
 
 # 🛡️ Combined Defence Services (CDS)
 
-- 🔬 [[dashboards/CDS General Science Dashboard|General Science & Physics]]
+- 🔬 [[dashboards/CDS General Science Dashboard|General Science & Physics Dashboard]]
   - [[cds/general-science/light|Light & Optics]]
   - [[cds/general-science/eyes|Human Eye & Vision]]
-- 🏛️ [[dashboards/CDS Humanities Dashboard|Humanities & Economy]]
+- 🏛️ [[dashboards/CDS Humanities Dashboard|Humanities & Economy Dashboard]]
   - [[cds/humanities/banking|Banking Structure & Regulation]]
   - [[cds/humanities/money|Monetary System]]
-- 📐 [[mocs/moc aptitude|Aptitude & Quantitative]]
+- 📐 [[mocs/moc aptitude|Aptitude & Quantitative MOC]]
   - [[cds/math/notes/trigonometry|Trigonometry]]
-  - [[mocs/moc aptitude|Aptitude MOC]]
 
 # 💻 GATE Computer Science MOC Hub
 
-- ⚙️ [[mocs/moc os|Operating Systems (MOC OS)]] & [[dashboards/GATE Operating Systems Dashboard|GATE OS Dashboard]]
-- 🧮 [[mocs/moc dm|Discrete Math (MOC DM)]] & [[mocs/moc probablity|Probability (MOC)]]
+- 🌐 [[mocs/moc cs|Computer Science Master MOC (CS)]]
+- ⚙️ [[mocs/moc os|Operating Systems (OS)]] & [[dashboards/GATE Operating Systems Dashboard|GATE OS Dashboard]]
+- 🧮 [[mocs/moc dm|Discrete Math (DM)]] & [[mocs/moc probablity|Probability MOC]]
   - [[dashboards/GATE Discrete Math & Probability Dashboard|GATE Discrete Math & Probability Dashboard]]
   - [[mocs/moc graphs|Graphs MOC]]
   - [[mocs/moc la|Linear Algebra MOC]]
-  - [[gate-cs/math/Probability foundations|Probability Foundations]]
-- 🏗️ [[mocs/moc dsa|Data Structures (MOC)]] & [[mocs/moc algo|Algorithms (MOC)]]
-  - [[mocs/moc cs|Computer Science Master MOC]]
+- 🏗️ [[mocs/moc dsa|Data Structures (DSA)]] & [[mocs/moc algo|Algorithms (ALGO)]]
   - [[mocs/moc cn|Computer Networks MOC]]
   - [[mocs/moc coa|COA MOC]]
   - [[mocs/moc dbms|DBMS MOC]]
@@ -37,4 +35,4 @@ banner: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=160
 
 # 🌐 System & General Foundations
 
-- 🚀 [[dashboards/System Foundations Dashboard|General & System]]
+- 🚀 [[dashboards/System Foundations Dashboard|General & System Dashboard]]
